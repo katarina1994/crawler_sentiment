@@ -1,0 +1,5 @@
+15
+www.vecernji.hr,https://www.vecernji.hr/.+/.*\w+-\w+-.+\d+$
+www.jutarnji.hr,https://www.jutarnji.hr/.+/.*\w+-\w+-.+/\d+/$
+www.24sata.hr,https://www.24sata.hr/.+/.*\w+-\w+-.+-\d+
+www.index.hr,https://www.index.hr/.*/clanak/\w+-\w+.*\d+.aspx
