@@ -46,8 +46,8 @@ for domain in domains:
 fAll = codecs.open("allLinks.txt", 'w', encoding='Windows-1250')
 links = rrsp.roundRobinSpider(pagesToVisit, domains, regexExpressions, howManyPagesToCrawl, fAll)
 fAll.close()
-   
-"""
+"""   
+
     
 cleanTextParser = ctp.CleanText()
 cleanTextParser.getCleanTextFromHtml()

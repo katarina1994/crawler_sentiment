@@ -24,14 +24,6 @@ class CleanText():
             f_clean.write(cleanTexts.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
             f_clean.close()
             numberOfLink += 1
-    """
-    def tag_visible(self, element):
-        if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
-            return False
-        if isinstance(element, Comment):
-            return False
-        return True
-    """
 
     def textFromHtml(self, html):
         soup = bs(html, 'html.parser')
@@ -40,14 +32,22 @@ class CleanText():
         
         
         texts = ""
+        # Get rid of comments below articles
+        commentSection = ""
+        #comment = soup.findAll('div', class_ = 'nickname')
+        for tag in soup.select('div[class*="comment"]'):
+            commentSection += tag.text
+        for tag in soup.select('span[class*="comment"]'):
+            commentSection += tag.text
+        for tag in soup.select('p[class*="comment"]'):
+            commentSection += tag.text
+        
         for tag in soup.findAll('p'):
-            if ((tag.attrs == {} or tag.attrs == {'sytle'}) and not tag.find('script')):
+            if (tag.text not in commentSection and (tag.attrs == {} or tag.attrs == {'sytle'}) and not tag.find('script')):
                 texts += tag.text
                 
         for tag in soup.findAll('div'):
-            if ((tag.attrs == {} or tag.attrs == {'sytle'}) and not tag.find('script')):
+            if (tag.text not in commentSection and (tag.attrs == {} or tag.attrs == {'sytle'}) and not tag.find('script')):
                 texts += tag.text
         
-        #visible_texts = filter(self.tag_visible, texts)  
-        #return u" ".join(t.strip() for t in visible_texts)
         return texts
