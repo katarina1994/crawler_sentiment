@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Zbog posjedovanja više stotina tableta ecstasyja namijenjenih prodaji, Kristijan Miloviæ (26) iz Zagreba na splitskom je Opæinskom sudu nepravomoæno osuðen na godinu i šest mjeseci zatvora." />
-<meta name="keywords" content="droga, ecstasy, Luka Ritz" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="ZAGREB - Premijer i predsjednik HDZ-a Andrej Plenkoviæ rekao je u utorak da æe u vezi s ratifikacijom Istanbulske konvencije &#034;sve biti dobro&#034; iako su pojedini èlanovi Predsjedništva stranke izrazili svoje neslaganje." />
+<meta name="keywords" content="Andrej Plenkoviæ, HDZ, Istanbulska konvencija" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>NAPADAÈ NA LUKU RITZA IDE U ZATVOR Uhvaæen na trajektu za Hvar s ogromnom kolièinom ectasyja - Jutarnji List</title>
+<title>HDZ PRED KONAÈNOM ODLUKOM: VRH STRANKE RASPRAVLJA O ISTANBULSKOJ Plenkoviæ uvjeren da æe &#039;sve biti dobro&#039;, Kovaè, Stier i Brkiæ i dalje protiv - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -176,15 +176,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "US";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Crna kronika";
+var dfpCategory = "Hrvatska";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7137441";
-var dfpArticleKeyword = "droga";
+var dfpArticle = "7152039";
+var dfpArticleKeyword = "Andrej Plenkoviæ";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -546,6 +546,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -606,8 +608,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/napadac-na-luku-ritza-ide-u-zatvor-uhvacen-na-trajektu-za-hvar-s-ogromnom-kolicinom-ectasyja/7137441/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/napadac-na-luku-ritza-ide-u-zatvor-uhvacen-na-trajektu-za-hvar-s-ogromnom-kolicinom-ectasyja/7137441/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/hdz-pred-konacnom-odlukom-vrh-stranke-raspravlja-o-istanbulskoj-plenkovic-uvjeren-da-ce-sve-biti-dobro-kovac-stier-i-brkic-i-dalje-protiv/7152039/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/hdz-pred-konacnom-odlukom-vrh-stranke-raspravlja-o-istanbulskoj-plenkovic-uvjeren-da-ce-sve-biti-dobro-kovac-stier-i-brkic-i-dalje-protiv/7152039/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -620,21 +622,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/plakat_luka_ritz-021009jpg/7137456/ALTERNATES/LANDSCAPE_1180/plakat_luka_ritz-021009.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/plenkovic_izjava24-120318jpg/7152030/ALTERNATES/LANDSCAPE_1180/plenkovic_izjava24-120318.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/plakat_luka_ritz-021009jpg/7137456/ALTERNATES/LANDSCAPE_1180/plakat_luka_ritz-021009.jpg">
-<meta property="og:title" content="NAPADAÈ NA LUKU RITZA IDE U ZATVOR Uhvaæen na trajektu za Hvar s ogromnom kolièinom ectasyja" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/plenkovic_izjava24-120318jpg/7152030/ALTERNATES/LANDSCAPE_1180/plenkovic_izjava24-120318.jpg">
+<meta property="og:title" content="HDZ PRED KONAÈNOM ODLUKOM: VRH STRANKE RASPRAVLJA O ISTANBULSKOJ Plenkoviæ uvjeren da æe 'sve biti dobro', Kovaè, Stier i Brkiæ i dalje protiv" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/napadac-na-luku-ritza-ide-u-zatvor-uhvacen-na-trajektu-za-hvar-s-ogromnom-kolicinom-ectasyja/7137441/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/hdz-pred-konacnom-odlukom-vrh-stranke-raspravlja-o-istanbulskoj-plenkovic-uvjeren-da-ce-sve-biti-dobro-kovac-stier-i-brkic-i-dalje-protiv/7152039/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Zbog posjedovanja više stotina tableta ecstasyja namijenjenih prodaji, Kristijan Miloviæ (26) iz Zagreba na splitskom je Opæinskom sudu nepravomoæno osuðen na godinu i šest mjeseci zatvora." />
+<meta property="og:description" content="ZAGREB - Premijer i predsjednik HDZ-a Andrej Plenkoviæ rekao je u utorak da æe u vezi s ratifikacijom Istanbulske konvencije "sve biti dobro" iako su pojedini èlanovi Predsjedništva stranke izrazili svoje neslaganje." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Slobodna Dalmacija">
-<meta name="twitter:title" content="NAPADAÈ NA LUKU RITZA IDE U ZATVOR Uhvaæen na trajektu za Hvar s ogromnom kolièinom ectasyja">
-<meta name="twitter:description" content="Zbog posjedovanja više stotina tableta ecstasyja namijenjenih prodaji, Kristijan Miloviæ (26) iz Zagreba na splitskom je Opæinskom sudu nepravomoæno osuðen na godinu i šest mjeseci zatvora.">
+<meta name="twitter:creator" content=" Hina">
+<meta name="twitter:title" content="HDZ PRED KONAÈNOM ODLUKOM: VRH STRANKE RASPRAVLJA O ISTANBULSKOJ Plenkoviæ uvjeren da æe 'sve biti dobro', Kovaè, Stier i Brkiæ i dalje protiv">
+<meta name="twitter:description" content="ZAGREB - Premijer i predsjednik HDZ-a Andrej Plenkoviæ rekao je u utorak da æe u vezi s ratifikacijom Istanbulske konvencije "sve biti dobro" iako su pojedini èlanovi Predsjedništva stranke izrazili svoje neslaganje.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -657,9 +659,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Crna kronika, Vijesti, Front Page",
-pubdate: "2018-03-16T11:50+01:00",
-author: "Slobodna Dalmacija",
+data: { section: "Hrvatska, Vijesti, Front Page",
+pubdate: "2018-03-20T18:50+01:00",
+author: "Hina",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -826,7 +828,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -836,7 +838,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1136,10 +1138,10 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1149,7 +1151,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1206,11 +1208,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ZALIHA ZA ULTRU
+SASTANAK
 </p>
 <h1
 class="title">
-NAPADAÈ NA LUKU RITZA IDE U ZATVOR Uhvaæen na trajektu za Hvar s ogromnom kolièinom ectasyja
+HDZ PRED KONAÈNOM ODLUKOM: VRH STRANKE RASPRAVLJA O ISTANBULSKOJ Plenkoviæ uvjeren da æe 'sve biti dobro', Kovaè, Stier i Brkiæ i dalje protiv
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1218,7 +1220,7 @@ NAPADAÈ NA LUKU RITZA IDE U ZATVOR Uhvaæen na trajektu za Hvar s ogromnom kolièi
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/slobodna-dalmacija"> Slobodna Dalmacija</a></li>
+<li> Hina</li>
 </ul>
 </p>
 </li>
@@ -1226,7 +1228,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-16.03.2018. u 11:50
+20.03.2018. u 18:50
 </p>
 </li>
 </ul>
@@ -1238,23 +1240,25 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/plakat_luka_ritz-021009jpg/7137456" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/plenkovic_izjava24-120318jpg/7152030" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/plakat_luka_ritz-021009jpg/7137456/ALTERNATES/LANDSCAPE_380/plakat_luka_ritz-021009.jpg"
+<img src="https://www.jutarnji.hr/incoming/plenkovic_izjava24-120318jpg/7152030/ALTERNATES/LANDSCAPE_380/plenkovic_izjava24-120318.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/plakat_luka_ritz-021009jpg/7137456/BINARY/thumbnail/plakat_luka_ritz-021009.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/plenkovic_izjava24-120318jpg/7152030/BINARY/thumbnail/plenkovic_izjava24-120318.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 021008.
-Na plakatu za pronalazenje ubojice Luke Ritza sa markerom je napisana provokativna poruka : Vi Frencija mi Luku.
-Foto: Vedran Djulic / CROPIX"
+alt="Zagreb, 120318. Trg zrtaca fasizma 4.
+Prostorije HDZ-a.
+Sjednica Predsjednistva i Nacionalnog vijeca HDZ-a.
+Na fotografiji: Andrej Plenkovic, Predsjednik Vlade Republike Hrvatske daje izjavu za medije.
+Foto: Goran Mehkek / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Foto: Vedran Ðuliæ / CROPIX
+<span> Goran Mehkek / CROPIX
 </span>
 </div>
 </div>
@@ -1286,14 +1290,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7137441"
+<div id="content-body-6263871-7152039"
 >
-<p>Zbog posjedovanja više stotina tableta ecstasyja namijenjenih prodaji, <strong>Kristijan Miloviæ</strong> (26) iz Zagreba na splitskom je Opæinskom sudu nepravomoæno osuðen na godinu i šest mjeseci zatvora.</p><p>Miloviæ, koji se u istražnom zatvoru nalazi od srpnja prošle godine, što mu je uraèunato u kaznu, u svojoj je &quot;karijeri&quot; skupio nekoliko pravomoænih i uvjetnih i bezuvjetnih presuda zbog kraða, krivotvorenja isprava, paljenja kontejnera po Zagrebu, a poznat je i kao jedan od napadaèa na zagrebaèkog maturanta<strong> Luku Ritza,</strong> koji je prije 10 godina bez ikakvog povoda brutalno pretuèen na autobusnoj stanici te je preminuo od posljedica premlaæivanja. Tada nije odgovarao za sudjelovanje u napadu na Ritza jer je, kako su izvještavali mediji, postupak protiv njega obustavljen buduæi da je prije njegova završetka ukrao motocikl, te je poslan u Odgojni zavod u Turopolje.</p><p>Po tadašnjim izjavama svjedoka, upravo je Miloviæ bio jedan od dvojice mladiæa koji su &quot;žicali&quot; novac, što im je samo bio povod za mahniti napad na Ritza i njegova prijatelja. Njegovo je lice bilo nacrtano na fotorobotu koji je policija tada objavila tragajuæi za napadaèima koji su se skrivali.</p><h3><strong>Priznao krivnju</strong></h3><p>Miloviæ je, pak, na splitskom sudu osuðen nakon što je 18. srpnja prošle godine uhiæen na trajektu &quot;Marjan&quot; koji je prometovao na liniji Split – Stari Grad, te je policija u njegovu ruksaku pronašla dvije plastiène vreæice s 388 tableta ecstasyja, teških 149,50 grama, te jednu plastiènu vreæicu s 2,82 grama MDMA koje je trebao dalje prodati partijanerima koji su bili na &quot;Ultri&quot;.</p><p>U svojoj obrani Miloviæ je priznao krivnju, te je rekao da je odluèio prodavati drogu jer je bio &quot;pritisnut financijskim problemima uzrokovanim kockom te konzumacijom opojnih droga, ali isto tako i nesreðenim obiteljskim odnosima&quot;.</p><p>Kazao je da mu je jednom prigodom muškarac po imenu Ivan pozajmio tisuæu kuna, što je on brzo potrošio, a nije to poslije mogao vratiti. Da bi vratio svoj dug, tvrdio je, pristao je drogu dostaviti nekome ispred pošte u Starome Gradu na otoku Hvaru. Da je u tome uspio, dobio bi odreðenu kolièinu tableta ecstasyja, a i dug bi mu bio oprošten.</p><p>Sucima je rekao i da je svjestan &quot;u kakvu se glupost upustio&quot;, te je iskazao žaljenje i kajanje zbog toga, a i obeæao je da više neæe èiniti nikakva kaznena djela.</p><p>– Ovakva vrsta i kolièina opojne droge, posebice uzevši u obzir da je okrivljenik kazneno djelo poèinio u vrijeme održavanja festivala &quot;Ultra Europe&quot; 2017. na koji dolaze mladi iz cijeloga svijeta, ukazuje na visoku organiziranost okrivljenika i namjeru da opojnu drogu preda za novèanu naknadu, a nipošto na &quot;otplatu duga&quot; stanovitom Ivanu, koji vjerojatno i ne postoji – obrazložio je, meðu ostalim, u presudi sudac <strong>Zoran Ivaniševiæ</strong>.</p>
+<p>Premijer i predsjednik HDZ-a <strong>Andrej Plenkoviæ</strong> rekao je u utorak da æe u vezi s ratifikacijom Istanbulske konvencije &quot;sve biti dobro&quot; iako su pojedini èlanovi Predsjedništva stranke izrazili svoje neslaganje.</p><p>&quot;Sve æe biti dobro&quot;, rekao je kratko Plenkoviæ novinarima prije poèetka sjednice Predsjedništva HDZ-a odgovarajuæi na upit vezan uz ratifikaciju Istanbulske konvencije, protiv èega je, kako se procjenjuje, treæina èlanova toga visokoga stranaèkog tijela.</p><p>Da nije oèekivao tolike otpore u stranci u vezi s ratifikacijom Istanbulske konvencije, rekao je potpredsjednik HDZ-a <strong>Oleg Butkoviæ</strong>, istièuæi kako je oèekivao da æe èlanovi Predsjedništva u argumentiranoj raspravi suèeliti svoja stajališta i donijeti konaènu odluku te nakon toga biti jedinstveni.</p><p>&quot;Mislim da æemo to raspraviti još jednom i donijeti najbolje stavove za stranku i Hrvatsku&quot;, rekao je. Smatra kako o toj temi raspravlja mnogo ljudi &quot;i iznosi stavove a da sami ne znaju o èemu govore&quot;.</p><p>Èlanica Predsjedništva i predsjednica HDZ-ove Zajednice žena &quot;Katarina Zrinski&quot; <strong>Nada Murganiæ</strong> novinarima nije željela iznositi detalje interpretativne izjave uz Istanbulsku konvenciju, istièuæi kako je svima na volji i savjesti da se odluèe &quot;jesmo li za nasilje ili da se štitimo od nasilja&quot;. Potvrdila je i da æe se ratifikacija Istanbulske konvencije naæi na dnevnom redu sjednice Vlade u èetvrtak.</p><h5>Kovaè: Prava žena u Hrvatskoj možemo štititi i bez Istanbulske konvencije</h5><p>Svoje neslaganje s ratifikacijom te konvencije izrazio je <strong>Darko Milinoviæ</strong>, koji je rekao kako za njega to nije politièko, nego &quot;duboko svjetonazorsko pitanje&quot;. Podsjeæajuæi kako potjeèe iz velike obitelji, poruèio je da æe, ako mora birati izmeðu Istanbulske konvencije koja pravi razliku izmeðu roda i spola te obitelji, izabrati obitelj. Milinoviæ je rekao i da æe još prièekati interpretativnu izjavu koja æe možda razriješiti neke njegove sumnje.</p><p>Istièuæi kako je veæ iznio negativno stajalište o ratifikaciji Istanbulske konvencije, politièki tajnik HDZ-a <strong>Davor Ivo Stier</strong> je rekao je da se ono nije promijenilo. Ponovio je da su zastupnici HDZ-a u Europskom parlamentu imali slobodu da glasuju po svojoj savjesti te ne vidi zašto bi zastupnici stranke u Hrvatskome saboru imali manju slobodu o tom pitanju od zastupnika u Europskom parlamentu.</p><p>Da negativno stajalište o ratifikaciji Istanbulske konvencije nije promijenio, potvrdio je i zamjenik predsjednika HDZ-a <strong>Milijan Brkiæ</strong>, koji je upitao novinare slièi li im on na neozbiljna èovjeka. &quot;Moj stav je jasan, a sve ostalo æu reæi na Predsjedništvu stranke&quot;, istaknuo je.</p><p>Meðunarodni tajnik <strong>Miro Kovaè</strong>, koji smatra da prava žena u Hrvatskoj možemo štititi i bez Istanbulske konvencije, poruèio je kako ide na &quot;lijepu raspravu koja æe pridonijeti staranaèkoj demokraciji i politièkoj kulturi u Hrvatskoj&quot;.</p><h5>Maletiæ: Problem je definicija roda i rodni identitet</h5><p>Potpredsjednici HDZ-a i zastupnici u Europskom parlamentu <strong>Ivani Maletiæ</strong> i dalje je problematièna definicija roda u Istanbulskoj konvenciji, a sporna joj je i toèka 53. iz objašnjavajuæeg izvješæa u kojoj se rodni identitet veže uz osobe koje se identificiraju rodom razlièitim od spola, pri èemu se nabrajaju transvestiti, transrodne osobe i transseksualne osobe. &quot;Moramo imati puno razumijevanje za te osobe, ali ne možemo univerzalnu definiciju postavljati temeljem pojedinaènih sluèajeva&quot;, rekla je.</p><p>Maletiæ smatra kako je o tome potrebno razgovarati, a ne stvarati ozraèje podjela ili nesnošljivosti u stranci. &quot;Toga uopæe nema, a èinjenica je da nismo u komunizmu i nema jednoumlja. Važno je da postoji više razlièitih mišljenja i daj Bože da o razlièitim temama uvijek imamo razlièitih mišljenja jer samo tako možemo graditi Hrvatsku kao dobro i kvalitetno društvo i razlièito gospodarstvo&quot;, poruèila je.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7137441 p").filter(function () {
+$("#content-body-6263871-7152039 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1302,16 +1306,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7137441").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7152039").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7137441").children().slice(max).remove();
+$("#content-body-6263871-7152039").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7137441").children().get(0);
+var firstChild = $("#content-body-6263871-7152039").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1349,18 +1353,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Luka_Ritz" class ="label label-default" >
-Luka Ritz
+<a href="https://www.jutarnji.hr/tag/Istanbulska_konvencija" class ="label label-default" >
+Istanbulska konvencija
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/ecstasy" class ="label label-default" >
-ecstasy
+<a href="https://www.jutarnji.hr/tag/HDZ" class ="label label-default" >
+HDZ
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/droga" class ="label label-default" >
-droga
+<a href="https://www.jutarnji.hr/tag/Andrej_Plenkovi%C4%87" class ="label label-default" >
+Andrej Plenkoviæ
 </a>
 </li>
 </ul>
@@ -1373,28 +1377,28 @@ Vezane vijesti
 <section>
 <article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/predsjednica-o-vrsnjackom-nasilju-27-djece-svakodnevno-je-maltretirano-potrebno-je-uvesti-jedinstven-nacionalni-program-u-sve-skole/7081968/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/plenkovic-volio-bih-vidjeti-da-oporba-bude-toliko-bezobrazna-i-bahata-pa-da-se-usudi-glasati-protiv-istanbulske-konvencije/7149789/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/predsjednica-o-vrsnjackom-nasilju-27-djece-svakodnevno-je-maltretirano-potrebno-je-uvesti-jedinstven-nacionalni-program-u-sve-skole/7081968/">
-PREDSJEDNICA O VRŠNJAÈKOM NASILJU '27% djece svakodnevno je maltretirano, potrebno je uvesti jedinstven nacionalni program u sve škole!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/plenkovic-volio-bih-vidjeti-da-oporba-bude-toliko-bezobrazna-i-bahata-pa-da-se-usudi-glasati-protiv-istanbulske-konvencije/7149789/">
+PLENKOVIÆ 'Volio bih vidjeti da oporba bude toliko bezobrazna i bahata pa da se usudi glasati protiv Istanbulske konvencije'
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="zivotne-price media none">
+<article class="hrvatska media video-jl">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/devet-godina-trazim-pravdu-za-svog-ubijenog-sina-a-njegov-krvnik-i-dalje-sece-zagrebom-potresna-ispovijest-majke-brutalno-likvidiranog-mladica/6099583/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/novi-pritisak-na-plenkovica-jedan-od-utemeljitelja-hdz-a-zestoko-se-obrusio-na-premijera-cijela-dvorana-pljeskala-samo-su-kalmeta-i-kuscevic-sutjeli/7149726/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/devet-godina-trazim-pravdu-za-svog-ubijenog-sina-a-njegov-krvnik-i-dalje-sece-zagrebom-potresna-ispovijest-majke-brutalno-likvidiranog-mladica/6099583/">
-'DEVET GODINA TRAŽIM PRAVDU ZA SVOG UBIJENOG SINA, A NJEGOV KRVNIK I DALJE ŠEÆE ZAGREBOM...' Potresna ispovijest majke brutalno likvidiranog mladiæa
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/novi-pritisak-na-plenkovica-jedan-od-utemeljitelja-hdz-a-zestoko-se-obrusio-na-premijera-cijela-dvorana-pljeskala-samo-su-kalmeta-i-kuscevic-sutjeli/7149726/">
+NOVI PRITISAK NA PLENKOVIÆA Jedan od utemeljitelja HDZ-a žestoko se obrušio na premijera. Cijela dvorana pljeskala, samo su Kalmeta i Kušèeviæ šutjeli
 </a>
 </h4>
 </li>
@@ -1434,6 +1438,25 @@ data-widget-position="1">
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
+<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127997.jpg" alt="GRUNDIG 55GUB8768" /></a>
+</div>
+<div class="savings"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.800,00 kn</a></div>
+<div class="name">
+<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">GRUNDIG 55GUB8768</a>
+</div>
+<div class="tag"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">televizori</a></div>
+<div class="prices">
+<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">4.199,00 kn</span>
+<span class="old-price">5.999,00 kn</span>
+</a>
+</div>
+<div class="duration">
+<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 30.04.2018</a>
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-lg-3 product">
+<div class="img media">
 <a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
 </div>
 <div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
@@ -1453,40 +1476,21 @@ data-widget-position="1">
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/124804.jpg" alt="BOSCH BHN20110" /></a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/129549.jpg" alt="PHILIPS FC6408" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 130,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.000,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">BOSCH BHN20110</a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS FC6408</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
+<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">499,00 kn</span>
-<span class="old-price">629,00 kn</span>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.799,00 kn</span>
+<span class="old-price">2.799,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 06.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127056.jpg" alt="HP 2KE76EA 15-bs043nm" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 300,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 2KE76EA 15-bs043nm</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">3.999,00 kn</span>
-<span class="old-price">4.299,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 15.03.2018 do 31.05.2018</a>
 </div>
 </div>
 </div>
@@ -1579,7 +1583,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7137441" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7152039" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1611,19 +1615,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/bjegunac-koji-je-financijski-unistio-desetke-gradana-poginuo-u-bih-kamatarenjem-zrtvama-oteo-ukupno-30-milijuna-kuna-u-kesu-i-nekretninama/7130649/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/bjegunac-koji-je-financijski-unistio-desetke-gradana-poginuo-u-bih-kamatarenjem-zrtvama-oteo-ukupno-30-milijuna-kuna-u-kesu-i-nekretninama/7130649/">
-ÈALUŠIÆ NIJE DOÈEKAO KAZNU
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/">
+PROGNOZA VREMENA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/bjegunac-koji-je-financijski-unistio-desetke-gradana-poginuo-u-bih-kamatarenjem-zrtvama-oteo-ukupno-30-milijuna-kuna-u-kesu-i-nekretninama/7130649/">
-BJEGUNAC KOJI JE FINANCIJSKI UNIŠTIO DESETKE GRAÐANA POGINUO U BiH Kamatarenjem žrtvama oteo ukupno 30 milijuna kuna u kešu i nekretninama
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/">
+SVIMA JE DOSTA ZIME, NO NJOJ SE NE NAZIRE KRAJ Evo do kad æe padati snijeg i do kad æe jutra biti u minusu
 </a>
 </h4>
 </div>
@@ -1633,19 +1637,19 @@ BJEGUNAC KOJI JE FINANCIJSKI UNIŠTIO DESETKE GRAÐANA POGINUO U BiH Kamatarenjem 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-pet-milijuna-razloga-za-veselje-hrvatskog-escobara-narkobosu-zbog-sporosti-naseg-pravosuda-deblokirali-racun-s-milijunima-eura/7130286/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-pet-milijuna-razloga-za-veselje-hrvatskog-escobara-narkobosu-zbog-sporosti-naseg-pravosuda-deblokirali-racun-s-milijunima-eura/7130286/">
-PARADOKS U SLUÈAJU STJEPANA PRNJATA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/">
+'ŠTO JE UOPÆE LAKO?'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-pet-milijuna-razloga-za-veselje-hrvatskog-escobara-narkobosu-zbog-sporosti-naseg-pravosuda-deblokirali-racun-s-milijunima-eura/7130286/">
-OTKRIVAMO: PET MILIJUNA RAZLOGA ZA VESELJE 'HRVATSKOG ESCOBARA' Narkobosu zbog sporosti našeg pravosuða deblokirali raèun s milijunima eura
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/">
+'NIGDJE NIJE MED I MLIJEKO...' Dalmatinka otišla trbuhom za kruhom: 'Radim isto što sam radila i doma, ali s jednom jako bitnom razlikom...'
 </a>
 </h4>
 </div>
@@ -1655,19 +1659,19 @@ OTKRIVAMO: PET MILIJUNA RAZLOGA ZA VESELJE 'HRVATSKOG ESCOBARA' Narkobosu zbog s
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/veliki-obrat-u-slucaju-splicanina-koji-je-usmrtio-svoju-djevojku-dobio-10-godina-zatvora-a-jucer-je-iznenada-pusten-na-slobodu/7133559/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/veliki-obrat-u-slucaju-splicanina-koji-je-usmrtio-svoju-djevojku-dobio-10-godina-zatvora-a-jucer-je-iznenada-pusten-na-slobodu/7133559/">
-ODLUKA VRHOVNOG SUDA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/">
+ŽIVOT NA SELU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/veliki-obrat-u-slucaju-splicanina-koji-je-usmrtio-svoju-djevojku-dobio-10-godina-zatvora-a-jucer-je-iznenada-pusten-na-slobodu/7133559/">
-VELIKI OBRAT U SLUÈAJU SPLIÆANINA KOJI JE USMRTIO SVOJU DJEVOJKU Dobio 10 godina zatvora, a juèer je iznenada pušten na slobodu!
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/">
+FARMER IZ STRIZIVOJNE ZAPALIO FACEBOOK Tko je Tvrtko Gaèiæ èiju je videoporuku lopovima pogledalo 80 tisuæa ljudi na internetu
 </a>
 </h4>
 </div>
@@ -1677,19 +1681,19 @@ VELIKI OBRAT U SLUÈAJU SPLIÆANINA KOJI JE USMRTIO SVOJU DJEVOJKU Dobio 10 godina
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/uzas-na-ulazu-u-popularni-istarski-kamp-auto-sletio-s-ceste-i-zabio-se-u-kamenu-skulpturu-vozac-je-na-mjestu-poginuo/7134594/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/uzas-na-ulazu-u-popularni-istarski-kamp-auto-sletio-s-ceste-i-zabio-se-u-kamenu-skulpturu-vozac-je-na-mjestu-poginuo/7134594/">
-TRAGEDIJA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/">
+KLIZIŠTE UZ MORE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/uzas-na-ulazu-u-popularni-istarski-kamp-auto-sletio-s-ceste-i-zabio-se-u-kamenu-skulpturu-vozac-je-na-mjestu-poginuo/7134594/">
-UŽAS NA ULAZU U POPULARNI ISTARSKI KAMP Auto sletio s ceste i zabio se u kamenu skulpturu, vozaè je na mjestu poginuo
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/">
+FOTO: DRAMATIÈNI PRIZORI U Posedarju se pokrenulo veliko klizište, ugroženo je 50-ak kuæa, nekima su se u dvorištu pojavili procjepi dugi 20-ak metara
 </a>
 </h4>
 </div>
@@ -1725,21 +1729,21 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-<article class="ljepota media c3 none">
+<article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-<img src="https://www.gloria.hr/fokus/nana-2png/7132410/ALTERNATES/LANDSCAPE_380/nana%202.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/nana-2png/7132410/BINARY/thumbnail/nana%202.PNG"
+data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Anamarija Asanovic 081216 snimio Sasa Buric"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1747,8 +1751,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-Kæi Mustafe Nadareviæa o beauty trendovima i poslu o kojem sanjaju mnoge djevojke
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
 </a>
 </h4>
 </div>
@@ -1807,7 +1811,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1817,7 +1821,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -2218,14 +2222,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/posjetili-smo-hrvatsku-kostajnicu-nakon-stravicnog-klizanja-terena-stanovnici-su-u-sekundi-ostali-bez-svega?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/svecenik-uhapsen-s-drogom?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_152104775529216661_10155882335474279_2780208617909911552_o.jpg?v=1521047758" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1500446368RTS156BQ.jpg?v=1521553999" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: TUŽNA SLIKA GRADA/Posjetili smo Hrvatsku Kostajnicu nakon straviènog klizanja terena, stanovnici su u sekundi ostali bez svega</h4>
+<h4>BOBU BOB, POPU DOP/Drugi sluèaj u mjesec dana: još jedan sveæenik u Srbiji &#039;pao&#039; s travom i amfetaminima</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2269,45 +2273,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7137441&type=article&title=NAPADA%c4%8c+NA+LUKU+RITZA+IDE+U+ZATVOR+Uhva%c4%87en+na+trajektu+za+Hvar+s+ogromnom+koli%c4%8dinom+ectasyja&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fnapadac-na-luku-ritza-ide-u-zatvor-uhvacen-na-trajektu-za-hvar-s-ogromnom-kolicinom-ectasyja%2f7137441%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7152039&type=article&title=HDZ+PRED+KONA%c4%8cNOM+ODLUKOM%3a+VRH+STRANKE+RASPRAVLJA+O+ISTANBULSKOJ+Plenkovi%c4%87+uvjeren+da+%c4%87e+%26%23039%3bsve+biti+dobro%26%23039%3b%2c+Kova%c4%8d%2c+Stier+i+Brki%c4%87+i+dalje+protiv&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fhdz-pred-konacnom-odlukom-vrh-stranke-raspravlja-o-istanbulskoj-plenkovic-uvjeren-da-ce-sve-biti-dobro-kovac-stier-i-brkic-i-dalje-protiv%2f7152039%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7137441&amp;type=article&amp;title=NAPADA%c4%8c+NA+LUKU+RITZA+IDE+U+ZATVOR+Uhva%c4%87en+na+trajektu+za+Hvar+s+ogromnom+koli%c4%8dinom+ectasyja&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fnapadac-na-luku-ritza-ide-u-zatvor-uhvacen-na-trajektu-za-hvar-s-ogromnom-kolicinom-ectasyja%2f7137441%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7152039&amp;type=article&amp;title=HDZ+PRED+KONA%c4%8cNOM+ODLUKOM%3a+VRH+STRANKE+RASPRAVLJA+O+ISTANBULSKOJ+Plenkovi%c4%87+uvjeren+da+%c4%87e+%26%23039%3bsve+biti+dobro%26%23039%3b%2c+Kova%c4%8d%2c+Stier+i+Brki%c4%87+i+dalje+protiv&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fhdz-pred-konacnom-odlukom-vrh-stranke-raspravlja-o-istanbulskoj-plenkovic-uvjeren-da-ce-sve-biti-dobro-kovac-stier-i-brkic-i-dalje-protiv%2f7152039%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1793329429&title=droga&url=tag%3ajltags%40eph.hr%2c2016%3adroga&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2038754407&title=Andrej+Plenkovi%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aAndrej_Plenkovi%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1793329429&amp;title=droga&amp;url=tag%3ajltags%40eph.hr%2c2016%3adroga&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2038754407&amp;title=Andrej+Plenkovi%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAndrej_Plenkovi%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1731571176&title=ecstasy&url=tag%3ajltags%40eph.hr%2c2016%3aecstasy&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2014875854&title=HDZ&url=tag%3ajltags%40eph.hr%2c2016%3aHDZ&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1731571176&amp;title=ecstasy&amp;url=tag%3ajltags%40eph.hr%2c2016%3aecstasy&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2014875854&amp;title=HDZ&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHDZ&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1512029389&title=Luka+Ritz&url=tag%3ajltags%40eph.hr%2c2016%3aLuka_Ritz&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1775928432&title=Istanbulska+konvencija&url=tag%3ajltags%40eph.hr%2c2016%3aIstanbulska_konvencija&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1512029389&amp;title=Luka+Ritz&amp;url=tag%3ajltags%40eph.hr%2c2016%3aLuka_Ritz&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1775928432&amp;title=Istanbulska+konvencija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIstanbulska_konvencija&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2360,7 +2364,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/napadac-na-luku-ritza-ide-u-zatvor-uhvacen-na-trajektu-za-hvar-s-ogromnom-kolicinom-ectasyja/7137441/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/hdz-pred-konacnom-odlukom-vrh-stranke-raspravlja-o-istanbulskoj-plenkovic-uvjeren-da-ce-sve-biti-dobro-kovac-stier-i-brkic-i-dalje-protiv/7152039/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2370,14 +2374,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/crna-kronika/napadac-na-luku-ritza-ide-u-zatvor-uhvacen-na-trajektu-za-hvar-s-ogromnom-kolicinom-ectasyja/7137441/",
-postId : "7137441",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/hdz-pred-konacnom-odlukom-vrh-stranke-raspravlja-o-istanbulskoj-plenkovic-uvjeren-da-ce-sve-biti-dobro-kovac-stier-i-brkic-i-dalje-protiv/7152039/",
+postId : "7152039",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "NAPADAÈ NA LUKU RITZA IDE U ZATVOR Uhvaæen na trajektu za Hvar s ogromnom kolièinom ectasyja",
-pubdate : "2018-03-16 11:50",
-authors : "Slobodna Dalmacija",
-sections : "Front Page, Crna kronika",
-tags : "droga, ecstasy, Luka Ritz",
+title : "HDZ PRED KONAÈNOM ODLUKOM: VRH STRANKE RASPRAVLJA O ISTANBULSKOJ Plenkoviæ uvjeren da æe 'sve biti dobro', Kovaè, Stier i Brkiæ i dalje protiv",
+pubdate : "2018-03-20 18:50",
+authors : "Hina",
+sections : "Front Page, Hrvatska",
+tags : "Andrej Plenkoviæ, HDZ, Istanbulska konvencija",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

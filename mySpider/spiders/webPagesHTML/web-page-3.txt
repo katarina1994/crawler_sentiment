@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Ratifikacija Istanbulske konvencije veæ tjednima je jedna od tema koja najviše zaokupljaju hrvatsku javnost. Stavovi politièkih elita te raznoraznih aktivista - koji su prilièno suprotstavljeni i izazivaju žestoke reakcije - veæini vas su poznati." />
-<meta name="keywords" content="Istanbulska konvencija, Video, Jutarnji.hr" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="U brdskom dijelu na podruèju grada Slavonskog Broda, u predjelu Brliæev put, danas je aktivirano klizište. Utvrðeno je da se radi o klizištu nastalom u blizini kuæa za odmor. Iz Gradske uprave upozoravaju kako nije iskljuèena moguænost pojave novih brdskih klizišta." />
+<meta name="keywords" content="Slavonski Brod, klizište" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>VIDEO: PROMIŠLJANJA O SPOLU I RODU BOGA, ANALIZA ŽIVOTA ŽENA U TURSKOJ... Pogledajte što naše graðanke i graðani misle o Istanbulskoj konvenciji! - Jutarnji List</title>
+<title>FOTO: DRAMATIÈNA SITUACIJA U SLAVONSKOM BRODU Aktiviralo se klizište na podruèju grada, popucala zemlja blizu vikendica: &#039;Na zlo se sve dalo...&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -180,11 +180,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
+var dfpCategory = "Crna kronika";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7137645";
-var dfpArticleKeyword = "Istanbulska konvencija";
+var dfpArticle = "7151745";
+var dfpArticleKeyword = "Slavonski Brod";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -606,8 +606,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/video-promisljanja-o-spolu-i-rodu-boga-analiza-zivota-zena-u-turskoj-pogledajte-sto-nase-gradanke-i-gradani-misle-o-istanbulskoj-konvenciji/7137645/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/video-promisljanja-o-spolu-i-rodu-boga-analiza-zivota-zena-u-turskoj-pogledajte-sto-nase-gradanke-i-gradani-misle-o-istanbulskoj-konvenciji/7137645/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-dramaticna-situacija-u-slavonskom-brodu-aktiviralo-se-kliziste-na-podrucju-grada-popucala-zemlja-blizu-vikendica-na-zlo-se-sve-dalo/7151745/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-dramaticna-situacija-u-slavonskom-brodu-aktiviralo-se-kliziste-na-podrucju-grada-popucala-zemlja-blizu-vikendica-na-zlo-se-sve-dalo/7151745/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -620,21 +620,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/naslovna_istanbulskajpg/7137669/ALTERNATES/LANDSCAPE_1180/naslovna_istanbulska.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/kanaljpg/7151796/ALTERNATES/LANDSCAPE_1180/kanal.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/naslovna_istanbulskajpg/7137669/ALTERNATES/LANDSCAPE_1180/naslovna_istanbulska.jpg">
-<meta property="og:title" content="VIDEO: PROMIŠLJANJA O SPOLU I RODU BOGA, ANALIZA ŽIVOTA ŽENA U TURSKOJ... Pogledajte što naše graðanke i graðani misle o Istanbulskoj konvenciji!" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/kanaljpg/7151796/ALTERNATES/LANDSCAPE_1180/kanal.jpg">
+<meta property="og:title" content="FOTO: DRAMATIÈNA SITUACIJA U SLAVONSKOM BRODU Aktiviralo se klizište na podruèju grada, popucala zemlja blizu vikendica: 'Na zlo se sve dalo...'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/video-promisljanja-o-spolu-i-rodu-boga-analiza-zivota-zena-u-turskoj-pogledajte-sto-nase-gradanke-i-gradani-misle-o-istanbulskoj-konvenciji/7137645/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/foto-dramaticna-situacija-u-slavonskom-brodu-aktiviralo-se-kliziste-na-podrucju-grada-popucala-zemlja-blizu-vikendica-na-zlo-se-sve-dalo/7151745/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Ratifikacija Istanbulske konvencije veæ tjednima je jedna od tema koja najviše zaokupljaju hrvatsku javnost. Stavovi politièkih elita te raznoraznih aktivista - koji su prilièno suprotstavljeni i izazivaju žestoke reakcije - veæini vas su poznati." />
+<meta property="og:description" content="U brdskom dijelu na podruèju grada Slavonskog Broda, u predjelu Brliæev put, danas je aktivirano klizište. Utvrðeno je da se radi o klizištu nastalom u blizini kuæa za odmor. Iz Gradske uprave upozoravaju kako nije iskljuèena moguænost pojave novih brdskih klizišta." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="VIDEO: PROMIŠLJANJA O SPOLU I RODU BOGA, ANALIZA ŽIVOTA ŽENA U TURSKOJ... Pogledajte što naše graðanke i graðani misle o Istanbulskoj konvenciji!">
-<meta name="twitter:description" content="Ratifikacija Istanbulske konvencije veæ tjednima je jedna od tema koja najviše zaokupljaju hrvatsku javnost. Stavovi politièkih elita te raznoraznih aktivista - koji su prilièno suprotstavljeni i izazivaju žestoke reakcije - veæini vas su poznati.">
+<meta name="twitter:title" content="FOTO: DRAMATIÈNA SITUACIJA U SLAVONSKOM BRODU Aktiviralo se klizište na podruèju grada, popucala zemlja blizu vikendica: 'Na zlo se sve dalo...'">
+<meta name="twitter:description" content="U brdskom dijelu na podruèju grada Slavonskog Broda, u predjelu Brliæev put, danas je aktivirano klizište. Utvrðeno je da se radi o klizištu nastalom u blizini kuæa za odmor. Iz Gradske uprave upozoravaju kako nije iskljuèena moguænost pojave novih brdskih klizišta.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -657,9 +657,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-03-16T12:29+01:00",
-author: "Siniša Sušec",
+data: { section: "Crna kronika, Vijesti, Front Page",
+pubdate: "2018-03-20T18:18+01:00",
+author: "Aleksandra Vladiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -826,7 +826,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -836,7 +836,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1136,10 +1136,10 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1149,7 +1149,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1206,11 +1206,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ANKETA JUTARNJEG
+ELEMENTARNA NEPOGODA
 </p>
 <h1
 class="title">
-VIDEO: PROMIŠLJANJA O SPOLU I RODU BOGA, ANALIZA ŽIVOTA ŽENA U TURSKOJ... Pogledajte što naše graðanke i graðani misle o Istanbulskoj konvenciji!
+FOTO: DRAMATIÈNA SITUACIJA U SLAVONSKOM BRODU Aktiviralo se klizište na podruèju grada, popucala zemlja blizu vikendica: 'Na zlo se sve dalo...'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1226,7 +1226,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-16.03.2018. u 12:29
+20.03.2018. u 18:18
 </p>
 </li>
 </ul>
@@ -1238,12 +1238,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/naslovna_istanbulskajpg/7137669" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/kanaljpg/7151796" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/naslovna_istanbulskajpg/7137669/ALTERNATES/LANDSCAPE_380/naslovna_istanbulska.jpg"
+<img src="https://www.jutarnji.hr/incoming/kanaljpg/7151796/ALTERNATES/LANDSCAPE_380/kanal.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna_istanbulskajpg/7137669/BINARY/thumbnail/naslovna_istanbulska.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/kanaljpg/7151796/BINARY/thumbnail/kanal.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1252,12 +1252,9 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Jutarnji.hr
+<span> Danijel Soldo / CROPIX
 </span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Dio graðana koji je sudjelovao u anketi Jutarnjeg na temu Istanbulske konvencije</h4>
 </div>
 </div>
 </section>
@@ -1291,17 +1288,194 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7137645"
+<div id="content-body-6263871-7151745"
 >
-<p>Ratifikacija Istanbulske konvencije veæ tjednima je jedna od tema koja najviše zaokupljaju hrvatsku javnost. Stavovi politièkih elita te raznoraznih aktivista - koji su prilièno suprotstavljeni i izazivaju žestoke reakcije - veæini vas su poznati.</p><p>Ali, što o konvenciji misle naše graðanke i graðani? Treba li je Hrvatska odmah ratificirati? Sa ili bez ograda, tzv. intepretativnih izjava? Kako bismo iz prve ruke saznali što graðani misle o ovoj goruæoj temi i razumiju li uopæe èime se Konvencija bavi, izišli smo na zagrebaèke ulice.</p><p>Odgovori su, naravno, bili dosta raznoliki, bilo da je rijeè o rodnoj ideologiji (osobito onoj u školama), priznavanju istospolnih zajednica ili nasilju nad ženama.</p><p>- Ja sam za one stare obièaje - zna se da su u Istanbulu imali više žena, tako bi trebalo biti i sada! Isus Krist je bio muškarac! A tko je Bog? Kojeg je spola? - ovo su samo neka od razmišljanja Zagrepèanki i Zagrepèana.</p><p><em><strong>Što su nam sve rekli o Istanbulskoj konvenciji, pogledajte u videu!</strong></em></p><p><em><strong> <section class="social_embed ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m9gxkDpstKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p>U brdskom dijelu na podruèju grada Slavonskog Broda, u predjelu Brliæev odvojak, u utorak je aktivirano klizište. Utvrðeno je da se radi o klizištu nastalom u blizini kuæa za odmor. Iz Gradske uprave upozoravaju kako nije iskljuèena moguænost pojave novih brdskih klizišta.</p><p>- Gradonaèelnik <strong>Mirko Duspara</strong> uputit æe zahtjev županu Brodsko-posavske županije <strong>Danijelu Marušiæu</strong> za hitno proglašenje stanja elementarne nepogode na podruèju grada izazvane vremenskom nepogodom koja je uzrokovala pojavu klizišta na podruèju grada, navodi se u priopæenju Gradske uprave.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kliziste1-200318jpg/7151748" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kliziste1-200318jpg/7151748/ALTERNATES/FREE_380/kliziste1-200318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kliziste1-200318jpg/7151748/BINARY/thumbnail/kliziste1-200318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Slavonski Brod, 200318.
+Kliziste u Brodskom Vinogorju.
+Na fotografiji: kliziste u Brodskom Vinogorju.
+Foto: Danijel Soldo / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Danijel Soldo / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
 </section>
- </strong></em></p>
+</p><p>Na zlo se dalo - rekao je u utorak nešto iza podneva, izlazeæi iz osobnog automobila, <strong>Bogdan Mioniæ</strong> koji je sa suprugom <strong>Ankicom</strong> stigao u Brodsko Vinogorje obiæi vikendicu, piše <strong><a href="http://www.sbplus.hr/slavonski_brod/politika/komunalni_poslovi/donosimo_fotografije_i_izjave_vlasnika_ostecenih_vikendica.aspx#.WrFBYZch2Uk" target="_blank">SBplus</a></strong>.</p><p>Njegova je vikendica jedna, od njih ukupno desetak, koje su ugrožene nakon što se ovih dana u Brliæevom odvojku aktiviralo klizište.</p><p>- Krajem prošlog tjedna primijetili smo da se nešto dogaða. Bile su vidljive manje pukotine. Ali ovo je sada puno gore nego li je bilo zadnji puta kada sam bio - kazao je Bogdan.</p><p>Njega su djelatnici policije proveli da im pokaže koji je objekt njegovo vlasništvo, dok radi sigurnosti supruzi Ankici nisu dali do kuæe. - Nije ovako bilo ranije. Pitanje je što nam se svima sve ovo dogaða. Od poplava do klizišta - zapitala se Ankica dok je èekala da se suprug vrati iz kratkog obilaska u kojem je tek uspio ovlaš vidjeti kako je tlo sleglo oko kuæe. Je li i ona nastradala izvana nije vidio, a unutra nije smio.</p><p>- Dobro je, neka je živa glava, i da èovjeka služi zdravlje, a sve drugo je lakše - prièa Bogdan, objašnjavajuæi kako je kuæa susjeda ispod njega daleko gore prošla.</p><p>- Njemu se od pomjeranja tla cisterna naslonila na kuæu, pa više niti spavati se ne usudi - kazao je Bogdan.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kliziste2-200318jpg/7151751" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kliziste2-200318jpg/7151751/ALTERNATES/FREE_380/kliziste2-200318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kliziste2-200318jpg/7151751/BINARY/thumbnail/kliziste2-200318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Slavonski Brod, 200318.
+Kliziste u Brodskom Vinogorju.
+Na fotografiji: kliziste u Brodskom Vinogorju.
+Foto: Danijel Soldo / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Danijel Soldo / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>Straha nema, dodao je, mada nije svejedno gledati u tlo koje se pomaknulo i za koje se ne zna kada i koliko opet može krenuti.</p><p>Djelatnici policije, koji su u Brliæev odvojak došli nakon poziva iz Gradske uprave, trakom su ogradili put kojim se može do klizišta. Koliko æe obièna traka sprijeèiti znatiželjnike da uðu veliko je pitanje, pa su stoga nadležni za to, možda, klizište trebali ozbiljnije osigurati, primjeæuje <strong><a href="http://www.sbplus.hr/slavonski_brod/politika/komunalni_poslovi/donosimo_fotografije_i_izjave_vlasnika_ostecenih_vikendica.aspx#.WrFBYZch2Uk" target="_blank">SBplus</a></strong>.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kliziste3-200318jpg/7151754" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kliziste3-200318jpg/7151754/ALTERNATES/FREE_380/kliziste3-200318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kliziste3-200318jpg/7151754/BINARY/thumbnail/kliziste3-200318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Slavonski Brod, 200318.
+Kliziste u Brodskom Vinogorju.
+Na fotografiji: kliziste u Brodskom Vinogorju.
+Foto: Danijel Soldo / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Danijel Soldo / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>Ovo je u zadnjih osam godina drugi puta da su se u Slavonskom Brodu aktivirala klizišta.</p><p>Podsjetimo, 2010. godine u Slavonskom Brodu bilo je aktivno desetak klizišta i to u Brodskom Vinogorju na Košarevcu i Brliæa putu te u Podvinju u Ulici Kukanj.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kliziste4-200318jpg/7151757" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kliziste4-200318jpg/7151757/ALTERNATES/FREE_380/kliziste4-200318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kliziste4-200318jpg/7151757/BINARY/thumbnail/kliziste4-200318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Slavonski Brod, 200318.
+Kliziste u Brodskom Vinogorju.
+Na fotografiji: kliziste u Brodskom Vinogorju.
+Foto: Danijel Soldo / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Danijel Soldo / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kliziste5-200318jpg/7151760" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kliziste5-200318jpg/7151760/ALTERNATES/FREE_380/kliziste5-200318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kliziste5-200318jpg/7151760/BINARY/thumbnail/kliziste5-200318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Slavonski Brod, 200318.
+Kliziste u Brodskom Vinogorju.
+Na fotografiji: kliziste u Brodskom Vinogorju.
+Foto: Danijel Soldo / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Danijel Soldo / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kliziste6-200318jpg/7151763" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kliziste6-200318jpg/7151763/ALTERNATES/FREE_380/kliziste6-200318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kliziste6-200318jpg/7151763/BINARY/thumbnail/kliziste6-200318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Slavonski Brod, 200318.
+Kliziste u Brodskom Vinogorju.
+Na fotografiji kliziste u Brodskom Vinogorju.
+Foto: Danijel Soldo / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Danijel Soldo / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7137645 p").filter(function () {
+$("#content-body-6263871-7151745 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1310,16 +1484,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7137645").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7151745").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7137645").children().slice(max).remove();
+$("#content-body-6263871-7151745").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7137645").children().get(0);
+var firstChild = $("#content-body-6263871-7151745").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1357,18 +1531,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Jutarnji.hr" class ="label label-default" >
-Jutarnji.hr
+<a href="https://www.jutarnji.hr/tag/klizi%C5%A1te" class ="label label-default" >
+klizište
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/video" class ="label label-default" >
-Video
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Istanbulska_konvencija" class ="label label-default" >
-Istanbulska konvencija
+<a href="https://www.jutarnji.hr/tag/Slavonski_Brod" class ="label label-default" >
+Slavonski Brod
 </a>
 </li>
 </ul>
@@ -1381,13 +1550,13 @@ Vezane vijesti
 <section>
 <article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/najupucenija-osoba-iz-rh-kada-je-rijec-o-istanbulskoj-konvenciji-nema-razloga-za-strah-bolje-ratificirati-cak-i-s-dodatnim-izjavama-nego-odustati/7130379/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/nadljudska-bitka-s-poplavama-sava-je-vec-najvisa-u-povijesti-a-ocekuje-se-da-ce-rasti-jos-nisam-imala-srca-otici-do-rijeke-povijest-se-ponavlja/7148601/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/najupucenija-osoba-iz-rh-kada-je-rijec-o-istanbulskoj-konvenciji-nema-razloga-za-strah-bolje-ratificirati-cak-i-s-dodatnim-izjavama-nego-odustati/7130379/">
-NAJUPUÆENIJA OSOBA IZ RH KADA JE RIJEÈ O ISTANBULSKOJ KONVENCIJI 'Nema razloga za strah. Bolje ratificirati, èak i s dodatnim izjavama, nego odustati'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/nadljudska-bitka-s-poplavama-sava-je-vec-najvisa-u-povijesti-a-ocekuje-se-da-ce-rasti-jos-nisam-imala-srca-otici-do-rijeke-povijest-se-ponavlja/7148601/">
+NADLJUDSKA BITKA S POPLAVAMA, SAVA JE VEÆ NAJVIŠA U POVIJESTI, A OÈEKUJE SE DA ÆE RASTI JOŠ Nisam imala srca otiæi do rijeke, povijest se ponavlja...
 </a>
 </h4>
 </li>
@@ -1406,6 +1575,44 @@ NAJUPUÆENIJA OSOBA IZ RH KADA JE RIJEÈ O ISTANBULSKOJ KONVENCIJI 'Nema razloga z
 <div class="upscore-pos-7 ">
 <section>
 <div class="elipso products upscore-pos-8">
+<div class="col-xs-6 col-sm-6 col-lg-3 product">
+<div class="img media">
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
+</div>
+<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
+<div class="name">
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
+</div>
+<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
+<div class="prices">
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.199,00 kn</span>
+<span class="old-price">1.299,00 kn</span>
+</a>
+</div>
+<div class="duration">
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-lg-3 product">
+<div class="img media">
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/129549.jpg" alt="PHILIPS FC6408" /></a>
+</div>
+<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.000,00 kn</a></div>
+<div class="name">
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS FC6408</a>
+</div>
+<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
+<div class="prices">
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.799,00 kn</span>
+<span class="old-price">2.799,00 kn</span>
+</a>
+</div>
+<div class="duration">
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 15.03.2018 do 31.05.2018</a>
+</div>
+</div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
 <a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/115409.jpg" alt="PHILIPS GC9620 20" /></a>
@@ -1427,59 +1634,21 @@ NAJUPUÆENIJA OSOBA IZ RH KADA JE RIJEÈ O ISTANBULSKOJ KONVENCIJI 'Nema razloga z
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127056.jpg" alt="HP 2KE76EA 15-bs043nm" /></a>
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127979.jpg" alt="HP 1XN28EA HP 250 G6" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 300,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 2KE76EA 15-bs043nm</a>
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 1XN28EA HP 250 G6</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
+<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">3.999,00 kn</span>
-<span class="old-price">4.299,00 kn</span>
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">3.499,00 kn</span>
+<span class="old-price">3.599,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127997.jpg" alt="GRUNDIG 55GUB8768" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.800,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">GRUNDIG 55GUB8768</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">televizori</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">4.199,00 kn</span>
-<span class="old-price">5.999,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 30.04.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/124804.jpg" alt="BOSCH BHN20110" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 130,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">BOSCH BHN20110</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">499,00 kn</span>
-<span class="old-price">629,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 06.03.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
 </div>
 </div>
 </div>
@@ -1572,7 +1741,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7137645" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7151745" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1604,19 +1773,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/vozaci-racunovode-tvornicki-radnici-lijecnici-trgovci-pravnici-u-hrvatskoj-bi-oko-700-tisuca-ljudi-moglo-ostati-bez-posla/7130415/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/detalji-misteriozne-smrti-skromnog-gospodina-u-sredistu-zagreba-policija-sumnja-da-je-rijec-o-ubojstvu-prije-15-godina-bivsa-zena-ga-je-izbola-nozem/7147638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vozaci-racunovode-tvornicki-radnici-lijecnici-trgovci-pravnici-u-hrvatskoj-bi-oko-700-tisuca-ljudi-moglo-ostati-bez-posla/7130415/">
-NESIGURNA BUDUÆNOST
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/detalji-misteriozne-smrti-skromnog-gospodina-u-sredistu-zagreba-policija-sumnja-da-je-rijec-o-ubojstvu-prije-15-godina-bivsa-zena-ga-je-izbola-nozem/7147638/">
+OÈEVID U TIJEKU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vozaci-racunovode-tvornicki-radnici-lijecnici-trgovci-pravnici-u-hrvatskoj-bi-oko-700-tisuca-ljudi-moglo-ostati-bez-posla/7130415/">
-VOZAÈI, RAÈUNOVOÐE, TVORNIÈKI RADNICI, LIJEÈNICI, TRGOVCI, PRAVNICI... 'U Hrvatskoj bi oko 700 tisuæa ljudi moglo ostati bez posla!'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/detalji-misteriozne-smrti-skromnog-gospodina-u-sredistu-zagreba-policija-sumnja-da-je-rijec-o-ubojstvu-prije-15-godina-bivsa-zena-ga-je-izbola-nozem/7147638/">
+DETALJI MISTERIOZNE SMRTI SKROMNOG GOSPODINA U SREDIŠTU ZAGREBA, POLICIJA SUMNJA DA JE RIJEÈ O UBOJSTVU Prije 15 godina bivša žena ga je izbola nožem
 </a>
 </h4>
 </div>
@@ -1626,19 +1795,19 @@ VOZAÈI, RAÈUNOVOÐE, TVORNIÈKI RADNICI, LIJEÈNICI, TRGOVCI, PRAVNICI... 'U Hrvats
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-povratak-bivse-kninske-kraljice-peda-grbin-saznao-za-novu-funkciju-josipe-rimac-i-ostao-u-potpunom-soku-pa-je-li-to-normalno/7129878/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/horor-na-plitvicama-turistkinja-iz-juzne-koreje-se-poskliznula-letjela-70-metara-i-pala-u-jezero-tri-i-pol-sata-poslije-umrla-je-u-bolnici/7147155/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-povratak-bivse-kninske-kraljice-peda-grbin-saznao-za-novu-funkciju-josipe-rimac-i-ostao-u-potpunom-soku-pa-je-li-to-normalno/7129878/">
-ZAPREPASTIO SE
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/horor-na-plitvicama-turistkinja-iz-juzne-koreje-se-poskliznula-letjela-70-metara-i-pala-u-jezero-tri-i-pol-sata-poslije-umrla-je-u-bolnici/7147155/">
+FATALNI PAD
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-povratak-bivse-kninske-kraljice-peda-grbin-saznao-za-novu-funkciju-josipe-rimac-i-ostao-u-potpunom-soku-pa-je-li-to-normalno/7129878/">
-VELIKI POVRATAK BIVŠE KNINSKE KRALJICE Peða Grbin saznao za novu funkciju Josipe Rimac i ostao u potpunom šoku: 'Pa je li to normalno?!'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/horor-na-plitvicama-turistkinja-iz-juzne-koreje-se-poskliznula-letjela-70-metara-i-pala-u-jezero-tri-i-pol-sata-poslije-umrla-je-u-bolnici/7147155/">
+HOROR NA PLITVICAMA Turistkinja iz Južne Koreje se poskliznula, letjela 70 metara i pala u jezero... Tri i pol sata poslije umrla je u bolnici
 </a>
 </h4>
 </div>
@@ -1648,19 +1817,19 @@ VELIKI POVRATAK BIVŠE KNINSKE KRALJICE Peða Grbin saznao za novu funkciju Josipe
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/nekretnine-tvrtke-bivseg-premijera-idu-na-bubanj-na-drazbu-idu-stanovi-u-elitnoj-zagrebackoj-ulici-atraktivna-zemljista/7131240/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/zbog-ljubavi-totalno-pomahnitao-sibencanin-pokusao-oteti-bivsu-djevojku-ali-nije-racunao-na-nesudenu-punicu/7145658/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nekretnine-tvrtke-bivseg-premijera-idu-na-bubanj-na-drazbu-idu-stanovi-u-elitnoj-zagrebackoj-ulici-atraktivna-zemljista/7131240/">
-ODLUKA TRGOVAÈKOG SUDA
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/zbog-ljubavi-totalno-pomahnitao-sibencanin-pokusao-oteti-bivsu-djevojku-ali-nije-racunao-na-nesudenu-punicu/7145658/">
+LJUBAVNA DRAMA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nekretnine-tvrtke-bivseg-premijera-idu-na-bubanj-na-drazbu-idu-stanovi-u-elitnoj-zagrebackoj-ulici-atraktivna-zemljista/7131240/">
-NEKRETNINE TVRTKE BIVŠEG PREMIJERA IDU NA 'BUBANJ' Na dražbu idu stanovi u elitnoj zagrebaèkoj ulici, atraktivna zemljišta...
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/zbog-ljubavi-totalno-pomahnitao-sibencanin-pokusao-oteti-bivsu-djevojku-ali-nije-racunao-na-nesudenu-punicu/7145658/">
+ZBOG LJUBAVI TOTALNO POMAHNITAO Šibenèanin pokušao oteti bivšu djevojku, ali nije raèunao na nesuðenu punicu
 </a>
 </h4>
 </div>
@@ -1670,19 +1839,19 @@ NEKRETNINE TVRTKE BIVŠEG PREMIJERA IDU NA 'BUBANJ' Na dražbu idu stanovi u elitn
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/oruzana-pljacka-banke-u-zagrebu-drama-u-sarajevskoj-razbojnik-oteo-novac-iz-poslovnice-pbz-a-u-sklopu-konzuma-policija-krenula-u-potjeru-za-njim/7147290/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/">
-NE NASJEDAJTE
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/oruzana-pljacka-banke-u-zagrebu-drama-u-sarajevskoj-razbojnik-oteo-novac-iz-poslovnice-pbz-a-u-sklopu-konzuma-policija-krenula-u-potjeru-za-njim/7147290/">
+SNIMILE GA NADZORNE KAMERE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/">
-OZBILJNO UPOZORENJE GRAÐANIMA Kruže lažne elektronièke poruke: 'Dobijete li ovakav email o dugovanjima, nemojte ga otvarati'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/oruzana-pljacka-banke-u-zagrebu-drama-u-sarajevskoj-razbojnik-oteo-novac-iz-poslovnice-pbz-a-u-sklopu-konzuma-policija-krenula-u-potjeru-za-njim/7147290/">
+ORUŽANA PLJAÈKA BANKE U ZAGREBU Drama u Sarajevskoj: Razbojnik oteo novac iz poslovnice PBZ-a u sklopu Konzuma, policija krenula u potjeru za njim
 </a>
 </h4>
 </div>
@@ -1718,21 +1887,21 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-<article class="ljepota media c3 none">
+<article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-<img src="https://www.gloria.hr/fokus/nana-2png/7132410/ALTERNATES/LANDSCAPE_380/nana%202.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/nana-2png/7132410/BINARY/thumbnail/nana%202.PNG"
+data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Anamarija Asanovic 081216 snimio Sasa Buric"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1740,8 +1909,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-Kæi Mustafe Nadareviæa o beauty trendovima i poslu o kojem sanjaju mnoge djevojke
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
 </a>
 </h4>
 </div>
@@ -1800,7 +1969,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1810,7 +1979,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -2211,14 +2380,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/posjetili-smo-hrvatsku-kostajnicu-nakon-stravicnog-klizanja-terena-stanovnici-su-u-sekundi-ostali-bez-svega?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/alkohol-ih-je-trebao-ubiti-no-oni-su-demantirali-medicinu-i-ostali-medu-zivima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_152104775529216661_10155882335474279_2780208617909911552_o.jpg?v=1521047758" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1491402427policijakontrola.jpg?v=1491402498" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: TUŽNA SLIKA GRADA/Posjetili smo Hrvatsku Kostajnicu nakon straviènog klizanja terena, stanovnici su u sekundi ostali bez svega</h4>
+<h4>NESLAVNI HRVATSKI REKORDERI/Alkohol ih je trebao ubiti, no oni su demantirali medicinu i ostali meðu živima</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2262,45 +2431,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7137645&type=article&title=VIDEO%3a+PROMI%c5%a0LJANJA+O+SPOLU+I+RODU+BOGA%2c+ANALIZA+%c5%bdIVOTA+%c5%bdENA+U+TURSKOJ...+Pogledajte+%c5%a1to+na%c5%a1e+gra%c4%91anke+i+gra%c4%91ani+misle+o+Istanbulskoj+konvenciji!&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fvideo-promisljanja-o-spolu-i-rodu-boga-analiza-zivota-zena-u-turskoj-pogledajte-sto-nase-gradanke-i-gradani-misle-o-istanbulskoj-konvenciji%2f7137645%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7151745&type=article&title=FOTO%3a+DRAMATI%c4%8cNA+SITUACIJA+U+SLAVONSKOM+BRODU+Aktiviralo+se+klizi%c5%a1te+na+podru%c4%8dju+grada%2c+popucala+zemlja+blizu+vikendica%3a+%26%23039%3bNa+zlo+se+sve+dalo...%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2ffoto-dramaticna-situacija-u-slavonskom-brodu-aktiviralo-se-kliziste-na-podrucju-grada-popucala-zemlja-blizu-vikendica-na-zlo-se-sve-dalo%2f7151745%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7137645&amp;type=article&amp;title=VIDEO%3a+PROMI%c5%a0LJANJA+O+SPOLU+I+RODU+BOGA%2c+ANALIZA+%c5%bdIVOTA+%c5%bdENA+U+TURSKOJ...+Pogledajte+%c5%a1to+na%c5%a1e+gra%c4%91anke+i+gra%c4%91ani+misle+o+Istanbulskoj+konvenciji!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fvideo-promisljanja-o-spolu-i-rodu-boga-analiza-zivota-zena-u-turskoj-pogledajte-sto-nase-gradanke-i-gradani-misle-o-istanbulskoj-konvenciji%2f7137645%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7151745&amp;type=article&amp;title=FOTO%3a+DRAMATI%c4%8cNA+SITUACIJA+U+SLAVONSKOM+BRODU+Aktiviralo+se+klizi%c5%a1te+na+podru%c4%8dju+grada%2c+popucala+zemlja+blizu+vikendica%3a+%26%23039%3bNa+zlo+se+sve+dalo...%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2ffoto-dramaticna-situacija-u-slavonskom-brodu-aktiviralo-se-kliziste-na-podrucju-grada-popucala-zemlja-blizu-vikendica-na-zlo-se-sve-dalo%2f7151745%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1775928432&title=Istanbulska+konvencija&url=tag%3ajltags%40eph.hr%2c2016%3aIstanbulska_konvencija&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1306322650&title=Slavonski+Brod&url=tag%3ajltags%40eph.hr%2c2016%3aSlavonski_Brod&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1775928432&amp;title=Istanbulska+konvencija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIstanbulska_konvencija&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1306322650&amp;title=Slavonski+Brod&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSlavonski_Brod&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1776984789&title=Video&url=tag%3ajltags%40eph.hr%2c2016%3avideo&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=493391786&title=klizi%c5%a1te&url=tag%3ajltags%40eph.hr%2c2016%3aklizi%25C5%25A1te&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1776984789&amp;title=Video&amp;url=tag%3ajltags%40eph.hr%2c2016%3avideo&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=971827253&title=Jutarnji.hr&url=tag%3ajltags%40eph.hr%2c2016%3aJutarnji.hr&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=971827253&amp;title=Jutarnji.hr&amp;url=tag%3ajltags%40eph.hr%2c2016%3aJutarnji.hr&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=493391786&amp;title=klizi%c5%a1te&amp;url=tag%3ajltags%40eph.hr%2c2016%3aklizi%25C5%25A1te&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2353,7 +2511,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/video-promisljanja-o-spolu-i-rodu-boga-analiza-zivota-zena-u-turskoj-pogledajte-sto-nase-gradanke-i-gradani-misle-o-istanbulskoj-konvenciji/7137645/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/foto-dramaticna-situacija-u-slavonskom-brodu-aktiviralo-se-kliziste-na-podrucju-grada-popucala-zemlja-blizu-vikendica-na-zlo-se-sve-dalo/7151745/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2363,14 +2521,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/video-promisljanja-o-spolu-i-rodu-boga-analiza-zivota-zena-u-turskoj-pogledajte-sto-nase-gradanke-i-gradani-misle-o-istanbulskoj-konvenciji/7137645/",
-postId : "7137645",
+url : "https://www.jutarnji.hr/vijesti/crna-kronika/foto-dramaticna-situacija-u-slavonskom-brodu-aktiviralo-se-kliziste-na-podrucju-grada-popucala-zemlja-blizu-vikendica-na-zlo-se-sve-dalo/7151745/",
+postId : "7151745",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "VIDEO: PROMIŠLJANJA O SPOLU I RODU BOGA, ANALIZA ŽIVOTA ŽENA U TURSKOJ... Pogledajte što naše graðanke i graðani misle o Istanbulskoj konvenciji!",
-pubdate : "2018-03-16 12:29",
-authors : "Siniša Sušec",
-sections : "Front Page, Video news, Hrvatska",
-tags : "Istanbulska konvencija, Video, Jutarnji.hr",
+title : "FOTO: DRAMATIÈNA SITUACIJA U SLAVONSKOM BRODU Aktiviralo se klizište na podruèju grada, popucala zemlja blizu vikendica: 'Na zlo se sve dalo...'",
+pubdate : "2018-03-20 18:18",
+authors : "Aleksandra Vladiæ",
+sections : "Front Page, Crna kronika",
+tags : "Slavonski Brod, klizište",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

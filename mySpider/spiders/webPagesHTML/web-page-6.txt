@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Saborsko zasjedanje u petak je poèelo oporbenim prozivkama, pa je tako &#039;mostovac&#039; Slaven Dobroviæ zamjerao lošoj dinamici gospodarenja otpadom, SDP-ov Gordan Maras prozvao je HDZ zbog povezanosti s Milanom Bandiæem kojem je sud potvrdio sedam toèaka optužnice u sluèaju Agram, dok je HDZ-ov Branko Baèiæ oporbi uzvraæao kako pate od kolektivne sinkope." />
-<meta name="keywords" content="sabor" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="- Bilo je relativno mirno nedjeljno jutro. Na hitnom bolnièkom prijemu pacijenti su strpljivo èekali. Oko 10 sati na šalteru su se pojavila dvojica mladiæa. Jedan od njih rekao je da ga boli nešto u trbuhu i da treba lijeènika. Nisam ni slutio da æe ubrzo uslijediti drama. Rekao sam im koja je procedura i da samo moraju prièekati na trijažu. Naime, svakom se pacijentu odreðuje stupanj hitnosti i o tome ovisi hoæe li morati dulje èekati ili æe odmah u ambulantu." />
+<meta name="keywords" content="KB Dubrava, tuènjava, nasilje" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>CIRKUS U SABORU DOK OPORBA PROZIVA VLADAJUÆE Maras: &#039;Ako se Baèiæ poziva na sinkopu, ima sindrom &#039;vidovitog Milana&#039;; &#039;Dajte smirite se èovjeèe!&#039; - Jutarnji List</title>
+<title>OVO SU BRAÆA KOJA SU SVOJIM DIVLJAŠTVOM U BOLNICI ZGROZILA JAVNOST Njih èetvorica brutalno su prebili administratora hitnog odjela bolnice u Zagrebu - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -180,11 +180,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
+var dfpCategory = "Crna kronika";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7137447";
-var dfpArticleKeyword = "sabor";
+var dfpArticle = "7148040";
+var dfpArticleKeyword = "KB Dubrava";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -606,8 +606,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/cirkus-u-saboru-dok-oporba-proziva-vladajuce-maras-ako-se-bacic-poziva-na-sinkopu-ima-sindrom-vidovitog-milana-dajte-smirite-se-covjece/7137447/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/cirkus-u-saboru-dok-oporba-proziva-vladajuce-maras-ako-se-bacic-poziva-na-sinkopu-ima-sindrom-vidovitog-milana-dajte-smirite-se-covjece/7137447/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/ovo-su-braca-koja-su-svojim-divljastvom-u-bolnici-zgrozila-javnost-njih-cetvorica-brutalno-su-prebili-administratora-hitnog-odjela-bolnice-u-zagrebu/7148040/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/ovo-su-braca-koja-su-svojim-divljastvom-u-bolnici-zgrozila-javnost-njih-cetvorica-brutalno-su-prebili-administratora-hitnog-odjela-bolnice-u-zagrebu/7148040/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -620,21 +620,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/maras_kovanicajpg/6842604/ALTERNATES/LANDSCAPE_1180/maras_kovanica.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/privodenje_naslovnajpg/7148073/ALTERNATES/LANDSCAPE_1180/privo%C4%91enje_naslovna.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/maras_kovanicajpg/6842604/ALTERNATES/LANDSCAPE_1180/maras_kovanica.jpg">
-<meta property="og:title" content="CIRKUS U SABORU DOK OPORBA PROZIVA VLADAJUÆE Maras: 'Ako se Baèiæ poziva na sinkopu, ima sindrom 'vidovitog Milana'; 'Dajte smirite se èovjeèe!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/privodenje_naslovnajpg/7148073/ALTERNATES/LANDSCAPE_1180/privo%C4%91enje_naslovna.jpg">
+<meta property="og:title" content="OVO SU BRAÆA KOJA SU SVOJIM DIVLJAŠTVOM U BOLNICI ZGROZILA JAVNOST Njih èetvorica brutalno su prebili administratora hitnog odjela bolnice u Zagrebu" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/cirkus-u-saboru-dok-oporba-proziva-vladajuce-maras-ako-se-bacic-poziva-na-sinkopu-ima-sindrom-vidovitog-milana-dajte-smirite-se-covjece/7137447/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/ovo-su-braca-koja-su-svojim-divljastvom-u-bolnici-zgrozila-javnost-njih-cetvorica-brutalno-su-prebili-administratora-hitnog-odjela-bolnice-u-zagrebu/7148040/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Saborsko zasjedanje u petak je poèelo oporbenim prozivkama, pa je tako 'mostovac' Slaven Dobroviæ zamjerao lošoj dinamici gospodarenja otpadom, SDP-ov Gordan Maras prozvao je HDZ zbog povezanosti s Milanom Bandiæem kojem je sud potvrdio sedam toèaka optužnice u sluèaju Agram, dok je HDZ-ov Branko Baèiæ oporbi uzvraæao kako pate od kolektivne sinkope." />
+<meta property="og:description" content="- Bilo je relativno mirno nedjeljno jutro. Na hitnom bolnièkom prijemu pacijenti su strpljivo èekali. Oko 10 sati na šalteru su se pojavila dvojica mladiæa. Jedan od njih rekao je da ga boli nešto u trbuhu i da treba lijeènika. Nisam ni slutio da æe ubrzo uslijediti drama. Rekao sam im koja je procedura i da samo moraju prièekati na trijažu. Naime, svakom se pacijentu odreðuje stupanj hitnosti i o tome ovisi hoæe li morati dulje èekati ili æe odmah u ambulantu." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="CIRKUS U SABORU DOK OPORBA PROZIVA VLADAJUÆE Maras: 'Ako se Baèiæ poziva na sinkopu, ima sindrom 'vidovitog Milana'; 'Dajte smirite se èovjeèe!'">
-<meta name="twitter:description" content="Saborsko zasjedanje u petak je poèelo oporbenim prozivkama, pa je tako 'mostovac' Slaven Dobroviæ zamjerao lošoj dinamici gospodarenja otpadom, SDP-ov Gordan Maras prozvao je HDZ zbog povezanosti s Milanom Bandiæem kojem je sud potvrdio sedam toèaka optužnice u sluèaju Agram, dok je HDZ-ov Branko Baèiæ oporbi uzvraæao kako pate od kolektivne sinkope.">
+<meta name="twitter:creator" content="Hajdi Karakaš Jakubin">
+<meta name="twitter:title" content="OVO SU BRAÆA KOJA SU SVOJIM DIVLJAŠTVOM U BOLNICI ZGROZILA JAVNOST Njih èetvorica brutalno su prebili administratora hitnog odjela bolnice u Zagrebu">
+<meta name="twitter:description" content="- Bilo je relativno mirno nedjeljno jutro. Na hitnom bolnièkom prijemu pacijenti su strpljivo èekali. Oko 10 sati na šalteru su se pojavila dvojica mladiæa. Jedan od njih rekao je da ga boli nešto u trbuhu i da treba lijeènika. Nisam ni slutio da æe ubrzo uslijediti drama. Rekao sam im koja je procedura i da samo moraju prièekati na trijažu. Naime, svakom se pacijentu odreðuje stupanj hitnosti i o tome ovisi hoæe li morati dulje èekati ili æe odmah u ambulantu.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -657,9 +657,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-03-16T11:32+01:00",
-author: "Hina",
+data: { section: "Crna kronika, Vijesti, Front Page",
+pubdate: "2018-03-20T13:52+01:00",
+author: "Hajdi Karakaš Jakubin, Goranka Jureško, Marin Deškoviæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -826,7 +826,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -836,7 +836,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1136,10 +1136,10 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1149,7 +1149,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1206,10 +1206,10 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ZASJEDANJE </p>
+OTKRIVENI IDENTITETI HULIGANA </p>
 <h1
 class="title">
-CIRKUS U SABORU DOK OPORBA PROZIVA VLADAJUÆE Maras: 'Ako se Baèiæ poziva na sinkopu, ima sindrom 'vidovitog Milana'; 'Dajte smirite se èovjeèe!'
+OVO SU BRAÆA KOJA SU SVOJIM DIVLJAŠTVOM U BOLNICI ZGROZILA JAVNOST Njih èetvorica brutalno su prebili administratora hitnog odjela bolnice u Zagrebu
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1217,7 +1217,9 @@ CIRKUS U SABORU DOK OPORBA PROZIVA VLADAJUÆE Maras: 'Ako se Baèiæ poziva na sink
 <p
 class="authors">
 <ul>
-<li> Hina</li>
+<li><a href="https://www.jutarnji.hr/autori/hajdi-karakas-jakubin">Hajdi Karakaš Jakubin</a>,</li>
+<li><a href="https://www.jutarnji.hr/autori/goranka-juresko">Goranka Jureško</a>,</li>
+<li><a href="https://www.jutarnji.hr/autori/marin-deskovic">Marin Deškoviæ</a></li>
 </ul>
 </p>
 </li>
@@ -1225,7 +1227,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-16.03.2018. u 11:32
+20.03.2018. u 13:52
 </p>
 </li>
 </ul>
@@ -1237,12 +1239,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/maras_kovanicajpg/6842604" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/privodenje_naslovnajpg/7148073" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/maras_kovanicajpg/6842604/ALTERNATES/LANDSCAPE_380/maras_kovanica.jpg"
+<img src="https://www.jutarnji.hr/incoming/privodenje_naslovnajpg/7148073/ALTERNATES/LANDSCAPE_380/privo%C4%91enje_naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/maras_kovanicajpg/6842604/BINARY/thumbnail/maras_kovanica.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/privodenje_naslovnajpg/7148073/BINARY/thumbnail/privo%C4%91enje_naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1251,18 +1253,22 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Saborska TV
+<span> CROPIX
 </span>
 </div>
 </div>
 <div class="picture-caption ">
-<h4>Gordan Maras (arhiva)</h4>
+<h4>Privoðenje osumnjièenih Županijskom sucu zbog premlaæivanja i nanošenja teških fizièkih ozljeda administrativnom djelatniku Klinièke bolnice Dubrava u nedjelju, 18. ožujka.</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1286,14 +1292,46 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7137447"
+<div id="content-body-6263871-7148040"
 >
-<p>Saborsko zasjedanje u petak je poèelo oporbenim prozivkama, pa je tako 'mostovac' <strong>Slaven Dobroviæ</strong> zamjerao lošoj dinamici gospodarenja otpadom, SDP-ov <strong>Gordan Maras</strong> prozvao je HDZ zbog povezanosti s <strong>Milanom Bandiæem </strong>kojem je sud potvrdio sedam toèaka optužnice u sluèaju Agram, dok je HDZ-ov Branko Baèiæ oporbi uzvraæao kako pate od kolektivne sinkope.</p><p>&quot;Iako su pred Hrvatskom ozbiljne obveze gospodarenje otpadom, a vremena je sve manje, dinamika i na držanoj i na gradskim razinama je jako loša&quot;, ustvrdio je Dobroviæ nakon stanke.</p><p>Zadnji javni poziv za financiranje u sustav recikliranja, napomenuo je, bio je prije godinu dana kada je on bio ministar, a u meðuvremenu je bio samo poziv za edukaciju u gospodarenju otpadom.</p><p>&quot;Gdje su sortirnice i kompostane? Dok sam bio ministar bio je plan objaviti javni poziv do ljeta 2017. Gdje su sustavi odvojenog prikupljanja, centri za ponovnu uporabu. Bez tih sadržaja nije moguæe dostiæi cilj od 50 posto recikliranja nikada, a kamoli do 2020.&quot;, poruèio je Dobroviæ.</p><p>Gradovi, nabrajao je, donose planove koji se sve više ugledaju na promašenu strategiju iz 2005. nego na plan iz 2017., u Splitu nemaju definiranu lokaciju za sortirnicu i kompostanu...</p><p>Maras je istaknuo kako hrvatski graðani najmanje vjeruju pravosuðu, prozivajuæi HDZ zbog povezanosti sa zagrebaèkim gradonaèelnikom. &quot;Nakon dvije i nešto godine gradonaèelnik Zagreba  dobio je na sudu u Zagrebu potvrdu sedam od 10 toèaka optužnice. Ima tu svega:,zamjene zemljišta, zbrinjavanja otpada, zlouporabe položaja u korištenju resursa grada Zagreba, sumnjivih donacija u predsjednièkoj kampanji ...&quot; nabrajao je.</p><h5>Maras: Postalo je normalno da Bandiæ radi nestransparentno</h5><p>Dodao je kako je postalo normalno da zagrebaèki gradonaèelnik netransparentno radi svoj posao, stvari koje se ne smiju u ime graðana Zagreba kojima naplaæuje najveæi prirez od 18 posto.</p><p>Nedopustivim je ocijenio da HDZ, nakon &quot;svojih repova iz prošlosti, Fimi medija i drugih skandala&quot;, podržava Bandiæa. &quot;Nažalost, HDZ podržava gradonaèelnika koji je dobio pravomoænu optužnicu i s njim dijeli vlast, a predsjednik zagrebaèkog HDZ-a, gospodin Mikuliæ je najbliži suradnik Milana Bandiæa. Bandiæ vrlo vjerno vraæa uslugu HDZ-u i kroz svoj klub zastupnika u Saboru drži veæinu Andreju Plenkoviæu&quot;, kazao je.</p><p>HDZ-u poruèuje kako bi &quot;tu simbiozu trebali odbaciti radi higijene javnog prostora, digniteta politike i graðana Zagreba&quot;.</p><h5>Baèiæ: Imamo sinkopu oporbe</h5><p>HDZ-ovac Baèiæ poruèio je oporbi kako se, slušajuæi ih, ne može oteti dojmu da u Hrvatskoj imamo &quot;sinkopu oporbe&quot;. &quot;Kolega Dobroviæ zabrinut za, kako je rekao, katastrofalno stanje gospodarenja otpadom u Hrvatskoj kao da zaboravlja da je i sam bio ministar zaštite okoliša i da smo ga kao koalicijski partneri upozoravali da æe promjena pristupa u gospodarenju otpadom za sobom povuæi odreðeni period prilagoðavanja tom novom planu gospodarenja otpadom&quot;, rekao je.</p><p>Nakon Marasovih prozivki rekao je kako nije odvjetnik zagrebaèkog gradonaèelnika . &quot;Ja bih spomenuo da za vrijeme dok ste zajedno bili vuku se odreðeni sporovi. Ti sporovi su rezultirali presudama koje znaèajno u finacijskom smislu optereæuju SDP i predstavljaju problem u vašim financijama iz razloga vaše netransparentnosti u voðenju kampanje za lokalne izbore u Zagrebu&quot;, odgovorio je Baèiæ SDP-ovcima.</p><h5>Maras: Baèiæ ima sindrom 'vidovitog Milana'</h5><p>Maras se potom požalio na povredu Poslovnika. &quot;Ako se kolega Baèiæ poziva na sinkopu, ima sindrom 'vidovitog Milana'. Uvijek èeka zadnju sekundu i javi se za stanku i onda kao analitièar ovdje komentira što su rekli drugi&quot;, rekao je.</p><p>Od predsjedavajuæeg <strong>Furija Radina </strong>tražio je da iduæi put Baèiæa prekine kada se poène referirati na prethodnike.</p><p>Radinov pokušaj objašnjavanja kako je Baèiæ u pravu jer je tražio stanku radi &quot;unutarnjopolitièke situacije&quot; uzrujao je Marasa koji je, bez da je prethodno dobio rijeè, pokušao izraziti nezadovoljstvo, na što ga je Radin bezuspješno pokušao prekinuti.</p><p>&quot;Dajte smirite se èovjeèe, fvi potièete ljude da krše Poslovnik&quot;, dovikivao mu je Maras.</p>
+<p>- Bilo je relativno mirno nedjeljno jutro. Na hitnom bolnièkom prijemu pacijenti su strpljivo èekali. Oko 10 sati na šalteru su se pojavila dvojica mladiæa. Jedan od njih rekao je da ga boli nešto u trbuhu i da treba lijeènika. Nisam ni slutio da æe ubrzo uslijediti drama. Rekao sam im koja je procedura i da samo moraju prièekati na trijažu. Naime, svakom se pacijentu odreðuje stupanj hitnosti i o tome ovisi hoæe li morati dulje èekati ili æe odmah u ambulantu. </p><p>No, to im se nije svidjelo i veæ nakon minute ili dvije rekli su da ne mogu èekati. Dok je moj kolega na šalteru upisivao podatke, ja sam im pokušao objasniti da moraju biti malo strpljivi i da æe ubrzo doæi do doktora, ali to ih nije smirilo. Krenula je galama, poèeli su vrijeðati... - opisao nam je 48-godišnji administrator hitnog odjela KB-a Dubrava ono što je prethodilo njegovu teškom ranjavanju. Zbog slomljene oène kosti završio je na operaciji u Klinici za maksilofacijalnu kirurgiji, a malo je nedostajalo i da izgubi oko.</p><h5>Pokušao ih smiriti</h5><p>Kaže da su mladiæi postajali sve agresivniji, pa je on izašao sa šaltera kako bi ih primirio.</p><p>- Brzo æe vas pozvati, sjednite, smirite se... No, kao da nisam ništa rekao, galamili su, a pacijenti koji su èekali u èekaonici sve su se više odmicali. Kolega sa šaltera veæ je bio pozvao bolnièko osiguranje, ali trebalo je nešto vremena da doðu do hitnog prijema. U meðuvremenu mladiæi su nešto telefonirali i bio sam uvjeren da su se smirili. No, oni su oèito zvali ‘pojaèanje’ jer u trenutku su se stvorila još dvojica mladiæa i ubrzo sam shvatio da su me okružili i poèeli naguravati. </p><h5>Pomoæ kolega</h5><p>Navalili su nam mene i jedan od njih udario me snažno u lice. U trenutku sam bio na podu, ali, na sreæu, stigli su i osiguranje i moj kolega. Nekako su ih uspjeli sprijeèiti da me ne nastave udarati, što im je oèito bila namjera. U meðuvremenu stigla je i policija, a moja je drama konaèno završena na bolnièkom odjelu, odnosno na operaciji. Uz prijelom imam i hematom. Nadam se da æu se brzo oporaviti - rekao nam je iz bolesnièke postelje teško ozlijeðeni bolnièki administrator te dodao kako nikad u svojih više od 20 godina rada na šalteru nije doživio ništa slièno. Tu i tamo, kaže, znaju doæi neki galamdžije, ali se brzo smire i sve ostane na verbalnim ispadima, ali fizièkog nasilja nije bilo.</p><h5>Bol u trbuhu </h5><p>Dok brutalno pretuèeni administrativni zaposlenik hitnog prijema KB-a Dubrava dolazi k sebi, zagrebaèka policija dovršila je kriminalistièko istraživanje nad èetvoricom mladiæa, nositelja istog prezimena, koji su u nedjelju prijepodne pokazali neviðeni primitivizam praæen divljaštvom. </p><p>Rijeè je o braæi Mateu Æ. (21), Kristijanu Æ. (23), Mihaelu Æ. (25) i Nikoli Æ. (26), od kojih su prva dva brata kazneno prijavljena za nanošenje teških ozljeda, dok æe druga dvojica kazneno odgovarati za sudjelovanje u tuènjavi. A svemu su prethodili stravièni bolovi u trbuhu koje je cijelu noæ trpio 25-godišnji Mihael koji je u pratnji brata Nikole nešto poslije 10 sati u nedjelju došao na hitni bolnièki prijem. </p><p><em><strong>Fotografije pokazuju privoðenje èetvorice napadaèa:</strong></em></p><p> <section>
+<article class="crna-kronika media galleryCall ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/privodenje-cetvorice-osumnjicenih-za-napad-na-administratora-u-kb-dubrava/7148070/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/privodenje-cetvorice-osumnjicenih-za-napad-na-administratora-u-kb-dubrava/7148070/">
+<img src="https://www.jutarnji.hr/incoming/privodjenje1jpg/7148046/ALTERNATES/LANDSCAPE_380/privodjenje1.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/privodjenje1jpg/7148046/BINARY/thumbnail/privodjenje1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 190318.
+Zupanijski sud na Zrinjevcu.
+Privodjenje osumnjicenih Zupanijskom sucu zbog premlacivanja i nanosenja teskih fizickih ozljeda administrativnom djelatniku Klinicke bolnice Dubrava u nedjelju, 18. ozujka.Privodjenje osumnjicenih Zupanijskom sucu zbog premlacivanja i nanosenja teskih fizickih ozljeda administrativnom djelatniku Klinicke bolnice Dubrava u nedjelju, 18. ozujka.
+Foto: Bruno Konjevic / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+ </p><p>No nije dugo trebalo da doðe do povišenih tonova jer je, nakon razgovora s administrativnim zaposlenikom i dok je gledao kako mu se brat savija od bolova, Nikoli prekipjelo.</p><p>Telefonom se pojadao drugoj dvojici braæe, pa su ubrzo pristigli kao pojaèanje Mateo i Kristijan. Proradile su šake i situacija je izmaknula kontroli. Ubrzo je na poprište obraèuna pristigla policija koja je trojicu braæe odmah privela, a potom im se na obradi “pridružio” i èetvrti brat.</p><p> <div class="e4-sub-article ">
+<section>
+<div>
+<h5>Vodstvo bolnice: 'Zaštita oèito mora biti ozbiljnija'</h5><p>U KB-u Dubrava svi su šokirani zbog onog što se dogodilo u nedjelju ujutro kad su èetvorica nasilnika napala administratora, nanijevši mu teške tjelesne ozljede i slomivši mu kost oène šupljine.</p><p>Da je kod pacijenta rijeè o teškoj tjelesnoj ozljedi, potvrdio nam je prof. dr. Ivica Lukšiæ, predstojnik Klinike za kirurgiju lica, èeljusti i usta u KB-u Dubrava.</p><p>- Nakon ozljede, napravili smo operaciju. Radili smo repoziciju te tzv. blow out frakture i plastiku orbite i sad je pacijent dobro - kaže prof. dr. Lukšiæ, ali uvjeren je da æe se ozlijeðeni dobro oporaviti.</p><p>- Rijeè je o vrlo staloženom, mirnom èovjeku koji uvijek sve rješava koncilijantno - kaže zamjenik ravnatelja KB-a Dubrava prof. dr. Darko Chudy. Dodaje kako se nada da æe se brzo opraviti nakon kirurškog zahvata, ali da je oèito kako zaštita u bolnicama treba biti ozbiljnija. G. J.</p>
+</div>
+</section>
+</div>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7137447 p").filter(function () {
+$("#content-body-6263871-7148040 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1302,16 +1340,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7137447").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7148040").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7137447").children().slice(max).remove();
+$("#content-body-6263871-7148040").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7137447").children().get(0);
+var firstChild = $("#content-body-6263871-7148040").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1349,8 +1387,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/sabor" class ="label label-default" >
-sabor
+<a href="https://www.jutarnji.hr/tag/nasilje" class ="label label-default" >
+nasilje
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/tu%C4%8Dnjava" class ="label label-default" >
+tuènjava
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/KB_Dubrava" class ="label label-default" >
+KB Dubrava
 </a>
 </li>
 </ul>
@@ -1361,30 +1409,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
+<article class="crna-kronika media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/zastupnici-potreban-je-novi-zakon-o-otocima/7134864/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/epilog-makljaze-u-kb-dubrava-zaposlenik-hitnog-prijema-zavrsio-na-operaciji-tukli-su-ga-cetvorica-huligana-cak-i-mladic-koji-je-zatrazio-pomoc/7145952/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/zastupnici-potreban-je-novi-zakon-o-otocima/7134864/">
-Zastupnici: Potreban je novi zakon o otocima
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="hrvatska media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/ravnatelj-soa-e-o-sigurnosnim-prijetnjama-hakiranju-agrokoru-mislim-da-je-slucaj-agrokor-vrlo-vazan-za-rh-bitno-je-da-se-taj-proces-sad-dovrsi/7135986/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/ravnatelj-soa-e-o-sigurnosnim-prijetnjama-hakiranju-agrokoru-mislim-da-je-slucaj-agrokor-vrlo-vazan-za-rh-bitno-je-da-se-taj-proces-sad-dovrsi/7135986/">
-RAVNATELJ SOA-e O SIGURNOSNIM PRIJETNJAMA, HAKIRANJU, AGROKORU... 'Mislim da je sluèaj Agrokor vrlo važan za RH. Bitno je da se taj proces sad dovrši'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/epilog-makljaze-u-kb-dubrava-zaposlenik-hitnog-prijema-zavrsio-na-operaciji-tukli-su-ga-cetvorica-huligana-cak-i-mladic-koji-je-zatrazio-pomoc/7145952/">
+EPILOG MAKLJAŽE U KB DUBRAVA Zaposlenik hitnog prijema završio na operaciji, tukli su ga èetvorica huligana, èak i mladiæ koji je zatražio pomoæ!
 </a>
 </h4>
 </li>
@@ -1405,40 +1438,21 @@ RAVNATELJ SOA-e O SIGURNOSNIM PRIJETNJAMA, HAKIRANJU, AGROKORU... 'Mislim da je 
 <div class="elipso products upscore-pos-8">
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/115409.jpg" alt="PHILIPS GC9620 20" /></a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/129549.jpg" alt="PHILIPS FC6408" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 900,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.000,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS GC9620 20</a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS FC6408</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">parne postaje</a></div>
+<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
 <span class="new-price">1.799,00 kn</span>
-<span class="old-price">2.699,00 kn</span>
+<span class="old-price">2.799,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 23.02.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127056.jpg" alt="HP 2KE76EA 15-bs043nm" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 300,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 2KE76EA 15-bs043nm</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">3.999,00 kn</span>
-<span class="old-price">4.299,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 15.03.2018 do 31.05.2018</a>
 </div>
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
@@ -1462,21 +1476,40 @@ RAVNATELJ SOA-e O SIGURNOSNIM PRIJETNJAMA, HAKIRANJU, AGROKORU... 'Mislim da je 
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/124804.jpg" alt="BOSCH BHN20110" /></a>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/115409.jpg" alt="PHILIPS GC9620 20" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 130,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 900,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">BOSCH BHN20110</a>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS GC9620 20</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
+<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">parne postaje</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">499,00 kn</span>
-<span class="old-price">629,00 kn</span>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.799,00 kn</span>
+<span class="old-price">2.699,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 06.03.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 23.02.2018 do 31.03.2018</a>
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-lg-3 product">
+<div class="img media">
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127979.jpg" alt="HP 1XN28EA HP 250 G6" /></a>
+</div>
+<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
+<div class="name">
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 1XN28EA HP 250 G6</a>
+</div>
+<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
+<div class="prices">
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">3.499,00 kn</span>
+<span class="old-price">3.599,00 kn</span>
+</a>
+</div>
+<div class="duration">
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
 </div>
 </div>
 </div>
@@ -1569,7 +1602,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7137447" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7148040" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1601,19 +1634,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/vozaci-racunovode-tvornicki-radnici-lijecnici-trgovci-pravnici-u-hrvatskoj-bi-oko-700-tisuca-ljudi-moglo-ostati-bez-posla/7130415/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/detalji-misteriozne-smrti-skromnog-gospodina-u-sredistu-zagreba-policija-sumnja-da-je-rijec-o-ubojstvu-prije-15-godina-bivsa-zena-ga-je-izbola-nozem/7147638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vozaci-racunovode-tvornicki-radnici-lijecnici-trgovci-pravnici-u-hrvatskoj-bi-oko-700-tisuca-ljudi-moglo-ostati-bez-posla/7130415/">
-NESIGURNA BUDUÆNOST
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/detalji-misteriozne-smrti-skromnog-gospodina-u-sredistu-zagreba-policija-sumnja-da-je-rijec-o-ubojstvu-prije-15-godina-bivsa-zena-ga-je-izbola-nozem/7147638/">
+OÈEVID U TIJEKU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vozaci-racunovode-tvornicki-radnici-lijecnici-trgovci-pravnici-u-hrvatskoj-bi-oko-700-tisuca-ljudi-moglo-ostati-bez-posla/7130415/">
-VOZAÈI, RAÈUNOVOÐE, TVORNIÈKI RADNICI, LIJEÈNICI, TRGOVCI, PRAVNICI... 'U Hrvatskoj bi oko 700 tisuæa ljudi moglo ostati bez posla!'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/detalji-misteriozne-smrti-skromnog-gospodina-u-sredistu-zagreba-policija-sumnja-da-je-rijec-o-ubojstvu-prije-15-godina-bivsa-zena-ga-je-izbola-nozem/7147638/">
+DETALJI MISTERIOZNE SMRTI SKROMNOG GOSPODINA U SREDIŠTU ZAGREBA, POLICIJA SUMNJA DA JE RIJEÈ O UBOJSTVU Prije 15 godina bivša žena ga je izbola nožem
 </a>
 </h4>
 </div>
@@ -1623,19 +1656,19 @@ VOZAÈI, RAÈUNOVOÐE, TVORNIÈKI RADNICI, LIJEÈNICI, TRGOVCI, PRAVNICI... 'U Hrvats
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-povratak-bivse-kninske-kraljice-peda-grbin-saznao-za-novu-funkciju-josipe-rimac-i-ostao-u-potpunom-soku-pa-je-li-to-normalno/7129878/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/horor-na-plitvicama-turistkinja-iz-juzne-koreje-se-poskliznula-letjela-70-metara-i-pala-u-jezero-tri-i-pol-sata-poslije-umrla-je-u-bolnici/7147155/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-povratak-bivse-kninske-kraljice-peda-grbin-saznao-za-novu-funkciju-josipe-rimac-i-ostao-u-potpunom-soku-pa-je-li-to-normalno/7129878/">
-ZAPREPASTIO SE
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/horor-na-plitvicama-turistkinja-iz-juzne-koreje-se-poskliznula-letjela-70-metara-i-pala-u-jezero-tri-i-pol-sata-poslije-umrla-je-u-bolnici/7147155/">
+FATALNI PAD
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-povratak-bivse-kninske-kraljice-peda-grbin-saznao-za-novu-funkciju-josipe-rimac-i-ostao-u-potpunom-soku-pa-je-li-to-normalno/7129878/">
-VELIKI POVRATAK BIVŠE KNINSKE KRALJICE Peða Grbin saznao za novu funkciju Josipe Rimac i ostao u potpunom šoku: 'Pa je li to normalno?!'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/horor-na-plitvicama-turistkinja-iz-juzne-koreje-se-poskliznula-letjela-70-metara-i-pala-u-jezero-tri-i-pol-sata-poslije-umrla-je-u-bolnici/7147155/">
+HOROR NA PLITVICAMA Turistkinja iz Južne Koreje se poskliznula, letjela 70 metara i pala u jezero... Tri i pol sata poslije umrla je u bolnici
 </a>
 </h4>
 </div>
@@ -1645,19 +1678,19 @@ VELIKI POVRATAK BIVŠE KNINSKE KRALJICE Peða Grbin saznao za novu funkciju Josipe
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/nekretnine-tvrtke-bivseg-premijera-idu-na-bubanj-na-drazbu-idu-stanovi-u-elitnoj-zagrebackoj-ulici-atraktivna-zemljista/7131240/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/zbog-ljubavi-totalno-pomahnitao-sibencanin-pokusao-oteti-bivsu-djevojku-ali-nije-racunao-na-nesudenu-punicu/7145658/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nekretnine-tvrtke-bivseg-premijera-idu-na-bubanj-na-drazbu-idu-stanovi-u-elitnoj-zagrebackoj-ulici-atraktivna-zemljista/7131240/">
-ODLUKA TRGOVAÈKOG SUDA
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/zbog-ljubavi-totalno-pomahnitao-sibencanin-pokusao-oteti-bivsu-djevojku-ali-nije-racunao-na-nesudenu-punicu/7145658/">
+LJUBAVNA DRAMA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nekretnine-tvrtke-bivseg-premijera-idu-na-bubanj-na-drazbu-idu-stanovi-u-elitnoj-zagrebackoj-ulici-atraktivna-zemljista/7131240/">
-NEKRETNINE TVRTKE BIVŠEG PREMIJERA IDU NA 'BUBANJ' Na dražbu idu stanovi u elitnoj zagrebaèkoj ulici, atraktivna zemljišta...
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/zbog-ljubavi-totalno-pomahnitao-sibencanin-pokusao-oteti-bivsu-djevojku-ali-nije-racunao-na-nesudenu-punicu/7145658/">
+ZBOG LJUBAVI TOTALNO POMAHNITAO Šibenèanin pokušao oteti bivšu djevojku, ali nije raèunao na nesuðenu punicu
 </a>
 </h4>
 </div>
@@ -1667,19 +1700,19 @@ NEKRETNINE TVRTKE BIVŠEG PREMIJERA IDU NA 'BUBANJ' Na dražbu idu stanovi u elitn
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/oruzana-pljacka-banke-u-zagrebu-drama-u-sarajevskoj-razbojnik-oteo-novac-iz-poslovnice-pbz-a-u-sklopu-konzuma-policija-krenula-u-potjeru-za-njim/7147290/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/">
-NE NASJEDAJTE
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/oruzana-pljacka-banke-u-zagrebu-drama-u-sarajevskoj-razbojnik-oteo-novac-iz-poslovnice-pbz-a-u-sklopu-konzuma-policija-krenula-u-potjeru-za-njim/7147290/">
+SNIMILE GA NADZORNE KAMERE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/">
-OZBILJNO UPOZORENJE GRAÐANIMA Kruže lažne elektronièke poruke: 'Dobijete li ovakav email o dugovanjima, nemojte ga otvarati'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/oruzana-pljacka-banke-u-zagrebu-drama-u-sarajevskoj-razbojnik-oteo-novac-iz-poslovnice-pbz-a-u-sklopu-konzuma-policija-krenula-u-potjeru-za-njim/7147290/">
+ORUŽANA PLJAÈKA BANKE U ZAGREBU Drama u Sarajevskoj: Razbojnik oteo novac iz poslovnice PBZ-a u sklopu Konzuma, policija krenula u potjeru za njim
 </a>
 </h4>
 </div>
@@ -1715,21 +1748,21 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-<article class="ljepota media c3 none">
+<article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-<img src="https://www.gloria.hr/fokus/nana-2png/7132410/ALTERNATES/LANDSCAPE_380/nana%202.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/nana-2png/7132410/BINARY/thumbnail/nana%202.PNG"
+data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Anamarija Asanovic 081216 snimio Sasa Buric"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1737,8 +1770,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-Kæi Mustafe Nadareviæa o beauty trendovima i poslu o kojem sanjaju mnoge djevojke
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
 </a>
 </h4>
 </div>
@@ -1797,7 +1830,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1807,7 +1840,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -2208,14 +2241,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/posjetili-smo-hrvatsku-kostajnicu-nakon-stravicnog-klizanja-terena-stanovnici-su-u-sekundi-ostali-bez-svega?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/alkohol-ih-je-trebao-ubiti-no-oni-su-demantirali-medicinu-i-ostali-medu-zivima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_152104775529216661_10155882335474279_2780208617909911552_o.jpg?v=1521047758" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1491402427policijakontrola.jpg?v=1491402498" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: TUŽNA SLIKA GRADA/Posjetili smo Hrvatsku Kostajnicu nakon straviènog klizanja terena, stanovnici su u sekundi ostali bez svega</h4>
+<h4>NESLAVNI HRVATSKI REKORDERI/Alkohol ih je trebao ubiti, no oni su demantirali medicinu i ostali meðu živima</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2259,23 +2292,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7137447&type=article&title=CIRKUS+U+SABORU+DOK+OPORBA+PROZIVA+VLADAJU%c4%86E+Maras%3a+%26%23039%3bAko+se+Ba%c4%8di%c4%87+poziva+na+sinkopu%2c+ima+sindrom+%26%23039%3bvidovitog+Milana%26%23039%3b%3b+%26%23039%3bDajte+smirite+se+%c4%8dovje%c4%8de!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fcirkus-u-saboru-dok-oporba-proziva-vladajuce-maras-ako-se-bacic-poziva-na-sinkopu-ima-sindrom-vidovitog-milana-dajte-smirite-se-covjece%2f7137447%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7148040&type=article&title=OVO+SU+BRA%c4%86A+KOJA+SU+SVOJIM+DIVLJA%c5%a0TVOM+U+BOLNICI+ZGROZILA+JAVNOST+Njih+%c4%8detvorica+brutalno+su+prebili+administratora+hitnog+odjela+bolnice+u+Zagrebu&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fovo-su-braca-koja-su-svojim-divljastvom-u-bolnici-zgrozila-javnost-njih-cetvorica-brutalno-su-prebili-administratora-hitnog-odjela-bolnice-u-zagrebu%2f7148040%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7137447&amp;type=article&amp;title=CIRKUS+U+SABORU+DOK+OPORBA+PROZIVA+VLADAJU%c4%86E+Maras%3a+%26%23039%3bAko+se+Ba%c4%8di%c4%87+poziva+na+sinkopu%2c+ima+sindrom+%26%23039%3bvidovitog+Milana%26%23039%3b%3b+%26%23039%3bDajte+smirite+se+%c4%8dovje%c4%8de!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fcirkus-u-saboru-dok-oporba-proziva-vladajuce-maras-ako-se-bacic-poziva-na-sinkopu-ima-sindrom-vidovitog-milana-dajte-smirite-se-covjece%2f7137447%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7148040&amp;type=article&amp;title=OVO+SU+BRA%c4%86A+KOJA+SU+SVOJIM+DIVLJA%c5%a0TVOM+U+BOLNICI+ZGROZILA+JAVNOST+Njih+%c4%8detvorica+brutalno+su+prebili+administratora+hitnog+odjela+bolnice+u+Zagrebu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fovo-su-braca-koja-su-svojim-divljastvom-u-bolnici-zgrozila-javnost-njih-cetvorica-brutalno-su-prebili-administratora-hitnog-odjela-bolnice-u-zagrebu%2f7148040%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1779995289&title=sabor&url=tag%3ajltags%40eph.hr%2c2016%3asabor&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1682733143&title=KB+Dubrava&url=tag%3ajltags%40eph.hr%2c2016%3aKB_Dubrava&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1779995289&amp;title=sabor&amp;url=tag%3ajltags%40eph.hr%2c2016%3asabor&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1682733143&amp;title=KB+Dubrava&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKB_Dubrava&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1484003324&title=tu%c4%8dnjava&url=tag%3ajltags%40eph.hr%2c2016%3atu%25C4%258Dnjava&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1484003324&amp;title=tu%c4%8dnjava&amp;url=tag%3ajltags%40eph.hr%2c2016%3atu%25C4%258Dnjava&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1903418926&title=nasilje&url=tag%3ajltags%40eph.hr%2c2016%3anasilje&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1903418926&amp;title=nasilje&amp;url=tag%3ajltags%40eph.hr%2c2016%3anasilje&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2328,7 +2383,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/cirkus-u-saboru-dok-oporba-proziva-vladajuce-maras-ako-se-bacic-poziva-na-sinkopu-ima-sindrom-vidovitog-milana-dajte-smirite-se-covjece/7137447/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/ovo-su-braca-koja-su-svojim-divljastvom-u-bolnici-zgrozila-javnost-njih-cetvorica-brutalno-su-prebili-administratora-hitnog-odjela-bolnice-u-zagrebu/7148040/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2338,14 +2393,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/cirkus-u-saboru-dok-oporba-proziva-vladajuce-maras-ako-se-bacic-poziva-na-sinkopu-ima-sindrom-vidovitog-milana-dajte-smirite-se-covjece/7137447/",
-postId : "7137447",
+url : "https://www.jutarnji.hr/vijesti/crna-kronika/ovo-su-braca-koja-su-svojim-divljastvom-u-bolnici-zgrozila-javnost-njih-cetvorica-brutalno-su-prebili-administratora-hitnog-odjela-bolnice-u-zagrebu/7148040/",
+postId : "7148040",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "CIRKUS U SABORU DOK OPORBA PROZIVA VLADAJUÆE Maras: 'Ako se Baèiæ poziva na sinkopu, ima sindrom 'vidovitog Milana'; 'Dajte smirite se èovjeèe!'",
-pubdate : "2018-03-16 11:32",
-authors : "Hina",
-sections : "Front Page, Hrvatska",
-tags : "sabor",
+title : "OVO SU BRAÆA KOJA SU SVOJIM DIVLJAŠTVOM U BOLNICI ZGROZILA JAVNOST Njih èetvorica brutalno su prebili administratora hitnog odjela bolnice u Zagrebu",
+pubdate : "2018-03-20 13:52",
+authors : "Hajdi Karakaš Jakubin, Goranka Jureško, Marin Deškoviæ",
+sections : "Front Page, Crna kronika",
+tags : "KB Dubrava, tuènjava, nasilje",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

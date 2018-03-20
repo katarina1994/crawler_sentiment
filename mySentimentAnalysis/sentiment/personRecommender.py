@@ -1,3 +1,9 @@
+'''
+Created on 15. ozu 2018.
+
+@author: Katarina123
+'''
+
 #import nltk
 #nltk.download()
 
@@ -32,6 +38,7 @@ for fileName in glob.glob(os.path.join(path, '*.txt')):
     for sent in text.sentences:
         #print(sent, "\n")
         for entity in sent.entities:
+            #print (entity)
             if(entity.tag == "I-PER"):
                 #print (entity)
                 if (len(entity) > 1):

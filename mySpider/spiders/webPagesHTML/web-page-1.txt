@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Vrhovni sud donio je odluku u sluèaju koji su roditelji Nore Šitum pokrenuli protiv udruge &#039;Hrabro dijete&#039;." />
-<meta name="keywords" content="Hrvatska, Nora Šitum" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Na izborima za Europski parlament koji se održavaju u svibnju iduæe godine prvi æe put sudjelovati i transnacionalna lista kojoj æe povjerenje moæi dati biraèi u više europskih država, pa tako, po svemu sudeæi, i u Hrvatskoj. Iza nje stoji Pokret za demokratizaciju Europe, poznatiji kao DiEM25, èiji je najistaknutiji èlan karizmatièni Janis Varufakis, ekonomist s meðunarodnom karijerom i profesor na Ekonomskom fakultetu u Ateni, koji je široj javnosti najpoznatiji kao bivši grèki ministar financija u prvoj Vladi Aleksisa Ciprasa 2015. godine. Jedan je od Varufakisovih najbližih suradnika i osnivaèa pokreta DiEM25 i istaknuti hrvatski filozof Sreæko Horvat, koji u Globusu iznosi planove i ambicije ove politièke inicijative." />
+<meta name="keywords" content="Sreæko Horvat, Globus, Janis Varufakis" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>NOVAC PRIKUPLJEN ZA MALU NORU OSTAJE UDRUZI &#039;HRABRO DIJETE&#039; Roditelji Nore Šitum moraju im isplatiti i troškove suðenja - Jutarnji List</title>
+<title>EKSKLUZIVNO U GLOBUSU Varufakis i Horvat stvaraju transnacionalnu listu za EU parlament: &#039;Ne zaustavimo li desnicu, èeka nas europski graðanski rat&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -180,11 +180,11 @@ var dfpCountryCode = "US";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7137723";
-var dfpArticleKeyword = "Hrvatska";
+var dfpCategory = "Politika";
+var dfpCategoryParent = "Globus";
+var dfpRos = "globus-ros";
+var dfpArticle = "7150695";
+var dfpArticleKeyword = "Sreæko Horvat";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -608,8 +608,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/novac-prikupljen-za-malu-noru-ostaje-udruzi-hrabro-dijete-roditelji-nore-situm-moraju-im-isplatiti-i-troskove-sudenja/7137723/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/novac-prikupljen-za-malu-noru-ostaje-udruzi-hrabro-dijete-roditelji-nore-situm-moraju-im-isplatiti-i-troskove-sudenja/7137723/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -622,21 +622,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/zuber_premijera9-280917jpg/6595329/ALTERNATES/LANDSCAPE_1180/zuber_premijera9-280917.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/nikos-pilos-006jpg/7150701/ALTERNATES/LANDSCAPE_1180/NIKOS-PILOS-006.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/zuber_premijera9-280917jpg/6595329/ALTERNATES/LANDSCAPE_1180/zuber_premijera9-280917.jpg">
-<meta property="og:title" content="NOVAC PRIKUPLJEN ZA MALU NORU OSTAJE UDRUZI 'HRABRO DIJETE' Roditelji Nore Šitum moraju im isplatiti i troškove suðenja" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/nikos-pilos-006jpg/7150701/ALTERNATES/LANDSCAPE_1180/NIKOS-PILOS-006.jpg">
+<meta property="og:title" content="EKSKLUZIVNO U GLOBUSU Varufakis i Horvat stvaraju transnacionalnu listu za EU parlament: 'Ne zaustavimo li desnicu, èeka nas europski graðanski rat'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/novac-prikupljen-za-malu-noru-ostaje-udruzi-hrabro-dijete-roditelji-nore-situm-moraju-im-isplatiti-i-troskove-sudenja/7137723/" />
+<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Vrhovni sud donio je odluku u sluèaju koji su roditelji Nore Šitum pokrenuli protiv udruge 'Hrabro dijete'." />
+<meta property="og:description" content="Na izborima za Europski parlament koji se održavaju u svibnju iduæe godine prvi æe put sudjelovati i transnacionalna lista kojoj æe povjerenje moæi dati biraèi u više europskih država, pa tako, po svemu sudeæi, i u Hrvatskoj. Iza nje stoji Pokret za demokratizaciju Europe, poznatiji kao DiEM25, èiji je najistaknutiji èlan karizmatièni Janis Varufakis, ekonomist s meðunarodnom karijerom i profesor na Ekonomskom fakultetu u Ateni, koji je široj javnosti najpoznatiji kao bivši grèki ministar financija u prvoj Vladi Aleksisa Ciprasa 2015. godine. Jedan je od Varufakisovih najbližih suradnika i osnivaèa pokreta DiEM25 i istaknuti hrvatski filozof Sreæko Horvat, koji u Globusu iznosi planove i ambicije ove politièke inicijative." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="NOVAC PRIKUPLJEN ZA MALU NORU OSTAJE UDRUZI 'HRABRO DIJETE' Roditelji Nore Šitum moraju im isplatiti i troškove suðenja">
-<meta name="twitter:description" content="Vrhovni sud donio je odluku u sluèaju koji su roditelji Nore Šitum pokrenuli protiv udruge 'Hrabro dijete'.">
+<meta name="twitter:creator" content="Boris Orešiæ">
+<meta name="twitter:title" content="EKSKLUZIVNO U GLOBUSU Varufakis i Horvat stvaraju transnacionalnu listu za EU parlament: 'Ne zaustavimo li desnicu, èeka nas europski graðanski rat'">
+<meta name="twitter:description" content="Na izborima za Europski parlament koji se održavaju u svibnju iduæe godine prvi æe put sudjelovati i transnacionalna lista kojoj æe povjerenje moæi dati biraèi u više europskih država, pa tako, po svemu sudeæi, i u Hrvatskoj. Iza nje stoji Pokret za demokratizaciju Europe, poznatiji kao DiEM25, èiji je najistaknutiji èlan karizmatièni Janis Varufakis, ekonomist s meðunarodnom karijerom i profesor na Ekonomskom fakultetu u Ateni, koji je široj javnosti najpoznatiji kao bivši grèki ministar financija u prvoj Vladi Aleksisa Ciprasa 2015. godine. Jedan je od Varufakisovih najbližih suradnika i osnivaèa pokreta DiEM25 i istaknuti hrvatski filozof Sreæko Horvat, koji u Globusu iznosi planove i ambicije ove politièke inicijative.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -647,7 +647,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2447';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -659,15 +659,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-03-16T12:41+01:00",
-author: "Ana Soriæ",
+data: { section: "Politika, Globus, Front Page",
+pubdate: "2018-03-20T18:53+01:00",
+author: "Boris Orešiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="globus story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -712,11 +712,7 @@ $("#related-news-box").remove();
 });
 </script>
 <div class="container">
-<header class="mainHead " role="banner">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<header class="mainHead brandedHead " role="banner">
 <script>
 window.fbAsyncInit = function() {
 FB.init({
@@ -735,16 +731,27 @@ fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
 <a name="top"></a>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div class="row " >
 <div class="col-sm-12 ">
 </div>
 </div>
 <div class="row " >
 <div class="col-sm-12 ">
-<div class="col-sm-12 col-lg-8 col-lg-push-2 ">
-<div id="siteHead">
+<div id="siteHead"
+class=" ">
+<div class="head_date">
+<p class="month">
+<span>20.3.</span>2018.
+</p>
+<p class="day">
+utorak
+</p>
+</div>
 <span class="logo"><a href="/">JutarnjList</a></span>
-</div>
 </div>
 <nav class="navbar main_nav "
 role="navigation" >
@@ -757,65 +764,17 @@ role="navigation" >
 </button>
 </div>
 <div id="navbar-collapse-1" class="navbar-collapse collapse ">
-<ul class=" main nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/">
-Naslovnica
-</a>
-</li>
-<li class="active">
-<a href="https://www.jutarnji.hr/vijesti/">
-Vijesti
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/sport/">
-Sport
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/biznis/">
-Biznis
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/">
-Life
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/">
-Kultura
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/spektakli/">
-Spektakli
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/viral/">
-Viral
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/video/">
-Video
-</a>
-</li>
-</ul>
+<span class="logo suplement "><a href="/">JutarnjList</a></span>
 <ul class="nav navbar-nav all_sections">
 <li>
 <a href="#" class="site_search"><span class="text-hide">Pretraži</span></a>
-<a href="https://twitter.com/jutarnjihr" class="twitter_follow"><span class="text-hide">Twitter</span></a>
-<a href="https://www.facebook.com/jutarnji.list/" class="facebook_follow"><span class="text-hide">Facebook</span></a>
-<a class="instagram_follow" href="https://www.instagram.com/jutarnji.hr/"><span class="text-hide">Instagram</span></a>
 </li>
 <li class="dropdown megadropdown ">
-<a href="/" id="menuPane-link-1">
+<a href="#" id="menuPane-link-1">
 Sve rubrike
 <div id="rwd_toggle"><span></span><span></span><span></span><span></span></div>
 </a>
+</li>
 </ul>
 </div>
 <div class="wrap-megadropdown-menu ">
@@ -828,7 +787,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1126,6 +1085,50 @@ Mozgalice
 </div>
 </div>
 </div>
+<div class="subBranding ">
+<span class="logo"><a href="/globus">Globus</a></span>
+</div>
+<div class="subLevelNavbar ">
+<ul class=" sub nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/globus/">
+Naslovnica
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/globus/Globus-politika/">
+Politika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-biznis/">
+Biznis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/">
+Život
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-kultura/">
+Kultura
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav socialChannels">
+<li>
+<a class="facebook_follow" href="https://www.facebook.com/globus.hr/">
+<span class="text-hide">Facebook</span>
+</a>
+</li>
+</ul>
+</div>
 <div id="searchBox">
 <form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
 <div class="form-group">
@@ -1133,45 +1136,6 @@ Mozgalice
 <button type="submit">Submit</button>
 </div>
 </form>
-</div>
-<div class="subLevelNavbar ">
-<ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
-</li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
-</ul>
-<ul class=" sub nav navbar-nav">
-<li class="active">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
-</a>
-</li>
-<li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
-</a>
-</li>
-</ul>
 </div>
 </nav>
 </div>
@@ -1208,11 +1172,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-OBJAVLJENA PRESUDA
+EUROPSKE LJEVIÈARSKE ZVIJEZDE
 </p>
 <h1
 class="title">
-NOVAC PRIKUPLJEN ZA MALU NORU OSTAJE UDRUZI 'HRABRO DIJETE' Roditelji Nore Šitum moraju im isplatiti i troškove suðenja
+EKSKLUZIVNO U GLOBUSU Varufakis i Horvat stvaraju transnacionalnu listu za EU parlament: 'Ne zaustavimo li desnicu, èeka nas europski graðanski rat'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1220,7 +1184,7 @@ NOVAC PRIKUPLJEN ZA MALU NORU OSTAJE UDRUZI 'HRABRO DIJETE' Roditelji Nore Šitum
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li>Boris Orešiæ</li>
 </ul>
 </p>
 </li>
@@ -1228,7 +1192,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-16.03.2018. u 12:41
+20.03.2018. u 18:53
 </p>
 </li>
 </ul>
@@ -1240,36 +1204,29 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/zuber_premijera9-280917jpg/6595329" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/nikos-pilos-006jpg/7150701" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/zuber_premijera9-280917jpg/6595329/ALTERNATES/LANDSCAPE_380/zuber_premijera9-280917.jpg"
+<img src="https://www.jutarnji.hr/incoming/nikos-pilos-006jpg/7150701/ALTERNATES/LANDSCAPE_380/NIKOS-PILOS-006.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/zuber_premijera9-280917jpg/6595329/BINARY/thumbnail/zuber_premijera9-280917.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/nikos-pilos-006jpg/7150701/BINARY/thumbnail/NIKOS-PILOS-006.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 280917.
-Kino Europa, Varsavska ulica.
-Premijera dokumentarnog filma Roberta Zubera, Zivot od milijun dolara o Nori Situm.
-Na fotografiji: Roditelji Nore Situm, Ivica Situm i Djana Atanasovska sa Robertom Zuberom.
-Foto: Ranko Suvar / CROPIX"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> Ranko Šuvar / CROPIX
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Na fotografiji: roditelji Nore Šitum, Ivica Šitum i Ðana Atanasovska</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1293,14 +1250,37 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7137723"
+<div id="content-body-6263871-7150695"
 >
-<p>Vrhovni sud donio je odluku u sluèaju koji su roditelji <strong>Nore Šitum</strong> pokrenuli protiv udruge 'Hrabro dijete'.</p><p>Potvrðena je presuda suda prvog stupnja te su ‘tužitelji odbijeni sa zahtjevom za naknadu troška žalbe, a tuženik sa zahtjevom za naknadu troška odgovora na žalbu’.</p><p>‘U sluèaju smrti korisnika, sredstva prikupljena u organiziranoj humanitarnoj akciji ne predstavljaju ostavinsku imovinu korisnika, odnosno nisu nasljediva’, objavio je Vrhovni sud na svojim mrežnim stranicama.</p><p>Presudu Vrhovnog suda u cijelosti proèitajte na <strong><a href="http://www.vsrh.hr/CustomPages/Static/HRV/Files/2018dok/VSRH_Rev-3049-2015-2-an.pdf" target="_blank">ovom linku</a></strong>.</p><p>Podsjetimo, Norini roditelji protiv udruge 'Hrabro dijete' podigli su tužbu zbog toga kome pripada preostalih èetiri milijuna kuna prikupljenih u humanitarnoj akciji za lijeèenje djevojèice, no sud u Novoj Gradiški u travnju 2015. tužbu je odbio i odluèio da æe s novcem raspolagati udruga 'Hrabro dijete'. Na odluku su se žalili, no i drugostupanjskom presudom na sudu u Slavonskom Brodu njihova je žalba odbijena. <strong>Ivica Šitum i Ðana Atanasovska</strong> došli su sve do Vrhovnog suda, no i tamo je pravomoæna odluka donesena u korist udruge 'Hrabro dijete'.</p>
+<p>Na izborima za Europski parlament koji se održavaju u svibnju iduæe godine prvi æe put sudjelovati i transnacionalna lista kojoj æe povjerenje moæi dati biraèi u više europskih država, pa tako, po svemu sudeæi, i u Hrvatskoj. Iza nje stoji Pokret za demokratizaciju Europe, poznatiji kao DiEM25, èiji je najistaknutiji èlan karizmatièni Janis Varufakis, ekonomist s meðunarodnom karijerom i profesor na Ekonomskom fakultetu u Ateni, koji je široj javnosti najpoznatiji kao bivši grèki ministar financija u prvoj Vladi Aleksisa Ciprasa 2015. godine. Jedan je od Varufakisovih najbližih suradnika i osnivaèa pokreta DiEM25 i istaknuti hrvatski filozof <strong>Sreæko Horvat</strong>, koji u Globusu iznosi planove i ambicije ove politièke inicijative.</p><p>“Možda æe vas iznenaditi, ali DiEM25 nije ljevièarski pokret. Osim što okuplja mnoge lijeve figure, od <strong>Janisa Varufakisa </strong>do <strong>Noama Chomskog</strong>, od <strong>Kena Loacha</strong> do <strong>Naomi Klein</strong>, DiEM25 istovremeno kao èlanove ima mnoge ‘zelene’, ali èak i liberale, pa i konzervativce. Ukratko, sve one koji smatraju da je trenutna dezintegracija Europske unije loša ne samo za demokraciju, sigurnost i mir nego i za ekonomiju”, kaže Horvat, prvi Hrvat koji bi u Europski parlament mogao uæi izvan okvira hrvatskih politièkih stranaka.</p><p>Po njegovim rijeèima, prva transnacionalna lista za iduæe europske izbore službeno je uspostavljena prošli tjedan u Napulju, kao i zajednièko transnacionalno vijeæe koje æe upravljati tim pothvatom s predstavnicima, zasad, sedam stranaka iz sedam razlièitih europskih država uz DiEM25 kao pokret koji je inicirao transnacionalnu listu.</p><p>Osnivaèima pokreta DiEM25 cilj je stvoriti temelje za postkapitalistièku Europu jer kapitalizam smatraju dugoroèno neodrživim. Potencijalne biraèe u Hrvatskoj vide u svima onima koji su nezadovoljni unutarnjom ekonomskom i socijalnom politikom koja podrazumijeva daljnju privatizaciju i gubitak monetarnog suvereniteta zbog uvoðenja eura.</p><p>Horvat upozorava: “U Europskoj uniji nemamo razvoj, a kamoli održivi razvoj, nego imploziju. Kriza koja tek dolazi, ako je na vrijeme ne zaustavimo, neæe biti samo kriza nego graðanski rat koji se veæ nazire na ulicama Europe, od terorizma do fašistièkih skupina koje marširaju i ubijaju izbjeglice.”</p><p>Njegov kolega Varufakis istièe da je europska kriza sistemska, pa je treba i sistemski rješavati.</p><p>“Samo transnacionalna politièka stranka može imati mandat za primjenu sistematskih paneuropskih politika koje Europi oèajnièki trebaju. Hrvatska mora biti dio tog projekta ako želi biti dio Europe koja stvara rješenja, a ne nove probleme.”</p><h5><em><strong>Cijeli èlanak možete proèitati u tiskanome izdanju novoga broja Globusa!</strong></em></h5><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/globus_naslovnajpg/7150698" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/globus_naslovnajpg/7150698/ALTERNATES/FREE_380/globus_naslovna.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/globus_naslovnajpg/7150698/BINARY/thumbnail/globus_naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7137723 p").filter(function () {
+$("#content-body-6263871-7150695 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1309,16 +1289,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7137723").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7150695").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7137723").children().slice(max).remove();
+$("#content-body-6263871-7150695").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7137723").children().get(0);
+var firstChild = $("#content-body-6263871-7150695").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1356,13 +1336,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Nora_%C5%A0itum" class ="label label-default" >
-Nora Šitum
+<a href="https://www.jutarnji.hr/tag/Janis_Varufakis" class ="label label-default" >
+Janis Varufakis
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Hrvatska" class ="label label-default" >
-Hrvatska
+<a href="https://www.jutarnji.hr/tag/Globus" class ="label label-default" >
+Globus
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Sre%C4%87ko_Horvat" class ="label label-default" >
+Sreæko Horvat
 </a>
 </li>
 </ul>
@@ -1373,15 +1358,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
+<article class="komentari media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/pokrenuta-ovrha-nad-roditeljima-nore-situm-upravo-smo-saznali-iducih-desetak-godina-radimo-za-place-kriminalcima-iz-udruge-hrabro-dijete/6643920/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/komentari/jurica-pavicic-crkva-ce-govoreci-uime-tradicije-najvise-nauditi-tradiciji-tko-ima-volje-moze-vidjeti-kako-se-to-dogodilo-u-spanjolskoj-i-irskoj/6906693/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/pokrenuta-ovrha-nad-roditeljima-nore-situm-upravo-smo-saznali-iducih-desetak-godina-radimo-za-place-kriminalcima-iz-udruge-hrabro-dijete/6643920/">
-POKRENUTA OVRHA NAD RODITELJIMA NORE ŠITUM 'Upravo smo saznali, iduæih desetak godina radimo za plaæe kriminalcima iz Udruge Hrabro dijete'
+<a href="https://www.jutarnji.hr/komentari/jurica-pavicic-crkva-ce-govoreci-uime-tradicije-najvise-nauditi-tradiciji-tko-ima-volje-moze-vidjeti-kako-se-to-dogodilo-u-spanjolskoj-i-irskoj/6906693/">
+JURICA PAVIÈIÆ Crkva æe, govoreæi uime tradicije, najviše nauditi - tradiciji. Tko ima volje, može vidjeti kako se to dogodilo u Španjolskoj i Irskoj
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="globus-komentari media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-ikone-ljevice-tvrde-antifasizam-je-novi-opijum-za-narod/7027056/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-ikone-ljevice-tvrde-antifasizam-je-novi-opijum-za-narod/7027056/">
+ZA GLOBUS PIŠE IVICA ŠOLA Ikone ljevice tvrde: Antifašizam je novi opijum za narod
 </a>
 </h4>
 </li>
@@ -1392,91 +1392,8 @@ POKRENUTA OVRHA NAD RODITELJIMA NORE ŠITUM 'Upravo smo saznali, iduæih desetak g
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div style="text-align:center;" class="addthis_responsive_sharing"></div>
-<div class="titleRow promo_heading_fix">
-<div class="col-sm-12">
-<h3 class="section_title_alt izdvojeno_alt"><div><span>ELIPSO</span></div></h3>
-</div>
-</div>
 <div class="upscore-pos-7 ">
-<section>
-<div class="elipso products upscore-pos-8">
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.199,00 kn</span>
-<span class="old-price">1.299,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127056.jpg" alt="HP 2KE76EA 15-bs043nm" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 300,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 2KE76EA 15-bs043nm</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">3.999,00 kn</span>
-<span class="old-price">4.299,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/124804.jpg" alt="BOSCH BHN20110" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 130,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">BOSCH BHN20110</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">499,00 kn</span>
-<span class="old-price">629,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 06.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/115409.jpg" alt="PHILIPS GC9620 20" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 900,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS GC9620 20</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">parne postaje</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.799,00 kn</span>
-<span class="old-price">2.699,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 23.02.2018 do 31.03.2018</a>
-</div>
-</div>
-</div>
+<section class="clanak ">
 </section>
 </div>
 </div>
@@ -1500,18 +1417,6 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 }
 </script>
 </div>
-</div>
-<div class="jl-sticky-banner" style="margin-bottom:20px;">
-<div id="crt-45a52d88" style="width:300px;height:600px;"></div>
-<script type="text/javascript">
-Criteo.events.push(function() {
-Criteo.DisplayAcceptableAdIfAdblocked({
-"zoneid": 1168453,
-"containerid": "crt-45a52d88",
-"overrideZoneFloor": false
-});
-});
-</script>
 </div>
 </div>
 </div>
@@ -1566,7 +1471,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7137723" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7150695" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1591,26 +1496,26 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </div>
 </div>
-<div class="row hidden-xs " >
+<div class="row " >
 <div class="col-sm-12 ">
 <div class="emp_block article_most_read sidebar ">
 <h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/vozaci-racunovode-tvornicki-radnici-lijecnici-trgovci-pravnici-u-hrvatskoj-bi-oko-700-tisuca-ljudi-moglo-ostati-bez-posla/7130415/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/ivica-vrkic-nezavisni-i-hdz-mogli-bi-biti-partneri-na-iducim-izborima-iz-nase-grupacije-moglo-bi-se-izroditi-desetak-saborskih-zastupnika/7138080/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vozaci-racunovode-tvornicki-radnici-lijecnici-trgovci-pravnici-u-hrvatskoj-bi-oko-700-tisuca-ljudi-moglo-ostati-bez-posla/7130415/">
-NESIGURNA BUDUÆNOST
+<a href="https://www.jutarnji.hr/globus/Globus-politika/ivica-vrkic-nezavisni-i-hdz-mogli-bi-biti-partneri-na-iducim-izborima-iz-nase-grupacije-moglo-bi-se-izroditi-desetak-saborskih-zastupnika/7138080/">
+INTERVJU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vozaci-racunovode-tvornicki-radnici-lijecnici-trgovci-pravnici-u-hrvatskoj-bi-oko-700-tisuca-ljudi-moglo-ostati-bez-posla/7130415/">
-VOZAÈI, RAÈUNOVOÐE, TVORNIÈKI RADNICI, LIJEÈNICI, TRGOVCI, PRAVNICI... 'U Hrvatskoj bi oko 700 tisuæa ljudi moglo ostati bez posla!'
+<a href="https://www.jutarnji.hr/globus/Globus-politika/ivica-vrkic-nezavisni-i-hdz-mogli-bi-biti-partneri-na-iducim-izborima-iz-nase-grupacije-moglo-bi-se-izroditi-desetak-saborskih-zastupnika/7138080/">
+IVICA VRKIÆ 'Nezavisni i HDZ mogli bi biti partneri na iduæim izborima. Iz naše grupacije moglo bi se izroditi desetak saborskih zastupnika'
 </a>
 </h4>
 </div>
@@ -1620,19 +1525,19 @@ VOZAÈI, RAÈUNOVOÐE, TVORNIÈKI RADNICI, LIJEÈNICI, TRGOVCI, PRAVNICI... 'U Hrvats
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-povratak-bivse-kninske-kraljice-peda-grbin-saznao-za-novu-funkciju-josipe-rimac-i-ostao-u-potpunom-soku-pa-je-li-to-normalno/7129878/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/hrvatska-uvozi-vise-desetaka-tisuca-stranih-radnika-radnik-iz-bih-placa-ce-mi-biti-dvostruko-veca-mnoge-hrvate-sram-je-raditi-fizicke-poslove/7113390/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-povratak-bivse-kninske-kraljice-peda-grbin-saznao-za-novu-funkciju-josipe-rimac-i-ostao-u-potpunom-soku-pa-je-li-to-normalno/7129878/">
-ZAPREPASTIO SE
+<a href="https://www.jutarnji.hr/globus/Globus-politika/hrvatska-uvozi-vise-desetaka-tisuca-stranih-radnika-radnik-iz-bih-placa-ce-mi-biti-dvostruko-veca-mnoge-hrvate-sram-je-raditi-fizicke-poslove/7113390/">
+GODINA VELIKOG UVOZA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-povratak-bivse-kninske-kraljice-peda-grbin-saznao-za-novu-funkciju-josipe-rimac-i-ostao-u-potpunom-soku-pa-je-li-to-normalno/7129878/">
-VELIKI POVRATAK BIVŠE KNINSKE KRALJICE Peða Grbin saznao za novu funkciju Josipe Rimac i ostao u potpunom šoku: 'Pa je li to normalno?!'
+<a href="https://www.jutarnji.hr/globus/Globus-politika/hrvatska-uvozi-vise-desetaka-tisuca-stranih-radnika-radnik-iz-bih-placa-ce-mi-biti-dvostruko-veca-mnoge-hrvate-sram-je-raditi-fizicke-poslove/7113390/">
+HRVATSKA UVOZI VIŠE DESETAKA TISUÆA STRANIH RADNIKA Radnik iz BiH: Plaæa æe mi biti dvostruko veæa, mnoge Hrvate sram je raditi fizièke poslove
 </a>
 </h4>
 </div>
@@ -1642,19 +1547,19 @@ VELIKI POVRATAK BIVŠE KNINSKE KRALJICE Peða Grbin saznao za novu funkciju Josipe
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/nekretnine-tvrtke-bivseg-premijera-idu-na-bubanj-na-drazbu-idu-stanovi-u-elitnoj-zagrebackoj-ulici-atraktivna-zemljista/7131240/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nekretnine-tvrtke-bivseg-premijera-idu-na-bubanj-na-drazbu-idu-stanovi-u-elitnoj-zagrebackoj-ulici-atraktivna-zemljista/7131240/">
-ODLUKA TRGOVAÈKOG SUDA
+<a href="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/">
+GLOBUS
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nekretnine-tvrtke-bivseg-premijera-idu-na-bubanj-na-drazbu-idu-stanovi-u-elitnoj-zagrebackoj-ulici-atraktivna-zemljista/7131240/">
-NEKRETNINE TVRTKE BIVŠEG PREMIJERA IDU NA 'BUBANJ' Na dražbu idu stanovi u elitnoj zagrebaèkoj ulici, atraktivna zemljišta...
+<a href="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/">
+PET GODINA PAPE FRANJE Zašto Hrvati (još) ne vole Bergoglia kao što su voljeli Wojtylu: Tko se to u Crkvi u Hrvatskoj boji 'dobrog pape'?
 </a>
 </h4>
 </div>
@@ -1664,19 +1569,19 @@ NEKRETNINE TVRTKE BIVŠEG PREMIJERA IDU NA 'BUBANJ' Na dražbu idu stanovi u elitn
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/mafija-ih-ubija-politika-ih-prezire-policija-ne-stiti-sezona-lova-na-novinare-u-europskoj-uniji/7140603/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/">
-NE NASJEDAJTE
+<a href="https://www.jutarnji.hr/globus/Globus-politika/mafija-ih-ubija-politika-ih-prezire-policija-ne-stiti-sezona-lova-na-novinare-u-europskoj-uniji/7140603/">
+GLOBUS
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/">
-OZBILJNO UPOZORENJE GRAÐANIMA Kruže lažne elektronièke poruke: 'Dobijete li ovakav email o dugovanjima, nemojte ga otvarati'
+<a href="https://www.jutarnji.hr/globus/Globus-politika/mafija-ih-ubija-politika-ih-prezire-policija-ne-stiti-sezona-lova-na-novinare-u-europskoj-uniji/7140603/">
+MAFIJA IH UBIJA, POLITIKA IH PREZIRE, POLICIJA NE ŠTITI... Sezona lova na novinare u Europskoj uniji
 </a>
 </h4>
 </div>
@@ -1684,6 +1589,15 @@ OZBILJNO UPOZORENJE GRAÐANIMA Kruže lažne elektronièke poruke: 'Dobijete li ovak
 </article>
 </section>
 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Iz drugih medija</span></div></h3>
 </div>
 </div>
 </div>
@@ -1712,21 +1626,21 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-<article class="ljepota media c3 none">
+<article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-<img src="https://www.gloria.hr/fokus/nana-2png/7132410/ALTERNATES/LANDSCAPE_380/nana%202.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/nana-2png/7132410/BINARY/thumbnail/nana%202.PNG"
+data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Anamarija Asanovic 081216 snimio Sasa Buric"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1734,8 +1648,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-Kæi Mustafe Nadareviæa o beauty trendovima i poslu o kojem sanjaju mnoge djevojke
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
 </a>
 </h4>
 </div>
@@ -1794,7 +1708,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -2205,14 +2119,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/posjetili-smo-hrvatsku-kostajnicu-nakon-stravicnog-klizanja-terena-stanovnici-su-u-sekundi-ostali-bez-svega?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/ridley-scott-na-pagu-je-snimao-triler-seriju-o-mornarima-koji-tragaju-za-velikim-otkricima-i-bore-se-s-cudovistima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_152104775529216661_10155882335474279_2780208617909911552_o.jpg?v=1521047758" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521558453Boat_Ciaran_Tobias_Jared_NK_021717_0009-Ext.jpg?v=1521559426" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: TUŽNA SLIKA GRADA/Posjetili smo Hrvatsku Kostajnicu nakon straviènog klizanja terena, stanovnici su u sekundi ostali bez svega</h4>
+<h4>VIDEO: KREÆE &#039;THE TERROR&#039;/Ridley Scott na Pagu je snimao triler seriju o mornarima koji tragaju za velikim otkriæima i bore se s èudovištima</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2256,34 +2170,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7137723&type=article&title=NOVAC+PRIKUPLJEN+ZA+MALU+NORU+OSTAJE+UDRUZI+%26%23039%3bHRABRO+DIJETE%26%23039%3b+Roditelji+Nore+%c5%a0itum+moraju+im+isplatiti+i+tro%c5%a1kove+su%c4%91enja&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fnovac-prikupljen-za-malu-noru-ostaje-udruzi-hrabro-dijete-roditelji-nore-situm-moraju-im-isplatiti-i-troskove-sudenja%2f7137723%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=159&contextPath=1-85-159-&pubId=1&cat=&meta=read-story&objId=7150695&type=article&title=EKSKLUZIVNO+U+GLOBUSU+Varufakis+i+Horvat+stvaraju+transnacionalnu+listu+za+EU+parlament%3a+%26%23039%3bNe+zaustavimo+li+desnicu%2c+%c4%8deka+nas+europski+gra%c4%91anski+rat%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat%2f7150695%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7137723&amp;type=article&amp;title=NOVAC+PRIKUPLJEN+ZA+MALU+NORU+OSTAJE+UDRUZI+%26%23039%3bHRABRO+DIJETE%26%23039%3b+Roditelji+Nore+%c5%a0itum+moraju+im+isplatiti+i+tro%c5%a1kove+su%c4%91enja&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fnovac-prikupljen-za-malu-noru-ostaje-udruzi-hrabro-dijete-roditelji-nore-situm-moraju-im-isplatiti-i-troskove-sudenja%2f7137723%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=159&amp;contextPath=1-85-159-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7150695&amp;type=article&amp;title=EKSKLUZIVNO+U+GLOBUSU+Varufakis+i+Horvat+stvaraju+transnacionalnu+listu+za+EU+parlament%3a+%26%23039%3bNe+zaustavimo+li+desnicu%2c+%c4%8deka+nas+europski+gra%c4%91anski+rat%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat%2f7150695%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1081023024&title=Hrvatska&url=tag%3ajltags%40eph.hr%2c2016%3aHrvatska&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=2039389643&title=Sre%c4%87ko+Horvat&url=tag%3ajltags%40eph.hr%2c2016%3aSre%25C4%2587ko_Horvat&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1081023024&amp;title=Hrvatska&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHrvatska&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2039389643&amp;title=Sre%c4%87ko+Horvat&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSre%25C4%2587ko_Horvat&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1564485345&title=Nora+%c5%a0itum&url=tag%3ajltags%40eph.hr%2c2016%3aNora_%25C5%25A0itum&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=1031019556&title=Globus&url=tag%3ajltags%40eph.hr%2c2016%3aGlobus&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1564485345&amp;title=Nora+%c5%a0itum&amp;url=tag%3ajltags%40eph.hr%2c2016%3aNora_%25C5%25A0itum&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1031019556&amp;title=Globus&amp;url=tag%3ajltags%40eph.hr%2c2016%3aGlobus&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=2146224062&title=Janis+Varufakis&url=tag%3ajltags%40eph.hr%2c2016%3aJanis_Varufakis&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2146224062&amp;title=Janis+Varufakis&amp;url=tag%3ajltags%40eph.hr%2c2016%3aJanis_Varufakis&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2336,7 +2261,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/novac-prikupljen-za-malu-noru-ostaje-udruzi-hrabro-dijete-roditelji-nore-situm-moraju-im-isplatiti-i-troskove-sudenja/7137723/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2346,14 +2271,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/novac-prikupljen-za-malu-noru-ostaje-udruzi-hrabro-dijete-roditelji-nore-situm-moraju-im-isplatiti-i-troskove-sudenja/7137723/",
-postId : "7137723",
+url : "https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/",
+postId : "7150695",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "NOVAC PRIKUPLJEN ZA MALU NORU OSTAJE UDRUZI 'HRABRO DIJETE' Roditelji Nore Šitum moraju im isplatiti i troškove suðenja",
-pubdate : "2018-03-16 12:41",
-authors : "Ana Soriæ",
-sections : "Front Page, Hrvatska",
-tags : "Hrvatska, Nora Šitum",
+title : "EKSKLUZIVNO U GLOBUSU Varufakis i Horvat stvaraju transnacionalnu listu za EU parlament: 'Ne zaustavimo li desnicu, èeka nas europski graðanski rat'",
+pubdate : "2018-03-20 18:53",
+authors : "Boris Orešiæ",
+sections : "Front Page, Politika",
+tags : "Sreæko Horvat, Globus, Janis Varufakis",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

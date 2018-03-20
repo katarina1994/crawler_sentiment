@@ -10,9 +10,8 @@
 from polyglot.text import Text
 #from polyglot.downloader import downloader
 
-
-
 #print(downloader.supported_languages_table("ner2", 3))
+
 
 blob = """Marko Markic je super decko, ali je Ivan Matic bolji od njega. Da, bolji je."""
 text = Text(blob, hint_language_code='hr')

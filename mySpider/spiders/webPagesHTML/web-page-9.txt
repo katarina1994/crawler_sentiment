@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Koji su automobili s pogonom na sva èetiri kotaèa do danas ponajviše zadužili svijet automobila i postali legendarni? Za veæinu ljubitelja automobila sve se svodi na dva automobila - Audi Quattro i Lanciju Deltu HF Integrale. Ipak, ako zagledamo dalje u povijest bilo je tu još kultnih modela s pogonom na sva èetiri kotaèa. Naravno na ovoj smo listi namjerno izostavili terence s 4x4 pogonima i fokusirali se na klasiène modele." />
-<meta name="keywords" content="pogon 4x4, Lancia Delta, Audi Quattro, Quattro, peugeot 205 T16, ferrari ff, porsche 959, nissan skyline, jensen FF" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Francusko-rumunjska koalicija stvorila je prije osam godina terenac jeftinih detalja i sirovije izvedbe, ali dopadljiv i èvrst, s dobrom i robusnom francusko-japanskom pogonskom tehnikom i što je posebno važno - povoljnom cijenom. Dosad nije pokazao bitne slabosti…" />
+<meta name="keywords" content="Dacia, Dacia Duster, fotogalerija, test, novi automobili" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe! - Jutarnji List</title>
+<title>TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <section>
 <!-- DFP verzija 9 -->
@@ -173,11 +173,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Aktualno";
+var dfpCategory = "Rabljeni";
 var dfpCategoryParent = "Auto klub";
 var dfpRos = "autoklub-ros";
-var dfpArticle = "7132887";
-var dfpArticleKeyword = "pogon 4x4";
+var dfpArticle = "7151178";
+var dfpArticleKeyword = "Dacia";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -574,8 +574,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -588,21 +588,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/autoklub/aktualno/4x4jpg/7133265/ALTERNATES/LANDSCAPE_1180/4x4.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049/ALTERNATES/LANDSCAPE_1180/g.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/autoklub/aktualno/4x4jpg/7133265/ALTERNATES/LANDSCAPE_1180/4x4.jpg">
-<meta property="og:title" content="FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe!" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049/ALTERNATES/LANDSCAPE_1180/g.jpg">
+<meta property="og:title" content="TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/" />
+<meta property="og:url" content="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Koji su automobili s pogonom na sva èetiri kotaèa do danas ponajviše zadužili svijet automobila i postali legendarni? Za veæinu ljubitelja automobila sve se svodi na dva automobila - Audi Quattro i Lanciju Deltu HF Integrale. Ipak, ako zagledamo dalje u povijest bilo je tu još kultnih modela s pogonom na sva èetiri kotaèa. Naravno na ovoj smo listi namjerno izostavili terence s 4x4 pogonima i fokusirali se na klasiène modele." />
+<meta property="og:description" content="Francusko-rumunjska koalicija stvorila je prije osam godina terenac jeftinih detalja i sirovije izvedbe, ali dopadljiv i èvrst, s dobrom i robusnom francusko-japanskom pogonskom tehnikom i što je posebno važno - povoljnom cijenom. Dosad nije pokazao bitne slabosti…" />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Zvonimir Jurèiæ">
-<meta name="twitter:title" content="FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe!">
-<meta name="twitter:description" content="Koji su automobili s pogonom na sva èetiri kotaèa do danas ponajviše zadužili svijet automobila i postali legendarni? Za veæinu ljubitelja automobila sve se svodi na dva automobila - Audi Quattro i Lanciju Deltu HF Integrale. Ipak, ako zagledamo dalje u povijest bilo je tu još kultnih modela s pogonom na sva èetiri kotaèa. Naravno na ovoj smo listi namjerno izostavili terence s 4x4 pogonima i fokusirali se na klasiène modele.">
+<meta name="twitter:creator" content="Zlatko Horvat">
+<meta name="twitter:title" content="TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane">
+<meta name="twitter:description" content="Francusko-rumunjska koalicija stvorila je prije osam godina terenac jeftinih detalja i sirovije izvedbe, ali dopadljiv i èvrst, s dobrom i robusnom francusko-japanskom pogonskom tehnikom i što je posebno važno - povoljnom cijenom. Dosad nije pokazao bitne slabosti…">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -625,9 +625,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Aktualno, Auto klub, Front Page",
-pubdate: "2018-03-15T14:31+01:00",
-author: "Zvonimir Jurèiæ",
+data: { section: "Rabljeni, Auto klub, Front Page",
+pubdate: "2018-03-20T16:14+01:00",
+author: "Zlatko Horvat",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -711,10 +711,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>16.3.</span>2018.
+<span>20.3.</span>2018.
 </p>
 <p class="day">
-petak
+utorak
 </p>
 </div>
 <span class="logo"><a href="/">JutarnjList</a></span>
@@ -1066,7 +1066,7 @@ Naslovnica
 Video
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/autoklub/aktualno/">
 Aktualno
 </a>
@@ -1076,7 +1076,7 @@ Aktualno
 Testovi
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/autoklub/rabljeni/">
 Rabljeni
 </a>
@@ -1156,11 +1156,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-SEDAM VELIÈANSTVENIH
+POLOVNI AUTOMOBILI
 </p>
 <h1
 class="title">
-FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe!
+TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1168,7 +1168,7 @@ FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/zvonimir-jurcic">Zvonimir Jurèiæ</a></li>
+<li><a href="https://www.jutarnji.hr/autori/zlatko-horvat">Zlatko Horvat</a></li>
 </ul>
 </p>
 </li>
@@ -1176,27 +1176,31 @@ class="authors">
 <li>
 <p
 class="published-date">
-15.03.2018. u 14:31
+20.03.2018. u 16:14
 </p>
 </li>
 </ul>
 </div>
 <section class="lead_image ">
-<section class="aktualno media ">
+<section class="rabljeni media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/4x4jpg/7133265" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/4x4jpg/7133265/ALTERNATES/LANDSCAPE_380/4x4.jpg"
+<img src="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049/ALTERNATES/LANDSCAPE_380/g.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/4x4jpg/7133265/BINARY/thumbnail/4x4.jpg"
+data-src-template="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049/BINARY/thumbnail/g.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Dacia Duster rabljeni 2011."
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> Marin Tomas
+</span>
+</div>
 </div>
 </div>
 </section>
@@ -1209,7 +1213,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p> </p>
+<p><strong>Francusko-rumunjska koalicija stvorila je prije osam godina terenac jeftinih detalja i sirovije izvedbe, ali dopadljiv i èvrst, s dobrom i robusnom francusko-japanskom pogonskom tehnikom i što je posebno važno - povoljnom cijenom. Dosad nije pokazao bitne slabosti…</strong></p>
 </p>
 </section>
 <section>
@@ -1234,194 +1238,63 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7132887"
+<div id="content-body-6263871-7151178"
 >
-<p>Koji su automobili s pogonom na sva èetiri kotaèa do danas ponajviše zadužili svijet automobila i postali legendarni? Za veæinu ljubitelja automobila sve se svodi na dva automobila - <strong>Audi Quattro i Lanciju Deltu HF Integrale</strong>. Ipak, ako zagledamo dalje u povijest bilo je tu još kultnih modela s pogonom na sva èetiri kotaèa. Naravno na ovoj smo listi namjerno izostavili terence s 4x4 pogonima i fokusirali se na klasiène modele.</p><p> </p><p><strong>Jensen FF</strong></p><p>
+<p>Dacia je napravila strašno dobar posao s Dusterom. Prvih godina na isporuku se èekalo mjesecima, razlog je dobro poznat: bio je osjetno jeftiniji od konkurencije, ali zato se lakše bilo pomiriti s tvrdom i jeftinom, ali trajnom plastikom, tekstilnim oblogama i završnom izradom nižih razreda finoæe, veæom bukom u vožnji, skromnom opremom osnovnih izvedbi… No,si je mogao priuštiti i netko tko dotad nije mogao niti pomisliti na novi terenac za pet kopalja moderniji od Lade Nive. <strong>Pritom je pritajeno napadaèki dizajnerski stav</strong>, sa široko razmaknutim kotaèima sugerirao da je Duster sposoban i za teže terene, a povjerenje je ulijevala i provjerena Renaultova tehnologija i cjelokupan izvedbeni stil, a naroèito prodoran Nissanov 4x4 pogon, u verzijama koje su ga imale.</p><p> <section>
+<article class="rabljeni media galleryCall ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151175/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151175/">
+<img src="https://www.jutarnji.hr/autoklub/rabljeni/ggjpg/7151052/ALTERNATES/LANDSCAPE_380/gg.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/autoklub/rabljeni/ggjpg/7151052/BINARY/thumbnail/gg.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Dacia Duster rabljeni 2011."
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+ </p><p><em>Foto: Marko Mišèeviæ</em></p><p>Gledajuæi Duster prve generacije (redizajniran i poboljšan 2014.), kupce rabljenih èesto zatekne dilema – možda je to bolji izbor od klasiènog auta? Jer, sjedi se povišeno uz pogled na širok i visok prednji dio, što onome tko prvi put sjedne za volan takvog auta godi i uvijek izgleda privlaèno. K tome, visoko odignut od tla (21 cm), s dobrim gumama i dugaèkim hodom ovjesa Duster i samo s prednjim pogonom ostavlja dojam auta sposobnog èvrsto gaziti bespuæa, <strong>koji gradske rubnjake i ležeæe uspornike može jesti za doruèak.</strong> Na terenu izostanak reduktora dobro nadomješta terenskim proraèunom mjenjaèa, pa lako kreæe iz druge brzine i niskim, ali odluènim okretajima grabi težim terenom. I robusnija ukupna izrada odaje dojam auta koji može i „šumom i drumom“.</p><p>
 <section>
-<article class="aktualno media galleryCall ">
+<article class="testovi media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-jensen-ff/7132944/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/testovi/gujpg/7151010" data-widget-title="" data-web-position="box"
 data-widget-position="0">
+<div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-jensen-ff/7132944/">
-<img src="https://www.jutarnji.hr/autoklub/aktualno/gjpg/7132914/ALTERNATES/LANDSCAPE_380/g.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/gjpg/7132914/BINARY/thumbnail/g.jpg"
+<img src="https://www.jutarnji.hr/autoklub/testovi/gujpg/7151010/ALTERNATES/FREE_380/gu.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/testovi/gujpg/7151010/BINARY/thumbnail/gu.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Citroen C4 Picasso 1.6 BlueHDi 2016."
 title=""
 class="media-object adaptive lazy "
 />
-</a>
+<div class="picture-author">
+<span> Marin Tomaš
+</span>
+</div>
+</div>
 </div>
 </div>
 </article>
 </section>
-</p><p><em>Foto: Jensen </em></p><p>Izumrla britanska marka u svojim je modelima poput Interceptora kombinirala britansku uzvišenost, amerièki pogon i talijanski dizajn, a u zenitu je bila 60-ih godina prošlog stoljeæa. Godine 1966. predstavljen je model FF koji je raspolagao tehnologijom 4x4 kakva æe Audi proslaviti tek desetljeæe i pol kasnije. <strong>Remek djelo mehanièke inventivnosti s Ferguson stalnim</strong> pogonom na sve kotaèe zapravo je uopæe prvi automobil te vrste i stoga zaslužuje prvo mjesto na našoj ljestvici. Do 1971. proizvedeno ih je samo 320 pa je usprkos trenutnom momentu slave Jensen FF do danas ostao relativno nepoznat širem krugu ljubitelja automobila.</p><p> <section class="social_embed ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1U_RYrBrPtA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</section>
- </p><p><strong>Nissan Skyline R32 GT-R</strong></p><p>
-<section>
-<article class="aktualno media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-nissan-skyline-r32-gt-r/7132998/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-nissan-skyline-r32-gt-r/7132998/">
-<img src="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7132956/ALTERNATES/LANDSCAPE_380/g.jpeg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7132956/BINARY/thumbnail/g.jpeg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
-</p><p><em>Foto: Nissan </em></p><p>Ovaj automobil svakako zaslužuje mjesto na listi legendi s pogonom na sve kotaèe, a legendom je postao prvo samo u Japanu zahvaljujuæi enormnim sportskim uspjesima 90-ih godina serija R32 i R34. Ipak ovaj brutalni <strong>japanski sportaš s AWD pogonom koji potpisuje NISMO</strong> skrenuo je pozornost na sebi i entuzijastima u ostatku svijeta zahvaljujuæi dominaciji na JTCC (Japan Touring Car Championship) te pobjedama na australskom trkalištu 1000 Bathurst 1991. i 1992. godine. Tada je dobio i kultni nadimak Godzilla koji su mu nadjenuli australski novinari.</p><p> <section class="social_embed ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dk-XnbtkQBo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</section>
- </p><p><strong>Porsche 959</strong></p><p>
-<section>
-<article class="aktualno media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-porsche-959/7133121/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-porsche-959/7133121/">
-<img src="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7133007/ALTERNATES/LANDSCAPE_380/g.jpeg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7133007/BINARY/thumbnail/g.jpeg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
-</p><p><em>Foto: Porsche </em></p><p>Genijalni sportski Porsche koji se proizvodio od 1986. do 1993. godine zapravo je prvi superautomobili ikad koji je ponudio pogon na sva èetiri kotaèa. U doba kada je iskljuèivo stražnji pogon kod supersportaša jamèio vrhunske vozne karakterisitike i zabavu, 959 je donio u klasu doista nešto drugaèije. Zamišljen je kao bolid za natjecanje na reliju u famoznoj Grupi B, no opskurna natjecateljska grupa zabranjena je prije nego li je Porsche 959 bio spreman. <strong>Ovaj laboratorij na kotaèima bio je tehnološki dragulj svog vremena</strong> koji je sa 6-cilindarskim bokserom iza stražnje osovine i oblikom podsjeæao na 911, no sve je ostalo bilo potpuno novo. Pogon na sve kotaèe s promjenjivim omjerima prijenosa na prednju ili stražnju osovinu sjajno se uklopio ispod karoserije od lakog kevlara i aluminija dok je motor s dva turbo punjaèa postizao od 444 KS do 530 KS pa je i maksimalna brzina iznosila od 319 km/h do èak 334 km/h što je za ono vrijeme 80-ih bila brojka van pameti. Proizvedeno je tek 337 primjeraka svih varijanti.</p><p> <section class="social_embed ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U89bMBOz0M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</section>
- </p><p><strong>FERRARI FF</strong></p><p>
-<section>
-<article class="aktualno media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-ferrari-ff/7133175/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-ferrari-ff/7133175/">
-<img src="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7133169/ALTERNATES/LANDSCAPE_380/g.jpeg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7133169/BINARY/thumbnail/g.jpeg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
-</p><p><em>Foto: Ferrari</em></p><p>Ferrari FF debitirao je na salonu u Ženevi 2011. godine, a reakcije publike bile su razlièite. Naime, rijeè je o prvom Ferrariju s pogonom na sve kotaèe (naziv FF skraæen je od &quot;Ferrari Four&quot;) u kojem se uz vozaèa mogu voziti i 3 putnika. <strong>Uz ubrzanje do stotke od tek 3,7 sekundi</strong> i maksimalnu brzinu od 335 km/h, predstavljao je savršenog &quot;all-roundera&quot; za sve one koji su htjeli praktièan supersportski automobil (FF je u svoje vrijeme bio najbrži automobil s 4 sjedala na tržištu). Ispod poklopca motora smješten je 6,3-litreni atmosferski V12 snage 660 KS koji vozaèu mami osmjeh na lice prodornim zvukom. Intelignentni pogon na sve kotaèe nosi naziv 4RM, a zahvaljujuæi njemu FF s lakoæom savladava neprohodne terene. Top Gear je takoðer isprobao sposobnosti FF-a i to na zaleðenom jezeru, a kako je to izgledalo pogledajte u videu:</p><p> <section class="social_embed ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9S2GwLUN-8Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</section>
- </p><p><strong>Peugeot 205 T16</strong></p><p><strong>
-<section>
-<article class="aktualno media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/peugeot-205-t16/7133262/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/autoklub/aktualno/peugeot-205-t16/7133262/">
-<img src="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7133178/ALTERNATES/LANDSCAPE_380/g.jpeg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7133178/BINARY/thumbnail/g.jpeg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><em>Foto: Peugeot </em></p><p>Još jedan inaèe prednjepogonaš za izvedbu za utrkivanje na relijima Grupe B dobio je pogon na sve kotaèe - Peugeot 205 T16, jedini istinski vladar Grupe B. Dvije svjetske titule, 16 osvojenih relija, a nakon zabrane grupe B upisao je još i tri pobjede na reliju Pariz-Dakar...<strong> Cestovni homologacijski model proizveden je u tek 200 primjeraka</strong> sa serijskih 200 KS što je bilo duplo manje od trkaæe izvedbe, no više nego dovoljno za legalno uživanje u autu s dva sjedala, motorom u sredini i pogonom na sve kotaèe.</p><p> <section class="social_embed ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8_QAgWisReQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</section>
- </p><p><strong>Audi Quattro</strong></p><p><strong> <section>
-<article class="aktualno media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-audi-quattro/7133361/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-audi-quattro/7133361/">
-<img src="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7133352/ALTERNATES/LANDSCAPE_380/g.jpeg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/gjpeg/7133352/BINARY/thumbnail/g.jpeg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><em>Foto: Audi </em></p><p>Prièa o Audiju quattro zapoèela je još 1980. na salonu automobila u Ženevi. Tada je pokazan prvi velikoserijski sportaš sa stalnim pogonom na sve kotaèe, a specifièna uglata karoserija skrivala je turbobenzinac od 200 KS. Èetiri godine kasnije, Audi je predstavio i snažniju izvedenicu Sport quattro, s 306 KS, prepoznatljivu po skraæenom meðuosovinskom razmaku.<strong> Svjetsku je slavu, meðutim, stekao zahvaljujuæi relijaškim uspjesima </strong>postignutim u izvedbama quattro A1 i A2 te Sport quattro S1 i S1 E2. S njim su pobjeðivali Stig Blomqvist, Michele Mouton i Walter Röhrl koji ga je, izmeðu ostaloga, 1987. dovezao i do pobjede na Pikes Peaku... Kultni quattro pogon prvo s raspodjelom 50:50, u svojoj drugoj generaciji, predstavljenoj 1987. po prvi put, je omoguæio raspodjelu u varijabilnim omjerima, odnosno do najviše 75 posto momenta na prednju ili stražnju osovinu.</p><p> <section class="social_embed ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-rDCXYZZ37Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</section>
- </p><p><strong>Lancia Delta HF Iintegrale</strong></p><p> <section>
-<article class="aktualno media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-lancia-delta-hf-iintegrale/7133460/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-lancia-delta-hf-iintegrale/7133460/">
-<img src="https://www.jutarnji.hr/autoklub/aktualno/gjpg/7133370/ALTERNATES/LANDSCAPE_380/g.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/gjpg/7133370/BINARY/thumbnail/g.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
-</p><p><em>Foto: Lancia</em></p><p>O kultnoj relijaškoj Lanciji auto entuzijastima baš sve je poznato. Da, Peugeot 205 T16 jest bio izvanredan, a Audi Quattro uspješan, no Lancia Delta u raznim varijantama od Audija Quattra je bila duplo uspješnija! U rukama Juhe Kankkunena ili Mikija Biasiona bila je doslovno nepobjediva. Model Delta S4 za grupu B, koja je kao cestovni model raspolagala s 250 konja, a trkaæa s dvostruko više, bila je uspješna, <strong>no prava Delta HF Integrale tek je nastajala za Grupu A.</strong> Prvo je imala 165 KS i složen, ali vrlo uèinkovit pogon s tri diferencijala, ukljuèujuæi Torsen na stražnjoj osovini. U sezoni 87. uzeli su sve što su mogli, a naslijedila ju je još uspješnija izvedba Integrale sa 185 KS koja je osigurala nastavak dominacije na reli trkalištima. Slijedile su potom još sposobnije izvedbe EVO I i EVO II... Konaèno, Lancia Delta nije samo najuspješniji reli automobil svih vremena veæ i prema tome i najbolji automobil s pogonom na sve kotaèe ikad.</p><p> <section class="social_embed ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XXjV5rYze2w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</section>
- </p>
+ </p><p>Ali, pri kupnji treba imati u vidu još neke èinjenice. Prvo, tu su svega tri zvjezdice za sigurnost. Drugo, zapušteniji primjerci nisu imuni na pojavu hrðe, a slinjenje ulja motora i mjenjaèa takoðer nisu tako rijetka pojava. No, to se razmjerno lako i jeftino može dovesti u red. Opuštenost u vožnji mogu umanjiti i detalji poput oblika i položaja volana koji traže prilagodbu ili nepreciznog putnog raèunala, zbog kojeg je dio vlasnika znao ostati na cesti bez goriva. <strong>A treba raèunati i na nešto dulji put koèenja. Što se motora tièe</strong>, preporuka je dokazano dobar dizelaš 1.5 dCi, solidne snage (90 i 110 KS) i umjerene potrošnje. U igri je i pouzdan atmosferski benzinac 1.6 (110 KS), ali potrošnja izmeðu 9 i 10 litara daje misliti o ugradnji plinske instalacije. Treba znati i da su omjeri u mjenjaèu, radi bolje prilagodbe terenskoj vožnji, kraæe proraèunati, a takav karakter i na asfaltu traži èeste prebaèaje stupnjeva i zahtijeva malu prilagodbu. Testni primjerak je meðu skupljima ovog godišta, ali u opremi ima i kožu te jaèi dizelaš od 110 KS i 4x4 pogon.</p><p><strong>Ukratko</strong></p><p>Dizelski 1,5-litreni motor optimalan je izbor, posebno u jaèoj izvedbi sa 110 KS. Ima dosta snage i izvan asfalta, a s mjenjaèem sa 6 stupnjeva i potrošnja je umjerena, ispod 7 litara. Robustan ovjes podešen je mekše pa se pri bržem ulasku u zavoj Duster voli nagnuti, ali zato æete ga zavoljeti na lošoj cesti, koju s mesnatim profilom guma bezbolno guta</p><p>Treba znati da udobna sjedala u zavojima imaju slabiju boènu potporu pa tijelo lagano „odlazi“ i da je plastika u odnosu na skuplje aute tvrda i jeftinog dojma. Detalji interijera podsjeæaju na Renault, a i povišeno sjedenje mnogima se dopada, jer pogled na širok i visok poklopac motora ulijeva osjeæaj moæi i sigurnosti. Dobra prostranost i velik prtljažnik laganog pristupa vrline su Dustera, zbog kojih se, kao i radi cijene, lakše oprašta skromnija završna obrada</p><p><strong>RIJEÈ STRUÈNJAKA</strong></p><p>Svaki saèuvan i uredno održavan Duster, kao što je ovaj primjerak, brzo naðe novog vlasnika, tvrdi nam Nikolina Bakula, prodajna savjetnica u MaxxAutu, na zagrebaèkom Žitnjaku.<strong> Na terenu je odlièan za rekreativce poput lovaca i ribièa</strong>, a takvim kupcima baš odgovara njegova jednostavnost i robusnost, a time i otpornost na teže uvjete korištenja. Ovaj primjerak je i malo vožen, pa premda je star sedam godina, na njega dajemo jamstvo dvije godine ili 30.000 kilometara.</p><p><strong>Duster 1.5 dCi 4x4</strong></p><p>Godište 2011.</p><p>Cijena 79.900 kuna</p><p>Kilometraža 68.000</p><p>Motor turbodizelski</p><p>Obujam 1491 ccm</p><p>Snaga 81 kW/110 KS pri 4000/min</p><p>Moment 240 Nm pri 1750/min</p><p>Mjenjaè ruèni, 6 stupnjeva</p><p>Dimenzije 432 x 182 x 163 cm</p><p>Meðuosovinski razmak 267 cm</p><p>Težina 1285 kilograma</p><p>Prtljažnik 475 litara</p><p>Brzina 168 km/h</p><p>0-100 km/h 12,5 sekundi</p><p>Izmjerena potrošnja 6,8 l/100 km</p><p>C02 ispuh 145 g/km</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7132887 p").filter(function () {
+$("#content-body-6263871-7151178 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1430,16 +1303,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7132887").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7151178").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7132887").children().slice(max).remove();
+$("#content-body-6263871-7151178").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7132887").children().get(0);
+var firstChild = $("#content-body-6263871-7151178").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1477,48 +1350,28 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/jensen_FF" class ="label label-default" >
-jensen FF
+<a href="https://www.jutarnji.hr/tag/novi_automobili" class ="label label-default" >
+novi automobili
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/nissan_skyline" class ="label label-default" >
-nissan skyline
+<a href="https://www.jutarnji.hr/tag/test" class ="label label-default" >
+test
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/porsche_959" class ="label label-default" >
-porsche 959
+<a href="https://www.jutarnji.hr/tag/fotogalerija-1" class ="label label-default" >
+fotogalerija
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/ferrari_ff" class ="label label-default" >
-ferrari ff
+<a href="https://www.jutarnji.hr/tag/Dacia_Duster" class ="label label-default" >
+Dacia Duster
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/peugeot_205_T16" class ="label label-default" >
-peugeot 205 T16
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Quattro" class ="label label-default" >
-Quattro
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Audi_Quattro" class ="label label-default" >
-Audi Quattro
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Lancia_Delta" class ="label label-default" >
-Lancia Delta
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/pogon_4x4" class ="label label-default" >
-pogon 4x4
+<a href="https://www.jutarnji.hr/tag/Dacia" class ="label label-default" >
+Dacia
 </a>
 </li>
 </ul>
@@ -1529,29 +1382,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="garaza media none">
+<article class="aktualno media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/garaza/foto-upoznajte-top-10-najboljih-automobila-s-prednjim-pogonom-koji-su-ikad-postavljeni-na-cestu/6915126/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/zapocela-prodaja-nove-dacije-duster-jedini-u-klasi-ispod-100000-kuna/6951114/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/garaza/foto-upoznajte-top-10-najboljih-automobila-s-prednjim-pogonom-koji-su-ikad-postavljeni-na-cestu/6915126/">
-FOTO: UPOZNAJTE TOP 10 NAJBOLJIH AUTOMOBILA s prednjim pogonom koji su ikad postavljeni na cestu! </a>
+<a href="https://www.jutarnji.hr/autoklub/aktualno/zapocela-prodaja-nove-dacije-duster-jedini-u-klasi-ispod-100000-kuna/6951114/">
+ZAPOÈELA PRODAJA NOVE DACIJE DUSTER: Jedini u klasi ispod 100.000 kuna!
+</a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="garaza media none">
+<article class="aktualno media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/garaza/foto-top-10-neobicnih-studija-koje-nikad-nismo-docekali-od-volkswagenovog-super-sportasa-do-subaruove-coupe-limuzine/6881328/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-novu-daciju-duster-kod-koje-niz-dorada-donosi-golemi-iskorak-prodaja-je-zapocela-po-cijeni-od-99900-kuna/6850965/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/garaza/foto-top-10-neobicnih-studija-koje-nikad-nismo-docekali-od-volkswagenovog-super-sportasa-do-subaruove-coupe-limuzine/6881328/">
-FOTO: TOP 10 NEOBIÈNIH STUDIJA koje nikad nismo doèekali, od Volkswagenovog super sportaša do Subaruove coupe limuzine
+<a href="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-novu-daciju-duster-kod-koje-niz-dorada-donosi-golemi-iskorak-prodaja-je-zapocela-po-cijeni-od-99900-kuna/6850965/">
+VOZILI SMO NOVU DACIJU DUSTER kod koje niz dorada donosi golemi iskorak. Prodaja je zapoèela po cijeni od 99.900 kuna
 </a>
 </h4>
 </li>
@@ -1637,7 +1491,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7132887" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7151178" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1669,18 +1523,20 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="aktualno media c11a none">
+<article class="rabljeni media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/maserati-u-hrvatskoj-modeli-prestizne-talijanske-marke-i-ovlasteni-servis-odsad-dostupni-kupcima-poznate-i-cijene-za-levante-i-ghibli/7132149/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-peugeot-3008-obiteljski-skrojen-jednovolumenski-suv-po-razumnoj-cijeni/7120941/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/maserati-u-hrvatskoj-modeli-prestizne-talijanske-marke-i-ovlasteni-servis-odsad-dostupni-kupcima-poznate-i-cijene-za-levante-i-ghibli/7132149/">
-AKTUALNO </a>
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-peugeot-3008-obiteljski-skrojen-jednovolumenski-suv-po-razumnoj-cijeni/7120941/">
+POLOVNI AUTOMOBILI
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/maserati-u-hrvatskoj-modeli-prestizne-talijanske-marke-i-ovlasteni-servis-odsad-dostupni-kupcima-poznate-i-cijene-za-levante-i-ghibli/7132149/">
-MASERATI U HRVATSKOJ! Modeli prestižne talijanske marke i ovlašteni servis odsad dostupni kupcima, poznate i cijene za Levante i Ghibli </a>
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-peugeot-3008-obiteljski-skrojen-jednovolumenski-suv-po-razumnoj-cijeni/7120941/">
+TEST RABLJENOG: PEUGEOT 3008 Obiteljski skrojen jednovolumenski SUV po razumnoj cijeni
+</a>
 </h4>
 </div>
 </div>
@@ -1689,19 +1545,19 @@ MASERATI U HRVATSKOJ! Modeli prestižne talijanske marke i ovlašteni servis odsad
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="aktualno media c11a none">
+<article class="rabljeni media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/revolucija-u-kompaktnoj-klasi-iznenadenje-salona-u-zenevi-toyota-auris-odbacila-dizelske-motore/7120821/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-mercedes-b-klase-luksuzni-prakticar-koji-se-fino-vozi/5369395/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/revolucija-u-kompaktnoj-klasi-iznenadenje-salona-u-zenevi-toyota-auris-odbacila-dizelske-motore/7120821/">
-NOVITET
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-mercedes-b-klase-luksuzni-prakticar-koji-se-fino-vozi/5369395/">
+POLOVNI AUTOMOBILI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/revolucija-u-kompaktnoj-klasi-iznenadenje-salona-u-zenevi-toyota-auris-odbacila-dizelske-motore/7120821/">
-REVOLUCIJA U KOMPAKTNOJ KLASI Iznenaðenje salona u Ženevi Toyota Auris odbacila dizelske motore!
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-mercedes-b-klase-luksuzni-prakticar-koji-se-fino-vozi/5369395/">
+TEST RABLJENOG Mercedes B-klase Luksuzni praktièar koji se fino vozi
 </a>
 </h4>
 </div>
@@ -1711,19 +1567,19 @@ REVOLUCIJA U KOMPAKTNOJ KLASI Iznenaðenje salona u Ženevi Toyota Auris odbacila 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="aktualno media c11a none">
+<article class="rabljeni media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-bmw-serije-3-e90-ako-je-odrzavan-omiljeni-bavarac-iz-unosa-pun-je-pogodak/4555205/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/">
-SEDAM VELIÈANSTVENIH
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-bmw-serije-3-e90-ako-je-odrzavan-omiljeni-bavarac-iz-unosa-pun-je-pogodak/4555205/">
+POLOVNA TROJKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/">
-FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe!
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-bmw-serije-3-e90-ako-je-odrzavan-omiljeni-bavarac-iz-unosa-pun-je-pogodak/4555205/">
+Test rabljenog: BMW Serije 3 (e90) Ako je održavan, omiljeni Bavarac iz unosa pun je pogodak
 </a>
 </h4>
 </div>
@@ -1733,19 +1589,19 @@ FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="aktualno media c11a none">
+<article class="rabljeni media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-bmw-x2-vizualno-ali-i-vozacki-dotjeran-x1-privlaci-poglede-trendsettera-gdje-god-da-se-pojavi/7128969/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-mercedes-c-klase-w204-za-klasu-bolji-od-hrdavog-prethodnika/4720160/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-bmw-x2-vizualno-ali-i-vozacki-dotjeran-x1-privlaci-poglede-trendsettera-gdje-god-da-se-pojavi/7128969/">
-NOVITET
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-mercedes-c-klase-w204-za-klasu-bolji-od-hrdavog-prethodnika/4720160/">
+TRAŽENI POLOVNJAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-bmw-x2-vizualno-ali-i-vozacki-dotjeran-x1-privlaci-poglede-trendsettera-gdje-god-da-se-pojavi/7128969/">
-VOZILI SMO BMW X2 Vizualno, ali i vozaèki dotjeran X1 privlaèi poglede trendsettera gdje god da se pojavi
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-mercedes-c-klase-w204-za-klasu-bolji-od-hrdavog-prethodnika/4720160/">
+RABLJENI MERCEDES C-klase W204 Za klasu bolji od hrðavog prethodnika
 </a>
 </h4>
 </div>
@@ -1790,21 +1646,21 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-<article class="ljepota media c3 none">
+<article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-<img src="https://www.gloria.hr/fokus/nana-2png/7132410/ALTERNATES/LANDSCAPE_380/nana%202.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/nana-2png/7132410/BINARY/thumbnail/nana%202.PNG"
+data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Anamarija Asanovic 081216 snimio Sasa Buric"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1812,8 +1668,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-Kæi Mustafe Nadareviæa o beauty trendovima i poslu o kojem sanjaju mnoge djevojke
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
 </a>
 </h4>
 </div>
@@ -2283,14 +2139,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/scena/prekrasna-ana-radisic-u-emotivnom-spotu-za-pjesmu-marka-koncurata?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/alkohol-ih-je-trebao-ubiti-no-oni-su-demantirali-medicinu-i-ostali-medu-zivima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521200483Ana_RadisYicY_Bolero.jpg?v=1521200816" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1491402427policijakontrola.jpg?v=1491402498" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>BOLERO/Prekrasna Ana Radišiæ u emotivnom spotu za pjesmu Marka Konèurata</h4>
+<h4>NESLAVNI HRVATSKI REKORDERI/Alkohol ih je trebao ubiti, no oni su demantirali medicinu i ostali meðu živima</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2334,111 +2190,67 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=63&contextPath=1-62-63-&pubId=1&cat=&meta=read-story&objId=7132887&type=article&title=FOTO%3a+OVO+JE+TOP+SEDAM+NAJBOLJIH+AUTOMOBILA+svih+vremena+s+pogonom+na+sve+kota%c4%8de!&url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2faktualno%2ffoto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace%2f7132887%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=65&contextPath=1-62-65-&pubId=1&cat=&meta=read-story&objId=7151178&type=article&title=TEST+RABLJENOG+DACIA+DUSTER+Voljeli+ga+ili+mrzili%2c+polovni+rumunjski+SUV+ne+pokazuje+izra%c5%beene+mane&url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2frabljeni%2ftest-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane%2f7151178%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=63&amp;contextPath=1-62-63-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7132887&amp;type=article&amp;title=FOTO%3a+OVO+JE+TOP+SEDAM+NAJBOLJIH+AUTOMOBILA+svih+vremena+s+pogonom+na+sve+kota%c4%8de!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2faktualno%2ffoto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace%2f7132887%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=65&amp;contextPath=1-62-65-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7151178&amp;type=article&amp;title=TEST+RABLJENOG+DACIA+DUSTER+Voljeli+ga+ili+mrzili%2c+polovni+rumunjski+SUV+ne+pokazuje+izra%c5%beene+mane&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2frabljeni%2ftest-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane%2f7151178%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=161200648&title=pogon+4x4&url=tag%3ajltags%40eph.hr%2c2016%3apogon_4x4&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=1823400018&title=Dacia&url=tag%3ajltags%40eph.hr%2c2016%3aDacia&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=161200648&amp;title=pogon+4x4&amp;url=tag%3ajltags%40eph.hr%2c2016%3apogon_4x4&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1823400018&amp;title=Dacia&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDacia&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=1521390369&title=Lancia+Delta&url=tag%3ajltags%40eph.hr%2c2016%3aLancia_Delta&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=1130653894&title=Dacia+Duster&url=tag%3ajltags%40eph.hr%2c2016%3aDacia_Duster&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1521390369&amp;title=Lancia+Delta&amp;url=tag%3ajltags%40eph.hr%2c2016%3aLancia_Delta&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1130653894&amp;title=Dacia+Duster&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDacia_Duster&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=1621188570&title=Audi+Quattro&url=tag%3ajltags%40eph.hr%2c2016%3aAudi_Quattro&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=1833423857&title=fotogalerija&url=tag%3ajltags%40eph.hr%2c2016%3afotogalerija-1&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1621188570&amp;title=Audi+Quattro&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAudi_Quattro&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1833423857&amp;title=fotogalerija&amp;url=tag%3ajltags%40eph.hr%2c2016%3afotogalerija-1&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=1803056054&title=Quattro&url=tag%3ajltags%40eph.hr%2c2016%3aQuattro&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=1896361208&title=test&url=tag%3ajltags%40eph.hr%2c2016%3atest&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1803056054&amp;title=Quattro&amp;url=tag%3ajltags%40eph.hr%2c2016%3aQuattro&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1896361208&amp;title=test&amp;url=tag%3ajltags%40eph.hr%2c2016%3atest&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=763457147&title=peugeot+205+T16&url=tag%3ajltags%40eph.hr%2c2016%3apeugeot_205_T16&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=903573104&title=novi+automobili&url=tag%3ajltags%40eph.hr%2c2016%3anovi_automobili&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=763457147&amp;title=peugeot+205+T16&amp;url=tag%3ajltags%40eph.hr%2c2016%3apeugeot_205_T16&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=1163982804&title=ferrari+ff&url=tag%3ajltags%40eph.hr%2c2016%3aferrari_ff&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1163982804&amp;title=ferrari+ff&amp;url=tag%3ajltags%40eph.hr%2c2016%3aferrari_ff&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=1687312146&title=porsche+959&url=tag%3ajltags%40eph.hr%2c2016%3aporsche_959&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1687312146&amp;title=porsche+959&amp;url=tag%3ajltags%40eph.hr%2c2016%3aporsche_959&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=1219558204&title=nissan+skyline&url=tag%3ajltags%40eph.hr%2c2016%3anissan_skyline&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1219558204&amp;title=nissan+skyline&amp;url=tag%3ajltags%40eph.hr%2c2016%3anissan_skyline&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=102958586&title=jensen+FF&url=tag%3ajltags%40eph.hr%2c2016%3ajensen_FF&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=102958586&amp;title=jensen+FF&amp;url=tag%3ajltags%40eph.hr%2c2016%3ajensen_FF&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=903573104&amp;title=novi+automobili&amp;url=tag%3ajltags%40eph.hr%2c2016%3anovi_automobili&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2491,7 +2303,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2501,14 +2313,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/",
-postId : "7132887",
+url : "https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/",
+postId : "7151178",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe!",
-pubdate : "2018-03-15 14:31",
-authors : "Zvonimir Jurèiæ",
-sections : "Front Page, Auto klub, Aktualno",
-tags : "pogon 4x4, Lancia Delta, Audi Quattro, Quattro, peugeot 205 T16, ferrari ff, porsche 959, nissan skyline, jensen FF",
+title : "TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane",
+pubdate : "2018-03-20 16:14",
+authors : "Zlatko Horvat",
+sections : "Front Page, Auto klub, Rabljeni",
+tags : "Dacia, Dacia Duster, fotogalerija, test, novi automobili",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

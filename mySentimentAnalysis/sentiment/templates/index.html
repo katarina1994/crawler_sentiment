@@ -1,37 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Public persons' profiles</title>
+
+	<title>Profili javnih osoba</title>
+	<meta name="author" content="your name" />
+	<meta name="description" content="" />
+	<link rel="stylesheet" href="{{ url_for('static', filename='webPageStyle.css') }}" type="text/css" />
+	
+	
 </head>
+
 <body>
+	<div id="page">
+		<div id="logo">
+			<h1><a href="/" id="logoLink">Profili javnih osoba</a></h1>
+		</div>
+		<div id="content">
 
- <div class="container">
-      <div class="header">
-        <nav>
-          <ul class="nav nav-pills pull-right">
-            <li role="presentation" class="active"><a href="#">Home</a></li>
-          </ul>
-        </nav>
-        <h3 class="text-muted">My APP</h3>
-      </div>
-
-      <div class="jumbotron">
-        <h1>Persons' public profiles</h1>
-      </div>
-
-      <div class="row marketing">
-        <div class="col-lg-6">
-          <h4>List of persons</h4>
-          <p> Lalallalal </p>
-
-          <h4>List1</h4>
-          <p>HAHAHHAHAH</p>
-          <h4>List2</h4>
-          <p>HEHEHEHHEHE.</p>
-        </div>
-      </div>
-    </div>
-
+				<div id="nav">
+					<ul>
+						<li><a href="showPolitics">Politika</a></li>
+						<li><a href="showMusic">Glazba</a></li>
+						<li><a href="showSport">Sport</a></li>
+						<li><a href="showTheatre">Kazaliste</a></li>
+					</ul>	
+				</div>
+		</div>
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank">Katarina</a>
+			</p>
+		</div>
+	</div>
 </body>
 </html>

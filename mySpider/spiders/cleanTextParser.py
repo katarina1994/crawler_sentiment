@@ -24,7 +24,8 @@ class CleanText():
             f_clean.write(cleanTexts.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
             f_clean.close()
             numberOfLink += 1
-
+        f_html.close()
+        
     def textFromHtml(self, html):
         soup = bs(html, 'html.parser')
         #texts = soup.findAll('p', attrs={'class': None})
@@ -50,4 +51,4 @@ class CleanText():
             if (tag.text not in commentSection and (tag.attrs == {} or tag.attrs == {'sytle'}) and not tag.find('script')):
                 texts += tag.text
         
-        return texts
+        return texts.replace('\n', ' ').replace('\r', '')

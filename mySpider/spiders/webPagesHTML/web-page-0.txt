@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Zagrebaèka policija jutros oko 6 sati dobila je dojavu o pucnjavi u Ulici Drage Gervaisa u zagrebaèkom naselju Špansko, no nema ozlijeðenih." />
-<meta name="keywords" content="Špansko, Pucnjava" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Posljednji ispraæaj stožernog generala Petra Stipetiæa održan je na zagrebaèkom groblju Mirogoj uz najviše vojne poèasti, a zapoèeo je poèasnom stražom, u kojoj se izmjenilo više od stotinu sudionika, piše MORH." />
+<meta name="keywords" content="Petar Stipetiæ, pogreb" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>U ŠEST UJUTRO PUCNJAVA ODJEKIVALA ZAGREBOM Ispaljeno više hitaca, policija privela nekoliko osoba; SUSJEDI &#039;Znamo neke od uhiæenih i èime se bave...&#039; - Jutarnji List</title>
+<title>TUGA NA MIROGOJU &#039;Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -176,15 +176,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "AT";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Crna kronika";
+var dfpCategory = "Hrvatska";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7137078";
-var dfpArticleKeyword = "Špansko";
+var dfpArticle = "7151313";
+var dfpArticleKeyword = "Petar Stipetiæ";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -546,6 +546,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -606,8 +608,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/u-sest-ujutro-pucnjava-odjekivala-zagrebom-ispaljeno-vise-hitaca-policija-privela-nekoliko-osoba-susjedi-znamo-neke-od-uhicenih-i-cime-se-bave/7137078/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/u-sest-ujutro-pucnjava-odjekivala-zagrebom-ispaljeno-vise-hitaca-policija-privela-nekoliko-osoba-susjedi-znamo-neke-od-uhicenih-i-cime-se-bave/7137078/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -620,21 +622,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/pucnjavajpg/7137816/ALTERNATES/LANDSCAPE_1180/PUCNJAVA.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/pogrebjpg/7151676/ALTERNATES/LANDSCAPE_1180/pogreb.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/pucnjavajpg/7137816/ALTERNATES/LANDSCAPE_1180/PUCNJAVA.jpg">
-<meta property="og:title" content="U ŠEST UJUTRO PUCNJAVA ODJEKIVALA ZAGREBOM Ispaljeno više hitaca, policija privela nekoliko osoba; SUSJEDI 'Znamo neke od uhiæenih i èime se bave...'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/pogrebjpg/7151676/ALTERNATES/LANDSCAPE_1180/pogreb.jpg">
+<meta property="og:title" content="TUGA NA MIROGOJU 'Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/u-sest-ujutro-pucnjava-odjekivala-zagrebom-ispaljeno-vise-hitaca-policija-privela-nekoliko-osoba-susjedi-znamo-neke-od-uhicenih-i-cime-se-bave/7137078/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Zagrebaèka policija jutros oko 6 sati dobila je dojavu o pucnjavi u Ulici Drage Gervaisa u zagrebaèkom naselju Špansko, no nema ozlijeðenih." />
+<meta property="og:description" content="Posljednji ispraæaj stožernog generala Petra Stipetiæa održan je na zagrebaèkom groblju Mirogoj uz najviše vojne poèasti, a zapoèeo je poèasnom stražom, u kojoj se izmjenilo više od stotinu sudionika, piše MORH." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Sandra Pudja">
-<meta name="twitter:title" content="U ŠEST UJUTRO PUCNJAVA ODJEKIVALA ZAGREBOM Ispaljeno više hitaca, policija privela nekoliko osoba; SUSJEDI 'Znamo neke od uhiæenih i èime se bave...'">
-<meta name="twitter:description" content="Zagrebaèka policija jutros oko 6 sati dobila je dojavu o pucnjavi u Ulici Drage Gervaisa u zagrebaèkom naselju Špansko, no nema ozlijeðenih.">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="TUGA NA MIROGOJU 'Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom'">
+<meta name="twitter:description" content="Posljednji ispraæaj stožernog generala Petra Stipetiæa održan je na zagrebaèkom groblju Mirogoj uz najviše vojne poèasti, a zapoèeo je poèasnom stražom, u kojoj se izmjenilo više od stotinu sudionika, piše MORH.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -657,9 +659,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Crna kronika, Vijesti, Front Page",
-pubdate: "2018-03-16T10:29+01:00",
-author: "Sandra Pudja",
+data: { section: "Hrvatska, Vijesti, Front Page",
+pubdate: "2018-03-20T17:36+01:00",
+author: "Aleksandra Vladiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -826,7 +828,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -836,7 +838,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1136,10 +1138,10 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1149,7 +1151,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1206,11 +1208,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-OBRAÈUN U ŠPANSKOM
+ISPRAÆAJ GENERALA
 </p>
 <h1
 class="title">
-U ŠEST UJUTRO PUCNJAVA ODJEKIVALA ZAGREBOM Ispaljeno više hitaca, policija privela nekoliko osoba; SUSJEDI 'Znamo neke od uhiæenih i èime se bave...'
+TUGA NA MIROGOJU 'Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1218,7 +1220,7 @@ U ŠEST UJUTRO PUCNJAVA ODJEKIVALA ZAGREBOM Ispaljeno više hitaca, policija prive
 <p
 class="authors">
 <ul>
-<li>Sandra Pudja</li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1226,7 +1228,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-16.03.2018. u 10:29
+20.03.2018. u 17:36
 </p>
 </li>
 </ul>
@@ -1238,12 +1240,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/pucnjavajpg/7137816" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/pogrebjpg/7151676" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/pucnjavajpg/7137816/ALTERNATES/LANDSCAPE_380/PUCNJAVA.jpg"
+<img src="https://www.jutarnji.hr/incoming/pogrebjpg/7151676/ALTERNATES/LANDSCAPE_380/pogreb.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/pucnjavajpg/7137816/BINARY/thumbnail/PUCNJAVA.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/pogrebjpg/7151676/BINARY/thumbnail/pogreb.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1252,7 +1254,7 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Marko Todorov / CROPIX
+<span> CROPIX
 </span>
 </div>
 </div>
@@ -1288,26 +1290,22 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7137078"
+<div id="content-body-6263871-7151313"
 >
-<p>Zagrebaèka policija jutros oko 6 sati dobila je dojavu o pucnjavi u Ulici Drage Gervaisa u zagrebaèkom naselju Špansko, no nema ozlijeðenih.</p><p>Osobe koje su pozvale policiju javile su kako je pucnjavi prethodio glasan verbalni sukob nekoliko osoba. Susjedi su èuli više hitaca. Na mjestu dogaðaja policija je zatekla nekoliko osoba koje je privela u službene prostorije na kriminalistièko istraživanje. Nisu zabilježena ošteæenja materijalne imovine, potvrðeno je iz policije za Jutarnji.</p><p>Prema tvrdnjama èitatelja Jutarnjeg, koji žive u blizini mjesta gdje se dogodio ranojutarnji obraèun, neki od privedenih poznati su otprije kao osobe povezane s tržištem narkotika. Policijski oèevid i dalje je u tijeku.</p><p> <section>
-<article class="crna-kronika media galleryCall ">
+<p>Posljednji ispraæaj stožernog generala <strong>Petra Stipetiæa</strong> održan je na zagrebaèkom groblju Mirogoj uz najviše vojne poèasti, a zapoèeo je poèasnom stražom, u kojoj se izmjenilo više od stotinu sudionika, piše MORH.</p><p>Ispraæaj je predvodio biskup <strong>Juraj Jezerinac</strong>, a generala su na posljednje poèivalište, uz obitelj i prijatelje, ispratili najviši civilni i vojni dužnosnici, meðu kojima je bio i predsjednik Vlade<strong> Andrej Plenkoviæ. </strong></p><p>Od generala Stipetiæa prigodnim govorom oprostio se umirovljeni stožerni general <strong>Anton Tus</strong>.</p><p>- Ispraæamo te na tvoj posljednji poèinak, a u mislima nam naviru sjeæanja na zajednièko vrijeme sudjelovanja u stvaranju Hrvatske vojske i samostalne države Republike Hrvatske. Na samom poèetku agresije na Republiku Hrvatsku, odazvao si se pozivu Domovine i stavio joj na raspolaganje sve svoje sposobnosti, znanje i energiju. Pred oèima nam je tvoj lik i glas, tvoja mirnoæa i samouvjerenost koja nam je svima davala nade da smo u stanju nositi se s oružjem nadmoænijim neprijateljem. I na taj naèin ispunili smo stoljetnu želju hrvatskog naroda za samostalnom državom Hrvatskom, poruèio je preminulom generalu, izrazivši suæut obitelji u ime Hrvatske vojske.</p><p>- Osjeæamo nenadoknadiv gubitak i tugu, ali vjerujem da æe nad tom tugom prevladati osjeæaj ponosa jer smo ovaj naš život dijelili sa skromnim, razumnim, jednostavnim i dobrim èovjekom - velikim generalom, istaknuo je general Tus, zakljuèivši kako æemo se našeg generala uvijek rado sjeæati i pamtiti ga kao jednog od stvaratelja nove hrvatske povijesti i samostalne države Republike Hrvatske.</p><p>Tus je, kao što je poznato, bio i veliki osobni prijatelj Petra Stipetiæa, a u jednom trenutku nije uspio suspregnuti emocije te je i zaplakao.</p><p> <section>
+<article class="fotogalerije media galleryCall ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/policija-obavlja-ocevid-na-mjestu-pucnjave-u-spanskom/7137819/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Fotogalerije/sahrana-generala-stipetica/7150527/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/policija-obavlja-ocevid-na-mjestu-pucnjave-u-spanskom/7137819/">
-<img src="https://www.jutarnji.hr/incoming/pucnjava_spansko9-160318jpg/7137813/ALTERNATES/LANDSCAPE_380/pucnjava_spansko9-160318.jpg"
+<a href="https://www.jutarnji.hr/Fotogalerije/sahrana-generala-stipetica/7150527/">
+<img src="https://www.jutarnji.hr/incoming/stipetic_pogreb24-200318jpg/7150887/ALTERNATES/LANDSCAPE_380/stipetic_pogreb24-200318.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/pucnjava_spansko9-160318jpg/7137813/BINARY/thumbnail/pucnjava_spansko9-160318.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/stipetic_pogreb24-200318jpg/7150887/BINARY/thumbnail/stipetic_pogreb24-200318.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 160318.
-Ulica Drage Gervaisa.
-Policijski ocevid na mjestu pucnjave u naselju Spansko koja se dogodila u jutarnjim satima.
-Na fotografiji: ocevid.
-Foto: Marko Todorov / CROPIX"
+alt="Zagreb, 200318. Pogreb stozernog generala Petra Stipetica na groblju Mirogoj. Foto: Goran Mehkek / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1316,12 +1314,12 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </p>
+ </p><p>Hrvatska i Oružane snage RH od generala su se oprostile preletom MIG-a 21 i poèasnom paljbom u trenucima dok je direktor Glavnog stožera OS RH kontraadmiral <strong>Robert Hranj</strong> obitelji predavao državni stijeg.</p><p>Osim Plenkoviæa na pogrebu su bili i ministar <strong>Damir Krstièeviæ</strong>, <strong>Stjepan Mesiæ</strong>, <strong>Milan Bandiæ</strong>, <strong>Zoran Milanoviæ</strong>, <strong>Davor Bernardiæ</strong>, <strong>Ante Gotovina </strong>i mnogi drugi uglednici.</p><p>U poèasnoj straži uz odar generala Stipetiæa bili su, meðu ostalim, <strong>Predrag Matiæ</strong>, <strong>Davor Bernardiæ</strong>, <strong>Željka Antunoviæ</strong>, <strong>Marija Pejèinoviæ Buriæ</strong>, <strong>Ante Kotromanoviæ</strong>, ministar <strong>Davor Božinoviæ</strong>, ravnatelj policije <strong>Nikola Milina</strong>, zapovjednik Zapovjedništva specijalne policije <strong>Zdravko Janjiæ</strong> i drugi.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7137078 p").filter(function () {
+$("#content-body-6263871-7151313 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1330,16 +1328,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7137078").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7151313").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7137078").children().slice(max).remove();
+$("#content-body-6263871-7151313").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7137078").children().get(0);
+var firstChild = $("#content-body-6263871-7151313").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1377,13 +1375,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Pucnjava" class ="label label-default" >
-Pucnjava
+<a href="https://www.jutarnji.hr/tag/pogreb" class ="label label-default" >
+pogreb
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/%C5%A0pansko" class ="label label-default" >
-Špansko
+<a href="https://www.jutarnji.hr/tag/Petar_Stipeti%C4%87" class ="label label-default" >
+Petar Stipetiæ
 </a>
 </li>
 </ul>
@@ -1394,15 +1392,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="crna-kronika media none">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/poznajem-covjeka-koji-me-upucao-ali-vam-necu-reci-tko-je-on-usprkos-ulicnom-zakonu-sutnje-razotkriven-protagonist-pucnjave-u-zagrebu/7122174/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-odrzana-komemoracija-za-generala-stipetica-ministar-krsticevic-otisao-je-izniman-covjek-vojarna-u-karlovcu-od-danas-nosi-njegovo-ime/7150269/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/poznajem-covjeka-koji-me-upucao-ali-vam-necu-reci-tko-je-on-usprkos-ulicnom-zakonu-sutnje-razotkriven-protagonist-pucnjave-u-zagrebu/7122174/">
-'POZNAJEM ÈOVJEKA KOJI ME UPUCAO, ALI VAM NEÆU REÆI TKO JE ON!' Usprkos uliènom 'zakonu šutnje' razotkriven protagonist pucnjave u Zagrebu
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-odrzana-komemoracija-za-generala-stipetica-ministar-krsticevic-otisao-je-izniman-covjek-vojarna-u-karlovcu-od-danas-nosi-njegovo-ime/7150269/">
+FOTO: ODRŽANA KOMEMORACIJA ZA GENERALA STIPETIÆA Ministar Krstièeviæ: 'Otišao je izniman èovjek. Vojarna u Karlovcu od danas nosi njegovo ime'
 </a>
 </h4>
 </li>
@@ -1442,40 +1440,21 @@ data-widget-position="0">
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127056.jpg" alt="HP 2KE76EA 15-bs043nm" /></a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/129549.jpg" alt="PHILIPS FC6408" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 300,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.000,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 2KE76EA 15-bs043nm</a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS FC6408</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
+<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">3.999,00 kn</span>
-<span class="old-price">4.299,00 kn</span>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.799,00 kn</span>
+<span class="old-price">2.799,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/124804.jpg" alt="BOSCH BHN20110" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 130,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">BOSCH BHN20110</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">499,00 kn</span>
-<span class="old-price">629,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 06.03.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 15.03.2018 do 31.05.2018</a>
 </div>
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
@@ -1495,6 +1474,25 @@ data-widget-position="0">
 </div>
 <div class="duration">
 <a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 23.02.2018 do 31.03.2018</a>
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-lg-3 product">
+<div class="img media">
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127979.jpg" alt="HP 1XN28EA HP 250 G6" /></a>
+</div>
+<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
+<div class="name">
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 1XN28EA HP 250 G6</a>
+</div>
+<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
+<div class="prices">
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">3.499,00 kn</span>
+<span class="old-price">3.599,00 kn</span>
+</a>
+</div>
+<div class="duration">
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
 </div>
 </div>
 </div>
@@ -1587,7 +1585,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7137078" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7151313" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1619,19 +1617,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/bjegunac-koji-je-financijski-unistio-desetke-gradana-poginuo-u-bih-kamatarenjem-zrtvama-oteo-ukupno-30-milijuna-kuna-u-kesu-i-nekretninama/7130649/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/bjegunac-koji-je-financijski-unistio-desetke-gradana-poginuo-u-bih-kamatarenjem-zrtvama-oteo-ukupno-30-milijuna-kuna-u-kesu-i-nekretninama/7130649/">
-ÈALUŠIÆ NIJE DOÈEKAO KAZNU
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/">
+PROGNOZA VREMENA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/bjegunac-koji-je-financijski-unistio-desetke-gradana-poginuo-u-bih-kamatarenjem-zrtvama-oteo-ukupno-30-milijuna-kuna-u-kesu-i-nekretninama/7130649/">
-BJEGUNAC KOJI JE FINANCIJSKI UNIŠTIO DESETKE GRAÐANA POGINUO U BiH Kamatarenjem žrtvama oteo ukupno 30 milijuna kuna u kešu i nekretninama
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/">
+SVIMA JE DOSTA ZIME, NO NJOJ SE NE NAZIRE KRAJ Evo do kad æe padati snijeg i do kad æe jutra biti u minusu
 </a>
 </h4>
 </div>
@@ -1641,19 +1639,19 @@ BJEGUNAC KOJI JE FINANCIJSKI UNIŠTIO DESETKE GRAÐANA POGINUO U BiH Kamatarenjem 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-pet-milijuna-razloga-za-veselje-hrvatskog-escobara-narkobosu-zbog-sporosti-naseg-pravosuda-deblokirali-racun-s-milijunima-eura/7130286/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-pet-milijuna-razloga-za-veselje-hrvatskog-escobara-narkobosu-zbog-sporosti-naseg-pravosuda-deblokirali-racun-s-milijunima-eura/7130286/">
-PARADOKS U SLUÈAJU STJEPANA PRNJATA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/">
+'ŠTO JE UOPÆE LAKO?'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-pet-milijuna-razloga-za-veselje-hrvatskog-escobara-narkobosu-zbog-sporosti-naseg-pravosuda-deblokirali-racun-s-milijunima-eura/7130286/">
-OTKRIVAMO: PET MILIJUNA RAZLOGA ZA VESELJE 'HRVATSKOG ESCOBARA' Narkobosu zbog sporosti našeg pravosuða deblokirali raèun s milijunima eura
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/">
+'NIGDJE NIJE MED I MLIJEKO...' Dalmatinka otišla trbuhom za kruhom: 'Radim isto što sam radila i doma, ali s jednom jako bitnom razlikom...'
 </a>
 </h4>
 </div>
@@ -1663,19 +1661,19 @@ OTKRIVAMO: PET MILIJUNA RAZLOGA ZA VESELJE 'HRVATSKOG ESCOBARA' Narkobosu zbog s
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/veliki-obrat-u-slucaju-splicanina-koji-je-usmrtio-svoju-djevojku-dobio-10-godina-zatvora-a-jucer-je-iznenada-pusten-na-slobodu/7133559/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/veliki-obrat-u-slucaju-splicanina-koji-je-usmrtio-svoju-djevojku-dobio-10-godina-zatvora-a-jucer-je-iznenada-pusten-na-slobodu/7133559/">
-ODLUKA VRHOVNOG SUDA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/">
+ŽIVOT NA SELU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/veliki-obrat-u-slucaju-splicanina-koji-je-usmrtio-svoju-djevojku-dobio-10-godina-zatvora-a-jucer-je-iznenada-pusten-na-slobodu/7133559/">
-VELIKI OBRAT U SLUÈAJU SPLIÆANINA KOJI JE USMRTIO SVOJU DJEVOJKU Dobio 10 godina zatvora, a juèer je iznenada pušten na slobodu!
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/">
+FARMER IZ STRIZIVOJNE ZAPALIO FACEBOOK Tko je Tvrtko Gaèiæ èiju je videoporuku lopovima pogledalo 80 tisuæa ljudi na internetu
 </a>
 </h4>
 </div>
@@ -1685,19 +1683,19 @@ VELIKI OBRAT U SLUÈAJU SPLIÆANINA KOJI JE USMRTIO SVOJU DJEVOJKU Dobio 10 godina
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/uzas-na-ulazu-u-popularni-istarski-kamp-auto-sletio-s-ceste-i-zabio-se-u-kamenu-skulpturu-vozac-je-na-mjestu-poginuo/7134594/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/uzas-na-ulazu-u-popularni-istarski-kamp-auto-sletio-s-ceste-i-zabio-se-u-kamenu-skulpturu-vozac-je-na-mjestu-poginuo/7134594/">
-TRAGEDIJA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/">
+KLIZIŠTE UZ MORE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/uzas-na-ulazu-u-popularni-istarski-kamp-auto-sletio-s-ceste-i-zabio-se-u-kamenu-skulpturu-vozac-je-na-mjestu-poginuo/7134594/">
-UŽAS NA ULAZU U POPULARNI ISTARSKI KAMP Auto sletio s ceste i zabio se u kamenu skulpturu, vozaè je na mjestu poginuo
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/">
+FOTO: DRAMATIÈNI PRIZORI U Posedarju se pokrenulo veliko klizište, ugroženo je 50-ak kuæa, nekima su se u dvorištu pojavili procjepi dugi 20-ak metara
 </a>
 </h4>
 </div>
@@ -1733,21 +1731,21 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-<article class="ljepota media c3 none">
+<article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-<img src="https://www.gloria.hr/fokus/nana-2png/7132410/ALTERNATES/LANDSCAPE_380/nana%202.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/nana-2png/7132410/BINARY/thumbnail/nana%202.PNG"
+data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Anamarija Asanovic 081216 snimio Sasa Buric"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1755,8 +1753,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-Kæi Mustafe Nadareviæa o beauty trendovima i poslu o kojem sanjaju mnoge djevojke
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
 </a>
 </h4>
 </div>
@@ -1815,7 +1813,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1825,7 +1823,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -2226,14 +2224,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/posjetili-smo-hrvatsku-kostajnicu-nakon-stravicnog-klizanja-terena-stanovnici-su-u-sekundi-ostali-bez-svega?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/svecenik-uhapsen-s-drogom?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_152104775529216661_10155882335474279_2780208617909911552_o.jpg?v=1521047758" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1500446368RTS156BQ.jpg?v=1521553999" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: TUŽNA SLIKA GRADA/Posjetili smo Hrvatsku Kostajnicu nakon straviènog klizanja terena, stanovnici su u sekundi ostali bez svega</h4>
+<h4>BOBU BOB, POPU DOP/Drugi sluèaj u mjesec dana: još jedan sveæenik u Srbiji &#039;pao&#039; s travom i amfetaminima</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2277,34 +2275,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7137078&type=article&title=U+%c5%a0EST+UJUTRO+PUCNJAVA+ODJEKIVALA+ZAGREBOM+Ispaljeno+vi%c5%a1e+hitaca%2c+policija+privela+nekoliko+osoba%3b+SUSJEDI+%26%23039%3bZnamo+neke+od+uhi%c4%87enih+i+%c4%8dime+se+bave...%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fu-sest-ujutro-pucnjava-odjekivala-zagrebom-ispaljeno-vise-hitaca-policija-privela-nekoliko-osoba-susjedi-znamo-neke-od-uhicenih-i-cime-se-bave%2f7137078%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7151313&type=article&title=TUGA+NA+MIROGOJU+%26%23039%3bVjerujem+da+%c4%87e+nad+tugom+prevladati+ponos+jer+smo+%c5%beivot+dijelili+sa+skromnim%2c+jednostavnim+i+dobrim+%c4%8dovjekom+-+velikim+generalom%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2ftuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom%2f7151313%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7137078&amp;type=article&amp;title=U+%c5%a0EST+UJUTRO+PUCNJAVA+ODJEKIVALA+ZAGREBOM+Ispaljeno+vi%c5%a1e+hitaca%2c+policija+privela+nekoliko+osoba%3b+SUSJEDI+%26%23039%3bZnamo+neke+od+uhi%c4%87enih+i+%c4%8dime+se+bave...%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fu-sest-ujutro-pucnjava-odjekivala-zagrebom-ispaljeno-vise-hitaca-policija-privela-nekoliko-osoba-susjedi-znamo-neke-od-uhicenih-i-cime-se-bave%2f7137078%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7151313&amp;type=article&amp;title=TUGA+NA+MIROGOJU+%26%23039%3bVjerujem+da+%c4%87e+nad+tugom+prevladati+ponos+jer+smo+%c5%beivot+dijelili+sa+skromnim%2c+jednostavnim+i+dobrim+%c4%8dovjekom+-+velikim+generalom%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2ftuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom%2f7151313%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=843267933&title=%c5%a0pansko&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25A0pansko&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=800378367&title=Petar+Stipeti%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aPetar_Stipeti%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=843267933&amp;title=%c5%a0pansko&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25A0pansko&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=800378367&amp;title=Petar+Stipeti%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPetar_Stipeti%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=2106805848&title=Pucnjava&url=tag%3ajltags%40eph.hr%2c2016%3aPucnjava&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=145322733&title=pogreb&url=tag%3ajltags%40eph.hr%2c2016%3apogreb&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2106805848&amp;title=Pucnjava&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPucnjava&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=145322733&amp;title=pogreb&amp;url=tag%3ajltags%40eph.hr%2c2016%3apogreb&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2357,7 +2355,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/u-sest-ujutro-pucnjava-odjekivala-zagrebom-ispaljeno-vise-hitaca-policija-privela-nekoliko-osoba-susjedi-znamo-neke-od-uhicenih-i-cime-se-bave/7137078/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2367,14 +2365,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/crna-kronika/u-sest-ujutro-pucnjava-odjekivala-zagrebom-ispaljeno-vise-hitaca-policija-privela-nekoliko-osoba-susjedi-znamo-neke-od-uhicenih-i-cime-se-bave/7137078/",
-postId : "7137078",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/",
+postId : "7151313",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "U ŠEST UJUTRO PUCNJAVA ODJEKIVALA ZAGREBOM Ispaljeno više hitaca, policija privela nekoliko osoba; SUSJEDI 'Znamo neke od uhiæenih i èime se bave...'",
-pubdate : "2018-03-16 10:29",
-authors : "Sandra Pudja",
-sections : "Front Page, Crna kronika",
-tags : "Špansko, Pucnjava",
+title : "TUGA NA MIROGOJU 'Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom'",
+pubdate : "2018-03-20 17:36",
+authors : "Aleksandra Vladiæ",
+sections : "Front Page, Hrvatska",
+tags : "Petar Stipetiæ, pogreb",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Nakon što je papa Franjo došao na Petrovu stolicu, Papinsko vijeæe za novu evangelizaciju uprilièilo je koncert, Beethovenovu Devetu, a na koji je bio pozvan i novi papa, Latinoamerikanac. Na iznenaðenje svih, malo prije poèetka koncerta, papa Franjo je otkazao uz, za mnoge, uvredljivi izgovor koji je osvanuo na njegovom Twitteru, kako on “nije renesansni princ” da hoda po koncertima. Jedan od razoèaranih u mikrofon ovako reèe: “Sveti oèe, ima li izvan favela ljudi dostojnih vaše pozornosti?” Taman godinu dana prije njegov prethodnik, “renesansni princ” Benedikt XVI., koji glazbu, te umjetnost uopæe, u skladu s crkvenom tradicijom, smatra sredstvom evangelizacije (Sv. Augustin: “Tko pjeva, dvostruko moli), u milanskoj Scali prisustvovao je izvedbi Beethovenove Devete nakon èega je rekao: “Nakon ovog koncerta mnogi æe krenuti na euharistijsko klanjanje… ovaj koncert nas uèi božanskom èinu pretvaranja patnje u ljubav.”" />
-<meta name="keywords" content="Papa Franjo" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Pravnik Amer Salaf (35) imao je do prije nekoliko godina odvjetnièki ured u Damasku, a proteklu godinu i pol živi u Zagrebu i u svojoj struci radi za jednu tvrtku. Sa suprugom i troje djece dobio je azil u Hrvatskoj. Engleski, koji teèno govori, u poslu mu je jako važan, no svjestan je koliko mu je za nastavak karijere u Hrvatskoj važan i hrvatski. Stoga je s oduševljenjem prihvatio moguænost da ga uèi na Filozofskom fakultetu, na kojem je prošli tjedan poèeo teèaj hrvatskoga jezika za azilante i tražitelje azila u organizaciji Centra za hrvatski kao drugi i strani jezik Croaticum, koji na Odsjeku za kroatistiku postoji veæ 56 godina i namijenjen je strancima, studentima i svim ostalim polaznicima koji žele nauèiti hrvatski." />
+<meta name="keywords" content="Azilanti, Filozofski fakultet" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>ZA GLOBUS PIŠE IVICA ŠOLA Model crkve pape Franje povijesni je falsifikat i hereza - Jutarnji List</title>
+<title>&#039;ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM&#039; Sirijci i Iraèani u RH: &#039;Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -180,11 +180,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "KomentariGlobus";
+var dfpCategory = "Život";
 var dfpCategoryParent = "Globus";
 var dfpRos = "globus-ros";
-var dfpArticle = "7131288";
-var dfpArticleKeyword = "Papa Franjo";
+var dfpArticle = "7147503";
+var dfpArticleKeyword = "Azilanti";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -606,8 +606,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza/7131288/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza/7131288/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -620,21 +620,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/vijesti/svijet/2018-01-22t134711z_1598235102_rc13ce1dd070_rtrmadp_3_pope-abusejpg/6959964/ALTERNATES/LANDSCAPE_1180/2018-01-22T134711Z_1598235102_RC13CE1DD070_RTRMADP_3_POPE-ABUSE.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/2222jpg/7147548/ALTERNATES/LANDSCAPE_1180/2222.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/vijesti/svijet/2018-01-22t134711z_1598235102_rc13ce1dd070_rtrmadp_3_pope-abusejpg/6959964/ALTERNATES/LANDSCAPE_1180/2018-01-22T134711Z_1598235102_RC13CE1DD070_RTRMADP_3_POPE-ABUSE.jpg">
-<meta property="og:title" content="ZA GLOBUS PIŠE IVICA ŠOLA Model crkve pape Franje povijesni je falsifikat i hereza" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/2222jpg/7147548/ALTERNATES/LANDSCAPE_1180/2222.jpg">
+<meta property="og:title" content="'ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM' Sirijci i Iraèani u RH: 'Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza/7131288/" />
+<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Nakon što je papa Franjo došao na Petrovu stolicu, Papinsko vijeæe za novu evangelizaciju uprilièilo je koncert, Beethovenovu Devetu, a na koji je bio pozvan i novi papa, Latinoamerikanac. Na iznenaðenje svih, malo prije poèetka koncerta, papa Franjo je otkazao uz, za mnoge, uvredljivi izgovor koji je osvanuo na njegovom Twitteru, kako on “nije renesansni princ” da hoda po koncertima. Jedan od razoèaranih u mikrofon ovako reèe: “Sveti oèe, ima li izvan favela ljudi dostojnih vaše pozornosti?” Taman godinu dana prije njegov prethodnik, “renesansni princ” Benedikt XVI., koji glazbu, te umjetnost uopæe, u skladu s crkvenom tradicijom, smatra sredstvom evangelizacije (Sv. Augustin: “Tko pjeva, dvostruko moli), u milanskoj Scali prisustvovao je izvedbi Beethovenove Devete nakon èega je rekao: “Nakon ovog koncerta mnogi æe krenuti na euharistijsko klanjanje… ovaj koncert nas uèi božanskom èinu pretvaranja patnje u ljubav.”" />
+<meta property="og:description" content="Pravnik Amer Salaf (35) imao je do prije nekoliko godina odvjetnièki ured u Damasku, a proteklu godinu i pol živi u Zagrebu i u svojoj struci radi za jednu tvrtku. Sa suprugom i troje djece dobio je azil u Hrvatskoj. Engleski, koji teèno govori, u poslu mu je jako važan, no svjestan je koliko mu je za nastavak karijere u Hrvatskoj važan i hrvatski. Stoga je s oduševljenjem prihvatio moguænost da ga uèi na Filozofskom fakultetu, na kojem je prošli tjedan poèeo teèaj hrvatskoga jezika za azilante i tražitelje azila u organizaciji Centra za hrvatski kao drugi i strani jezik Croaticum, koji na Odsjeku za kroatistiku postoji veæ 56 godina i namijenjen je strancima, studentima i svim ostalim polaznicima koji žele nauèiti hrvatski." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Ivica Šola">
-<meta name="twitter:title" content="ZA GLOBUS PIŠE IVICA ŠOLA Model crkve pape Franje povijesni je falsifikat i hereza">
-<meta name="twitter:description" content="Nakon što je papa Franjo došao na Petrovu stolicu, Papinsko vijeæe za novu evangelizaciju uprilièilo je koncert, Beethovenovu Devetu, a na koji je bio pozvan i novi papa, Latinoamerikanac. Na iznenaðenje svih, malo prije poèetka koncerta, papa Franjo je otkazao uz, za mnoge, uvredljivi izgovor koji je osvanuo na njegovom Twitteru, kako on “nije renesansni princ” da hoda po koncertima. Jedan od razoèaranih u mikrofon ovako reèe: “Sveti oèe, ima li izvan favela ljudi dostojnih vaše pozornosti?” Taman godinu dana prije njegov prethodnik, “renesansni princ” Benedikt XVI., koji glazbu, te umjetnost uopæe, u skladu s crkvenom tradicijom, smatra sredstvom evangelizacije (Sv. Augustin: “Tko pjeva, dvostruko moli), u milanskoj Scali prisustvovao je izvedbi Beethovenove Devete nakon èega je rekao: “Nakon ovog koncerta mnogi æe krenuti na euharistijsko klanjanje… ovaj koncert nas uèi božanskom èinu pretvaranja patnje u ljubav.”">
+<meta name="twitter:creator" content="Boris Orešiæ">
+<meta name="twitter:title" content="'ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM' Sirijci i Iraèani u RH: 'Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!'">
+<meta name="twitter:description" content="Pravnik Amer Salaf (35) imao je do prije nekoliko godina odvjetnièki ured u Damasku, a proteklu godinu i pol živi u Zagrebu i u svojoj struci radi za jednu tvrtku. Sa suprugom i troje djece dobio je azil u Hrvatskoj. Engleski, koji teèno govori, u poslu mu je jako važan, no svjestan je koliko mu je za nastavak karijere u Hrvatskoj važan i hrvatski. Stoga je s oduševljenjem prihvatio moguænost da ga uèi na Filozofskom fakultetu, na kojem je prošli tjedan poèeo teèaj hrvatskoga jezika za azilante i tražitelje azila u organizaciji Centra za hrvatski kao drugi i strani jezik Croaticum, koji na Odsjeku za kroatistiku postoji veæ 56 godina i namijenjen je strancima, studentima i svim ostalim polaznicima koji žele nauèiti hrvatski.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -657,9 +657,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "KomentariGlobus, Globus, Front Page",
-pubdate: "2018-03-15T18:38+01:00",
-author: "Ivica Šola",
+data: { section: "Život, Globus, Front Page",
+pubdate: "2018-03-19T21:00+01:00",
+author: "Boris Orešiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -743,10 +743,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>16.3.</span>2018.
+<span>20.3.</span>2018.
 </p>
 <p class="day">
-petak
+utorak
 </p>
 </div>
 <span class="logo"><a href="/">JutarnjList</a></span>
@@ -1108,7 +1108,7 @@ Biznis
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/globus/Globus-zivot/">
 Život
 </a>
@@ -1170,11 +1170,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-KOMENTAR
+AZILANTI
 </p>
 <h1
 class="title">
-ZA GLOBUS PIŠE IVICA ŠOLA Model crkve pape Franje povijesni je falsifikat i hereza
+'ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM' Sirijci i Iraèani u RH: 'Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1182,7 +1182,7 @@ ZA GLOBUS PIŠE IVICA ŠOLA Model crkve pape Franje povijesni je falsifikat i here
 <p
 class="authors">
 <ul>
-<li>Ivica Šola</li>
+<li>Boris Orešiæ</li>
 </ul>
 </p>
 </li>
@@ -1190,7 +1190,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-15.03.2018. u 18:38
+19.03.2018. u 21:00
 </p>
 </li>
 </ul>
@@ -1200,34 +1200,35 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="svijet media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/2018-01-22t134711z_1598235102_rc13ce1dd070_rtrmadp_3_pope-abusejpg/6959964" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/2222jpg/7147548" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/vijesti/svijet/2018-01-22t134711z_1598235102_rc13ce1dd070_rtrmadp_3_pope-abusejpg/6959964/ALTERNATES/LANDSCAPE_380/2018-01-22T134711Z_1598235102_RC13CE1DD070_RTRMADP_3_POPE-ABUSE.jpg"
+<img src="https://www.jutarnji.hr/incoming/2222jpg/7147548/ALTERNATES/LANDSCAPE_380/2222.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/vijesti/svijet/2018-01-22t134711z_1598235102_rc13ce1dd070_rtrmadp_3_pope-abusejpg/6959964/BINARY/thumbnail/2018-01-22T134711Z_1598235102_RC13CE1DD070_RTRMADP_3_POPE-ABUSE.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/2222jpg/7147548/BINARY/thumbnail/2222.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Pope Francis gestures during a news conference on board of the plane during his flight back from a trip to Chile and Peru, January 22, 2018. REUTERS/Alessandro Bianchi"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Alessandro Bianchi / REUTERS
+<span> Tomislav Krišto / CROPIX
 </span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Papa Franjo</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p><em><strong>Nama Sirijcima i Iraèanima nije lako uèiti hrvatski, ali puno nam pomaže kad na satu slušamo pjesme: da bismo razumjeli vokativ, profesori nam puštaju pjesmu Tereze Kesovije “Zlato moje”, a glagole u prezentu najlakše prepoznajemo u pjesmi Jinxa “Idem tamo gdje je sve po mom”</strong></em></p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1251,14 +1252,44 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7131288"
+<div id="content-body-6263871-7147503"
 >
-<p>Nakon što je <strong>papa Franjo</strong> došao na Petrovu stolicu, Papinsko vijeæe za novu evangelizaciju uprilièilo je koncert, Beethovenovu Devetu, a na koji je bio pozvan i novi papa, Latinoamerikanac. Na iznenaðenje svih, malo prije poèetka koncerta, papa Franjo je otkazao uz, za mnoge, uvredljivi izgovor koji je osvanuo na njegovom Twitteru, kako on “nije renesansni princ” da hoda po koncertima. Jedan od razoèaranih u mikrofon ovako reèe: “Sveti oèe, ima li izvan favela ljudi dostojnih vaše pozornosti?” Taman godinu dana prije njegov prethodnik, “renesansni princ” Benedikt XVI., koji glazbu, te umjetnost uopæe, u skladu s crkvenom tradicijom, smatra sredstvom evangelizacije (Sv. Augustin: “Tko pjeva, dvostruko moli), u milanskoj Scali prisustvovao je izvedbi Beethovenove Devete nakon èega je rekao: “Nakon ovog koncerta mnogi æe krenuti na euharistijsko klanjanje… ovaj koncert nas uèi božanskom èinu pretvaranja patnje u ljubav.”</p><p>Svaki papa ima(o) je svoj stil, svoj naglasak iz kojeg je proizlazilo njegovo voðenje crkve.</p><p>Što od poèetka nudi Franjo, koji je njegov naglasak, njegov “moto”? On stalno ponavlja kakvu Crkvu želi, sažimajuæi to u geslo: “Siromašna Crkva za siromašne!” Od dobrih nakana do ideologiziranja siromaštva i sociologizacije kršæanstva kratak je put. Papa Franjo kaže da to ne želi, sam je govorio i u Brazilu protiv redukcionizama Evanðelja na socijalne ili politièke pokrete. No svojom “protuelitistiènom” gestom kojom je dao košaricu Beethovenu i tisuæama “renesansnih prinèeva” na spomenutom koncertu èini se da se i sam izložio riziku redukcionizma koji želi izbjeæi: Svesti Crkvu na samo jednu paradigmu, “siromašnu Crkve za siromašne”, kao da ljudi “izvan favela nisu vrijedni pozornosti”.</p><p>Takav redukcionizam ni povijesno ni teološki ne stoji. Crkva, pa ni prva Crkva koju ovaj papa istièe kao primjer, prema patristièkim i sociološkim istraživanjima, od Hammana1 do Theissena2, da spomenem samo dva klasièna djela i egzaktna istraživanja, nikada nije bila siromašna niti samo “Crkva siromašnih za siromašne”. Dapaèe. I u tako hvaljenim “èistim i siromašnim” vremenima prve crkve prije Konstantinova preokreta kršæani nisu bili nikakav lumpenproletarijat, veæ je njihova statusna struktura odražavala sociološku strukturu Rimskog Carstva: bilo je tu i bogataša i siromaha, i tupana i filozofa, i pravnika i neukih, i retora i visokih èasnika, i robova i senatora, “prinèeva”, s mnogim “aferama” i “lobijima”, od spolnosti do novca, kao i danas. Ni prvi evangelizatori, poèevši sa sv. Pavlom, nisu samo evangelizatori siromaha, veæ su “bili sve svima kako bi ih pridobili za Krista”, kako veli sam Pavao, poliglot i rimski dobrostojeæi graðanin.</p><p>Upravo je grèki filozof Celzo, prema egzaktnim Hammanovim istraživanjima, ismijavao prve kršæane zbog njihova mizernog ekonomskog statusa, Crkvu kojoj su prvi misionari bili ribari podrtih gaæa, prazne lisnice i nepismeni. Evanðelje, tako su se rugali prvim kršæanima, privlaèi samo priproste, siromašne, robove i inu kukavelj. I sam Tacijan portretira kršæanina toga vremena kao onog koji izbjegava vlast i bogatstvo, uglavnom, za njega kršæanin je “siromah bez zahtjeva”. Na tom tragu nastavili su i marksisti do dana današnjeg. Zato (ekstremna) ljevica, od Latinske Amerike do Europe i Hrvatske, hvali ovog papu jer želi staru “siromašnu”, “bratsku” Crkvu koja je, kao, živjela još onda komunistièke ideale.</p><p>No ova “siromašna Crkva za siromašne” od poèetka je ne samo historijski kriptomarksistièki falsifikat preživio do dana današnjeg nego i (gnostièka) hereza. Tako i u to vrijeme politièka i socijalna interpretacija kršæanstva teži da u uspjehu prve Crkve vidi osvetu proletarijata protiv “kapitalistièkog” Carstva, to su i danas èeste interpretacije na tragu marksistièkih sociologema. No to su gluposti, dokazuje Hamman. Sveti Pavao je u Solunu obratio ciparskog prokonzula Serija Paula. Obraæeni Židovi Akvila i Priscila krcati su atraktivnim nekretninama od glavnog grada Rima do Efeza, nekretninama koje su bile toliko velike da su u njih mogli primiti cijelu lokalnu crkvu u trikliniju i atriju. Od samih poèetaka bogataši hrle meðu kršæane, a u Korintu je u Crkvu stupio i gradski blagajnik, “ministar financija” ovog bogatog luèkog grada. Plinije Mlaði tako primjeæuje “raznolikost društvenog podrijetla prvih kršæana”. Dapaèe, osim po ekonomskom statusu, kršæani i njihovi simpatizeri bliski caru i s visokim funkcijama na carskom dvoru, “savjetnici” poput Stjepe Bartulice kod Josipoviæa ili bivšeg premijera Oreškoviæa, istièe Hamman na temelju historijskih izvora koje obilato citira.</p><p>Rimska pak zajednica izgledala je kao današnja velegradska župa (kršæanstvo je urbani fenomen), a gruba vuna obrtnièkih i robovskih ogrtaèa, piše Hamman, zamjenjuje se sa zlatom izvezenim tkaninama matrona i uglednika. Ako su Evanðelje u prvi mah dijelom prihvatili stranci i skromni ljudi, veoma brzo kršæanstvo prodire na carski dvor s konzulom Klementom i njegovom ženom Domitilom. U vrijeme Komoda bio je èlan “Cezarove kuæe” i kršæanski tajkun Karpofor, Kalistov gospodar. Marcija, miljenica cara Komoda, koja je bila simpatizerka kršæanske sljedbe, imala je snažne veze s kršæanskom zajednicom u Rimu. Javno je bila poznata prisutnost kršæana na carskom dvoru i u vrijeme Septimija Severa, kao i u pretorijanskoj gardi, kako svjedoèi Tertulijan. U vrijem Marka Aurelija kršæanstvo dobiva daljnje pristaše iz redova aristokracije. Muèenik Apolonije, kojeg Jeronim proglašava Senatorom, pripadao je plemstvu. I više èlanova tajkunske plemenitaške obitelji Pomponijevaca bili su kršæani. Marcion, bogati brodovlasnik s Crnoga mora donosi u zajednicu oko 200.000 sestercija (koje mu “siromašna” prva Crkva vraæa nakon zapadanja u herezu i razlaza). Koliko je prva Crkva bila siromašna, svjedoèi i ðakon Lovro, kada je sam car htio opljaèkati crkveno blago, dokazujuæi vlastima kako Crkva novac troši, danas bismo rekli “namjenski”, na uzdržavanje sirotinje i udovica. Eto, toliko o “siromašnoj Crkvi za siromašne” u prva kršæanska vremena, iako su veæ tada gnostièke struje koje su se uvukle u kršæanstvo tražile baš takvu Crkvu.</p><p>U prvoj kršæanskoj zajednici uslijed snažnog priljeva novca dogaðaju se i prvi financijski skandali i lihvarenja (baš je tzv. Vatikanska banka danas neka novost, ili “afera” sa zagrebaèkim prebendarima), tako da Hermin Pastir opominje kršæanske tajkune i pojedine zajednice da su od novca, poput pogana, uèinili idola, svrhu, zgrtanje radi zgrtanja, a neki ðakoni su takoðer lihvarili i prali novac, kako navodi isti spis, upozoravajuæi na eshatološku bit kršæanstva. “Novèari, budite pošteni”, opominjao je Klement Aleksandrijski, kao i danas papa Franjo, ali Klement nije novac kao takav kao papa Franjo nazvao “ðavoljim izmetom”, veæ njegovu zloporabu i samosvršnost, fetišizaciju, rekao bi Marx.</p><p>Jednako tako, nisu svi kršæani toga vremena bili zatvarani i ubijani poradi Krista podnijevši muèeništvo. Mnogi od njih su završili u zatvoru i rudnicima zbog gospodarskog kriminala, pa su prve zajednice skupljale novce za njihovu otkupninu, kako potvrðuje korintski biskup Dionizije. S kaznenim pravom i poreznom evazijom u starom Rimu nije bilo šale. Èak je i buduæi papa Kalist s par drugih kršæana osuðen na rad u sardinijskom rudniku zbog – utaje poreza. No i on je našao svog “sponzora” i uspio se domoæi slobode uz pomoæ otkupnine.</p><p>Teško bi bilo objasniti i èinjenicu zašto su kršæani èesto bili i žrtve reketarenja ako su bili tek siromašna Crkva za siromašne ili lumpenproletarijat. Tako je, za vrijeme Ciprijana, zajednica u Kartagi u kratko vrijeme skupila 100.000 sestercija (oko 26 tisuæa zlatnih franaka, prevodi u današnje kategorije Hamman) za otkup ucijenjenih gusarskih žrtava.</p><p>Uostalom, kako svjedoèi Evanðelje i egzegeti, ni Isus nije bio siromah, nakon raspeæa njegovo su “odijelo” morali razrezati maèem jer je bilo tkano iz jednog komada, a ne kao kod sirotinje od uvezanih krpica, na što pozornost u svom istraživanju skreæe Theissen.</p><p>Tako, zakljuèuje Hamman, marksistièka je koncepcija o otuðenju, posebno kada je rijeè o stanju robova, prisutna u gnostika, a ne u prvoj Crkvi; ovoj je posljednjoj više na srcu teološka nego sociološka vizija èovjeka, i uvjerena je da kršæansko bratstvo i solidarnost efikasnije lomi društvene barijere negoli to može uèiniti ekonomsko ili socijalno izjednaèenje, zato je široko rasprostranjena mreža bratske pomoæi, koja bez imuænih èlanova ne bi bila moguæa. Taj redukcionizam siromašne Crkve za siromašne izrastao danas iz teologije osloboðenja jest politièka krivotvorina kršæanstva. No populistièki plasirana izgleda kao jedino “autentièno kršæanstvo”. Kršæanstvo, pa ni Krist, ne smjera na promjenu svijeta, veæ na promjenu ljudskih srca, nutrine, svrha mu je spasenje, a ne zadiranje u klasnu borbu jer, kako je pisao veliki Miguel de Unamuno, “ista je milost koja spašava bogataša od njegova bogatstva kao i siromaha od njegova siromaštva”. Solidarnost je u kršæanstvu stožerna krepost, pa i prema siromahu, ali u svrhu (vjeènog) spasenja, a ne poradi šupljeg samodopadajuæeg (medijskog) aktivizma i reklame. Isus, na kraju krajeva, nije ustanovio nikakav socijalni ili politièki pokret za emancipaciju siromaha i rješavanje socijalnih problema, veæ Crkvu okrenutu spasenju SVIH ljudi, bez obzira na rasu, klasu, spol, dob ili socijalni status.</p>
+<p>Pravnik <strong>Amer Salaf </strong>(35) imao je do prije nekoliko godina odvjetnièki ured u Damasku, a proteklu godinu i pol živi u Zagrebu i u svojoj struci radi za jednu tvrtku. Sa suprugom i troje djece dobio je azil u Hrvatskoj. Engleski, koji teèno govori, u poslu mu je jako važan, no svjestan je koliko mu je za nastavak karijere u Hrvatskoj važan i hrvatski. Stoga je s oduševljenjem prihvatio moguænost da ga uèi na Filozofskom fakultetu, na kojem je prošli tjedan poèeo teèaj hrvatskoga jezika za azilante i tražitelje azila u organizaciji Centra za hrvatski kao drugi i strani jezik Croaticum, koji na Odsjeku za kroatistiku postoji veæ 56 godina i namijenjen je strancima, studentima i svim ostalim polaznicima koji žele nauèiti hrvatski.</p><p>Profesori i studenti odluèili su volonterski uložiti svoje znanje, trud i vrijeme kako bi po dobro iskušanim metodama poduèavanja jezika pomogli Sirijcima i Iraèanima koji su zbog rata napustili svoje zemlje i žele život nastaviti u Hrvatskoj. Meðu 15 polaznika jedna je žena i 14 muškaraca u dobi izmeðu 18 i 39 godina pred kojima je 90 sati teèaja koji æe trajati tri i pol mjeseca, a uèiteljsku ulogu preuzele su tri studentice završne godine studija hrvatskog jezika i književnosti <strong>Maja Matijeviæ</strong>, <strong>Ivana Ðerke</strong> i<strong> Ivana Bauk</strong>.</p><p>“Moji sinovi, 8-godišnji <strong>Ahmed </strong>i 5-godišnji <strong>Yousif</strong>, idu u školu i vrtiæ i odlièno govore hrvatski. Supruga i ja dosta razumijemo. Sada je vrijeme da i ja progovorim hrvatski jer æu tako lakše naæi posao. Nije lako, ali æu se potruditi”, kaže <strong>Wisam Al-Obaidy</strong>, koji je u velikom izbjeglièkom valu krajem 2015. napustio Bagdad, a nakon nekoliko mjeseci dospio je u Hrvatsku, gdje je ubrzo dobio azil pa su mu se pridružili sinovi i supruga <strong>Šeima</strong>, koja je u Iraku bila profesorica fizièke kulture. Kao azilanti su u Zagrebu dobili stan na korištenje, a oboje su pohaðali teèaj hrvatskoga u jednoj privatnoj školi.</p><p>“Nemamo namjeru živjeti bilo gdje drugdje nego u Hrvatskoj gdje su nas svi odlièno prihvatili, a djeèaci imaju mnogo prijatelja. Hrvati dobro govore engleski, ali da bismo se potpuno uklopili u društvo, moramo znati hrvatski”, kaže 36-godišnji Iraèanin Wisam. Na teèaj je došao s prijateljem <strong>Jaserom Al Masrijem</strong> iz Sirije, koji je u Damasku radio u službi za korisnike jedne telekomunikacijske tvrtke i smatra da bez znanja hrvatskog teško može u Hrvatskoj dobiti bilo kakav bolje plaæen posao. Stoga se s mnogo entuzijazma bacio na uèenje i sjeo u prvi red u uèionici u želji da što bolje vidi i èuje što govori i piše uèiteljica Maja Matijeviæ.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/1111jpg/7147545" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/1111jpg/7147545/ALTERNATES/FREE_380/1111.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/1111jpg/7147545/BINARY/thumbnail/1111.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Damir Krajaè / CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Na fotografiji: Dragan Bagiæ, Ðurðica Æiliæ, Marica Èilaš Mikuliæ, Luna Cvitanušiæ Tvico, Ranka Ðurðeviæ, Maja Matijeviæ</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Na prvom satu uèili su abecedu i izgovor glasova te glagol biti i osobne zamjenice kako bi se znali predstaviti na hrvatskom. Veæ na drugom satu usvojili su razliku izmeðu nominativa i akuzativa, nauèili zanimanja i zemlje te reæi odakle dolaze…</p><p>Jedan od inicijatora projekta, prodekan za znanost i meðunarodnu suradnju Filozofskog fakulteta, izvanredni profesor na Odsjeku za sociologiju dr. sc. <strong>Dragan Bagiæ</strong> otkriva kako je bio mentor studentici koja je pisala diplomski rad o integraciji azilanata u Hrvatskoj i razgovarala s njima te došla do zakljuèka kako je jedna od najveæih prepreka njihovoj kvalitetnoj integraciji upravo dostupnost i kvaliteta uèenja hrvatskog jezika.</p><p>“Oèito je da poduèavanje azilanata hrvatskom koje je propisano zakonom i koje se provodi nije na dovoljno visokoj razini da bi ubrzalo taj proces integracije. I tako mi je sinula ideja da bi se Fakultet mogao u to ukljuèiti, a znam da su i drugi na Fakultetu takoðer o tome razmišljali. Tim je ljudima država dala zaštitu i stoga se treba ozbiljno angažirati da se kvalitetno integriraju, da se ovdje osjeæaju dobrodošlo i da mogu razvijati svoje životne putove. Fakultet želi društvu pokazati svoje sposobnosti, kapacitete i volju u rješavanju relevantnih problema i potvrditi da nije zatvorena akademska institucija.</p><p>Takoðer želimo našim studentima omoguæiti da kroz praksu stjeèu znanja i kompetencije, a ako je to i korisno za društvo, tim bolje”, govori dr. Bagiæ i naglašava da se Filozofski planira javljati na natjeèaje koje æe Ministarstvo znanosti i obrazovanja raspisivati za poduèavanje azilanata hrvatskom jeziku. Ovaj æe teèaj, naime, profesori i studenti odraditi volonterski, no ubuduæe bi slièni teèajevi mogli biti integrirani u fakultetske programe.</p><p>“Sigurni smo da takve teèajeve koje Ministarstvo plaæa možemo provesti kvalitetnije od bilo koga drugog u Hrvatskoj”, zakljuèuje Bagiæ.</p><p>Proèelnica Odsjeka za zapadnoslavenske jezike i književnosti doc. dr. sc. <strong>Ðurðica Èiliæ</strong> proteklih godinu i pol dana volontira za izbjeglice smještene u hotelu Porin. Veæinom ih je razvozila na razne aktivnosti po gradu i tako je upoznala ljude iz udruge Are You Syrious i drugih koje pomažu azilantima i tražiteljima azila.</p><p>“Kada je Dragan Bagiæ predložio da nešto napravimo, razgovarala sam o tome s brojnim kolegama na Fakultetu i mnogi su ponudili volonterski dati svoj konkretan doprinos. Svi su izvrsno reagirali. Prvo sam se obratila MUP-u koji odobrava azile i u kontaktu je s ljudima koji ih èekaju, no tamo su mi rekli da nakon što izdaju azil više nemaju nikakve veze s tim ljudima. Onda sam otišla u Ministarstvo znanosti, gdje su mi rekli da teèajeve za koje oni raspisuju natjeèaje provode privatne škole. Na pitanje kakvi su rezultati tih teèajeva rekli su da ne znaju. Takav teèaj po polazniku državu košta izmeðu 5 i 7 tisuæa kuna, no Ministarstvo ne provjerava znanje polaznika.</p><p>Kada sam pitala zašto se nisu obratili Filozofskom koji veæ godinama provodi teèajeve hrvatskog jezika za strance i ima izvrsne rezultate, odgovorili su mi da su mislili da je to nama na Fakultetu ispod èasti. Oèito nisu znali da je, baš naprotiv, politika Fakulteta tim ljudima pokazati da su dio naše zajednice”, govori dr. sc. Èiliæ, koja se potom obratila Centru za mirovne studije i udruzi Are You Syrious od kojih ubrzo dobiva popis ljudi za koje smatraju da im je kvalitetno uèenje hrvatskog najpotrebnije. “Jako nam je stalo da ovaj teèaj uspije. Interes meðu azilantima bio je mnogo veæi nego što ih možemo primiti, pa smo imali nezahvalan zadatak napraviti selekciju”, kaže dr. Èiliæ.</p><p>Voditeljica Croaticuma, viša lektorica dr. sc. <strong>Marica Èilaš Mikuliæ</strong>, naglašava kako je rijeè o najstarijoj instituciji u Hrvatskoj koja se bavi prouèavanjem i poduèavanjem hrvatskog kao stranoga jezika. Uz to su najproduktivniji u izradi udžbenika hrvatskog za strance te imaju razvijenu metodologiju poduèavanja jezika. Metoda je, objašnjava, komunikacijsko-kognitivna, što znaèi da se istodobno kroz komunikaciju uèe i jezik i kultura.</p><p>“Azilanti æe se uèeæi jezik upoznavati i s hrvatskom svakodnevicom i obièajima, što je jako važno. Od samih poèetaka Croaticum ima studente i polaznike teèajeva iz cijeloga svijeta i èesto se dogaða da ovisno o zemlji iz koje dolaze razlièito reagiraju na pojedinu moju gestu. Mi ih stoga poduèavamo kako se rukovati, koga smiješ zagrliti ili potapšati, poljubiti u obraz i koliko puta… Kada uèimo brojeve i genitiv, razgovaramo o cijenama, pa onda i o cjenkanju koje je kulturološka èinjenica. U nekim je kulturama cjenkanje obavezno, a drugdje se o cijeni ne pregovara”, istièe dr. sc. Èilaš Mikuliæ te dodaje kako polaznici izvrsno reagiraju na takav naèin uèenja jezika. U svojoj dugogodišnjoj praksi imala je mnogo uèenika iz arapskih zemalja, pa je imala priliku mnogo nauèiti i o njihovoj kulturu.</p><p>“Sirijce pamtim po iznimnom poštovanju profesora. Svi redom su jako srdaèni, otvoreni i komunikativni. Buduæi da ja ne znam arapski, ne mogu im ništa reæi na njihovu jeziku, a èesto neki od njih ne znaju niti jedan drugi strani jezik. Sa studentima s engleskoga govornog podruèja imam zajednièki jezik. No, jezik se ne uèi samo kroz direktno prenošenje rijeèi iz jednog jezika u drugi, nego holistièki, i gestama i mimikom, korak po korak, kao kada ga dijete uèi. Sirijcima je u poèetku jako teško uèiti hrvatski, ali su jako motivirani i nakon mjesec dana, kada poènu govoriti, najèešæe bolje progovore nego, recimo, Amerikanci, koji oèekuju da im se neke rijeèi prevode i ne trude se toliko kognitivno”, objašnjava dr. sc. Èilaš Mikuliæ.</p><p>Otkriva kako se Croaticum u listopadu javio na javni poziv Središnjeg državnog ureda za Hrvate izvan RH i zajedno sa struènjacima iz Centra za potporu e-uèenju Filozofskog fakulteta napravio cjeloviti internetski teèaj za uèenje hrvatskoga na poèetnièkoj, odnosno A1 razini. Teèaj je besplatan i svima dostupan na stranici <strong><a href="https://a1.ffzg.unizg.hr/">https://a1.ffzg.unizg.hr</a></strong>. Jako je dobro posjeæen te nema nikakve prepreke da ga pohaðaju i azilanti.</p><p>Teèaj koji je upravo poèeo temelji se na programu poduèavanja azilanata hrvatskom jeziku koji je 2015. osmislila prof. dr. sc. <strong>Zrinka Jelaska</strong> sa svojim suradnicima. Polaznici æe imati pristup internetu, knjigama iz fakultetske knjižnice, a osigurat æe im se i prostor gdje mogu uèiti. Mentorice studenticama koje æe provoditi nastavu iskusne su lektorice s Croaticuma prof. <strong>Ranka Ðurðeviæ</strong> i prof. <strong>Jelena Cvitanušiæ Tvico</strong>. Kažu da je 15 polaznika prošlo testiranje iz hrvatskoga. Svi su ga oni veæ negdje uèili, ali im je znanje vrlo skromno.</p><p>“Polaznici èiji se materinji jezik ne piše latinicom, kao što je arapski, obièno teže usvajaju pisanje na hrvatskom. Stoga kreæemo s abecedom. Cilj je da nauèe govoriti, ali i pisati kako bi se lakše mogli zaposliti. Nakon tri i pol mjeseca i 90 sati trebali bi steæi znanje da se mogu snaæi u raznim životnim situacijama kao što su razgovor za posao, uèlanjenje u knjižnicu, pohaðanje autoškole, da mogu samostalno èitati raèune za režije, javiti se na natjeèaj za posao, razgovarati s profesorima svoje djece u školi…” objašnjava prof. Ðurðeviæ.</p><p>“Ljudi u dobi izmeðu 20 i 30 godina uglavnom su vizualni tipovi. Stoga imamo mnogo videomaterijala i fotografija na temelju kojih trebaju napisati prièu. Puštamo im i glazbu, na primjer pjesmu ‘Idem tamo gdje je sve po mom’, u kojoj ima mnogo glagola u prezentu. Za poèetnike je izvrsna pjesma ‘Sunèan dan’ Nene Belana, a ‘Zlato moje’ Tereze Kesovije puštamo kad uèimo vokativ. ‘Mjesto za dvoje’ grupe Letu štuke pomaže u uèenju kondicionala”, istièe prof. Jelena Cvitanušiæ Tvico. Istièe da u nastavi moraju biti svjesni specifiènih životnih okolnosti azilanata jer se može dogoditi da neki emotivno reagiraju kada se obraðuje tema obitelji jer su izgubili èlanove obitelji ili su daleko od njih.</p><p>“Svaki æemo im tjedan spomenuti neku drugu hrvatsku regiju kako bi dobili predodžbu o cijeloj državi, a ne samo o Zagrebu, u kojem sada žive, jer tko zna gdje æe na kraju završiti. Objasnit æemo im, na primjer, što je Vukovar prošao u ratu, ali i što se danas dogaða u tom gradu koji ima, recimo, tvornicu cipela i filmski festival. Ne želimo da niti jedna tema bude tabu, pa tako ni rat i destrukcija, ali želimo naglasiti i da svaki rat završi i da se život nastavlja, za što je Hrvatska dobar primjer”, govori prof. Cvitanušiæ Tvico, koja je i sama proživjela rat u Sarajevu i izbjeglièko iskustvo zbog èega vjeruje da može razumjeti neke traume koje su prošli azilanti u Hrvatskoj.</p><p>Njezina kolegica prof. <strong>Ranka Ðurðeviæ</strong> dodaje kako polaznike ipak neæe viktimizirati, nego pokušati potaknuti sve njihove potencijale, što je i ljudski i profesionalno veseli i obogaæuje.</p><p>Njih dvije i dr. sc. Marica Èilaš Mikuliæ uložile su mnogo vremena i truda kako bi obuèile tri studentice koje æe držati nastavu.</p><p>Studentica 5. godine kroatistike Maja Matijeviæ kaže da joj je prije svega želja pomoæi izbjeglicama u Hrvatskoj, ali i steæi iskustvo u poduèavanju. Stoga je, priznaje, ovaj teèaj za nju veliki izazov, no nada se da æe se trud isplatiti.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7131288 p").filter(function () {
+$("#content-body-6263871-7147503 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1267,16 +1298,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7131288").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7147503").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7131288").children().slice(max).remove();
+$("#content-body-6263871-7147503").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7131288").children().get(0);
+var firstChild = $("#content-body-6263871-7147503").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1314,8 +1345,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Papa_Franjo" class ="label label-default" >
-Papa Franjo
+<a href="https://www.jutarnji.hr/tag/Filozofski_fakultet" class ="label label-default" >
+Filozofski fakultet
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Azilanti" class ="label label-default" >
+Azilanti
 </a>
 </li>
 </ul>
@@ -1326,30 +1362,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="globus-politika media none">
+<article class="zivotne-price media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/dan-u-skoli-u-zagrebu-s-malim-izbjeglicama-dragi-djedice-za-ove-blagdane-pokloni-mi-azil/6835848/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/">
-PET GODINA PAPE FRANJE Zašto Hrvati (još) ne vole Bergoglia kao što su voljeli Wojtylu: Tko se to u Crkvi u Hrvatskoj boji 'dobrog pape'?
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="svijet media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/jeste-li-me-razumjeli-misa-se-ne-placa-papino-obracanje-pokrenuo-novi-val-rasprava-iz-zagrebacke-biskupije-s-tim-se-slazu-ali/7110294/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/jeste-li-me-razumjeli-misa-se-ne-placa-papino-obracanje-pokrenuo-novi-val-rasprava-iz-zagrebacke-biskupije-s-tim-se-slazu-ali/7110294/">
-'JESTE LI ME RAZUMJELI? MISA SE NE PLAÆA!' Papino obraæanje pokrenuo novi val rasprava. Iz Zagrebaèke biskupije s tim se slažu, ali...
+<a href="https://www.jutarnji.hr/life/zivotne-price/dan-u-skoli-u-zagrebu-s-malim-izbjeglicama-dragi-djedice-za-ove-blagdane-pokloni-mi-azil/6835848/">
+DAN U ŠKOLI U ZAGREBU S MALIM IZBJEGLICAMA 'Dragi Djedice, za ove blagdane pokloni mi azil...'
 </a>
 </h4>
 </li>
@@ -1439,7 +1460,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7131288" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7147503" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1471,19 +1492,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="globus-komentari media c11a none">
+<article class="globus-zivot media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza/7131288/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-zivot/ne-hrvati-nisu-dosli-u-stoljecu-sedmom-i-ne-nisu-stigli-iz-karpata-kako-je-nas-ugledni-arheolog-otkrio-gdje-su-zapravo-zivjeli-hrvati-prije-seobe/7099941/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza/7131288/">
-KOMENTAR
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/ne-hrvati-nisu-dosli-u-stoljecu-sedmom-i-ne-nisu-stigli-iz-karpata-kako-je-nas-ugledni-arheolog-otkrio-gdje-su-zapravo-zivjeli-hrvati-prije-seobe/7099941/">
+IZAZVAO BURNE REAKCIJE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza/7131288/">
-ZA GLOBUS PIŠE IVICA ŠOLA Model crkve pape Franje povijesni je falsifikat i hereza
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/ne-hrvati-nisu-dosli-u-stoljecu-sedmom-i-ne-nisu-stigli-iz-karpata-kako-je-nas-ugledni-arheolog-otkrio-gdje-su-zapravo-zivjeli-hrvati-prije-seobe/7099941/">
+'NE, HRVATI NISU DOŠLI U STOLJEÆU SEDMOM I NE, NISU STIGLI IZ KARPATA' Kako je naš ugledni arheolog otkrio gdje su zapravo živjeli Hrvati prije seobe
 </a>
 </h4>
 </div>
@@ -1493,19 +1514,19 @@ ZA GLOBUS PIŠE IVICA ŠOLA Model crkve pape Franje povijesni je falsifikat i here
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="globus-komentari media c11a none">
+<article class="globus-zivot media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivo-lucic-zasto-se-kao-clan-vijeca-za-proslost-ne-slazem-sa-svim-njegovim-zakljuccima/7117302/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-zivot/ispovijesti-hrvatskih-prostitutki-ponosna-sam-sto-sam-uspjela-osigurati-egzistenciju-za-sebe-i-djecu-i-to-u-trenutku-kada-sam-stvarno-bila-na-dnu/7049828/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivo-lucic-zasto-se-kao-clan-vijeca-za-proslost-ne-slazem-sa-svim-njegovim-zakljuccima/7117302/">
-KOMENTAR
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/ispovijesti-hrvatskih-prostitutki-ponosna-sam-sto-sam-uspjela-osigurati-egzistenciju-za-sebe-i-djecu-i-to-u-trenutku-kada-sam-stvarno-bila-na-dnu/7049828/">
+GLOBUS
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivo-lucic-zasto-se-kao-clan-vijeca-za-proslost-ne-slazem-sa-svim-njegovim-zakljuccima/7117302/">
-ZA GLOBUS PIŠE IVO LUÈIÆ Zašto se kao èlan vijeæa za prošlost ne slažem sa svim njegovim zakljuècima
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/ispovijesti-hrvatskih-prostitutki-ponosna-sam-sto-sam-uspjela-osigurati-egzistenciju-za-sebe-i-djecu-i-to-u-trenutku-kada-sam-stvarno-bila-na-dnu/7049828/">
+ISPOVIJESTI HRVATSKIH PROSTITUTKI 'Ponosna sam što sam uspjela osigurati egzistenciju za sebe i djecu. I to u trenutku kada sam stvarno bila na dnu'
 </a>
 </h4>
 </div>
@@ -1515,19 +1536,19 @@ ZA GLOBUS PIŠE IVO LUÈIÆ Zašto se kao èlan vijeæa za prošlost ne slažem sa svim 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="globus-komentari media c11a none">
+<article class="globus-zivot media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-komentari/boris-havel-pise-za-globus-zasto-je-jeruzalem-za-zidove-nedjeljiv-grad/7092915/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-zivot/genijalci-u-pelenama-supruga-naseg-proslavljenog-nogometasa-na-vlastitom-je-sinu-isprobala-potpuno-novu-metodu-naprednog-ucenja/6323995/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-komentari/boris-havel-pise-za-globus-zasto-je-jeruzalem-za-zidove-nedjeljiv-grad/7092915/">
-KOMENTAR
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/genijalci-u-pelenama-supruga-naseg-proslavljenog-nogometasa-na-vlastitom-je-sinu-isprobala-potpuno-novu-metodu-naprednog-ucenja/6323995/">
+OD KOLIJEVKE DO ŠKOLSKE KLUPE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-komentari/boris-havel-pise-za-globus-zasto-je-jeruzalem-za-zidove-nedjeljiv-grad/7092915/">
-BORIS HAVEL PIŠE ZA GLOBUS Zašto je Jeruzalem za Židove nedjeljiv grad
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/genijalci-u-pelenama-supruga-naseg-proslavljenog-nogometasa-na-vlastitom-je-sinu-isprobala-potpuno-novu-metodu-naprednog-ucenja/6323995/">
+GENIJALCI U PELENAMA Supruga našeg proslavljenog nogometaša na vlastitom je sinu isprobala potpuno novu metodu naprednog uèenja
 </a>
 </h4>
 </div>
@@ -1537,19 +1558,19 @@ BORIS HAVEL PIŠE ZA GLOBUS Zašto je Jeruzalem za Židove nedjeljiv grad
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="globus-komentari media c11a none">
+<article class="globus-zivot media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-ikone-ljevice-tvrde-antifasizam-je-novi-opijum-za-narod/7027056/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-zivot/tata-mi-je-srbin-mama-muslimanka-kad-bih-u-dubici-bio-sa-srbima-bio-sam-balija-a-s-muslimanima-sam-bio-cetnik-u-zagrebu-sam-bio-glupi-bosanac/5918448/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-ikone-ljevice-tvrde-antifasizam-je-novi-opijum-za-narod/7027056/">
-KOMENTAR
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/tata-mi-je-srbin-mama-muslimanka-kad-bih-u-dubici-bio-sa-srbima-bio-sam-balija-a-s-muslimanima-sam-bio-cetnik-u-zagrebu-sam-bio-glupi-bosanac/5918448/">
+DADO ÆOSIÆ ZA GLOBUS
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-ikone-ljevice-tvrde-antifasizam-je-novi-opijum-za-narod/7027056/">
-ZA GLOBUS PIŠE IVICA ŠOLA Ikone ljevice tvrde: Antifašizam je novi opijum za narod
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/tata-mi-je-srbin-mama-muslimanka-kad-bih-u-dubici-bio-sa-srbima-bio-sam-balija-a-s-muslimanima-sam-bio-cetnik-u-zagrebu-sam-bio-glupi-bosanac/5918448/">
+'Tata mi je Srbin, mama Muslimanka. Kad bih u Dubici bio sa Srbima, bio sam balija, a s Muslimanima sam bio èetnik. U Zagrebu sam bio glupi Bosanac'
 </a>
 </h4>
 </div>
@@ -1594,21 +1615,21 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-<article class="ljepota media c3 none">
+<article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-<img src="https://www.gloria.hr/fokus/nana-2png/7132410/ALTERNATES/LANDSCAPE_380/nana%202.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/nana-2png/7132410/BINARY/thumbnail/nana%202.PNG"
+data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Anamarija Asanovic 081216 snimio Sasa Buric"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1616,8 +1637,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-Kæi Mustafe Nadareviæa o beauty trendovima i poslu o kojem sanjaju mnoge djevojke
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
 </a>
 </h4>
 </div>
@@ -2087,14 +2108,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/scena/prekrasna-ana-radisic-u-emotivnom-spotu-za-pjesmu-marka-koncurata?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/alkohol-ih-je-trebao-ubiti-no-oni-su-demantirali-medicinu-i-ostali-medu-zivima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521200483Ana_RadisYicY_Bolero.jpg?v=1521200816" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1491402427policijakontrola.jpg?v=1491402498" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>BOLERO/Prekrasna Ana Radišiæ u emotivnom spotu za pjesmu Marka Konèurata</h4>
+<h4>NESLAVNI HRVATSKI REKORDERI/Alkohol ih je trebao ubiti, no oni su demantirali medicinu i ostali meðu živima</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2138,23 +2159,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=171&contextPath=1-85-171-&pubId=1&cat=&meta=read-story&objId=7131288&type=article&title=ZA+GLOBUS+PI%c5%a0E+IVICA+%c5%a0OLA+Model+crkve+pape+Franje+povijesni+je+falsifikat+i+hereza&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-komentari%2fza-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza%2f7131288%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=168&contextPath=1-85-168-&pubId=1&cat=&meta=read-story&objId=7147503&type=article&title=%26%23039%3bZA%c5%a0TO+U%c4%8cIMO+HRVATSKI%3f+ZATO+%c5%a0TO+JE+OVDJE+SAD+NA%c5%a0+DOM%26%23039%3b+Sirijci+i+Ira%c4%8dani+u+RH%3a+%26%23039%3bGlagole+u+prezentu+prepoznajemo+kod+Jinxa%2c+a+vokativ+kod+Tereze!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-zivot%2fzasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze%2f7147503%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=171&amp;contextPath=1-85-171-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7131288&amp;type=article&amp;title=ZA+GLOBUS+PI%c5%a0E+IVICA+%c5%a0OLA+Model+crkve+pape+Franje+povijesni+je+falsifikat+i+hereza&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-komentari%2fza-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza%2f7131288%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=168&amp;contextPath=1-85-168-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7147503&amp;type=article&amp;title=%26%23039%3bZA%c5%a0TO+U%c4%8cIMO+HRVATSKI%3f+ZATO+%c5%a0TO+JE+OVDJE+SAD+NA%c5%a0+DOM%26%23039%3b+Sirijci+i+Ira%c4%8dani+u+RH%3a+%26%23039%3bGlagole+u+prezentu+prepoznajemo+kod+Jinxa%2c+a+vokativ+kod+Tereze!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-zivot%2fzasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze%2f7147503%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-171-&cat=jltags%40eph.hr%2c2016&objId=529551659&title=Papa+Franjo&url=tag%3ajltags%40eph.hr%2c2016%3aPapa_Franjo&rt=1&ctxId=171&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-168-&cat=jltags%40eph.hr%2c2016&objId=2046677892&title=Azilanti&url=tag%3ajltags%40eph.hr%2c2016%3aAzilanti&rt=1&ctxId=168&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-171-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=529551659&amp;title=Papa+Franjo&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPapa_Franjo&amp;rt=1&amp;ctxId=171&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-168-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2046677892&amp;title=Azilanti&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAzilanti&amp;rt=1&amp;ctxId=168&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-168-&cat=jltags%40eph.hr%2c2016&objId=1783543909&title=Filozofski+fakultet&url=tag%3ajltags%40eph.hr%2c2016%3aFilozofski_fakultet&rt=1&ctxId=168&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-168-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1783543909&amp;title=Filozofski+fakultet&amp;url=tag%3ajltags%40eph.hr%2c2016%3aFilozofski_fakultet&amp;rt=1&amp;ctxId=168&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2207,7 +2239,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza/7131288/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2217,14 +2249,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/globus/Globus-komentari/za-globus-pise-ivica-sola-model-crkve-pape-franje-povijesni-je-falsifikat-i-hereza/7131288/",
-postId : "7131288",
+url : "https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/",
+postId : "7147503",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "ZA GLOBUS PIŠE IVICA ŠOLA Model crkve pape Franje povijesni je falsifikat i hereza",
-pubdate : "2018-03-15 18:38",
-authors : "Ivica Šola",
-sections : "Front Page, Globus, KomentariGlobus",
-tags : "Papa Franjo",
+title : "'ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM' Sirijci i Iraèani u RH: 'Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!'",
+pubdate : "2018-03-19 21:00",
+authors : "Boris Orešiæ",
+sections : "Front Page, Globus, Život",
+tags : "Azilanti, Filozofski fakultet",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

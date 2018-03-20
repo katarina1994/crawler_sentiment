@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Jutros je nastavljeno suðenje Davidu Komšiæu (20) optuženom da je 22. veljaèe prošle godine brutalno iz osvete ubio svoju bivšu djevojku Kristinu Krupljan (18) u Ulici Svetog Josipa Radnika 16 na zagrebaèkoj Pešèenici." />
-<meta name="keywords" content="David Komšiæ, Kristina Krupljan" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Zagrebaèka policija je u utorak oko 16 sati uhitila osobu koju se sumnjièi za ubojstvo 66-godišnjeg Ivana B. u podrumskom stanu u Prilazu Gjure Deželiæa. Kako se doznaje, rijeè je o zetu ubijenoga, koji je u trenutku kada je u ponedjeljak poslijepodne došlo do krvoproliæa bio na mjestu zloèina, a zatim se dao u bijeg. Zet je, kako doznajemo, priveden na kriminalistièku obradu." />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>DAVID KOMŠIÆ ODBIO IZNOSITI OBRANU ZA BRUTALNO UBOJSTVO TRUDNE KRISTINE &#039;Uz dužno poštovanje, ja u ovom postupku neæu odgovarati na pitanja...&#039; - Jutarnji List</title>
+<title>POLICIJA ULOVILA UBOJICU: SKROMNOG GOSPODINA U CENTRU ZAGREBA LIKVIDIRAO JE NJEGOV ZET Muèki ga je izbo nožem pred vlastitom suprugom i malim sinom - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -176,15 +176,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "BA";
+var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
 var dfpCategory = "Crna kronika";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7136817";
-var dfpArticleKeyword = "David Komšiæ";
+var dfpArticle = "7151514";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -546,8 +546,6 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
-<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
-<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -608,8 +606,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/david-komsic-odbio-iznositi-obranu-za-brutalno-ubojstvo-trudne-kristine-uz-duzno-postovanje-ja-u-ovom-postupku-necu-odgovarati-na-pitanja/7136817/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/david-komsic-odbio-iznositi-obranu-za-brutalno-ubojstvo-trudne-kristine-uz-duzno-postovanje-ja-u-ovom-postupku-necu-odgovarati-na-pitanja/7136817/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/policija-ulovila-ubojicu-skromnog-gospodina-u-centru-zagreba-likvidirao-je-njegov-zet-mucki-ga-je-izbo-nozem-pred-vlastitom-suprugom-i-malim-sinom/7151514/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/policija-ulovila-ubojicu-skromnog-gospodina-u-centru-zagreba-likvidirao-je-njegov-zet-mucki-ga-je-izbo-nozem-pred-vlastitom-suprugom-i-malim-sinom/7151514/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -622,21 +620,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/david-komsic/5759907/ALTERNATES/LANDSCAPE_1180/David%20Kom%C5%A1i%C4%87" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/dezeliceva_ubojstvo3-190318jpg/7147938/ALTERNATES/LANDSCAPE_1180/dezeliceva_ubojstvo3-190318.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/david-komsic/5759907/ALTERNATES/LANDSCAPE_1180/David%20Kom%C5%A1i%C4%87">
-<meta property="og:title" content="DAVID KOMŠIÆ ODBIO IZNOSITI OBRANU ZA BRUTALNO UBOJSTVO TRUDNE KRISTINE 'Uz dužno poštovanje, ja u ovom postupku neæu odgovarati na pitanja...'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/dezeliceva_ubojstvo3-190318jpg/7147938/ALTERNATES/LANDSCAPE_1180/dezeliceva_ubojstvo3-190318.jpg">
+<meta property="og:title" content="POLICIJA ULOVILA UBOJICU: SKROMNOG GOSPODINA U CENTRU ZAGREBA LIKVIDIRAO JE NJEGOV ZET Muèki ga je izbo nožem pred vlastitom suprugom i malim sinom" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/david-komsic-odbio-iznositi-obranu-za-brutalno-ubojstvo-trudne-kristine-uz-duzno-postovanje-ja-u-ovom-postupku-necu-odgovarati-na-pitanja/7136817/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/policija-ulovila-ubojicu-skromnog-gospodina-u-centru-zagreba-likvidirao-je-njegov-zet-mucki-ga-je-izbo-nozem-pred-vlastitom-suprugom-i-malim-sinom/7151514/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Jutros je nastavljeno suðenje Davidu Komšiæu (20) optuženom da je 22. veljaèe prošle godine brutalno iz osvete ubio svoju bivšu djevojku Kristinu Krupljan (18) u Ulici Svetog Josipa Radnika 16 na zagrebaèkoj Pešèenici." />
+<meta property="og:description" content="Zagrebaèka policija je u utorak oko 16 sati uhitila osobu koju se sumnjièi za ubojstvo 66-godišnjeg Ivana B. u podrumskom stanu u Prilazu Gjure Deželiæa. Kako se doznaje, rijeè je o zetu ubijenoga, koji je u trenutku kada je u ponedjeljak poslijepodne došlo do krvoproliæa bio na mjestu zloèina, a zatim se dao u bijeg. Zet je, kako doznajemo, priveden na kriminalistièku obradu." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Dušan Miljuš">
-<meta name="twitter:title" content="DAVID KOMŠIÆ ODBIO IZNOSITI OBRANU ZA BRUTALNO UBOJSTVO TRUDNE KRISTINE 'Uz dužno poštovanje, ja u ovom postupku neæu odgovarati na pitanja...'">
-<meta name="twitter:description" content="Jutros je nastavljeno suðenje Davidu Komšiæu (20) optuženom da je 22. veljaèe prošle godine brutalno iz osvete ubio svoju bivšu djevojku Kristinu Krupljan (18) u Ulici Svetog Josipa Radnika 16 na zagrebaèkoj Pešèenici.">
+<meta name="twitter:creator" content="Hajdi Karakaš Jakubin">
+<meta name="twitter:title" content="POLICIJA ULOVILA UBOJICU: SKROMNOG GOSPODINA U CENTRU ZAGREBA LIKVIDIRAO JE NJEGOV ZET Muèki ga je izbo nožem pred vlastitom suprugom i malim sinom">
+<meta name="twitter:description" content="Zagrebaèka policija je u utorak oko 16 sati uhitila osobu koju se sumnjièi za ubojstvo 66-godišnjeg Ivana B. u podrumskom stanu u Prilazu Gjure Deželiæa. Kako se doznaje, rijeè je o zetu ubijenoga, koji je u trenutku kada je u ponedjeljak poslijepodne došlo do krvoproliæa bio na mjestu zloèina, a zatim se dao u bijeg. Zet je, kako doznajemo, priveden na kriminalistièku obradu.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -660,8 +658,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Crna kronika, Vijesti, Front Page",
-pubdate: "2018-03-16T09:29+01:00",
-author: "Dušan Miljuš",
+pubdate: "2018-03-20T17:04+01:00",
+author: "Hajdi Karakaš Jakubin",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -1208,10 +1206,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-SLUÈAJ KOJI JE ZGROZIO HRVATSKU </p>
+NOVI DETALJI
+</p>
 <h1
 class="title">
-DAVID KOMŠIÆ ODBIO IZNOSITI OBRANU ZA BRUTALNO UBOJSTVO TRUDNE KRISTINE 'Uz dužno poštovanje, ja u ovom postupku neæu odgovarati na pitanja...'
+POLICIJA ULOVILA UBOJICU: SKROMNOG GOSPODINA U CENTRU ZAGREBA LIKVIDIRAO JE NJEGOV ZET Muèki ga je izbo nožem pred vlastitom suprugom i malim sinom
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1219,7 +1218,7 @@ DAVID KOMŠIÆ ODBIO IZNOSITI OBRANU ZA BRUTALNO UBOJSTVO TRUDNE KRISTINE 'Uz dužn
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/dusan-miljus">Dušan Miljuš</a></li>
+<li><a href="https://www.jutarnji.hr/autori/hajdi-karakas-jakubin">Hajdi Karakaš Jakubin</a></li>
 </ul>
 </p>
 </li>
@@ -1227,7 +1226,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-16.03.2018. u 09:29
+20.03.2018. u 17:04
 </p>
 </li>
 </ul>
@@ -1239,21 +1238,24 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/david-komsic/5759907" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/dezeliceva_ubojstvo3-190318jpg/7147938" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/david-komsic/5759907/ALTERNATES/LANDSCAPE_380/David%20Kom%C5%A1i%C4%87"
+<img src="https://www.jutarnji.hr/incoming/dezeliceva_ubojstvo3-190318jpg/7147938/ALTERNATES/LANDSCAPE_380/dezeliceva_ubojstvo3-190318.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/david-komsic/5759907/BINARY/thumbnail/David%20Kom%C5%A1i%C4%87"
+data-src-template="https://www.jutarnji.hr/incoming/dezeliceva_ubojstvo3-190318jpg/7147938/BINARY/thumbnail/dezeliceva_ubojstvo3-190318.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Zagreb, 190318.
+Ulica Gjure Dezelica 62.
+Danas popodne oko 16 sati u stanu je pronadjeno mrtvo tijelo muskarca. Sumnja se na nasilnu smrt a policijski ocevid je u tijeku.
+Foto: Ronald Gorsic / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Ronald Goršiæ / Hanza Media
+<span> Ronald Gorsic / CROPIX
 </span>
 </div>
 </div>
@@ -1262,10 +1264,6 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p><em><strong>- Jutros je nastavljeno suðenje Davidu Komšiæu (20) optuženom da je 22. veljaèe prošle godine brutalno iz osvete ubio svoju bivšu djevojku Kristinu Krupljan (18) u Ulici Svetog Josipa Radnika 16 na zagrebaèkoj Pešèenici.</strong></em></p><p><em><strong>- David Komšiæ danas je kazao da u ovom postupku neæe iznositi svoju obranu niti odgovarati na pitanja</strong></em></p><p><em><strong>- Zbog toga je poèelo pregledavanje snimke od 24. veljaèe prošle godine s ispitivanja Davida Komšiæa u tužiteljstvu </strong></em></p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1289,106 +1287,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7136817"
+<div id="content-body-6263871-7151514"
 >
-<p><strong>NOVO 13:00</strong> Nakon završetka rasprave odvjetnik <strong>Veljko Miljeviæ</strong> je obznanio da su psihijatri ostali kod mišljenja da je David Komšiæ u vrijeme poèinjenja ubojstva bio bitno smanjeno ubrojiv, što po njemu znaèi da to bitno mijenja i njegov odnos prema djelu, te da se ne bi radilo o ubojstvu iz bezobzirne osvete veæ o ubojstvu na mah ili tzv. obiènom ubojstvu. No, kakve æe biti presuda, odluèit æe sud.</p><p><strong>--------------------------------</strong></p><p><strong>12:42</strong> Tužiteljica Natalija Slavica najavila je da æe izmijeniti optužnicu i zatražila je kratak rok za izmjenu optužnice pa je predsjednica sudskog vijeæa prekinula današnju raspravu i nastavak odredila za 27. ožujka u 9 sati. Rasprava je dovršena u 12.40 sati.</p><p><strong>---------------------------------</strong></p><p><strong>12:34</strong> Tako samo doznali sa ispitivanja u tužiteljstvu da je David Komšiæ imao tri automobila, mercedes i dva VW Pola, da se protiv njega vodio kazneni postupka zbog prometne nesreæe. Sa braniteljem se nije želio savjetovati prije oèitovanja o krivnji.&quot;Neæu odgovarati na pitanja, reæi æu da mi je žao iskreno u šoku sam i ne mogu o tome svemu prièati ni razmišljati. Eto, to je sve!&quot;, rekao je David Komšiæ.&quot;To je Vaša obrana?, pitala ga je tužiteljica.&quot;Da&quot;, rekao je Komšiæ.&quot;Želite li još nešto reæi?&quot; ponovo ga je pitala tužteljica.&quot;Žao mi je što je do svega toga došlo. U šoku sam&quot;, ponovio je Komšiæ i to je bilo sve što je rekao na isptiivanju u tužiteljstvu prije nešto više od godine dana. Pregledavanje snimke je završilo u 12.30 sati.Potom je predsjednica vijeæa u zapisnik reproducirala ono što je izjavio na snimci. I ponovo ga je predsjednica vijeæa pitala da li ostaje kod toga da li ne želi iznostiti svojo obranu.&quot;Da&quot;, tiho je odgovorio Komšiæ. Sudski vještaci psihijatri i psiholozi rekli su da nakon ovoga nemaju potrebe za dopunom svog nalaza i mišljenja i napustili su sudnicu.</p><p><strong>--------------------------------</strong></p><p><strong>12.18 </strong>U sudnici je poèelo pregledavanje snimke od 24. veljaèe prošle godine s ispitivanja Davida Komšiæa u tužiteljstvu koje je poèelo u 11.30 sati. Tada ga je branio odvjetnik Fran Olujiæ.</p><p><strong>----------------------------------</strong></p><p><strong>12:10 </strong>Sudsko vijeæe odluèilo je proèitati rezime postupanja IV policijske postaje o postupanju prema Davidu Komšiæu osim što su iz njega izdvojeni dijelovi koji se odnose na navode Kristine Krupljan.</p><p>Nakon što je završeno èitanje izvješæa sudsko vijeæe krenulo je s ispitivanjem Davida Komšiæa koji æe iznijeti svoju obranu.</p><p>&quot;Jesi li spreman?&quot;; pitala ga je predsjednica vijeæa.</p><p>&quot;Da, odgovorio je Komšiæ nakon èega ga je sutkinja upoznala s njegovim pravima.</p><p>- Uz dužno poštovanje Vama predsjednice vijeæa, ja u ovom postupku neæu iznositi svoju obranu ni odgovarati na pitanja - kratko je rekao David Komšiæ nakon što je sjeo na stolicu nasuprot sudskog vijeæa.</p><p>Predsjednica vijeæa je sukladno zakonu, odluèila da s obzirom na to da Komšiæ neæe iznositi obranu odluèila reproducirati snimku iskaza kojeg je on dao nakon ubojstva Kristine Krupljan u Državnom odvjetništvu.</p><p><strong>----------------------------------</strong></p><p><strong>11:30</strong> Nakon pauze u dijelu rasprave koja je bila zatvorena za javnost u 11.15 nastavljeno je suðenje Davidu Komšiæu ali sada uz prisustvo medija i u sindikalnoj dvorani zagrebaèkog Županijskog suda.</p><p>Predsjednica sudskog vijeæa Sanja Mazalin obznanila je da je odbijen prijedlog za suoèenje Felicite Murkoviæ iz Centra za socijalnu skrb Pešèenica i Matee Babiæ više sudske savjetnice kao nevažan.</p><p>Potom je predsjednica sudskog vijeæa pozvala stranke da iznesu daljnje dokazne prijedloge. Tužiteljica Natalija Slavica predlaže da se proèita rezime postupanja IV Policijske postaje prema Davidu Komšiæu o kojem je sud veæ donio odluku, ali bez dijelova navoda ošteæene Kristine Krupljan kao prijaviteljice kaznenog djela.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/komsic_sudjenje8-160318jpg/7137192" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/komsic_sudjenje8-160318jpg/7137192/ALTERNATES/FREE_380/komsic_sudjenje8-160318.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/komsic_sudjenje8-160318jpg/7137192/BINARY/thumbnail/komsic_sudjenje8-160318.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 160318. Zupanijski sud na Zrinjevcu.
-Nastavak sudjenja Davidu Komsicu za ubojstvo Kristine Krupljan.
-Na fotografiji: otac Ivo Komsic dolazi na sud.
-Foto: Damjan Tadic / CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Damjan Tadiæ / CROPIX
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Nastavak suðenja Davidu Komšiæu za ubojstvo Kristine Krupljan. Na fotografiji: otac Ivo Komšiæ dolazi na sud</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Odvjetnik <strong>Krešimir Škarica</strong>, kao zastupnik ošteæene obitelji nije imao dokaznih prijedloga. Veljko Miljeviæ, branitelj Davida Komšiæa nije imao daljnjih dokaznih prijedloga. Protivio se prijedlogu tužiteljice jer je sudsko vijeæe veæ odluèilo da se navedeni rezime neæe èitati jer je to nezakoniti dokaz. Rekao je i da postoji izvod iz prekršajne i kaznene evidencije. Smatra da je suda bila razumna i da nema potrebe da se èita taj rezime policijske postaje.</p><p><strong>----------------------------------</strong></p><p>Zbog toga što je sudsko vijeæe moralo dodatno ispitati psihijatrijsku vještakinju<strong> Ivanu Peko Èoviæ, </strong>koja je vještaèila Komšiæa, rasprava je zatvorena za javnost. Postoji moguænost da bi David Komšiæ danas mogao iznijeti svoju obranu ali to ovisi o tome koliko æe trajati dodatno ispitivanje vještakinje.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/komsic_sudjenje1-160318jpg/7137171" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/komsic_sudjenje1-160318jpg/7137171/ALTERNATES/FREE_380/komsic_sudjenje1-160318.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/komsic_sudjenje1-160318jpg/7137171/BINARY/thumbnail/komsic_sudjenje1-160318.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 160318. Zupanijski sud na Zrinjevcu.
-Nastavak sudjenja Davidu Komsicu za ubojstvo Kristine Krupljan.
-Na fotografiji: kum Davida Komsica, Vjekoslav Komsic.
-Foto: Damjan Tadic / CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Damjan Tadic / CROPIX
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Nastavak suðenja Davidu Komšiæu za ubojstvo Kristine Krupljan. Na fotografiji: kum Davida Komšiæa, Vjekoslav Komšiæ</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Komšiæ je, podsjeæamo, Kristini zadao veliki broj ubodno reznih rana u njezinoj Opel Astri, nakon što mu je rekla da prekida vezu s njim. I jutros su u sudnici osim sudionika postupka ostali roditelji Davida Komšiæa i ubijene Kristine te studenti Pravnog fakulteta koji mogu pratiti raspravu, dok su novinari morali napustiti sudnicu.</p><p><em><strong>U galeriji pogledajte sve fotografije nastale neposredno prije današnjeg roèišta, kada su na sud pristigli otac Davida Komšiæa, Ivo, kum Vjekoslav, i odvjetnici.</strong></em></p><p>
-<section>
-<article class="crna-kronika media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/sudenje-davidu-komsicu/7137204/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/sudenje-davidu-komsicu/7137204/">
-<img src="https://www.jutarnji.hr/incoming/komsic_sudjenje1-160318jpg/7137171/ALTERNATES/LANDSCAPE_380/komsic_sudjenje1-160318.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/komsic_sudjenje1-160318jpg/7137171/BINARY/thumbnail/komsic_sudjenje1-160318.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 160318. Zupanijski sud na Zrinjevcu.
-Nastavak sudjenja Davidu Komsicu za ubojstvo Kristine Krupljan.
-Na fotografiji: kum Davida Komsica, Vjekoslav Komsic.
-Foto: Damjan Tadic / CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
- </p>
+<p>Zagrebaèka policija je u utorak oko 16 sati uhitila osobu koju se sumnjièi za ubojstvo 66-godišnjeg Ivana B. u podrumskom stanu u Prilazu Gjure Deželiæa. Kako se doznaje, rijeè je o zetu ubijenoga, koji je u trenutku kada je u ponedjeljak poslijepodne došlo do krvoproliæa bio na mjestu zloèina, a zatim se dao u bijeg. Zet je, kako doznajemo, priveden na kriminalistièku obradu.</p><p>Kao što smo veæ ranije izvijestili, istražitelji slažu mozaik dogaðanja koji su prethodili straviènom zloèinu u središtu Zagreba. Osim osumnjièenog ubojice, u stanu je bila i kæi ubijenog, 32-godišnja I.N., koja je, valjda da sprijeèi nasrtaje na vlastitog oca, i sama zadobila porezotinu. Jezivom prizoru u stanu od 40-ak kvadrata svjedoèilo je i maloljetno, predškolsko unuèe ubijenog zagrebaèkog umirovljenika.</p><p>Prema dosad utvrðenom, oèito nakon kraæe prepirke u skuèenom i vlažnom stanu, došlo je do krvavog ubojstva. Nakon što je ubojica zadao više ubodnih rana umirovljeniku, pobjegao je na ulicu izgubivši se u gradskoj vrevi. Kæi ubijenog je pozvala Hitnu pomoæ koja je brzo došla, ali ozljede su bile preteške pa su mogli konstatirati samo smrt. Kæi je, pak, kolima Hitne pomoæi prevezena u KB Sveti Duh gdje su joj utvrðene lakše tjelesne ozljede.</p><p>Odmah nakon otkriæa beživotnog tijela u stanu, susjedi pokojnog su ostali zgroženi. Nikakvu buku, meðutim, iz stana u kritièno vrijeme nisu èuli.</p><p>Za Jutarnji list su isprièali da je i prije 15-ak godina, 66-godišnji susjed bio žrtva nasilja. Tada ga je nožem ubola supruga od koje se, nedugo zatim i rastao.</p><p>- Bio je tad sav krvav, policija je intervenirala, a brak mu se raspao. Prije par tjedana rekao mi je da mu se u stan doselila kæer s mužem i malim djetetom. Da prezime zimu jer je bilo jako hladno. Požalio se, meðutim, da stalno leže i spavaju i da ništa ne rade te da im on nosi hranu. Do tog useljenja govorio nam je da mu je kæi udana za nekog bogatog deèka, a sad je isplivalo na površinu da je kæi sa zetom i djetetom živjela u nekoj baraci bez struje. U petak sam susjeda vidjela kako odlazi u Dom u Klaiæevoj po svakodnevni ruèak i nosi ga doma. Kako je umro, ne znam. Nitko ništa èuo nije. Zaprepaštena sam ako je doista žrtva kaznenog djela. On je inaèe šepao - isprièala je za Jutarnji list jedna od susjeda u zgradi. </p><p>Druga, pak, susjeda napomenula je da, koliko je njoj poznato, Ivanova obitelj je pod tretmanom Centra za socijalnu skrb odnosno da su djelatnici došli prekontrolirati uvjete u kojima žive èim mu se preselilo unuèe.</p><p>- Je li zadovoljio uvjete u 40-ak kvadrata vlažnog stana? Ne znam. Znam samo da je to bilo važno radi djeteta. Iskreno? Ni kæer ni zeta, a ni dijete nisam uopæe vidjela od kad su mu se uselili u stan – zakljuèila je druga stanarka zgrade.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7136817 p").filter(function () {
+$("#content-body-6263871-7151514 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1397,16 +1303,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7136817").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7151514").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7136817").children().slice(max).remove();
+$("#content-body-6263871-7151514").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7136817").children().get(0);
+var firstChild = $("#content-body-6263871-7151514").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1441,19 +1347,6 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/Kristina_Krupljan" class ="label label-default" >
-Kristina Krupljan
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/David_Kom%C5%A1i%C4%87" class ="label label-default" >
-David Komšiæ
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1461,36 +1354,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="crna-kronika media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/sudenje-davidu-komsicu-procitano-izvjesce-strucne-savjetnice-suda-david-je-emocionalno-nestabilna-osoba-impulzivan-je-i-ima-kratlji-fitilj/7062900/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/sudenje-davidu-komsicu-procitano-izvjesce-strucne-savjetnice-suda-david-je-emocionalno-nestabilna-osoba-impulzivan-je-i-ima-kratlji-fitilj/7062900/">
-SUÐENJE DAVIDU KOMŠIÆU: PROÈITANO IZVJEŠÆE STRUÈNE SAVJETNICE SUDA 'David je emocionalno nestabilna osoba. Impulzivan je i ima kratlji fitilj'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="crna-kronika media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/nastavljeno-sudenje-davidu-komsicu-za-brutalno-ubojstvo-kristine-krupljan-javnost-iskljucena-s-rasprave/7095195/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nastavljeno-sudenje-davidu-komsicu-za-brutalno-ubojstvo-kristine-krupljan-javnost-iskljucena-s-rasprave/7095195/">
-NASTAVLJENO SUÐENJE DAVIDU KOMŠIÆU ZA BRUTALNO UBOJSTVO KRISTINE KRUPLJAN Javnost iskljuèena s rasprave
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1505,21 +1368,21 @@ NASTAVLJENO SUÐENJE DAVIDU KOMŠIÆU ZA BRUTALNO UBOJSTVO KRISTINE KRUPLJAN Javnos
 <div class="elipso products upscore-pos-8">
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127056.jpg" alt="HP 2KE76EA 15-bs043nm" /></a>
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 300,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 2KE76EA 15-bs043nm</a>
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
+<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">3.999,00 kn</span>
-<span class="old-price">4.299,00 kn</span>
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.199,00 kn</span>
+<span class="old-price">1.299,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-2KE76EA-15_bs043nm/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
 </div>
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
@@ -1543,40 +1406,40 @@ NASTAVLJENO SUÐENJE DAVIDU KOMŠIÆU ZA BRUTALNO UBOJSTVO KRISTINE KRUPLJAN Javnos
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/115409.jpg" alt="PHILIPS GC9620 20" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 900,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS GC9620 20</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
+<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">parne postaje</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.199,00 kn</span>
-<span class="old-price">1.299,00 kn</span>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.799,00 kn</span>
+<span class="old-price">2.699,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 23.02.2018 do 31.03.2018</a>
 </div>
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/124804.jpg" alt="BOSCH BHN20110" /></a>
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127979.jpg" alt="HP 1XN28EA HP 250 G6" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 130,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">BOSCH BHN20110</a>
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 1XN28EA HP 250 G6</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
+<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">499,00 kn</span>
-<span class="old-price">629,00 kn</span>
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">3.499,00 kn</span>
+<span class="old-price">3.599,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/BOSCH-BHN20110/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 06.03.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
 </div>
 </div>
 </div>
@@ -1669,7 +1532,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7136817" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7151514" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1703,17 +1566,17 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <section>
 <article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/bjegunac-koji-je-financijski-unistio-desetke-gradana-poginuo-u-bih-kamatarenjem-zrtvama-oteo-ukupno-30-milijuna-kuna-u-kesu-i-nekretninama/7130649/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/detalji-misteriozne-smrti-skromnog-gospodina-u-sredistu-zagreba-policija-sumnja-da-je-rijec-o-ubojstvu-prije-15-godina-bivsa-zena-ga-je-izbola-nozem/7147638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/bjegunac-koji-je-financijski-unistio-desetke-gradana-poginuo-u-bih-kamatarenjem-zrtvama-oteo-ukupno-30-milijuna-kuna-u-kesu-i-nekretninama/7130649/">
-ÈALUŠIÆ NIJE DOÈEKAO KAZNU
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/detalji-misteriozne-smrti-skromnog-gospodina-u-sredistu-zagreba-policija-sumnja-da-je-rijec-o-ubojstvu-prije-15-godina-bivsa-zena-ga-je-izbola-nozem/7147638/">
+OÈEVID U TIJEKU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/bjegunac-koji-je-financijski-unistio-desetke-gradana-poginuo-u-bih-kamatarenjem-zrtvama-oteo-ukupno-30-milijuna-kuna-u-kesu-i-nekretninama/7130649/">
-BJEGUNAC KOJI JE FINANCIJSKI UNIŠTIO DESETKE GRAÐANA POGINUO U BiH Kamatarenjem žrtvama oteo ukupno 30 milijuna kuna u kešu i nekretninama
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/detalji-misteriozne-smrti-skromnog-gospodina-u-sredistu-zagreba-policija-sumnja-da-je-rijec-o-ubojstvu-prije-15-godina-bivsa-zena-ga-je-izbola-nozem/7147638/">
+DETALJI MISTERIOZNE SMRTI SKROMNOG GOSPODINA U SREDIŠTU ZAGREBA, POLICIJA SUMNJA DA JE RIJEÈ O UBOJSTVU Prije 15 godina bivša žena ga je izbola nožem
 </a>
 </h4>
 </div>
@@ -1725,17 +1588,17 @@ BJEGUNAC KOJI JE FINANCIJSKI UNIŠTIO DESETKE GRAÐANA POGINUO U BiH Kamatarenjem 
 <section>
 <article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-pet-milijuna-razloga-za-veselje-hrvatskog-escobara-narkobosu-zbog-sporosti-naseg-pravosuda-deblokirali-racun-s-milijunima-eura/7130286/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/horor-na-plitvicama-turistkinja-iz-juzne-koreje-se-poskliznula-letjela-70-metara-i-pala-u-jezero-tri-i-pol-sata-poslije-umrla-je-u-bolnici/7147155/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-pet-milijuna-razloga-za-veselje-hrvatskog-escobara-narkobosu-zbog-sporosti-naseg-pravosuda-deblokirali-racun-s-milijunima-eura/7130286/">
-PARADOKS U SLUÈAJU STJEPANA PRNJATA
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/horor-na-plitvicama-turistkinja-iz-juzne-koreje-se-poskliznula-letjela-70-metara-i-pala-u-jezero-tri-i-pol-sata-poslije-umrla-je-u-bolnici/7147155/">
+FATALNI PAD
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-pet-milijuna-razloga-za-veselje-hrvatskog-escobara-narkobosu-zbog-sporosti-naseg-pravosuda-deblokirali-racun-s-milijunima-eura/7130286/">
-OTKRIVAMO: PET MILIJUNA RAZLOGA ZA VESELJE 'HRVATSKOG ESCOBARA' Narkobosu zbog sporosti našeg pravosuða deblokirali raèun s milijunima eura
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/horor-na-plitvicama-turistkinja-iz-juzne-koreje-se-poskliznula-letjela-70-metara-i-pala-u-jezero-tri-i-pol-sata-poslije-umrla-je-u-bolnici/7147155/">
+HOROR NA PLITVICAMA Turistkinja iz Južne Koreje se poskliznula, letjela 70 metara i pala u jezero... Tri i pol sata poslije umrla je u bolnici
 </a>
 </h4>
 </div>
@@ -1747,17 +1610,17 @@ OTKRIVAMO: PET MILIJUNA RAZLOGA ZA VESELJE 'HRVATSKOG ESCOBARA' Narkobosu zbog s
 <section>
 <article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/veliki-obrat-u-slucaju-splicanina-koji-je-usmrtio-svoju-djevojku-dobio-10-godina-zatvora-a-jucer-je-iznenada-pusten-na-slobodu/7133559/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/zbog-ljubavi-totalno-pomahnitao-sibencanin-pokusao-oteti-bivsu-djevojku-ali-nije-racunao-na-nesudenu-punicu/7145658/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/veliki-obrat-u-slucaju-splicanina-koji-je-usmrtio-svoju-djevojku-dobio-10-godina-zatvora-a-jucer-je-iznenada-pusten-na-slobodu/7133559/">
-ODLUKA VRHOVNOG SUDA
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/zbog-ljubavi-totalno-pomahnitao-sibencanin-pokusao-oteti-bivsu-djevojku-ali-nije-racunao-na-nesudenu-punicu/7145658/">
+LJUBAVNA DRAMA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/veliki-obrat-u-slucaju-splicanina-koji-je-usmrtio-svoju-djevojku-dobio-10-godina-zatvora-a-jucer-je-iznenada-pusten-na-slobodu/7133559/">
-VELIKI OBRAT U SLUÈAJU SPLIÆANINA KOJI JE USMRTIO SVOJU DJEVOJKU Dobio 10 godina zatvora, a juèer je iznenada pušten na slobodu!
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/zbog-ljubavi-totalno-pomahnitao-sibencanin-pokusao-oteti-bivsu-djevojku-ali-nije-racunao-na-nesudenu-punicu/7145658/">
+ZBOG LJUBAVI TOTALNO POMAHNITAO Šibenèanin pokušao oteti bivšu djevojku, ali nije raèunao na nesuðenu punicu
 </a>
 </h4>
 </div>
@@ -1769,17 +1632,17 @@ VELIKI OBRAT U SLUÈAJU SPLIÆANINA KOJI JE USMRTIO SVOJU DJEVOJKU Dobio 10 godina
 <section>
 <article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/uzas-na-ulazu-u-popularni-istarski-kamp-auto-sletio-s-ceste-i-zabio-se-u-kamenu-skulpturu-vozac-je-na-mjestu-poginuo/7134594/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/oruzana-pljacka-banke-u-zagrebu-drama-u-sarajevskoj-razbojnik-oteo-novac-iz-poslovnice-pbz-a-u-sklopu-konzuma-policija-krenula-u-potjeru-za-njim/7147290/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/uzas-na-ulazu-u-popularni-istarski-kamp-auto-sletio-s-ceste-i-zabio-se-u-kamenu-skulpturu-vozac-je-na-mjestu-poginuo/7134594/">
-TRAGEDIJA
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/oruzana-pljacka-banke-u-zagrebu-drama-u-sarajevskoj-razbojnik-oteo-novac-iz-poslovnice-pbz-a-u-sklopu-konzuma-policija-krenula-u-potjeru-za-njim/7147290/">
+SNIMILE GA NADZORNE KAMERE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/uzas-na-ulazu-u-popularni-istarski-kamp-auto-sletio-s-ceste-i-zabio-se-u-kamenu-skulpturu-vozac-je-na-mjestu-poginuo/7134594/">
-UŽAS NA ULAZU U POPULARNI ISTARSKI KAMP Auto sletio s ceste i zabio se u kamenu skulpturu, vozaè je na mjestu poginuo
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/oruzana-pljacka-banke-u-zagrebu-drama-u-sarajevskoj-razbojnik-oteo-novac-iz-poslovnice-pbz-a-u-sklopu-konzuma-policija-krenula-u-potjeru-za-njim/7147290/">
+ORUŽANA PLJAÈKA BANKE U ZAGREBU Drama u Sarajevskoj: Razbojnik oteo novac iz poslovnice PBZ-a u sklopu Konzuma, policija krenula u potjeru za njim
 </a>
 </h4>
 </div>
@@ -1815,21 +1678,21 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-<article class="ljepota media c3 none">
+<article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-<img src="https://www.gloria.hr/fokus/nana-2png/7132410/ALTERNATES/LANDSCAPE_380/nana%202.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/nana-2png/7132410/BINARY/thumbnail/nana%202.PNG"
+data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Anamarija Asanovic 081216 snimio Sasa Buric"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1837,8 +1700,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/kci-mustafe-nadarevica-o-beauty-trendovima-i-poslu-o-kojem-sanjaju-mnoge-djevojke/7129689/">
-Kæi Mustafe Nadareviæa o beauty trendovima i poslu o kojem sanjaju mnoge djevojke
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
 </a>
 </h4>
 </div>
@@ -2308,14 +2171,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/posjetili-smo-hrvatsku-kostajnicu-nakon-stravicnog-klizanja-terena-stanovnici-su-u-sekundi-ostali-bez-svega?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/svecenik-uhapsen-s-drogom?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_152104775529216661_10155882335474279_2780208617909911552_o.jpg?v=1521047758" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1500446368RTS156BQ.jpg?v=1521553999" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: TUŽNA SLIKA GRADA/Posjetili smo Hrvatsku Kostajnicu nakon straviènog klizanja terena, stanovnici su u sekundi ostali bez svega</h4>
+<h4>BOBU BOB, POPU DOP/Drugi sluèaj u mjesec dana: još jedan sveæenik u Srbiji &#039;pao&#039; s travom i amfetaminima</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2359,34 +2222,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7136817&type=article&title=DAVID+KOM%c5%a0I%c4%86+ODBIO+IZNOSITI+OBRANU+ZA+BRUTALNO+UBOJSTVO+TRUDNE+KRISTINE+%26%23039%3bUz+du%c5%beno+po%c5%a1tovanje%2c+ja+u+ovom+postupku+ne%c4%87u+odgovarati+na+pitanja...%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fdavid-komsic-odbio-iznositi-obranu-za-brutalno-ubojstvo-trudne-kristine-uz-duzno-postovanje-ja-u-ovom-postupku-necu-odgovarati-na-pitanja%2f7136817%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7151514&type=article&title=POLICIJA+ULOVILA+UBOJICU%3a+SKROMNOG+GOSPODINA+U+CENTRU+ZAGREBA+LIKVIDIRAO+JE+NJEGOV+ZET+Mu%c4%8dki+ga+je+izbo+no%c5%beem+pred+vlastitom+suprugom+i+malim+sinom&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fpolicija-ulovila-ubojicu-skromnog-gospodina-u-centru-zagreba-likvidirao-je-njegov-zet-mucki-ga-je-izbo-nozem-pred-vlastitom-suprugom-i-malim-sinom%2f7151514%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7136817&amp;type=article&amp;title=DAVID+KOM%c5%a0I%c4%86+ODBIO+IZNOSITI+OBRANU+ZA+BRUTALNO+UBOJSTVO+TRUDNE+KRISTINE+%26%23039%3bUz+du%c5%beno+po%c5%a1tovanje%2c+ja+u+ovom+postupku+ne%c4%87u+odgovarati+na+pitanja...%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fdavid-komsic-odbio-iznositi-obranu-za-brutalno-ubojstvo-trudne-kristine-uz-duzno-postovanje-ja-u-ovom-postupku-necu-odgovarati-na-pitanja%2f7136817%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1819250719&title=David+Kom%c5%a1i%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aDavid_Kom%25C5%25A1i%25C4%2587&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1819250719&amp;title=David+Kom%c5%a1i%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDavid_Kom%25C5%25A1i%25C4%2587&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=367711971&title=Kristina+Krupljan&url=tag%3ajltags%40eph.hr%2c2016%3aKristina_Krupljan&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=367711971&amp;title=Kristina+Krupljan&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKristina_Krupljan&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7151514&amp;type=article&amp;title=POLICIJA+ULOVILA+UBOJICU%3a+SKROMNOG+GOSPODINA+U+CENTRU+ZAGREBA+LIKVIDIRAO+JE+NJEGOV+ZET+Mu%c4%8dki+ga+je+izbo+no%c5%beem+pred+vlastitom+suprugom+i+malim+sinom&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fpolicija-ulovila-ubojicu-skromnog-gospodina-u-centru-zagreba-likvidirao-je-njegov-zet-mucki-ga-je-izbo-nozem-pred-vlastitom-suprugom-i-malim-sinom%2f7151514%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2439,7 +2280,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/david-komsic-odbio-iznositi-obranu-za-brutalno-ubojstvo-trudne-kristine-uz-duzno-postovanje-ja-u-ovom-postupku-necu-odgovarati-na-pitanja/7136817/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/policija-ulovila-ubojicu-skromnog-gospodina-u-centru-zagreba-likvidirao-je-njegov-zet-mucki-ga-je-izbo-nozem-pred-vlastitom-suprugom-i-malim-sinom/7151514/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2449,14 +2290,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/crna-kronika/david-komsic-odbio-iznositi-obranu-za-brutalno-ubojstvo-trudne-kristine-uz-duzno-postovanje-ja-u-ovom-postupku-necu-odgovarati-na-pitanja/7136817/",
-postId : "7136817",
+url : "https://www.jutarnji.hr/vijesti/crna-kronika/policija-ulovila-ubojicu-skromnog-gospodina-u-centru-zagreba-likvidirao-je-njegov-zet-mucki-ga-je-izbo-nozem-pred-vlastitom-suprugom-i-malim-sinom/7151514/",
+postId : "7151514",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "DAVID KOMŠIÆ ODBIO IZNOSITI OBRANU ZA BRUTALNO UBOJSTVO TRUDNE KRISTINE 'Uz dužno poštovanje, ja u ovom postupku neæu odgovarati na pitanja...'",
-pubdate : "2018-03-16 09:29",
-authors : "Dušan Miljuš",
+title : "POLICIJA ULOVILA UBOJICU: SKROMNOG GOSPODINA U CENTRU ZAGREBA LIKVIDIRAO JE NJEGOV ZET Muèki ga je izbo nožem pred vlastitom suprugom i malim sinom",
+pubdate : "2018-03-20 17:04",
+authors : "Hajdi Karakaš Jakubin",
 sections : "Front Page, Crna kronika",
-tags : "David Komšiæ, Kristina Krupljan",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

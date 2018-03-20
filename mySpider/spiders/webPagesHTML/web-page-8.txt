@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Prvi dio trilogije smo završili sjetnim pozdravom iz starog Zagreba, a drugi dio te iste trilogije zapoèinjemo dizajnerskim pozdravom iz Design districta." />
-<meta name="keywords" content="Projektni ured 4uHa, Design Distric, stan od 40 kvadrata, jednokratni najam" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Èesto pokazujemo stanove koji se odlikuju èistim linijama i prozraènošæu. No, danas imamo za vas prièu o jednom malom stanu koji je za sebe uredila bivša glumica i uz puno smisla za boje pokazala kako se ne boji &#039;natrpati&#039; svoj prostor dragim stvarima." />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>40 kvadrata zagrebaèkog šarma vol. 2 - Jutarnji List</title>
+<title>Stanèiæ s ozbiljnim smislom za dramu - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <section>
 <!-- DFP verzija 9 -->
@@ -169,15 +169,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "BA";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
 var dfpCategory = "Interijeri";
 var dfpCategoryParent = "Dom&Dizajn";
 var dfpRos = "domidizajn-ros";
-var dfpArticle = "7137099";
-var dfpArticleKeyword = "Projektni ured 4uHa";
+var dfpArticle = "7142664";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -539,6 +539,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -589,8 +591,8 @@ text-transform: capitalize;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/domidizajn/interijeri/40-kvadrata-zagrebackog-sarma-vol-2/7137099/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/domidizajn/interijeri/40-kvadrata-zagrebackog-sarma-vol-2/7137099/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -603,21 +605,21 @@ text-transform: capitalize;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/domidizajn/interijeri/12jpg/7137111/ALTERNATES/LANDSCAPE_1180/12.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709/ALTERNATES/LANDSCAPE_1180/coco_AT%20(6).jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/domidizajn/interijeri/12jpg/7137111/ALTERNATES/LANDSCAPE_1180/12.jpg">
-<meta property="og:title" content="40 kvadrata zagrebaèkog šarma vol. 2" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709/ALTERNATES/LANDSCAPE_1180/coco_AT%20(6).jpg">
+<meta property="og:title" content="Stanèiæ s ozbiljnim smislom za dramu" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/domidizajn/interijeri/40-kvadrata-zagrebackog-sarma-vol-2/7137099/" />
+<meta property="og:url" content="https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Prvi dio trilogije smo završili sjetnim pozdravom iz starog Zagreba, a drugi dio te iste trilogije zapoèinjemo dizajnerskim pozdravom iz Design districta." />
+<meta property="og:description" content="Èesto pokazujemo stanove koji se odlikuju èistim linijama i prozraènošæu. No, danas imamo za vas prièu o jednom malom stanu koji je za sebe uredila bivša glumica i uz puno smisla za boje pokazala kako se ne boji 'natrpati' svoj prostor dragim stvarima." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Projektni ured 4uHa">
-<meta name="twitter:title" content="40 kvadrata zagrebaèkog šarma vol. 2">
-<meta name="twitter:description" content="Prvi dio trilogije smo završili sjetnim pozdravom iz starog Zagreba, a drugi dio te iste trilogije zapoèinjemo dizajnerskim pozdravom iz Design districta.">
+<meta name="twitter:creator" content="Andrea Mariæ">
+<meta name="twitter:title" content="Stanèiæ s ozbiljnim smislom za dramu">
+<meta name="twitter:description" content="Èesto pokazujemo stanove koji se odlikuju èistim linijama i prozraènošæu. No, danas imamo za vas prièu o jednom malom stanu koji je za sebe uredila bivša glumica i uz puno smisla za boje pokazala kako se ne boji 'natrpati' svoj prostor dragim stvarima.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -641,8 +643,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Interijeri, Dom&Dizajn, Front Page",
-pubdate: "2018-03-16T10:54+01:00",
-author: "Projektni ured 4uHa",
+pubdate: "2018-03-19T20:00+01:00",
+author: "Andrea Mariæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -726,10 +728,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>16.3.</span>2018.
+<span>20.3.</span>2018.
 </p>
 <p class="day">
-petak
+utorak
 </p>
 </div>
 <span class="logo"><a href="/">JutarnjList</a></span>
@@ -1152,11 +1154,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline overline_uppercase">
-ZAGREBAÈKA TRILOGIJA
+DOM GLUMICE
 </p>
 <h1
 class="title">
-40 kvadrata zagrebaèkog šarma vol. 2
+Stanèiæ s ozbiljnim smislom za dramu
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1164,7 +1166,7 @@ class="title">
 <p
 class="authors">
 <ul>
-<li> Projektni ured 4uHa</li>
+<li>Andrea Mariæ</li>
 </ul>
 </p>
 </li>
@@ -1172,7 +1174,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-16.03.2018. u 10:54
+19.03.2018. u 20:00
 </p>
 </li>
 </ul>
@@ -1184,12 +1186,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="interijeri media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/12jpg/7137111" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/12jpg/7137111/ALTERNATES/LANDSCAPE_380/12.jpg"
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709/ALTERNATES/LANDSCAPE_380/coco_AT%20(6).jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/12jpg/7137111/BINARY/thumbnail/12.jpg"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709/BINARY/thumbnail/coco_AT%20(6).jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1205,7 +1207,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p><u><strong>Prvi dio trilogije smo završili sjetnim <a href="https://www.jutarnji.hr/domidizajn/interijeri/vodimo-vas-u-42-kvadrata-zagrebackog-sarma/7107180/" target="_blank">pozdravom iz starog Zagreba</a>, a drugi dio te iste trilogije zapoèinjemo dizajnerskim pozdravom iz Design Districta</strong></u></p>
+<p align="justify"><u><strong>Èesto pokazujemo stanove koji se odlikuju èistim linijama i prozraènošæu. No, danas imamo za vas prièu o jednom malom stanu koji je za sebe uredila bivša glumica i uz puno smisla za boje pokazala kako se ne boji 'natrpati' svoj prostor dragim stvarima.</strong></u></p>
 </p>
 </section>
 <section>
@@ -1230,27 +1232,301 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7137099"
+<div id="content-body-6263871-7142664"
 >
-<p>
-<div class="e4-sub-article ">
-<section>
-<div>
-<p align="center">Kolumnisti Dom i dizajna tim arhitekata iz <a href="http://www.4uha.com" target="_blank">projektnog ureda 4uHa</a> s vama æe družiti svakog tjedna, a kako bi druženje bilo zanimljivo i edukativno pripremili su za vas niz korisnih tema i primjera. Odgovarat æe na bitna i èesta pitanja, i kroz vlastite projekte ukazivati na pozitivne i negativne strane odluka.</p>
-</div>
-</section>
-</div>
-</p><p align="justify">Design District, kvart koji je nekada bio poznat po auto salonima i servisima i trgovinama auto dijelovima, danas je poznatiji po okupljanju kreativnih pokretaèa zagrebaèke urbane scene. Arhitekti, dizajneri, kreativci svih struka se okupljaju, uživaju i žive u ovom potezu izmeðu Draškoviæeve i Bauerove. Kvart je danas pomalo boemski, pun arhitektonskih ureda, wine shopova i barova, galerija, knjižara. Dogodila se svojevrsna eksplozija kreativnosti u ovoj zoni.  </p><p align="justify">S obzirom na to da bi se moglo reæi da apartmani prate suvremene dizajnerske trendove, prirodno su se smjestili u zonu dizajna.  </p><p>
+<p align="justify">Smisao za dramatiku jasno prožima njezin dom <strong>od 37 kvadrata</strong>, a zanimljiv je i zbog budžeta u okviru kojeg je 'izrežirana' ta interijerska drama: u stanu doslovce nema skupog predmeta. Ne biste to rekli na prvi pogled, zar ne? Pogotovo kad pogledate raskošno uzglavlje kreveta i golemo ogledalo koje kao da otvara još jednu tajnu prostoriju u budoaru naše domaæice, uèiteljice glume iz New Yorka.</p><p align="justify">Coco - a to je njezino umjetnièko ime - tvrdi kako je stan u kojem živi èisti odraz njezine osobnosti. Posebice voli jake boje, snažnu gestu i kreativnost. I to se vidi iz prostorije u prostoriju.</p><p>
 <section>
 <article class="interijeri media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/1jpg/7137102" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-14jpg/7142688" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/1jpg/7137102/ALTERNATES/FREE_380/1.jpg"
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-14jpg/7142688/ALTERNATES/FREE_380/coco_AT%20(14).jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/1jpg/7137102/BINARY/thumbnail/1.jpg"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-14jpg/7142688/BINARY/thumbnail/coco_AT%20(14).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685/ALTERNATES/FREE_380/coco_AT%20(13).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685/BINARY/thumbnail/coco_AT%20(13).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>Da voli i sushi, vidi se na duhovitom satu s kazaljkama</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>Dnevna soba obojana je u tamnosive tonove koji istièu žive boje slika; zidovi spavaæe sobe su crveni, a kupaonica ponajviše ružièasta.</p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-16jpg/7142694" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-16jpg/7142694/ALTERNATES/FREE_380/coco_AT%20(16).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-16jpg/7142694/BINARY/thumbnail/coco_AT%20(16).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-1jpg/7142673" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-1jpg/7142673/ALTERNATES/FREE_380/coco_AT%20(1).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-1jpg/7142673/BINARY/thumbnail/coco_AT%20(1).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-10jpg/7142676" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-10jpg/7142676/ALTERNATES/FREE_380/coco_AT%20(10).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-10jpg/7142676/BINARY/thumbnail/coco_AT%20(10).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-15jpg/7142691" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-15jpg/7142691/ALTERNATES/FREE_380/coco_AT%20(15).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-15jpg/7142691/BINARY/thumbnail/coco_AT%20(15).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>Stan je danas pun detalja koje vlasnici nešto znaèe i podsjeæaju na drage ljude i trenutke</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-4jpg/7142703" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-4jpg/7142703/ALTERNATES/FREE_380/coco_AT%20(4).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-4jpg/7142703/BINARY/thumbnail/coco_AT%20(4).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">Coco kaže da je ovaj stan prepoznala kao svoj èim ga je prvi put vidjela. U njemu stanuje zadnjih šest godina, a buduæi da nije vlasnica, na neke se krupnije promjene ipak nije odvažila. Kupaonica je tako plod improvizacije i njezinog dekoraterskog talenta. Ploèice koje su ispale jednostavno je bojom zamaskirala... i neæete ih vidjeti na našim fotografijama. - To i linoleum na kuhinjskom podu, to su te dvije stvari s kojima u stanu nisam zadovoljna, kaže ona. Snalažljiva Coco po stilu je definitivno eklektièar.</p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-9jpg/7142718" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-9jpg/7142718/ALTERNATES/FREE_380/coco_AT%20(9).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-9jpg/7142718/BINARY/thumbnail/coco_AT%20(9).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-3jpg/7142700" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-3jpg/7142700/ALTERNATES/FREE_380/coco_AT%20(3).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-3jpg/7142700/BINARY/thumbnail/coco_AT%20(3).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-2jpg/7142697" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-2jpg/7142697/ALTERNATES/FREE_380/coco_AT%20(2).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-2jpg/7142697/BINARY/thumbnail/coco_AT%20(2).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">- Moje inspiracije izviru iz raznih razdoblja i stilova, kaže Coco. Kad je pitate koji su to izvori, navodi: - Moja majka. Pa razdoblje 80-ih godina 20. stoljeæa. Kazalište. Boje. Oblici. I iznenaðenja!</p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-7jpg/7142712" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-7jpg/7142712/ALTERNATES/FREE_380/coco_AT%20(7).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-7jpg/7142712/BINARY/thumbnail/coco_AT%20(7).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-8jpg/7142715" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-8jpg/7142715/ALTERNATES/FREE_380/coco_AT%20(8).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-8jpg/7142715/BINARY/thumbnail/coco_AT%20(8).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-12jpg/7142682" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-12jpg/7142682/ALTERNATES/FREE_380/coco_AT%20(12).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-12jpg/7142682/BINARY/thumbnail/coco_AT%20(12).jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1265,267 +1541,15 @@ class="media-object adaptive lazy "
 </section>
 </p><p>
 <section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/2jpg/7137117" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/2jpg/7137117/ALTERNATES/FREE_380/2.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/2jpg/7137117/BINARY/thumbnail/2.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/3jpg/7137120" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/3jpg/7137120/ALTERNATES/FREE_380/3.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/3jpg/7137120/BINARY/thumbnail/3.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p align="justify">Nekoliko kvadrata manji od našeg prošlotjednog prvijenca, ovaj apartman je  takoðer uspio „ugostiti“ sve  potrebne funkcije i zone za ugodan dnevni, ili nešto duži, boravak  i upoznavanje kulture, povijesti i zagrebaèkog duha. </p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/5jpg/7137123" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/5jpg/7137123/ALTERNATES/FREE_380/5.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/5jpg/7137123/BINARY/thumbnail/5.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/6jpg/7137126" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/6jpg/7137126/ALTERNATES/FREE_380/6.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/6jpg/7137126/BINARY/thumbnail/6.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p align="justify">Kao i prvi apartman,  i ovaj obiluje bogatim detaljima, interesantnom rasvjetom, maštovitim zidnim oblogama i svevremenskim, a opet originalnim dizajnom. Igra kontrasta, gdje su glavni glumci bjelina zidova i raskošnost pastelnih tonova, materijala i tekstura jedan je od glavnih lajt motiva ovog interijera. </p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/11jpg/7137108" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/11jpg/7137108/ALTERNATES/FREE_380/11.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/11jpg/7137108/BINARY/thumbnail/11.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/12jpg/7137111" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/12jpg/7137111/ALTERNATES/FREE_380/12.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/12jpg/7137111/BINARY/thumbnail/12.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p align="justify">„Ono nešto posebno“ - èesta želja svakoga od nas tko se odluèi na ureðenje stana, apartmana, doma - ovdje smo odluèili postiæi  toplim, zlatnim tonovima što se protežu kroz èitav apartman. Dovoljan je samo jedan brzinskih pogled na sofu dnevnog boravka, tople tonove hrastovih detalja blagovaonskih stolica, umjetnièke slike, visilice,  rubni detalji kreveta spavaæe sobe ili pak zlatne niti što se luksuzno protežu kroz kupaonske, da nas osvoji duh starog nekih prošlih, klasiènijih, minulih zagrebaèkih trenutaka. </p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/9jpg/7137129" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/9jpg/7137129/ALTERNATES/FREE_380/9.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/9jpg/7137129/BINARY/thumbnail/9.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/10jpg/7137105" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/10jpg/7137105/ALTERNATES/FREE_380/10.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/10jpg/7137105/BINARY/thumbnail/10.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/13jpg/7137114" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/13jpg/7137114/ALTERNATES/FREE_380/13.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/13jpg/7137114/BINARY/thumbnail/13.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/tlocrt-projektirano-stanjejpg/7137135" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/tlocrt-projektirano-stanjejpg/7137135/ALTERNATES/FREE_380/TLOCRT%20-%20PROJEKTIRANO%20STANJE.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/tlocrt-projektirano-stanjejpg/7137135/BINARY/thumbnail/TLOCRT%20-%20PROJEKTIRANO%20STANJE.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/tlocrt-podjela-apartmanajpg/7137132" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/tlocrt-podjela-apartmanajpg/7137132/ALTERNATES/FREE_380/TLOCRT%20-%20PODJELA%20APARTMANA.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/tlocrt-podjela-apartmanajpg/7137132/BINARY/thumbnail/TLOCRT%20-%20PODJELA%20APARTMANA.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p align="justify">Mogli bi se još raspisati o svakom detalju kojeg smo odluèili ukljuèiti u ovu interijersku kompoziciju, no, pustit æemo slikama da izgovore svaka svojih tisuæu rijeèi, a mi se veæ „bacamo“ na uljepšavanje i poliranje posljednjeg u nizu, najmanjeg, ali zato i nešto drugaèijeg apartman;  zadnjeg nastavka ove interijerske trilogije za dnevni najam, a do tada vam šaljemo jedan fini arhitektonsko – dizajnerski pozdrav od ekipe s Ribnjaka!</p><p>Tim 4uHA</p><p> <section>
 <article class="interijeri media galleryCall ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/40-kvadrata-zagrebackog-sarma-vol-2/7137228/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/domace-gnijezdo-ljubiteljice-drame/7142727/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/40-kvadrata-zagrebackog-sarma-vol-2/7137228/">
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/1jpg/7137102/ALTERNATES/LANDSCAPE_380/1.jpg"
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/domace-gnijezdo-ljubiteljice-drame/7142727/">
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685/ALTERNATES/LANDSCAPE_380/coco_AT%20(13).jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/1jpg/7137102/BINARY/thumbnail/1.jpg"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685/BINARY/thumbnail/coco_AT%20(13).jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1538,20 +1562,12 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </p><p>
-<div class="e4-sub-article ">
-<section>
-<div>
-<p>Arhitekte iz projektnog studija 4uHa možete kontaktirati: <a href="http://www.4uha.com/" target="_blank">www.4uha.com</a> ili <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="563f3830391662233e37783e2478">[email&#160;protected]</a></p><p>Pratite ih na Facebook stranici <a href="https://www.facebook.com/cetiriuha/">4uHa</a> i Instagramu @<a href="https://www.instagram.com/4uha_arhitekti/">4uha_arhitekti</a> ili posjetite na zagrebaèkom Ribnjaku 6.</p>
+</p><p><strong>Foto: </strong><u>Melanie Rieders</u></p><p>Izvor: <a href="https://www.apartmenttherapy.com" target="_blank">Apartment Therapy</a></p>
 </div>
-</section>
-</div>
-</p>
-</div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" language="javascript">
+<script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7137099 p").filter(function () {
+$("#content-body-6263871-7142664 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1560,16 +1576,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7137099").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7142664").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7137099").children().slice(max).remove();
+$("#content-body-6263871-7142664").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7137099").children().get(0);
+var firstChild = $("#content-body-6263871-7142664").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1604,29 +1620,6 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/jednokratni_najam" class ="label label-default" >
-jednokratni najam
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/stan_od_40_kvadrata" class ="label label-default" >
-stan od 40 kvadrata
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Design_Distric" class ="label label-default" >
-Design Distric
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Projektni_ured_4uHa" class ="label label-default" >
-Projektni ured 4uHa
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1634,21 +1627,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="interijeri media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/vodimo-vas-u-42-kvadrata-zagrebackog-sarma/7107180/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/vodimo-vas-u-42-kvadrata-zagrebackog-sarma/7107180/">
-Vodimo vas u 42 kvadrata zagrebaèkog šarma
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1728,7 +1706,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7137099" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7142664" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1762,17 +1740,17 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <section>
 <article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/fantasticni-mali-stan-a-ima-svega-29-kvadrata/7131090/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/moderni-i-elegantni-obiteljski-dom/7144647/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/fantasticni-mali-stan-a-ima-svega-29-kvadrata/7131090/">
-MODERNO UREÐENJE
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderni-i-elegantni-obiteljski-dom/7144647/">
+STAN OD 65 KVADRATA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/fantasticni-mali-stan-a-ima-svega-29-kvadrata/7131090/">
-Fantastièni mali stan, a ima svega 29 kvadrata
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderni-i-elegantni-obiteljski-dom/7144647/">
+Moderni i elegantni obiteljski dom
 </a>
 </h4>
 </div>
@@ -1784,18 +1762,16 @@ Fantastièni mali stan, a ima svega 29 kvadrata
 <section>
 <article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/divan-mladenacki-stan-od-46-kvadrata/7127478/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/razigran-i-topao-stan-u-centru-rijeke/7146894/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/divan-mladenacki-stan-od-46-kvadrata/7127478/">
-EGZOTIKA U INTERIJERU
-</a>
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/razigran-i-topao-stan-u-centru-rijeke/7146894/">
+EGZOTIÈNO UREÐENJE </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/divan-mladenacki-stan-od-46-kvadrata/7127478/">
-Divan mladenaèki stan od 46 kvadrata
-</a>
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/razigran-i-topao-stan-u-centru-rijeke/7146894/">
+Razigran i topao stan u centru Rijeke </a>
 </h4>
 </div>
 </div>
@@ -1806,17 +1782,17 @@ Divan mladenaèki stan od 46 kvadrata
 <section>
 <article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/vodimo-vas-u-prekrasan-dupleks-mlade-arhitektice-u-spanskom/7113519/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/kompaktan-i-udoban-a-ima-svega-34-kvadrata/7141170/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/vodimo-vas-u-prekrasan-dupleks-mlade-arhitektice-u-spanskom/7113519/">
-STAN U ZGRADI
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/kompaktan-i-udoban-a-ima-svega-34-kvadrata/7141170/">
+MODERNO STANOVANJE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/vodimo-vas-u-prekrasan-dupleks-mlade-arhitektice-u-spanskom/7113519/">
-Vodimo vas u prekrasan dupleks mlade arhitektice u Španskom
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/kompaktan-i-udoban-a-ima-svega-34-kvadrata/7141170/">
+Kompaktan i udoban, a ima svega 34 kvadrata
 </a>
 </h4>
 </div>
@@ -1828,17 +1804,17 @@ Vodimo vas u prekrasan dupleks mlade arhitektice u Španskom
 <section>
 <article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/trosobni-stan-ureden-za-mladu-obitelj/7122648/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/njezni-mali-stan-u-suterenu/7143522/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/trosobni-stan-ureden-za-mladu-obitelj/7122648/">
-JEDNOSTAVNOST KOJA ODUŠEVLJAVA
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/njezni-mali-stan-u-suterenu/7143522/">
+INTERIJER OD 46 KVADRATA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/trosobni-stan-ureden-za-mladu-obitelj/7122648/">
-Trosobni stan ureðen za mladu obitelj
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/njezni-mali-stan-u-suterenu/7143522/">
+Nježni mali stan u suterenu
 </a>
 </h4>
 </div>
@@ -2326,14 +2302,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/scena/prekrasna-ana-radisic-u-emotivnom-spotu-za-pjesmu-marka-koncurata?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/svecenik-uhapsen-s-drogom?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521200483Ana_RadisYicY_Bolero.jpg?v=1521200816" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1500446368RTS156BQ.jpg?v=1521553999" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>BOLERO/Prekrasna Ana Radišiæ u emotivnom spotu za pjesmu Marka Konèurata</h4>
+<h4>BOBU BOB, POPU DOP/Drugi sluèaj u mjesec dana: još jedan sveæenik u Srbiji &#039;pao&#039; s travom i amfetaminima</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2377,56 +2353,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=70&contextPath=1-69-70-&pubId=1&cat=&meta=read-story&objId=7137099&type=article&title=40+kvadrata+zagreba%c4%8dkog+%c5%a1arma+vol.+2&url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2f40-kvadrata-zagrebackog-sarma-vol-2%2f7137099%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=70&contextPath=1-69-70-&pubId=1&cat=&meta=read-story&objId=7142664&type=article&title=Stan%c4%8di%c4%87+s+ozbiljnim+smislom+za+dramu&url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fstancic-s-ozbiljnim-smislom-za-dramu%2f7142664%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=70&amp;contextPath=1-69-70-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7137099&amp;type=article&amp;title=40+kvadrata+zagreba%c4%8dkog+%c5%a1arma+vol.+2&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2f40-kvadrata-zagrebackog-sarma-vol-2%2f7137099%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=1835639078&title=Projektni+ured+4uHa&url=tag%3ajltags%40eph.hr%2c2016%3aProjektni_ured_4uHa&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1835639078&amp;title=Projektni+ured+4uHa&amp;url=tag%3ajltags%40eph.hr%2c2016%3aProjektni_ured_4uHa&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=497690315&title=Design+Distric&url=tag%3ajltags%40eph.hr%2c2016%3aDesign_Distric&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=497690315&amp;title=Design+Distric&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDesign_Distric&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=1536451164&title=stan+od+40+kvadrata&url=tag%3ajltags%40eph.hr%2c2016%3astan_od_40_kvadrata&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1536451164&amp;title=stan+od+40+kvadrata&amp;url=tag%3ajltags%40eph.hr%2c2016%3astan_od_40_kvadrata&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=1367327251&title=jednokratni+najam&url=tag%3ajltags%40eph.hr%2c2016%3ajednokratni_najam&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1367327251&amp;title=jednokratni+najam&amp;url=tag%3ajltags%40eph.hr%2c2016%3ajednokratni_najam&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=70&amp;contextPath=1-69-70-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7142664&amp;type=article&amp;title=Stan%c4%8di%c4%87+s+ozbiljnim+smislom+za+dramu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fstancic-s-ozbiljnim-smislom-za-dramu%2f7142664%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2479,7 +2411,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/domidizajn/interijeri/40-kvadrata-zagrebackog-sarma-vol-2/7137099/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2489,14 +2421,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/domidizajn/interijeri/40-kvadrata-zagrebackog-sarma-vol-2/7137099/",
-postId : "7137099",
+url : "https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/",
+postId : "7142664",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "40 kvadrata zagrebaèkog šarma vol. 2",
-pubdate : "2018-03-16 10:54",
-authors : "Projektni ured 4uHa",
+title : "Stanèiæ s ozbiljnim smislom za dramu",
+pubdate : "2018-03-19 20:00",
+authors : "Andrea Mariæ",
 sections : "Front Page, Interijeri",
-tags : "Projektni ured 4uHa, Design Distric, stan od 40 kvadrata, jednokratni najam",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */
