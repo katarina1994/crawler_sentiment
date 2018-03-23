@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Pravnik Amer Salaf (35) imao je do prije nekoliko godina odvjetnièki ured u Damasku, a proteklu godinu i pol živi u Zagrebu i u svojoj struci radi za jednu tvrtku. Sa suprugom i troje djece dobio je azil u Hrvatskoj. Engleski, koji teèno govori, u poslu mu je jako važan, no svjestan je koliko mu je za nastavak karijere u Hrvatskoj važan i hrvatski. Stoga je s oduševljenjem prihvatio moguænost da ga uèi na Filozofskom fakultetu, na kojem je prošli tjedan poèeo teèaj hrvatskoga jezika za azilante i tražitelje azila u organizaciji Centra za hrvatski kao drugi i strani jezik Croaticum, koji na Odsjeku za kroatistiku postoji veæ 56 godina i namijenjen je strancima, studentima i svim ostalim polaznicima koji žele nauèiti hrvatski." />
-<meta name="keywords" content="Azilanti, Filozofski fakultet" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="O moguæim prijevremenim izborima nisam nikada razgovarao s Andrejem Plenkoviæem. Nije mi to ni spomenuo - kaže za Globus Ivan Vrdoljak, za mnoge uz premijera i stup sadašnje Vlade za koju èelnik HNS-a tvrdi da je “dobra”, ali da je dobila packu od Europske komisije. “Treba to ozbiljno shvatiti”, poruèio je stranaèkim kolegama na tradicionalnom okupljanju vodstva stranke koje je ovaj put održano u Tuheljskim toplicama protekloga vikenda." />
+<meta name="keywords" content="Ivan Vrdoljak, HNS" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>&#039;ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM&#039; Sirijci i Iraèani u RH: &#039;Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!&#039; - Jutarnji List</title>
+<title>IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS &#039;Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -16,7 +16,7 @@ window.Criteo = window.Criteo || {};
 window.Criteo.events = window.Criteo.events || [];
 </script>
 <section>
-<!-- DFP verzija 9 -->
+<!-- DFP verzija 9.1 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -180,11 +180,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Život";
+var dfpCategory = "Politika";
 var dfpCategoryParent = "Globus";
 var dfpRos = "globus-ros";
-var dfpArticle = "7147503";
-var dfpArticleKeyword = "Azilanti";
+var dfpArticle = "7160358";
+var dfpArticleKeyword = "Ivan Vrdoljak";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -445,7 +445,6 @@ if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
 pbjs.setPriceGranularity(dfpPrebidGranularity);
-pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -606,8 +605,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -620,21 +619,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/2222jpg/7147548/ALTERNATES/LANDSCAPE_1180/2222.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340/ALTERNATES/LANDSCAPE_1180/Ivan%20Vrdoljak" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/2222jpg/7147548/ALTERNATES/LANDSCAPE_1180/2222.jpg">
-<meta property="og:title" content="'ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM' Sirijci i Iraèani u RH: 'Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340/ALTERNATES/LANDSCAPE_1180/Ivan%20Vrdoljak">
+<meta property="og:title" content="IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/" />
+<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Pravnik Amer Salaf (35) imao je do prije nekoliko godina odvjetnièki ured u Damasku, a proteklu godinu i pol živi u Zagrebu i u svojoj struci radi za jednu tvrtku. Sa suprugom i troje djece dobio je azil u Hrvatskoj. Engleski, koji teèno govori, u poslu mu je jako važan, no svjestan je koliko mu je za nastavak karijere u Hrvatskoj važan i hrvatski. Stoga je s oduševljenjem prihvatio moguænost da ga uèi na Filozofskom fakultetu, na kojem je prošli tjedan poèeo teèaj hrvatskoga jezika za azilante i tražitelje azila u organizaciji Centra za hrvatski kao drugi i strani jezik Croaticum, koji na Odsjeku za kroatistiku postoji veæ 56 godina i namijenjen je strancima, studentima i svim ostalim polaznicima koji žele nauèiti hrvatski." />
+<meta property="og:description" content="O moguæim prijevremenim izborima nisam nikada razgovarao s Andrejem Plenkoviæem. Nije mi to ni spomenuo - kaže za Globus Ivan Vrdoljak, za mnoge uz premijera i stup sadašnje Vlade za koju èelnik HNS-a tvrdi da je “dobra”, ali da je dobila packu od Europske komisije. “Treba to ozbiljno shvatiti”, poruèio je stranaèkim kolegama na tradicionalnom okupljanju vodstva stranke koje je ovaj put održano u Tuheljskim toplicama protekloga vikenda." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Boris Orešiæ">
-<meta name="twitter:title" content="'ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM' Sirijci i Iraèani u RH: 'Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!'">
-<meta name="twitter:description" content="Pravnik Amer Salaf (35) imao je do prije nekoliko godina odvjetnièki ured u Damasku, a proteklu godinu i pol živi u Zagrebu i u svojoj struci radi za jednu tvrtku. Sa suprugom i troje djece dobio je azil u Hrvatskoj. Engleski, koji teèno govori, u poslu mu je jako važan, no svjestan je koliko mu je za nastavak karijere u Hrvatskoj važan i hrvatski. Stoga je s oduševljenjem prihvatio moguænost da ga uèi na Filozofskom fakultetu, na kojem je prošli tjedan poèeo teèaj hrvatskoga jezika za azilante i tražitelje azila u organizaciji Centra za hrvatski kao drugi i strani jezik Croaticum, koji na Odsjeku za kroatistiku postoji veæ 56 godina i namijenjen je strancima, studentima i svim ostalim polaznicima koji žele nauèiti hrvatski.">
+<meta name="twitter:creator" content="Jurica Körbler">
+<meta name="twitter:title" content="IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'">
+<meta name="twitter:description" content="O moguæim prijevremenim izborima nisam nikada razgovarao s Andrejem Plenkoviæem. Nije mi to ni spomenuo - kaže za Globus Ivan Vrdoljak, za mnoge uz premijera i stup sadašnje Vlade za koju èelnik HNS-a tvrdi da je “dobra”, ali da je dobila packu od Europske komisije. “Treba to ozbiljno shvatiti”, poruèio je stranaèkim kolegama na tradicionalnom okupljanju vodstva stranke koje je ovaj put održano u Tuheljskim toplicama protekloga vikenda.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -657,9 +656,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Život, Globus, Front Page",
-pubdate: "2018-03-19T21:00+01:00",
-author: "Boris Orešiæ",
+data: { section: "Politika, Globus, Front Page",
+pubdate: "2018-03-22T19:00+01:00",
+author: "Jurica Körbler",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -699,10 +698,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <script type="text/javascript">
 $(function() {
 if ($("#related-news-box").has("ul").length) {
-if ($("[id^='content-body-'] > p").length < 0) {
+if ($("[id^='content-body-'] > p").length < 13) {
 $("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
 } else {
-$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(13));
 }
 } else {
 $("#related-news-box").remove();
@@ -743,10 +742,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>20.3.</span>2018.
+<span>23.3.</span>2018.
 </p>
 <p class="day">
-utorak
+petak
 </p>
 </div>
 <span class="logo"><a href="/">JutarnjList</a></span>
@@ -1093,7 +1092,7 @@ Mozgalice
 Naslovnica
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/globus/Globus-politika/">
 Politika
 </a>
@@ -1108,7 +1107,7 @@ Biznis
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/globus/Globus-zivot/">
 Život
 </a>
@@ -1170,11 +1169,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-AZILANTI
+INTERVJU
 </p>
 <h1
 class="title">
-'ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM' Sirijci i Iraèani u RH: 'Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!'
+IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1182,7 +1181,7 @@ class="title">
 <p
 class="authors">
 <ul>
-<li>Boris Orešiæ</li>
+<li><a href="https://www.jutarnji.hr/autori/jurica-k%C3%B6rbler">Jurica Körbler</a></li>
 </ul>
 </p>
 </li>
@@ -1190,7 +1189,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-19.03.2018. u 21:00
+22.03.2018. u 19:00
 </p>
 </li>
 </ul>
@@ -1202,12 +1201,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/2222jpg/7147548" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/2222jpg/7147548/ALTERNATES/LANDSCAPE_380/2222.jpg"
+<img src="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340/ALTERNATES/LANDSCAPE_380/Ivan%20Vrdoljak"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/2222jpg/7147548/BINARY/thumbnail/2222.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340/BINARY/thumbnail/Ivan%20Vrdoljak"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1216,7 +1215,7 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Tomislav Krišto / CROPIX
+<span> Biljana Blivajs / HANZA media
 </span>
 </div>
 </div>
@@ -1225,10 +1224,6 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p><em><strong>Nama Sirijcima i Iraèanima nije lako uèiti hrvatski, ali puno nam pomaže kad na satu slušamo pjesme: da bismo razumjeli vokativ, profesori nam puštaju pjesmu Tereze Kesovije “Zlato moje”, a glagole u prezentu najlakše prepoznajemo u pjesmi Jinxa “Idem tamo gdje je sve po mom”</strong></em></p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1252,44 +1247,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7147503"
+<div id="content-body-6263871-7160358"
 >
-<p>Pravnik <strong>Amer Salaf </strong>(35) imao je do prije nekoliko godina odvjetnièki ured u Damasku, a proteklu godinu i pol živi u Zagrebu i u svojoj struci radi za jednu tvrtku. Sa suprugom i troje djece dobio je azil u Hrvatskoj. Engleski, koji teèno govori, u poslu mu je jako važan, no svjestan je koliko mu je za nastavak karijere u Hrvatskoj važan i hrvatski. Stoga je s oduševljenjem prihvatio moguænost da ga uèi na Filozofskom fakultetu, na kojem je prošli tjedan poèeo teèaj hrvatskoga jezika za azilante i tražitelje azila u organizaciji Centra za hrvatski kao drugi i strani jezik Croaticum, koji na Odsjeku za kroatistiku postoji veæ 56 godina i namijenjen je strancima, studentima i svim ostalim polaznicima koji žele nauèiti hrvatski.</p><p>Profesori i studenti odluèili su volonterski uložiti svoje znanje, trud i vrijeme kako bi po dobro iskušanim metodama poduèavanja jezika pomogli Sirijcima i Iraèanima koji su zbog rata napustili svoje zemlje i žele život nastaviti u Hrvatskoj. Meðu 15 polaznika jedna je žena i 14 muškaraca u dobi izmeðu 18 i 39 godina pred kojima je 90 sati teèaja koji æe trajati tri i pol mjeseca, a uèiteljsku ulogu preuzele su tri studentice završne godine studija hrvatskog jezika i književnosti <strong>Maja Matijeviæ</strong>, <strong>Ivana Ðerke</strong> i<strong> Ivana Bauk</strong>.</p><p>“Moji sinovi, 8-godišnji <strong>Ahmed </strong>i 5-godišnji <strong>Yousif</strong>, idu u školu i vrtiæ i odlièno govore hrvatski. Supruga i ja dosta razumijemo. Sada je vrijeme da i ja progovorim hrvatski jer æu tako lakše naæi posao. Nije lako, ali æu se potruditi”, kaže <strong>Wisam Al-Obaidy</strong>, koji je u velikom izbjeglièkom valu krajem 2015. napustio Bagdad, a nakon nekoliko mjeseci dospio je u Hrvatsku, gdje je ubrzo dobio azil pa su mu se pridružili sinovi i supruga <strong>Šeima</strong>, koja je u Iraku bila profesorica fizièke kulture. Kao azilanti su u Zagrebu dobili stan na korištenje, a oboje su pohaðali teèaj hrvatskoga u jednoj privatnoj školi.</p><p>“Nemamo namjeru živjeti bilo gdje drugdje nego u Hrvatskoj gdje su nas svi odlièno prihvatili, a djeèaci imaju mnogo prijatelja. Hrvati dobro govore engleski, ali da bismo se potpuno uklopili u društvo, moramo znati hrvatski”, kaže 36-godišnji Iraèanin Wisam. Na teèaj je došao s prijateljem <strong>Jaserom Al Masrijem</strong> iz Sirije, koji je u Damasku radio u službi za korisnike jedne telekomunikacijske tvrtke i smatra da bez znanja hrvatskog teško može u Hrvatskoj dobiti bilo kakav bolje plaæen posao. Stoga se s mnogo entuzijazma bacio na uèenje i sjeo u prvi red u uèionici u želji da što bolje vidi i èuje što govori i piše uèiteljica Maja Matijeviæ.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/1111jpg/7147545" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/1111jpg/7147545/ALTERNATES/FREE_380/1111.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/1111jpg/7147545/BINARY/thumbnail/1111.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Damir Krajaè / CROPIX
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Na fotografiji: Dragan Bagiæ, Ðurðica Æiliæ, Marica Èilaš Mikuliæ, Luna Cvitanušiæ Tvico, Ranka Ðurðeviæ, Maja Matijeviæ</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Na prvom satu uèili su abecedu i izgovor glasova te glagol biti i osobne zamjenice kako bi se znali predstaviti na hrvatskom. Veæ na drugom satu usvojili su razliku izmeðu nominativa i akuzativa, nauèili zanimanja i zemlje te reæi odakle dolaze…</p><p>Jedan od inicijatora projekta, prodekan za znanost i meðunarodnu suradnju Filozofskog fakulteta, izvanredni profesor na Odsjeku za sociologiju dr. sc. <strong>Dragan Bagiæ</strong> otkriva kako je bio mentor studentici koja je pisala diplomski rad o integraciji azilanata u Hrvatskoj i razgovarala s njima te došla do zakljuèka kako je jedna od najveæih prepreka njihovoj kvalitetnoj integraciji upravo dostupnost i kvaliteta uèenja hrvatskog jezika.</p><p>“Oèito je da poduèavanje azilanata hrvatskom koje je propisano zakonom i koje se provodi nije na dovoljno visokoj razini da bi ubrzalo taj proces integracije. I tako mi je sinula ideja da bi se Fakultet mogao u to ukljuèiti, a znam da su i drugi na Fakultetu takoðer o tome razmišljali. Tim je ljudima država dala zaštitu i stoga se treba ozbiljno angažirati da se kvalitetno integriraju, da se ovdje osjeæaju dobrodošlo i da mogu razvijati svoje životne putove. Fakultet želi društvu pokazati svoje sposobnosti, kapacitete i volju u rješavanju relevantnih problema i potvrditi da nije zatvorena akademska institucija.</p><p>Takoðer želimo našim studentima omoguæiti da kroz praksu stjeèu znanja i kompetencije, a ako je to i korisno za društvo, tim bolje”, govori dr. Bagiæ i naglašava da se Filozofski planira javljati na natjeèaje koje æe Ministarstvo znanosti i obrazovanja raspisivati za poduèavanje azilanata hrvatskom jeziku. Ovaj æe teèaj, naime, profesori i studenti odraditi volonterski, no ubuduæe bi slièni teèajevi mogli biti integrirani u fakultetske programe.</p><p>“Sigurni smo da takve teèajeve koje Ministarstvo plaæa možemo provesti kvalitetnije od bilo koga drugog u Hrvatskoj”, zakljuèuje Bagiæ.</p><p>Proèelnica Odsjeka za zapadnoslavenske jezike i književnosti doc. dr. sc. <strong>Ðurðica Èiliæ</strong> proteklih godinu i pol dana volontira za izbjeglice smještene u hotelu Porin. Veæinom ih je razvozila na razne aktivnosti po gradu i tako je upoznala ljude iz udruge Are You Syrious i drugih koje pomažu azilantima i tražiteljima azila.</p><p>“Kada je Dragan Bagiæ predložio da nešto napravimo, razgovarala sam o tome s brojnim kolegama na Fakultetu i mnogi su ponudili volonterski dati svoj konkretan doprinos. Svi su izvrsno reagirali. Prvo sam se obratila MUP-u koji odobrava azile i u kontaktu je s ljudima koji ih èekaju, no tamo su mi rekli da nakon što izdaju azil više nemaju nikakve veze s tim ljudima. Onda sam otišla u Ministarstvo znanosti, gdje su mi rekli da teèajeve za koje oni raspisuju natjeèaje provode privatne škole. Na pitanje kakvi su rezultati tih teèajeva rekli su da ne znaju. Takav teèaj po polazniku državu košta izmeðu 5 i 7 tisuæa kuna, no Ministarstvo ne provjerava znanje polaznika.</p><p>Kada sam pitala zašto se nisu obratili Filozofskom koji veæ godinama provodi teèajeve hrvatskog jezika za strance i ima izvrsne rezultate, odgovorili su mi da su mislili da je to nama na Fakultetu ispod èasti. Oèito nisu znali da je, baš naprotiv, politika Fakulteta tim ljudima pokazati da su dio naše zajednice”, govori dr. sc. Èiliæ, koja se potom obratila Centru za mirovne studije i udruzi Are You Syrious od kojih ubrzo dobiva popis ljudi za koje smatraju da im je kvalitetno uèenje hrvatskog najpotrebnije. “Jako nam je stalo da ovaj teèaj uspije. Interes meðu azilantima bio je mnogo veæi nego što ih možemo primiti, pa smo imali nezahvalan zadatak napraviti selekciju”, kaže dr. Èiliæ.</p><p>Voditeljica Croaticuma, viša lektorica dr. sc. <strong>Marica Èilaš Mikuliæ</strong>, naglašava kako je rijeè o najstarijoj instituciji u Hrvatskoj koja se bavi prouèavanjem i poduèavanjem hrvatskog kao stranoga jezika. Uz to su najproduktivniji u izradi udžbenika hrvatskog za strance te imaju razvijenu metodologiju poduèavanja jezika. Metoda je, objašnjava, komunikacijsko-kognitivna, što znaèi da se istodobno kroz komunikaciju uèe i jezik i kultura.</p><p>“Azilanti æe se uèeæi jezik upoznavati i s hrvatskom svakodnevicom i obièajima, što je jako važno. Od samih poèetaka Croaticum ima studente i polaznike teèajeva iz cijeloga svijeta i èesto se dogaða da ovisno o zemlji iz koje dolaze razlièito reagiraju na pojedinu moju gestu. Mi ih stoga poduèavamo kako se rukovati, koga smiješ zagrliti ili potapšati, poljubiti u obraz i koliko puta… Kada uèimo brojeve i genitiv, razgovaramo o cijenama, pa onda i o cjenkanju koje je kulturološka èinjenica. U nekim je kulturama cjenkanje obavezno, a drugdje se o cijeni ne pregovara”, istièe dr. sc. Èilaš Mikuliæ te dodaje kako polaznici izvrsno reagiraju na takav naèin uèenja jezika. U svojoj dugogodišnjoj praksi imala je mnogo uèenika iz arapskih zemalja, pa je imala priliku mnogo nauèiti i o njihovoj kulturu.</p><p>“Sirijce pamtim po iznimnom poštovanju profesora. Svi redom su jako srdaèni, otvoreni i komunikativni. Buduæi da ja ne znam arapski, ne mogu im ništa reæi na njihovu jeziku, a èesto neki od njih ne znaju niti jedan drugi strani jezik. Sa studentima s engleskoga govornog podruèja imam zajednièki jezik. No, jezik se ne uèi samo kroz direktno prenošenje rijeèi iz jednog jezika u drugi, nego holistièki, i gestama i mimikom, korak po korak, kao kada ga dijete uèi. Sirijcima je u poèetku jako teško uèiti hrvatski, ali su jako motivirani i nakon mjesec dana, kada poènu govoriti, najèešæe bolje progovore nego, recimo, Amerikanci, koji oèekuju da im se neke rijeèi prevode i ne trude se toliko kognitivno”, objašnjava dr. sc. Èilaš Mikuliæ.</p><p>Otkriva kako se Croaticum u listopadu javio na javni poziv Središnjeg državnog ureda za Hrvate izvan RH i zajedno sa struènjacima iz Centra za potporu e-uèenju Filozofskog fakulteta napravio cjeloviti internetski teèaj za uèenje hrvatskoga na poèetnièkoj, odnosno A1 razini. Teèaj je besplatan i svima dostupan na stranici <strong><a href="https://a1.ffzg.unizg.hr/">https://a1.ffzg.unizg.hr</a></strong>. Jako je dobro posjeæen te nema nikakve prepreke da ga pohaðaju i azilanti.</p><p>Teèaj koji je upravo poèeo temelji se na programu poduèavanja azilanata hrvatskom jeziku koji je 2015. osmislila prof. dr. sc. <strong>Zrinka Jelaska</strong> sa svojim suradnicima. Polaznici æe imati pristup internetu, knjigama iz fakultetske knjižnice, a osigurat æe im se i prostor gdje mogu uèiti. Mentorice studenticama koje æe provoditi nastavu iskusne su lektorice s Croaticuma prof. <strong>Ranka Ðurðeviæ</strong> i prof. <strong>Jelena Cvitanušiæ Tvico</strong>. Kažu da je 15 polaznika prošlo testiranje iz hrvatskoga. Svi su ga oni veæ negdje uèili, ali im je znanje vrlo skromno.</p><p>“Polaznici èiji se materinji jezik ne piše latinicom, kao što je arapski, obièno teže usvajaju pisanje na hrvatskom. Stoga kreæemo s abecedom. Cilj je da nauèe govoriti, ali i pisati kako bi se lakše mogli zaposliti. Nakon tri i pol mjeseca i 90 sati trebali bi steæi znanje da se mogu snaæi u raznim životnim situacijama kao što su razgovor za posao, uèlanjenje u knjižnicu, pohaðanje autoškole, da mogu samostalno èitati raèune za režije, javiti se na natjeèaj za posao, razgovarati s profesorima svoje djece u školi…” objašnjava prof. Ðurðeviæ.</p><p>“Ljudi u dobi izmeðu 20 i 30 godina uglavnom su vizualni tipovi. Stoga imamo mnogo videomaterijala i fotografija na temelju kojih trebaju napisati prièu. Puštamo im i glazbu, na primjer pjesmu ‘Idem tamo gdje je sve po mom’, u kojoj ima mnogo glagola u prezentu. Za poèetnike je izvrsna pjesma ‘Sunèan dan’ Nene Belana, a ‘Zlato moje’ Tereze Kesovije puštamo kad uèimo vokativ. ‘Mjesto za dvoje’ grupe Letu štuke pomaže u uèenju kondicionala”, istièe prof. Jelena Cvitanušiæ Tvico. Istièe da u nastavi moraju biti svjesni specifiènih životnih okolnosti azilanata jer se može dogoditi da neki emotivno reagiraju kada se obraðuje tema obitelji jer su izgubili èlanove obitelji ili su daleko od njih.</p><p>“Svaki æemo im tjedan spomenuti neku drugu hrvatsku regiju kako bi dobili predodžbu o cijeloj državi, a ne samo o Zagrebu, u kojem sada žive, jer tko zna gdje æe na kraju završiti. Objasnit æemo im, na primjer, što je Vukovar prošao u ratu, ali i što se danas dogaða u tom gradu koji ima, recimo, tvornicu cipela i filmski festival. Ne želimo da niti jedna tema bude tabu, pa tako ni rat i destrukcija, ali želimo naglasiti i da svaki rat završi i da se život nastavlja, za što je Hrvatska dobar primjer”, govori prof. Cvitanušiæ Tvico, koja je i sama proživjela rat u Sarajevu i izbjeglièko iskustvo zbog èega vjeruje da može razumjeti neke traume koje su prošli azilanti u Hrvatskoj.</p><p>Njezina kolegica prof. <strong>Ranka Ðurðeviæ</strong> dodaje kako polaznike ipak neæe viktimizirati, nego pokušati potaknuti sve njihove potencijale, što je i ljudski i profesionalno veseli i obogaæuje.</p><p>Njih dvije i dr. sc. Marica Èilaš Mikuliæ uložile su mnogo vremena i truda kako bi obuèile tri studentice koje æe držati nastavu.</p><p>Studentica 5. godine kroatistike Maja Matijeviæ kaže da joj je prije svega želja pomoæi izbjeglicama u Hrvatskoj, ali i steæi iskustvo u poduèavanju. Stoga je, priznaje, ovaj teèaj za nju veliki izazov, no nada se da æe se trud isplatiti.</p>
+<p>O moguæim prijevremenim izborima nisam nikada razgovarao s <strong>Andrejem Plenkoviæem</strong>. Nije mi to ni spomenuo - kaže za Globus <strong>Ivan Vrdoljak</strong>, za mnoge uz premijera i stup sadašnje Vlade za koju èelnik HNS-a tvrdi da je “dobra”, ali da je dobila packu od Europske komisije. “Treba to ozbiljno shvatiti”, poruèio je stranaèkim kolegama na tradicionalnom okupljanju vodstva stranke koje je ovaj put održano u Tuheljskim toplicama protekloga vikenda.</p><p>Vrdoljak ima èudnovato iskustvo, bio je meðu najbližim suradnicima <strong>Zorana Milanoviæa</strong>, a sada je i Plenkoviæu, iako zbog raznih razloga nije, bar ne još do sada, ušao u Vladu. Kaže, nisam nikada tajno pregovarao s <strong>Tomislavom Karamarkom</strong>, ali s njegovim nasljednikom, danas šefom HDZ-a i premijerom, oèito, jest. Dogovor koji je stvorio koaliciju kojoj leða èuva i <strong>Milorad Pupovac</strong> dobro se drži, ali pravi izazovi tek predstoje. </p><p>Ono što se mnogima èini da je Plenkoviæeva prednost, vrhunsko obrazovanje, uglaðenost, europejstvo, kulturno ophoðenje, istinska želja da demokratizira i HDZ i Hrvatsku, na ovim skliskim balkanskim terenima brzo se može pretvoriti u optereæenje. To iskusni Ivan Vrdoljak dobro zna, pogotovo što i ekonomija baš ne ide kako bi trebalo, pa diplomatski uljuðeno, ali ipak posve jasno kaže da je posljednji izvještaj iz Bruxellesa na neki naèin i opomena Vladi.</p><p><strong>Mediji su posljednjih dana kalkulirali da Andrej Plenkoviæ razmišlja o izvanrednim izborima. Imate li o tome nekih saznanja?</strong></p><p>- Ovo je dobra i stabilna Vlada, zato danas mislim isto što sam mislio i kada smo ušli u hrvatsku Vladu s HDZ-om, a to je da svaki izlazak na prijevremene izbore koji ne nudi alternativu, a jamèi destabilizaciju demokratskoga sustava nije dobro rješenje za Hrvatsku. Mislim da danas nije trenutak za to i da je puno prioritetnija tema završetak procesa stabilizacije Agrokora, ozbiljna gospodarska politika koja treba privuæi investicije.</p><p><strong>Dakle, s premijerom o tome niste razgovarali?</strong></p><p>- Nisam, ta tema uopæe nije bila na stolu.</p><p><strong>Protekli vikend imali ste neku vrstu “inventure” u Tuheljskim toplicama, a stalno se u oporbi spominje kako se HNS izgubio u ovoj koaliciji, da æe ga HDZ progutati i da ga na izborima, kada god oni budu, èekaju crni dani. Je li vaš dojam da je HNS izgubio odlukom da koalira s HDZ-om?</strong></p><p>- Teza je potpuno promašena, a to potvrðuje naš izborni rezultat, naše èlanstvo i naši rezultati u upravljanju i na lokalnoj i na nacionalnoj razini. HNS je izbor svih onih koji ne nasjedaju na populizam, nego oèekuju odgovornost i pametne javne politike. I u Tuheljskim toplicama je i meni i cijelom vodstvu stranke potvrðeno kako su naši èlanovi i simpatizeri prihvatili odluku da izbjegnemo treæe izbore i stabiliziramo politièki sustav Hrvatske. Ali sigurno nam neæe oprostiti sporost reformi i manjak rezultata ove Vlade. Zato imamo fokus na rezultat i siguran sam da æemo ga u konaènici ostvariti, a da æe graðani to prepoznati.</p><p><strong>Da se malo vratimo unatrag, kako je uopæe došlo do toga da se HNS odmakne od SDP-a, a dojam je da ste još za vrijeme Tomislava Karamarka stvarali platformu za suradnju s HDZ-om. Nikada to niste dokraja objasnili i je li toèno da ste s Karamarkom razgovarali o suradnji dviju stranaka?</strong></p><p>- Ta je teza krenula kada sam bio izabran za predsjednika HNS-a jer sam na izbornom saboru rekao kako je HNS graðanski centar potpuno jednako udaljen i od lijeve i od desne strane. Jedan dio novinara i javnosti je zakljuèio da tu otvaram moguænost suradnje s HDZ-om. Mi nismo o tome ni razgovarali s HDZ-om, to nije uopæe bila tema jer smo bili uvjereni da æe se vrlo brzo stabilizirati sustav nakon pobjede na izvanrednim izborima. Ali i dalje stojim iza svojih rijeèi da smo mi graðansko-liberalni centar potpuno jednako udaljeni i od lijeve i od desne strane i od njih æe ovisiti koliko æe se nama približiti svojom politikom i koliko æe biti spremni na suradnju s nama.</p><p><strong>Dakle, nikakvih tajnih razgovora s Karamarkom nije bilo?</strong></p><p>- Ne, nije bilo tajnih razgovora, jer tadašnji HDZ s Karamarkom na èelu nam nije bio prihvatljiv koalicijski partner.</p><p><strong>A kada je bio onaj presudni okidaè kada ste otišli od SDP-a i pristali na koaliciju s HDZ-om?</strong></p><p>- U onom trenutku kad je bilo jasno da idemo na treæe izbore u godinu dana da bi se ponovno politika bavila sama sobom, umjesto da se bavi goruæim problemima Hrvatske - od Agrokora i ugrožene turistièke sezone do povlaèenja bespovratnih sredstava iz EU fondova, što sve ima izravni utjecaj na naš BDP, a time i na živote svih graðana. Nitko iz opozicije nije bio spreman preuzeti odgovornost za Hrvatsku, veæ se svatko brinuo o svome imidžu, ne razmišljajuæi da Hrvatska ide prema novoj i još ozbiljnijoj krizi. Mi smo se tada odluèili pokazati da smo drukèiji i spremni na promjene koje æe rezultirati stabilizacijom i odgovornosti prema svojoj zemlji.</p><p><strong>Nedostaju li vam iz ove današnje pozicije Vesna Pusiæ, Anka Mrak-Taritaš i drugi bivši istaknuti èlanovi HNS-a?</strong></p><p>- Meni je žao što su oni otišli i više bih volio da su danas s nama, ali se u tom njihovu odlasku otvorio veliki prostor za nove mlade ljude. Navest æu samo neke - <strong>Marija Puh</strong>, <strong>Ivan Gulam</strong>, <strong>Dubravko Ponoš</strong>… Oni su sada potpredsjednici i istaknuti èlanovi, a da se sve to nije dogodilo, teško da bi imali taj politièki prostor. Tako da njihov odlazak ne gledam kao nedostatak, nego kao šansu za nove, mlade, ambiciozne ljude.</p><p><strong>Imate li sa svojim starim èlanovima neke kontakte, pozdravljate li se, razgovarate?</strong></p><p>- Da, kada se sretnemo ljudski razgovaramo.</p><p><strong>Nedavno ste govorili o suradnji koju ste imali s Milanoviæem i sada Plenkoviæem, rekavši da je bivši premijer omoguæio veæi manevarski prostor ministrima, a sadašnji voli sve kontrolirati. Kakva je zapravo suradnja s Plenkoviæem?</strong></p><p>- Suradnja je zadovoljavajuæa unatoè našim razlikama. Povezuje nas fokus na rezultate Vlade. I oni i mi znamo da graðanima moramo isporuèiti obeæane reforme.</p><p><strong>Meðutim, umjesto da se životne teme stavljaju u prvi plan, sada se opet vrtimo oko Istanbulske konvencije, koja sigurno neæe ni pomoæi ni odmoæi da hrvatski graðani bolje žive?</strong></p><p>- Toèno, to sam u više navrata govorio i javno i meðu svojim èlanstvom. Dok je fokus javnosti na Istanbulskoj konvenciji, teme od kojih graðani žive, nažalost, padaju u drugi plan. Naš stav je uvijek bio posve jasan - svi èlanovi kluba HNS-a glasat æe za ratifikaciju Konvencije, upravo da bismo tu temu zatvorili i vratili u prvi plan reformu obrazovanja, privlaèenje investicija i otvaranje novih radnih mjesta.</p><p><strong>Mislite li da ratifikacija ipak može zakomplicirati politièki život i hoæe li dodatna izjava biti dovoljna da se približe stavovi tvrðe desnice u HDZ-u i lijevog spektra?</strong></p><p>- Nemamo nikakvih problema po tom pitanju, a osobno vjerujem da je i HDZ spreman biti moderna europska konzervativna stranka, što podrazumijeva neke trendove koji se i u Europi dogaðaju kod demokršæana.</p><p><strong>Je li vas HDZ ili Plenkoviæ informirao ili ukljuèio u pisanje posebne izjave?</strong></p><p>- Za sada ne, oni završavaju konzultacije unutar stranke i oèekujem za nekoliko dana taj prijedlog. Ali, ne, nismo ukljuèeni u unutarstranaèke razgovore.</p><p><strong>Jedan od glavnih motiva da HNS uðe u ovu koaliciju bila je brža i efikasnija provedba reforme obrazovanja. Meðutim, nekih vidljivih pomaka još nema?</strong></p><p>- Pomaka itekako ima, a to pokazuju rezultati u ovih osam mjeseci koliko smo u Vladi. Napravljeno je daleko više nego što je hrvatsko obrazovanje uspjelo postiæi godinama prije. Došli smo nadomak poèetka primjene kurikularne reforme, pilot-faza kreæe veæ za pet mjeseci. U skladu s preporukom Europske komisije usvojili smo zakone o strukovnom obrazovanju, svi su novi kurikulumi gotovi, revizije su gotove i poèinje eksperimentalni program na jesen. </p><p>Osigurali smo i novac iz fondova EU za provedbu reforme, milijardu kuna za reformu strukovnog obrazovanja i 200 milijuna kuna za provedbu kurikularne reforme. Uveli smo informatiku kao obavezni predmet i sve nabrojeno govori koliko smo posla uspjeli napraviti u samo osam mjeseci. Ali to nas neæe uspavati, želimo nastaviti tim tempom.</p><p><strong>Neæe li se prièa o Istanbulskoj konvenciji, gdje se vidi podijeljenost hrvatskog društva, reflektirati i na reformu obrazovanja kada doðu osjetljive teme i pitanja na dnevni red?</strong></p><p>- Reforma obrazovanja temelj je i šansa da Hrvatska bude razvijena europska zemlja, pa ne oèekujem to. U reformi obrazovanja nema i ne smije biti ideologije. Naravno da dio hrvatskog društva želi da sve ostane isto ili da idemo nazad, i to iz partikularnih, a ne ideoloških interesa, ali vjerujem da smo kao društvo to davno prerasli.</p><p><strong>HNS se postavio i prema izvješæu Europske komisije da Hrvatska ipak nije ostvarila briljantne gospodarske rezultate o kojima Vlada èesto govori i da zaostajemo za èlanicama EU?</strong></p><p>- Mi to izvješæe smatramo vrlo ozbiljnim, kao konstruktivnu kritiku Vladi i poticaj da se svi zajedno trebamo usredotoèiti da se reformski procesi u Hrvatskoj ubrzaju. Komisija je istaknula dobre makroekonomske pokazatelje, smanjenje javnog duga, pa èak i rast koji je danas zadovoljavajuæi, ali ne prati hrvatske potencijale. </p><p>Mislim da Hrvatska može imati rast ne od 2,8 posto, nego 3,5, 4, 4,5 posto kada bismo iskoristili sve potencijale. To izvješæe nam šalje poruku da je jedan dio našeg posla solidno odraðen, ali niz drugih tema ne ide dovoljno brzo. Pohvalili su ono što se zadnjih osam mjeseci dogaða u obrazovanju, i to je nama poticaj da ne samo u obrazovanju nego i u drugim ministarstvima brže nastavimo s radom.</p><p><strong>Znaèi li ovo izvješæe opomenu da Vlada sporo radi?</strong></p><p>- Djelomièno se i tako može zakljuèiti. Ali treba znati da je Vlada bila u djelomiènoj politièkoj krizi u ljeto prošle godine, da je Agrokor uzeo dosta vremena i da se sada moramo fokusirati na važne teme. Ne bih rekao da je rijeè o neefikasnoj Vladi, ona ima vremena pokazati da može biti brza i efikasna.</p><p><strong>Mislite li da bi u Vladi trebalo svježe krvi, promjene nekih ministara?</strong></p><p>- Ne bih se osobno reflektirao na bilo kojeg ministra, a što se tièe naša dva ministra, potpredsjednika <strong>Predraga Štromara</strong> i ministrice <strong>Blaženke Divjak</strong>, tu ne treba nikakve svježe krvi jer su oni pokazali da odlièno rade.</p><p><strong>Kako procjenjujete finale oko Agrokora?</strong></p><p>- Oèekujem da æe do nagodbe doæi do ljeta ove godine, a važno je da nastavi ne samo sustav Agrokora s radom, nego i svi oni dobavljaèi, proizvoðaèi koji su bili dobrim dijelom naslonjeni na taj sustav. Želja mi je da nagodba rezultira srednjoroènim održivim planom poslovanja i zadržavanja radnih mjesta i proizvodnje.</p><p><strong>Jeste li kao jedan od kljuènih ljudi u Milanoviæevoj Vladi znali da se bliži kriza takvih razmjera u Agrokoru?</strong></p><p>- Do mene nisu dolazile takve informacije. Znalo se da su dosta zaduženi, ali u vrijeme Milanoviæeve Vlade nije bilo nikakvih problema u financiranju sustava. Nisam zato uopæe mogao predvidjeti što æe slijediti.</p><p><strong>Hrvatska je pred velikim projektom izgradnje Pelješkog mosta, a postoje sumnje da su Kinezi, koji æe najvjerojatnije graditi most, dali prenisku cijenu koja je nerealna. Može li to stvoriti nove probleme, što bi se moglo reflektirati i na ovu Vladu?</strong></p><p>- Ne vidim da æe tu doæi do problema. Bio je javni natjeèaj, sada državna komisija za javnu nabavu odluèuje o zakonitosti samog natjeèaja i nakon donošenja odluke oèekujem realizaciju projekta. Sve firme koje su se javile daju sigurnost da æe posao biti obavljen, a ne sumnjam tako ni da Kinezi ne bi završili taj posao. Ne oèekujem nikakve probleme.</p><p><strong>Postoji još nekoliko kritiènih toèaka za hrvatsko gospodarstvo, kriza u Uljaniku, Petrokemija, 3. maj...</strong></p><p>- To su teme o kojima se do sada nije dovoljno raspravljalo u javnosti. Cijeli brodograðevni sektor mora dobiti od Vlade model financiranja, jer ne postoji uspješna brodogradnja u svijetu koja nije podržana od razvojnih banaka i fondova. Imamo i otvorenu temu Petrokemije koja se treba u sljedeæih nekoliko mjeseci završiti ulaskom strateških partnera i nastavkom proizvodnje. Oèekujem da æe sljedeæih nekoliko mjeseci to biti u fokusu javnosti i rada Vlade, a tu vidim i vrlo aktivnu ulogu HNS-a.</p><p><strong>Dojam je da smo ostali po strani i kod buduæih pravaca dostave plina. Hoæe li to imati posljedice za Hrvatsku?</strong></p><p>- Nemamo mi taj problem. Danas imamo oko 50 posto svoje proizvodnje plina, što je, nažalost, u padu, ali za nekoliko mjeseci slijedi drugi krug natjeèaja za istraživanje i eksploataciju, što bi trebalo kroz nekoliko godina poveæati proizvodnju. Imamo pred sobom realizaciju projekta LNG-a na Krku i, što se tièe energetske sigurnosti i konkurencije kad je rijeè o cijenama, ne predviðam neke velike probleme.</p><p><strong>Dugo ste suraðivali sa SDP-om, kako ocjenjujete sadašnje stanje u toj stranci, pogotovo kritike da je današnja oporba u Saboru nevidljiva?</strong></p><p>- Mislim da je èak i vidljiva, ali upitno je na kojim temama. Danas je u Saboru dominantno praviti predstave i dezavuirati samu instituciju parlamenta, a ne poticati pozitivni dijalog. Iskreno se nadam da æe se to popraviti i da æe se SDP konsolidirati, jer jak SDP je potreban Hrvatskoj.</p><p><strong>Mislite da se SDP može konsolidirati s Davorom Bernardiæem na èelu?</strong></p><p>- Ne volim se baviti tuðim strankama jer svaki trenutak koristim da se bavim problemima graðana, radom Vlade, svojom strankom, suradnicima, èlanstvom.</p><p><strong>Nisu predsjednièki izbori blizu, ali se veæ o njima govori. Hoæe li HNS podržati predsjednicu Kolindu Grabar-Kitaroviæ ako se odluèi na drugi mandat ili æe imati svog kandidata?</strong></p><p>- Izbor predsjednika države važno je politièko pitanje o kojem u HNS-u vodimo raèuna, ali danas nam to nije prioritetna tema. Sada su nam u fokusu mjere i rezultati ove Vlade.</p><p><strong>Nedavno je završilo s radom Povjerenstvo za prošlost, ali rezultati baš nisu bajni. Teško da æe tako formulirani stavovi moæi biti pretoèeni u zakon, pa kakav je stav HNS-a o ustavnosti ili neustavnosti ustaškog pozdrava Za dom spremni?</strong></p><p>- Mi smo prije pola godine prièali o tome da nam je potrebnije povjerenstvo za suoèavanje s buduænosti, a ne prošlosti. Ali, poštujemo i povjerenstvo koje je pokušalo dati neki svoj okvir kako gledati na neke povijesne teme. Ono što je svima u Hrvatskoj, ne samo nama u HNS-u, bitno jest da svako rješenje mora biti sukladno Ustavu i na tome æemo inzistirati.</p><p><strong>Znaèi li to da neæete podržati stav Povjerenstva da neke iznimke mogu postojati?</strong></p><p>- Izuzeci od Ustava otvaraju Pandorinu kutiju koja nikome ne treba. Tada bi se našlo niz drugih tema i argumenata da se izuzmu iz ustavnosti. To nitko ne želi.</p><p><strong>Hrvatska se sve više susreæe s populizmom i populistièkim strankama. Koliko to može ugroziti politièki sustav?</strong></p><p>- Tu Hrvatska nije ništa drugaèija od drugih europskih zemalja. Populizam se prvo poèeo pojavljivati na desnom spektru i dogodilo se da ljevica u svom odgovoru ode u lijevi populizam. HNS je izbor svih onih koji ne nasjedaju na populizam, nego oèekuju odgovornost i pametne javne politike. Pred nama je vrijeme da se jasno artikulira da anarhisti kojih ima i u hrvatskoj politici mogu na nešto ukazivati, ali ne daju i rješenja. A mi trebamo rješenja, a ne jeftini populizam.</p><p><strong>Bulj vas je prije nekoliko dana oštro kritizirao. Imaju li te kritike pokriæe?</strong></p><p>- Pametni i ozbiljni ljudi bave se sobom i svojim idejama i rezultatima. Oni drugi, nesposobni, uglavnom se bave drugim politièarima.</p><p><strong>Raste popularnost Živog zida, Most je tu, hoæe li se trend njihove popularnosti nastaviti da se poremeti arhitektura na hrvatskoj politièkoj sceni?</strong></p><p>- Više od ovoga ne oèekujem. Prije svega zbog toga što oèekujem da æe ova Vlada dati rezultate i dokaz kako ozbiljna politika treba voditi zemlju.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7147503 p").filter(function () {
+$("#content-body-6263871-7160358 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1298,16 +1263,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7147503").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7160358").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7147503").children().slice(max).remove();
+$("#content-body-6263871-7160358").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7147503").children().get(0);
+var firstChild = $("#content-body-6263871-7160358").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1345,13 +1310,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Filozofski_fakultet" class ="label label-default" >
-Filozofski fakultet
+<a href="https://www.jutarnji.hr/tag/HNS" class ="label label-default" >
+HNS
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Azilanti" class ="label label-default" >
-Azilanti
+<a href="https://www.jutarnji.hr/tag/Ivan_Vrdoljak" class ="label label-default" >
+Ivan Vrdoljak
 </a>
 </li>
 </ul>
@@ -1362,15 +1327,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="zivotne-price media none">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/dan-u-skoli-u-zagrebu-s-malim-izbjeglicama-dragi-djedice-za-ove-blagdane-pokloni-mi-azil/6835848/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/ivan-vrdoljak-biraci-hns-a-razumiju-nas-ulazak-u-vladu-ali-nikad-nam-nece-oprostiti-izostanak-rezultata-vlada-se-mora-probuditi-i-ubrzati-reforme/7140654/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/dan-u-skoli-u-zagrebu-s-malim-izbjeglicama-dragi-djedice-za-ove-blagdane-pokloni-mi-azil/6835848/">
-DAN U ŠKOLI U ZAGREBU S MALIM IZBJEGLICAMA 'Dragi Djedice, za ove blagdane pokloni mi azil...'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/ivan-vrdoljak-biraci-hns-a-razumiju-nas-ulazak-u-vladu-ali-nikad-nam-nece-oprostiti-izostanak-rezultata-vlada-se-mora-probuditi-i-ubrzati-reforme/7140654/">
+IVAN VRDOLJAK 'Biraèi HNS-a razumiju naš ulazak u Vladu, ali nikad nam neæe oprostiti izostanak rezultata. Vlada se mora probuditi i ubrzati reforme'
 </a>
 </h4>
 </li>
@@ -1460,7 +1425,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7147503" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7160358" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1492,19 +1457,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="globus-zivot media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-zivot/ne-hrvati-nisu-dosli-u-stoljecu-sedmom-i-ne-nisu-stigli-iz-karpata-kako-je-nas-ugledni-arheolog-otkrio-gdje-su-zapravo-zivjeli-hrvati-prije-seobe/7099941/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/cerar-u-novom-zaletu-bruxelles-bi-s-olaksanjem-gledao-njegov-ostanak-na-vlasti-a-tada-bi-samo-pitanje-trenutka-bilo-kad-ce-rh-popustiti-oko-arbitraze/7155486/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/ne-hrvati-nisu-dosli-u-stoljecu-sedmom-i-ne-nisu-stigli-iz-karpata-kako-je-nas-ugledni-arheolog-otkrio-gdje-su-zapravo-zivjeli-hrvati-prije-seobe/7099941/">
-IZAZVAO BURNE REAKCIJE
+<a href="https://www.jutarnji.hr/globus/Globus-politika/cerar-u-novom-zaletu-bruxelles-bi-s-olaksanjem-gledao-njegov-ostanak-na-vlasti-a-tada-bi-samo-pitanje-trenutka-bilo-kad-ce-rh-popustiti-oko-arbitraze/7155486/">
+VELIKA GLOBUSOVA ANALIZA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/ne-hrvati-nisu-dosli-u-stoljecu-sedmom-i-ne-nisu-stigli-iz-karpata-kako-je-nas-ugledni-arheolog-otkrio-gdje-su-zapravo-zivjeli-hrvati-prije-seobe/7099941/">
-'NE, HRVATI NISU DOŠLI U STOLJEÆU SEDMOM I NE, NISU STIGLI IZ KARPATA' Kako je naš ugledni arheolog otkrio gdje su zapravo živjeli Hrvati prije seobe
+<a href="https://www.jutarnji.hr/globus/Globus-politika/cerar-u-novom-zaletu-bruxelles-bi-s-olaksanjem-gledao-njegov-ostanak-na-vlasti-a-tada-bi-samo-pitanje-trenutka-bilo-kad-ce-rh-popustiti-oko-arbitraze/7155486/">
+CERAR U NOVOM ZALETU Bruxelles bi s olakšanjem gledao njegov ostanak na vlasti, a tada bi samo pitanje trenutka bilo kad æe RH popustiti oko arbitraže
 </a>
 </h4>
 </div>
@@ -1514,19 +1479,19 @@ IZAZVAO BURNE REAKCIJE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="globus-zivot media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-zivot/ispovijesti-hrvatskih-prostitutki-ponosna-sam-sto-sam-uspjela-osigurati-egzistenciju-za-sebe-i-djecu-i-to-u-trenutku-kada-sam-stvarno-bila-na-dnu/7049828/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/ispovijesti-hrvatskih-prostitutki-ponosna-sam-sto-sam-uspjela-osigurati-egzistenciju-za-sebe-i-djecu-i-to-u-trenutku-kada-sam-stvarno-bila-na-dnu/7049828/">
-GLOBUS
+<a href="https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/">
+EUROPSKE LJEVIÈARSKE ZVIJEZDE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/ispovijesti-hrvatskih-prostitutki-ponosna-sam-sto-sam-uspjela-osigurati-egzistenciju-za-sebe-i-djecu-i-to-u-trenutku-kada-sam-stvarno-bila-na-dnu/7049828/">
-ISPOVIJESTI HRVATSKIH PROSTITUTKI 'Ponosna sam što sam uspjela osigurati egzistenciju za sebe i djecu. I to u trenutku kada sam stvarno bila na dnu'
+<a href="https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/">
+EKSKLUZIVNO U GLOBUSU Varufakis i Horvat stvaraju transnacionalnu listu za EU parlament: 'Ne zaustavimo li desnicu, èeka nas europski graðanski rat'
 </a>
 </h4>
 </div>
@@ -1536,19 +1501,19 @@ ISPOVIJESTI HRVATSKIH PROSTITUTKI 'Ponosna sam što sam uspjela osigurati egziste
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="globus-zivot media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-zivot/genijalci-u-pelenama-supruga-naseg-proslavljenog-nogometasa-na-vlastitom-je-sinu-isprobala-potpuno-novu-metodu-naprednog-ucenja/6323995/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/genijalci-u-pelenama-supruga-naseg-proslavljenog-nogometasa-na-vlastitom-je-sinu-isprobala-potpuno-novu-metodu-naprednog-ucenja/6323995/">
-OD KOLIJEVKE DO ŠKOLSKE KLUPE
+<a href="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/">
+INTERVJU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/genijalci-u-pelenama-supruga-naseg-proslavljenog-nogometasa-na-vlastitom-je-sinu-isprobala-potpuno-novu-metodu-naprednog-ucenja/6323995/">
-GENIJALCI U PELENAMA Supruga našeg proslavljenog nogometaša na vlastitom je sinu isprobala potpuno novu metodu naprednog uèenja
+<a href="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/">
+IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'
 </a>
 </h4>
 </div>
@@ -1558,19 +1523,19 @@ GENIJALCI U PELENAMA Supruga našeg proslavljenog nogometaša na vlastitom je sinu
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="globus-zivot media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-zivot/tata-mi-je-srbin-mama-muslimanka-kad-bih-u-dubici-bio-sa-srbima-bio-sam-balija-a-s-muslimanima-sam-bio-cetnik-u-zagrebu-sam-bio-glupi-bosanac/5918448/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/tata-mi-je-srbin-mama-muslimanka-kad-bih-u-dubici-bio-sa-srbima-bio-sam-balija-a-s-muslimanima-sam-bio-cetnik-u-zagrebu-sam-bio-glupi-bosanac/5918448/">
-DADO ÆOSIÆ ZA GLOBUS
+<a href="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/">
+GLOBUS
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/tata-mi-je-srbin-mama-muslimanka-kad-bih-u-dubici-bio-sa-srbima-bio-sam-balija-a-s-muslimanima-sam-bio-cetnik-u-zagrebu-sam-bio-glupi-bosanac/5918448/">
-'Tata mi je Srbin, mama Muslimanka. Kad bih u Dubici bio sa Srbima, bio sam balija, a s Muslimanima sam bio èetnik. U Zagrebu sam bio glupi Bosanac'
+<a href="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/">
+PET GODINA PAPE FRANJE Zašto Hrvati (još) ne vole Bergoglia kao što su voljeli Wojtylu: Tko se to u Crkvi u Hrvatskoj boji 'dobrog pape'?
 </a>
 </h4>
 </div>
@@ -1617,19 +1582,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
-<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+<img src="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/ALTERNATES/LANDSCAPE_380/danijela%20martinovi%C4%87%20i%20mama.PNG"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
+data-src-template="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/BINARY/thumbnail/danijela%20martinovi%C4%87%20i%20mama.PNG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Anamarija Asanovic 081216 snimio Sasa Buric"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
@@ -1637,8 +1602,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
-Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+Danijela Martinoviæ majku razveselila darom koji æe pamtiti!
 </a>
 </h4>
 </div>
@@ -2108,14 +2073,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/alkohol-ih-je-trebao-ubiti-no-oni-su-demantirali-medicinu-i-ostali-medu-zivima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1491402427policijakontrola.jpg?v=1491402498" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>NESLAVNI HRVATSKI REKORDERI/Alkohol ih je trebao ubiti, no oni su demantirali medicinu i ostali meðu živima</h4>
+<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2159,34 +2124,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=168&contextPath=1-85-168-&pubId=1&cat=&meta=read-story&objId=7147503&type=article&title=%26%23039%3bZA%c5%a0TO+U%c4%8cIMO+HRVATSKI%3f+ZATO+%c5%a0TO+JE+OVDJE+SAD+NA%c5%a0+DOM%26%23039%3b+Sirijci+i+Ira%c4%8dani+u+RH%3a+%26%23039%3bGlagole+u+prezentu+prepoznajemo+kod+Jinxa%2c+a+vokativ+kod+Tereze!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-zivot%2fzasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze%2f7147503%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=159&contextPath=1-85-159-&pubId=1&cat=&meta=read-story&objId=7160358&type=article&title=IVAN+VRDOLJAK+EKSKLUZIVNO+ZA+GLOBUS+%26%23039%3bPremijer+Plenkovi%c4%87+i+ja+uop%c4%87e+nismo+razgovarali+o+prijevremenim+izborima.+%c4%8cemu%3f+Ovo+je+dobra+Vlada%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada%2f7160358%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=168&amp;contextPath=1-85-168-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7147503&amp;type=article&amp;title=%26%23039%3bZA%c5%a0TO+U%c4%8cIMO+HRVATSKI%3f+ZATO+%c5%a0TO+JE+OVDJE+SAD+NA%c5%a0+DOM%26%23039%3b+Sirijci+i+Ira%c4%8dani+u+RH%3a+%26%23039%3bGlagole+u+prezentu+prepoznajemo+kod+Jinxa%2c+a+vokativ+kod+Tereze!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-zivot%2fzasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze%2f7147503%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=159&amp;contextPath=1-85-159-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7160358&amp;type=article&amp;title=IVAN+VRDOLJAK+EKSKLUZIVNO+ZA+GLOBUS+%26%23039%3bPremijer+Plenkovi%c4%87+i+ja+uop%c4%87e+nismo+razgovarali+o+prijevremenim+izborima.+%c4%8cemu%3f+Ovo+je+dobra+Vlada%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada%2f7160358%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-168-&cat=jltags%40eph.hr%2c2016&objId=2046677892&title=Azilanti&url=tag%3ajltags%40eph.hr%2c2016%3aAzilanti&rt=1&ctxId=168&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=1986578652&title=Ivan+Vrdoljak&url=tag%3ajltags%40eph.hr%2c2016%3aIvan_Vrdoljak&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-168-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2046677892&amp;title=Azilanti&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAzilanti&amp;rt=1&amp;ctxId=168&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1986578652&amp;title=Ivan+Vrdoljak&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIvan_Vrdoljak&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-168-&cat=jltags%40eph.hr%2c2016&objId=1783543909&title=Filozofski+fakultet&url=tag%3ajltags%40eph.hr%2c2016%3aFilozofski_fakultet&rt=1&ctxId=168&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=2014876157&title=HNS&url=tag%3ajltags%40eph.hr%2c2016%3aHNS&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-168-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1783543909&amp;title=Filozofski+fakultet&amp;url=tag%3ajltags%40eph.hr%2c2016%3aFilozofski_fakultet&amp;rt=1&amp;ctxId=168&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2014876157&amp;title=HNS&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHNS&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2239,7 +2204,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2249,14 +2214,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/globus/Globus-zivot/zasto-ucimo-hrvatski-zato-sto-je-ovdje-sad-nas-dom-sirijci-i-iracani-u-rh-glagole-u-prezentu-prepoznajemo-kod-jinxa-a-vokativ-kod-tereze/7147503/",
-postId : "7147503",
+url : "https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/",
+postId : "7160358",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "'ZAŠTO UÈIMO HRVATSKI? ZATO ŠTO JE OVDJE SAD NAŠ DOM' Sirijci i Iraèani u RH: 'Glagole u prezentu prepoznajemo kod Jinxa, a vokativ kod Tereze!'",
-pubdate : "2018-03-19 21:00",
-authors : "Boris Orešiæ",
-sections : "Front Page, Globus, Život",
-tags : "Azilanti, Filozofski fakultet",
+title : "IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'",
+pubdate : "2018-03-22 19:00",
+authors : "Jurica Körbler",
+sections : "Front Page, Globus, Politika",
+tags : "Ivan Vrdoljak, HNS",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

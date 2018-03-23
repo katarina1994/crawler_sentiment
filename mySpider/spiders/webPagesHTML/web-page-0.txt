@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Posljednji ispraæaj stožernog generala Petra Stipetiæa održan je na zagrebaèkom groblju Mirogoj uz najviše vojne poèasti, a zapoèeo je poèasnom stražom, u kojoj se izmjenilo više od stotinu sudionika, piše MORH." />
-<meta name="keywords" content="Petar Stipetiæ, pogreb" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Sporazum Agrokora i Sberbanka prema kojem æe izvanredna uprava koncerna povuæi osporavanje potraživanja ruske banke, a Rusi zauzvrat povuæi tužbe podignute diljem regije i u Engleskoj, ustvari je, slaže se veæina analitièara s kojima smo razgovarali, “dogovor o tome da smo se dogovorili da se dogovorimo”." />
+<meta name="keywords" content="Agrokor, Sberbank" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>TUGA NA MIROGOJU &#039;Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom&#039; - Jutarnji List</title>
+<title>SLUÈAJ AGROKOR PRED RASPLETOM Sve je jasnije tko æe postati novi veæinski vlasnik nekadašnjeg Todoriæevog koncerna! - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -16,7 +16,7 @@ window.Criteo = window.Criteo || {};
 window.Criteo.events = window.Criteo.events || [];
 </script>
 <section>
-<!-- DFP verzija 9 -->
+<!-- DFP verzija 9.1 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -176,15 +176,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "AT";
+var dfpCountryCode = "BA";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
 var dfpCategory = "Hrvatska";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7151313";
-var dfpArticleKeyword = "Petar Stipetiæ";
+var dfpArticle = "7160307";
+var dfpArticleKeyword = "Agrokor";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -445,7 +445,6 @@ if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
 pbjs.setPriceGranularity(dfpPrebidGranularity);
-pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -608,8 +607,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/slucaj-agrokor-pred-raspletom-sve-je-jasnije-tko-ce-postati-novi-vecinski-vlasnik-nekadasnjeg-todoricevog-koncerna/7160307/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/slucaj-agrokor-pred-raspletom-sve-je-jasnije-tko-ce-postati-novi-vecinski-vlasnik-nekadasnjeg-todoricevog-koncerna/7160307/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -622,21 +621,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/pogrebjpg/7151676/ALTERNATES/LANDSCAPE_1180/pogreb.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/agrokor-znakjpg/7153086/ALTERNATES/LANDSCAPE_1180/Agrokor%20znak.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/pogrebjpg/7151676/ALTERNATES/LANDSCAPE_1180/pogreb.jpg">
-<meta property="og:title" content="TUGA NA MIROGOJU 'Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/agrokor-znakjpg/7153086/ALTERNATES/LANDSCAPE_1180/Agrokor%20znak.jpg">
+<meta property="og:title" content="SLUÈAJ AGROKOR PRED RASPLETOM Sve je jasnije tko æe postati novi veæinski vlasnik nekadašnjeg Todoriæevog koncerna!" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/slucaj-agrokor-pred-raspletom-sve-je-jasnije-tko-ce-postati-novi-vecinski-vlasnik-nekadasnjeg-todoricevog-koncerna/7160307/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Posljednji ispraæaj stožernog generala Petra Stipetiæa održan je na zagrebaèkom groblju Mirogoj uz najviše vojne poèasti, a zapoèeo je poèasnom stražom, u kojoj se izmjenilo više od stotinu sudionika, piše MORH." />
+<meta property="og:description" content="Sporazum Agrokora i Sberbanka prema kojem æe izvanredna uprava koncerna povuæi osporavanje potraživanja ruske banke, a Rusi zauzvrat povuæi tužbe podignute diljem regije i u Engleskoj, ustvari je, slaže se veæina analitièara s kojima smo razgovarali, “dogovor o tome da smo se dogovorili da se dogovorimo”." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="TUGA NA MIROGOJU 'Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom'">
-<meta name="twitter:description" content="Posljednji ispraæaj stožernog generala Petra Stipetiæa održan je na zagrebaèkom groblju Mirogoj uz najviše vojne poèasti, a zapoèeo je poèasnom stražom, u kojoj se izmjenilo više od stotinu sudionika, piše MORH.">
+<meta name="twitter:creator" content="Frenki Laušiæ">
+<meta name="twitter:title" content="SLUÈAJ AGROKOR PRED RASPLETOM Sve je jasnije tko æe postati novi veæinski vlasnik nekadašnjeg Todoriæevog koncerna!">
+<meta name="twitter:description" content="Sporazum Agrokora i Sberbanka prema kojem æe izvanredna uprava koncerna povuæi osporavanje potraživanja ruske banke, a Rusi zauzvrat povuæi tužbe podignute diljem regije i u Engleskoj, ustvari je, slaže se veæina analitièara s kojima smo razgovarali, “dogovor o tome da smo se dogovorili da se dogovorimo”.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -660,8 +659,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-03-20T17:36+01:00",
-author: "Aleksandra Vladiæ",
+pubdate: "2018-03-23T14:15+01:00",
+author: "Frenki Laušiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -1208,11 +1207,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ISPRAÆAJ GENERALA
+PROMJENA SMJERA
 </p>
 <h1
 class="title">
-TUGA NA MIROGOJU 'Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom'
+SLUÈAJ AGROKOR PRED RASPLETOM Sve je jasnije tko æe postati novi veæinski vlasnik nekadašnjeg Todoriæevog koncerna!
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1220,7 +1219,7 @@ TUGA NA MIROGOJU 'Vjerujem da æe nad tugom prevladati ponos jer smo život dijeli
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li>Frenki Laušiæ</li>
 </ul>
 </p>
 </li>
@@ -1228,7 +1227,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-20.03.2018. u 17:36
+23.03.2018. u 14:15
 </p>
 </li>
 </ul>
@@ -1240,21 +1239,24 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/pogrebjpg/7151676" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/agrokor-znakjpg/7153086" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/pogrebjpg/7151676/ALTERNATES/LANDSCAPE_380/pogreb.jpg"
+<img src="https://www.jutarnji.hr/incoming/agrokor-znakjpg/7153086/ALTERNATES/LANDSCAPE_380/Agrokor%20znak.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/pogrebjpg/7151676/BINARY/thumbnail/pogreb.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/agrokor-znakjpg/7153086/BINARY/thumbnail/Agrokor%20znak.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="- 2017. U FOTOGRAFIJAMA CROPIX-a -
+Zagreb, 101217.
+Radnici skidaju znak Agrokora s Ciboninog tornja nakon sto je uprava firme preselila na drugu lokaciju.
+Foto: Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Boris Kovaèev / Hanza Media
 </span>
 </div>
 </div>
@@ -1290,36 +1292,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7151313"
+<div id="content-body-6263871-7160307"
 >
-<p>Posljednji ispraæaj stožernog generala <strong>Petra Stipetiæa</strong> održan je na zagrebaèkom groblju Mirogoj uz najviše vojne poèasti, a zapoèeo je poèasnom stražom, u kojoj se izmjenilo više od stotinu sudionika, piše MORH.</p><p>Ispraæaj je predvodio biskup <strong>Juraj Jezerinac</strong>, a generala su na posljednje poèivalište, uz obitelj i prijatelje, ispratili najviši civilni i vojni dužnosnici, meðu kojima je bio i predsjednik Vlade<strong> Andrej Plenkoviæ. </strong></p><p>Od generala Stipetiæa prigodnim govorom oprostio se umirovljeni stožerni general <strong>Anton Tus</strong>.</p><p>- Ispraæamo te na tvoj posljednji poèinak, a u mislima nam naviru sjeæanja na zajednièko vrijeme sudjelovanja u stvaranju Hrvatske vojske i samostalne države Republike Hrvatske. Na samom poèetku agresije na Republiku Hrvatsku, odazvao si se pozivu Domovine i stavio joj na raspolaganje sve svoje sposobnosti, znanje i energiju. Pred oèima nam je tvoj lik i glas, tvoja mirnoæa i samouvjerenost koja nam je svima davala nade da smo u stanju nositi se s oružjem nadmoænijim neprijateljem. I na taj naèin ispunili smo stoljetnu želju hrvatskog naroda za samostalnom državom Hrvatskom, poruèio je preminulom generalu, izrazivši suæut obitelji u ime Hrvatske vojske.</p><p>- Osjeæamo nenadoknadiv gubitak i tugu, ali vjerujem da æe nad tom tugom prevladati osjeæaj ponosa jer smo ovaj naš život dijelili sa skromnim, razumnim, jednostavnim i dobrim èovjekom - velikim generalom, istaknuo je general Tus, zakljuèivši kako æemo se našeg generala uvijek rado sjeæati i pamtiti ga kao jednog od stvaratelja nove hrvatske povijesti i samostalne države Republike Hrvatske.</p><p>Tus je, kao što je poznato, bio i veliki osobni prijatelj Petra Stipetiæa, a u jednom trenutku nije uspio suspregnuti emocije te je i zaplakao.</p><p> <section>
-<article class="fotogalerije media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Fotogalerije/sahrana-generala-stipetica/7150527/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Fotogalerije/sahrana-generala-stipetica/7150527/">
-<img src="https://www.jutarnji.hr/incoming/stipetic_pogreb24-200318jpg/7150887/ALTERNATES/LANDSCAPE_380/stipetic_pogreb24-200318.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/stipetic_pogreb24-200318jpg/7150887/BINARY/thumbnail/stipetic_pogreb24-200318.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 200318. Pogreb stozernog generala Petra Stipetica na groblju Mirogoj. Foto: Goran Mehkek / CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
- </p><p>Hrvatska i Oružane snage RH od generala su se oprostile preletom MIG-a 21 i poèasnom paljbom u trenucima dok je direktor Glavnog stožera OS RH kontraadmiral <strong>Robert Hranj</strong> obitelji predavao državni stijeg.</p><p>Osim Plenkoviæa na pogrebu su bili i ministar <strong>Damir Krstièeviæ</strong>, <strong>Stjepan Mesiæ</strong>, <strong>Milan Bandiæ</strong>, <strong>Zoran Milanoviæ</strong>, <strong>Davor Bernardiæ</strong>, <strong>Ante Gotovina </strong>i mnogi drugi uglednici.</p><p>U poèasnoj straži uz odar generala Stipetiæa bili su, meðu ostalim, <strong>Predrag Matiæ</strong>, <strong>Davor Bernardiæ</strong>, <strong>Željka Antunoviæ</strong>, <strong>Marija Pejèinoviæ Buriæ</strong>, <strong>Ante Kotromanoviæ</strong>, ministar <strong>Davor Božinoviæ</strong>, ravnatelj policije <strong>Nikola Milina</strong>, zapovjednik Zapovjedništva specijalne policije <strong>Zdravko Janjiæ</strong> i drugi.</p>
+<p>Sporazum Agrokora i Sberbanka prema kojem æe izvanredna uprava koncerna povuæi osporavanje potraživanja ruske banke, a Rusi zauzvrat povuæi tužbe podignute diljem regije i u Engleskoj, ustvari je, slaže se veæina analitièara s kojima smo razgovarali, “dogovor o tome da smo se dogovorili da se dogovorimo”.</p><p>Naime, jasno je da Agrokor mora ispuniti još nekoliko zahtjeva Sberbanka prije nego što Rusi stvarno povuku tužbe, a ni jedni ni drugi za sada ne žele govoriti o kojim je zahtjevima rijeè.</p><h2>Otkup Mercatora</h2><p>Naravno, zbog toga su krenule spekulacije kako je jedan od uvjeta za povlaèenje tužbi da Agrokor od Sberbanka otkupi paket od 18,5 posto dionica Mercatora, a za tih 40 milijuna eura uveæao bi se roll up kredit u korist Sberbanka. Podscenarij toga je da Agrokor otkupi te dionice od Sberbanka bez vezivanja tog poteza s roll upom. Bloomberg je, pak, objavio da Sberbank pregovara s postojeæim roll up vjerovnicima o tome da uðu u roll up sa 200 milijuna eura (100 plus 100), ali tako da se roll up ne poveæava, nego da netko od kreditora izaðe iz roll up kredita. Meðutim, koliko god dogovor izmeðu Agrokora i Sberbanka bio naèelan, analitièari smatraju da æe se sporazum realizirati, ali pozdravljaju razumnu i praktiènu odluku jedne i druge strane.</p><p>Radi se o tome da su se i Sberbank i izvanredna uprava Agrokora na poèetku procesa restrukturiranja koncerna prije godinu dana ponašali kao ovnovi na brvnu, pokazujuæi mišiæe jedni drugima, da bi sada, uz, pretpostavljamo, podršku ostalih vjerovnika u procesu, prešli s “ideologije” na pragmatiènost. Podsjetimo, Sberbank je prije godinu dana tražio da mu se za kredit od 100 milijuna eura iz veljaèe omoguæi stjecanje prava roll upa, odnosno, da za taj kredit dobije pravo prvenstva naplate kao što su ga trebali dobiti novi kreditori nakon 10. travnja. <strong>Ante Ramljak</strong>, tadašnji izvanredni povjerenik, nije pristao na to, a kada je poslije drugim kreditorima priznao pravo na roll up, Rusi nisu htjeli uæi u taj paket jer su smatrali da im je ponuðenih 110 milijuna eura (plus 110 milijuna starog kredita) premalo.</p><p>Potom je Sberbank krenuo u masovno pravno sporenje u kojima je tvrdio da je roll up kredit i èitav proces lex Agrokor neustavan i suprotan insolventnim postupcima u Hrvatskoj i Europi, ali je istodobno bio iznimno aktivan na sjednicama privremenog Vijeæa vjerovnika. Sve to vrijeme Sberbank je najviše “na zubu” imao dobavljaèe, smatrajuæi kako im Ramljak i ostali vjerovnici previše popuštaju u èitavom procesu, a prva naznaka zatopljavanja odnosa izmeðu Rusa i Agrokora dogodila se u prosincu prošle godine, kada je Ramljak predstavio prijedlog modela naplate vjerovnika koji je<strong> Marica Vidakoviæ</strong> uime dobavljaèa doslovno poderala.</p><h2>Promjena smjera</h2><p>Meðutim, uskoro je Ramljak donekle izmijenio taj prijedlog i “skrenuo ga prema dobavljaèima, što je Ruse razljutilo, a posebno su bili bijesni zbog velike isplate takozvanog graniènog duga dobavljaèima (onog koji je fakturiran prije 10. travnja, a koji je dospio poslije 10. travnja 2017.). Navodno su prije sastanka vjerovnika u Zadru prošlog tjedna prijetili pokretanjem nove tužbe ako se dobavljaèima isplati još ijedna lipa na ime graniènog duga. Ipak, tada je postignut dogovor da æe se dobavljaèima isplatiti èitav granièni dug, što bi znaèilo da bi dobavljaèima na kraju bilo plaæeno ukupno 80 posto graniènog i starog duga.</p><p>Prema informacijama kojima raspolažemo, oko kriterija i modela isplate preostalih 80 milijuna eura još se raspravlja, a iako je sastanak u Splitu službeno završio u srijedu oko 14 sati, vjerovnici su raspravljali u hotelu Le Meridien u Splitu još dugo u noæ, a ne bi bilo èudno da su nastavili i u èetvrtak. Iduæi sastanak Vijeæa vjerovnika je u ponedjeljak, a za sada se èini da je jedan od glavnih smjerova u kojem se kreæe taj proces da æe Sberbank, VTB banka te možda Zagrebaèka banka ili neki drugi vjerovnik prikupiti oko 45 posto vlasništva nad Agrokorom (modelom pretvorbe potraživanja u dionice), što æe im dati znaèajnu pregovaraèku polugu za kompletno vlasnièko preuzimanje Agrokora.</p><h2>Amerièki interes</h2><p>Kad je rijeè o ulozi Knighthead Capital Managementa u tom procesu, jasno je da on ima znaèajan udjel u roll up kreditu, ali i da vjerojatno nema mnogo ostalih potraživanja koja æe se pretvarati u vlasništvo novog Agrokora. To znaèi da je “ruski medvjed”, ne bude li veæih iznenaðenja, stavio svoju “šapu” na Agrokor, a u geopolitièkom smislu da vlada <strong>Donalda Trumpa</strong> smatra da to ne ugrožava amerièke interese na ovom podruèju, što je donekle suprotno od - barem je takav bio dojam - amerièke politike za mandata <strong>Baracka Obame</strong>. Prema nekim spekulacijama, ruske bi banke onda refinancirale i 1,06 milijardi eura roll upa, sukladno planu nagodbe vjerovnika koji je predstavio Ante Ramljak, ali i financiranje 530 milijuna eura razluènih kreditora koji æe biti isplaæeni u kešu.</p><p>Taj veliki “izlazni kredit” od 1,6 milijardi eura znaèilo bi da Sberbank u potpunosti kontrolira proces restrukturiranja Agrokora i nakon sklapanja nagodbe, ali i da Rusi u potpunosti preuzimaju rizik vezan za buduænost Agrokora. No, kako se može doznati, Sberbank, ali i drugi vjerovnici, trenutno pregovaraju i o takozvanim “drag along” i “tag along” aranžmanima, koji bi trebali biti dio Sporazuma dionièara (Shareholders Agreement). U opciji “drag along” dionièari koji ulaze u vlasništvo neke tvrtke žele unaprijed obvezati ostale dionièare da, pronaðu li kupca za svoje dionice, i oni prodaju svoje dionice istom kupcu.</p><h2>Modeli otkupa dionica</h2><p>Dakle, ako Sberbank pronaðe kupca za svoje dionice, onda æe i držatelji obveznica morati prodati svoje dionice tom kupcu. Pritom se ili odredi donja cijena dionice ispod koje se taj aranžman ne mora prihvatiti ili se definira da cijena mora biti jednaka prosjeènoj cijeni na burzi ili se odredi formula za izraèun te cijene.</p><p>“Tag along” je “suprotna” opcija i ona obvezuje onoga tko kupuje dionice od nekog dionièara da po toj cijeni kupi dionice i drugog dionièara s kojim je sklopljena “tag along” opcija (pod uvjetom da taj dionièar to želi). Takve aranžmane mogu sklopiti svi dionièari, a mogu ih sklapati pojedinaèni dionièari ili skupine dionièara meðusobno.</p><p>Postanu li ruske banke doista veæinski vlasnici Agrokora ili doðe li do toga da kontroliraju proces restrukturiranja putem razlièitih aranžmana, veæini dobavljaèa to baš i ne bi bilo po volji jer se posljednjih godinu dana izmeðu njih vodio interesni rat.</p><p>Tek æe tada sudbina Konzuma i Mercatora dobavljaèima biti iznimno važna, posebno ako se Rusi odluèe za snažnije restrukturiranje maloprodajnog lanca, što bi ukljuèivalo i manju dostupnost njihovih polica robi domaæih dobavljaèa. Toga su dobavljaèi duboko svjesni te dobro znaju da je ono što sada dogovore o graniènom dugu i ostalim uvjetima poslovanja zadnje što mogu uèiniti za sebe jer ubuduæe neæe imati takvu pregovaraèku moæ. Svoju æe kožu skupo prodati, kažu dobavljaèi, a kao što vidimo, taj se “rat” nastavlja. To se najbolje vidi po tome što financijski i pravni savjetnici Vijeæa vjerovnika još nisu imenovani jer se dobavljaèi opiru željama financijskih vjerovnika dok ne dobiju što žele u okviru nagodbe vjerovnika.</p><p>Tek æe se vidjeti znaèi li u svemu tome išta èinjenica da je VTB kupio 29 posto dionica najveæeg lanca supermarketa u Rusiji Magnita ili je to bio samo potez na domaæoj poslovnoj sceni.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7151313 p").filter(function () {
+$("#content-body-6263871-7160307 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1328,16 +1308,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7151313").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7160307").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7151313").children().slice(max).remove();
+$("#content-body-6263871-7160307").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7151313").children().get(0);
+var firstChild = $("#content-body-6263871-7160307").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1375,13 +1355,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/pogreb" class ="label label-default" >
-pogreb
+<a href="https://www.jutarnji.hr/tag/Sberbank" class ="label label-default" >
+Sberbank
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Petar_Stipeti%C4%87" class ="label label-default" >
-Petar Stipetiæ
+<a href="https://www.jutarnji.hr/tag/Agrokor" class ="label label-default" >
+Agrokor
 </a>
 </li>
 </ul>
@@ -1392,15 +1372,45 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
+<article class="tvrtke media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-odrzana-komemoracija-za-generala-stipetica-ministar-krsticevic-otisao-je-izniman-covjek-vojarna-u-karlovcu-od-danas-nosi-njegovo-ime/7150269/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/biznis/tvrtke/agrokor-postigao-dogovor-sa-sberbankom-izvanredni-povjerenik-potvrdio-ruska-banka-ce-povuci-tuzbe-a-agrokor-ce-priznati-njezine-trazbine/7155426/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-odrzana-komemoracija-za-generala-stipetica-ministar-krsticevic-otisao-je-izniman-covjek-vojarna-u-karlovcu-od-danas-nosi-njegovo-ime/7150269/">
-FOTO: ODRŽANA KOMEMORACIJA ZA GENERALA STIPETIÆA Ministar Krstièeviæ: 'Otišao je izniman èovjek. Vojarna u Karlovcu od danas nosi njegovo ime'
+<a href="https://www.jutarnji.hr/biznis/tvrtke/agrokor-postigao-dogovor-sa-sberbankom-izvanredni-povjerenik-potvrdio-ruska-banka-ce-povuci-tuzbe-a-agrokor-ce-priznati-njezine-trazbine/7155426/">
+AGROKOR POSTIGAO DOGOVOR SA SBERBANKOM Izvanredni povjerenik potvrdio: Ruska banka æe povuæi tužbe, a Agrokor æe priznati njezine tražbine
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="financije-i-trzista media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/biznis/financije-i-trzista/efekt-agrokora-nakon-godina-rasta-faktoring-drustva-zavrsila-godinu-sa-900-milijuna-kuna-gubitka/7153077/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/biznis/financije-i-trzista/efekt-agrokora-nakon-godina-rasta-faktoring-drustva-zavrsila-godinu-sa-900-milijuna-kuna-gubitka/7153077/">
+EFEKT AGROKORA Nakon godina rasta faktoring društva završila godinu sa 900 milijuna kuna gubitka
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="tvrtke media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/biznis/tvrtke/dogovor-agrokora-i-sberbanka-rusima-udio-od-20-za-isplatu-roll-upa-i-banaka-novi-kredit-od-16-mlrd-eura/7148088/" data-widget-title="" data-web-position="box"
+data-widget-position="2">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/biznis/tvrtke/dogovor-agrokora-i-sberbanka-rusima-udio-od-20-za-isplatu-roll-upa-i-banaka-novi-kredit-od-16-mlrd-eura/7148088/">
+DOGOVOR AGROKORA I SBERBANKA Rusima udio od 20%, za isplatu roll upa i banaka novi kredit od 1,6 mlrd. eura
 </a>
 </h4>
 </li>
@@ -1419,25 +1429,6 @@ FOTO: ODRŽANA KOMEMORACIJA ZA GENERALA STIPETIÆA Ministar Krstièeviæ: 'Otišao je
 <div class="upscore-pos-7 ">
 <section>
 <div class="elipso products upscore-pos-8">
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.199,00 kn</span>
-<span class="old-price">1.299,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
-</div>
-</div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
 <a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/129549.jpg" alt="PHILIPS FC6408" /></a>
@@ -1459,40 +1450,59 @@ FOTO: ODRŽANA KOMEMORACIJA ZA GENERALA STIPETIÆA Ministar Krstièeviæ: 'Otišao je
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/115409.jpg" alt="PHILIPS GC9620 20" /></a>
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 900,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS GC9620 20</a>
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">parne postaje</a></div>
+<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.799,00 kn</span>
-<span class="old-price">2.699,00 kn</span>
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.199,00 kn</span>
+<span class="old-price">1.299,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 23.02.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
 </div>
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127979.jpg" alt="HP 1XN28EA HP 250 G6" /></a>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/116560.jpg" alt="BRAUN SS5044" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.200,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 1XN28EA HP 250 G6</a>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">BRAUN SS5044</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
+<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">parne postaje</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">3.499,00 kn</span>
-<span class="old-price">3.599,00 kn</span>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.399,00 kn</span>
+<span class="old-price">2.599,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 12.03.2018 do 22.04.2018</a>
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-lg-3 product">
+<div class="img media">
+<a href="https://www.elipso.hr/mali-kucanski/depilatori/PHILIPS-BRI956/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/125095.jpg" alt="PHILIPS BRI956" /></a>
+</div>
+<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/depilatori/PHILIPS-BRI956/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.000,00 kn</a></div>
+<div class="name">
+<a href="https://www.elipso.hr/mali-kucanski/depilatori/PHILIPS-BRI956/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS BRI956</a>
+</div>
+<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/depilatori/PHILIPS-BRI956/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">depilatori</a></div>
+<div class="prices">
+<a href="https://www.elipso.hr/mali-kucanski/depilatori/PHILIPS-BRI956/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">3.499,00 kn</span>
+<span class="old-price">4.499,00 kn</span>
+</a>
+</div>
+<div class="duration">
+<a href="https://www.elipso.hr/mali-kucanski/depilatori/PHILIPS-BRI956/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.02.2018 do 31.03.2018</a>
 </div>
 </div>
 </div>
@@ -1585,7 +1595,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7151313" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7160307" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1619,17 +1629,17 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/">
-PROGNOZA VREMENA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/">
+TRI PAKETA ZA BLOKIRANE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/">
-SVIMA JE DOSTA ZIME, NO NJOJ SE NE NAZIRE KRAJ Evo do kad æe padati snijeg i do kad æe jutra biti u minusu
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/">
+OTKRIVAMO: USKORO 80.000 HRVATA PO SILI ZAKONA IDE U OSOBNI STEÈAJ! Doznali smo detalje paketa mjera kojima država planira riješiti problem blokiranih
 </a>
 </h4>
 </div>
@@ -1641,17 +1651,17 @@ SVIMA JE DOSTA ZIME, NO NJOJ SE NE NAZIRE KRAJ Evo do kad æe padati snijeg i do 
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/">
-'ŠTO JE UOPÆE LAKO?'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/">
+DRAMA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/">
-'NIGDJE NIJE MED I MLIJEKO...' Dalmatinka otišla trbuhom za kruhom: 'Radim isto što sam radila i doma, ali s jednom jako bitnom razlikom...'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/">
+POTPUNI PROMETNI KOLAPS: DALMACIJA ODSJEÈENA OD OSTATKA HRVATSKE Svi cestovni pravci bili blokirani: 'Odgodite svoje putovanje!'
 </a>
 </h4>
 </div>
@@ -1663,17 +1673,17 @@ data-widget-position="0">
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/">
-ŽIVOT NA SELU
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/">
+VISOK VODOSTAJ
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/">
-FARMER IZ STRIZIVOJNE ZAPALIO FACEBOOK Tko je Tvrtko Gaèiæ èiju je videoporuku lopovima pogledalo 80 tisuæa ljudi na internetu
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/">
+VRHUNAC VODENOG VALA PROLAZI KROZ SLAVONIJU, SAVA DOŠLA DOSLOVCE DO RUBA Nevjerojatni prizori iz Sl. Broda, uskoro izvanredne mjere obrane od poplava
 </a>
 </h4>
 </div>
@@ -1685,17 +1695,17 @@ FARMER IZ STRIZIVOJNE ZAPALIO FACEBOOK Tko je Tvrtko Gaèiæ èiju je videoporuku l
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/">
-KLIZIŠTE UZ MORE
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/">
+POPLAVE NA SISAÈKOM PODRUÈJU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/">
-FOTO: DRAMATIÈNI PRIZORI U Posedarju se pokrenulo veliko klizište, ugroženo je 50-ak kuæa, nekima su se u dvorištu pojavili procjepi dugi 20-ak metara
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/">
+FOTO: 'DOSTA MI JE DRŽAVE, ALI NEÆU POBJEÆI KAO MOJ SUSJED!' Voda navire, raste centimetar na sat, a oèajnim stanovnicima jedna stvar nije jasna
 </a>
 </h4>
 </div>
@@ -1733,19 +1743,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
-<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+<img src="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/ALTERNATES/LANDSCAPE_380/danijela%20martinovi%C4%87%20i%20mama.PNG"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
+data-src-template="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/BINARY/thumbnail/danijela%20martinovi%C4%87%20i%20mama.PNG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Anamarija Asanovic 081216 snimio Sasa Buric"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
@@ -1753,8 +1763,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
-Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+Danijela Martinoviæ majku razveselila darom koji æe pamtiti!
 </a>
 </h4>
 </div>
@@ -2224,14 +2234,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/svecenik-uhapsen-s-drogom?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1500446368RTS156BQ.jpg?v=1521553999" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>BOBU BOB, POPU DOP/Drugi sluèaj u mjesec dana: još jedan sveæenik u Srbiji &#039;pao&#039; s travom i amfetaminima</h4>
+<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2275,34 +2285,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7151313&type=article&title=TUGA+NA+MIROGOJU+%26%23039%3bVjerujem+da+%c4%87e+nad+tugom+prevladati+ponos+jer+smo+%c5%beivot+dijelili+sa+skromnim%2c+jednostavnim+i+dobrim+%c4%8dovjekom+-+velikim+generalom%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2ftuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom%2f7151313%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7160307&type=article&title=SLU%c4%8cAJ+AGROKOR+PRED+RASPLETOM+Sve+je+jasnije+tko+%c4%87e+postati+novi+ve%c4%87inski+vlasnik+nekada%c5%a1njeg+Todori%c4%87evog+koncerna!&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fslucaj-agrokor-pred-raspletom-sve-je-jasnije-tko-ce-postati-novi-vecinski-vlasnik-nekadasnjeg-todoricevog-koncerna%2f7160307%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7151313&amp;type=article&amp;title=TUGA+NA+MIROGOJU+%26%23039%3bVjerujem+da+%c4%87e+nad+tugom+prevladati+ponos+jer+smo+%c5%beivot+dijelili+sa+skromnim%2c+jednostavnim+i+dobrim+%c4%8dovjekom+-+velikim+generalom%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2ftuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom%2f7151313%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7160307&amp;type=article&amp;title=SLU%c4%8cAJ+AGROKOR+PRED+RASPLETOM+Sve+je+jasnije+tko+%c4%87e+postati+novi+ve%c4%87inski+vlasnik+nekada%c5%a1njeg+Todori%c4%87evog+koncerna!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fslucaj-agrokor-pred-raspletom-sve-je-jasnije-tko-ce-postati-novi-vecinski-vlasnik-nekadasnjeg-todoricevog-koncerna%2f7160307%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=800378367&title=Petar+Stipeti%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aPetar_Stipeti%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=791488283&title=Agrokor&url=tag%3ajltags%40eph.hr%2c2016%3aAgrokor&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=800378367&amp;title=Petar+Stipeti%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPetar_Stipeti%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=791488283&amp;title=Agrokor&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAgrokor&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=145322733&title=pogreb&url=tag%3ajltags%40eph.hr%2c2016%3apogreb&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=876684674&title=Sberbank&url=tag%3ajltags%40eph.hr%2c2016%3aSberbank&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=145322733&amp;title=pogreb&amp;url=tag%3ajltags%40eph.hr%2c2016%3apogreb&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=876684674&amp;title=Sberbank&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSberbank&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2355,7 +2365,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/slucaj-agrokor-pred-raspletom-sve-je-jasnije-tko-ce-postati-novi-vecinski-vlasnik-nekadasnjeg-todoricevog-koncerna/7160307/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2365,14 +2375,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/tuga-na-mirogoju-vjerujem-da-ce-nad-tugom-prevladati-ponos-jer-smo-zivot-dijelili-sa-skromnim-jednostavnim-i-dobrim-covjekom-velikim-generalom/7151313/",
-postId : "7151313",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/slucaj-agrokor-pred-raspletom-sve-je-jasnije-tko-ce-postati-novi-vecinski-vlasnik-nekadasnjeg-todoricevog-koncerna/7160307/",
+postId : "7160307",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "TUGA NA MIROGOJU 'Vjerujem da æe nad tugom prevladati ponos jer smo život dijelili sa skromnim, jednostavnim i dobrim èovjekom - velikim generalom'",
-pubdate : "2018-03-20 17:36",
-authors : "Aleksandra Vladiæ",
-sections : "Front Page, Hrvatska",
-tags : "Petar Stipetiæ, pogreb",
+title : "SLUÈAJ AGROKOR PRED RASPLETOM Sve je jasnije tko æe postati novi veæinski vlasnik nekadašnjeg Todoriæevog koncerna!",
+pubdate : "2018-03-23 14:15",
+authors : "Frenki Laušiæ",
+sections : "Front Page, Vijesti, Biznis, Tvrtke, Hrvatska",
+tags : "Agrokor, Sberbank",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

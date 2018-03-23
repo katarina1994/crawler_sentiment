@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="ZADARSKI HDZ-ovci TVRDE: KALMETA SE ŽESTOKO SUPROTSTAVIO KRPINI &#034;Da nije Plenkoviæ preuzeo HDZ, Hrvatskom bi vladali Milanoviæ i Pusiæ, a vi biste mogli - lajati na mjesec!&#034;" />
-<meta name="keywords" content="Božidar Kalmeta, HDZ, Andrej Plenkoviæ, Drago Krpina" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Kako se približava dan ratifikacije Istanbulske konvencije, iz Katolièke crkve stižu sve snažnija upozorenja, pa i optužbe protiv politièara koji namjeravaju glasati za spomenuti dokument." />
+<meta name="keywords" content="Glas koncila, Vlado Košiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>KRPININ NAPAD NA PLENKOVIÆA NIJE PROŠAO BEZ ODGOVORA, KALMETA MU OÈITAO BUKVICU &#039;Da nije Plenkoviæ preuzeo HDZ, vi biste samo mogli lajati na mjesec!&#039; - Jutarnji List</title>
+<title>SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: &#039;Treba li uništiti hrvatski narod?&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
@@ -16,7 +16,7 @@ window.Criteo = window.Criteo || {};
 window.Criteo.events = window.Criteo.events || [];
 </script>
 <section>
-<!-- DFP verzija 9 -->
+<!-- DFP verzija 9.1 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -183,8 +183,8 @@ var dfpGalleryUnitNum = 0;
 var dfpCategory = "Hrvatska";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7151250";
-var dfpArticleKeyword = "Božidar Kalmeta";
+var dfpArticle = "7164372";
+var dfpArticleKeyword = "Glas koncila";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -445,7 +445,6 @@ if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
 pbjs.setPriceGranularity(dfpPrebidGranularity);
-pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -606,8 +605,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/krpinin-napad-na-plenkovica-nije-prosao-bez-odgovora-kalmeta-mu-ocitao-bukvicu-da-nije-plenkovic-preuzeo-hdz-vi-biste-samo-mogli-lajati-na-mjesec/7151250/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/krpinin-napad-na-plenkovica-nije-prosao-bez-odgovora-kalmeta-mu-ocitao-bukvicu-da-nije-plenkovic-preuzeo-hdz-vi-biste-samo-mogli-lajati-na-mjesec/7151250/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -620,21 +619,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/tudjman_benkovac9-180315jpg/7151280/ALTERNATES/LANDSCAPE_1180/tudjman_benkovac9-180315.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542/ALTERNATES/LANDSCAPE_1180/sveti_mihovil26-290917.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/tudjman_benkovac9-180315jpg/7151280/ALTERNATES/LANDSCAPE_1180/tudjman_benkovac9-180315.jpg">
-<meta property="og:title" content="KRPININ NAPAD NA PLENKOVIÆA NIJE PROŠAO BEZ ODGOVORA, KALMETA MU OÈITAO BUKVICU 'Da nije Plenkoviæ preuzeo HDZ, vi biste samo mogli lajati na mjesec!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542/ALTERNATES/LANDSCAPE_1180/sveti_mihovil26-290917.jpg">
+<meta property="og:title" content="SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: 'Treba li uništiti hrvatski narod?'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/krpinin-napad-na-plenkovica-nije-prosao-bez-odgovora-kalmeta-mu-ocitao-bukvicu-da-nije-plenkovic-preuzeo-hdz-vi-biste-samo-mogli-lajati-na-mjesec/7151250/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="ZADARSKI HDZ-ovci TVRDE: KALMETA SE ŽESTOKO SUPROTSTAVIO KRPINI "Da nije Plenkoviæ preuzeo HDZ, Hrvatskom bi vladali Milanoviæ i Pusiæ, a vi biste mogli - lajati na mjesec!"" />
+<meta property="og:description" content="Kako se približava dan ratifikacije Istanbulske konvencije, iz Katolièke crkve stižu sve snažnija upozorenja, pa i optužbe protiv politièara koji namjeravaju glasati za spomenuti dokument." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Zadarski.hr">
-<meta name="twitter:title" content="KRPININ NAPAD NA PLENKOVIÆA NIJE PROŠAO BEZ ODGOVORA, KALMETA MU OÈITAO BUKVICU 'Da nije Plenkoviæ preuzeo HDZ, vi biste samo mogli lajati na mjesec!'">
-<meta name="twitter:description" content="ZADARSKI HDZ-ovci TVRDE: KALMETA SE ŽESTOKO SUPROTSTAVIO KRPINI "Da nije Plenkoviæ preuzeo HDZ, Hrvatskom bi vladali Milanoviæ i Pusiæ, a vi biste mogli - lajati na mjesec!"">
+<meta name="twitter:creator" content="Robert Bajruši">
+<meta name="twitter:title" content="SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: 'Treba li uništiti hrvatski narod?'">
+<meta name="twitter:description" content="Kako se približava dan ratifikacije Istanbulske konvencije, iz Katolièke crkve stižu sve snažnija upozorenja, pa i optužbe protiv politièara koji namjeravaju glasati za spomenuti dokument.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -658,8 +657,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-03-20T16:34+01:00",
-author: "Zadarski.hr",
+pubdate: "2018-03-23T17:03+01:00",
+author: "Robert Bajruši",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -1206,11 +1205,10 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-HDZ-ovci OTKRILI DETALJE
-</p>
+VELIKA POBUNA </p>
 <h1
 class="title">
-KRPININ NAPAD NA PLENKOVIÆA NIJE PROŠAO BEZ ODGOVORA, KALMETA MU OÈITAO BUKVICU 'Da nije Plenkoviæ preuzeo HDZ, vi biste samo mogli lajati na mjesec!'
+SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: 'Treba li uništiti hrvatski narod?'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1218,7 +1216,7 @@ KRPININ NAPAD NA PLENKOVIÆA NIJE PROŠAO BEZ ODGOVORA, KALMETA MU OÈITAO BUKVICU 
 <p
 class="authors">
 <ul>
-<li>Zadarski.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/robert-bajrusi">Robert Bajruši</a></li>
 </ul>
 </p>
 </li>
@@ -1226,7 +1224,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-20.03.2018. u 16:34
+23.03.2018. u 17:03
 </p>
 </li>
 </ul>
@@ -1238,33 +1236,34 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/tudjman_benkovac9-180315jpg/7151280" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/tudjman_benkovac9-180315jpg/7151280/ALTERNATES/LANDSCAPE_380/tudjman_benkovac9-180315.jpg"
+<img src="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542/ALTERNATES/LANDSCAPE_380/sveti_mihovil26-290917.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tudjman_benkovac9-180315jpg/7151280/BINARY/thumbnail/tudjman_benkovac9-180315.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542/BINARY/thumbnail/sveti_mihovil26-290917.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Sibenik, 290917.
+Procesija ulicama i svecano misno slavlje povodom Dana grada Sibenika i blagdana svetog Mihovila, zastitnika grada. Na fotografiji: biskup Vlado Kosic.
+Foto: Niksa Stipanicev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Nikša Stipanièev / CROPIX
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Biskup Vlado Košiæ</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1288,17 +1287,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7151250"
+<div id="content-body-6263871-7164372"
 >
-<p>Detalji s proslave obljetnice HDZ-a u Benkovcu iscurili su u javnost u kontekstu nastavka pritisaka na <strong>Andreja Plenkoviæa</strong> s desnog krila stranke, piše <strong><a href="https://zadarski.slobodnadalmacija.hr/kalelarga/clanak/id/537031/da-nije-plenkovic-preuzeo-vodstvo-hdz-a-hrvatskom-bi-vladali-milanovic-i-pusic-a-vi-biste-mogli--lajati-na-mjesec" target="_blank">Zadarski.hr</a></strong>. Mediji su prenijeli dio istupa <strong>Drage Krpine</strong> koji je žestoko opleo po Plenkoviæu ponavljajuæi da bi se èlanovi HDZ-a o Istanbulskoj konvenciji trebali izjasniti na referendumu, a sve je navodno prošlo uz šutnju ministra<strong> Lovre Kušèeviæa</strong> i predsjednika Županijskog odbora HDZ-a <strong>Božidara Kalmete</strong>.</p><p>Meðutim, iz razgovora s nekoliko HDZ-ovaca koji su bili na skupu u Benkovcu saznaje se da je Kalmeta pružio otpor Krpini i žestoko mu se suprotstavio braneæi poziciju premijera Plenkoviæa!</p><p>Da nije Andrej Plenkoviæ preuzeo èelno mjesto u HDZ-u kada je stranka pala na oko 15 posto potpore biraèa i kada su svi bježali od mjesta predsjednika HDZ-a, rekao je po tvrdnjama sugovornika Kalmeta, danas bi Hrvatskom upravljao<strong> Zoran Milanoviæ</strong> kojemu je Hrvatska sluèajna država i <strong>Vesna Pusiæ</strong> po kojoj je Hrvatska bila agresor u BiH, a <strong>Jovanoviæ</strong> bi bio uveo graðanski odgoj u škole. Za to vrijeme vi biste lajali na mjesec i nitko vas u hrvatskoj javnosti ne bi slušao, preprièavaju sadržaj Kalmetinog govora sugovornici portala <strong><a href="https://zadarski.slobodnadalmacija.hr/kalelarga/clanak/id/537031/da-nije-plenkovic-preuzeo-vodstvo-hdz-a-hrvatskom-bi-vladali-milanovic-i-pusic-a-vi-biste-mogli--lajati-na-mjesec" target="_blank">Zadarski.hr</a></strong>.</p><p>- HDZ ne može ostati smrznut i živjeti na poèetku 90-ih godina, stranka mora širiti svoje poglede i politièko djelovanje, privlaèiti ljude i biti u duhu vrijednosti Europske unije, što je želio i <strong>Franjo Tuðman</strong>. Da bi se provodila politika, najprije treba osvojiti povjerenje graðana na izborima, što je moguæe samo ako širimo stranku, a sve je ostalo lajanje na mjesec, poruèio je Krpini bivši ministar Kalmeta tražeæi od HDZ-ovaca da imaju povjerenja u aktualno vodstvo stranke.</p><p>- Kalmeta je žestoko odgovorio Krpini, ustvrdio je da nekada možda nismo ni imali razumijevanja za Tuðmanove odluke, ali smo u njega imali povjerenja, pa bi povjerenja trebalo imati i danas u Andreja Plenkoviæa, preprièava Kalmetin istup u Benkovcu jedan od sugovornika koji je uvjeren da je autor snimke dostavljene medijima sin Drage Krpine.</p><p> <section class="social_embed ">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kabMAQkFMWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</section>
- </p>
+<p>Kako se približava dan ratifikacije Istanbulske konvencije, iz Katolièke crkve stižu sve snažnija upozorenja, pa i optužbe protiv politièara koji namjeravaju glasati za spomenuti dokument.</p><p>Samo u posljednja 24 sata u napade na sve koji podržavaju IK ukljuèili su se biskupi iz kontinentalne Hrvatske, brojni sveæenici, mediji, neki svjetovni redovi i Glas Koncila, službeno glasilo Zagrebaèke nadbiskupije.</p><p>“Treba li uništiti hrvatski narod?” pitao se u urednièkom komentaru <strong>Ivan Mikleniæ</strong>, analizirajuæi temu ratifikacije Istanbulske konvencije. “Rodna ideologija, koja nema ama baš nikakvo znanstveno pokriæe, prokazana je i od <strong>pape Franje</strong>, kao ideologija koja je uperena i protiv postojeæih obitelji i unutrašnjih obiteljskih odnosa, ali i protiv buduænosti odnosno same opstojnosti braka i obitelji jer afirmira ekstremni individualizam”, napisao je glavni urednik <strong>Glasa Koncila.</strong></p><h5>Protiv i franjevci</h5><p>Biskupi iz središnje Hrvatske i Slavonije na èelu s kardinalom<strong> Josipom Bozaniæem</strong> sastali su se u Ðakovu, odakle su takoðer poslali upozorenje Vladi, iako u mirnijem tonu nego što je napravio Glas Koncila: “Biskupi su istaknuli da je HBK veæ progovorila i iznijela svoj stav o tim pitanjima u zajednièkoj poruci od 30. studenoga 2017., naslovljenoj ‘Založiti se za temeljne vrjednote obrazovanja i obitelji’.</p><p>U pobunu protiv ratifikacije Istanbulske ukljuèili su se Franjevaèki svjetovni red i Franjevaèka mladež, priopæenjem kojim “žele izraziti svoje duboko i otvoreno protivljenje”. Glavna zamjerka odnosi se na, kako piše, neprihvatljivo razdvajanje pojmova spola i roda.</p><h5>Kæi 'ono'</h5><p>Oèekivano, najaktivniji je sisaèki biskup <strong>Vlado Košiæ, </strong>koji je pozvao vjernike na demonstracije: “Vrijeme je da izaðemo na ulice, ne dozvolimo da nam kæeri budu ‘Ono’, da nam sinovi budu ‘Ono’, da majke budu ‘Roditelj broj 1’, a oèevi ‘Roditelj broj 2’. Mi nismo roditelji ‘brojevi’, naša djeca nisu ‘Ono’. Idemo svi na Veliki prosvjedni skup protiv ratifikacije Istanbulske konvencije, koji æe se održati u Zagrebu, na Trgu bana Josipa Jelaèiæa, dana 24. 3. 2018. godine, s poèetkom u 11 sati”.</p><p>Košiæ je na Facebooku prosvjednike pozvao na maksimalnu angažiranost jer vremena je malo. “Molimo sve koji se protive ratifikaciji da podijele ovaj post kako bismo postigli maksimum u ovom kratkom vremenu”, objavio je angažirani biskup.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7151250 p").filter(function () {
+$("#content-body-6263871-7164372 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1307,16 +1303,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7151250").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7164372").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7151250").children().slice(max).remove();
+$("#content-body-6263871-7164372").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7151250").children().get(0);
+var firstChild = $("#content-body-6263871-7164372").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1354,23 +1350,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Drago_Krpina" class ="label label-default" >
-Drago Krpina
+<a href="https://www.jutarnji.hr/tag/Vlado_Ko%C5%A1i%C4%87" class ="label label-default" >
+Vlado Košiæ
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Andrej_Plenkovi%C4%87" class ="label label-default" >
-Andrej Plenkoviæ
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/HDZ" class ="label label-default" >
-HDZ
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Bo%C5%BEidar_Kalmeta" class ="label label-default" >
-Božidar Kalmeta
+<a href="https://www.jutarnji.hr/tag/Glas_koncila" class ="label label-default" >
+Glas koncila
 </a>
 </li>
 </ul>
@@ -1381,15 +1367,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media video-jl">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/novi-pritisak-na-plenkovica-jedan-od-utemeljitelja-hdz-a-zestoko-se-obrusio-na-premijera-cijela-dvorana-pljeskala-samo-su-kalmeta-i-kuscevic-sutjeli/7149726/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/sipak-godine-je-biskup-vlado-kosic-siri-netrpeljivost-i-mrznju-napada-homoseksualce-migrante-pobacaj-i-proziva-mlade-zbog-odlaska-iz-hrvatske/7051868/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/novi-pritisak-na-plenkovica-jedan-od-utemeljitelja-hdz-a-zestoko-se-obrusio-na-premijera-cijela-dvorana-pljeskala-samo-su-kalmeta-i-kuscevic-sutjeli/7149726/">
-NOVI PRITISAK NA PLENKOVIÆA Jedan od utemeljitelja HDZ-a žestoko se obrušio na premijera. Cijela dvorana pljeskala, samo su Kalmeta i Kušèeviæ šutjeli
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/sipak-godine-je-biskup-vlado-kosic-siri-netrpeljivost-i-mrznju-napada-homoseksualce-migrante-pobacaj-i-proziva-mlade-zbog-odlaska-iz-hrvatske/7051868/">
+'ŠIPAK' GODINE JE BISKUP VLADO KOŠIÆ 'Širi netrpeljivost i mržnju, napada homoseksualce, migrante, pobaèaj i proziva mlade zbog odlaska iz Hrvatske'
 </a>
 </h4>
 </li>
@@ -1410,59 +1396,21 @@ NOVI PRITISAK NA PLENKOVIÆA Jedan od utemeljitelja HDZ-a žestoko se obrušio na p
 <div class="elipso products upscore-pos-8">
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
 <div class="img media">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/129549.jpg" alt="PHILIPS FC6408" /></a>
 </div>
-<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
+<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.000,00 kn</a></div>
 <div class="name">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS FC6408</a>
 </div>
-<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
+<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
 <div class="prices">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.199,00 kn</span>
-<span class="old-price">1.299,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127997.jpg" alt="GRUNDIG 55GUB8768" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.800,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">GRUNDIG 55GUB8768</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">televizori</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">4.199,00 kn</span>
-<span class="old-price">5.999,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-55GUB8768/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 30.04.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/115409.jpg" alt="PHILIPS GC9620 20" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 900,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS GC9620 20</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">parne postaje</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
 <span class="new-price">1.799,00 kn</span>
-<span class="old-price">2.699,00 kn</span>
+<span class="old-price">2.799,00 kn</span>
 </a>
 </div>
 <div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/PHILIPS-GC9620-20/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 23.02.2018 do 31.03.2018</a>
+<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 15.03.2018 do 31.05.2018</a>
 </div>
 </div>
 <div class="col-xs-6 col-sm-6 col-lg-3 product">
@@ -1482,6 +1430,44 @@ NOVI PRITISAK NA PLENKOVIÆA Jedan od utemeljitelja HDZ-a žestoko se obrušio na p
 </div>
 <div class="duration">
 <a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-lg-3 product">
+<div class="img media">
+<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128355.jpg" alt="GRUNDIG 40GFT6740" /></a>
+</div>
+<div class="savings"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 500,00 kn</a></div>
+<div class="name">
+<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">GRUNDIG 40GFT6740</a>
+</div>
+<div class="tag"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">televizori</a></div>
+<div class="prices">
+<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">2.499,00 kn</span>
+<span class="old-price">2.999,00 kn</span>
+</a>
+</div>
+<div class="duration">
+<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 30.04.2018</a>
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-lg-3 product">
+<div class="img media">
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
+</div>
+<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
+<div class="name">
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
+</div>
+<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
+<div class="prices">
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
+<span class="new-price">1.199,00 kn</span>
+<span class="old-price">1.299,00 kn</span>
+</a>
+</div>
+<div class="duration">
+<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
 </div>
 </div>
 </div>
@@ -1574,7 +1560,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7151250" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7164372" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1608,17 +1594,17 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/">
-PROGNOZA VREMENA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/">
+TRI PAKETA ZA BLOKIRANE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/svima-je-dosta-zime-no-njoj-se-ne-nazire-kraj-evo-do-kad-ce-padati-snijeg-i-do-kad-ce-jutra-biti-u-minusu/7145145/">
-SVIMA JE DOSTA ZIME, NO NJOJ SE NE NAZIRE KRAJ Evo do kad æe padati snijeg i do kad æe jutra biti u minusu
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/">
+OTKRIVAMO: USKORO 80.000 HRVATA PO SILI ZAKONA IDE U OSOBNI STEÈAJ! Doznali smo detalje paketa mjera kojima država planira riješiti problem blokiranih
 </a>
 </h4>
 </div>
@@ -1630,17 +1616,17 @@ SVIMA JE DOSTA ZIME, NO NJOJ SE NE NAZIRE KRAJ Evo do kad æe padati snijeg i do 
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/">
-'ŠTO JE UOPÆE LAKO?'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/">
+DRAMA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/nigdje-nije-med-i-mlijeko-dalmatinka-otisla-trbuhom-za-kruhom-radim-isto-sto-sam-radila-i-doma-ali-s-jednom-jako-bitnom-razlikom/7144404/">
-'NIGDJE NIJE MED I MLIJEKO...' Dalmatinka otišla trbuhom za kruhom: 'Radim isto što sam radila i doma, ali s jednom jako bitnom razlikom...'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/">
+POTPUNI PROMETNI KOLAPS: DALMACIJA ODSJEÈENA OD OSTATKA HRVATSKE Svi cestovni pravci bili blokirani: 'Odgodite svoje putovanje!'
 </a>
 </h4>
 </div>
@@ -1652,17 +1638,17 @@ data-widget-position="0">
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/">
-ŽIVOT NA SELU
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/">
+VISOK VODOSTAJ
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/farmer-iz-strizivojne-zapalio-facebook-tko-je-tvrtko-gacic-ciju-je-videoporuku-lopovima-pogledalo-80-tisuca-ljudi-na-internetu/7144392/">
-FARMER IZ STRIZIVOJNE ZAPALIO FACEBOOK Tko je Tvrtko Gaèiæ èiju je videoporuku lopovima pogledalo 80 tisuæa ljudi na internetu
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/">
+VRHUNAC VODENOG VALA PROLAZI KROZ SLAVONIJU, SAVA DOŠLA DOSLOVCE DO RUBA Nevjerojatni prizori iz Sl. Broda, uskoro izvanredne mjere obrane od poplava
 </a>
 </h4>
 </div>
@@ -1674,17 +1660,17 @@ FARMER IZ STRIZIVOJNE ZAPALIO FACEBOOK Tko je Tvrtko Gaèiæ èiju je videoporuku l
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/">
-KLIZIŠTE UZ MORE
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/">
+POPLAVE NA SISAÈKOM PODRUÈJU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dramaticni-prizori-u-posedarju-se-pokrenulo-veliko-kliziste-ugrozeno-je-50-ak-kuca-nekima-su-se-u-dvoristu-pojavili-procjepi-dugi-20-ak-metara/7143402/">
-FOTO: DRAMATIÈNI PRIZORI U Posedarju se pokrenulo veliko klizište, ugroženo je 50-ak kuæa, nekima su se u dvorištu pojavili procjepi dugi 20-ak metara
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/">
+FOTO: 'DOSTA MI JE DRŽAVE, ALI NEÆU POBJEÆI KAO MOJ SUSJED!' Voda navire, raste centimetar na sat, a oèajnim stanovnicima jedna stvar nije jasna
 </a>
 </h4>
 </div>
@@ -1722,19 +1708,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
-<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+<img src="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/ALTERNATES/LANDSCAPE_380/danijela%20martinovi%C4%87%20i%20mama.PNG"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
+data-src-template="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/BINARY/thumbnail/danijela%20martinovi%C4%87%20i%20mama.PNG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Anamarija Asanovic 081216 snimio Sasa Buric"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
@@ -1742,8 +1728,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
-Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+Danijela Martinoviæ majku razveselila darom koji æe pamtiti!
 </a>
 </h4>
 </div>
@@ -2213,14 +2199,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/svecenik-uhapsen-s-drogom?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1500446368RTS156BQ.jpg?v=1521553999" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>BOBU BOB, POPU DOP/Drugi sluèaj u mjesec dana: još jedan sveæenik u Srbiji &#039;pao&#039; s travom i amfetaminima</h4>
+<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2264,56 +2250,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7151250&type=article&title=KRPININ+NAPAD+NA+PLENKOVI%c4%86A+NIJE+PRO%c5%a0AO+BEZ+ODGOVORA%2c+KALMETA+MU+O%c4%8cITAO+BUKVICU+%26%23039%3bDa+nije+Plenkovi%c4%87+preuzeo+HDZ%2c+vi+biste+samo+mogli+lajati+na+mjesec!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fkrpinin-napad-na-plenkovica-nije-prosao-bez-odgovora-kalmeta-mu-ocitao-bukvicu-da-nije-plenkovic-preuzeo-hdz-vi-biste-samo-mogli-lajati-na-mjesec%2f7151250%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7164372&type=article&title=SVE+SNA%c5%bdNIJI+PRITISAK+KLERA%2c+STI%c5%bdU+SVE+JA%c4%8cA+UPOZORENJA+POLITI%c4%8cARIMA+Crkva+mobilizira+vjernike+na+prosvjed%3a+%26%23039%3bTreba+li+uni%c5%a1titi+hrvatski+narod%3f%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fsve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod%2f7164372%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7151250&amp;type=article&amp;title=KRPININ+NAPAD+NA+PLENKOVI%c4%86A+NIJE+PRO%c5%a0AO+BEZ+ODGOVORA%2c+KALMETA+MU+O%c4%8cITAO+BUKVICU+%26%23039%3bDa+nije+Plenkovi%c4%87+preuzeo+HDZ%2c+vi+biste+samo+mogli+lajati+na+mjesec!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fkrpinin-napad-na-plenkovica-nije-prosao-bez-odgovora-kalmeta-mu-ocitao-bukvicu-da-nije-plenkovic-preuzeo-hdz-vi-biste-samo-mogli-lajati-na-mjesec%2f7151250%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7164372&amp;type=article&amp;title=SVE+SNA%c5%bdNIJI+PRITISAK+KLERA%2c+STI%c5%bdU+SVE+JA%c4%8cA+UPOZORENJA+POLITI%c4%8cARIMA+Crkva+mobilizira+vjernike+na+prosvjed%3a+%26%23039%3bTreba+li+uni%c5%a1titi+hrvatski+narod%3f%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fsve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod%2f7164372%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2011696468&title=Bo%c5%beidar+Kalmeta&url=tag%3ajltags%40eph.hr%2c2016%3aBo%25C5%25BEidar_Kalmeta&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1771751421&title=Glas+koncila&url=tag%3ajltags%40eph.hr%2c2016%3aGlas_koncila&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2011696468&amp;title=Bo%c5%beidar+Kalmeta&amp;url=tag%3ajltags%40eph.hr%2c2016%3aBo%25C5%25BEidar_Kalmeta&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1771751421&amp;title=Glas+koncila&amp;url=tag%3ajltags%40eph.hr%2c2016%3aGlas_koncila&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2014875854&title=HDZ&url=tag%3ajltags%40eph.hr%2c2016%3aHDZ&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1645036036&title=Vlado+Ko%c5%a1i%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aVlado_Ko%25C5%25A1i%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2014875854&amp;title=HDZ&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHDZ&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2038754407&title=Andrej+Plenkovi%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aAndrej_Plenkovi%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2038754407&amp;title=Andrej+Plenkovi%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAndrej_Plenkovi%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=812704771&title=Drago+Krpina&url=tag%3ajltags%40eph.hr%2c2016%3aDrago_Krpina&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=812704771&amp;title=Drago+Krpina&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDrago_Krpina&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1645036036&amp;title=Vlado+Ko%c5%a1i%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aVlado_Ko%25C5%25A1i%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2366,7 +2330,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/krpinin-napad-na-plenkovica-nije-prosao-bez-odgovora-kalmeta-mu-ocitao-bukvicu-da-nije-plenkovic-preuzeo-hdz-vi-biste-samo-mogli-lajati-na-mjesec/7151250/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2376,14 +2340,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/krpinin-napad-na-plenkovica-nije-prosao-bez-odgovora-kalmeta-mu-ocitao-bukvicu-da-nije-plenkovic-preuzeo-hdz-vi-biste-samo-mogli-lajati-na-mjesec/7151250/",
-postId : "7151250",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/",
+postId : "7164372",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "KRPININ NAPAD NA PLENKOVIÆA NIJE PROŠAO BEZ ODGOVORA, KALMETA MU OÈITAO BUKVICU 'Da nije Plenkoviæ preuzeo HDZ, vi biste samo mogli lajati na mjesec!'",
-pubdate : "2018-03-20 16:34",
-authors : "Zadarski.hr",
+title : "SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: 'Treba li uništiti hrvatski narod?'",
+pubdate : "2018-03-23 17:03",
+authors : "Robert Bajruši",
 sections : "Front Page, Hrvatska",
-tags : "Božidar Kalmeta, HDZ, Andrej Plenkoviæ, Drago Krpina",
+tags : "Glas koncila, Vlado Košiæ",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Èesto pokazujemo stanove koji se odlikuju èistim linijama i prozraènošæu. No, danas imamo za vas prièu o jednom malom stanu koji je za sebe uredila bivša glumica i uz puno smisla za boje pokazala kako se ne boji &#039;natrpati&#039; svoj prostor dragim stvarima." />
-<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Glumica balansira izmeðu udobnosti, stila i glamura u ovoj kuæi koju dijeli sa svoja tri sina." />
+<meta name="keywords" content="Sharon Stone" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Stanèiæ s ozbiljnim smislom za dramu - Jutarnji List</title>
+<title>Glumica Sharon Stone je otvarila vrata svog doma - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <section>
-<!-- DFP verzija 9 -->
+<!-- DFP verzija 9.1 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -169,15 +169,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "BA";
+var dfpCountryCode = "RS";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
 var dfpCategory = "Interijeri";
 var dfpCategoryParent = "Dom&Dizajn";
 var dfpRos = "domidizajn-ros";
-var dfpArticle = "7142664";
-var dfpArticleKeyword = "";
+var dfpArticle = "7163898";
+var dfpArticleKeyword = "Sharon Stone";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -438,7 +438,6 @@ if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
 pbjs.setPriceGranularity(dfpPrebidGranularity);
-pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -591,8 +590,8 @@ text-transform: capitalize;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/domidizajn/interijeri/glumica-sharon-stone-je-otvarila-vrata-svog-doma/7163898/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/domidizajn/interijeri/glumica-sharon-stone-je-otvarila-vrata-svog-doma/7163898/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -605,21 +604,21 @@ text-transform: capitalize;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709/ALTERNATES/LANDSCAPE_1180/coco_AT%20(6).jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/domidizajn/interijeri/sharon-stone-collagejpg/7164123/ALTERNATES/LANDSCAPE_1180/Sharon%20Stone%20collage.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709/ALTERNATES/LANDSCAPE_1180/coco_AT%20(6).jpg">
-<meta property="og:title" content="Stanèiæ s ozbiljnim smislom za dramu" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/domidizajn/interijeri/sharon-stone-collagejpg/7164123/ALTERNATES/LANDSCAPE_1180/Sharon%20Stone%20collage.jpg">
+<meta property="og:title" content="Glumica Sharon Stone je otvarila vrata svog doma " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/" />
+<meta property="og:url" content="https://www.jutarnji.hr/domidizajn/interijeri/glumica-sharon-stone-je-otvarila-vrata-svog-doma/7163898/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Èesto pokazujemo stanove koji se odlikuju èistim linijama i prozraènošæu. No, danas imamo za vas prièu o jednom malom stanu koji je za sebe uredila bivša glumica i uz puno smisla za boje pokazala kako se ne boji 'natrpati' svoj prostor dragim stvarima." />
+<meta property="og:description" content="Glumica balansira izmeðu udobnosti, stila i glamura u ovoj kuæi koju dijeli sa svoja tri sina." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Andrea Mariæ">
-<meta name="twitter:title" content="Stanèiæ s ozbiljnim smislom za dramu">
-<meta name="twitter:description" content="Èesto pokazujemo stanove koji se odlikuju èistim linijama i prozraènošæu. No, danas imamo za vas prièu o jednom malom stanu koji je za sebe uredila bivša glumica i uz puno smisla za boje pokazala kako se ne boji 'natrpati' svoj prostor dragim stvarima.">
+<meta name="twitter:creator" content=" Dom i dizajn">
+<meta name="twitter:title" content="Glumica Sharon Stone je otvarila vrata svog doma ">
+<meta name="twitter:description" content="Glumica balansira izmeðu udobnosti, stila i glamura u ovoj kuæi koju dijeli sa svoja tri sina.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -643,8 +642,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Interijeri, Dom&Dizajn, Front Page",
-pubdate: "2018-03-19T20:00+01:00",
-author: "Andrea Mariæ",
+pubdate: "2018-03-23T15:29+01:00",
+author: "Danijela Kovaèeviæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -728,10 +727,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>20.3.</span>2018.
+<span>23.3.</span>2018.
 </p>
 <p class="day">
-utorak
+petak
 </p>
 </div>
 <span class="logo"><a href="/">JutarnjList</a></span>
@@ -1103,6 +1102,11 @@ Savjeti
 Eksterijeri
 </a>
 </li>
+<li class="">
+<a href="https://www.jutarnji.hr/domidizajn/dd-specijali/moj-prvi-stan/">
+Moj prvi stan
+</a>
+</li>
 </ul>
 <ul class="nav navbar-nav socialChannels">
 <li>
@@ -1154,19 +1158,18 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline overline_uppercase">
-DOM GLUMICE
+DOMOVI POZNATIH
 </p>
 <h1
 class="title">
-Stanèiæ s ozbiljnim smislom za dramu
-</h1>
+Glumica Sharon Stone je otvarila vrata svog doma </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
 <li>
 <p
 class="authors">
 <ul>
-<li>Andrea Mariæ</li>
+<li><a href="https://www.jutarnji.hr/autori/dom-i-dizajn"> Dom i dizajn</a></li>
 </ul>
 </p>
 </li>
@@ -1174,7 +1177,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-19.03.2018. u 20:00
+23.03.2018. u 15:29
 </p>
 </li>
 </ul>
@@ -1186,12 +1189,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="interijeri media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/sharon-stone-collagejpg/7164123" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709/ALTERNATES/LANDSCAPE_380/coco_AT%20(6).jpg"
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/sharon-stone-collagejpg/7164123/ALTERNATES/LANDSCAPE_380/Sharon%20Stone%20collage.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-6jpg/7142709/BINARY/thumbnail/coco_AT%20(6).jpg"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/sharon-stone-collagejpg/7164123/BINARY/thumbnail/Sharon%20Stone%20collage.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1199,6 +1202,10 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
 </div>
 </div>
 </section>
@@ -1207,7 +1214,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p align="justify"><u><strong>Èesto pokazujemo stanove koji se odlikuju èistim linijama i prozraènošæu. No, danas imamo za vas prièu o jednom malom stanu koji je za sebe uredila bivša glumica i uz puno smisla za boje pokazala kako se ne boji 'natrpati' svoj prostor dragim stvarima.</strong></u></p>
+<p><u><strong>Glumica balansira izmeðu udobnosti, stila i glamura u ovoj kuæi koju dijeli sa svoja tri sina</strong></u></p>
 </p>
 </section>
 <section>
@@ -1232,19 +1239,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7142664"
+<div id="content-body-6263871-7163898"
 >
-<p align="justify">Smisao za dramatiku jasno prožima njezin dom <strong>od 37 kvadrata</strong>, a zanimljiv je i zbog budžeta u okviru kojeg je 'izrežirana' ta interijerska drama: u stanu doslovce nema skupog predmeta. Ne biste to rekli na prvi pogled, zar ne? Pogotovo kad pogledate raskošno uzglavlje kreveta i golemo ogledalo koje kao da otvara još jednu tajnu prostoriju u budoaru naše domaæice, uèiteljice glume iz New Yorka.</p><p align="justify">Coco - a to je njezino umjetnièko ime - tvrdi kako je stan u kojem živi èisti odraz njezine osobnosti. Posebice voli jake boje, snažnu gestu i kreativnost. I to se vidi iz prostorije u prostoriju.</p><p>
+<p align="justify">Kuæu je kupila prije 25 godina u vrijeme nakon izlaska filma Basic Instinct. U to je vrijeme živjela u relativno skromnom domu ne mareæi puno za sigurnost.  No, kako su ju poèeli sve više proganjati obožavatelji, odluèila je potražiti sigurniji prostor s odgovarajuæim ulazom, isprièala je nedavno u intervjuu za <a href="https://www.architecturaldigest.com" target="_blank">AD</a>.</p><p>
 <section>
 <article class="interijeri media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-14jpg/7142688" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118toc02jpg/7164024" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-14jpg/7142688/ALTERNATES/FREE_380/coco_AT%20(14).jpg"
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118toc02jpg/7164024/ALTERNATES/FREE_380/AD040118TOC02.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-14jpg/7142688/BINARY/thumbnail/coco_AT%20(14).jpg"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118toc02jpg/7164024/BINARY/thumbnail/AD040118TOC02.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1252,48 +1259,29 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
 </div>
-</div>
-</div>
-</article>
-</section>
-<br>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685/ALTERNATES/FREE_380/coco_AT%20(13).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685/BINARY/thumbnail/coco_AT%20(13).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
 </div>
 <div class="picture-caption ">
-<h4>Da voli i sushi, vidi se na duhovitom satu s kazaljkama</h4>
+<h4>Glumica Sharon Stone</h4>
 </div>
 </div>
 </div>
 </article>
 </section>
-</p><p>Dnevna soba obojana je u tamnosive tonove koji istièu žive boje slika; zidovi spavaæe sobe su crveni, a kupaonica ponajviše ružièasta.</p><p>
+ </p><p align="justify">Iako kuæa izgleda kao scenografija iz filmova snimljenih u vrijeme Zlatnog doba Hollywooda, kada ju je kupila bila je u procesu izgradnje, dopuštajuæi glumici da ostavi svoj trag u arhitekturi. U sam je proces ukljuèila restauratore koji su kuæi dali osjeæaj povijesti. Poigrali su se izgledom kamina, zidova i drugim arhitektonskim detaljima bitnim za integritet prostora. </p><p>
 <section>
 <article class="interijeri media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-16jpg/7142694" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone02_sq_1jpg/7163994" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-16jpg/7142694/ALTERNATES/FREE_380/coco_AT%20(16).jpg"
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone02_sq_1jpg/7163994/ALTERNATES/FREE_380/AD040118Stone02_sq_1.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-16jpg/7142694/BINARY/thumbnail/coco_AT%20(16).jpg"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone02_sq_1jpg/7163994/BINARY/thumbnail/AD040118Stone02_sq_1.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1301,239 +1289,10 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
 </div>
-</div>
-</div>
-</article>
-</section>
-<br>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-1jpg/7142673" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-1jpg/7142673/ALTERNATES/FREE_380/coco_AT%20(1).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-1jpg/7142673/BINARY/thumbnail/coco_AT%20(1).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-<br>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-10jpg/7142676" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-10jpg/7142676/ALTERNATES/FREE_380/coco_AT%20(10).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-10jpg/7142676/BINARY/thumbnail/coco_AT%20(10).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-<br>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-15jpg/7142691" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-15jpg/7142691/ALTERNATES/FREE_380/coco_AT%20(15).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-15jpg/7142691/BINARY/thumbnail/coco_AT%20(15).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-<div class="picture-caption ">
-<h4>Stan je danas pun detalja koje vlasnici nešto znaèe i podsjeæaju na drage ljude i trenutke</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
-<br>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-4jpg/7142703" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-4jpg/7142703/ALTERNATES/FREE_380/coco_AT%20(4).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-4jpg/7142703/BINARY/thumbnail/coco_AT%20(4).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">Coco kaže da je ovaj stan prepoznala kao svoj èim ga je prvi put vidjela. U njemu stanuje zadnjih šest godina, a buduæi da nije vlasnica, na neke se krupnije promjene ipak nije odvažila. Kupaonica je tako plod improvizacije i njezinog dekoraterskog talenta. Ploèice koje su ispale jednostavno je bojom zamaskirala... i neæete ih vidjeti na našim fotografijama. - To i linoleum na kuhinjskom podu, to su te dvije stvari s kojima u stanu nisam zadovoljna, kaže ona. Snalažljiva Coco po stilu je definitivno eklektièar.</p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-9jpg/7142718" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-9jpg/7142718/ALTERNATES/FREE_380/coco_AT%20(9).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-9jpg/7142718/BINARY/thumbnail/coco_AT%20(9).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-<br>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-3jpg/7142700" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-3jpg/7142700/ALTERNATES/FREE_380/coco_AT%20(3).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-3jpg/7142700/BINARY/thumbnail/coco_AT%20(3).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-<br>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-2jpg/7142697" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-2jpg/7142697/ALTERNATES/FREE_380/coco_AT%20(2).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-2jpg/7142697/BINARY/thumbnail/coco_AT%20(2).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">- Moje inspiracije izviru iz raznih razdoblja i stilova, kaže Coco. Kad je pitate koji su to izvori, navodi: - Moja majka. Pa razdoblje 80-ih godina 20. stoljeæa. Kazalište. Boje. Oblici. I iznenaðenja!</p><p>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-7jpg/7142712" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-7jpg/7142712/ALTERNATES/FREE_380/coco_AT%20(7).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-7jpg/7142712/BINARY/thumbnail/coco_AT%20(7).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-<br>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-8jpg/7142715" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-8jpg/7142715/ALTERNATES/FREE_380/coco_AT%20(8).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-8jpg/7142715/BINARY/thumbnail/coco_AT%20(8).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-<br>
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-12jpg/7142682" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-12jpg/7142682/ALTERNATES/FREE_380/coco_AT%20(12).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-12jpg/7142682/BINARY/thumbnail/coco_AT%20(12).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
 </div>
 </div>
 </div>
@@ -1541,15 +1300,15 @@ class="media-object adaptive lazy "
 </section>
 </p><p>
 <section>
-<article class="interijeri media galleryCall ">
+<article class="interijeri media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/domace-gnijezdo-ljubiteljice-drame/7142727/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone10_sq_1jpg/7164021" data-widget-title="" data-web-position="box"
 data-widget-position="0">
+<div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/domace-gnijezdo-ljubiteljice-drame/7142727/">
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685/ALTERNATES/LANDSCAPE_380/coco_AT%20(13).jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/coco_at-13jpg/7142685/BINARY/thumbnail/coco_AT%20(13).jpg"
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone10_sq_1jpg/7164021/ALTERNATES/FREE_380/AD040118Stone10_sq_1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone10_sq_1jpg/7164021/BINARY/thumbnail/AD040118Stone10_sq_1.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1557,17 +1316,243 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
-</a>
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
+</div>
 </div>
 </div>
 </article>
 </section>
-</p><p><strong>Foto: </strong><u>Melanie Rieders</u></p><p>Izvor: <a href="https://www.apartmenttherapy.com" target="_blank">Apartment Therapy</a></p>
+</p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone01_sq_1jpg/7164081" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone01_sq_1jpg/7164081/ALTERNATES/FREE_380/AD040118Stone01_sq_1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone01_sq_1jpg/7164081/BINARY/thumbnail/AD040118Stone01_sq_1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone08_sq_1jpg/7164012" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone08_sq_1jpg/7164012/ALTERNATES/FREE_380/AD040118Stone08_sq_1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone08_sq_1jpg/7164012/BINARY/thumbnail/AD040118Stone08_sq_1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p align="justify">U posljednju je renovaciju ukljuèila poznatog dizajnera interijera Douglasa Truesdalea koji se usredotoèio na sve, od boja i tkanina do tlocrta prostorija. Na katu su dodana vrata/pregradni zid s ogledalima  koja dijele dnevni boravak u dvije zasebne zone. Sada se Stone može zabavljati s prijateljima na formalnijoj strani prostora, dok njezina tri sina  - Roan, Laird i Quinn gledaju televiziju i igraju igre s druge strane. Ona i Truesdale takoðer su u cijelosti obnovili kuhinju i revitalizirali blagovaonicu. </p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone09_sq_1jpg/7164015" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone09_sq_1jpg/7164015/ALTERNATES/FREE_380/AD040118Stone09_sq_1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone09_sq_1jpg/7164015/BINARY/thumbnail/AD040118Stone09_sq_1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Glumica sa sinovima</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone04_sq_1jpg/7164000" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone04_sq_1jpg/7164000/ALTERNATES/FREE_380/AD040118Stone04_sq_1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone04_sq_1jpg/7164000/BINARY/thumbnail/AD040118Stone04_sq_1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p align="justify">Kuæa obiluje fotografijama i umjetnièkim djelima kao i nevjerojatnom energijom i kreativnošæu koju je glumica unijela u prostor skupljajuæi vizualne informacije iz palaèa, jahta, Bijele kuæe i brojnih putovanja diljem svijeta.</p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone06_sq_1jpg/7164006" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone06_sq_1jpg/7164006/ALTERNATES/FREE_380/AD040118Stone06_sq_1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone06_sq_1jpg/7164006/BINARY/thumbnail/AD040118Stone06_sq_1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone03_sq_1jpg/7163997" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone03_sq_1jpg/7163997/ALTERNATES/FREE_380/AD040118Stone03_sq_1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone03_sq_1jpg/7163997/BINARY/thumbnail/AD040118Stone03_sq_1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone05_sq_1jpg/7164003" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone05_sq_1jpg/7164003/ALTERNATES/FREE_380/AD040118Stone05_sq_1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone05_sq_1jpg/7164003/BINARY/thumbnail/AD040118Stone05_sq_1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone07_sq_1jpg/7164009" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone07_sq_1jpg/7164009/ALTERNATES/FREE_380/AD040118Stone07_sq_1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/ad040118stone07_sq_1jpg/7164009/BINARY/thumbnail/AD040118Stone07_sq_1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Tierney Gearon
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Sharon Stone i dizajner interijera Douglas Truesdale</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>Foto: <a href="https://www.architecturaldigest.com/contributor/tierney-gearon">Tierney Gearon</a></p><p>Izvor:<a href="https://www.architecturaldigest.com" target="_blank"> architecturaldigest</a></p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7142664 p").filter(function () {
+$("#content-body-6263871-7163898 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1576,16 +1561,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7142664").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7163898").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7142664").children().slice(max).remove();
+$("#content-body-6263871-7163898").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7142664").children().get(0);
+var firstChild = $("#content-body-6263871-7163898").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1620,6 +1605,14 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/Sharon_Stone" class ="label label-default" >
+Sharon Stone
+</a>
+</li>
+</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1706,7 +1699,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7142664" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7163898" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1740,17 +1733,16 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <section>
 <article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/moderni-i-elegantni-obiteljski-dom/7144647/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/stambeni-sklop-jordanovac-pametne-kuce-za-komercijalnu-namjenu-kojima-vlasnici-upravljaju-putem-tableta-ili-pametnog-telefona/7155918/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderni-i-elegantni-obiteljski-dom/7144647/">
-STAN OD 65 KVADRATA
-</a>
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/stambeni-sklop-jordanovac-pametne-kuce-za-komercijalnu-namjenu-kojima-vlasnici-upravljaju-putem-tableta-ili-pametnog-telefona/7155918/">
+JEDINSTVENI PROJEKT U HRVATSKOJ </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderni-i-elegantni-obiteljski-dom/7144647/">
-Moderni i elegantni obiteljski dom
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/stambeni-sklop-jordanovac-pametne-kuce-za-komercijalnu-namjenu-kojima-vlasnici-upravljaju-putem-tableta-ili-pametnog-telefona/7155918/">
+STAMBENI SKLOP JORDANOVAC Pametne kuæe za komercijalnu namjenu kojima vlasnici upravljaju putem tableta ili pametnog telefona
 </a>
 </h4>
 </div>
@@ -1762,16 +1754,17 @@ Moderni i elegantni obiteljski dom
 <section>
 <article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/razigran-i-topao-stan-u-centru-rijeke/7146894/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/mali-ali-elegantni-stan-od-28-kvadrata/7155675/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/razigran-i-topao-stan-u-centru-rijeke/7146894/">
-EGZOTIÈNO UREÐENJE </a>
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/mali-ali-elegantni-stan-od-28-kvadrata/7155675/">
+BESPRIJEKORNO UREÐENJE
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/razigran-i-topao-stan-u-centru-rijeke/7146894/">
-Razigran i topao stan u centru Rijeke </a>
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/mali-ali-elegantni-stan-od-28-kvadrata/7155675/">
+Mali, ali elegantni stan od 28 kvadrata </a>
 </h4>
 </div>
 </div>
@@ -1782,17 +1775,16 @@ Razigran i topao stan u centru Rijeke </a>
 <section>
 <article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/kompaktan-i-udoban-a-ima-svega-34-kvadrata/7141170/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zagrebacki-stan-u-industrijskom-ruhu/7156260/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/kompaktan-i-udoban-a-ima-svega-34-kvadrata/7141170/">
-MODERNO STANOVANJE
-</a>
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/zagrebacki-stan-u-industrijskom-ruhu/7156260/">
+TOTALNO DRUKÈIJI OD DRUGIH </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/kompaktan-i-udoban-a-ima-svega-34-kvadrata/7141170/">
-Kompaktan i udoban, a ima svega 34 kvadrata
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/zagrebacki-stan-u-industrijskom-ruhu/7156260/">
+Zagrebaèki stan u industrijskom ruhu
 </a>
 </h4>
 </div>
@@ -1804,17 +1796,17 @@ Kompaktan i udoban, a ima svega 34 kvadrata
 <section>
 <article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/njezni-mali-stan-u-suterenu/7143522/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/spakirali-su-kofere-i-otisli-na-jug-pogledajte-novi-dom-jedne-sretne-male-obitelji/7150521/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/njezni-mali-stan-u-suterenu/7143522/">
-INTERIJER OD 46 KVADRATA
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/spakirali-su-kofere-i-otisli-na-jug-pogledajte-novi-dom-jedne-sretne-male-obitelji/7150521/">
+STAN OD 85 KVADRATA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/njezni-mali-stan-u-suterenu/7143522/">
-Nježni mali stan u suterenu
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/spakirali-su-kofere-i-otisli-na-jug-pogledajte-novi-dom-jedne-sretne-male-obitelji/7150521/">
+Spakirali su kofere i otišli na jug: pogledajte novi dom jedne sretne male obitelji
 </a>
 </h4>
 </div>
@@ -2302,14 +2294,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/svecenik-uhapsen-s-drogom?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1500446368RTS156BQ.jpg?v=1521553999" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>BOBU BOB, POPU DOP/Drugi sluèaj u mjesec dana: još jedan sveæenik u Srbiji &#039;pao&#039; s travom i amfetaminima</h4>
+<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2353,12 +2345,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=70&contextPath=1-69-70-&pubId=1&cat=&meta=read-story&objId=7142664&type=article&title=Stan%c4%8di%c4%87+s+ozbiljnim+smislom+za+dramu&url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fstancic-s-ozbiljnim-smislom-za-dramu%2f7142664%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=70&contextPath=1-69-70-&pubId=1&cat=&meta=read-story&objId=7163898&type=article&title=Glumica+Sharon+Stone+je+otvarila+vrata+svog+doma&url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fglumica-sharon-stone-je-otvarila-vrata-svog-doma%2f7163898%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=70&amp;contextPath=1-69-70-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7142664&amp;type=article&amp;title=Stan%c4%8di%c4%87+s+ozbiljnim+smislom+za+dramu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fstancic-s-ozbiljnim-smislom-za-dramu%2f7142664%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=70&amp;contextPath=1-69-70-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7163898&amp;type=article&amp;title=Glumica+Sharon+Stone+je+otvarila+vrata+svog+doma&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fglumica-sharon-stone-je-otvarila-vrata-svog-doma%2f7163898%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=182782641&title=Sharon+Stone&url=tag%3ajltags%40eph.hr%2c2016%3aSharon_Stone&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=182782641&amp;title=Sharon+Stone&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSharon_Stone&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2411,7 +2414,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/domidizajn/interijeri/glumica-sharon-stone-je-otvarila-vrata-svog-doma/7163898/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2421,14 +2424,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/domidizajn/interijeri/stancic-s-ozbiljnim-smislom-za-dramu/7142664/",
-postId : "7142664",
+url : "https://www.jutarnji.hr/domidizajn/interijeri/glumica-sharon-stone-je-otvarila-vrata-svog-doma/7163898/",
+postId : "7163898",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Stanèiæ s ozbiljnim smislom za dramu",
-pubdate : "2018-03-19 20:00",
-authors : "Andrea Mariæ",
+title : "Glumica Sharon Stone je otvarila vrata svog doma ",
+pubdate : "2018-03-23 15:29",
+authors : "Danijela Kovaèeviæ",
 sections : "Front Page, Interijeri",
-tags : "",
+tags : "Sharon Stone",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

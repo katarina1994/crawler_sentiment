@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Francusko-rumunjska koalicija stvorila je prije osam godina terenac jeftinih detalja i sirovije izvedbe, ali dopadljiv i èvrst, s dobrom i robusnom francusko-japanskom pogonskom tehnikom i što je posebno važno - povoljnom cijenom. Dosad nije pokazao bitne slabosti…" />
-<meta name="keywords" content="Dacia, Dacia Duster, fotogalerija, test, novi automobili" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Iz sadržaja izdvajamo: intervju sa Matom Rimcem, prvi test novog Audija A8, vozili smo treæu generaciju Mercedesa CLS, usporedili luksuzne limuzine..." />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane - Jutarnji List</title>
+<title>AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <section>
-<!-- DFP verzija 9 -->
+<!-- DFP verzija 9.1 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -173,11 +173,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Rabljeni";
+var dfpCategory = "Aktualno";
 var dfpCategoryParent = "Auto klub";
 var dfpRos = "autoklub-ros";
-var dfpArticle = "7151178";
-var dfpArticleKeyword = "Dacia";
+var dfpArticle = "7162659";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -438,7 +438,6 @@ if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
 pbjs.setPriceGranularity(dfpPrebidGranularity);
-pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -574,8 +573,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -588,21 +587,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049/ALTERNATES/LANDSCAPE_1180/g.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263/ALTERNATES/LANDSCAPE_1180/glavna.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049/ALTERNATES/LANDSCAPE_1180/g.jpg">
-<meta property="og:title" content="TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263/ALTERNATES/LANDSCAPE_1180/glavna.jpg">
+<meta property="og:title" content="AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/" />
+<meta property="og:url" content="https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Francusko-rumunjska koalicija stvorila je prije osam godina terenac jeftinih detalja i sirovije izvedbe, ali dopadljiv i èvrst, s dobrom i robusnom francusko-japanskom pogonskom tehnikom i što je posebno važno - povoljnom cijenom. Dosad nije pokazao bitne slabosti…" />
+<meta property="og:description" content="Iz sadržaja izdvajamo: intervju sa Matom Rimcem, prvi test novog Audija A8, vozili smo treæu generaciju Mercedesa CLS, usporedili luksuzne limuzine..." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Zlatko Horvat">
-<meta name="twitter:title" content="TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane">
-<meta name="twitter:description" content="Francusko-rumunjska koalicija stvorila je prije osam godina terenac jeftinih detalja i sirovije izvedbe, ali dopadljiv i èvrst, s dobrom i robusnom francusko-japanskom pogonskom tehnikom i što je posebno važno - povoljnom cijenom. Dosad nije pokazao bitne slabosti…">
+<meta name="twitter:creator" content=" Auto klub">
+<meta name="twitter:title" content="AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... ">
+<meta name="twitter:description" content="Iz sadržaja izdvajamo: intervju sa Matom Rimcem, prvi test novog Audija A8, vozili smo treæu generaciju Mercedesa CLS, usporedili luksuzne limuzine...">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -625,9 +624,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Rabljeni, Auto klub, Front Page",
-pubdate: "2018-03-20T16:14+01:00",
-author: "Zlatko Horvat",
+data: { section: "Aktualno, Auto klub, Front Page",
+pubdate: "2018-03-23T11:47+01:00",
+author: "Zvonimir Jurèiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -711,10 +710,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>20.3.</span>2018.
+<span>23.3.</span>2018.
 </p>
 <p class="day">
-utorak
+petak
 </p>
 </div>
 <span class="logo"><a href="/">JutarnjList</a></span>
@@ -1066,7 +1065,7 @@ Naslovnica
 Video
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/autoklub/aktualno/">
 Aktualno
 </a>
@@ -1076,7 +1075,7 @@ Aktualno
 Testovi
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/autoklub/rabljeni/">
 Rabljeni
 </a>
@@ -1156,19 +1155,17 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-POLOVNI AUTOMOBILI
-</p>
+BROJ 820 </p>
 <h1
 class="title">
-TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane
-</h1>
+AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
 <li>
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/zlatko-horvat">Zlatko Horvat</a></li>
+<li><a href="https://www.jutarnji.hr/autori/auto-klub"> Auto klub</a></li>
 </ul>
 </p>
 </li>
@@ -1176,29 +1173,29 @@ class="authors">
 <li>
 <p
 class="published-date">
-20.03.2018. u 16:14
+23.03.2018. u 11:47
 </p>
 </li>
 </ul>
 </div>
 <section class="lead_image ">
-<section class="rabljeni media ">
+<section class="aktualno media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049/ALTERNATES/LANDSCAPE_380/g.jpg"
+<img src="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263/ALTERNATES/LANDSCAPE_380/glavna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/rabljeni/gjpg/7151049/BINARY/thumbnail/g.jpg"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263/BINARY/thumbnail/glavna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Dacia Duster rabljeni 2011."
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Marin Tomas
+<span> Auto klub
 </span>
 </div>
 </div>
@@ -1213,7 +1210,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p><strong>Francusko-rumunjska koalicija stvorila je prije osam godina terenac jeftinih detalja i sirovije izvedbe, ali dopadljiv i èvrst, s dobrom i robusnom francusko-japanskom pogonskom tehnikom i što je posebno važno - povoljnom cijenom. Dosad nije pokazao bitne slabosti…</strong></p>
+<p><strong>Iz sadržaja izdvajamo: intervju sa Matom Rimcem, prvi test novog Audija A8, vozili smo treæu generaciju Mercedesa CLS, usporedili luksuzne limuzine...</strong></p>
 </p>
 </section>
 <section>
@@ -1238,50 +1235,28 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7151178"
+<div id="content-body-6263871-7162659"
 >
-<p>Dacia je napravila strašno dobar posao s Dusterom. Prvih godina na isporuku se èekalo mjesecima, razlog je dobro poznat: bio je osjetno jeftiniji od konkurencije, ali zato se lakše bilo pomiriti s tvrdom i jeftinom, ali trajnom plastikom, tekstilnim oblogama i završnom izradom nižih razreda finoæe, veæom bukom u vožnji, skromnom opremom osnovnih izvedbi… No,si je mogao priuštiti i netko tko dotad nije mogao niti pomisliti na novi terenac za pet kopalja moderniji od Lade Nive. <strong>Pritom je pritajeno napadaèki dizajnerski stav</strong>, sa široko razmaknutim kotaèima sugerirao da je Duster sposoban i za teže terene, a povjerenje je ulijevala i provjerena Renaultova tehnologija i cjelokupan izvedbeni stil, a naroèito prodoran Nissanov 4x4 pogon, u verzijama koje su ga imale.</p><p> <section>
-<article class="rabljeni media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151175/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151175/">
-<img src="https://www.jutarnji.hr/autoklub/rabljeni/ggjpg/7151052/ALTERNATES/LANDSCAPE_380/gg.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/rabljeni/ggjpg/7151052/BINARY/thumbnail/gg.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Dacia Duster rabljeni 2011."
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
- </p><p><em>Foto: Marko Mišèeviæ</em></p><p>Gledajuæi Duster prve generacije (redizajniran i poboljšan 2014.), kupce rabljenih èesto zatekne dilema – možda je to bolji izbor od klasiènog auta? Jer, sjedi se povišeno uz pogled na širok i visok prednji dio, što onome tko prvi put sjedne za volan takvog auta godi i uvijek izgleda privlaèno. K tome, visoko odignut od tla (21 cm), s dobrim gumama i dugaèkim hodom ovjesa Duster i samo s prednjim pogonom ostavlja dojam auta sposobnog èvrsto gaziti bespuæa, <strong>koji gradske rubnjake i ležeæe uspornike može jesti za doruèak.</strong> Na terenu izostanak reduktora dobro nadomješta terenskim proraèunom mjenjaèa, pa lako kreæe iz druge brzine i niskim, ali odluènim okretajima grabi težim terenom. I robusnija ukupna izrada odaje dojam auta koji može i „šumom i drumom“.</p><p>
+<p>Najbrži auto magazin u zemlji nakon 14 dana ponovo je na kioscima i pun je materijala za sve istinske ljubitelje autoindustrije i svega vezanog uz automobile! U ovom broju tako otkrivamo kako <strong>ministarstvo mora, prometa i infrastrukture obmanjuje vozaèe </strong>i umjesto vinjeta uvodi još veæe cestarine!</p><p>
 <section>
-<article class="testovi media ">
+<article class="aktualno media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/testovi/gujpg/7151010" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/265077jpeg/7159230" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/testovi/gujpg/7151010/ALTERNATES/FREE_380/gu.jpg"
+<img src="https://www.jutarnji.hr/autoklub/aktualno/265077jpeg/7159230/ALTERNATES/FREE_380/265077.jpeg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/testovi/gujpg/7151010/BINARY/thumbnail/gu.jpg"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/265077jpeg/7159230/BINARY/thumbnail/265077.jpeg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Citroen C4 Picasso 1.6 BlueHDi 2016."
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Marin Tomaš
+<span> HANZA MEDIA
 </span>
 </div>
 </div>
@@ -1289,12 +1264,262 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </p><p>Ali, pri kupnji treba imati u vidu još neke èinjenice. Prvo, tu su svega tri zvjezdice za sigurnost. Drugo, zapušteniji primjerci nisu imuni na pojavu hrðe, a slinjenje ulja motora i mjenjaèa takoðer nisu tako rijetka pojava. No, to se razmjerno lako i jeftino može dovesti u red. Opuštenost u vožnji mogu umanjiti i detalji poput oblika i položaja volana koji traže prilagodbu ili nepreciznog putnog raèunala, zbog kojeg je dio vlasnika znao ostati na cesti bez goriva. <strong>A treba raèunati i na nešto dulji put koèenja. Što se motora tièe</strong>, preporuka je dokazano dobar dizelaš 1.5 dCi, solidne snage (90 i 110 KS) i umjerene potrošnje. U igri je i pouzdan atmosferski benzinac 1.6 (110 KS), ali potrošnja izmeðu 9 i 10 litara daje misliti o ugradnji plinske instalacije. Treba znati i da su omjeri u mjenjaèu, radi bolje prilagodbe terenskoj vožnji, kraæe proraèunati, a takav karakter i na asfaltu traži èeste prebaèaje stupnjeva i zahtijeva malu prilagodbu. Testni primjerak je meðu skupljima ovog godišta, ali u opremi ima i kožu te jaèi dizelaš od 110 KS i 4x4 pogon.</p><p><strong>Ukratko</strong></p><p>Dizelski 1,5-litreni motor optimalan je izbor, posebno u jaèoj izvedbi sa 110 KS. Ima dosta snage i izvan asfalta, a s mjenjaèem sa 6 stupnjeva i potrošnja je umjerena, ispod 7 litara. Robustan ovjes podešen je mekše pa se pri bržem ulasku u zavoj Duster voli nagnuti, ali zato æete ga zavoljeti na lošoj cesti, koju s mesnatim profilom guma bezbolno guta</p><p>Treba znati da udobna sjedala u zavojima imaju slabiju boènu potporu pa tijelo lagano „odlazi“ i da je plastika u odnosu na skuplje aute tvrda i jeftinog dojma. Detalji interijera podsjeæaju na Renault, a i povišeno sjedenje mnogima se dopada, jer pogled na širok i visok poklopac motora ulijeva osjeæaj moæi i sigurnosti. Dobra prostranost i velik prtljažnik laganog pristupa vrline su Dustera, zbog kojih se, kao i radi cijene, lakše oprašta skromnija završna obrada</p><p><strong>RIJEÈ STRUÈNJAKA</strong></p><p>Svaki saèuvan i uredno održavan Duster, kao što je ovaj primjerak, brzo naðe novog vlasnika, tvrdi nam Nikolina Bakula, prodajna savjetnica u MaxxAutu, na zagrebaèkom Žitnjaku.<strong> Na terenu je odlièan za rekreativce poput lovaca i ribièa</strong>, a takvim kupcima baš odgovara njegova jednostavnost i robusnost, a time i otpornost na teže uvjete korištenja. Ovaj primjerak je i malo vožen, pa premda je star sedam godina, na njega dajemo jamstvo dvije godine ili 30.000 kilometara.</p><p><strong>Duster 1.5 dCi 4x4</strong></p><p>Godište 2011.</p><p>Cijena 79.900 kuna</p><p>Kilometraža 68.000</p><p>Motor turbodizelski</p><p>Obujam 1491 ccm</p><p>Snaga 81 kW/110 KS pri 4000/min</p><p>Moment 240 Nm pri 1750/min</p><p>Mjenjaè ruèni, 6 stupnjeva</p><p>Dimenzije 432 x 182 x 163 cm</p><p>Meðuosovinski razmak 267 cm</p><p>Težina 1285 kilograma</p><p>Prtljažnik 475 litara</p><p>Brzina 168 km/h</p><p>0-100 km/h 12,5 sekundi</p><p>Izmjerena potrošnja 6,8 l/100 km</p><p>C02 ispuh 145 g/km</p>
+ </p><p>Donosimo i prve fotografije i detalje<strong> treæe generacije Volkswagen Touarega</strong> koji æe europsku premijeru imati upravo na Zagreb Auto Show-u!</p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/2019-vw-touareg-25-1jpg/7163016" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/2019-vw-touareg-25-1jpg/7163016/ALTERNATES/FREE_380/2019-VW-Touareg-25-1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/2019-vw-touareg-25-1jpg/7163016/BINARY/thumbnail/2019-VW-Touareg-25-1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> VW
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Na usporednom testu ovaj put su se našle<strong> luksuzne limuzine.</strong></p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33614-pmpng/7159251" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33614-pmpng/7159251/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.36.14%20PM.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33614-pmpng/7159251/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.36.14%20PM.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>U Ženevi smo poprièali s glavnom zvijezdom salona - Matom Rimcem koji nam je otkrio sve detalje svog <strong>novog modela C_Two </strong>kao i planove za buduænost kompanije.</p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33556-pmpng/7159248" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33556-pmpng/7159248/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.35.56%20PM.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33556-pmpng/7159248/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.35.56%20PM.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Sjeli smo za upravljaè novog<strong> Mercedesa CLS </strong>i donosimo prve dojmove iz vožnje.</p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/18c0158_021jpg/7159227" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/18c0158_021jpg/7159227/ALTERNATES/FREE_380/18C0158_021.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/18c0158_021jpg/7159227/BINARY/thumbnail/18C0158_021.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Mercedes-Benz CLS 450 4MATIC, designo hyazinthrot metallic; designo Leder Nappa schwarz/titangrau pearl; Kraftstoffverbrauch kombiniert: 7,8 l/100 km; CO2-Emissionen kombiniert: 178 g/km // Mercedes-Benz CLS 450 4MATIC, designo hyacinth red metallic; designo nappa leather black/titanium grey pearl; Fuel consumption combined: 7,8 l/100 km; CO2 emissions combined: 178 g/km"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Daimler AG
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Naravno, ne manjka ni testova, pa se tako na prvom testu našla luksuzna krstarica - novi Audi A8 50 TDI Quattro<strong> kojeg pogoni 268 KS</strong> snažan dizelaš.</p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/dsc_3527jpg/7159233" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/dsc_3527jpg/7159233/ALTERNATES/FREE_380/DSC_3527.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/dsc_3527jpg/7159233/BINARY/thumbnail/DSC_3527.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Marko Mišèeviæ
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Od ostalih testova izdvajamo test Dacije Sandero Stepway 0.9 TCe, redizajniranog Peugeota 308 1.5 BlueHDi i Citroena Grand C4 Picasso <strong>sa 2.0 BlueHDi dizelašem</strong> i 6-stupanjskim automatskim mjenjaèem. Tu je i novi izvještaj sa našeg maraton testa elektriènog Renaulta Zoe.</p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/img_2196jpg/7159236" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/img_2196jpg/7159236/ALTERNATES/FREE_380/IMG_2196.JPG"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/img_2196jpg/7159236/BINARY/thumbnail/IMG_2196.JPG"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Hrvoje Tomiæ
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Na testu rabljenog ovaj put se našla prva generacija Peugeota 508.</p><p>U rubrici servis <strong>èeka vas zanimljiva tema o chip tuningu</strong> koji diže snagu motora i pritom smanjuje potrošnju automobila.</p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/lac_8564jpg/7159239" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/lac_8564jpg/7159239/ALTERNATES/FREE_380/LAC_8564.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/lac_8564jpg/7159239/BINARY/thumbnail/LAC_8564.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Ivan Lackoviæ
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Da potencijal motora s unutrašnjim izgaranjem nije još ni približno iscrpljen dokazuje <strong>Toyotin novi benzinski motor</strong> o kojem možete proèitati sve detalje.</p><p>U rubrici vremeplov<strong> èeka vas prièa o Rudolfu Dieselu,</strong> tvorcu genijalnog izuma starog 126 godina koji je danas postao glavna meta ekoloških aktivista.</p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33628-pmpng/7159254" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33628-pmpng/7159254/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.36.28%20PM.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33628-pmpng/7159254/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.36.28%20PM.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Za ljubitelje motosporta donosimo izvještaj s posljednjih testiranja prije prve utrke sezone F1, detalje s relija u Meksiku i <strong>otvaranja Moto GP sezone u Kataru.</strong></p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33641-pmpng/7159257" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33641-pmpng/7159257/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.36.41%20PM.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33641-pmpng/7159257/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.36.41%20PM.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Uglavnom, i u ovom æe se broju pronaæi za svakog ponešto. Ugodno èitanje!</p><p>
+<section>
+<article class="aktualno media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33524-pmpng/7159242" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33524-pmpng/7159242/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.35.24%20PM.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33524-pmpng/7159242/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.35.24%20PM.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7151178 p").filter(function () {
+$("#content-body-6263871-7162659 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1303,16 +1528,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7151178").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7162659").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7151178").children().slice(max).remove();
+$("#content-body-6263871-7162659").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7151178").children().get(0);
+var firstChild = $("#content-body-6263871-7162659").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1347,34 +1572,6 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/novi_automobili" class ="label label-default" >
-novi automobili
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/test" class ="label label-default" >
-test
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/fotogalerija-1" class ="label label-default" >
-fotogalerija
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Dacia_Duster" class ="label label-default" >
-Dacia Duster
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Dacia" class ="label label-default" >
-Dacia
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1382,36 +1579,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="aktualno media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/zapocela-prodaja-nove-dacije-duster-jedini-u-klasi-ispod-100000-kuna/6951114/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/zapocela-prodaja-nove-dacije-duster-jedini-u-klasi-ispod-100000-kuna/6951114/">
-ZAPOÈELA PRODAJA NOVE DACIJE DUSTER: Jedini u klasi ispod 100.000 kuna!
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="aktualno media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-novu-daciju-duster-kod-koje-niz-dorada-donosi-golemi-iskorak-prodaja-je-zapocela-po-cijeni-od-99900-kuna/6850965/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-novu-daciju-duster-kod-koje-niz-dorada-donosi-golemi-iskorak-prodaja-je-zapocela-po-cijeni-od-99900-kuna/6850965/">
-VOZILI SMO NOVU DACIJU DUSTER kod koje niz dorada donosi golemi iskorak. Prodaja je zapoèela po cijeni od 99.900 kuna
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1491,7 +1658,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7151178" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7162659" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1523,20 +1690,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="rabljeni media c11a none">
+<article class="aktualno media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-peugeot-3008-obiteljski-skrojen-jednovolumenski-suv-po-razumnoj-cijeni/7120941/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/sami-izracunajte-koliko-cete-od-2018-placati-promjenu-vlasnistva-automobila/6848805/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-peugeot-3008-obiteljski-skrojen-jednovolumenski-suv-po-razumnoj-cijeni/7120941/">
-POLOVNI AUTOMOBILI
+<a href="https://www.jutarnji.hr/autoklub/aktualno/sami-izracunajte-koliko-cete-od-2018-placati-promjenu-vlasnistva-automobila/6848805/">
+EKSKLUZIVNI KALKULATOR
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-peugeot-3008-obiteljski-skrojen-jednovolumenski-suv-po-razumnoj-cijeni/7120941/">
-TEST RABLJENOG: PEUGEOT 3008 Obiteljski skrojen jednovolumenski SUV po razumnoj cijeni
-</a>
+<a href="https://www.jutarnji.hr/autoklub/aktualno/sami-izracunajte-koliko-cete-od-2018-placati-promjenu-vlasnistva-automobila/6848805/">
+SAMI IZRAÈUNAJTE KOLIKO ÆETE OD 2018. plaæati promjenu vlasništva automobila </a>
 </h4>
 </div>
 </div>
@@ -1545,19 +1711,19 @@ TEST RABLJENOG: PEUGEOT 3008 Obiteljski skrojen jednovolumenski SUV po razumnoj 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="rabljeni media c11a none">
+<article class="aktualno media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-mercedes-b-klase-luksuzni-prakticar-koji-se-fino-vozi/5369395/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-mercedes-b-klase-luksuzni-prakticar-koji-se-fino-vozi/5369395/">
-POLOVNI AUTOMOBILI
+<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/">
+SEDAM VELIÈANSTVENIH
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-mercedes-b-klase-luksuzni-prakticar-koji-se-fino-vozi/5369395/">
-TEST RABLJENOG Mercedes B-klase Luksuzni praktièar koji se fino vozi
+<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/">
+FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe!
 </a>
 </h4>
 </div>
@@ -1567,19 +1733,18 @@ TEST RABLJENOG Mercedes B-klase Luksuzni praktièar koji se fino vozi
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="rabljeni media c11a none">
+<article class="aktualno media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-bmw-serije-3-e90-ako-je-odrzavan-omiljeni-bavarac-iz-unosa-pun-je-pogodak/4555205/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-video-mitsubishi-eclipse-cross-stigao-u-domace-salone-u-ponudi-samo-benzinac-a-cijene-krecu-od-185900-kuna/7152309/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-bmw-serije-3-e90-ako-je-odrzavan-omiljeni-bavarac-iz-unosa-pun-je-pogodak/4555205/">
-POLOVNA TROJKA
-</a>
+<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-video-mitsubishi-eclipse-cross-stigao-u-domace-salone-u-ponudi-samo-benzinac-a-cijene-krecu-od-185900-kuna/7152309/">
+ZAPOÈELA PRODAJA </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-bmw-serije-3-e90-ako-je-odrzavan-omiljeni-bavarac-iz-unosa-pun-je-pogodak/4555205/">
-Test rabljenog: BMW Serije 3 (e90) Ako je održavan, omiljeni Bavarac iz unosa pun je pogodak
+<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-video-mitsubishi-eclipse-cross-stigao-u-domace-salone-u-ponudi-samo-benzinac-a-cijene-krecu-od-185900-kuna/7152309/">
+FOTO, VIDEO: MITSUBISHI ECLIPSE CROSS stigao u domaæe salone! U ponudi samo benzinac, a cijene kreæu od 185.900 kuna
 </a>
 </h4>
 </div>
@@ -1589,19 +1754,19 @@ Test rabljenog: BMW Serije 3 (e90) Ako je održavan, omiljeni Bavarac iz unosa pu
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="rabljeni media c11a none">
+<article class="aktualno media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-mercedes-c-klase-w204-za-klasu-bolji-od-hrdavog-prethodnika/4720160/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/aktualno/kazne-pristigle-iz-eu-mozete-baciti-ako-ste-dobili-pismo-iz-druge-clanice-unije-s-obavijesti-policije-o-kazni-gotovo-sigurno-je-ne-morate-platiti/7080240/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-mercedes-c-klase-w204-za-klasu-bolji-od-hrdavog-prethodnika/4720160/">
-TRAŽENI POLOVNJAK
+<a href="https://www.jutarnji.hr/autoklub/aktualno/kazne-pristigle-iz-eu-mozete-baciti-ako-ste-dobili-pismo-iz-druge-clanice-unije-s-obavijesti-policije-o-kazni-gotovo-sigurno-je-ne-morate-platiti/7080240/">
+EUCARIS NA KOLJENIMA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/rabljeni-mercedes-c-klase-w204-za-klasu-bolji-od-hrdavog-prethodnika/4720160/">
-RABLJENI MERCEDES C-klase W204 Za klasu bolji od hrðavog prethodnika
+<a href="https://www.jutarnji.hr/autoklub/aktualno/kazne-pristigle-iz-eu-mozete-baciti-ako-ste-dobili-pismo-iz-druge-clanice-unije-s-obavijesti-policije-o-kazni-gotovo-sigurno-je-ne-morate-platiti/7080240/">
+KAZNE PRISTIGLE IZ EU MOŽETE BACITI! Ako ste dobili pismo iz druge èlanice Unije s obavijesti policije o kazni, gotovo sigurno je ne morate platiti
 </a>
 </h4>
 </div>
@@ -1648,19 +1813,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
-<img src="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/ALTERNATES/LANDSCAPE_380/081216_Anamarija%20Asanovic-7.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+<img src="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/ALTERNATES/LANDSCAPE_380/danijela%20martinovi%C4%87%20i%20mama.PNG"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/081216_anamarija-asanovic-7jpg/7150659/BINARY/thumbnail/081216_Anamarija%20Asanovic-7.jpg"
+data-src-template="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/BINARY/thumbnail/danijela%20martinovi%C4%87%20i%20mama.PNG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Anamarija Asanovic 081216 snimio Sasa Buric"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
@@ -1668,8 +1833,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/anamarija-asanovic-ljubavni-brodolom-splitske-dizajnerice/7149477/">
-Anamarija Asanoviæ - ljubavni brodolom splitske dizajnerice
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+Danijela Martinoviæ majku razveselila darom koji æe pamtiti!
 </a>
 </h4>
 </div>
@@ -2139,14 +2304,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/alkohol-ih-je-trebao-ubiti-no-oni-su-demantirali-medicinu-i-ostali-medu-zivima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1491402427policijakontrola.jpg?v=1491402498" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>NESLAVNI HRVATSKI REKORDERI/Alkohol ih je trebao ubiti, no oni su demantirali medicinu i ostali meðu živima</h4>
+<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2190,67 +2355,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=65&contextPath=1-62-65-&pubId=1&cat=&meta=read-story&objId=7151178&type=article&title=TEST+RABLJENOG+DACIA+DUSTER+Voljeli+ga+ili+mrzili%2c+polovni+rumunjski+SUV+ne+pokazuje+izra%c5%beene+mane&url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2frabljeni%2ftest-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane%2f7151178%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=63&contextPath=1-62-63-&pubId=1&cat=&meta=read-story&objId=7162659&type=article&title=AUTO+KLUB+OTKRIVA%3a+Umjesto+obe%c4%87anih+vinjeta+sti%c5%beu+skuplje+cestarine!+Prve+fotografije+novog+VW+Touarega%2c+prvi+test+Audija+A8%2c+sve+o+chip+tuningu...&url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2faktualno%2fauto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu%2f7162659%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=65&amp;contextPath=1-62-65-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7151178&amp;type=article&amp;title=TEST+RABLJENOG+DACIA+DUSTER+Voljeli+ga+ili+mrzili%2c+polovni+rumunjski+SUV+ne+pokazuje+izra%c5%beene+mane&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2frabljeni%2ftest-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane%2f7151178%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=1823400018&title=Dacia&url=tag%3ajltags%40eph.hr%2c2016%3aDacia&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1823400018&amp;title=Dacia&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDacia&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=1130653894&title=Dacia+Duster&url=tag%3ajltags%40eph.hr%2c2016%3aDacia_Duster&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1130653894&amp;title=Dacia+Duster&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDacia_Duster&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=1833423857&title=fotogalerija&url=tag%3ajltags%40eph.hr%2c2016%3afotogalerija-1&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1833423857&amp;title=fotogalerija&amp;url=tag%3ajltags%40eph.hr%2c2016%3afotogalerija-1&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=1896361208&title=test&url=tag%3ajltags%40eph.hr%2c2016%3atest&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1896361208&amp;title=test&amp;url=tag%3ajltags%40eph.hr%2c2016%3atest&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&cat=jltags%40eph.hr%2c2016&objId=903573104&title=novi+automobili&url=tag%3ajltags%40eph.hr%2c2016%3anovi_automobili&rt=1&ctxId=65&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-65-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=903573104&amp;title=novi+automobili&amp;url=tag%3ajltags%40eph.hr%2c2016%3anovi_automobili&amp;rt=1&amp;ctxId=65&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=63&amp;contextPath=1-62-63-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7162659&amp;type=article&amp;title=AUTO+KLUB+OTKRIVA%3a+Umjesto+obe%c4%87anih+vinjeta+sti%c5%beu+skuplje+cestarine!+Prve+fotografije+novog+VW+Touarega%2c+prvi+test+Audija+A8%2c+sve+o+chip+tuningu...&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2faktualno%2fauto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu%2f7162659%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2303,7 +2413,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2313,14 +2423,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/autoklub/rabljeni/test-rabljenog-dacia-duster-voljeli-ga-ili-mrzili-polovni-rumunjski-suv-ne-pokazuje-izrazene-mane/7151178/",
-postId : "7151178",
+url : "https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/",
+postId : "7162659",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "TEST RABLJENOG DACIA DUSTER Voljeli ga ili mrzili, polovni rumunjski SUV ne pokazuje izražene mane",
-pubdate : "2018-03-20 16:14",
-authors : "Zlatko Horvat",
-sections : "Front Page, Auto klub, Rabljeni",
-tags : "Dacia, Dacia Duster, fotogalerija, test, novi automobili",
+title : "AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... ",
+pubdate : "2018-03-23 11:47",
+authors : "Zvonimir Jurèiæ",
+sections : "Front Page, Auto klub, Aktualno",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */
