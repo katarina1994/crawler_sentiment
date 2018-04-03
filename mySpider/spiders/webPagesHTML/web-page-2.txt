@@ -2,21 +2,21 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Novi ugovori za provoðenje zdravstvene zaštite koji bi se uskoro trebali potpisati s primarnom zdravstvenom zaštitom (PZZ) i prije nego što su “ispeglani” prijedlozima iz e-savjetovanja, koje se provodilo prošlih mjesec dana, izazvali su nezadovoljstvo lijeènika obiteljske medicine, ginekologa, pedijatara i stomatologa." />
-<meta name="keywords" content="zdravstvo, Lijeènici" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Gallupovo istraživanje iz kolovoza 2017. svrstalo je Hrvatsku meðu države èiji su graðani najmanje prijateljski raspoloženi prema migrantima i izbjeglicama, a od 139 država iza Hrvatske su samo Estonija, Èeška, Latvija, Izrael, Slovaèka, Srbija, Maðarska, Crna Gora i Makedonija. Veæina ovih država, najzatvorenijih prema migrantima, smještena je na tzv. balkanskoj migrantskoj ruti, koja se tijekom 2015. protezala od Grèke do Njemaèke. U Hrvatskoj 40 posto ispitanih graðana ne želi Sirijce, a 39 posto ih smatra da bi ih država mogla prihvatiti..., navodi se, meðu ostalim, u izvješæu puèke pravobraniteljice Lore Vidoviæ za 2017. godinu." />
+<meta name="keywords" content="puèka pravobraniteljica, Izbjeglice, migranti u Hrvatskoj, istraživanje javnog mnijenja" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>&#039;NEÆEMO RADITI NIŠTA ŠTO NE BUDE PLAÆENO&#039; Novi ugovori izazvali pobunu meðu lijeènicima obiteljske medicine, ginekolozima, pedijatrima i stomatolozima - Jutarnji List</title>
+<title>UGLEDNA MEÐUNARODNA KUÆA PROVELA VELIKO ISTRAŽIVANJE O DISKRIMINACIJI U RH Kako Hrvati gledaju na miješane brakove sa Srbima, na Rome, izbjeglice... - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
-<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
 <script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
 <script>
 window.Criteo = window.Criteo || {};
 window.Criteo.events = window.Criteo.events || [];
 </script>
 <section>
-<!-- DFP verzija 9.1 -->
+<!-- DFP verzija 11 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -63,7 +63,8 @@ dfpUnits = {
 "connectad": {"placementId": "634"},
 "appnexus": {"placementId": "12512215"},
 "criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"}
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
 },
 },
 "div-gpt-ad-1459756830165-1" : {
@@ -72,11 +73,18 @@ dfpUnits = {
 "size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
 "sizeType" : "aside",
 "container" : "jl-banner-wrapper-2",
-"lazyLoad" : true,
+"lazyLoad" : false,
 "mobile" : false,
 "deviceType" : "desktop",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
 },
 "div-gpt-ad-1459756830165-2" : {
 "slot" : "billboard",
@@ -117,13 +125,15 @@ dfpUnits = {
 "connectad": {"placementId": "1024"},
 "appnexus": {"placementId": "12512211"},
 "criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"}
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
 },
 "prebidConfigMobile" : {
 "connectad": {"placementId": "637"},
 "appnexus": {"placementId": "12512220"},
 "criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"}
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
 },
 },
 "div-gpt-ad-1459756830165-8" : {
@@ -136,7 +146,21 @@ dfpUnits = {
 "mobile" : true,
 "deviceType" : "all",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
 },
 "div-gpt-ad-1459756830165-9" : {
 "slot" : "inarticle3",
@@ -176,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "US";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
 var dfpCategory = "Hrvatska";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7160475";
-var dfpArticleKeyword = "zdravstvo";
+var dfpArticle = "7201014";
+var dfpArticleKeyword = "puèka pravobraniteljica";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -413,6 +437,8 @@ bidderParams = unitData[unitPrebidConfigParam][bidderName];
 if (bidderName === 'connectad') {
 bidderParams['networkId'] = '10047';
 bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
 }
 var bidderData = {bidder: bidderName, params: bidderParams};
 unitBids.push(bidderData);
@@ -444,7 +470,9 @@ googletag.pubads().refresh(dfpRefreshPrebidUnits);
 if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
 pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -545,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -605,8 +635,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/necemo-raditi-nista-sto-ne-bude-placeno-novi-ugovori-izazvali-pobunu-medu-lijecnicima-obiteljske-medicine-ginekolozima-pedijatrima-i-stomatolozima/7160475/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/necemo-raditi-nista-sto-ne-bude-placeno-novi-ugovori-izazvali-pobunu-medu-lijecnicima-obiteljske-medicine-ginekolozima-pedijatrima-i-stomatolozima/7160475/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/ugledna-medunarodna-kuca-provela-veliko-istrazivanje-o-diskriminaciji-u-rh-kako-hrvati-gledaju-na-mijesane-brakove-sa-srbima-na-rome-izbjeglice/7201014/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/ugledna-medunarodna-kuca-provela-veliko-istrazivanje-o-diskriminaciji-u-rh-kako-hrvati-gledaju-na-mijesane-brakove-sa-srbima-na-rome-izbjeglice/7201014/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -619,21 +649,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/jjjjjpg/7160484/ALTERNATES/LANDSCAPE_1180/jjjj.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/zaljubljeni-par/5345999/ALTERNATES/LANDSCAPE_1180/zaljubljeni%20par" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/jjjjjpg/7160484/ALTERNATES/LANDSCAPE_1180/jjjj.jpg">
-<meta property="og:title" content="'NEÆEMO RADITI NIŠTA ŠTO NE BUDE PLAÆENO' Novi ugovori izazvali pobunu meðu lijeènicima obiteljske medicine, ginekolozima, pedijatrima i stomatolozima" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/zaljubljeni-par/5345999/ALTERNATES/LANDSCAPE_1180/zaljubljeni%20par">
+<meta property="og:title" content="UGLEDNA MEÐUNARODNA KUÆA PROVELA VELIKO ISTRAŽIVANJE O DISKRIMINACIJI U RH Kako Hrvati gledaju na miješane brakove sa Srbima, na Rome, izbjeglice..." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/necemo-raditi-nista-sto-ne-bude-placeno-novi-ugovori-izazvali-pobunu-medu-lijecnicima-obiteljske-medicine-ginekolozima-pedijatrima-i-stomatolozima/7160475/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/ugledna-medunarodna-kuca-provela-veliko-istrazivanje-o-diskriminaciji-u-rh-kako-hrvati-gledaju-na-mijesane-brakove-sa-srbima-na-rome-izbjeglice/7201014/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Novi ugovori za provoðenje zdravstvene zaštite koji bi se uskoro trebali potpisati s primarnom zdravstvenom zaštitom (PZZ) i prije nego što su “ispeglani” prijedlozima iz e-savjetovanja, koje se provodilo prošlih mjesec dana, izazvali su nezadovoljstvo lijeènika obiteljske medicine, ginekologa, pedijatara i stomatologa." />
+<meta property="og:description" content="Gallupovo istraživanje iz kolovoza 2017. svrstalo je Hrvatsku meðu države èiji su graðani najmanje prijateljski raspoloženi prema migrantima i izbjeglicama, a od 139 država iza Hrvatske su samo Estonija, Èeška, Latvija, Izrael, Slovaèka, Srbija, Maðarska, Crna Gora i Makedonija. Veæina ovih država, najzatvorenijih prema migrantima, smještena je na tzv. balkanskoj migrantskoj ruti, koja se tijekom 2015. protezala od Grèke do Njemaèke. U Hrvatskoj 40 posto ispitanih graðana ne želi Sirijce, a 39 posto ih smatra da bi ih država mogla prihvatiti..., navodi se, meðu ostalim, u izvješæu puèke pravobraniteljice Lore Vidoviæ za 2017. godinu." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Goranka Jureško">
-<meta name="twitter:title" content="'NEÆEMO RADITI NIŠTA ŠTO NE BUDE PLAÆENO' Novi ugovori izazvali pobunu meðu lijeènicima obiteljske medicine, ginekolozima, pedijatrima i stomatolozima">
-<meta name="twitter:description" content="Novi ugovori za provoðenje zdravstvene zaštite koji bi se uskoro trebali potpisati s primarnom zdravstvenom zaštitom (PZZ) i prije nego što su “ispeglani” prijedlozima iz e-savjetovanja, koje se provodilo prošlih mjesec dana, izazvali su nezadovoljstvo lijeènika obiteljske medicine, ginekologa, pedijatara i stomatologa.">
+<meta name="twitter:creator" content="Tanja Rudež">
+<meta name="twitter:title" content="UGLEDNA MEÐUNARODNA KUÆA PROVELA VELIKO ISTRAŽIVANJE O DISKRIMINACIJI U RH Kako Hrvati gledaju na miješane brakove sa Srbima, na Rome, izbjeglice...">
+<meta name="twitter:description" content="Gallupovo istraživanje iz kolovoza 2017. svrstalo je Hrvatsku meðu države èiji su graðani najmanje prijateljski raspoloženi prema migrantima i izbjeglicama, a od 139 država iza Hrvatske su samo Estonija, Èeška, Latvija, Izrael, Slovaèka, Srbija, Maðarska, Crna Gora i Makedonija. Veæina ovih država, najzatvorenijih prema migrantima, smještena je na tzv. balkanskoj migrantskoj ruti, koja se tijekom 2015. protezala od Grèke do Njemaèke. U Hrvatskoj 40 posto ispitanih graðana ne želi Sirijce, a 39 posto ih smatra da bi ih država mogla prihvatiti..., navodi se, meðu ostalim, u izvješæu puèke pravobraniteljice Lore Vidoviæ za 2017. godinu.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -657,8 +687,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-03-23T19:10+01:00",
-author: "Goranka Jureško",
+pubdate: "2018-04-03T18:24+02:00",
+author: "Tanja Rudež",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -1205,11 +1235,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-SVE VEÆE NEZADOVOLJSTVO
+GALLUP
 </p>
 <h1
 class="title">
-'NEÆEMO RADITI NIŠTA ŠTO NE BUDE PLAÆENO' Novi ugovori izazvali pobunu meðu lijeènicima obiteljske medicine, ginekolozima, pedijatrima i stomatolozima
+UGLEDNA MEÐUNARODNA KUÆA PROVELA VELIKO ISTRAŽIVANJE O DISKRIMINACIJI U RH Kako Hrvati gledaju na miješane brakove sa Srbima, na Rome, izbjeglice...
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1217,7 +1247,7 @@ class="title">
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/goranka-juresko">Goranka Jureško</a></li>
+<li><a href="https://www.jutarnji.hr/autori/tanja-rudez">Tanja Rudež</a></li>
 </ul>
 </p>
 </li>
@@ -1225,7 +1255,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-23.03.2018. u 19:10
+03.04.2018. u 18:24
 </p>
 </li>
 </ul>
@@ -1237,12 +1267,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/jjjjjpg/7160484" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/zaljubljeni-par/5345999" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/jjjjjpg/7160484/ALTERNATES/LANDSCAPE_380/jjjj.jpg"
+<img src="https://www.jutarnji.hr/incoming/zaljubljeni-par/5345999/ALTERNATES/LANDSCAPE_380/zaljubljeni%20par"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/jjjjjpg/7160484/BINARY/thumbnail/jjjj.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/zaljubljeni-par/5345999/BINARY/thumbnail/zaljubljeni%20par"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1251,18 +1281,19 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Željko Puhovski / CROPIX
+<span> Pixabay
 </span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Dr. Josipa Rodiæ</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1286,14 +1317,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7160475"
+<div id="content-body-6263871-7201014"
 >
-<p>Novi ugovori za provoðenje zdravstvene zaštite koji bi se uskoro trebali potpisati s primarnom zdravstvenom zaštitom (PZZ) i prije nego što su “ispeglani” prijedlozima iz e-savjetovanja, koje se provodilo prošlih mjesec dana, izazvali su nezadovoljstvo lijeènika obiteljske medicine, ginekologa, pedijatara i stomatologa. </p><h2>Smanjenje prihoda </h2><p>Naime, Hrvatski zavod za zdravstveno osiguranje predlaže da se dio dosad posebno plaæenih usluga kroz tzv. DTP-ove (dijagnostièko-terapijski postupci) mogu plaæati i kroz osnovni paket usluga koji se pokriva kroz glavarine i hladni pogon u primarnoj zdravstvenoj zaštiti.</p><p>U KoHOM-u, HDOD-u i HUKPZZ-u, redom udrugama lijeènika primarne zdravstvene zaštite, nezadovoljni su prijedlozima i tvrde da se veæ i po trenutnoj situaciji ne plaæa sve što pružaju pacijentima. No, dok HZZO tvrdi da je i vaðenje krvi, javljanje na telefon, savjetovanje ili naruèivanje na pregled u ordinaciju u osnovnom “paketu” usluga, lijeènici kažu da ubuduæe neæe pružati te usluge jer im to neæe biti posebno plaæeno. </p><p>Naglašavaju da ih èeka smanjenje prihoda i bez ove nove uskrate zbog poveæanja, primjerice, plaæa medicinskih sestara iz prošle godine za ukupno 6 posto, što im ni na koji naèin neæe biti nadoknaðeno.</p><h2>Što je osnovni paket </h2><p>“HZZO namjerava u ‘osnovni paket plaæanja’, tj. DTP nulte kategorije koji èine tzv. hladni pogon i glavarina ‘utrpati’ i neke druge DTP-ove ako lijeènik nije ispunio ‘normu’. Usto, ukida se plaæanje tzv. paketa pet zvjezdica u kojem su telefonske konzultacije, naruèivanje na pregled, vaðenje krvi, sudjelovanje u e-timu i voðenje savjetovališta”, kaže dr. <strong>Josipa Rodiæ</strong>, predsjednica Hrvatske udruge koncesionara primarne zdravstvene zaštite. Dodaje da HZZO namjerava “pretakati” DTP-ove nulte, prve, druge i treæe razine, a to je, smatra, katastrofa. U HZZO-u kažu kako se radi o manjem smanjenju od samo 2,5 posto “dodataka” na kvalitetu, tj. izjednaèavanje s onim bolnièkim. </p><p>Tvrde da æe se standardnom timu s prosjeènih 1700 pacijenta glavarina smanjiti za oko 1200 kuna mjeseèno i da to neæe narušiti njihova primanja, a ne bi smjela biti upitna ni kvaliteta zdravstvene usluge pacijentima. “To bi moglo biti više od 20.000 kuna godišnje po zdravstvenom timu, što je neprihvatljivo”, zakljuèila je dr. Rodiæ. </p>
+<p>Gallupovo istraživanje iz kolovoza 2017. svrstalo je Hrvatsku meðu države èiji su graðani najmanje prijateljski raspoloženi prema migrantima i izbjeglicama, a od 139 država iza Hrvatske su samo Estonija, Èeška, Latvija, Izrael, Slovaèka, Srbija, Maðarska, Crna Gora i Makedonija. Veæina ovih država, najzatvorenijih prema migrantima, smještena je na tzv. balkanskoj migrantskoj ruti, koja se tijekom 2015. protezala od Grèke do Njemaèke. U Hrvatskoj 40 posto ispitanih graðana ne želi Sirijce, a 39 posto ih smatra da bi ih država mogla prihvatiti..., navodi se, meðu ostalim, u izvješæu puèke pravobraniteljice <strong>Lore Vidoviæ</strong> za 2017. godinu.</p><p>U izvješæu se navodi i da je 2017. odobreno samo 208 zahtjeva za meðunarodnu zaštitu. Azilanti, iako imaju priznat status u Hrvatskoj i identifikacijske isprave, vrlo teško pronalaze posao, dok se visokoobrazovani susreæu s visokim troškovima polaganja razlike predmeta, kao i izdavanja licenci struènih komora. Primjerice, za nostrifikaciju i priznavanje kvalifikacije doktori stomatologije, èak i kada su azilanti, moraju izdvojiti izmeðu 18.000 do 45.000 kuna.</p><p>U izvješæu se, nadalje, navodi kako je rasa, etnièka pripadnost ili boja kože te nacionalno podrijetlo najèešæa diskriminacijska osnova u pritužbama koje je Ured puèke pravobraniteljice zaprimio tijekom prošle godine. Kako je istraživanje o prisutnosti predrasuda i stereotipa s kraja 2016. pokazalo da je stupanje u brak s osobom, primjerice, srpske nacionalnosti ili druge boje kože i dalje neprihvatljivo za otprilike petinu graðana, Ured puèke pravobraniteljice prošle je godine lansirao sveobuhvatnu medijsku kampanju &quot;Razlike nisu potrebne. Za društvo bez diskriminacije&quot;.</p><p>No, u izvješæu se istièe da je u odnosu na pripadnike srpske nacionalne manjine i dalje prisutan veæi stupanj socijalne distance i predrasuda pa i mržnje. Prema podacima Srpskog narodnog vijeæa, porastao je broj incidenata u kojima je prisutno vrijeðanje i prijetnje upuæene Srbima i srpskim institucijama u Hrvatskoj.</p><p>&quot;Osobito zabrinjava primjer iz kolovoza 2017., kada su u jeku požarne sezone dvije ženske osobe u dvadesetim godinama osumnjièene za namjerno podmetanje požara kod mjesta naseljenog pretežno Srbima, na što ih je motivirala 'izrazita revoltiranost prema Srbima' zbog paljenja hrvatskih kuæa tijekom Domovinskog rata&quot;, istièe se u izvješæu.</p><p>Posebno je zabrinjavajuæi status pripadnika romske nacionalne manjine, èiji je oèekivani životni vijek vrlo nizak: dok je udio starijih od 65 godina u veæinskoj populaciji 16,8 posto, samo 1,6 posto Roma u Hrvatskoj starije je od 65 godina. Tome svakako pridonosi i materijalno siromaštvo Roma jer njih 40 posto nema dovoljno sredstava za nabavu kvalitetne hrane i plaæanje režija. Romi se od najranije dobi suoèavaju s diskriminacijom, o èemu najbolje govori istraživanje s kraja 2016. o stavovima uèenika osnovnih škola u Varaždinu. To je istraživanje pokazalo da u školi koju polaze romski i hrvatski uèenici 57,4 posto uèenika želi za prijatelja dijete romskog podrijetla, a u školi koju ne polaze Romi prijatelje romskog podrijetla želi samo 17,8 posto uèenika.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7160475 p").filter(function () {
+$("#content-body-6263871-7201014 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1302,16 +1333,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7160475").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7201014").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7160475").children().slice(max).remove();
+$("#content-body-6263871-7201014").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7160475").children().get(0);
+var firstChild = $("#content-body-6263871-7201014").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1349,13 +1380,23 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Lije%C4%8Dnici" class ="label label-default" >
-Lijeènici
+<a href="https://www.jutarnji.hr/tag/istra%C5%BEivanje_javnog_mnijenja" class ="label label-default" >
+istraživanje javnog mnijenja
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/zdravstvo" class ="label label-default" >
-zdravstvo
+<a href="https://www.jutarnji.hr/tag/migranti_u_Hrvatskoj" class ="label label-default" >
+migranti u Hrvatskoj
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Izbjeglice" class ="label label-default" >
+Izbjeglice
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/pu%C4%8Dka_pravobraniteljica" class ="label label-default" >
+puèka pravobraniteljica
 </a>
 </li>
 </ul>
@@ -1366,15 +1407,45 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="buducnost-zdravstva media none">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/specijal/buducnost-zdravstva/novi-podaci-o-troskovima-lijecenja-secerne-bolesti-u-hrvatskoj-cak-cetiri-milijarde-kuna-godisnje-hzzo-trosi-na-lijecenje-komplikacija-dijabetesa/7095687/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/pucka-pravobraniteljica-o-protjeranom-9-godisnjem-migrantu-nije-tocno-da-bozinovic-nije-nista-znao-o-svemu-smo-ga-izvijestili-jos-u-lipnju-2017/7042445/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/novi-podaci-o-troskovima-lijecenja-secerne-bolesti-u-hrvatskoj-cak-cetiri-milijarde-kuna-godisnje-hzzo-trosi-na-lijecenje-komplikacija-dijabetesa/7095687/">
-NOVI PODACI O TROŠKOVIMA LIJEÈENJA ŠEÆERNE BOLESTI U HRVATSKOJ Èak èetiri milijarde kuna godišnje HZZO troši na lijeèenje komplikacija dijabetesa
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/pucka-pravobraniteljica-o-protjeranom-9-godisnjem-migrantu-nije-tocno-da-bozinovic-nije-nista-znao-o-svemu-smo-ga-izvijestili-jos-u-lipnju-2017/7042445/">
+PUÈKA PRAVOBRANITELJICA O PROTJERANOM 9-GODIŠNJEM MIGRANTU: 'Nije toèno da Božinoviæ nije ništa znao, o svemu smo ga izvijestili još u lipnju 2017.'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="hrvatska media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/ured-pravobraniteljice-podaci-o-slucaju-9-godisnjeg-migranta-dostavljeni-mup-u-u-lipnju-2017/7039507/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/ured-pravobraniteljice-podaci-o-slucaju-9-godisnjeg-migranta-dostavljeni-mup-u-u-lipnju-2017/7039507/">
+Ured pravobraniteljice: Podaci o sluèaju 9-godišnjeg migranta dostavljeni MUP-u u lipnju 2017.
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="hrvatska media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/porazavajuci-podaci-gotovo-pola-ispitanih-u-hrvatskoj-u-svom-poduzecu-ne-bi-zaposlilo-rome/6540936/" data-widget-title="" data-web-position="box"
+data-widget-position="2">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/porazavajuci-podaci-gotovo-pola-ispitanih-u-hrvatskoj-u-svom-poduzecu-ne-bi-zaposlilo-rome/6540936/">
+PORAŽAVAJUÆI PODACI Gotovo pola ispitanih u Hrvatskoj u svom poduzeæu ne bi zaposlilo Rome
 </a>
 </h4>
 </li>
@@ -1385,93 +1456,6 @@ NOVI PODACI O TROŠKOVIMA LIJEÈENJA ŠEÆERNE BOLESTI U HRVATSKOJ Èak èetiri milija
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div style="text-align:center;" class="addthis_responsive_sharing"></div>
-<div class="titleRow promo_heading_fix">
-<div class="col-sm-12">
-<h3 class="section_title_alt izdvojeno_alt"><div><span>ELIPSO</span></div></h3>
-</div>
-</div>
-<div class="upscore-pos-7 ">
-<section>
-<div class="elipso products upscore-pos-8">
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/116560.jpg" alt="BRAUN SS5044" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.200,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">BRAUN SS5044</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">parne postaje</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.399,00 kn</span>
-<span class="old-price">2.599,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/parne-postaje/BRAUN-SS5044/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 12.03.2018 do 22.04.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.199,00 kn</span>
-<span class="old-price">1.299,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128355.jpg" alt="GRUNDIG 40GFT6740" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 500,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">GRUNDIG 40GFT6740</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">televizori</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">2.499,00 kn</span>
-<span class="old-price">2.999,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 30.04.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/129549.jpg" alt="PHILIPS FC6408" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.000,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS FC6408</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.799,00 kn</span>
-<span class="old-price">2.799,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 15.03.2018 do 31.05.2018</a>
-</div>
-</div>
-</div>
-</section>
-</div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1559,7 +1543,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7160475" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7201014" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1593,17 +1577,17 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/borbe-nisu-gotove-ali-jasno-je-kako-ce-zavrsiti-slijedi-potpuni-poraz-klerikalno-desne-struje-plenkovicev-plan-za-potpunu-kontrolu-nad-strankom/7192623/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/">
-TRI PAKETA ZA BLOKIRANE
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/borbe-nisu-gotove-ali-jasno-je-kako-ce-zavrsiti-slijedi-potpuni-poraz-klerikalno-desne-struje-plenkovicev-plan-za-potpunu-kontrolu-nad-strankom/7192623/">
+KULMINACIJA BITKE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/">
-OTKRIVAMO: USKORO 80.000 HRVATA PO SILI ZAKONA IDE U OSOBNI STEÈAJ! Doznali smo detalje paketa mjera kojima država planira riješiti problem blokiranih
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/borbe-nisu-gotove-ali-jasno-je-kako-ce-zavrsiti-slijedi-potpuni-poraz-klerikalno-desne-struje-plenkovicev-plan-za-potpunu-kontrolu-nad-strankom/7192623/">
+'BORBE NISU GOTOVE, ALI JASNO JE KAKO ÆE ZAVRŠITI: SLIJEDI POTPUNI PORAZ KLERIKALNO-DESNE STRUJE' Plenkoviæev plan za potpunu kontrolu nad strankom
 </a>
 </h4>
 </div>
@@ -1615,17 +1599,17 @@ OTKRIVAMO: USKORO 80.000 HRVATA PO SILI ZAKONA IDE U OSOBNI STEÈAJ! Doznali smo 
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/hgss-ovci-opljackani-dok-su-tragali-za-nestalim-djecakom-junace-mozes-se-ponositi-svojim-djelom-i-postupkom/7196517/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/">
-DRAMA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/hgss-ovci-opljackani-dok-su-tragali-za-nestalim-djecakom-junace-mozes-se-ponositi-svojim-djelom-i-postupkom/7196517/">
+BEZOBRAZNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/">
-POTPUNI PROMETNI KOLAPS: DALMACIJA ODSJEÈENA OD OSTATKA HRVATSKE Svi cestovni pravci bili blokirani: 'Odgodite svoje putovanje!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/hgss-ovci-opljackani-dok-su-tragali-za-nestalim-djecakom-junace-mozes-se-ponositi-svojim-djelom-i-postupkom/7196517/">
+HGSS-ovci OPLJAÈKANI DOK SU TRAGALI ZA NESTALIM DJEÈAKOM 'Junaèe, možeš se ponositi svojim djelom i postupkom...
 </a>
 </h4>
 </div>
@@ -1637,17 +1621,17 @@ POTPUNI PROMETNI KOLAPS: DALMACIJA ODSJEÈENA OD OSTATKA HRVATSKE Svi cestovni pr
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/gdje-im-je-bila-pamet-tri-obitelji-vodile-djecu-na-biokovo-unatoc-upozorenjima-da-ce-pasti-novi-snijeg-i-da-ce-temperature-biti-ispod-nistice/7197378/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/">
-VISOK VODOSTAJ
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/gdje-im-je-bila-pamet-tri-obitelji-vodile-djecu-na-biokovo-unatoc-upozorenjima-da-ce-pasti-novi-snijeg-i-da-ce-temperature-biti-ispod-nistice/7197378/">
+HGSS U AKCIJI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/">
-VRHUNAC VODENOG VALA PROLAZI KROZ SLAVONIJU, SAVA DOŠLA DOSLOVCE DO RUBA Nevjerojatni prizori iz Sl. Broda, uskoro izvanredne mjere obrane od poplava
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/gdje-im-je-bila-pamet-tri-obitelji-vodile-djecu-na-biokovo-unatoc-upozorenjima-da-ce-pasti-novi-snijeg-i-da-ce-temperature-biti-ispod-nistice/7197378/">
+GDJE IM JE BILA PAMET!? Tri obitelji vodile djecu na Biokovo unatoè upozorenjima da æe pasti novi snijeg i da æe temperature biti ispod ništice
 </a>
 </h4>
 </div>
@@ -1659,17 +1643,17 @@ VRHUNAC VODENOG VALA PROLAZI KROZ SLAVONIJU, SAVA DOŠLA DOSLOVCE DO RUBA Nevjero
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/video-prekrasna-uskrsnja-prica-tihomir-ju-je-sanjao-bila-mu-je-nedostizna-sve-dok-se-njegovi-kolege-nisu-ukljucili-jos-nisam-dosao-sebi/7196667/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/">
-POPLAVE NA SISAÈKOM PODRUÈJU
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/video-prekrasna-uskrsnja-prica-tihomir-ju-je-sanjao-bila-mu-je-nedostizna-sve-dok-se-njegovi-kolege-nisu-ukljucili-jos-nisam-dosao-sebi/7196667/">
+KAD SE MALE RUKE SLOŽE...
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/">
-FOTO: 'DOSTA MI JE DRŽAVE, ALI NEÆU POBJEÆI KAO MOJ SUSJED!' Voda navire, raste centimetar na sat, a oèajnim stanovnicima jedna stvar nije jasna
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/video-prekrasna-uskrsnja-prica-tihomir-ju-je-sanjao-bila-mu-je-nedostizna-sve-dok-se-njegovi-kolege-nisu-ukljucili-jos-nisam-dosao-sebi/7196667/">
+VIDEO: PREKRASNA USKRŠNJA PRIÈA Tihomir ju je sanjao, bila mu je nedostižna sve dok se njegovi kolege nisu ukljuèili: 'Još nisam došao sebi...'
 </a>
 </h4>
 </div>
@@ -1707,15 +1691,15 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-<img src="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/ALTERNATES/LANDSCAPE_380/danijela%20martinovi%C4%87%20i%20mama.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+<img src="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/ALTERNATES/LANDSCAPE_380/Sanja_Vejnovi%C4%87_00"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/BINARY/thumbnail/danijela%20martinovi%C4%87%20i%20mama.PNG"
+data-src-template="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/BINARY/thumbnail/Sanja_Vejnovi%C4%87_00"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1727,8 +1711,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-Danijela Martinoviæ majku razveselila darom koji æe pamtiti!
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+Sanja Vejnoviæ o agoniji na hitnoj: 'Horor od procedure me zamalo koštao života'
 </a>
 </h4>
 </div>
@@ -2156,19 +2140,10 @@ FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'F
 }
 window.onload = fbCommentGA;
 </script>
-<script type='text/javascript'>
-var axel = Math.random() + '';
-var a = axel * 10000000000000;
-document.write('<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=' + a + ';dc_seg=459159291?" width=1 height=1 border=0/>');
-</script>
-<noscript>
-<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=1;dc_seg=459159291?" width=1 height=1 border=0/>
-</noscript>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
-<script async src="//cdn.midas-network.com/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
 <div id="jl-floater-wrapper" class="jl-floater-wrapper">
 <div id="jl-float" class="jl-floater">
 <!-- /11425286/jl_floater -->
@@ -2198,14 +2173,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/zbog-velikog-kvara-racunalnog-sustava-kasne-tisuce-letova-diljem-europe?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1497684580zracna_luka-140515.jpg?v=1497684637" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
+<h4>KAOS U ZRAÈNOM PROMETU/Zbog velikog kvara raèunalnog sustava kasne tisuæe letova diljem Europe</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2249,34 +2224,56 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7160475&type=article&title=%26%23039%3bNE%c4%86EMO+RADITI+NI%c5%a0TA+%c5%a0TO+NE+BUDE+PLA%c4%86ENO%26%23039%3b+Novi+ugovori+izazvali+pobunu+me%c4%91u+lije%c4%8dnicima+obiteljske+medicine%2c+ginekolozima%2c+pedijatrima+i+stomatolozima&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fnecemo-raditi-nista-sto-ne-bude-placeno-novi-ugovori-izazvali-pobunu-medu-lijecnicima-obiteljske-medicine-ginekolozima-pedijatrima-i-stomatolozima%2f7160475%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7201014&type=article&title=UGLEDNA+ME%c4%90UNARODNA+KU%c4%86A+PROVELA+VELIKO+ISTRA%c5%bdIVANJE+O+DISKRIMINACIJI+U+RH+Kako+Hrvati+gledaju+na+mije%c5%a1ane+brakove+sa+Srbima%2c+na+Rome%2c+izbjeglice...&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fugledna-medunarodna-kuca-provela-veliko-istrazivanje-o-diskriminaciji-u-rh-kako-hrvati-gledaju-na-mijesane-brakove-sa-srbima-na-rome-izbjeglice%2f7201014%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7160475&amp;type=article&amp;title=%26%23039%3bNE%c4%86EMO+RADITI+NI%c5%a0TA+%c5%a0TO+NE+BUDE+PLA%c4%86ENO%26%23039%3b+Novi+ugovori+izazvali+pobunu+me%c4%91u+lije%c4%8dnicima+obiteljske+medicine%2c+ginekolozima%2c+pedijatrima+i+stomatolozima&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fnecemo-raditi-nista-sto-ne-bude-placeno-novi-ugovori-izazvali-pobunu-medu-lijecnicima-obiteljske-medicine-ginekolozima-pedijatrima-i-stomatolozima%2f7160475%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7201014&amp;type=article&amp;title=UGLEDNA+ME%c4%90UNARODNA+KU%c4%86A+PROVELA+VELIKO+ISTRA%c5%bdIVANJE+O+DISKRIMINACIJI+U+RH+Kako+Hrvati+gledaju+na+mije%c5%a1ane+brakove+sa+Srbima%2c+na+Rome%2c+izbjeglice...&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fugledna-medunarodna-kuca-provela-veliko-istrazivanje-o-diskriminaciji-u-rh-kako-hrvati-gledaju-na-mijesane-brakove-sa-srbima-na-rome-izbjeglice%2f7201014%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1944676025&title=zdravstvo&url=tag%3ajltags%40eph.hr%2c2016%3azdravstvo&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=184985855&title=pu%c4%8dka+pravobraniteljica&url=tag%3ajltags%40eph.hr%2c2016%3apu%25C4%258Dka_pravobraniteljica&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1944676025&amp;title=zdravstvo&amp;url=tag%3ajltags%40eph.hr%2c2016%3azdravstvo&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=184985855&amp;title=pu%c4%8dka+pravobraniteljica&amp;url=tag%3ajltags%40eph.hr%2c2016%3apu%25C4%258Dka_pravobraniteljica&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=981125402&title=Lije%c4%8dnici&url=tag%3ajltags%40eph.hr%2c2016%3aLije%25C4%258Dnici&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=417303808&title=Izbjeglice&url=tag%3ajltags%40eph.hr%2c2016%3aIzbjeglice&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=981125402&amp;title=Lije%c4%8dnici&amp;url=tag%3ajltags%40eph.hr%2c2016%3aLije%25C4%258Dnici&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=417303808&amp;title=Izbjeglice&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIzbjeglice&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=448698296&title=migranti+u+Hrvatskoj&url=tag%3ajltags%40eph.hr%2c2016%3amigranti_u_Hrvatskoj&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=448698296&amp;title=migranti+u+Hrvatskoj&amp;url=tag%3ajltags%40eph.hr%2c2016%3amigranti_u_Hrvatskoj&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=92061802&title=istra%c5%beivanje+javnog+mnijenja&url=tag%3ajltags%40eph.hr%2c2016%3aistra%25C5%25BEivanje_javnog_mnijenja&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=92061802&amp;title=istra%c5%beivanje+javnog+mnijenja&amp;url=tag%3ajltags%40eph.hr%2c2016%3aistra%25C5%25BEivanje_javnog_mnijenja&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2329,7 +2326,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/necemo-raditi-nista-sto-ne-bude-placeno-novi-ugovori-izazvali-pobunu-medu-lijecnicima-obiteljske-medicine-ginekolozima-pedijatrima-i-stomatolozima/7160475/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/ugledna-medunarodna-kuca-provela-veliko-istrazivanje-o-diskriminaciji-u-rh-kako-hrvati-gledaju-na-mijesane-brakove-sa-srbima-na-rome-izbjeglice/7201014/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2339,14 +2336,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/necemo-raditi-nista-sto-ne-bude-placeno-novi-ugovori-izazvali-pobunu-medu-lijecnicima-obiteljske-medicine-ginekolozima-pedijatrima-i-stomatolozima/7160475/",
-postId : "7160475",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/ugledna-medunarodna-kuca-provela-veliko-istrazivanje-o-diskriminaciji-u-rh-kako-hrvati-gledaju-na-mijesane-brakove-sa-srbima-na-rome-izbjeglice/7201014/",
+postId : "7201014",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "'NEÆEMO RADITI NIŠTA ŠTO NE BUDE PLAÆENO' Novi ugovori izazvali pobunu meðu lijeènicima obiteljske medicine, ginekolozima, pedijatrima i stomatolozima",
-pubdate : "2018-03-23 19:10",
-authors : "Goranka Jureško",
+title : "UGLEDNA MEÐUNARODNA KUÆA PROVELA VELIKO ISTRAŽIVANJE O DISKRIMINACIJI U RH Kako Hrvati gledaju na miješane brakove sa Srbima, na Rome, izbjeglice...",
+pubdate : "2018-04-03 18:24",
+authors : "Tanja Rudež",
 sections : "Front Page, Hrvatska",
-tags : "zdravstvo, Lijeènici",
+tags : "puèka pravobraniteljica, Izbjeglice, migranti u Hrvatskoj, istraživanje javnog mnijenja",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

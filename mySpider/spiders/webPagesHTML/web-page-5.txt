@@ -2,21 +2,21 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Kako se približava dan ratifikacije Istanbulske konvencije, iz Katolièke crkve stižu sve snažnija upozorenja, pa i optužbe protiv politièara koji namjeravaju glasati za spomenuti dokument." />
-<meta name="keywords" content="Glas koncila, Vlado Košiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Na pupnatskoj pijaci, u neposrednoj blizini crkve, toga se kolovoškog popodneva natiskalo ljudi. Žensko i muško, mlado i staro, otoèani i gosti - baš svi su izašli kako bi svjedoèili obnovi lokalne korèulanske viteške igre Kumpanjije u svome izvornom obliku. Godina je 1997., a Pupnaæani su ovako uzbuðeni jer su uz pomoæ folklorista amatera Vide Bagura pripremili Kumpanjiju onako kako je se sjeæaju njihovi stari - uz obveznu dekapitaciju vola, odnosno ritualno prinošenje žrtve koje se, prema predaji, veže uz doba prije osam stoljeæa, kada su mještani istim èinom otjerali nadiruæe gusare." />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: &#039;Treba li uništiti hrvatski narod?&#039; - Jutarnji List</title>
+<title>PRIÈA O VOLU Dekapitirano govedo koje je višestoljetnu tradiciju došlo glave - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
-<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
 <script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
 <script>
 window.Criteo = window.Criteo || {};
 window.Criteo.events = window.Criteo.events || [];
 </script>
 <section>
-<!-- DFP verzija 9.1 -->
+<!-- DFP verzija 11 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -63,7 +63,8 @@ dfpUnits = {
 "connectad": {"placementId": "634"},
 "appnexus": {"placementId": "12512215"},
 "criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"}
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
 },
 },
 "div-gpt-ad-1459756830165-1" : {
@@ -72,11 +73,18 @@ dfpUnits = {
 "size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
 "sizeType" : "aside",
 "container" : "jl-banner-wrapper-2",
-"lazyLoad" : true,
+"lazyLoad" : false,
 "mobile" : false,
 "deviceType" : "desktop",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
 },
 "div-gpt-ad-1459756830165-2" : {
 "slot" : "billboard",
@@ -117,13 +125,15 @@ dfpUnits = {
 "connectad": {"placementId": "1024"},
 "appnexus": {"placementId": "12512211"},
 "criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"}
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
 },
 "prebidConfigMobile" : {
 "connectad": {"placementId": "637"},
 "appnexus": {"placementId": "12512220"},
 "criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"}
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
 },
 },
 "div-gpt-ad-1459756830165-8" : {
@@ -136,7 +146,21 @@ dfpUnits = {
 "mobile" : true,
 "deviceType" : "all",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
 },
 "div-gpt-ad-1459756830165-9" : {
 "slot" : "inarticle3",
@@ -176,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "EE";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7164372";
-var dfpArticleKeyword = "Glas koncila";
+var dfpCategory = "Magazin";
+var dfpCategoryParent = "Front Page";
+var dfpRos = "magazin-ros";
+var dfpArticle = "7198311";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -413,6 +437,8 @@ bidderParams = unitData[unitPrebidConfigParam][bidderName];
 if (bidderName === 'connectad') {
 bidderParams['networkId'] = '10047';
 bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
 }
 var bidderData = {bidder: bidderName, params: bidderParams};
 unitBids.push(bidderData);
@@ -444,7 +470,9 @@ googletag.pubads().refresh(dfpRefreshPrebidUnits);
 if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
 pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -545,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -605,8 +635,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/magazin/prica-o-volu-dekapitirano-govedo-koje-je-visestoljetnu-tradiciju-doslo-glave/7198311/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/magazin/prica-o-volu-dekapitirano-govedo-koje-je-visestoljetnu-tradiciju-doslo-glave/7198311/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -619,21 +649,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542/ALTERNATES/LANDSCAPE_1180/sveti_mihovil26-290917.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/magazin/voljpg/7198314/ALTERNATES/LANDSCAPE_1180/vol.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542/ALTERNATES/LANDSCAPE_1180/sveti_mihovil26-290917.jpg">
-<meta property="og:title" content="SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: 'Treba li uništiti hrvatski narod?'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/magazin/voljpg/7198314/ALTERNATES/LANDSCAPE_1180/vol.jpg">
+<meta property="og:title" content="PRIÈA O VOLU Dekapitirano govedo koje je višestoljetnu tradiciju došlo glave" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/" />
+<meta property="og:url" content="https://www.jutarnji.hr/magazin/prica-o-volu-dekapitirano-govedo-koje-je-visestoljetnu-tradiciju-doslo-glave/7198311/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Kako se približava dan ratifikacije Istanbulske konvencije, iz Katolièke crkve stižu sve snažnija upozorenja, pa i optužbe protiv politièara koji namjeravaju glasati za spomenuti dokument." />
+<meta property="og:description" content="Na pupnatskoj pijaci, u neposrednoj blizini crkve, toga se kolovoškog popodneva natiskalo ljudi. Žensko i muško, mlado i staro, otoèani i gosti - baš svi su izašli kako bi svjedoèili obnovi lokalne korèulanske viteške igre Kumpanjije u svome izvornom obliku. Godina je 1997., a Pupnaæani su ovako uzbuðeni jer su uz pomoæ folklorista amatera Vide Bagura pripremili Kumpanjiju onako kako je se sjeæaju njihovi stari - uz obveznu dekapitaciju vola, odnosno ritualno prinošenje žrtve koje se, prema predaji, veže uz doba prije osam stoljeæa, kada su mještani istim èinom otjerali nadiruæe gusare." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Robert Bajruši">
-<meta name="twitter:title" content="SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: 'Treba li uništiti hrvatski narod?'">
-<meta name="twitter:description" content="Kako se približava dan ratifikacije Istanbulske konvencije, iz Katolièke crkve stižu sve snažnija upozorenja, pa i optužbe protiv politièara koji namjeravaju glasati za spomenuti dokument.">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="PRIÈA O VOLU Dekapitirano govedo koje je višestoljetnu tradiciju došlo glave">
+<meta name="twitter:description" content="Na pupnatskoj pijaci, u neposrednoj blizini crkve, toga se kolovoškog popodneva natiskalo ljudi. Žensko i muško, mlado i staro, otoèani i gosti - baš svi su izašli kako bi svjedoèili obnovi lokalne korèulanske viteške igre Kumpanjije u svome izvornom obliku. Godina je 1997., a Pupnaæani su ovako uzbuðeni jer su uz pomoæ folklorista amatera Vide Bagura pripremili Kumpanjiju onako kako je se sjeæaju njihovi stari - uz obveznu dekapitaciju vola, odnosno ritualno prinošenje žrtve koje se, prema predaji, veže uz doba prije osam stoljeæa, kada su mještani istim èinom otjerali nadiruæe gusare.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -644,7 +674,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -656,15 +686,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-03-23T17:03+01:00",
-author: "Robert Bajruši",
+data: { section: "Magazin, Front Page",
+pubdate: "2018-04-03T10:02+02:00",
+author: "Goran Žabiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="magazin story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -760,7 +790,7 @@ role="navigation" >
 Naslovnica
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -825,7 +855,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1132,43 +1162,6 @@ Mozgalice
 </form>
 </div>
 <div class="subLevelNavbar ">
-<ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
-</li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
-</ul>
-<ul class=" sub nav navbar-nav">
-<li class="active">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
-</a>
-</li>
-<li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
-</a>
-</li>
-</ul>
 </div>
 </nav>
 </div>
@@ -1205,10 +1198,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-VELIKA POBUNA </p>
+Jutarnji 20
+</p>
 <h1
 class="title">
-SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: 'Treba li uništiti hrvatski narod?'
+PRIÈA O VOLU Dekapitirano govedo koje je višestoljetnu tradiciju došlo glave
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1210,7 @@ SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobili
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/robert-bajrusi">Robert Bajruši</a></li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1218,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-23.03.2018. u 17:03
+03.04.2018. u 10:02
 </p>
 </li>
 </ul>
@@ -1234,30 +1228,21 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="ece_incoming media ">
+<section class="magazin media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/magazin/voljpg/7198314" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542/ALTERNATES/LANDSCAPE_380/sveti_mihovil26-290917.jpg"
+<img src="https://www.jutarnji.hr/magazin/voljpg/7198314/ALTERNATES/LANDSCAPE_380/vol.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sveti_mihovil26-290917jpg/6733542/BINARY/thumbnail/sveti_mihovil26-290917.jpg"
+data-src-template="https://www.jutarnji.hr/magazin/voljpg/7198314/BINARY/thumbnail/vol.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Sibenik, 290917.
-Procesija ulicama i svecano misno slavlje povodom Dana grada Sibenika i blagdana svetog Mihovila, zastitnika grada. Na fotografiji: biskup Vlado Kosic.
-Foto: Niksa Stipanicev / CROPIX"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> Nikša Stipanièev / CROPIX
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Biskup Vlado Košiæ</h4>
 </div>
 </div>
 </section>
@@ -1287,14 +1272,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7164372"
+<div id="content-body-6263871-7198311"
 >
-<p>Kako se približava dan ratifikacije Istanbulske konvencije, iz Katolièke crkve stižu sve snažnija upozorenja, pa i optužbe protiv politièara koji namjeravaju glasati za spomenuti dokument.</p><p>Samo u posljednja 24 sata u napade na sve koji podržavaju IK ukljuèili su se biskupi iz kontinentalne Hrvatske, brojni sveæenici, mediji, neki svjetovni redovi i Glas Koncila, službeno glasilo Zagrebaèke nadbiskupije.</p><p>“Treba li uništiti hrvatski narod?” pitao se u urednièkom komentaru <strong>Ivan Mikleniæ</strong>, analizirajuæi temu ratifikacije Istanbulske konvencije. “Rodna ideologija, koja nema ama baš nikakvo znanstveno pokriæe, prokazana je i od <strong>pape Franje</strong>, kao ideologija koja je uperena i protiv postojeæih obitelji i unutrašnjih obiteljskih odnosa, ali i protiv buduænosti odnosno same opstojnosti braka i obitelji jer afirmira ekstremni individualizam”, napisao je glavni urednik <strong>Glasa Koncila.</strong></p><h5>Protiv i franjevci</h5><p>Biskupi iz središnje Hrvatske i Slavonije na èelu s kardinalom<strong> Josipom Bozaniæem</strong> sastali su se u Ðakovu, odakle su takoðer poslali upozorenje Vladi, iako u mirnijem tonu nego što je napravio Glas Koncila: “Biskupi su istaknuli da je HBK veæ progovorila i iznijela svoj stav o tim pitanjima u zajednièkoj poruci od 30. studenoga 2017., naslovljenoj ‘Založiti se za temeljne vrjednote obrazovanja i obitelji’.</p><p>U pobunu protiv ratifikacije Istanbulske ukljuèili su se Franjevaèki svjetovni red i Franjevaèka mladež, priopæenjem kojim “žele izraziti svoje duboko i otvoreno protivljenje”. Glavna zamjerka odnosi se na, kako piše, neprihvatljivo razdvajanje pojmova spola i roda.</p><h5>Kæi 'ono'</h5><p>Oèekivano, najaktivniji je sisaèki biskup <strong>Vlado Košiæ, </strong>koji je pozvao vjernike na demonstracije: “Vrijeme je da izaðemo na ulice, ne dozvolimo da nam kæeri budu ‘Ono’, da nam sinovi budu ‘Ono’, da majke budu ‘Roditelj broj 1’, a oèevi ‘Roditelj broj 2’. Mi nismo roditelji ‘brojevi’, naša djeca nisu ‘Ono’. Idemo svi na Veliki prosvjedni skup protiv ratifikacije Istanbulske konvencije, koji æe se održati u Zagrebu, na Trgu bana Josipa Jelaèiæa, dana 24. 3. 2018. godine, s poèetkom u 11 sati”.</p><p>Košiæ je na Facebooku prosvjednike pozvao na maksimalnu angažiranost jer vremena je malo. “Molimo sve koji se protive ratifikaciji da podijele ovaj post kako bismo postigli maksimum u ovom kratkom vremenu”, objavio je angažirani biskup.</p>
+<p>Na pupnatskoj pijaci, u neposrednoj blizini crkve, toga se kolovoškog popodneva natiskalo ljudi. Žensko i muško, mlado i staro, otoèani i gosti - baš svi su izašli kako bi svjedoèili obnovi lokalne korèulanske viteške igre Kumpanjije u svome izvornom obliku. </p><p>Godina je 1997., a Pupnaæani su ovako uzbuðeni jer su uz pomoæ folklorista amatera <strong>Vide Bagura</strong> pripremili Kumpanjiju onako kako je se sjeæaju njihovi stari - uz obveznu dekapitaciju vola, odnosno ritualno prinošenje žrtve koje se, prema predaji, veže uz doba prije osam stoljeæa, kada su mještani istim èinom otjerali nadiruæe gusare.</p><p>U danima prije samog dogaðanja u Pupnatu teku velike pripreme. Biraju se nošnje i uvježbavaju pjesme, a izglasava se i takozvana Vlada Kumpanjije - kralj, debeli i tanki sudac, advokati i likar. Smionog seoskog malca majka u strepnji gleda kako se penje na visoki zvonik crkve gdje æe na križ pribiti pet naranèi i lovorov vijenac te tako najaviti centralno dogaðanje Kumpanjije, koja u originalnom formatu nije bila izvedena gotovo 50 godina.</p><p>A onda, 5. kolovoza i Gospa od Sniga.</p><p>“Dopušæa li vaša Vlada da se sièe volu glava”, upita kapetan Kumpanjije izabranog kralja i njegove podanike. Gomila vrisne u znak odobrenja. Vojvoda Kumpanjije, predodreðeni dželat vola, izlazi iz crkve gdje se otišao pomoliti prije samoga èina. Pogledi su sada upereni u njegova asistenta koji mu donosi maè umotan u bijelu plahtu.</p><p>Nakon primanja oružja vojvoda ga izvadi iz plahte i pokaže okupljenima. Sunce je visoko, maè bljesne. Smioni malac, onaj koji se tek prije koji dan spretno uspeo na visoki zvonik crkve, pronaðe zaklon iza nošnje svoje majke... </p><p> </p><h4>Ostatak teksta proèitajte u tiskanom izdanju koje izlazi u èetvrtak 5.4. uz Jutarnji list…</h4>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7164372 p").filter(function () {
+$("#content-body-6263871-7198311 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1303,16 +1288,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7164372").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7198311").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7164372").children().slice(max).remove();
+$("#content-body-6263871-7198311").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7164372").children().get(0);
+var firstChild = $("#content-body-6263871-7198311").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1347,19 +1332,6 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/Vlado_Ko%C5%A1i%C4%87" class ="label label-default" >
-Vlado Košiæ
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Glas_koncila" class ="label label-default" >
-Glas koncila
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1367,112 +1339,10 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/sipak-godine-je-biskup-vlado-kosic-siri-netrpeljivost-i-mrznju-napada-homoseksualce-migrante-pobacaj-i-proziva-mlade-zbog-odlaska-iz-hrvatske/7051868/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/sipak-godine-je-biskup-vlado-kosic-siri-netrpeljivost-i-mrznju-napada-homoseksualce-migrante-pobacaj-i-proziva-mlade-zbog-odlaska-iz-hrvatske/7051868/">
-'ŠIPAK' GODINE JE BISKUP VLADO KOŠIÆ 'Širi netrpeljivost i mržnju, napada homoseksualce, migrante, pobaèaj i proziva mlade zbog odlaska iz Hrvatske'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div style="text-align:center;" class="addthis_responsive_sharing"></div>
-<div class="titleRow promo_heading_fix">
-<div class="col-sm-12">
-<h3 class="section_title_alt izdvojeno_alt"><div><span>ELIPSO</span></div></h3>
-</div>
-</div>
-<div class="upscore-pos-7 ">
-<section>
-<div class="elipso products upscore-pos-8">
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/129549.jpg" alt="PHILIPS FC6408" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.000,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS FC6408</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.799,00 kn</span>
-<span class="old-price">2.799,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 15.03.2018 do 31.05.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127979.jpg" alt="HP 1XN28EA HP 250 G6" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 1XN28EA HP 250 G6</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">3.499,00 kn</span>
-<span class="old-price">3.599,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128355.jpg" alt="GRUNDIG 40GFT6740" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 500,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">GRUNDIG 40GFT6740</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">televizori</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">2.499,00 kn</span>
-<span class="old-price">2.999,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 30.04.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.199,00 kn</span>
-<span class="old-price">1.299,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
-</div>
-</div>
-</div>
-</section>
-</div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1560,7 +1430,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7164372" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7198311" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1592,19 +1462,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="magazin media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/magazin/cudesna-povijest-jednog-od-najvecih-zagrebackih-kvartova-nakon-drugog-svjetskog-rata-tu-je-bio-el-dorado-a-onda-se-dogodila-katastrofa/7192629/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/">
-TRI PAKETA ZA BLOKIRANE
+<a href="https://www.jutarnji.hr/magazin/cudesna-povijest-jednog-od-najvecih-zagrebackih-kvartova-nakon-drugog-svjetskog-rata-tu-je-bio-el-dorado-a-onda-se-dogodila-katastrofa/7192629/">
+ŽILA KUCAVICA GRADA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/otkrivamo-uskoro-80000-hrvata-po-sili-zakona-ide-u-osobni-stecaj-doznali-smo-detalje-paketa-mjera-kojima-drzava-planira-rijesiti-problem-blokiranih/7155927/">
-OTKRIVAMO: USKORO 80.000 HRVATA PO SILI ZAKONA IDE U OSOBNI STEÈAJ! Doznali smo detalje paketa mjera kojima država planira riješiti problem blokiranih
+<a href="https://www.jutarnji.hr/magazin/cudesna-povijest-jednog-od-najvecih-zagrebackih-kvartova-nakon-drugog-svjetskog-rata-tu-je-bio-el-dorado-a-onda-se-dogodila-katastrofa/7192629/">
+ÈUDESNA POVIJEST JEDNOG OD NAJVEÆIH ZAGREBAÈKIH KVARTOVA 'Nakon Drugog svjetskog rata tu je bio El Dorado. A onda se dogodila katastrofa...'
 </a>
 </h4>
 </div>
@@ -1614,19 +1484,19 @@ OTKRIVAMO: USKORO 80.000 HRVATA PO SILI ZAKONA IDE U OSOBNI STEÈAJ! Doznali smo 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="magazin media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/magazin/radije-turci-nego-zagorci-kako-je-tudman-nakon-pobuna-u-dijelovima-zemlje-prije-tocno-25-godina-podijelio-hrvatsku-na-nacin-koji-i-danas-vrijedi/7191477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/">
-DRAMA
+<a href="https://www.jutarnji.hr/magazin/radije-turci-nego-zagorci-kako-je-tudman-nakon-pobuna-u-dijelovima-zemlje-prije-tocno-25-godina-podijelio-hrvatsku-na-nacin-koji-i-danas-vrijedi/7191477/">
+DAN KADA SU USKRSNULE ŽUPANIJE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/potpuni-prometni-kolaps-dalmacija-odsjecena-od-ostatka-hrvatske-svi-cestovni-pravci-bili-blokirani-odgodite-svoje-putovanje/7160097/">
-POTPUNI PROMETNI KOLAPS: DALMACIJA ODSJEÈENA OD OSTATKA HRVATSKE Svi cestovni pravci bili blokirani: 'Odgodite svoje putovanje!'
+<a href="https://www.jutarnji.hr/magazin/radije-turci-nego-zagorci-kako-je-tudman-nakon-pobuna-u-dijelovima-zemlje-prije-tocno-25-godina-podijelio-hrvatsku-na-nacin-koji-i-danas-vrijedi/7191477/">
+'RADIJE TURCI NEGO ZAGORCI' Kako je Tuðman nakon pobuna u dijelovima zemlje prije toèno 25 godina podijelio Hrvatsku na naèin koji i danas vrijedi
 </a>
 </h4>
 </div>
@@ -1636,19 +1506,19 @@ POTPUNI PROMETNI KOLAPS: DALMACIJA ODSJEÈENA OD OSTATKA HRVATSKE Svi cestovni pr
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="magazin media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/magazin/nacija-nepismenih-ucenici-i-studenti-cesto-pisu-kao-da-to-rade-zatvorenih-ociju-tesko-im-je-uobliciti-tekst-vise-gotovo-da-ne-pisu-pisanim-slovima/7191891/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/">
-VISOK VODOSTAJ
+<a href="https://www.jutarnji.hr/magazin/nacija-nepismenih-ucenici-i-studenti-cesto-pisu-kao-da-to-rade-zatvorenih-ociju-tesko-im-je-uobliciti-tekst-vise-gotovo-da-ne-pisu-pisanim-slovima/7191891/">
+TKO JE KRIV?
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vrhunac-vodenog-vala-prolazi-kroz-slavoniju-sava-dosla-doslovce-do-ruba-nevjerojatni-prizori-iz-sl-broda-uskoro-izvanredne-mjere-obrane-od-poplava/7160025/">
-VRHUNAC VODENOG VALA PROLAZI KROZ SLAVONIJU, SAVA DOŠLA DOSLOVCE DO RUBA Nevjerojatni prizori iz Sl. Broda, uskoro izvanredne mjere obrane od poplava
+<a href="https://www.jutarnji.hr/magazin/nacija-nepismenih-ucenici-i-studenti-cesto-pisu-kao-da-to-rade-zatvorenih-ociju-tesko-im-je-uobliciti-tekst-vise-gotovo-da-ne-pisu-pisanim-slovima/7191891/">
+NACIJA NEPISMENIH: UÈENICI I STUDENTI ÈESTO PIŠU KAO DA TO RADE ZATVORENIH OÈIJU 'Teško im je uoblièiti tekst, više gotovo da ne pišu pisanim slovima'
 </a>
 </h4>
 </div>
@@ -1658,19 +1528,19 @@ VRHUNAC VODENOG VALA PROLAZI KROZ SLAVONIJU, SAVA DOŠLA DOSLOVCE DO RUBA Nevjero
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="magazin media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/magazin/dosao-je-iz-afrike-i-postao-sveucilisni-kapelan-nevjerojatno-dobro-govori-hrvatski-zna-sve-o-nama-sve-sto-se-tice-ovog-naroda-tice-se-i-mene/7191630/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/">
-POPLAVE NA SISAÈKOM PODRUÈJU
+<a href="https://www.jutarnji.hr/magazin/dosao-je-iz-afrike-i-postao-sveucilisni-kapelan-nevjerojatno-dobro-govori-hrvatski-zna-sve-o-nama-sve-sto-se-tice-ovog-naroda-tice-se-i-mene/7191630/">
+VLÈ. ODILON-GBENOUKPO SINGBO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-dosta-mi-je-drzave-ali-necu-pobjeci-kao-moj-susjed-voda-navire-raste-centimetar-na-sat-a-ocajnim-stanovnicima-jedna-stvar-nije-jasna/7157199/">
-FOTO: 'DOSTA MI JE DRŽAVE, ALI NEÆU POBJEÆI KAO MOJ SUSJED!' Voda navire, raste centimetar na sat, a oèajnim stanovnicima jedna stvar nije jasna
+<a href="https://www.jutarnji.hr/magazin/dosao-je-iz-afrike-i-postao-sveucilisni-kapelan-nevjerojatno-dobro-govori-hrvatski-zna-sve-o-nama-sve-sto-se-tice-ovog-naroda-tice-se-i-mene/7191630/">
+DOŠAO JE IZ AFRIKE I POSTAO SVEUÈILIŠNI KAPELAN Nevjerojatno dobro govori hrvatski, zna sve o nama: 'Sve što se tièe ovog naroda, tièe se i mene!'
 </a>
 </h4>
 </div>
@@ -1708,15 +1578,15 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-<img src="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/ALTERNATES/LANDSCAPE_380/danijela%20martinovi%C4%87%20i%20mama.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+<img src="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/ALTERNATES/LANDSCAPE_380/Sanja_Vejnovi%C4%87_00"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/BINARY/thumbnail/danijela%20martinovi%C4%87%20i%20mama.PNG"
+data-src-template="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/BINARY/thumbnail/Sanja_Vejnovi%C4%87_00"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1728,8 +1598,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-Danijela Martinoviæ majku razveselila darom koji æe pamtiti!
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+Sanja Vejnoviæ o agoniji na hitnoj: 'Horor od procedure me zamalo koštao života'
 </a>
 </h4>
 </div>
@@ -1788,7 +1658,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -2157,19 +2027,10 @@ FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'F
 }
 window.onload = fbCommentGA;
 </script>
-<script type='text/javascript'>
-var axel = Math.random() + '';
-var a = axel * 10000000000000;
-document.write('<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=' + a + ';dc_seg=459159291?" width=1 height=1 border=0/>');
-</script>
-<noscript>
-<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=1;dc_seg=459159291?" width=1 height=1 border=0/>
-</noscript>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
-<script async src="//cdn.midas-network.com/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
 <div id="jl-floater-wrapper" class="jl-floater-wrapper">
 <div id="jl-float" class="jl-floater">
 <!-- /11425286/jl_floater -->
@@ -2199,14 +2060,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/sport/lionel-messi-poludio-zbog-ivana-rakitica-i-zatrazio-hitni-sastanak-s-celnicima-katalonskog-diva?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1522769568RakitiY.jpg?v=1522769628" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
+<h4>ARGENTINAC &#039;LUPIO ŠAKOM O STOL&#039;/Lionel Messi poludio zbog Ivana Rakitiæa i zatražio hitni sastanak s èelnicima katalonskog diva</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2250,34 +2111,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7164372&type=article&title=SVE+SNA%c5%bdNIJI+PRITISAK+KLERA%2c+STI%c5%bdU+SVE+JA%c4%8cA+UPOZORENJA+POLITI%c4%8cARIMA+Crkva+mobilizira+vjernike+na+prosvjed%3a+%26%23039%3bTreba+li+uni%c5%a1titi+hrvatski+narod%3f%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fsve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod%2f7164372%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=3123&contextPath=1-3123-&pubId=1&cat=&meta=read-story&objId=7198311&type=article&title=PRI%c4%8cA+O+VOLU+Dekapitirano+govedo+koje+je+vi%c5%a1estoljetnu+tradiciju+do%c5%a1lo+glave&url=https%3a%2f%2fwww.jutarnji.hr%2fmagazin%2fprica-o-volu-dekapitirano-govedo-koje-je-visestoljetnu-tradiciju-doslo-glave%2f7198311%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7164372&amp;type=article&amp;title=SVE+SNA%c5%bdNIJI+PRITISAK+KLERA%2c+STI%c5%bdU+SVE+JA%c4%8cA+UPOZORENJA+POLITI%c4%8cARIMA+Crkva+mobilizira+vjernike+na+prosvjed%3a+%26%23039%3bTreba+li+uni%c5%a1titi+hrvatski+narod%3f%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fsve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod%2f7164372%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1771751421&title=Glas+koncila&url=tag%3ajltags%40eph.hr%2c2016%3aGlas_koncila&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1771751421&amp;title=Glas+koncila&amp;url=tag%3ajltags%40eph.hr%2c2016%3aGlas_koncila&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1645036036&title=Vlado+Ko%c5%a1i%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aVlado_Ko%25C5%25A1i%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1645036036&amp;title=Vlado+Ko%c5%a1i%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aVlado_Ko%25C5%25A1i%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=3123&amp;contextPath=1-3123-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7198311&amp;type=article&amp;title=PRI%c4%8cA+O+VOLU+Dekapitirano+govedo+koje+je+vi%c5%a1estoljetnu+tradiciju+do%c5%a1lo+glave&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fmagazin%2fprica-o-volu-dekapitirano-govedo-koje-je-visestoljetnu-tradiciju-doslo-glave%2f7198311%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2330,7 +2169,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/magazin/prica-o-volu-dekapitirano-govedo-koje-je-visestoljetnu-tradiciju-doslo-glave/7198311/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2340,14 +2179,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/sve-snazniji-pritisak-klera-stizu-sve-jaca-upozorenja-politicarima-crkva-mobilizira-vjernike-na-prosvjed-treba-li-unistiti-hrvatski-narod/7164372/",
-postId : "7164372",
+url : "https://www.jutarnji.hr/magazin/prica-o-volu-dekapitirano-govedo-koje-je-visestoljetnu-tradiciju-doslo-glave/7198311/",
+postId : "7198311",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "SVE SNAŽNIJI PRITISAK KLERA, STIŽU SVE JAÈA UPOZORENJA POLITIÈARIMA Crkva mobilizira vjernike na prosvjed: 'Treba li uništiti hrvatski narod?'",
-pubdate : "2018-03-23 17:03",
-authors : "Robert Bajruši",
-sections : "Front Page, Hrvatska",
-tags : "Glas koncila, Vlado Košiæ",
+title : "PRIÈA O VOLU Dekapitirano govedo koje je višestoljetnu tradiciju došlo glave",
+pubdate : "2018-04-03 10:02",
+authors : "Goran Žabiæ",
+sections : "Banner testing page, Magazin",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -1,3 +1,6 @@
+﻿#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
+
 #import nltk
 # Corpus which consists of male and female names dataset
 #from nltk.corpus import names
@@ -7,13 +10,15 @@
 #import numpy as np
 
 #import polyglot
-from polyglot.text import Text
+from polyglot.text import Text, Word
 #from polyglot.downloader import downloader
+
+"""
 
 #print(downloader.supported_languages_table("ner2", 3))
 
 
-blob = """Marko Markic je super decko, ali je Ivan Matic bolji od njega. Da, bolji je."""
+blob = """"""
 text = Text(blob, hint_language_code='hr')
 person = []
 for sent in text.sentences:
@@ -31,3 +36,9 @@ for sent in text.sentences:
                     person.append(name)
                     
 print (person)
+"""
+
+words = ["Ivane", "imate", "li", "možda", "ispovjedaonicu"]
+for w in words:
+    w = Word(w, language="hr")
+    print(w, "  ", w.morphemes)

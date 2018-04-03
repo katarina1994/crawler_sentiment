@@ -1,2 +1,3 @@
 eclipse.preferences.version=1
-encoding//textCroatian/mainText.py=utf-8
+encoding//textCroatian/generateStopWords.py=utf-8
+encoding//textCroatian/textHRDetection.py=utf-8

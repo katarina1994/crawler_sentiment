@@ -2,14 +2,21 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Iz sadržaja izdvajamo: intervju sa Matom Rimcem, prvi test novog Audija A8, vozili smo treæu generaciju Mercedesa CLS, usporedili luksuzne limuzine..." />
-<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Jugoslavija je poslije Drugog svjetskog rata bila najdosljednija u provoðenju politike Staljina i Sovjetskog Saveza. Tito je bio najsamostalniji, najponosniji, marksistièkoj misli najdosljedniji i najekstravagantniji lider – harvardski profesor Odd Arne Westad u posljednjoj knjizi o Hladnom ratu Tita opisuje rijeèju “flamboyant” nekoliko puta. Sudeæi po njegovu ponašanju, moglo je izgledati kao da se nudi za drugog voðu komunistièkog lagera. Problemi koji su se gomilali postali su vidljiviji od poèetka 1948. U veljaèi je Staljin u Moskvu pozvao i tamo kritizirao jugoslavenske drugove zbog prebrze, i ne dokraja jasne, politike stvaranja balkanske federacije. Ono što je bila zajednièka politika sada je postao argument da je Tito želio preuzeti vlast nad balkanskim zemljama. Ono što je bila komunistièka predanost i shvaæanje internacionalne dužnosti, prije svega pomoæ Grcima u graðanskom ratu, postalo je razlog za tešku kritiku. Zaoštravanje je bilo diskretno i bilo je vidljivo mjesecima ranije, ali samo u krugovima najupuæenijih. Promjena u politikama nije bilo. Tito je, konaèno, bio spomenut u Churchillovu govoru o “Željeznoj zavjesi”, Trumanova doktrina donesena je upravo zbog agresivne politike prema Grèkoj, Jugoslavija je srušila amerièki avion iznad Slovenije, nije bilo previše razloga posumnjati u Tita." />
+<meta name="keywords" content="Josip Broz Tito, Josif Visarionoviè Staljin, Jugoslavija, hladni rat" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... - Jutarnji List</title>
+<title>ZAPAD JE BIO U ŠOKU Kako je došlo do najvažnijeg dogaðaja za Jugoslaviju u eri hladnog rata i zašto današnja Hrvatska taj raskol gura u zaborav... - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
+<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+</script>
 <section>
-<!-- DFP verzija 9.1 -->
+<!-- DFP verzija 11 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -56,7 +63,8 @@ dfpUnits = {
 "connectad": {"placementId": "634"},
 "appnexus": {"placementId": "12512215"},
 "criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"}
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
 },
 },
 "div-gpt-ad-1459756830165-1" : {
@@ -65,11 +73,18 @@ dfpUnits = {
 "size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
 "sizeType" : "aside",
 "container" : "jl-banner-wrapper-2",
-"lazyLoad" : true,
+"lazyLoad" : false,
 "mobile" : false,
 "deviceType" : "desktop",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
 },
 "div-gpt-ad-1459756830165-2" : {
 "slot" : "billboard",
@@ -110,13 +125,15 @@ dfpUnits = {
 "connectad": {"placementId": "1024"},
 "appnexus": {"placementId": "12512211"},
 "criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"}
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
 },
 "prebidConfigMobile" : {
 "connectad": {"placementId": "637"},
 "appnexus": {"placementId": "12512220"},
 "criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"}
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
 },
 },
 "div-gpt-ad-1459756830165-8" : {
@@ -129,7 +146,21 @@ dfpUnits = {
 "mobile" : true,
 "deviceType" : "all",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
 },
 "div-gpt-ad-1459756830165-9" : {
 "slot" : "inarticle3",
@@ -169,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "Unknown";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Aktualno";
-var dfpCategoryParent = "Auto klub";
-var dfpRos = "autoklub-ros";
-var dfpArticle = "7162659";
-var dfpArticleKeyword = "";
+var dfpCategory = "Politika";
+var dfpCategoryParent = "Globus";
+var dfpRos = "globus-ros";
+var dfpArticle = "7195509";
+var dfpArticleKeyword = "Josip Broz Tito";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -406,6 +437,8 @@ bidderParams = unitData[unitPrebidConfigParam][bidderName];
 if (bidderName === 'connectad') {
 bidderParams['networkId'] = '10047';
 bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
 }
 var bidderData = {bidder: bidderName, params: bidderParams};
 unitBids.push(bidderData);
@@ -437,7 +470,9 @@ googletag.pubads().refresh(dfpRefreshPrebidUnits);
 if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
 pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -538,14 +573,9 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
-<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
-<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
-<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
-<script>
-window.Criteo = window.Criteo || {};
-window.Criteo.events = window.Criteo.events || [];
-</script>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -565,7 +595,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<meta property="article:author" content="https://www.facebook.com/autoklub.hr" />
+<script>
+var elipsoResizeTimeout;
+function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
+if (!elipsoResizeTimeout) {
+elipsoResizeTimeout = setTimeout(function() {
+elipsoResizeTimeout = null;
+elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
+}, 250);
+}
+}
+function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var elipsoBreakpoint = 0;
+var elipsoBreakpoints = [768, 992, 1200];
+for (i = 0; i < elipsoBreakpoints.length; i++) {
+if (windowWidth >= elipsoBreakpoints[i]) {
+elipsoBreakpoint = elipsoBreakpoints[i];
+}
+}
+var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
+var elipsoIframeWH = elipsoIframeSize.split('x');
+var elipsoIframe = document.getElementById(elipsoIframeId);
+var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
+var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
+if (currentElipsoIframeSrc !== elipsoIframeSrc) {
+elipsoIframe.setAttribute("src", elipsoIframeSrc);
+elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
+elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
+elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
+elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
+}
+}
+</script>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -573,8 +635,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-politika/zapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav/7195509/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-politika/zapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav/7195509/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -587,21 +649,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263/ALTERNATES/LANDSCAPE_1180/glavna.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/josip-broz-tito/7195524/ALTERNATES/LANDSCAPE_1180/Josip%20Broz%20Tito" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263/ALTERNATES/LANDSCAPE_1180/glavna.jpg">
-<meta property="og:title" content="AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... " />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/josip-broz-tito/7195524/ALTERNATES/LANDSCAPE_1180/Josip%20Broz%20Tito">
+<meta property="og:title" content="ZAPAD JE BIO U ŠOKU Kako je došlo do najvažnijeg dogaðaja za Jugoslaviju u eri hladnog rata i zašto današnja Hrvatska taj raskol gura u zaborav..." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/" />
+<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-politika/zapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav/7195509/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Iz sadržaja izdvajamo: intervju sa Matom Rimcem, prvi test novog Audija A8, vozili smo treæu generaciju Mercedesa CLS, usporedili luksuzne limuzine..." />
+<meta property="og:description" content="Jugoslavija je poslije Drugog svjetskog rata bila najdosljednija u provoðenju politike Staljina i Sovjetskog Saveza. Tito je bio najsamostalniji, najponosniji, marksistièkoj misli najdosljedniji i najekstravagantniji lider – harvardski profesor Odd Arne Westad u posljednjoj knjizi o Hladnom ratu Tita opisuje rijeèju “flamboyant” nekoliko puta. Sudeæi po njegovu ponašanju, moglo je izgledati kao da se nudi za drugog voðu komunistièkog lagera. Problemi koji su se gomilali postali su vidljiviji od poèetka 1948. U veljaèi je Staljin u Moskvu pozvao i tamo kritizirao jugoslavenske drugove zbog prebrze, i ne dokraja jasne, politike stvaranja balkanske federacije. Ono što je bila zajednièka politika sada je postao argument da je Tito želio preuzeti vlast nad balkanskim zemljama. Ono što je bila komunistièka predanost i shvaæanje internacionalne dužnosti, prije svega pomoæ Grcima u graðanskom ratu, postalo je razlog za tešku kritiku. Zaoštravanje je bilo diskretno i bilo je vidljivo mjesecima ranije, ali samo u krugovima najupuæenijih. Promjena u politikama nije bilo. Tito je, konaèno, bio spomenut u Churchillovu govoru o “Željeznoj zavjesi”, Trumanova doktrina donesena je upravo zbog agresivne politike prema Grèkoj, Jugoslavija je srušila amerièki avion iznad Slovenije, nije bilo previše razloga posumnjati u Tita." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Auto klub">
-<meta name="twitter:title" content="AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... ">
-<meta name="twitter:description" content="Iz sadržaja izdvajamo: intervju sa Matom Rimcem, prvi test novog Audija A8, vozili smo treæu generaciju Mercedesa CLS, usporedili luksuzne limuzine...">
+<meta name="twitter:creator" content="Tvrtko Jakovina">
+<meta name="twitter:title" content="ZAPAD JE BIO U ŠOKU Kako je došlo do najvažnijeg dogaðaja za Jugoslaviju u eri hladnog rata i zašto današnja Hrvatska taj raskol gura u zaborav...">
+<meta name="twitter:description" content="Jugoslavija je poslije Drugog svjetskog rata bila najdosljednija u provoðenju politike Staljina i Sovjetskog Saveza. Tito je bio najsamostalniji, najponosniji, marksistièkoj misli najdosljedniji i najekstravagantniji lider – harvardski profesor Odd Arne Westad u posljednjoj knjizi o Hladnom ratu Tita opisuje rijeèju “flamboyant” nekoliko puta. Sudeæi po njegovu ponašanju, moglo je izgledati kao da se nudi za drugog voðu komunistièkog lagera. Problemi koji su se gomilali postali su vidljiviji od poèetka 1948. U veljaèi je Staljin u Moskvu pozvao i tamo kritizirao jugoslavenske drugove zbog prebrze, i ne dokraja jasne, politike stvaranja balkanske federacije. Ono što je bila zajednièka politika sada je postao argument da je Tito želio preuzeti vlast nad balkanskim zemljama. Ono što je bila komunistièka predanost i shvaæanje internacionalne dužnosti, prije svega pomoæ Grcima u graðanskom ratu, postalo je razlog za tešku kritiku. Zaoštravanje je bilo diskretno i bilo je vidljivo mjesecima ranije, ali samo u krugovima najupuæenijih. Promjena u politikama nije bilo. Tito je, konaèno, bio spomenut u Churchillovu govoru o “Željeznoj zavjesi”, Trumanova doktrina donesena je upravo zbog agresivne politike prema Grèkoj, Jugoslavija je srušila amerièki avion iznad Slovenije, nije bilo previše razloga posumnjati u Tita.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -612,7 +674,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2443';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2447';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -624,15 +686,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Aktualno, Auto klub, Front Page",
-pubdate: "2018-03-23T11:47+01:00",
-author: "Zvonimir Jurèiæ",
+data: { section: "Politika, Globus, Front Page",
+pubdate: "2018-04-02T10:19+02:00",
+author: "Tvrtko Jakovina",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="autoklub story">
+<body class="globus story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -678,7 +740,6 @@ $("#related-news-box").remove();
 </script>
 <div class="container">
 <header class="mainHead brandedHead " role="banner">
-<a name="top"></a>
 <script>
 window.fbAsyncInit = function() {
 FB.init({
@@ -696,6 +757,7 @@ js.src = "https://connect.facebook.net/en_US/sdk.js";
 fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
+<a name="top"></a>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -710,10 +772,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>23.3.</span>2018.
+<span>03.4.</span>2018.
 </p>
 <p class="day">
-petak
+utorak
 </p>
 </div>
 <span class="logo"><a href="/">JutarnjList</a></span>
@@ -1051,63 +1113,45 @@ Mozgalice
 </div>
 </div>
 <div class="subBranding ">
-<span class="logo"><a href="/autoklub">Auto klub</a></span>
+<span class="logo"><a href="/globus">Globus</a></span>
 </div>
 <div class="subLevelNavbar ">
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/">
+<a href="https://www.jutarnji.hr/globus/">
 Naslovnica
 </a>
 </li>
-<li class="">
-<a href="https://www.jutarnji.hr/autoklub/video-ak/">
-Video
-</a>
-</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/">
-Aktualno
+<a href="https://www.jutarnji.hr/globus/Globus-politika/">
+Politika
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/testovi/">
-Testovi
+<a href="https://www.jutarnji.hr/globus/Globus-biznis/">
+Biznis
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/">
-Rabljeni
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/">
+Svijet
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/putopis/">
-Putopis
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/">
+Život
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/servis/">
-Servis
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/autoklub/garaza/">
-Garaža
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/autoklub/vremeplov/">
-Vremeplov
+<a href="https://www.jutarnji.hr/globus/Globus-kultura/">
+Kultura
 </a>
 </li>
 </ul>
 <ul class="nav navbar-nav socialChannels">
 <li>
-<a class="facebook_follow" href="https://www.facebook.com/autoklub.hr/" target="_blank">
+<a class="facebook_follow" href="https://www.facebook.com/globus.hr/">
 <span class="text-hide">Facebook</span>
-</a>
-<a class="instagram_follow" href="https://www.instagram.com/autoklub.hr/" target="_blank">
-<span class="text-hide">Instagram</span>
 </a>
 </li>
 </ul>
@@ -1155,17 +1199,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-BROJ 820 </p>
+OBLJETNICA TITOVOG 'NE!'
+</p>
 <h1
 class="title">
-AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... </h1>
+ZAPAD JE BIO U ŠOKU Kako je došlo do najvažnijeg dogaðaja za Jugoslaviju u eri hladnog rata i zašto današnja Hrvatska taj raskol gura u zaborav...
+</h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
 <li>
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/auto-klub"> Auto klub</a></li>
+<li>Tvrtko Jakovina</li>
 </ul>
 </p>
 </li>
@@ -1173,44 +1219,49 @@ class="authors">
 <li>
 <p
 class="published-date">
-23.03.2018. u 11:47
+02.04.2018. u 10:19
 </p>
 </li>
 </ul>
 </div>
-<section class="lead_image ">
-<section class="aktualno media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263/ALTERNATES/LANDSCAPE_380/glavna.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/glavnajpg/7159263/BINARY/thumbnail/glavna.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Auto klub
-</span>
-</div>
-</div>
-</div>
-</section>
-</section>
 </div>
 </div>
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
+<section class="lead_image ">
+<section class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/josip-broz-tito/7195524" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/josip-broz-tito/7195524/ALTERNATES/LANDSCAPE_380/Josip%20Broz%20Tito"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/josip-broz-tito/7195524/BINARY/thumbnail/Josip%20Broz%20Tito"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Josip Broz Tito (1892-1980), president de la Yougoslavie, dans son bureau. Un portrait de Joseph Staline est accroche au mur. Photographie, 1946-1947. Museum of Yugoslavian History, Belgrad
+President of Yugoslavia Josip Broz Tito (1892-1980) in his work studio. Photograph, 1946-1947. Museum of Yugoslavian History, Belgrad
+©FineArtImages/Leemage"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> leemage
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Josip Broz Tito</h4>
+</div>
+</div>
+</section>
+</section>
 <div class=" ">
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p><strong>Iz sadržaja izdvajamo: intervju sa Matom Rimcem, prvi test novog Audija A8, vozili smo treæu generaciju Mercedesa CLS, usporedili luksuzne limuzine...</strong></p>
+<p> </p>
 </p>
 </section>
 <section>
@@ -1235,19 +1286,55 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7162659"
+<div id="content-body-6263871-7195509"
 >
-<p>Najbrži auto magazin u zemlji nakon 14 dana ponovo je na kioscima i pun je materijala za sve istinske ljubitelje autoindustrije i svega vezanog uz automobile! U ovom broju tako otkrivamo kako <strong>ministarstvo mora, prometa i infrastrukture obmanjuje vozaèe </strong>i umjesto vinjeta uvodi još veæe cestarine!</p><p>
+<p>Jugoslavija je poslije Drugog svjetskog rata bila najdosljednija u provoðenju politike Staljina i Sovjetskog Saveza. <strong>Tito</strong> je bio najsamostalniji, najponosniji, marksistièkoj misli najdosljedniji i najekstravagantniji lider – harvardski profesor <strong>Odd Arne Westad</strong> u posljednjoj knjizi o Hladnom ratu Tita opisuje rijeèju “flamboyant” nekoliko puta. Sudeæi po njegovu ponašanju, moglo je izgledati kao da se nudi za drugog voðu komunistièkog lagera.</p><p>Problemi koji su se gomilali postali su vidljiviji od poèetka 1948. U veljaèi je Staljin u Moskvu pozvao i tamo kritizirao jugoslavenske drugove zbog prebrze, i ne dokraja jasne, politike stvaranja balkanske federacije. Ono što je bila zajednièka politika sada je postao argument da je Tito želio preuzeti vlast nad balkanskim zemljama. Ono što je bila komunistièka predanost i shvaæanje internacionalne dužnosti, prije svega pomoæ Grcima u graðanskom ratu, postalo je razlog za tešku kritiku.</p><p>Zaoštravanje je bilo diskretno i bilo je vidljivo mjesecima ranije, ali samo u krugovima najupuæenijih. Promjena u politikama nije bilo. Tito je, konaèno, bio spomenut u Churchillovu govoru o “Željeznoj zavjesi”, Trumanova doktrina donesena je upravo zbog agresivne politike prema Grèkoj, Jugoslavija je srušila amerièki avion iznad Slovenije, nije bilo previše razloga posumnjati u Tita.</p><p>
 <section>
-<article class="aktualno media ">
+<article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/265077jpeg/7159230" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/crveno-i-crno-036jpg/7195527" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/265077jpeg/7159230/ALTERNATES/FREE_380/265077.jpeg"
+<img src="https://www.jutarnji.hr/incoming/crveno-i-crno-036jpg/7195527/ALTERNATES/FREE_380/Crveno-i-Crno-036.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/265077jpeg/7159230/BINARY/thumbnail/265077.jpeg"
+data-src-template="https://www.jutarnji.hr/incoming/crveno-i-crno-036jpg/7195527/BINARY/thumbnail/Crveno-i-Crno-036.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Beograd 21.03.2008.
+Kadrovi iz dokumentarnog filma "Tito Crveno i Crno" . Foto : Aleksandar Andjic
+Photo & © by Aleksandar Andjic
+The Couple Photographers phone : + 381 64 11 33 061 mobile
+phone : + 381 11 32 34 774 office
+e-mail : foto@vreme.com office
+e-mail : cuple@eunet.yu home"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Aleksandar Andjic
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Tito i Staljin</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>Neki od zapadnih diplomata mjesecima ranije uoèili su napetosti, sugerirali su da je Beograd za Moskvu postajao iritacija, da je Tito svojeglav. Nitko, meðutim, u ministarstvima nije prepoznao ono što se dogaðalo. U prvim analizama propusta tek osnovane CIA-e, nespajanje brojnih indicija u vezi s jugoslavenskom 1948. smatra se jednim od najveæih obavještajnih promašaja.</p><p>U ambasadu FNRJ u Moskvi, gdje je veleposlanik bio general <strong>Vladimir Popoviæ</strong>, samouvjeren, posve na Titovoj strani, sve èešæe su dolazili graðani koji su se pitali zašto pritisci, zašto klevete, zašto tvrdnje da je Titovo vrijeme odbrojeno. Krug onih koji su vidjeli da se nešto dogaða postupno se širio. Na sastanku u Moskvi u veljaèi 1948. Sovjeti su s najvažnijim politièarima, <strong>Edvardom Kardeljom</strong> i <strong>Milovanom Ðilasom</strong>, razgovarali “kao da su komsomolci”. Potom su slijedila pisma, od ožujka do svibnja trajala je prepiska partijskog vrha. U pismu od 27. ožujka 1948. Vladimir Velebit, zapravo prvi èovjek Ministarstva vanjskih poslova, optužen je da je engleski špijun. Pismo je pokazano Velebitu, koji je posve problijedio, povukao se na prijedlog lijeènika. Velebit je došao kuæi i “svojoj drugarici” isprièao kako je dobio amebe, kako mora mirovati, kako ne smije jesti masno. Osim obitelji, u prièu doista nitko nije povjerovao, ali nije ni znao kako je protumaèiti.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/vladimir-nazor-u-splitu-1944jpg/7195530" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/vladimir-nazor-u-splitu-1944jpg/7195530/ALTERNATES/FREE_380/Vladimir-Nazor-u-Splitu-1944.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/vladimir-nazor-u-splitu-1944jpg/7195530/BINARY/thumbnail/Vladimir-Nazor-u-Splitu-1944.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1256,25 +1343,28 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> HANZA MEDIA
+<span> Globus
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Vladimir Nazor</h4>
 </div>
 </div>
 </div>
 </article>
 </section>
- </p><p>Donosimo i prve fotografije i detalje<strong> treæe generacije Volkswagen Touarega</strong> koji æe europsku premijeru imati upravo na Zagreb Auto Show-u!</p><p>
+ </p><p><strong>Dragica Vitoloviæ </strong>iz Sovinjaka kod Buzeta, udana za politièara <strong>Voju Srzentiæa</strong> iz Ulcinja, bila je šefica kadrovske službe Ministarstva vanjskih poslova. Poslužila je kao diplomatski kurir koji je izmeðu Beograda i Moskve prenosio pisma CK KPJ, a zapravo Tita, SKP(b), za Staljina. Kada je 28. lipnja 1948. u Bukureštu donesena Rezolucija Informacijskog biroa komunistièkih partija i osuðena KPJ, bilo je to iznenaðenje kakvo se nije èesto viðalo u meðunarodnim odnosima. “Mi raspolažemo podacima da je Tito imperijalistièki špijun”, rekao je <strong>Andrej Ždanov</strong>, jedan od najutjecajnijih sovjetskih politièara. Svi su podržali Sovjete, osim KPJ koja se odluèila suprotstaviti.</p><p>Kada je vijest o Rezoluciji IB-a došla do Amerike, šok se najprije morao osjeæati meðu jugoslavenskim diplomatima. U Americi su još uvijek na najvažnijim mjestima bili diplomati iz graðanskih krugova: <strong>Savica Kosanoviæ</strong> u Washingtonu, <strong>Boško Vidakoviæ</strong> iz Trstenog u Chicagu, <strong>Miodrag Markoviæ </strong>u New Yorku. Konzuli su bili još iz kraljevske diplomacije. Oni koji su bili iz partizanskih krugova i oni koji su bili iz graðanskih krugova prihvatili su novu misiju, dokazivanja da se zemlja želi i hoæe oduprijeti Sovjetskom Savezu, srèano. Izbor izmeðu <strong>Staljina</strong> i Tita pokazao se razmjerno lak, ne samo za dio dojuèerašnjih protivnika režima nego i za zapadne zemlje. Samo su oni koji su više od Staljina mrzili Tita bili razoèarani. Takvih je bilo na ekstremnoj ljevici i na ekstremnoj desnici, posebno u emigraciji.</p><p>
 <section>
-<article class="aktualno media ">
+<article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/2019-vw-touareg-25-1jpg/7163016" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/velebit2jpg/7195533" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/2019-vw-touareg-25-1jpg/7163016/ALTERNATES/FREE_380/2019-VW-Touareg-25-1.jpg"
+<img src="https://www.jutarnji.hr/incoming/velebit2jpg/7195533/ALTERNATES/FREE_380/velebit2.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/2019-vw-touareg-25-1jpg/7163016/BINARY/thumbnail/2019-VW-Touareg-25-1.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/velebit2jpg/7195533/BINARY/thumbnail/velebit2.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1283,7 +1373,7 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> VW
+<span> Globus
 </span>
 </div>
 </div>
@@ -1291,90 +1381,17 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </p><p>Na usporednom testu ovaj put su se našle<strong> luksuzne limuzine.</strong></p><p>
+ </p><p>U ljeto 1948. s ðacima “Isidora Kršnjavog” u Lovranu je bila profesorica glazbe, majka <strong>Stanka Vukovojca</strong>, kasnije profesora na zagrebaèkom Stomatološkom fakultetu. Djeèak je malo shvaæao o èemu je rijeè, ali strah koji su stariji na poèetku pokazivali uskoro se pretvorio u zadovoljstvo “kaj je Stari pokazal ‘grb’ Rusima”.</p><p>S Hvara, gdje je bila sa sinom i jedno vrijeme suprugom Vladimirom, u Zagreb se roditeljima vratila i Vera Velebit. Kupala je malog Vladimira kada je dotrèao njezin otac, slavni slikar <strong>Vladimir Beciæ</strong>, i uzbuðen poviknuo: “Vera, Vera, cijeli svijet govori da je tvoj muž engleski špijun! Sve radiokuæe tako javljaju.” “Ja sam se ohladila”, rekla je Vera Velebit. Odmah se vratila u Beograd i jedva u gradu pronašla taksi da se ponovno poveže s obitelji.</p><p><strong>Karlo Štajner</strong> bio je u Norilsku, u Sibiru, zatvorenik, tada na željeznièkoj stanici. Krajem lipnja 1948. nazvao ga je prijatelj i rekao da smjesta pogleda novine. Ono što je tamo pisalo “moglo bi se usporediti samo s poèetkom svjetskog rata ili Oktobarskom revolucijom”, rekao je. Štajner je pomislio da je Staljin umro. Zapadni mediji govorili su o najvažnijem dogaðaju od kapitulacije Japana, ali to se u Sibiru nije moglo znati. Karlo Štajner proèitao je novine isprva zbunjen što nitko ne prièa o neèemu tako važnom, sve dok nije vidio što se dogodilo. “Bio (sam) sretan što je moja Partija, što su baš moji drugovi rekli: ne!” Štajnera su nakon toga nagovarali da izjavi kako su <strong>Moša Pijade</strong> i Tito još u vrijeme dok su bili u zatvoru prije rata radili za imperijaliste. “Dani jugoslavenskih izdajica su odbrojeni. Vi znate da smo zgazili kolosa kao što je bila Hitlerova Njemaèka. S Jugoslavijom æemo biti gotovi za nekoliko sati”, rekao je oficir NKVD-a, ali bio je u krivu.</p><p>
 <section>
-<article class="aktualno media ">
+<article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33614-pmpng/7159251" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/zdanovjpg/7195536" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33614-pmpng/7159251/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.36.14%20PM.png"
+<img src="https://www.jutarnji.hr/incoming/zdanovjpg/7195536/ALTERNATES/FREE_380/zdanov.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33614-pmpng/7159251/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.36.14%20PM.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>U Ženevi smo poprièali s glavnom zvijezdom salona - Matom Rimcem koji nam je otkrio sve detalje svog <strong>novog modela C_Two </strong>kao i planove za buduænost kompanije.</p><p>
-<section>
-<article class="aktualno media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33556-pmpng/7159248" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33556-pmpng/7159248/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.35.56%20PM.png"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33556-pmpng/7159248/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.35.56%20PM.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Sjeli smo za upravljaè novog<strong> Mercedesa CLS </strong>i donosimo prve dojmove iz vožnje.</p><p>
-<section>
-<article class="aktualno media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/18c0158_021jpg/7159227" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/18c0158_021jpg/7159227/ALTERNATES/FREE_380/18C0158_021.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/18c0158_021jpg/7159227/BINARY/thumbnail/18C0158_021.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Mercedes-Benz CLS 450 4MATIC, designo hyazinthrot metallic; designo Leder Nappa schwarz/titangrau pearl; Kraftstoffverbrauch kombiniert: 7,8 l/100 km; CO2-Emissionen kombiniert: 178 g/km // Mercedes-Benz CLS 450 4MATIC, designo hyacinth red metallic; designo nappa leather black/titanium grey pearl; Fuel consumption combined: 7,8 l/100 km; CO2 emissions combined: 178 g/km"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Daimler AG
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Naravno, ne manjka ni testova, pa se tako na prvom testu našla luksuzna krstarica - novi Audi A8 50 TDI Quattro<strong> kojeg pogoni 268 KS</strong> snažan dizelaš.</p><p>
-<section>
-<article class="aktualno media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/dsc_3527jpg/7159233" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/dsc_3527jpg/7159233/ALTERNATES/FREE_380/DSC_3527.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/dsc_3527jpg/7159233/BINARY/thumbnail/DSC_3527.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/zdanovjpg/7195536/BINARY/thumbnail/zdanov.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1383,25 +1400,60 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Marko Mišèeviæ
+<span> Globus
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Andrej Ždanov</h4>
 </div>
 </div>
 </div>
 </article>
 </section>
- </p><p>Od ostalih testova izdvajamo test Dacije Sandero Stepway 0.9 TCe, redizajniranog Peugeota 308 1.5 BlueHDi i Citroena Grand C4 Picasso <strong>sa 2.0 BlueHDi dizelašem</strong> i 6-stupanjskim automatskim mjenjaèem. Tu je i novi izvještaj sa našeg maraton testa elektriènog Renaulta Zoe.</p><p>
+ </p><p><strong>Miroslav Krleža</strong> u Zagreb se vratio iznenada 28. lipnja 1948. iz Dubrovnika. Za njega je to bilo olakšanje, jer su sumnje u Staljina bile veæ godinama preozbiljne. “Misao koja je KPJ dala snage, inspiracija koja je Partiju nosila da ne sustane, zastava koju je pronijela kroz oluje, bila je lenjinska revolucionarna politika, koja je na koncu i pobijedila na temelju genijalne Staljinove politièke strategije...” pisao je u ime Jugoslavenske akademije znanosti i umjetnosti Krleža Titu. Samostalnost režima nije znaèila odricanje ne samo do komunizma – to nikada nije bila opcija – nego ni od Staljina. Trebalo je pripremiti sve da se neovisni položaj uspije dokazati, ali kritika Staljina došla je nekoliko mjeseci kasnije.</p><p>U Moskvi je krajem lipnja trajao pripremni sastanak za Dunavsku konferenciju koja je trebala poèeti u Beogradu toga ljeta. Diplomat<strong> Aleš Bebler</strong> bio je na èelu izaslanstva i 29. lipnja na sastanak je došao s Pravdom, u kojoj je objavljen tekst Rezolucije. “Jeste li èitali današnje novine?” pitao je <strong>Andrej Višinski</strong>, zamjenik ministra vanjskih poslova SSSR-a, Beblera. “Èitao sam, i mislim da je to najgori broj Pravde koji sam ikada èitao”, izgovorio je jugoslavenski delegat, nakon èega je sjednica prekinuta. Trebalo je proæi još neko vrijeme, trebalo se pomiriti s promjenom koja je udarala u duboka uvjerenja, koja je tražila da se odbaci ono što je do juèer bilo nedvojbeno, da se ostane uz vlast koja je bila posve sama. “Sami smo... neka. Sami uvijek bjesmo/Ko’ dub, što stoji na proplanku svom...” pisao je <strong>Vladimir Nazor</strong>, tada šef hrvatske države. Uskoro je promijenio uvodne stihove jedne od svojih najsnažnijih ratnih pjesama. “Uz Tita i Staljina, dva junaèka sina” postalo je samo “Uz maršala Tita, junaèkoga sina...” S amerièkom pomoæi, politikom koju je definirao slavni <strong>George Kennan</strong>, zadaæa je bila jednostavnija. “Tita održati na površini”, glasilo je naèelo koje je SAD poštovao sve do 1989. godine.</p><p>
 <section>
-<article class="aktualno media ">
+<article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/img_2196jpg/7159236" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/josip-broz-tito/7195524" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/img_2196jpg/7159236/ALTERNATES/FREE_380/IMG_2196.JPG"
+<img src="https://www.jutarnji.hr/incoming/josip-broz-tito/7195524/ALTERNATES/FREE_380/Josip%20Broz%20Tito"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/img_2196jpg/7159236/BINARY/thumbnail/IMG_2196.JPG"
+data-src-template="https://www.jutarnji.hr/incoming/josip-broz-tito/7195524/BINARY/thumbnail/Josip%20Broz%20Tito"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Josip Broz Tito (1892-1980), president de la Yougoslavie, dans son bureau. Un portrait de Joseph Staline est accroche au mur. Photographie, 1946-1947. Museum of Yugoslavian History, Belgrad
+President of Yugoslavia Josip Broz Tito (1892-1980) in his work studio. Photograph, 1946-1947. Museum of Yugoslavian History, Belgrad
+©FineArtImages/Leemage"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> leemage
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Josip Broz Tito</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Objava Rezolucije IB-a od JNA je stvorila poluratnu vojsku. Napustiti vojsku bilo je poput izdaje, pa je <strong>Dušan Bilandžiæ</strong> na èelu jednog puka uz rovove uz Dravu proveo èitavu godinu dana. Rezolucija IB-a pojaèala je ulogu tajnih službi i tajne policije, terora u jugoslavenskom društvu. Atmosfera sumnjièenja, izvlaèenje najgorih karakternih osobina, sve je to pojaèano u stanju neizvjesnosti, provokacija, straha što bi moglo biti navale li svi na Jugoslaviju, pitanja zašto Tita optužuju baš svi, od <strong>Mao Zedonga</strong> do <strong>Palmira Togliattija</strong>. Rezolucija i kasniji razvoj omoguæili su da se mala država europskog jugoistoka pretvori u samostalni faktor na meðunarodnoj sceni. Bilo je to iznad stvarnih moguænosti, ali Hladni rat bio je razdoblje koje je osiguravalo da mali zaigraju velike role. Takvu je promjenu slijedio Washington, sretan da se dogodilo èudo, koje je osiguravalo da se u strateškom smislu jug Europe uèini silno sigurnijim za Zapad, da se u Istoènu Europu uglavi crv razdora.</p><p>“Juèer je bila obljetnica druga Staljina. U èitavom socijalistièkom pravovjernom svijetu (krivovjerci su nešto drugo) nije mu ime ni spomenuto. Sic transit... Kad je netko mrtav, onda je to zaistinu. Tko zna kako æe biti kad se navrši 100. obljetnica? Ili æe biti izdane marke s njegovim likom, ili neæe zbog njega nitko u školama dobiti ni drugi red. Ime u udžbenicima jedini je trajni oblik posmrtne ‘slave’, kako bi nova pokoljenja mogla spominjati njegovu gospoðu mater”, pisao je <strong>Slavku Batušiæu</strong> <strong>Josip Horvat</strong> 6. ožujka 1963. Staljin se u meðuvremenu na vrlo specifièan naèin vratio u život, ne samo kroz prisjeæanja nevjernika. Film “Staljinova smrt” <strong>Armanda Iannuccija </strong>zabranjen je ove godine maloljetnicima u Rusiji. Nasljednici maršala Žukova žalili su se zbog karikaturalnog prikazivanja slavnog ratnika, ali glavni problem nije nostalgija prema Staljinu ili ideologiji koju je predstavljao, nego ismijavanje onoga koji je uspostavio imperij. Nevjernici tako i dalje snimaju filmove.</p><p>U svim zemljama nekadašnjeg varšavskog lagera na jugoslavensku 1948. može se gledati kao na poèetak stvarnog smrzavanja odnosa. Èistka “titoista” u Istoènoj Europi znaèila je odstranjenje svih koji su imali inicijativu ili mogli ugroziti sovjetsku dominaciju. Od tada, kako je napisao <strong>John Lewis Gaddis</strong>, “komunistièki svijet više nikada nije bio isti”. Od pobožnih sljedbenika Jugoslaveni su postali šizmatici. Staljinov plan nije bio izgubiti Jugoslaviju, ali je onda, najprije u nadi da æe traženje lojalnih komunista srušiti titoistièku kliku, iskoristio situaciju da oèisti titoiste u Istoènoj Europi. U procesu je posve uništena nada da Moskva donosi bilo što drugo do mraza, ne samo na Istoku nego s vremenom prije svega meðu komunistima na Zapadu. Titoisti koji su ostali “u ormaru” pojavljivali su se s vremena na vrijeme u razlièitim istoènoeuropskim državama. Sovjetski imperij nametnut je Istoènoj Europi i oslanjao se najprije na ideologiju i silu, a potom samo na silu. Posljednji put titoisti iz ormara ispali su 1989., kada je proces emancipacije postao nezaustavljiv. Tada je trebalo naplatiti rezultate onog što je 1948. postavljeno, ali SFRJ se raspala iznutra.</p><p>U Hrvatskoj, zemlji nacionalizma i verbalnog antikomunizma, nema više ni Tita, a Staljina nema još od 1948. Sovjeti ili Rusi puno su manji problem od Zagoraca koji su bili partizani ili u dijelu života komunisti. Kod nas se od kraja Hladnog rata uopæe ne govori o najvažnijem hladnoratovskom dogaðaju u jugoslavenskoj povijesti. Kako i bi! Izmeðu Tita i Staljina, otpora hegemonu i približavanja Zapadu, primjera male zemlje koja se uspješno suprotstavila kolosu, savezništva sa Zapadom koji je rezultirao stvaranjem posve nove hladnoratovske situacije i, konaèno, vodio i vojnom savezu s dvije NATO èlanice 1953., sve bi se to moralo spomenuti, objasniti i reæi – “Bravar je bio bolji” – barem od Staljina. Kako to ne može, nije se o 1948. govorilo. Moglo se možda govoriti o jugoslavenskom gulagu na Golom otoku? Bilo je to mjesto gdje su staljinisti i neki drugi staljinistièkim metodama muèeni na izdržavanju kazne, jedan od najsramotnijih jugoslavenskih kazamata. Isto tako, bio je to jedan od najefikasnijih modela kada je trebalo pokazati na Zapadu “kako stoje stvari” sa Staljinovim pristašama.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/globus_naslovnicajpg/7191846" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/globus_naslovnicajpg/7191846/ALTERNATES/FREE_380/globus_naslovnica.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/globus_naslovnicajpg/7191846/BINARY/thumbnail/globus_naslovnica.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1410,7 +1462,7 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Hrvoje Tomiæ
+<span> GLOBUS
 </span>
 </div>
 </div>
@@ -1418,108 +1470,12 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </p><p>Na testu rabljenog ovaj put se našla prva generacija Peugeota 508.</p><p>U rubrici servis <strong>èeka vas zanimljiva tema o chip tuningu</strong> koji diže snagu motora i pritom smanjuje potrošnju automobila.</p><p>
-<section>
-<article class="aktualno media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/lac_8564jpg/7159239" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/lac_8564jpg/7159239/ALTERNATES/FREE_380/LAC_8564.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/lac_8564jpg/7159239/BINARY/thumbnail/LAC_8564.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Ivan Lackoviæ
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Da potencijal motora s unutrašnjim izgaranjem nije još ni približno iscrpljen dokazuje <strong>Toyotin novi benzinski motor</strong> o kojem možete proèitati sve detalje.</p><p>U rubrici vremeplov<strong> èeka vas prièa o Rudolfu Dieselu,</strong> tvorcu genijalnog izuma starog 126 godina koji je danas postao glavna meta ekoloških aktivista.</p><p>
-<section>
-<article class="aktualno media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33628-pmpng/7159254" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33628-pmpng/7159254/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.36.28%20PM.png"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33628-pmpng/7159254/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.36.28%20PM.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Za ljubitelje motosporta donosimo izvještaj s posljednjih testiranja prije prve utrke sezone F1, detalje s relija u Meksiku i <strong>otvaranja Moto GP sezone u Kataru.</strong></p><p>
-<section>
-<article class="aktualno media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33641-pmpng/7159257" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33641-pmpng/7159257/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.36.41%20PM.png"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33641-pmpng/7159257/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.36.41%20PM.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Uglavnom, i u ovom æe se broju pronaæi za svakog ponešto. Ugodno èitanje!</p><p>
-<section>
-<article class="aktualno media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33524-pmpng/7159242" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33524-pmpng/7159242/ALTERNATES/FREE_380/Screen%20shot%202018-03-22%20at%203.35.24%20PM.png"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/screen-shot-2018-03-22-at-33524-pmpng/7159242/BINARY/thumbnail/Screen%20shot%202018-03-22%20at%203.35.24%20PM.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p>
+ </p><p>Da je Hrvatska ozbiljna kada se govori o ljudskim pravima, onda bi, bez obzira na kontekst, 13.000 zatvorenih imalo ureðen spomen, muzej, sve bi moglo biti iskoristivo u borbi protiv Tita, koji je još uvijek najaktivniji i najatraktivniji politièar u Hrvata, koji je smetnja i zato što je Tuðman ispao iz Titova šinjela. Kod nas je poteškoæa što je na Golom bilo najmanje Slovenaca i Hrvata, pa onda hrvatske vlasti nisu zainteresirane da se uredi spomen na one koji nisu bili “naši”. U Hrvatskoj se nije dogodilo ono što su prije nekoliko godina napravili Makedonci. U Muzeju makedonske borbe, meðu ostalim žrtvama, spominje se èak 30.000 Makedonaca na Golom otoku. Izmišljanje brojki do sada je bilo èesto na ovim prostorima, i to se vjerojatno neæe promijeniti zbog èinjenice da je 17 èlanova Vijeæa za suoèavanje s posljedicama nedemokratskih režima, uz 8 izdvojenih mišljenja, donijelo preporuke koje æe biti predmet analiza povjesnièara demokratskog režima Republike Hrvatske i ništa više od toga. Ove godine vjerojatno se na HTV-u neæe pojaviti ni obrada “Ježeve kuæice” Branka Æopiæa, što ju je prije 10 godina, 2008., za Hrvatsku televiziju pripremila <strong>Branka Šeparoviæ</strong>, ne misleæi, naravno, na Tita, a možda i ne znajuæi koja je to “kuæica” i koja “slobodica” obraðena u Æopiæevoj alegoriji.</p><p>Danas, pisao je novinar <strong>Tomislav Markoviæ</strong> u povodu 180 godina od uspostave diplomatskih odnosa Srbije i Rusije u veljaèi 2018., bilo bi sasvim normalno da se popusti Putinu, da se pristane na bilo kakav diktat. U tekstu koji su u Politici zajednièki potpisali <strong>Ivica Daèiæ </strong>i <strong>Sergej Lavrov</strong>, srpski i ruski šef diplomacije, o 1948. nije napisano ni slova. Predsjednik <strong>Aleksandar Vuèiæ</strong> govorio je o neprekinutom prijateljstvu dvaju naroda, kao da se 1948. i sva desetljeæa manje ili više napetih odnosa nisu dogodila. Povijesti odnosa kao da nema izmeðu 1945. i 1999. Danas bi zato, pisao je novinar Al Jazeere, “došlo do utrkivanja tko æe prije potpisati Rezoluciju, složiti se sa svim što u njoj stoji i pokazati lojalnost baæuški caru”.</p><p>Danas se neka rezolucija ne bi potpisivala na temelju ideološke povezanosti, ali to je ionako malo važno. Danas se nikako ne bi dogodilo da Putin èetiri puta u osam mjeseci provede dane u društvu jednog ili svih postjugoslavenskih predsjednika i premijera zajedno, kao što je u nastojanju da Tita vrati na Istok 1956. uèinio <strong>Nikita Hrušèov</strong>. Više nema Hladnog rata, nema suprotstavljenih ideologija, ostalo je samo ono èime je Rusija i ranije plašila mnoge. Nema ni cara ni boljševika, ali <strong>Putin </strong>plaši Baltik i poneke na Balkanu. Imperij je ono što je plašilo, plašile su prakse nestanka, surovosti, grubosti. Jugoslavija je 1948. odgurnula bratsku slavensku ljubav, odvlaèenje od Zapada, autoritarnost na ruski naèin. Od Rezolucije IB-a prošlo je 70 godina. Od jugoslavenskog okreta prema Zapadu i pretvaranju u drukèiju socijalistièku državu 69. Svoðenje Tita na totalitarnog voðu kakav je bio izmeðu svibnja 1945. i lipnja 1948. nije dovoljno dugo da bi se Tito i Jugoslavija, a onda i njihovi zamišljeni i izmišljeni zagovornici – liberali, ljevièari, nemrzitelji manjina ili podupiratelji Istanbulske konvencije – demonizirali. Zato o najvažnijoj epizodi Hladnog rata prije svega u javnom prostoru šutimo veæ desetljeæima.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7162659 p").filter(function () {
+$("#content-body-6263871-7195509 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1528,16 +1484,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7162659").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7195509").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7162659").children().slice(max).remove();
+$("#content-body-6263871-7195509").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7162659").children().get(0);
+var firstChild = $("#content-body-6263871-7195509").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1572,6 +1528,29 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/hladni_rat" class ="label label-default" >
+hladni rat
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Jugoslavija" class ="label label-default" >
+Jugoslavija
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Josif_Visarionovi%C4%8D_Staljin" class ="label label-default" >
+Josif Visarionoviè Staljin
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Josip_Broz_Tito" class ="label label-default" >
+Josip Broz Tito
+</a>
+</li>
+</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1579,6 +1558,36 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
+<article class="zivotne-price media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ovo-je-posljednji-titov-grad-na-prostorima-bivse-jugoslavije-kada-bih-mogao-dignuti-broza-iz-groba-i-leci-tamo-umjesto-njega-ja-bih-to-ucinio-odmah/7116618/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-posljednji-titov-grad-na-prostorima-bivse-jugoslavije-kada-bih-mogao-dignuti-broza-iz-groba-i-leci-tamo-umjesto-njega-ja-bih-to-ucinio-odmah/7116618/">
+OVO JE POSLJEDNJI TITOV GRAD NA PROSTORIMA BIVŠE JUGOSLAVIJE 'Kada bih mogao dignuti Broza iz groba i leæi tamo umjesto njega, ja bih to uèinio odmah'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="globus-politika media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/krlezin-rat-i-mir-s-jugoslavenstvom-u-mladosti-je-vjerovao-da-je-moguce-jugoslavenstvo-koje-ne-bi-negiralo-hrvatstvo-60-ih-je-poceo-gubiti-vjeru-u-to/7019631/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/globus/Globus-politika/krlezin-rat-i-mir-s-jugoslavenstvom-u-mladosti-je-vjerovao-da-je-moguce-jugoslavenstvo-koje-ne-bi-negiralo-hrvatstvo-60-ih-je-poceo-gubiti-vjeru-u-to/7019631/">
+KRLEŽIN RAT I MIR S JUGOSLAVENSTVOM U mladosti je vjerovao da je moguæe jugoslavenstvo koje ne bi negiralo hrvatstvo, 60-ih je poèeo gubiti vjeru u to
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1658,7 +1667,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7162659" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7195509" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1690,19 +1699,20 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="aktualno media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/sami-izracunajte-koliko-cete-od-2018-placati-promjenu-vlasnistva-automobila/6848805/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/zapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav/7195509/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/sami-izracunajte-koliko-cete-od-2018-placati-promjenu-vlasnistva-automobila/6848805/">
-EKSKLUZIVNI KALKULATOR
+<a href="https://www.jutarnji.hr/globus/Globus-politika/zapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav/7195509/">
+OBLJETNICA TITOVOG 'NE!'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/sami-izracunajte-koliko-cete-od-2018-placati-promjenu-vlasnistva-automobila/6848805/">
-SAMI IZRAÈUNAJTE KOLIKO ÆETE OD 2018. plaæati promjenu vlasništva automobila </a>
+<a href="https://www.jutarnji.hr/globus/Globus-politika/zapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav/7195509/">
+ZAPAD JE BIO U ŠOKU Kako je došlo do najvažnijeg dogaðaja za Jugoslaviju u eri hladnog rata i zašto današnja Hrvatska taj raskol gura u zaborav...
+</a>
 </h4>
 </div>
 </div>
@@ -1711,19 +1721,19 @@ SAMI IZRAÈUNAJTE KOLIKO ÆETE OD 2018. plaæati promjenu vlasništva automobila </a
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="aktualno media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/svjedocanstva-hrvata-s-prve-crte-istocne-fronte-zasto-smo-dobrovoljno-otisli-u-ratni-pakao-imao-sam-placu-10000-kn-ali-dao-sam-otkaz-i-otisao/7192929/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/">
-SEDAM VELIÈANSTVENIH
+<a href="https://www.jutarnji.hr/globus/Globus-politika/svjedocanstva-hrvata-s-prve-crte-istocne-fronte-zasto-smo-dobrovoljno-otisli-u-ratni-pakao-imao-sam-placu-10000-kn-ali-dao-sam-otkaz-i-otisao/7192929/">
+PROGOVORILI ZA GLOBUS
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-ovo-je-top-sedam-najboljih-automobila-svih-vremena-s-pogonom-na-sve-kotace/7132887/">
-FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe!
+<a href="https://www.jutarnji.hr/globus/Globus-politika/svjedocanstva-hrvata-s-prve-crte-istocne-fronte-zasto-smo-dobrovoljno-otisli-u-ratni-pakao-imao-sam-placu-10000-kn-ali-dao-sam-otkaz-i-otisao/7192929/">
+SVJEDOÈANSTVA HRVATA S PRVE CRTE ISTOÈNE FRONTE: ZAŠTO SMO DOBROVOLJNO OTIŠLI U RATNI PAKAO 'Imao sam plaæu 10.000 kn, ali dao sam otkaz i otišao...'
 </a>
 </h4>
 </div>
@@ -1733,18 +1743,19 @@ FOTO: OVO JE TOP SEDAM NAJBOLJIH AUTOMOBILA svih vremena s pogonom na sve kotaèe
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="aktualno media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-video-mitsubishi-eclipse-cross-stigao-u-domace-salone-u-ponudi-samo-benzinac-a-cijene-krecu-od-185900-kuna/7152309/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/nema-ni-dana-radnog-staza-formalno-je-zaposlen-u-slovackoj-kao-komercijalist-s-placom-od-tisucu-eura-a-na-racunu-ima-40-milijuna-kuna/7166055/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-video-mitsubishi-eclipse-cross-stigao-u-domace-salone-u-ponudi-samo-benzinac-a-cijene-krecu-od-185900-kuna/7152309/">
-ZAPOÈELA PRODAJA </a>
+<a href="https://www.jutarnji.hr/globus/Globus-politika/nema-ni-dana-radnog-staza-formalno-je-zaposlen-u-slovackoj-kao-komercijalist-s-placom-od-tisucu-eura-a-na-racunu-ima-40-milijuna-kuna/7166055/">
+LUKAV I HLADNOKRVAN
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-video-mitsubishi-eclipse-cross-stigao-u-domace-salone-u-ponudi-samo-benzinac-a-cijene-krecu-od-185900-kuna/7152309/">
-FOTO, VIDEO: MITSUBISHI ECLIPSE CROSS stigao u domaæe salone! U ponudi samo benzinac, a cijene kreæu od 185.900 kuna
+<a href="https://www.jutarnji.hr/globus/Globus-politika/nema-ni-dana-radnog-staza-formalno-je-zaposlen-u-slovackoj-kao-komercijalist-s-placom-od-tisucu-eura-a-na-racunu-ima-40-milijuna-kuna/7166055/">
+Nema ni dana radnog staža, formalno je zaposlen u Slovaèkoj kao komercijalist s plaæom od tisuæu eura, a na raèunu ima 40 milijuna kuna
 </a>
 </h4>
 </div>
@@ -1754,19 +1765,19 @@ FOTO, VIDEO: MITSUBISHI ECLIPSE CROSS stigao u domaæe salone! U ponudi samo benz
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="aktualno media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/kazne-pristigle-iz-eu-mozete-baciti-ako-ste-dobili-pismo-iz-druge-clanice-unije-s-obavijesti-policije-o-kazni-gotovo-sigurno-je-ne-morate-platiti/7080240/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/ja-sam-majka-rodne-teorije-iznenadena-sam-sto-i-danas-ima-politickih-rezima-u-kojima-se-napada-pojam-roda-vrlo-je-vazno-suprotstaviti-se-tim-napadima/7177248/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/kazne-pristigle-iz-eu-mozete-baciti-ako-ste-dobili-pismo-iz-druge-clanice-unije-s-obavijesti-policije-o-kazni-gotovo-sigurno-je-ne-morate-platiti/7080240/">
-EUCARIS NA KOLJENIMA
+<a href="https://www.jutarnji.hr/globus/Globus-politika/ja-sam-majka-rodne-teorije-iznenadena-sam-sto-i-danas-ima-politickih-rezima-u-kojima-se-napada-pojam-roda-vrlo-je-vazno-suprotstaviti-se-tim-napadima/7177248/">
+ANN OAKLEY ZA GLOBUS
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/kazne-pristigle-iz-eu-mozete-baciti-ako-ste-dobili-pismo-iz-druge-clanice-unije-s-obavijesti-policije-o-kazni-gotovo-sigurno-je-ne-morate-platiti/7080240/">
-KAZNE PRISTIGLE IZ EU MOŽETE BACITI! Ako ste dobili pismo iz druge èlanice Unije s obavijesti policije o kazni, gotovo sigurno je ne morate platiti
+<a href="https://www.jutarnji.hr/globus/Globus-politika/ja-sam-majka-rodne-teorije-iznenadena-sam-sto-i-danas-ima-politickih-rezima-u-kojima-se-napada-pojam-roda-vrlo-je-vazno-suprotstaviti-se-tim-napadima/7177248/">
+JA SAM MAJKA RODNE TEORIJE Iznenaðena sam što i danas ima politièkih režima u kojima se napada pojam roda. Vrlo je važno suprotstaviti se tim napadima
 </a>
 </h4>
 </div>
@@ -1788,7 +1799,7 @@ KAZNE PRISTIGLE IZ EU MOŽETE BACITI! Ako ste dobili pismo iz druge èlanice Unije
 </div>
 </div>
 <div class="row " >
-<div class="col-sm-4 " >
+<div class="col-sm-4 openInNewTab" >
 <section>
 <article class="banner-testing-page media none">
 <div class="teaser "
@@ -1813,15 +1824,15 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-<img src="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/ALTERNATES/LANDSCAPE_380/danijela%20martinovi%C4%87%20i%20mama.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+<img src="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/ALTERNATES/LANDSCAPE_380/Sanja_Vejnovi%C4%87_00"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/BINARY/thumbnail/danijela%20martinovi%C4%87%20i%20mama.PNG"
+data-src-template="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/BINARY/thumbnail/Sanja_Vejnovi%C4%87_00"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1833,19 +1844,19 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-Danijela Martinoviæ majku razveselila darom koji æe pamtiti!
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+Sanja Vejnoviæ o agoniji na hitnoj: 'Horor od procedure me zamalo koštao života'
 </a>
 </h4>
 </div>
 </div>
 </article>
 </div>
-<div class="col-sm-4 " >
+<div class="col-sm-4 openInNewTab" >
 <iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
 </div>
-<div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+<div class="col-sm-4 openInNewTab" >
+<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
 </div>
 </div>
 <div class="row dfp-no-padding " >
@@ -2262,19 +2273,10 @@ FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'F
 }
 window.onload = fbCommentGA;
 </script>
-<script type='text/javascript'>
-var axel = Math.random() + '';
-var a = axel * 10000000000000;
-document.write('<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=' + a + ';dc_seg=459159291?" width=1 height=1 border=0/>');
-</script>
-<noscript>
-<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=1;dc_seg=459159291?" width=1 height=1 border=0/>
-</noscript>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
-<script async src="//cdn.midas-network.com/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
 <div id="jl-floater-wrapper" class="jl-floater-wrapper">
 <div id="jl-float" class="jl-floater">
 <!-- /11425286/jl_floater -->
@@ -2304,14 +2306,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/zbog-velikog-kvara-racunalnog-sustava-kasne-tisuce-letova-diljem-europe?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1497684580zracna_luka-140515.jpg?v=1497684637" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
+<h4>KAOS U ZRAÈNOM PROMETU/Zbog velikog kvara raèunalnog sustava kasne tisuæe letova diljem Europe</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2355,12 +2357,56 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=63&contextPath=1-62-63-&pubId=1&cat=&meta=read-story&objId=7162659&type=article&title=AUTO+KLUB+OTKRIVA%3a+Umjesto+obe%c4%87anih+vinjeta+sti%c5%beu+skuplje+cestarine!+Prve+fotografije+novog+VW+Touarega%2c+prvi+test+Audija+A8%2c+sve+o+chip+tuningu...&url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2faktualno%2fauto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu%2f7162659%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=159&contextPath=1-85-159-&pubId=1&cat=&meta=read-story&objId=7195509&type=article&title=ZAPAD+JE+BIO+U+%c5%a0OKU+Kako+je+do%c5%a1lo+do+najva%c5%benijeg+doga%c4%91aja+za+Jugoslaviju+u+eri+hladnog+rata+i+za%c5%a1to+dana%c5%a1nja+Hrvatska+taj+raskol+gura+u+zaborav...&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fzapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav%2f7195509%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=63&amp;contextPath=1-62-63-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7162659&amp;type=article&amp;title=AUTO+KLUB+OTKRIVA%3a+Umjesto+obe%c4%87anih+vinjeta+sti%c5%beu+skuplje+cestarine!+Prve+fotografije+novog+VW+Touarega%2c+prvi+test+Audija+A8%2c+sve+o+chip+tuningu...&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2faktualno%2fauto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu%2f7162659%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=159&amp;contextPath=1-85-159-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7195509&amp;type=article&amp;title=ZAPAD+JE+BIO+U+%c5%a0OKU+Kako+je+do%c5%a1lo+do+najva%c5%benijeg+doga%c4%91aja+za+Jugoslaviju+u+eri+hladnog+rata+i+za%c5%a1to+dana%c5%a1nja+Hrvatska+taj+raskol+gura+u+zaborav...&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fzapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav%2f7195509%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=2113346362&title=Josip+Broz+Tito&url=tag%3ajltags%40eph.hr%2c2016%3aJosip_Broz_Tito&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2113346362&amp;title=Josip+Broz+Tito&amp;url=tag%3ajltags%40eph.hr%2c2016%3aJosip_Broz_Tito&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=430490854&title=Josif+Visarionovi%c4%8d+Staljin&url=tag%3ajltags%40eph.hr%2c2016%3aJosif_Visarionovi%25C4%258D_Staljin&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=430490854&amp;title=Josif+Visarionovi%c4%8d+Staljin&amp;url=tag%3ajltags%40eph.hr%2c2016%3aJosif_Visarionovi%25C4%258D_Staljin&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=1849149873&title=Jugoslavija&url=tag%3ajltags%40eph.hr%2c2016%3aJugoslavija&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1849149873&amp;title=Jugoslavija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aJugoslavija&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=63855954&title=hladni+rat&url=tag%3ajltags%40eph.hr%2c2016%3ahladni_rat&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=63855954&amp;title=hladni+rat&amp;url=tag%3ajltags%40eph.hr%2c2016%3ahladni_rat&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2413,7 +2459,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-politika/zapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav/7195509/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2423,14 +2469,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/autoklub/aktualno/auto-klub-otkriva-umjesto-obecanih-vinjeta-stizu-skuplje-cestarine-prve-fotografije-novog-vw-touarega-prvi-test-audija-a8-sve-o-chip-tuningu/7162659/",
-postId : "7162659",
+url : "https://www.jutarnji.hr/globus/Globus-politika/zapad-je-bio-u-soku-kako-je-doslo-do-najvaznijeg-dogadaja-za-jugoslaviju-u-eri-hladnog-rata-i-zasto-danasnja-hrvatska-taj-raskol-gura-u-zaborav/7195509/",
+postId : "7195509",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "AUTO KLUB OTKRIVA: Umjesto obeæanih vinjeta stižu skuplje cestarine! Prve fotografije novog VW Touarega, prvi test Audija A8, sve o chip tuningu... ",
-pubdate : "2018-03-23 11:47",
-authors : "Zvonimir Jurèiæ",
-sections : "Front Page, Auto klub, Aktualno",
-tags : "",
+title : "ZAPAD JE BIO U ŠOKU Kako je došlo do najvažnijeg dogaðaja za Jugoslaviju u eri hladnog rata i zašto današnja Hrvatska taj raskol gura u zaborav...",
+pubdate : "2018-04-02 10:19",
+authors : "Tvrtko Jakovina",
+sections : "Front Page, Globus, Politika",
+tags : "Josip Broz Tito, Josif Visarionoviè Staljin, Jugoslavija, hladni rat",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

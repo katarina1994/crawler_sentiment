@@ -2,21 +2,21 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Poljska, prosvjed, pobaèaj" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Dubrovaèka policija sumnjièila je 44-godišnjeg direktora tvrtke u Korèuli za više kaznenih djela iz podruèja gospodarskog kriminaliteta, a neslužbeno se doznaje kako je rijeè o vlasniku noænog kluba &#034;Boogie Jungle&#034; koji je tijekom 2016. i 2017. zaraðenu gotovinu koristio za plaæanje vlastitih troškova, oštetivši klub za više od dva milijuna kuna." />
+<meta name="keywords" content="Korèula" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FOTO: POLJSKA NA NOGAMA, TISUÆE LJUDI NA ULICAMA ZBOG NOVOG ZAKONA Poljakinje æe 5 godina u zatvor ako pobace, a nisu silovane ili im je ugrožen život - Jutarnji List</title>
+<title>&#039;NIJE IZDAVAO RAÈUNE, PLAÆE JE ISPLAÆIVAO NA RUKE, UTAJIO JE POREZ...&#039; Vlasnik jednog od najpoznatijih klubova na hrvatskom jugu prisvojio si milijune - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
-<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
 <script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
 <script>
 window.Criteo = window.Criteo || {};
 window.Criteo.events = window.Criteo.events || [];
 </script>
 <section>
-<!-- DFP verzija 9.1 -->
+<!-- DFP verzija 11 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -63,7 +63,8 @@ dfpUnits = {
 "connectad": {"placementId": "634"},
 "appnexus": {"placementId": "12512215"},
 "criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"}
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
 },
 },
 "div-gpt-ad-1459756830165-1" : {
@@ -72,11 +73,18 @@ dfpUnits = {
 "size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
 "sizeType" : "aside",
 "container" : "jl-banner-wrapper-2",
-"lazyLoad" : true,
+"lazyLoad" : false,
 "mobile" : false,
 "deviceType" : "desktop",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
 },
 "div-gpt-ad-1459756830165-2" : {
 "slot" : "billboard",
@@ -117,13 +125,15 @@ dfpUnits = {
 "connectad": {"placementId": "1024"},
 "appnexus": {"placementId": "12512211"},
 "criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"}
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
 },
 "prebidConfigMobile" : {
 "connectad": {"placementId": "637"},
 "appnexus": {"placementId": "12512220"},
 "criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"}
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
 },
 },
 "div-gpt-ad-1459756830165-8" : {
@@ -136,7 +146,21 @@ dfpUnits = {
 "mobile" : true,
 "deviceType" : "all",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
 },
 "div-gpt-ad-1459756830165-9" : {
 "slot" : "inarticle3",
@@ -176,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "SE";
+var dfpCountryCode = "US";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Svijet";
+var dfpCategory = "Crna kronika";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7165044";
-var dfpArticleKeyword = "Poljska";
+var dfpArticle = "7200957";
+var dfpArticleKeyword = "Korèula";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -413,6 +437,8 @@ bidderParams = unitData[unitPrebidConfigParam][bidderName];
 if (bidderName === 'connectad') {
 bidderParams['networkId'] = '10047';
 bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
 }
 var bidderData = {bidder: bidderName, params: bidderParams};
 unitBids.push(bidderData);
@@ -444,7 +470,9 @@ googletag.pubads().refresh(dfpRefreshPrebidUnits);
 if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
 pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -607,8 +635,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/foto-poljska-na-nogama-tisuce-ljudi-na-ulicama-zbog-novog-zakona-poljakinje-ce-5-godina-u-zatvor-ako-pobace-a-nisu-silovane-ili-im-je-ugrozen-zivot/7165044/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/foto-poljska-na-nogama-tisuce-ljudi-na-ulicama-zbog-novog-zakona-poljakinje-ce-5-godina-u-zatvor-ako-pobace-a-nisu-silovane-ili-im-je-ugrozen-zivot/7165044/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/nije-izdavao-racune-place-je-isplacivao-na-ruke-utajio-je-porez-vlasnik-jednog-od-najpoznatijih-klubova-na-hrvatskom-jugu-prisvojio-si-milijune/7200957/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/nije-izdavao-racune-place-je-isplacivao-na-ruke-utajio-je-porez-vlasnik-jednog-od-najpoznatijih-klubova-na-hrvatskom-jugu-prisvojio-si-milijune/7200957/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -621,21 +649,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/poljska-prosvjed-pobacaj/7165038/ALTERNATES/LANDSCAPE_1180/Poljska,%20prosvjed,%20poba%C4%8Daj" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/policija-milicija/6437263/ALTERNATES/LANDSCAPE_1180/policija%20milicija" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/poljska-prosvjed-pobacaj/7165038/ALTERNATES/LANDSCAPE_1180/Poljska,%20prosvjed,%20poba%C4%8Daj">
-<meta property="og:title" content="FOTO: POLJSKA NA NOGAMA, TISUÆE LJUDI NA ULICAMA ZBOG NOVOG ZAKONA Poljakinje æe 5 godina u zatvor ako pobace, a nisu silovane ili im je ugrožen život" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/policija-milicija/6437263/ALTERNATES/LANDSCAPE_1180/policija%20milicija">
+<meta property="og:title" content="'NIJE IZDAVAO RAÈUNE, PLAÆE JE ISPLAÆIVAO NA RUKE, UTAJIO JE POREZ...' Vlasnik jednog od najpoznatijih klubova na hrvatskom jugu prisvojio si milijune" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/foto-poljska-na-nogama-tisuce-ljudi-na-ulicama-zbog-novog-zakona-poljakinje-ce-5-godina-u-zatvor-ako-pobace-a-nisu-silovane-ili-im-je-ugrozen-zivot/7165044/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/nije-izdavao-racune-place-je-isplacivao-na-ruke-utajio-je-porez-vlasnik-jednog-od-najpoznatijih-klubova-na-hrvatskom-jugu-prisvojio-si-milijune/7200957/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Dubrovaèka policija sumnjièila je 44-godišnjeg direktora tvrtke u Korèuli za više kaznenih djela iz podruèja gospodarskog kriminaliteta, a neslužbeno se doznaje kako je rijeè o vlasniku noænog kluba "Boogie Jungle" koji je tijekom 2016. i 2017. zaraðenu gotovinu koristio za plaæanje vlastitih troškova, oštetivši klub za više od dva milijuna kuna." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="FOTO: POLJSKA NA NOGAMA, TISUÆE LJUDI NA ULICAMA ZBOG NOVOG ZAKONA Poljakinje æe 5 godina u zatvor ako pobace, a nisu silovane ili im je ugrožen život">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:title" content="'NIJE IZDAVAO RAÈUNE, PLAÆE JE ISPLAÆIVAO NA RUKE, UTAJIO JE POREZ...' Vlasnik jednog od najpoznatijih klubova na hrvatskom jugu prisvojio si milijune">
+<meta name="twitter:description" content="Dubrovaèka policija sumnjièila je 44-godišnjeg direktora tvrtke u Korèuli za više kaznenih djela iz podruèja gospodarskog kriminaliteta, a neslužbeno se doznaje kako je rijeè o vlasniku noænog kluba "Boogie Jungle" koji je tijekom 2016. i 2017. zaraðenu gotovinu koristio za plaæanje vlastitih troškova, oštetivši klub za više od dva milijuna kuna.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -658,8 +686,8 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Svijet, Vijesti, Front Page",
-pubdate: "2018-03-23T19:40+01:00",
+data: { section: "Crna kronika, Vijesti, Front Page",
+pubdate: "2018-04-03T16:52+02:00",
 author: "Hina",
 object_type: "article",
 custom_sponsored: 0
@@ -700,10 +728,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <script type="text/javascript">
 $(function() {
 if ($("#related-news-box").has("ul").length) {
-if ($("[id^='content-body-'] > p").length < 3) {
+if ($("[id^='content-body-'] > p").length < 0) {
 $("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
 } else {
-$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(3));
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
 }
 } else {
 $("#related-news-box").remove();
@@ -832,12 +860,12 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1137,7 +1165,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1145,12 +1173,12 @@ Mozgalice
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1207,11 +1235,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-CRNI PETAK
+GOSPODARSKI KRIMINAL
 </p>
 <h1
 class="title">
-FOTO: POLJSKA NA NOGAMA, TISUÆE LJUDI NA ULICAMA ZBOG NOVOG ZAKONA Poljakinje æe 5 godina u zatvor ako pobace, a nisu silovane ili im je ugrožen život
+'NIJE IZDAVAO RAÈUNE, PLAÆE JE ISPLAÆIVAO NA RUKE, UTAJIO JE POREZ...' Vlasnik jednog od najpoznatijih klubova na hrvatskom jugu prisvojio si milijune
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1227,7 +1255,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-23.03.2018. u 19:40
+03.04.2018. u 16:52
 </p>
 </li>
 </ul>
@@ -1239,21 +1267,23 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/poljska-prosvjed-pobacaj/7165038" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/policija-milicija/6437263" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/poljska-prosvjed-pobacaj/7165038/ALTERNATES/LANDSCAPE_380/Poljska,%20prosvjed,%20poba%C4%8Daj"
+<img src="https://www.jutarnji.hr/incoming/policija-milicija/6437263/ALTERNATES/LANDSCAPE_380/policija%20milicija"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/poljska-prosvjed-pobacaj/7165038/BINARY/thumbnail/Poljska,%20prosvjed,%20poba%C4%8Daj"
+data-src-template="https://www.jutarnji.hr/incoming/policija-milicija/6437263/BINARY/thumbnail/policija%20milicija"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Kosovo kod Knina, 270215.
+Oko 18 sati doslo je prometne nesrece u kojoj tertni vlak na pruznom prijelazu kod tvornice Knauf udario u kamion sleper.
+Foto: Niksa Stipanicev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> REUTERS
+<span> Nikša Stipanièev / CROPIX
 </span>
 </div>
 </div>
@@ -1262,10 +1292,6 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1289,36 +1315,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7165044"
+<div id="content-body-6263871-7200957"
 >
-<p>Tisuæe ljudi u petak je izišlo na ulice u Poljskoj kako bi na &quot;crni petak&quot; sudjelovali u prosvjedima protiv nacrta zakona kojim bi se trebao postrožiti zakon protiv pobaèaja, koji je i dosad bio meðu najstrožima u Europi.</p><p>U Varšavi su djevojke u dobro organiziranom prosvjedu dizale uvis velike crvene kartonske ruke s natpisom &quot;STOP&quot;. Drugi su nosili transparente s razlièitim natpisima koji su se nerijetko rimovali, poput &quot;Kapelice su vaše, maternice naše&quot; i &quot;Želimo pravo izbora, a ne strah&quot;.</p><p>Nešto ranije tijekom dana, povjerenik Vijeæa Europe za ljudska prava <strong>Nils Muižnieks</strong> upozorio je Poljsku kako je taj nacrt, kojim se zabranjuje pobaèaj kod malformacije ploda, nespojiv s obvezama zemlje na polju ljudskih prava.</p><p>Masovni skupovi organizirani su i u mnogim drugim gradovima u zemlji: Poznanu, Wroclawu, Krakovu, Gdanjsku i Szczecinu.</p><p>Ako parlament prihvati tekst koji je predložio odbor &quot;Zaustavimo pobaèaj&quot;, što je sasvim moguæe, pobaèaj æe biti moguæ samo u dva sluèaja: kad je ugrožen život majke i ako je žena zatrudnjela nakon silovanja ili incesta.</p><p>Nacrt predviða petogodišnju zatvorsku kaznu za lijeènike, sestre pa i same trudnice, koji sudjeluju u pobaèaju, ali ostavlja moguænost sucu da ne kazni potonje.</p><p> <section>
-<article class="svijet media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/tisuce-na-prosvjedu-protiv-nacrta-zakona-protiv-pobacaja/7165017/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/vijesti/svijet/tisuce-na-prosvjedu-protiv-nacrta-zakona-protiv-pobacaja/7165017/">
-<img src="https://www.jutarnji.hr/incoming/2018-03-23t180453z_1430811572_rc1229192f90_rtrmadp_3_poland-abortionjpg/7164987/ALTERNATES/LANDSCAPE_380/2018-03-23T180453Z_1430811572_RC1229192F90_RTRMADP_3_POLAND-ABORTION.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/2018-03-23t180453z_1430811572_rc1229192f90_rtrmadp_3_poland-abortionjpg/7164987/BINARY/thumbnail/2018-03-23T180453Z_1430811572_RC1229192F90_RTRMADP_3_POLAND-ABORTION.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="People gather during a protest against plans to further restrict abortion laws in Warsaw, Poland March 23, 2018. Agencja Gazeta/Dawid Zuchowicz via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. POLAND OUT. NO COMMERCIAL OR EDITORIAL SALES IN POLAND. *** Local Caption *** hniki Warszawa"
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
- </p>
+<p>Dubrovaèka policija sumnjièila je 44-godišnjeg direktora tvrtke u Korèuli za više kaznenih djela iz podruèja gospodarskog kriminaliteta, a neslužbeno se doznaje kako je rijeè o vlasniku noænog kluba &quot;Boogie Jungle&quot; koji je tijekom 2016. i 2017. zaraðenu gotovinu koristio za plaæanje vlastitih troškova, oštetivši klub za više od dva milijuna kuna.</p><p>Policija je u utorak izvijestila kako 44-godišnjaka sumnjièi za kaznena djela zlouporabe povjerenja u gospodarskom poslovanju, utaje poreza i carine, povrede prava iz socijalnog osiguranja, neisplate plaæa te povrede obveza voðenja trgovaèkih i poslovnih knjiga.</p><p>&quot;Osumnjièeni je na razne naèine prihod trgovaèkog društva, naplaæen u gotovu novcu, prisvajao za sebe, koristio za plaæanje vlastitih troškova i plaæanje rashoda poslovanja, a novac nije prikazao u poslovnim knjigama&quot;, navode u PU dobrovaèko-neretvanskoj.</p><p>Kako bi izbjegao plaæanje poreza, osumnjièeni nije izdavao raèune za svaku pruženu uslugu kako bi prikrio stvarno ostvaren promet, a plaæe djelatnicima kluba isplaæivao je u gotovini iz ostvarenog prometa, s ciljem izbjegavanja plaæanja obveznih doprinosa te poreza na dohodak.</p><p>Sumnjièi se i da kao vlasnik noænog kluba u poslovne knjige nije uredno evidentirao sve poslovne dogaðaje.</p><p>Policija ga je kazneno prijavila Državnom odvjetništvu.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7165044 p").filter(function () {
+$("#content-body-6263871-7200957 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1327,16 +1331,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7165044").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7200957").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7165044").children().slice(max).remove();
+$("#content-body-6263871-7200957").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7165044").children().get(0);
+var firstChild = $("#content-body-6263871-7200957").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1374,18 +1378,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/poba%C4%8Daj" class ="label label-default" >
-pobaèaj
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/prosvjed" class ="label label-default" >
-prosvjed
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Poljska" class ="label label-default" >
-Poljska
+<a href="https://www.jutarnji.hr/tag/Kor%C4%8Dula" class ="label label-default" >
+Korèula
 </a>
 </li>
 </ul>
@@ -1396,15 +1390,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="globus-svijet media none">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-svijet/poljska-desnica-sprema-se-potpuno-zabraniti-abortus-hapsit-ce-cak-i-zene-koje-spontano-pobace-ne-zaustavite-li-fundamentaliste-isto-ceka-i-rh/6716085/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/bivsi-blagajnik-progovorio-o-kriminalu-na-naplatnim-kucicama-na-vecoj-se-naplatnoj-postaji-preko-ljeta-bez-problema-moze-uzeti-po-20-tisuca-kuna/7089981/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-svijet/poljska-desnica-sprema-se-potpuno-zabraniti-abortus-hapsit-ce-cak-i-zene-koje-spontano-pobace-ne-zaustavite-li-fundamentaliste-isto-ceka-i-rh/6716085/">
-'Poljska desnica sprema se potpuno zabraniti abortus: hapsit æe èak i žene koje spontano pobace. Ne zaustavite li fundamentaliste, isto èeka i RH'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/bivsi-blagajnik-progovorio-o-kriminalu-na-naplatnim-kucicama-na-vecoj-se-naplatnoj-postaji-preko-ljeta-bez-problema-moze-uzeti-po-20-tisuca-kuna/7089981/">
+BIVŠI BLAGAJNIK PROGOVORIO O KRIMINALU NA NAPLATNIM KUÆICAMA 'Na veæoj se naplatnoj postaji preko ljeta bez problema može uzeti po 20 tisuæa kuna'
 </a>
 </h4>
 </li>
@@ -1415,93 +1409,6 @@ data-widget-position="0">
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div style="text-align:center;" class="addthis_responsive_sharing"></div>
-<div class="titleRow promo_heading_fix">
-<div class="col-sm-12">
-<h3 class="section_title_alt izdvojeno_alt"><div><span>ELIPSO</span></div></h3>
-</div>
-</div>
-<div class="upscore-pos-7 ">
-<section>
-<div class="elipso products upscore-pos-8">
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128355.jpg" alt="GRUNDIG 40GFT6740" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 500,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">GRUNDIG 40GFT6740</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">televizori</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">2.499,00 kn</span>
-<span class="old-price">2.999,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/audio__video/televizori/GRUNDIG-40GFT6740/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 30.04.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/127979.jpg" alt="HP 1XN28EA HP 250 G6" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HP 1XN28EA HP 250 G6</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">laptopi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">3.499,00 kn</span>
-<span class="old-price">3.599,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/informatika/laptopi/HP-1XN28EA-HP-250-G6/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 14.03.2018 do 31.03.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/129549.jpg" alt="PHILIPS FC6408" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 1.000,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">PHILIPS FC6408</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">usisavaèi</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.799,00 kn</span>
-<span class="old-price">2.799,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mali-kucanski/usisavaci/PHILIPS-FC6408/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 15.03.2018 do 31.05.2018</a>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-lg-3 product">
-<div class="img media">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank"><img src="/static/image/?imageUrl=https://cdn2.elipso.hr/www/images/xbig/128075.jpg" alt="HUAWEI P9 LITE MINI CRNI" /></a>
-</div>
-<div class="savings"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">UŠTEDA 100,00 kn</a></div>
-<div class="name">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">HUAWEI P9 LITE MINI CRNI</a>
-</div>
-<div class="tag"><a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">mobiteli</a></div>
-<div class="prices">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">
-<span class="new-price">1.199,00 kn</span>
-<span class="old-price">1.299,00 kn</span>
-</a>
-</div>
-<div class="duration">
-<a href="https://www.elipso.hr/mobile/mobiteli/HUAWEI-P9-LITE-MINI-CRNI/?utm_source=jutarnji.hr&amp;utm_medium=cpd&amp;utm_campaign=Elipso_product_feed_native" rel="nofollow" target="_blank">Akcija traje od 02.03.2018 do 31.03.2018</a>
-</div>
-</div>
-</div>
-</section>
-</div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1589,7 +1496,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7165044" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7200957" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1621,19 +1528,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/video-presuda-za-ubojstvo-studentice-afganistanac-je-prvo-lagao-za-godine-a-onda-su-pocele-curiti-mracne-price-iz-njegove-proslosti/7157943/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/teska-prometna-nesreca-kod-luckog-ozlijedeno-vise-osoba-policija-provodi-ocevid-promet-preusmjeren-stvaraju-se-velike-guzve/7195431/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/video-presuda-za-ubojstvo-studentice-afganistanac-je-prvo-lagao-za-godine-a-onda-su-pocele-curiti-mracne-price-iz-njegove-proslosti/7157943/">
-HUSEIN K.
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/teska-prometna-nesreca-kod-luckog-ozlijedeno-vise-osoba-policija-provodi-ocevid-promet-preusmjeren-stvaraju-se-velike-guzve/7195431/">
+HAK POZIVA NA OPREZ
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/video-presuda-za-ubojstvo-studentice-afganistanac-je-prvo-lagao-za-godine-a-onda-su-pocele-curiti-mracne-price-iz-njegove-proslosti/7157943/">
-VIDEO: PRESUDA ZA UBOJSTVO STUDENTICE Afganistanac je prvo lagao za godine, a onda su poèele curiti mraène prièe iz njegove prošlosti
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/teska-prometna-nesreca-kod-luckog-ozlijedeno-vise-osoba-policija-provodi-ocevid-promet-preusmjeren-stvaraju-se-velike-guzve/7195431/">
+TEŠKA PROMETNA NESREÆA KOD LUÈKOG Ozlijeðeno više osoba, policija provodi oèevid, promet preusmjeren, stvaraju se velike gužve
 </a>
 </h4>
 </div>
@@ -1643,19 +1550,19 @@ VIDEO: PRESUDA ZA UBOJSTVO STUDENTICE Afganistanac je prvo lagao za godine, a on
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/video-pogledajte-trenutak-uzasa-u-nizozemskom-parlamentu-covjek-pokusao-samoubojstvo-dok-je-zastupnik-pricao-za-govornicom/7158297/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/poznati-hrvatski-poduzetnik-mora-u-zatvor-svim-se-silama-borio-protiv-sudske-odluke-ali-na-svim-su-ga-adresama-odbili-mora-odsluziti-dvije-godine/7192308/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/video-pogledajte-trenutak-uzasa-u-nizozemskom-parlamentu-covjek-pokusao-samoubojstvo-dok-je-zastupnik-pricao-za-govornicom/7158297/">
-SVI SU U ŠOKU
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/poznati-hrvatski-poduzetnik-mora-u-zatvor-svim-se-silama-borio-protiv-sudske-odluke-ali-na-svim-su-ga-adresama-odbili-mora-odsluziti-dvije-godine/7192308/">
+AKCIJA GLAVAŠ
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/video-pogledajte-trenutak-uzasa-u-nizozemskom-parlamentu-covjek-pokusao-samoubojstvo-dok-je-zastupnik-pricao-za-govornicom/7158297/">
-VIDEO: POGLEDAJTE TRENUTAK UŽASA U NIZOZEMSKOM PARLAMENTU Èovjek pokušao samoubojstvo dok je zastupnik prièao za govornicom
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/poznati-hrvatski-poduzetnik-mora-u-zatvor-svim-se-silama-borio-protiv-sudske-odluke-ali-na-svim-su-ga-adresama-odbili-mora-odsluziti-dvije-godine/7192308/">
+POZNATI HRVATSKI PODUZETNIK MORA U ZATVOR Svim se silama borio protiv sudske odluke, ali na svim su ga adresama odbili, mora odslužiti dvije godine
 </a>
 </h4>
 </div>
@@ -1665,19 +1572,19 @@ VIDEO: POGLEDAJTE TRENUTAK UŽASA U NIZOZEMSKOM PARLAMENTU Èovjek pokušao samoubo
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/obrat-u-slucaju-manekenke-koja-je-skocila-s-6-kata-bjezala-je-od-biznismena-a-kad-se-probudila-s-polomljenom-kraljeznicom-uslijedio-je-novi-sok/7157163/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/brza-sam-i-marljiva-18-godina-u-ugostiteljstvu-sjajna-kuharica-ugostitelji-pomislili-da-su-nasli-dobrog-radnika-nisu-ni-slutili-s-kim-imaju-posla/7184694/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/obrat-u-slucaju-manekenke-koja-je-skocila-s-6-kata-bjezala-je-od-biznismena-a-kad-se-probudila-s-polomljenom-kraljeznicom-uslijedio-je-novi-sok/7157163/">
-SAMO ÈUDOM PREŽIVJELA
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/brza-sam-i-marljiva-18-godina-u-ugostiteljstvu-sjajna-kuharica-ugostitelji-pomislili-da-su-nasli-dobrog-radnika-nisu-ni-slutili-s-kim-imaju-posla/7184694/">
+PREVARENI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/obrat-u-slucaju-manekenke-koja-je-skocila-s-6-kata-bjezala-je-od-biznismena-a-kad-se-probudila-s-polomljenom-kraljeznicom-uslijedio-je-novi-sok/7157163/">
-OBRAT U SLUÈAJU MANEKENKE KOJA JE SKOÈILA S 6. KATA Bježala je od biznismena, a kad se probudila s polomljenom kralježnicom, uslijedio je novi šok
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/brza-sam-i-marljiva-18-godina-u-ugostiteljstvu-sjajna-kuharica-ugostitelji-pomislili-da-su-nasli-dobrog-radnika-nisu-ni-slutili-s-kim-imaju-posla/7184694/">
+'BRZA SAM I MARLJIVA, 18 GODINA U UGOSTITELJSTVU, SJAJNA KUHARICA' Ugostitelji pomislili da su našli dobrog radnika, nisu ni slutili s kim imaju posla
 </a>
 </h4>
 </div>
@@ -1687,19 +1594,19 @@ OBRAT U SLUÈAJU MANEKENKE KOJA JE SKOÈILA S 6. KATA Bježala je od biznismena, a 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/nevidena-panika-na-sjeveru-italije-borbeni-avioni-probili-zvucni-zid-u-potjeri-za-boeingom-koji-je-izgubio-kontakt-s-kontrolom-leta-nastala-pomutnja/7160076/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/taj-kirurg-me-oralno-silovao-sest-puta-bivsi-sef-bolnickog-odjela-i-njegov-kolega-optuzeni-da-su-spolno-uznemiravali-specijalizanticu/7192374/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/nevidena-panika-na-sjeveru-italije-borbeni-avioni-probili-zvucni-zid-u-potjeri-za-boeingom-koji-je-izgubio-kontakt-s-kontrolom-leta-nastala-pomutnja/7160076/">
-BEZBROJ POZIVA U POMOÆ
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/taj-kirurg-me-oralno-silovao-sest-puta-bivsi-sef-bolnickog-odjela-i-njegov-kolega-optuzeni-da-su-spolno-uznemiravali-specijalizanticu/7192374/">
+UŽAS U RIJECI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/nevidena-panika-na-sjeveru-italije-borbeni-avioni-probili-zvucni-zid-u-potjeri-za-boeingom-koji-je-izgubio-kontakt-s-kontrolom-leta-nastala-pomutnja/7160076/">
-NEVIÐENA PANIKA NA SJEVERU ITALIJE Borbeni avioni probili zvuèni zid u potjeri za Boeingom koji je izgubio kontakt s kontrolom leta, nastala pomutnja
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/taj-kirurg-me-oralno-silovao-sest-puta-bivsi-sef-bolnickog-odjela-i-njegov-kolega-optuzeni-da-su-spolno-uznemiravali-specijalizanticu/7192374/">
+'TAJ KIRURG ME ORALNO SILOVAO ŠEST PUTA' Bivši šef bolnièkog odjela i njegov kolega optuženi da su spolno uznemiravali specijalizanticu
 </a>
 </h4>
 </div>
@@ -1737,15 +1644,15 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-<img src="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/ALTERNATES/LANDSCAPE_380/danijela%20martinovi%C4%87%20i%20mama.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+<img src="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/ALTERNATES/LANDSCAPE_380/Sanja_Vejnovi%C4%87_00"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/BINARY/thumbnail/danijela%20martinovi%C4%87%20i%20mama.PNG"
+data-src-template="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/BINARY/thumbnail/Sanja_Vejnovi%C4%87_00"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1757,8 +1664,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-Danijela Martinoviæ majku razveselila darom koji æe pamtiti!
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+Sanja Vejnoviæ o agoniji na hitnoj: 'Horor od procedure me zamalo koštao života'
 </a>
 </h4>
 </div>
@@ -1822,12 +1729,12 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -2186,19 +2093,10 @@ FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'F
 }
 window.onload = fbCommentGA;
 </script>
-<script type='text/javascript'>
-var axel = Math.random() + '';
-var a = axel * 10000000000000;
-document.write('<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=' + a + ';dc_seg=459159291?" width=1 height=1 border=0/>');
-</script>
-<noscript>
-<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=1;dc_seg=459159291?" width=1 height=1 border=0/>
-</noscript>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
-<script async src="//cdn.midas-network.com/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
 <div id="jl-floater-wrapper" class="jl-floater-wrapper">
 <div id="jl-float" class="jl-floater">
 <!-- /11425286/jl_floater -->
@@ -2228,14 +2126,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/zbog-velikog-kvara-racunalnog-sustava-kasne-tisuce-letova-diljem-europe?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1497684580zracna_luka-140515.jpg?v=1497684637" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
+<h4>KAOS U ZRAÈNOM PROMETU/Zbog velikog kvara raèunalnog sustava kasne tisuæe letova diljem Europe</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2279,45 +2177,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7165044&type=article&title=FOTO%3a+POLJSKA+NA+NOGAMA%2c+TISU%c4%86E+LJUDI+NA+ULICAMA+ZBOG+NOVOG+ZAKONA+Poljakinje+%c4%87e+5+godina+u+zatvor+ako+pobace%2c+a+nisu+silovane+ili+im+je+ugro%c5%been+%c5%beivot&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ffoto-poljska-na-nogama-tisuce-ljudi-na-ulicama-zbog-novog-zakona-poljakinje-ce-5-godina-u-zatvor-ako-pobace-a-nisu-silovane-ili-im-je-ugrozen-zivot%2f7165044%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7200957&type=article&title=%26%23039%3bNIJE+IZDAVAO+RA%c4%8cUNE%2c+PLA%c4%86E+JE+ISPLA%c4%86IVAO+NA+RUKE%2c+UTAJIO+JE+POREZ...%26%23039%3b+Vlasnik+jednog+od+najpoznatijih+klubova+na+hrvatskom+jugu+prisvojio+si+milijune&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fnije-izdavao-racune-place-je-isplacivao-na-ruke-utajio-je-porez-vlasnik-jednog-od-najpoznatijih-klubova-na-hrvatskom-jugu-prisvojio-si-milijune%2f7200957%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7165044&amp;type=article&amp;title=FOTO%3a+POLJSKA+NA+NOGAMA%2c+TISU%c4%86E+LJUDI+NA+ULICAMA+ZBOG+NOVOG+ZAKONA+Poljakinje+%c4%87e+5+godina+u+zatvor+ako+pobace%2c+a+nisu+silovane+ili+im+je+ugro%c5%been+%c5%beivot&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ffoto-poljska-na-nogama-tisuce-ljudi-na-ulicama-zbog-novog-zakona-poljakinje-ce-5-godina-u-zatvor-ako-pobace-a-nisu-silovane-ili-im-je-ugrozen-zivot%2f7165044%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7200957&amp;type=article&amp;title=%26%23039%3bNIJE+IZDAVAO+RA%c4%8cUNE%2c+PLA%c4%86E+JE+ISPLA%c4%86IVAO+NA+RUKE%2c+UTAJIO+JE+POREZ...%26%23039%3b+Vlasnik+jednog+od+najpoznatijih+klubova+na+hrvatskom+jugu+prisvojio+si+milijune&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fnije-izdavao-racune-place-je-isplacivao-na-ruke-utajio-je-porez-vlasnik-jednog-od-najpoznatijih-klubova-na-hrvatskom-jugu-prisvojio-si-milijune%2f7200957%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1442492284&title=Poljska&url=tag%3ajltags%40eph.hr%2c2016%3aPoljska&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1148941703&title=Kor%c4%8dula&url=tag%3ajltags%40eph.hr%2c2016%3aKor%25C4%258Dula&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1442492284&amp;title=Poljska&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPoljska&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=271816289&title=prosvjed&url=tag%3ajltags%40eph.hr%2c2016%3aprosvjed&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=271816289&amp;title=prosvjed&amp;url=tag%3ajltags%40eph.hr%2c2016%3aprosvjed&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=499365304&title=poba%c4%8daj&url=tag%3ajltags%40eph.hr%2c2016%3apoba%25C4%258Daj&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=499365304&amp;title=poba%c4%8daj&amp;url=tag%3ajltags%40eph.hr%2c2016%3apoba%25C4%258Daj&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1148941703&amp;title=Kor%c4%8dula&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKor%25C4%258Dula&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2370,7 +2246,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/foto-poljska-na-nogama-tisuce-ljudi-na-ulicama-zbog-novog-zakona-poljakinje-ce-5-godina-u-zatvor-ako-pobace-a-nisu-silovane-ili-im-je-ugrozen-zivot/7165044/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/nije-izdavao-racune-place-je-isplacivao-na-ruke-utajio-je-porez-vlasnik-jednog-od-najpoznatijih-klubova-na-hrvatskom-jugu-prisvojio-si-milijune/7200957/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2380,14 +2256,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/svijet/foto-poljska-na-nogama-tisuce-ljudi-na-ulicama-zbog-novog-zakona-poljakinje-ce-5-godina-u-zatvor-ako-pobace-a-nisu-silovane-ili-im-je-ugrozen-zivot/7165044/",
-postId : "7165044",
+url : "https://www.jutarnji.hr/vijesti/crna-kronika/nije-izdavao-racune-place-je-isplacivao-na-ruke-utajio-je-porez-vlasnik-jednog-od-najpoznatijih-klubova-na-hrvatskom-jugu-prisvojio-si-milijune/7200957/",
+postId : "7200957",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "FOTO: POLJSKA NA NOGAMA, TISUÆE LJUDI NA ULICAMA ZBOG NOVOG ZAKONA Poljakinje æe 5 godina u zatvor ako pobace, a nisu silovane ili im je ugrožen život",
-pubdate : "2018-03-23 19:40",
+title : "'NIJE IZDAVAO RAÈUNE, PLAÆE JE ISPLAÆIVAO NA RUKE, UTAJIO JE POREZ...' Vlasnik jednog od najpoznatijih klubova na hrvatskom jugu prisvojio si milijune",
+pubdate : "2018-04-03 16:52",
 authors : "Hina",
-sections : "Front Page, Svijet",
-tags : "Poljska, prosvjed, pobaèaj",
+sections : "Front Page, Crna kronika",
+tags : "Korèula",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

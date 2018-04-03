@@ -2,21 +2,21 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="O moguæim prijevremenim izborima nisam nikada razgovarao s Andrejem Plenkoviæem. Nije mi to ni spomenuo - kaže za Globus Ivan Vrdoljak, za mnoge uz premijera i stup sadašnje Vlade za koju èelnik HNS-a tvrdi da je “dobra”, ali da je dobila packu od Europske komisije. “Treba to ozbiljno shvatiti”, poruèio je stranaèkim kolegama na tradicionalnom okupljanju vodstva stranke koje je ovaj put održano u Tuheljskim toplicama protekloga vikenda." />
-<meta name="keywords" content="Ivan Vrdoljak, HNS" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<meta name="keywords" content="Kupovina, Bosna i Hercegovina, šoping" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS &#039;Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada&#039; - Jutarnji List</title>
+<title>MASOVNI ODLAZAK HRVATA U ŠOPING PREKO GRANICE: Gajba piva 30 kn jeftinija, pomama vlada za slatkišima i lijekovima, pogledajte kakve su ostale cijene - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
-<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34.js" async></script>
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
 <script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
 <script>
 window.Criteo = window.Criteo || {};
 window.Criteo.events = window.Criteo.events || [];
 </script>
 <section>
-<!-- DFP verzija 9.1 -->
+<!-- DFP verzija 11 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
 <script>
 var googletag = googletag || {};
@@ -63,7 +63,8 @@ dfpUnits = {
 "connectad": {"placementId": "634"},
 "appnexus": {"placementId": "12512215"},
 "criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"}
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
 },
 },
 "div-gpt-ad-1459756830165-1" : {
@@ -72,11 +73,18 @@ dfpUnits = {
 "size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
 "sizeType" : "aside",
 "container" : "jl-banner-wrapper-2",
-"lazyLoad" : true,
+"lazyLoad" : false,
 "mobile" : false,
 "deviceType" : "desktop",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
 },
 "div-gpt-ad-1459756830165-2" : {
 "slot" : "billboard",
@@ -117,13 +125,15 @@ dfpUnits = {
 "connectad": {"placementId": "1024"},
 "appnexus": {"placementId": "12512211"},
 "criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"}
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
 },
 "prebidConfigMobile" : {
 "connectad": {"placementId": "637"},
 "appnexus": {"placementId": "12512220"},
 "criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"}
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
 },
 },
 "div-gpt-ad-1459756830165-8" : {
@@ -136,7 +146,21 @@ dfpUnits = {
 "mobile" : true,
 "deviceType" : "all",
 "loaded" : false,
-"prebid" : false
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
 },
 "div-gpt-ad-1459756830165-9" : {
 "slot" : "inarticle3",
@@ -180,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Politika";
-var dfpCategoryParent = "Globus";
-var dfpRos = "globus-ros";
-var dfpArticle = "7160358";
-var dfpArticleKeyword = "Ivan Vrdoljak";
+var dfpCategory = "Hrvatska";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7199961";
+var dfpArticleKeyword = "Kupovina";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -413,6 +437,8 @@ bidderParams = unitData[unitPrebidConfigParam][bidderName];
 if (bidderName === 'connectad') {
 bidderParams['networkId'] = '10047';
 bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
 }
 var bidderData = {bidder: bidderName, params: bidderParams};
 unitBids.push(bidderData);
@@ -444,7 +470,9 @@ googletag.pubads().refresh(dfpRefreshPrebidUnits);
 if (dfpPrebid === true) {
 pbjs.que.push(function() {
 dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
 pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
 pbjs.addAdUnits(dfpPrebidUnits);
 pbjs.requestBids({
 bidsBackHandler: dfpPrebidSendAdServerRequest
@@ -605,8 +633,8 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/masovni-odlazak-hrvata-u-soping-preko-granice-gajba-piva-30-kn-jeftinija-pomama-vlada-za-slatkisima-i-lijekovima-pogledajte-kakve-su-ostale-cijene/7199961/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/masovni-odlazak-hrvata-u-soping-preko-granice-gajba-piva-30-kn-jeftinija-pomama-vlada-za-slatkisima-i-lijekovima-pogledajte-kakve-su-ostale-cijene/7199961/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -619,21 +647,21 @@ elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340/ALTERNATES/LANDSCAPE_1180/Ivan%20Vrdoljak" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/kupovina_naslovnajpg/7199958/ALTERNATES/LANDSCAPE_1180/kupovina_naslovna.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340/ALTERNATES/LANDSCAPE_1180/Ivan%20Vrdoljak">
-<meta property="og:title" content="IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/kupovina_naslovnajpg/7199958/ALTERNATES/LANDSCAPE_1180/kupovina_naslovna.jpg">
+<meta property="og:title" content="MASOVNI ODLAZAK HRVATA U ŠOPING PREKO GRANICE: Gajba piva 30 kn jeftinija, pomama vlada za slatkišima i lijekovima, pogledajte kakve su ostale cijene" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/masovni-odlazak-hrvata-u-soping-preko-granice-gajba-piva-30-kn-jeftinija-pomama-vlada-za-slatkisima-i-lijekovima-pogledajte-kakve-su-ostale-cijene/7199961/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="O moguæim prijevremenim izborima nisam nikada razgovarao s Andrejem Plenkoviæem. Nije mi to ni spomenuo - kaže za Globus Ivan Vrdoljak, za mnoge uz premijera i stup sadašnje Vlade za koju èelnik HNS-a tvrdi da je “dobra”, ali da je dobila packu od Europske komisije. “Treba to ozbiljno shvatiti”, poruèio je stranaèkim kolegama na tradicionalnom okupljanju vodstva stranke koje je ovaj put održano u Tuheljskim toplicama protekloga vikenda." />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Jurica Körbler">
-<meta name="twitter:title" content="IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'">
-<meta name="twitter:description" content="O moguæim prijevremenim izborima nisam nikada razgovarao s Andrejem Plenkoviæem. Nije mi to ni spomenuo - kaže za Globus Ivan Vrdoljak, za mnoge uz premijera i stup sadašnje Vlade za koju èelnik HNS-a tvrdi da je “dobra”, ali da je dobila packu od Europske komisije. “Treba to ozbiljno shvatiti”, poruèio je stranaèkim kolegama na tradicionalnom okupljanju vodstva stranke koje je ovaj put održano u Tuheljskim toplicama protekloga vikenda.">
+<meta name="twitter:creator" content=" Slobodna Dalmacija">
+<meta name="twitter:title" content="MASOVNI ODLAZAK HRVATA U ŠOPING PREKO GRANICE: Gajba piva 30 kn jeftinija, pomama vlada za slatkišima i lijekovima, pogledajte kakve su ostale cijene">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -644,7 +672,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2447';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -656,15 +684,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Politika, Globus, Front Page",
-pubdate: "2018-03-22T19:00+01:00",
-author: "Jurica Körbler",
+data: { section: "Hrvatska, Vijesti, Front Page",
+pubdate: "2018-04-03T14:01+02:00",
+author: "Slobodna Dalmacija, Zoran Šagolj",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="globus story">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -698,10 +726,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <script type="text/javascript">
 $(function() {
 if ($("#related-news-box").has("ul").length) {
-if ($("[id^='content-body-'] > p").length < 13) {
+if ($("[id^='content-body-'] > p").length < 0) {
 $("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
 } else {
-$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(13));
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
 }
 } else {
 $("#related-news-box").remove();
@@ -709,7 +737,11 @@ $("#related-news-box").remove();
 });
 </script>
 <div class="container">
-<header class="mainHead brandedHead " role="banner">
+<header class="mainHead " role="banner">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <script>
 window.fbAsyncInit = function() {
 FB.init({
@@ -728,27 +760,16 @@ fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
 <a name="top"></a>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 <div class="row " >
 <div class="col-sm-12 ">
 </div>
 </div>
 <div class="row " >
 <div class="col-sm-12 ">
-<div id="siteHead"
-class=" ">
-<div class="head_date">
-<p class="month">
-<span>23.3.</span>2018.
-</p>
-<p class="day">
-petak
-</p>
-</div>
+<div class="col-sm-12 col-lg-8 col-lg-push-2 ">
+<div id="siteHead">
 <span class="logo"><a href="/">JutarnjList</a></span>
+</div>
 </div>
 <nav class="navbar main_nav "
 role="navigation" >
@@ -761,17 +782,65 @@ role="navigation" >
 </button>
 </div>
 <div id="navbar-collapse-1" class="navbar-collapse collapse ">
-<span class="logo suplement "><a href="/">JutarnjList</a></span>
+<ul class=" main nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/">
+Naslovnica
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/biznis/">
+Biznis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/video/">
+Video
+</a>
+</li>
+</ul>
 <ul class="nav navbar-nav all_sections">
 <li>
 <a href="#" class="site_search"><span class="text-hide">Pretraži</span></a>
+<a href="https://twitter.com/jutarnjihr" class="twitter_follow"><span class="text-hide">Twitter</span></a>
+<a href="https://www.facebook.com/jutarnji.list/" class="facebook_follow"><span class="text-hide">Facebook</span></a>
+<a class="instagram_follow" href="https://www.instagram.com/jutarnji.hr/"><span class="text-hide">Instagram</span></a>
 </li>
 <li class="dropdown megadropdown ">
-<a href="#" id="menuPane-link-1">
+<a href="/" id="menuPane-link-1">
 Sve rubrike
 <div id="rwd_toggle"><span></span><span></span><span></span><span></span></div>
 </a>
-</li>
 </ul>
 </div>
 <div class="wrap-megadropdown-menu ">
@@ -784,7 +853,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1082,50 +1151,6 @@ Mozgalice
 </div>
 </div>
 </div>
-<div class="subBranding ">
-<span class="logo"><a href="/globus">Globus</a></span>
-</div>
-<div class="subLevelNavbar ">
-<ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/globus/">
-Naslovnica
-</a>
-</li>
-<li class="active">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/">
-Politika
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/globus/Globus-biznis/">
-Biznis
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/globus/Globus-svijet/">
-Svijet
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/">
-Život
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/globus/Globus-kultura/">
-Kultura
-</a>
-</li>
-</ul>
-<ul class="nav navbar-nav socialChannels">
-<li>
-<a class="facebook_follow" href="https://www.facebook.com/globus.hr/">
-<span class="text-hide">Facebook</span>
-</a>
-</li>
-</ul>
-</div>
 <div id="searchBox">
 <form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
 <div class="form-group">
@@ -1133,6 +1158,45 @@ Kultura
 <button type="submit">Submit</button>
 </div>
 </form>
+</div>
+<div class="subLevelNavbar ">
+<ul class="breadcrumb">
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
+</li>
+<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+</ul>
+<ul class=" sub nav navbar-nav">
+<li class="active">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+</ul>
 </div>
 </nav>
 </div>
@@ -1169,11 +1233,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-INTERVJU
+OD SITNICA DO NAMIRNICA
 </p>
 <h1
 class="title">
-IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'
+MASOVNI ODLAZAK HRVATA U ŠOPING PREKO GRANICE: Gajba piva 30 kn jeftinija, pomama vlada za slatkišima i lijekovima, pogledajte kakve su ostale cijene
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1181,7 +1245,8 @@ IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgova
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/jurica-k%C3%B6rbler">Jurica Körbler</a></li>
+<li><a href="https://www.jutarnji.hr/autori/slobodna-dalmacija"> Slobodna Dalmacija</a>,</li>
+<li>Zoran Šagolj</li>
 </ul>
 </p>
 </li>
@@ -1189,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-22.03.2018. u 19:00
+03.04.2018. u 14:01
 </p>
 </li>
 </ul>
@@ -1201,12 +1266,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/kupovina_naslovnajpg/7199958" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340/ALTERNATES/LANDSCAPE_380/Ivan%20Vrdoljak"
+<img src="https://www.jutarnji.hr/incoming/kupovina_naslovnajpg/7199958/ALTERNATES/LANDSCAPE_380/kupovina_naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/ivan-vrdoljak/7160340/BINARY/thumbnail/Ivan%20Vrdoljak"
+data-src-template="https://www.jutarnji.hr/incoming/kupovina_naslovnajpg/7199958/BINARY/thumbnail/kupovina_naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1215,7 +1280,7 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Biljana Blivajs / HANZA media
+<span> Hanza Media
 </span>
 </div>
 </div>
@@ -1224,6 +1289,10 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1247,14 +1316,190 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7160358"
+<div id="content-body-6263871-7199961"
 >
-<p>O moguæim prijevremenim izborima nisam nikada razgovarao s <strong>Andrejem Plenkoviæem</strong>. Nije mi to ni spomenuo - kaže za Globus <strong>Ivan Vrdoljak</strong>, za mnoge uz premijera i stup sadašnje Vlade za koju èelnik HNS-a tvrdi da je “dobra”, ali da je dobila packu od Europske komisije. “Treba to ozbiljno shvatiti”, poruèio je stranaèkim kolegama na tradicionalnom okupljanju vodstva stranke koje je ovaj put održano u Tuheljskim toplicama protekloga vikenda.</p><p>Vrdoljak ima èudnovato iskustvo, bio je meðu najbližim suradnicima <strong>Zorana Milanoviæa</strong>, a sada je i Plenkoviæu, iako zbog raznih razloga nije, bar ne još do sada, ušao u Vladu. Kaže, nisam nikada tajno pregovarao s <strong>Tomislavom Karamarkom</strong>, ali s njegovim nasljednikom, danas šefom HDZ-a i premijerom, oèito, jest. Dogovor koji je stvorio koaliciju kojoj leða èuva i <strong>Milorad Pupovac</strong> dobro se drži, ali pravi izazovi tek predstoje. </p><p>Ono što se mnogima èini da je Plenkoviæeva prednost, vrhunsko obrazovanje, uglaðenost, europejstvo, kulturno ophoðenje, istinska želja da demokratizira i HDZ i Hrvatsku, na ovim skliskim balkanskim terenima brzo se može pretvoriti u optereæenje. To iskusni Ivan Vrdoljak dobro zna, pogotovo što i ekonomija baš ne ide kako bi trebalo, pa diplomatski uljuðeno, ali ipak posve jasno kaže da je posljednji izvještaj iz Bruxellesa na neki naèin i opomena Vladi.</p><p><strong>Mediji su posljednjih dana kalkulirali da Andrej Plenkoviæ razmišlja o izvanrednim izborima. Imate li o tome nekih saznanja?</strong></p><p>- Ovo je dobra i stabilna Vlada, zato danas mislim isto što sam mislio i kada smo ušli u hrvatsku Vladu s HDZ-om, a to je da svaki izlazak na prijevremene izbore koji ne nudi alternativu, a jamèi destabilizaciju demokratskoga sustava nije dobro rješenje za Hrvatsku. Mislim da danas nije trenutak za to i da je puno prioritetnija tema završetak procesa stabilizacije Agrokora, ozbiljna gospodarska politika koja treba privuæi investicije.</p><p><strong>Dakle, s premijerom o tome niste razgovarali?</strong></p><p>- Nisam, ta tema uopæe nije bila na stolu.</p><p><strong>Protekli vikend imali ste neku vrstu “inventure” u Tuheljskim toplicama, a stalno se u oporbi spominje kako se HNS izgubio u ovoj koaliciji, da æe ga HDZ progutati i da ga na izborima, kada god oni budu, èekaju crni dani. Je li vaš dojam da je HNS izgubio odlukom da koalira s HDZ-om?</strong></p><p>- Teza je potpuno promašena, a to potvrðuje naš izborni rezultat, naše èlanstvo i naši rezultati u upravljanju i na lokalnoj i na nacionalnoj razini. HNS je izbor svih onih koji ne nasjedaju na populizam, nego oèekuju odgovornost i pametne javne politike. I u Tuheljskim toplicama je i meni i cijelom vodstvu stranke potvrðeno kako su naši èlanovi i simpatizeri prihvatili odluku da izbjegnemo treæe izbore i stabiliziramo politièki sustav Hrvatske. Ali sigurno nam neæe oprostiti sporost reformi i manjak rezultata ove Vlade. Zato imamo fokus na rezultat i siguran sam da æemo ga u konaènici ostvariti, a da æe graðani to prepoznati.</p><p><strong>Da se malo vratimo unatrag, kako je uopæe došlo do toga da se HNS odmakne od SDP-a, a dojam je da ste još za vrijeme Tomislava Karamarka stvarali platformu za suradnju s HDZ-om. Nikada to niste dokraja objasnili i je li toèno da ste s Karamarkom razgovarali o suradnji dviju stranaka?</strong></p><p>- Ta je teza krenula kada sam bio izabran za predsjednika HNS-a jer sam na izbornom saboru rekao kako je HNS graðanski centar potpuno jednako udaljen i od lijeve i od desne strane. Jedan dio novinara i javnosti je zakljuèio da tu otvaram moguænost suradnje s HDZ-om. Mi nismo o tome ni razgovarali s HDZ-om, to nije uopæe bila tema jer smo bili uvjereni da æe se vrlo brzo stabilizirati sustav nakon pobjede na izvanrednim izborima. Ali i dalje stojim iza svojih rijeèi da smo mi graðansko-liberalni centar potpuno jednako udaljeni i od lijeve i od desne strane i od njih æe ovisiti koliko æe se nama približiti svojom politikom i koliko æe biti spremni na suradnju s nama.</p><p><strong>Dakle, nikakvih tajnih razgovora s Karamarkom nije bilo?</strong></p><p>- Ne, nije bilo tajnih razgovora, jer tadašnji HDZ s Karamarkom na èelu nam nije bio prihvatljiv koalicijski partner.</p><p><strong>A kada je bio onaj presudni okidaè kada ste otišli od SDP-a i pristali na koaliciju s HDZ-om?</strong></p><p>- U onom trenutku kad je bilo jasno da idemo na treæe izbore u godinu dana da bi se ponovno politika bavila sama sobom, umjesto da se bavi goruæim problemima Hrvatske - od Agrokora i ugrožene turistièke sezone do povlaèenja bespovratnih sredstava iz EU fondova, što sve ima izravni utjecaj na naš BDP, a time i na živote svih graðana. Nitko iz opozicije nije bio spreman preuzeti odgovornost za Hrvatsku, veæ se svatko brinuo o svome imidžu, ne razmišljajuæi da Hrvatska ide prema novoj i još ozbiljnijoj krizi. Mi smo se tada odluèili pokazati da smo drukèiji i spremni na promjene koje æe rezultirati stabilizacijom i odgovornosti prema svojoj zemlji.</p><p><strong>Nedostaju li vam iz ove današnje pozicije Vesna Pusiæ, Anka Mrak-Taritaš i drugi bivši istaknuti èlanovi HNS-a?</strong></p><p>- Meni je žao što su oni otišli i više bih volio da su danas s nama, ali se u tom njihovu odlasku otvorio veliki prostor za nove mlade ljude. Navest æu samo neke - <strong>Marija Puh</strong>, <strong>Ivan Gulam</strong>, <strong>Dubravko Ponoš</strong>… Oni su sada potpredsjednici i istaknuti èlanovi, a da se sve to nije dogodilo, teško da bi imali taj politièki prostor. Tako da njihov odlazak ne gledam kao nedostatak, nego kao šansu za nove, mlade, ambiciozne ljude.</p><p><strong>Imate li sa svojim starim èlanovima neke kontakte, pozdravljate li se, razgovarate?</strong></p><p>- Da, kada se sretnemo ljudski razgovaramo.</p><p><strong>Nedavno ste govorili o suradnji koju ste imali s Milanoviæem i sada Plenkoviæem, rekavši da je bivši premijer omoguæio veæi manevarski prostor ministrima, a sadašnji voli sve kontrolirati. Kakva je zapravo suradnja s Plenkoviæem?</strong></p><p>- Suradnja je zadovoljavajuæa unatoè našim razlikama. Povezuje nas fokus na rezultate Vlade. I oni i mi znamo da graðanima moramo isporuèiti obeæane reforme.</p><p><strong>Meðutim, umjesto da se životne teme stavljaju u prvi plan, sada se opet vrtimo oko Istanbulske konvencije, koja sigurno neæe ni pomoæi ni odmoæi da hrvatski graðani bolje žive?</strong></p><p>- Toèno, to sam u više navrata govorio i javno i meðu svojim èlanstvom. Dok je fokus javnosti na Istanbulskoj konvenciji, teme od kojih graðani žive, nažalost, padaju u drugi plan. Naš stav je uvijek bio posve jasan - svi èlanovi kluba HNS-a glasat æe za ratifikaciju Konvencije, upravo da bismo tu temu zatvorili i vratili u prvi plan reformu obrazovanja, privlaèenje investicija i otvaranje novih radnih mjesta.</p><p><strong>Mislite li da ratifikacija ipak može zakomplicirati politièki život i hoæe li dodatna izjava biti dovoljna da se približe stavovi tvrðe desnice u HDZ-u i lijevog spektra?</strong></p><p>- Nemamo nikakvih problema po tom pitanju, a osobno vjerujem da je i HDZ spreman biti moderna europska konzervativna stranka, što podrazumijeva neke trendove koji se i u Europi dogaðaju kod demokršæana.</p><p><strong>Je li vas HDZ ili Plenkoviæ informirao ili ukljuèio u pisanje posebne izjave?</strong></p><p>- Za sada ne, oni završavaju konzultacije unutar stranke i oèekujem za nekoliko dana taj prijedlog. Ali, ne, nismo ukljuèeni u unutarstranaèke razgovore.</p><p><strong>Jedan od glavnih motiva da HNS uðe u ovu koaliciju bila je brža i efikasnija provedba reforme obrazovanja. Meðutim, nekih vidljivih pomaka još nema?</strong></p><p>- Pomaka itekako ima, a to pokazuju rezultati u ovih osam mjeseci koliko smo u Vladi. Napravljeno je daleko više nego što je hrvatsko obrazovanje uspjelo postiæi godinama prije. Došli smo nadomak poèetka primjene kurikularne reforme, pilot-faza kreæe veæ za pet mjeseci. U skladu s preporukom Europske komisije usvojili smo zakone o strukovnom obrazovanju, svi su novi kurikulumi gotovi, revizije su gotove i poèinje eksperimentalni program na jesen. </p><p>Osigurali smo i novac iz fondova EU za provedbu reforme, milijardu kuna za reformu strukovnog obrazovanja i 200 milijuna kuna za provedbu kurikularne reforme. Uveli smo informatiku kao obavezni predmet i sve nabrojeno govori koliko smo posla uspjeli napraviti u samo osam mjeseci. Ali to nas neæe uspavati, želimo nastaviti tim tempom.</p><p><strong>Neæe li se prièa o Istanbulskoj konvenciji, gdje se vidi podijeljenost hrvatskog društva, reflektirati i na reformu obrazovanja kada doðu osjetljive teme i pitanja na dnevni red?</strong></p><p>- Reforma obrazovanja temelj je i šansa da Hrvatska bude razvijena europska zemlja, pa ne oèekujem to. U reformi obrazovanja nema i ne smije biti ideologije. Naravno da dio hrvatskog društva želi da sve ostane isto ili da idemo nazad, i to iz partikularnih, a ne ideoloških interesa, ali vjerujem da smo kao društvo to davno prerasli.</p><p><strong>HNS se postavio i prema izvješæu Europske komisije da Hrvatska ipak nije ostvarila briljantne gospodarske rezultate o kojima Vlada èesto govori i da zaostajemo za èlanicama EU?</strong></p><p>- Mi to izvješæe smatramo vrlo ozbiljnim, kao konstruktivnu kritiku Vladi i poticaj da se svi zajedno trebamo usredotoèiti da se reformski procesi u Hrvatskoj ubrzaju. Komisija je istaknula dobre makroekonomske pokazatelje, smanjenje javnog duga, pa èak i rast koji je danas zadovoljavajuæi, ali ne prati hrvatske potencijale. </p><p>Mislim da Hrvatska može imati rast ne od 2,8 posto, nego 3,5, 4, 4,5 posto kada bismo iskoristili sve potencijale. To izvješæe nam šalje poruku da je jedan dio našeg posla solidno odraðen, ali niz drugih tema ne ide dovoljno brzo. Pohvalili su ono što se zadnjih osam mjeseci dogaða u obrazovanju, i to je nama poticaj da ne samo u obrazovanju nego i u drugim ministarstvima brže nastavimo s radom.</p><p><strong>Znaèi li ovo izvješæe opomenu da Vlada sporo radi?</strong></p><p>- Djelomièno se i tako može zakljuèiti. Ali treba znati da je Vlada bila u djelomiènoj politièkoj krizi u ljeto prošle godine, da je Agrokor uzeo dosta vremena i da se sada moramo fokusirati na važne teme. Ne bih rekao da je rijeè o neefikasnoj Vladi, ona ima vremena pokazati da može biti brza i efikasna.</p><p><strong>Mislite li da bi u Vladi trebalo svježe krvi, promjene nekih ministara?</strong></p><p>- Ne bih se osobno reflektirao na bilo kojeg ministra, a što se tièe naša dva ministra, potpredsjednika <strong>Predraga Štromara</strong> i ministrice <strong>Blaženke Divjak</strong>, tu ne treba nikakve svježe krvi jer su oni pokazali da odlièno rade.</p><p><strong>Kako procjenjujete finale oko Agrokora?</strong></p><p>- Oèekujem da æe do nagodbe doæi do ljeta ove godine, a važno je da nastavi ne samo sustav Agrokora s radom, nego i svi oni dobavljaèi, proizvoðaèi koji su bili dobrim dijelom naslonjeni na taj sustav. Želja mi je da nagodba rezultira srednjoroènim održivim planom poslovanja i zadržavanja radnih mjesta i proizvodnje.</p><p><strong>Jeste li kao jedan od kljuènih ljudi u Milanoviæevoj Vladi znali da se bliži kriza takvih razmjera u Agrokoru?</strong></p><p>- Do mene nisu dolazile takve informacije. Znalo se da su dosta zaduženi, ali u vrijeme Milanoviæeve Vlade nije bilo nikakvih problema u financiranju sustava. Nisam zato uopæe mogao predvidjeti što æe slijediti.</p><p><strong>Hrvatska je pred velikim projektom izgradnje Pelješkog mosta, a postoje sumnje da su Kinezi, koji æe najvjerojatnije graditi most, dali prenisku cijenu koja je nerealna. Može li to stvoriti nove probleme, što bi se moglo reflektirati i na ovu Vladu?</strong></p><p>- Ne vidim da æe tu doæi do problema. Bio je javni natjeèaj, sada državna komisija za javnu nabavu odluèuje o zakonitosti samog natjeèaja i nakon donošenja odluke oèekujem realizaciju projekta. Sve firme koje su se javile daju sigurnost da æe posao biti obavljen, a ne sumnjam tako ni da Kinezi ne bi završili taj posao. Ne oèekujem nikakve probleme.</p><p><strong>Postoji još nekoliko kritiènih toèaka za hrvatsko gospodarstvo, kriza u Uljaniku, Petrokemija, 3. maj...</strong></p><p>- To su teme o kojima se do sada nije dovoljno raspravljalo u javnosti. Cijeli brodograðevni sektor mora dobiti od Vlade model financiranja, jer ne postoji uspješna brodogradnja u svijetu koja nije podržana od razvojnih banaka i fondova. Imamo i otvorenu temu Petrokemije koja se treba u sljedeæih nekoliko mjeseci završiti ulaskom strateških partnera i nastavkom proizvodnje. Oèekujem da æe sljedeæih nekoliko mjeseci to biti u fokusu javnosti i rada Vlade, a tu vidim i vrlo aktivnu ulogu HNS-a.</p><p><strong>Dojam je da smo ostali po strani i kod buduæih pravaca dostave plina. Hoæe li to imati posljedice za Hrvatsku?</strong></p><p>- Nemamo mi taj problem. Danas imamo oko 50 posto svoje proizvodnje plina, što je, nažalost, u padu, ali za nekoliko mjeseci slijedi drugi krug natjeèaja za istraživanje i eksploataciju, što bi trebalo kroz nekoliko godina poveæati proizvodnju. Imamo pred sobom realizaciju projekta LNG-a na Krku i, što se tièe energetske sigurnosti i konkurencije kad je rijeè o cijenama, ne predviðam neke velike probleme.</p><p><strong>Dugo ste suraðivali sa SDP-om, kako ocjenjujete sadašnje stanje u toj stranci, pogotovo kritike da je današnja oporba u Saboru nevidljiva?</strong></p><p>- Mislim da je èak i vidljiva, ali upitno je na kojim temama. Danas je u Saboru dominantno praviti predstave i dezavuirati samu instituciju parlamenta, a ne poticati pozitivni dijalog. Iskreno se nadam da æe se to popraviti i da æe se SDP konsolidirati, jer jak SDP je potreban Hrvatskoj.</p><p><strong>Mislite da se SDP može konsolidirati s Davorom Bernardiæem na èelu?</strong></p><p>- Ne volim se baviti tuðim strankama jer svaki trenutak koristim da se bavim problemima graðana, radom Vlade, svojom strankom, suradnicima, èlanstvom.</p><p><strong>Nisu predsjednièki izbori blizu, ali se veæ o njima govori. Hoæe li HNS podržati predsjednicu Kolindu Grabar-Kitaroviæ ako se odluèi na drugi mandat ili æe imati svog kandidata?</strong></p><p>- Izbor predsjednika države važno je politièko pitanje o kojem u HNS-u vodimo raèuna, ali danas nam to nije prioritetna tema. Sada su nam u fokusu mjere i rezultati ove Vlade.</p><p><strong>Nedavno je završilo s radom Povjerenstvo za prošlost, ali rezultati baš nisu bajni. Teško da æe tako formulirani stavovi moæi biti pretoèeni u zakon, pa kakav je stav HNS-a o ustavnosti ili neustavnosti ustaškog pozdrava Za dom spremni?</strong></p><p>- Mi smo prije pola godine prièali o tome da nam je potrebnije povjerenstvo za suoèavanje s buduænosti, a ne prošlosti. Ali, poštujemo i povjerenstvo koje je pokušalo dati neki svoj okvir kako gledati na neke povijesne teme. Ono što je svima u Hrvatskoj, ne samo nama u HNS-u, bitno jest da svako rješenje mora biti sukladno Ustavu i na tome æemo inzistirati.</p><p><strong>Znaèi li to da neæete podržati stav Povjerenstva da neke iznimke mogu postojati?</strong></p><p>- Izuzeci od Ustava otvaraju Pandorinu kutiju koja nikome ne treba. Tada bi se našlo niz drugih tema i argumenata da se izuzmu iz ustavnosti. To nitko ne želi.</p><p><strong>Hrvatska se sve više susreæe s populizmom i populistièkim strankama. Koliko to može ugroziti politièki sustav?</strong></p><p>- Tu Hrvatska nije ništa drugaèija od drugih europskih zemalja. Populizam se prvo poèeo pojavljivati na desnom spektru i dogodilo se da ljevica u svom odgovoru ode u lijevi populizam. HNS je izbor svih onih koji ne nasjedaju na populizam, nego oèekuju odgovornost i pametne javne politike. Pred nama je vrijeme da se jasno artikulira da anarhisti kojih ima i u hrvatskoj politici mogu na nešto ukazivati, ali ne daju i rješenja. A mi trebamo rješenja, a ne jeftini populizam.</p><p><strong>Bulj vas je prije nekoliko dana oštro kritizirao. Imaju li te kritike pokriæe?</strong></p><p>- Pametni i ozbiljni ljudi bave se sobom i svojim idejama i rezultatima. Oni drugi, nesposobni, uglavnom se bave drugim politièarima.</p><p><strong>Raste popularnost Živog zida, Most je tu, hoæe li se trend njihove popularnosti nastaviti da se poremeti arhitektura na hrvatskoj politièkoj sceni?</strong></p><p>- Više od ovoga ne oèekujem. Prije svega zbog toga što oèekujem da æe ova Vlada dati rezultate i dokaz kako ozbiljna politika treba voditi zemlju.</p>
+<p>– Nije ti više, prijatelju, to ni blizu što je nekad bilo, ali da se ne isplati, ne bi valjda svijet dolazio – kaže <strong>Petar Burazin</strong> iz Ciste.</p><p>Neki ga je posao s prijateljem odveo s druge strane granice i, veli, više iz navike je stao na povratku i nešto kupio.</p><p>– Uglavnom sitnice za kuæu. Žena naredila – reæi æe Petar dok jednom rukom ubacuje dvije vreæice u prtljažnik, a u drugoj drži raèun i pogledom prelazi stavku po stavku.</p><p>Bio je èetvrtak, tri dana prije Uskrsa. Na parkiralištu duæana u Prisiki, prvoga nakon što proðete granièni prijelaz s BiH na Kamenskom, parkirano možda nekih desetak vozila, od èega je dvije treæine onih sa splitskim i makarskim registracijskim oznakama.</p><p>– Radni je dan, jutro. Puno više je ljudi vikendom, kada ovi naši što dolje žive &quot;izlaze&quot;. Do neki dan je bilo i snijega na Kupresu i Blidinju, pa su nam skijaši dolazili u povratku opskrbiti se – kazuje <strong>Ladislava Bakoviæ</strong>, poslovotkinja u spomenutoj trgovini, za prièu <a href="https://slobodnadalmacija.hr/novosti/bih/clanak/id/539352/hrvati-masovno-u-soping-preko-granice-gajba-piva-i-30-kuna-jeftinija-nego-kod-nas-a-prava-pomama-vlada-za-slatkisima-i-lijekovima-evo-zasto-sve-vise-graana-tablete-kupuje-u-bih-te-zasto-svi-traze--toplomjere" target="_blank">Slobodne Dalmacije.</a></p><p>Da u dobroj mjeri žive od prekograniènog šopinga, svjedoèi i velika obavijest o naèinu povratka PDV-a i valutama koje primaju. Nude uglavnom hranu, a Ladislava barata cijenama poput kakvog hodajuæeg kalkulatora.</p><p>– Ako me pitate što najviše ide, e to vam je &quot;Linolada&quot;. Kod nas je 7,95 maraka i ne možemo je pripraviti koliko se traži. Ljudi masovno kupuju i one velike &quot;Kraševe&quot; napolitanke od 840 grama. One vam doðu nekih 5,25 KM. Traži se dosta i pivo, s tim da Dalmatinci iz nekog razloga najviše kupuju &quot;Karlovaèko&quot; u gajbi. Ona je, kada se preraèuna, ovdje nekih 80 kuna, a dolje 110 – sipa iz rukava mlada poslovotkinja.</p><p>Oni meso ne prodaju, a da se može prenijeti preko granice, kupovalo bi se više od ièega.</p><p>– Nije vam samo cijena u pitanju, nego i kvaliteta. Ono što nama nude po našim šoping-centrima i ovdje kakvo meso možete naæi po mesnicama, to vam je neusporedivo – objašnjava Petar iz Ciste.</p><p>– Do rata mi jesmo živjeli od Dalmatinaca. Sada, nažalost, od putovnica – jada se mesar <strong>Mate Matiæ</strong>.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kupovina3jpg/7199937" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kupovina3jpg/7199937/ALTERNATES/FREE_380/kupovina3.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kupovina3jpg/7199937/BINARY/thumbnail/kupovina3.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Todoriæ / HANZA MEDIA
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Do prije desetak godina imao je dvije mesnice u Livnu. Kada je došao &quot;Konzum&quot; i ostala sila lanaca, odluèio se pomaknuti bliže granici. Sada duæan ima u Gornjoj Prisiki, toèno na križanju putova za Livno i Tomislavgrad, dok jedan od dva stara tek povremeno otvori. Kupci mu dolaze kao na traci, pa smo, da progovorimo koju, morali prièekati dok sve ne usluži.</p><p>– Došlo vam je dotle da se ljudi, što zbog rigoroznih kontrola, što zbog straha od kazni, ne usude kupiti ni kilo-dvije kada idu djeci u Solin i Kaštela, ili im oni dolaze ovdje. Meni, tko što god mislio, to nije normalno. Kila teleæe šnicle kod mene je preraèunato 80 kuna, a preko je nema ispod 100-110. Ili janjetina: u mene 60, tamo 75 kuna. Neka se ljudima dopusti barem da kupe koliko im treba za ruèak. Drugo su šverceri i neka njih slobodno ganjaju – predlaže mesar Mate.</p><p>Za sve je puno lakša stvar s gorivom. Natanka se koliko treba i nitko vas neæe pitati na granici. Meðutim, od 1. ožujka cijene svih derivata u BiH otišle su gore, i to po istom principu kao prije nekoliko godina u Hrvatskoj. Treba nekako financirati autoceste.</p><p>– I dizel i benzin poskupili su po 20 feninga. Sada je jedino pitanje hoæe li trgovci raditi na svoju štetu. Mi smo spustili za pet feninga i 95-icu i eurodizel prodajemo po 2,11 KM – referira nam Ivan Ivanèiæ, poslovoða jedne od privatnih crpki.</p><p>– Donedavno je razlika izmeðu nas i Hrvatske bila dvije kune po litri. Sada je to kunu i nešto. Evo bio sad èovjek iz Splita i raèuna da je na rezervoar od 36 litara uštedio nekih 50 kuna. S druge strane, imate sluèaj da je plin sada jeftinije kupovati u Hrvatskoj: tamo je 4,40, kod nas 4,44 kune – priskaèe u pomoæ njegov djelatnik<strong> Ivan Æirko.</strong></p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kupovina5jpg/7199943" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kupovina5jpg/7199943/ALTERNATES/FREE_380/kupovina5.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kupovina5jpg/7199943/BINARY/thumbnail/kupovina5.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Todoriæ / HANZA MEDIA
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kupovina4jpg/7199940" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kupovina4jpg/7199940/ALTERNATES/FREE_380/kupovina4.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kupovina4jpg/7199940/BINARY/thumbnail/kupovina4.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Todoriæ / HANZA MEDIA
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kupovina6jpg/7199949" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kupovina6jpg/7199949/ALTERNATES/FREE_380/kupovina6.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kupovina6jpg/7199949/BINARY/thumbnail/kupovina6.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Todoriæ / HANZA MEDIA
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Na crpku, ali i trgovine svih vrsta, sve se manje ide po – cigarete. I tu je BiH nabila trošarine. Na kutiji &quot;Marlbora&quot; razlika je tri kune. Osim toga, pukla je prièa da su u BiH mahom prodaje onaj maðarski, što ovisnicima o dimu ne sjeda dobro.</p><p>Ali zato æe prilièno uštedjeti oni koji motaju. Pakiranje motanog, hrvatskog duhana &quot;Zlatni dukat&quot;, s urednom markicom – znaèi, ne na crno – je 18 KM. Usporedbe radi, isto takvo u Hrvatskoj je 112 kuna. Problem može biti u tome što se legalno prenosi tek 200 grama, dok je to kod cigareta šteka po glavi èovjeka.</p><p>Ipak, ako æete uz hranu tražiti stavku uštede u kuænom budžetu zbog koje se isplati poæi u šoping u Hercegovinu, to su vam lijekovi.</p><p>Prema rijeèima ljekarnice Danijele Ðiviæ, u njihovu ispostavu u šoping-centru nadomak Tomislavgrada, kupci iz Hrvatske dolaze mahom zbog OTC-a. Za laike, to su lijekovi koji se uzimaju bez recepata.</p><p>– Ako baš moram izdvojiti jedan lijek koji se najviše traži, to je Cardiopirin. Uzima se za cirkulaciju i kad nas je kutija 3,5 maraka. Isto tako, dobro idu <strong>Lekadol, Aspirin, Kafetin, Supradin, Plivadon...</strong></p><p>I da, svi nas pitaju za stare toplomjere sa živom, jer valjda ne vjeruju u ove elektronièke. On se više ne može kupiti u Hrvatskoj, a kod nas je 6,5 maraka. Da ga i duplo poskupimo, svi bi ga opet uzimali – kaže ljubazna farmaceutkinja.</p><p>Iako ona to demantira, javna je tajna da se u hercegovaèkim apotekama mogu kupiti lijekovi za koje je u Hrvatskoj potreban recept lijeènika.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kupovina7jpg/7199952" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kupovina7jpg/7199952/ALTERNATES/FREE_380/kupovina7.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kupovina7jpg/7199952/BINARY/thumbnail/kupovina7.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Todoriæ / HANZA MEDIA
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>– Kada mi je dijete bolesno, lakše mi se zaletjeti preko granice i uzeti, primjerice, antibiotike ili sirup nego kod nas èekati u ambulanti. Platiš i uredno dobiješ. Carinici, da vam i naðu takvo što, neæe praviti probleme kada kažete da je dijete u pitanju – kazao je za 'Slobodnu' Metkovac koji živi u pograniènoj zoni što se formalno prostire po pet kilometara sa svake strane granice.</p><p>Kupujuæi veæ godinama, otkrio je da cijene u Hercegovini padaju što se ide dublje preko granice. Tako ako želi kupiti tenisice, pravac – <strong>Mostar.</strong></p><p><strong>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kupovina8jpg/7199955" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kupovina8jpg/7199955/ALTERNATES/FREE_380/kupovina8.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kupovina8jpg/7199955/BINARY/thumbnail/kupovina8.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Todoriæ / HANZA MEDIA
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </strong></p><p>– Izbor je puno veæi nego uz granicu ili u Èapljini. Patike, poznatiji brendovi, cijenom se ne razlikuju puno nego u Hrvatskoj, ali je kvaka u povratu poreza. Važno je da je raèun veæi od 101 marke i nakon što ovjerite raèun na granici, iduæi put isti taj duæan vrati vam 17 posto. Rok je tri mjeseca – jasna je kalkulacija našeg sugovornika.</p><p>Zato æe veæ ubrzo opet u Gabelu i dalje, isto kao što æe Vrgorèani u Ljubuški, Imoæani u Grude i Posušje, a Spliæani i Sinjani preko Kamenskog...</p><p> <div class="e4-sub-article ">
+<section>
+<div>
+<h5>Zamka na kavi: inspekcija lovi kune</h5><p>U praksi postoje najmanje tri teèaja za promjenu kune u marku. Najisplativiji je onaj koji obraèunavaju kartièari: po njemu jedna KM doðe 3,85 kuna.</p><p>Drugi je teèaj iz mjenjaènica. One za kune obraèunavaju proviziju od 0,5 posto (za eure 0,7 posto), pa na kraju taj omjer doðe 3,97 kuna za marku.</p><p>I konaèno tzv. džepni teèaj, odnosno kada se mijenja iz ruke u ruku. To je veæ godinama omjer jedan naprema èetiri. Meðutim, sve se manje trgovaca i ugostitelja u Hercegovini upušta u takve transakcije.</p><p>– Poreznici su pojaèali kontrole, a kazne su rigorozne. Neki su dan dvojica došla tu u kafiæ u Prisiki, uredno naruèili dvije kave i na kraju tražili da plate u kunama. Konobar pristao i gorko zažalio jer su zatvorili objekt – govore nam iz obližnje trgovine.</p>
+</div>
+</section>
+</div>
+ </p><p> <div class="e4-sub-article ">
+<section>
+<div>
+<h5>Susjedi u kontri: Hercegovci u Imotskom</h5><p>I dok državljani Hrvatske zapravo nikada nisu izgubili naviku šopinga u BiH, tako su zadnjih godina Hercegovci i ostali preko granice otkrili – &quot;Lidl&quot;.</p><p>– Otiðite u Imotski ili Metkoviæ, pa æete vidjeti èije su tablice veæina. Bosanske, naravno. Kupuju najviše strane i robne marke raznih prehrambenih potrepština, kao i sir, koji je sada u našim trgovaèkim lancima opæenito jeftiniji nego u Hercegovini, a pogotovo kada su akcije. Nekada je drukèije bilo – kazuje nam Imoæanka koja redovito kupuje i s ove i s one strane.</p>
+</div>
+</section>
+</div>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7160358 p").filter(function () {
+$("#content-body-6263871-7199961 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1263,16 +1508,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7160358").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7199961").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7160358").children().slice(max).remove();
+$("#content-body-6263871-7199961").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7160358").children().get(0);
+var firstChild = $("#content-body-6263871-7199961").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1310,13 +1555,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/HNS" class ="label label-default" >
-HNS
+<a href="https://www.jutarnji.hr/tag/%C5%A1oping" class ="label label-default" >
+šoping
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Ivan_Vrdoljak" class ="label label-default" >
-Ivan Vrdoljak
+<a href="https://www.jutarnji.hr/tag/Bosna_i_Hercegovina" class ="label label-default" >
+Bosna i Hercegovina
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Kupovina" class ="label label-default" >
+Kupovina
 </a>
 </li>
 </ul>
@@ -1327,16 +1577,43 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
+<article class="financije-i-trzista media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/ivan-vrdoljak-biraci-hns-a-razumiju-nas-ulazak-u-vladu-ali-nikad-nam-nece-oprostiti-izostanak-rezultata-vlada-se-mora-probuditi-i-ubrzati-reforme/7140654/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/biznis/financije-i-trzista/prognoza-ekonomskog-instituta-rast-bdp-a-u-ovoj-godini-bit-ce-27-posto-najvise-zahvaljujuci-potrosnji-kucanstava/7132725/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/ivan-vrdoljak-biraci-hns-a-razumiju-nas-ulazak-u-vladu-ali-nikad-nam-nece-oprostiti-izostanak-rezultata-vlada-se-mora-probuditi-i-ubrzati-reforme/7140654/">
-IVAN VRDOLJAK 'Biraèi HNS-a razumiju naš ulazak u Vladu, ali nikad nam neæe oprostiti izostanak rezultata. Vlada se mora probuditi i ubrzati reforme'
-</a>
+<a href="https://www.jutarnji.hr/biznis/financije-i-trzista/prognoza-ekonomskog-instituta-rast-bdp-a-u-ovoj-godini-bit-ce-27-posto-najvise-zahvaljujuci-potrosnji-kucanstava/7132725/">
+PROGNOZA EKONOMSKOG INSTITUTA Rast BDP-a u ovoj godini bit æe 2,7 posto, najviše zahvaljujuæi potrošnji kuæanstava </a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="svijet media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/to-je-jednostavno-ludo-francuzi-se-ne-mogu-pomiriti-s-najnovijim-podatkom-gradani-im-jedu-vise-hamburgera-od-bageta/7153116/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/to-je-jednostavno-ludo-francuzi-se-ne-mogu-pomiriti-s-najnovijim-podatkom-gradani-im-jedu-vise-hamburgera-od-bageta/7153116/">
+'TO JE JEDNOSTAVNO LUDO!' Francuzi se ne mogu pomiriti s najnovijim podatkom: Graðani im jedu više hamburgera od bageta </a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="autoklub media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/autoklub/velika-uskrsnja-nagradna-igra-ostvari-kupnju-u-arena-centru-i-osvoji-seat-aronu/7177272/" data-widget-title="" data-web-position="box"
+data-widget-position="2">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/autoklub/velika-uskrsnja-nagradna-igra-ostvari-kupnju-u-arena-centru-i-osvoji-seat-aronu/7177272/">
+VELIKA USKRŠNJA NAGRADNA IGRA: Ostvari kupnju u Arena Centru i osvoji SEAT ARONU! </a>
 </h4>
 </li>
 </ul>
@@ -1346,10 +1623,6 @@ IVAN VRDOLJAK 'Biraèi HNS-a razumiju naš ulazak u Vladu, ali nikad nam neæe opro
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div style="text-align:center;" class="addthis_responsive_sharing"></div>
-<div class="upscore-pos-7 ">
-<section class="clanak ">
-</section>
-</div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1371,6 +1644,18 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 }
 </script>
 </div>
+</div>
+<div class="jl-sticky-banner" style="margin-bottom:20px;">
+<div id="crt-45a52d88" style="width:300px;height:600px;"></div>
+<script type="text/javascript">
+Criteo.events.push(function() {
+Criteo.DisplayAcceptableAdIfAdblocked({
+"zoneid": 1168453,
+"containerid": "crt-45a52d88",
+"overrideZoneFloor": false
+});
+});
+</script>
 </div>
 </div>
 </div>
@@ -1425,7 +1710,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7160358" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7199961" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1450,26 +1735,26 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </div>
 </div>
-<div class="row " >
+<div class="row hidden-xs " >
 <div class="col-sm-12 ">
 <div class="emp_block article_most_read sidebar ">
 <h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="globus-politika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-politika/cerar-u-novom-zaletu-bruxelles-bi-s-olaksanjem-gledao-njegov-ostanak-na-vlasti-a-tada-bi-samo-pitanje-trenutka-bilo-kad-ce-rh-popustiti-oko-arbitraze/7155486/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/borbe-nisu-gotove-ali-jasno-je-kako-ce-zavrsiti-slijedi-potpuni-poraz-klerikalno-desne-struje-plenkovicev-plan-za-potpunu-kontrolu-nad-strankom/7192623/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/cerar-u-novom-zaletu-bruxelles-bi-s-olaksanjem-gledao-njegov-ostanak-na-vlasti-a-tada-bi-samo-pitanje-trenutka-bilo-kad-ce-rh-popustiti-oko-arbitraze/7155486/">
-VELIKA GLOBUSOVA ANALIZA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/borbe-nisu-gotove-ali-jasno-je-kako-ce-zavrsiti-slijedi-potpuni-poraz-klerikalno-desne-struje-plenkovicev-plan-za-potpunu-kontrolu-nad-strankom/7192623/">
+KULMINACIJA BITKE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/cerar-u-novom-zaletu-bruxelles-bi-s-olaksanjem-gledao-njegov-ostanak-na-vlasti-a-tada-bi-samo-pitanje-trenutka-bilo-kad-ce-rh-popustiti-oko-arbitraze/7155486/">
-CERAR U NOVOM ZALETU Bruxelles bi s olakšanjem gledao njegov ostanak na vlasti, a tada bi samo pitanje trenutka bilo kad æe RH popustiti oko arbitraže
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/borbe-nisu-gotove-ali-jasno-je-kako-ce-zavrsiti-slijedi-potpuni-poraz-klerikalno-desne-struje-plenkovicev-plan-za-potpunu-kontrolu-nad-strankom/7192623/">
+'BORBE NISU GOTOVE, ALI JASNO JE KAKO ÆE ZAVRŠITI: SLIJEDI POTPUNI PORAZ KLERIKALNO-DESNE STRUJE' Plenkoviæev plan za potpunu kontrolu nad strankom
 </a>
 </h4>
 </div>
@@ -1479,19 +1764,19 @@ CERAR U NOVOM ZALETU Bruxelles bi s olakšanjem gledao njegov ostanak na vlasti, 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="globus-politika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/hgss-ovci-opljackani-dok-su-tragali-za-nestalim-djecakom-junace-mozes-se-ponositi-svojim-djelom-i-postupkom/7196517/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/">
-EUROPSKE LJEVIÈARSKE ZVIJEZDE
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/hgss-ovci-opljackani-dok-su-tragali-za-nestalim-djecakom-junace-mozes-se-ponositi-svojim-djelom-i-postupkom/7196517/">
+BEZOBRAZNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/ekskluzivno-u-globusu-varufakis-i-horvat-stvaraju-transnacionalnu-listu-za-eu-parlament-ne-zaustavimo-li-desnicu-ceka-nas-europski-gradanski-rat/7150695/">
-EKSKLUZIVNO U GLOBUSU Varufakis i Horvat stvaraju transnacionalnu listu za EU parlament: 'Ne zaustavimo li desnicu, èeka nas europski graðanski rat'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/hgss-ovci-opljackani-dok-su-tragali-za-nestalim-djecakom-junace-mozes-se-ponositi-svojim-djelom-i-postupkom/7196517/">
+HGSS-ovci OPLJAÈKANI DOK SU TRAGALI ZA NESTALIM DJEÈAKOM 'Junaèe, možeš se ponositi svojim djelom i postupkom...
 </a>
 </h4>
 </div>
@@ -1501,19 +1786,19 @@ EKSKLUZIVNO U GLOBUSU Varufakis i Horvat stvaraju transnacionalnu listu za EU pa
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="globus-politika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/gdje-im-je-bila-pamet-tri-obitelji-vodile-djecu-na-biokovo-unatoc-upozorenjima-da-ce-pasti-novi-snijeg-i-da-ce-temperature-biti-ispod-nistice/7197378/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/">
-INTERVJU
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/gdje-im-je-bila-pamet-tri-obitelji-vodile-djecu-na-biokovo-unatoc-upozorenjima-da-ce-pasti-novi-snijeg-i-da-ce-temperature-biti-ispod-nistice/7197378/">
+HGSS U AKCIJI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/">
-IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/gdje-im-je-bila-pamet-tri-obitelji-vodile-djecu-na-biokovo-unatoc-upozorenjima-da-ce-pasti-novi-snijeg-i-da-ce-temperature-biti-ispod-nistice/7197378/">
+GDJE IM JE BILA PAMET!? Tri obitelji vodile djecu na Biokovo unatoè upozorenjima da æe pasti novi snijeg i da æe temperature biti ispod ništice
 </a>
 </h4>
 </div>
@@ -1523,19 +1808,19 @@ IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgova
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="globus-politika media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/video-prekrasna-uskrsnja-prica-tihomir-ju-je-sanjao-bila-mu-je-nedostizna-sve-dok-se-njegovi-kolege-nisu-ukljucili-jos-nisam-dosao-sebi/7196667/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/">
-GLOBUS
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/video-prekrasna-uskrsnja-prica-tihomir-ju-je-sanjao-bila-mu-je-nedostizna-sve-dok-se-njegovi-kolege-nisu-ukljucili-jos-nisam-dosao-sebi/7196667/">
+KAD SE MALE RUKE SLOŽE...
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/pet-godina-pape-franje-zasto-hrvati-jos-ne-vole-bergoglia-kao-sto-su-voljeli-wojtylu-tko-se-to-u-crkvi-u-hrvatskoj-boji-dobrog-pape/7127997/">
-PET GODINA PAPE FRANJE Zašto Hrvati (još) ne vole Bergoglia kao što su voljeli Wojtylu: Tko se to u Crkvi u Hrvatskoj boji 'dobrog pape'?
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/video-prekrasna-uskrsnja-prica-tihomir-ju-je-sanjao-bila-mu-je-nedostizna-sve-dok-se-njegovi-kolege-nisu-ukljucili-jos-nisam-dosao-sebi/7196667/">
+VIDEO: PREKRASNA USKRŠNJA PRIÈA Tihomir ju je sanjao, bila mu je nedostižna sve dok se njegovi kolege nisu ukljuèili: 'Još nisam došao sebi...'
 </a>
 </h4>
 </div>
@@ -1543,15 +1828,6 @@ PET GODINA PAPE FRANJE Zašto Hrvati (još) ne vole Bergoglia kao što su voljeli W
 </article>
 </section>
 </div>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div class="row titleRow">
-<div class="col-sm-12">
-<h3 class="section_title_alt izdvojeno_alt"><div><span>Iz drugih medija</span></div></h3>
 </div>
 </div>
 </div>
@@ -1582,15 +1858,15 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-<img src="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/ALTERNATES/LANDSCAPE_380/danijela%20martinovi%C4%87%20i%20mama.PNG"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+<img src="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/ALTERNATES/LANDSCAPE_380/Sanja_Vejnovi%C4%87_00"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/incoming/danijela-martinovic-i-mamapng/7164435/BINARY/thumbnail/danijela%20martinovi%C4%87%20i%20mama.PNG"
+data-src-template="https://www.gloria.hr/arhiva-slika/sanja_vejnovic_00/4796666/BINARY/thumbnail/Sanja_Vejnovi%C4%87_00"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1602,8 +1878,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/danijela-martinovic-majku-razveselila-darom-koji-ce-pamtiti/7164543/">
-Danijela Martinoviæ majku razveselila darom koji æe pamtiti!
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/sanja-vejnovic-o-agoniji-na-hitnoj-horor-od-procedure-me-zamalo-kostao-zivota/7200225/">
+Sanja Vejnoviæ o agoniji na hitnoj: 'Horor od procedure me zamalo koštao života'
 </a>
 </h4>
 </div>
@@ -1662,7 +1938,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -2031,19 +2307,10 @@ FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'F
 }
 window.onload = fbCommentGA;
 </script>
-<script type='text/javascript'>
-var axel = Math.random() + '';
-var a = axel * 10000000000000;
-document.write('<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=' + a + ';dc_seg=459159291?" width=1 height=1 border=0/>');
-</script>
-<noscript>
-<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/11425286/DFPAudiencePixel;ord=1;dc_seg=459159291?" width=1 height=1 border=0/>
-</noscript>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
-<script async src="//cdn.midas-network.com/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
 <div id="jl-floater-wrapper" class="jl-floater-wrapper">
 <div id="jl-float" class="jl-floater">
 <!-- /11425286/jl_floater -->
@@ -2073,14 +2340,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/oko-150-kitova-nasukalo-se-na-australskoj-obali-usprkos-nadljudskim-naporima-volontera-skoro-svi-su-uginuli?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/zbog-velikog-kvara-racunalnog-sustava-kasne-tisuce-letova-diljem-europe?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1521833181kit.jpg?v=1521833213" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1497684580zracna_luka-140515.jpg?v=1497684637" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: PRIZOR PRED KOJIM JE TEŠKO NE ZAPLAKATI/Oko 150 kitova nasukalo se na australskoj obali, usprkos nadljudskim naporima volontera skoro svi su uginuli</h4>
+<h4>KAOS U ZRAÈNOM PROMETU/Zbog velikog kvara raèunalnog sustava kasne tisuæe letova diljem Europe</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2124,34 +2391,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=159&contextPath=1-85-159-&pubId=1&cat=&meta=read-story&objId=7160358&type=article&title=IVAN+VRDOLJAK+EKSKLUZIVNO+ZA+GLOBUS+%26%23039%3bPremijer+Plenkovi%c4%87+i+ja+uop%c4%87e+nismo+razgovarali+o+prijevremenim+izborima.+%c4%8cemu%3f+Ovo+je+dobra+Vlada%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada%2f7160358%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7199961&type=article&title=MASOVNI+ODLAZAK+HRVATA+U+%c5%a0OPING+PREKO+GRANICE%3a+Gajba+piva+30+kn+jeftinija%2c+pomama+vlada+za+slatki%c5%a1ima+i+lijekovima%2c+pogledajte+kakve+su+ostale+cijene&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fmasovni-odlazak-hrvata-u-soping-preko-granice-gajba-piva-30-kn-jeftinija-pomama-vlada-za-slatkisima-i-lijekovima-pogledajte-kakve-su-ostale-cijene%2f7199961%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=159&amp;contextPath=1-85-159-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7160358&amp;type=article&amp;title=IVAN+VRDOLJAK+EKSKLUZIVNO+ZA+GLOBUS+%26%23039%3bPremijer+Plenkovi%c4%87+i+ja+uop%c4%87e+nismo+razgovarali+o+prijevremenim+izborima.+%c4%8cemu%3f+Ovo+je+dobra+Vlada%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada%2f7160358%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7199961&amp;type=article&amp;title=MASOVNI+ODLAZAK+HRVATA+U+%c5%a0OPING+PREKO+GRANICE%3a+Gajba+piva+30+kn+jeftinija%2c+pomama+vlada+za+slatki%c5%a1ima+i+lijekovima%2c+pogledajte+kakve+su+ostale+cijene&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fmasovni-odlazak-hrvata-u-soping-preko-granice-gajba-piva-30-kn-jeftinija-pomama-vlada-za-slatkisima-i-lijekovima-pogledajte-kakve-su-ostale-cijene%2f7199961%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=1986578652&title=Ivan+Vrdoljak&url=tag%3ajltags%40eph.hr%2c2016%3aIvan_Vrdoljak&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1938811115&title=Kupovina&url=tag%3ajltags%40eph.hr%2c2016%3aKupovina&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1986578652&amp;title=Ivan+Vrdoljak&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIvan_Vrdoljak&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1938811115&amp;title=Kupovina&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKupovina&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=2014876157&title=HNS&url=tag%3ajltags%40eph.hr%2c2016%3aHNS&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=654458215&title=Bosna+i+Hercegovina&url=tag%3ajltags%40eph.hr%2c2016%3aBosna_i_Hercegovina&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2014876157&amp;title=HNS&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHNS&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=654458215&amp;title=Bosna+i+Hercegovina&amp;url=tag%3ajltags%40eph.hr%2c2016%3aBosna_i_Hercegovina&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1593134669&title=%c5%a1oping&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25A1oping&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1593134669&amp;title=%c5%a1oping&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25A1oping&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2204,7 +2482,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/masovni-odlazak-hrvata-u-soping-preko-granice-gajba-piva-30-kn-jeftinija-pomama-vlada-za-slatkisima-i-lijekovima-pogledajte-kakve-su-ostale-cijene/7199961/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2214,14 +2492,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/globus/Globus-politika/ivan-vrdoljak-ekskluzivno-za-globus-premijer-plenkovic-i-ja-uopce-nismo-razgovarali-o-prijevremenim-izborima-cemu-ovo-je-dobra-vlada/7160358/",
-postId : "7160358",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/masovni-odlazak-hrvata-u-soping-preko-granice-gajba-piva-30-kn-jeftinija-pomama-vlada-za-slatkisima-i-lijekovima-pogledajte-kakve-su-ostale-cijene/7199961/",
+postId : "7199961",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "IVAN VRDOLJAK EKSKLUZIVNO ZA GLOBUS 'Premijer Plenkoviæ i ja uopæe nismo razgovarali o prijevremenim izborima. Èemu? Ovo je dobra Vlada'",
-pubdate : "2018-03-22 19:00",
-authors : "Jurica Körbler",
-sections : "Front Page, Globus, Politika",
-tags : "Ivan Vrdoljak, HNS",
+title : "MASOVNI ODLAZAK HRVATA U ŠOPING PREKO GRANICE: Gajba piva 30 kn jeftinija, pomama vlada za slatkišima i lijekovima, pogledajte kakve su ostale cijene",
+pubdate : "2018-04-03 14:01",
+authors : "Slobodna Dalmacija, Zoran Šagolj",
+sections : "Front Page, Hrvatska",
+tags : "Kupovina, Bosna i Hercegovina, šoping",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

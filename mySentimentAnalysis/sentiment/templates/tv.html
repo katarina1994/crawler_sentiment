@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Public profiles</title>
+	<meta name="author" content="your name" />
+	<meta name="description" content="" />
+	<link rel="stylesheet" href="{{ url_for('static', filename='webPageStyle.css') }}" type="text/css" />
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+ 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+ 	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.js"></script>
+
+	<script>
+    $(function() {
+        $.ajax({
+            url: '{{ url_for("autocomplete") }}'
+            }).done(function (data){
+                $('#data_autocomplete').autocomplete({
+                    source: data,
+                    minLength: 2
+                });
+            });
+        });
+	</script>
+	
+</head>
+
+<body>
+	<div id="page">
+		<div id="logo">
+			<h1><a href="/" id="logoLink">Povratak na kategorije</a></h1>
+		</div>
+		<div id="content">
+			<h2>Sport</h2>
+		
+				<div>
+					<form action="/showTV" method=post>
+    					<input id='data_autocomplete' type=text name=showTV placeholder="Search.." value="{{ request.form.showTV }}">
+    					<div><input type=submit value="Search"></div>
+					</form>
+		
+				{{ records }}
+				</div>
+			
+		</div>
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank">Katarina</a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>

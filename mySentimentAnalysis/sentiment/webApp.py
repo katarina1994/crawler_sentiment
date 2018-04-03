@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
+
 '''
 Created on 15. ozu 2018.
 
@@ -37,63 +40,14 @@ def hello():
         #print (row[0], row[1], row[2])   
     
     
-    
-    
+    # HOW TO ADD ENTRY TO MYSQL EXAMPLE
     #cursor.execute(
     """INSERT INTO 
         person (
             personName,
-            personSurname,
-            personJob,
-            personTag
+            personSurname
             )
-    VALUES (%s,%s,%s,%s)"""#,# ("Andrej", "Plenkovic", "Premijer", "Politika"))
-    #conn.commit()
-    
-    #cursor.execute(
-    """INSERT INTO 
-        person (
-            personName,
-            personSurname,
-            personJob,
-            personTag 
-            )
-    VALUES (%s,%s,%s,%s)"""#,# ("Zeljko", "Bebek", "Pjevac", "Glazba"))
-    #conn.commit()
-    
-    #cursor.execute(
-    """INSERT INTO 
-        person (
-            personName,
-            personSurname,
-            personJob,
-            personTag
-            )
-    VALUES (%s,%s,%s,%s)"""#, #("Kolinda", "Grabar-Kitarovic", "Predsjednica", "Politika"))
-    #conn.commit()
-    
-    
-    #cursor.execute(
-    """INSERT INTO 
-        person (
-            personName,
-            personSurname,
-            personJob,
-            personTag
-            )
-    VALUES (%s,%s,%s,%s)"""#,# ("Tarik", "Filipovic", "Glumac", "Kazaliste"))
-    
-    #conn.commit()
-    
-    #cursor.execute(
-    """INSERT INTO 
-        person (
-            personName,
-            personSurname,
-            personJob,
-            personTag
-            )
-    VALUES (%s,%s,%s,%s)"""#,# ("Domagoj", "Duvnjak", "Rukometas", "Sport"))
+    VALUES (%s,%s)"""#,# ("Domagoj", "Duvnjak",))
     
     #conn.commit()
 
@@ -111,9 +65,13 @@ def showPolitics():
     if request.method == "POST":
         conn = mysql.connection
         cursor = conn.cursor()
-        stmnt1 = "select * from person where personName = %s and personTag = %s"
-        stmnt2 = "select * from person where personSurname = %s and personTag = %s"
-        stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
+        #stmnt1 = "select * from person where personName = %s and personTag = %s"
+        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
+        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
+        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+
         search = request.form['showPolitics']
 
         cursor.execute(stmnt1, (search,"Politika"))
@@ -131,8 +89,13 @@ def showPolitics():
                 return render_template('politika.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
-                if(len(bothNameSurname) > 1):
-                    cursor.execute(stmnt3, (bothNameSurname[0], bothNameSurname[1], "Politika"))
+                if(len(bothNameSurname) == 2):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Politika"))
+                    conn.commit()
+                    records = cursor.fetchall()
+                    return render_template('politika.html', records=records)
+                elif(len(bothNameSurname) == 3):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "Politika"))
                     conn.commit()
                     records = cursor.fetchall()
                     return render_template('politika.html', records=records)
@@ -145,9 +108,13 @@ def showMusic():
     if request.method == "POST":
         conn = mysql.connection
         cursor = conn.cursor()
-        stmnt1 = "select * from person where personName = %s AND personTag = %s"
-        stmnt2 = "select * from person where personSurname = %s AND personTag = %s"
-        stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
+        #stmnt1 = "select * from person where personName = %s and personTag = %s"
+        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
+        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
+        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+
 
         search = request.form['showMusic']
         all_searches = (search,"Glazba")
@@ -167,8 +134,13 @@ def showMusic():
                 return render_template('glazba.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
-                if(len(bothNameSurname) > 1):
-                    cursor.execute(stmnt3, (bothNameSurname[0], bothNameSurname[1], "Glazba"))
+                if(len(bothNameSurname) == 2):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Glazba"))
+                    conn.commit()
+                    records = cursor.fetchall()
+                    return render_template('glazba.html', records=records)
+                elif(len(bothNameSurname) == 3):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "Glazba"))
                     conn.commit()
                     records = cursor.fetchall()
                     return render_template('glazba.html', records=records)
@@ -181,9 +153,13 @@ def showSport():
     if request.method == "POST":
         conn = mysql.connection
         cursor = conn.cursor()
-        stmnt1 = "select * from person where personName = %s AND personTag = %s"
-        stmnt2 = "select * from person where personSurname = %s AND personTag = %s"
-        stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
+        #stmnt1 = "select * from person where personName = %s and personTag = %s"
+        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
+        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
+        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+
 
         search = request.form['showSport']
         all_searches = (search, "Sport")
@@ -202,8 +178,13 @@ def showSport():
                 return render_template('sport.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
-                if(len(bothNameSurname) > 1):
-                    cursor.execute(stmnt3, (bothNameSurname[0], bothNameSurname[1], "Sport"))
+                if(len(bothNameSurname) == 2):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Sport"))
+                    conn.commit()
+                    records = cursor.fetchall()
+                    return render_template('sport.html', records=records)
+                elif(len(bothNameSurname) == 3):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "Sport"))
                     conn.commit()
                     records = cursor.fetchall()
                     return render_template('sport.html', records=records)
@@ -216,12 +197,16 @@ def showTheatre():
     if request.method == "POST":
         conn = mysql.connection
         cursor = conn.cursor()
-        stmnt1 = "select * from person where personName LIKE %s AND personTag = %s"
-        stmnt2 = "select * from person where personSurname LIKE %s AND personTag = %s"
-        stmnt3 = "select * from person where personName LIKE %s and personSurname LIKE %s and personTag = %s"
+        #stmnt1 = "select * from person where personName = %s and personTag = %s"
+        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
+        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
+        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+
 
         search = request.form['showTheatre']
-        all_searches = (search,"Kazaliste")
+        all_searches = (search,"Kazalište")
         cursor.execute(stmnt1, all_searches)
         conn.commit()
         #for r in cursor.fetchall():
@@ -237,14 +222,60 @@ def showTheatre():
                 return render_template('kazaliste.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
-                if(len(bothNameSurname) > 1):
-                    cursor.execute(stmnt3, (bothNameSurname[0], bothNameSurname[1], "Kazaliste"))
+                if(len(bothNameSurname) == 2):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Kazalište"))
+                    conn.commit()
+                    records = cursor.fetchall()
+                    return render_template('kazaliste.html', records=records)
+                elif(len(bothNameSurname) == 3):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "Kazalište"))
                     conn.commit()
                     records = cursor.fetchall()
                     return render_template('kazaliste.html', records=records)
     return render_template('kazaliste.html')
 
 
+@app.route('/showTV', methods=['GET', 'POST'])
+def showTV():
+    if request.method == "POST":
+        conn = mysql.connection
+        cursor = conn.cursor()
+        #stmnt1 = "select * from person where personName = %s and personTag = %s"
+        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
+        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
+        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+
+
+        search = request.form['showTV']
+        all_searches = (search,"TV")
+        cursor.execute(stmnt1, all_searches)
+        conn.commit()
+        #for r in cursor.fetchall():
+            #print (r[0],r[1],r[2])
+        records = cursor.fetchall()
+        if(records):
+            return render_template('tv.html', records=records) 
+        else:
+            cursor.execute(stmnt2, all_searches)
+            conn.commit()
+            records = cursor.fetchall()
+            if(records):
+                return render_template('tv.html', records=records)
+            else:
+                bothNameSurname = search.split(" ")
+                if(len(bothNameSurname) == 2):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "TV"))
+                    conn.commit()
+                    records = cursor.fetchall()
+                    return render_template('tv.html', records=records)
+                elif(len(bothNameSurname) == 3):
+                    cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "TV"))
+                    conn.commit()
+                    records = cursor.fetchall()
+                    return render_template('tv.html', records=records)
+    return render_template('tv.html')
 
 if __name__ == "__main__":
     app.run()

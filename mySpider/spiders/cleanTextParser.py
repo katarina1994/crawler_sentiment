@@ -20,6 +20,7 @@ class CleanText():
             #print(link)
             html = urlopen(link).read()
             cleanTexts = self.textFromHtml(html)
+            cleanTexts = cleanTexts.strip(" ").strip("\t").strip("\n").strip("\r").strip()
             f_clean = codecs.open("cleanTextFromHTML/clean-web-page-%d.txt" % numberOfLink, 'w', encoding='Windows-1250')
             f_clean.write(cleanTexts.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
             f_clean.close()
@@ -46,9 +47,19 @@ class CleanText():
         for tag in soup.findAll('p'):
             if (tag.text not in commentSection and (tag.attrs == {} or tag.attrs == {'sytle'}) and not tag.find('script')):
                 texts += tag.text
+                texts += " "
                 
         for tag in soup.findAll('div'):
             if (tag.text not in commentSection and (tag.attrs == {} or tag.attrs == {'sytle'}) and not tag.find('script')):
                 texts += tag.text
-        
-        return texts.replace('\n', ' ').replace('\r', '')
+                texts += " "
+                
+        sentencesOfText = ""
+        listOfText = texts.split(". ")
+        for partOfText in listOfText:
+            #print (partOfText + ".")
+            tmp = ""
+            tmp = partOfText + ". "
+            sentencesOfText += tmp
+        return sentencesOfText.replace('\n', '').replace('\r', '').replace('\t', '')
+        #return texts.replace('\n', '').replace('\r', '').replace('\t', '')
