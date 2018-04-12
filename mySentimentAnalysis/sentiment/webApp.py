@@ -66,11 +66,17 @@ def showPolitics():
         conn = mysql.connection
         cursor = conn.cursor()
         #stmnt1 = "select * from person where personName = %s and personTag = %s"
-        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        stmnt1 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and tag.tagName = %s"
+
         #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
-        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        stmnt2 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personSurname = %s and tag.tagName = %s"
+
         #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
-        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+
 
         search = request.form['showPolitics']
 
@@ -89,6 +95,7 @@ def showPolitics():
                 return render_template('politika.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
+                print (bothNameSurname)
                 if(len(bothNameSurname) == 2):
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Politika"))
                     conn.commit()
@@ -109,31 +116,36 @@ def showMusic():
         conn = mysql.connection
         cursor = conn.cursor()
         #stmnt1 = "select * from person where personName = %s and personTag = %s"
-        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        stmnt1 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and tag.tagName = %s"
+
         #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
-        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        stmnt2 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personSurname = %s and tag.tagName = %s"
+
         #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
-        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
 
 
         search = request.form['showMusic']
-        all_searches = (search,"Glazba")
-        cursor.execute(stmnt1, all_searches)
+
+        cursor.execute(stmnt1, (search,"Glazba"))
         conn.commit()
         #for r in cursor.fetchall():
             #print (r[0],r[1],r[2])
         records = cursor.fetchall()
-        print (records)
         if(records):
             return render_template('glazba.html', records=records) 
         else:
-            cursor.execute(stmnt2, all_searches)
+            cursor.execute(stmnt2, (search,"Glazba"))
             conn.commit()
             records = cursor.fetchall()
             if(records):
                 return render_template('glazba.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
+                print (bothNameSurname)
                 if(len(bothNameSurname) == 2):
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Glazba"))
                     conn.commit()
@@ -154,11 +166,17 @@ def showSport():
         conn = mysql.connection
         cursor = conn.cursor()
         #stmnt1 = "select * from person where personName = %s and personTag = %s"
-        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        stmnt1 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and tag.tagName = %s"
+
         #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
-        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        stmnt2 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personSurname = %s and tag.tagName = %s"
+
         #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
-        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+
 
 
         search = request.form['showSport']
@@ -198,11 +216,17 @@ def showTheatre():
         conn = mysql.connection
         cursor = conn.cursor()
         #stmnt1 = "select * from person where personName = %s and personTag = %s"
-        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        stmnt1 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and tag.tagName = %s"
+
         #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
-        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        stmnt2 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personSurname = %s and tag.tagName = %s"
+
         #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
-        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+
 
 
         search = request.form['showTheatre']
@@ -241,11 +265,17 @@ def showTV():
         conn = mysql.connection
         cursor = conn.cursor()
         #stmnt1 = "select * from person where personName = %s and personTag = %s"
-        stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        #stmnt1 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and tag.tagName = %s"
+        stmnt1 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and tag.tagName = %s"
+
         #stmnt2 = "select * from person where personSurname = %s and personTag = %s"
-        stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        #stmnt2 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personSurname = %s and tag.tagName = %s"
+        stmnt2 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personSurname = %s and tag.tagName = %s"
+
         #stmnt3 = "select * from person where personName = %s and personSurname = %s and personTag = %s"
-        stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+        stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
+
 
 
         search = request.form['showTV']

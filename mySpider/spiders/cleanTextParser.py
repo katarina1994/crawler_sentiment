@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup as bs
 class CleanText():
     
     def getCleanTextFromHtml(self):  
-        f_html = codecs.open("allLinks.txt", 'r', encoding='Windows-1250')
+        f_html = codecs.open("C:/Users/Katarina123/workspace/mainProject/mainPackage/allLinks.txt", 'r', encoding='Windows-1250')
         links = f_html.readlines()
         numberOfLink = 0
         for link in links:
@@ -21,7 +21,7 @@ class CleanText():
             html = urlopen(link).read()
             cleanTexts = self.textFromHtml(html)
             cleanTexts = cleanTexts.strip(" ").strip("\t").strip("\n").strip("\r").strip()
-            f_clean = codecs.open("cleanTextFromHTML/clean-web-page-%d.txt" % numberOfLink, 'w', encoding='Windows-1250')
+            f_clean = codecs.open("C:/Users/Katarina123/workspace/mySpider/spiders/cleanTextFromHTML/clean-web-page-%05d.txt" % numberOfLink, 'w', encoding='Windows-1250')
             f_clean.write(cleanTexts.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
             f_clean.close()
             numberOfLink += 1

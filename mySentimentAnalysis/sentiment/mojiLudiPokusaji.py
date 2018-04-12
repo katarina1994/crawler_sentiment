@@ -13,10 +13,6 @@
 from polyglot.text import Text, Word
 #from polyglot.downloader import downloader
 
-"""
-
-#print(downloader.supported_languages_table("ner2", 3))
-
 
 blob = """"""
 text = Text(blob, hint_language_code='hr')
