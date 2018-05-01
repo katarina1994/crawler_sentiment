@@ -36,7 +36,7 @@ class TopicModeling():
                             listOfOriginalWords.append(line[0])
                             listOfStemmedWords.append(line[1])
                             break
-            fTopic = codecs.open("C:/Users/Katarina123/workspace/mySentimentAnalysis/sentiment/topics/topic-%05d.txt" % topicNumber, 'w', encoding='Windows-1250')
+            fTopic = codecs.open("topics/topic-%05d.txt" % topicNumber, 'w', encoding='Windows-1250')
             text = " ".join(listOfStemmedWords)
             fTopic.write(text)
             fTopic.close()
@@ -48,7 +48,7 @@ class TopicModeling():
     # GET ALL STOPWORDS FROM CROATIAN LANUGAGE
     def getStopWords(self):
         stopWords = []
-        fStopWords = codecs.open("C:/Users/Katarina123/workspace/textChanges/textCroatian/stopWords.txt", 'r', encoding='Windows-1250')
+        fStopWords = codecs.open("stopWords.txt", 'r', encoding='Windows-1250')
         tmp = fStopWords.readlines()
         for w in tmp:
             w = w.strip("\n")
@@ -57,13 +57,15 @@ class TopicModeling():
         return stopWords
         
     # TIME TO WORK WITH EACH ARTICLE AND GET KEY WORDS FROM IT
-    def getKeyWords(self):
+    def getKeyWords(self, path, topicNumber):
         documents = []
         originalStemmedDocuments = []
-        path = "C:/Users/Katarina123/workspace/textCroatianStemmer/CroatianStemmer/stemmedWords/"
-        topicNumber = 0
-        for fileName in glob.glob(os.path.join(path, '*.txt')):
-            f = open(fileName, "r");
+
+        allFiles = glob.glob(os.path.join(path, '*.txt'))
+        #print (topicNumber)
+        while (topicNumber < len(allFiles)):
+        #for fileName in glob.glob(os.path.join(path, '*.txt')):
+            f = open(allFiles[topicNumber], "r");
             doc = ""
             docOriginal = ""
             for line in f.readlines():
@@ -94,9 +96,16 @@ class TopicModeling():
         
             noKeyWords = 20
             self.printTopicInfo(lda, tf_feature_names, noKeyWords, originalStemmedDocuments, topicNumber)
+            
             topicNumber += 1
             documents = []
             originalStemmedDocuments = []
         
-
+    def getTitleInfo(self, path, topicNumber):
+            fTitles = codecs.open(path, 'r', encoding='Windows-1250')
+            
+            for title in fTitles.readlines():   
+                print (title.strip("\n"))
+                topicNumber += 1
+            fTitles.close()
 

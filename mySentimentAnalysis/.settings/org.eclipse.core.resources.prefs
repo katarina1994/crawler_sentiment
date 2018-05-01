@@ -1,7 +1,5 @@
 eclipse.preferences.version=1
 encoding//sentiment/mojiLudiPokusaji.py=utf-8
 encoding//sentiment/personRecommender.py=UTF-8
-encoding//sentiment/reldi.py=utf-8
 encoding//sentiment/sve_rijeci.txt=UTF-8
 encoding//sentiment/topicModeling.py=utf-8
-encoding//sentiment/webApp.py=utf-8

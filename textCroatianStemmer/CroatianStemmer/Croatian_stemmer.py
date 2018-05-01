@@ -25,7 +25,6 @@ import os
 import codecs
 
 
-
 class CroatianStemmer():
 	
 	def __init__(self):
@@ -55,11 +54,11 @@ class CroatianStemmer():
 					return dioba.group(1)
 		return pojavnica
 	
-	def stemWords(self):
+	def stemWords(self, numberOfLinks):
 			
 		# CREATE SET OF STOPWORDS
 		#stop=set(['biti','jesam','budem','sam','jesi','budeš','si','jesmo','budemo','smo','jeste','budete','ste','jesu','budu','su','bih','bijah','bjeh','bijaše','bi','bje','bješe','bijasmo','bismo','bjesmo','bijaste','biste','bjeste','bijahu','biste','bjeste','bijahu','bi','biše','bjehu','bješe','bio','bili','budimo','budite','bila','bilo','bile','æu','æeš','æe','æemo','æete','želim','želiš','želi','želimo','želite','žele','moram','moraš','mora','moramo','morate','moraju','trebam','trebaš','treba','trebamo','trebate','trebaju','mogu','možeš','može','možemo','možete'])
-		path = "C:/Users/Katarina123/workspace/textChanges/textCroatian/stopWords.txt"
+		path = "stopWords.txt"
 		f = codecs.open(path, 'r', encoding='Windows-1250')
 		stop = set()
 		for line in f.readlines():
@@ -68,13 +67,15 @@ class CroatianStemmer():
 		#print stop
 		
 		#output_file=open(sys.argv[2],'w')
-		self.pravila=[re.compile(r'^('+osnova+')('+nastavak+r')$') for osnova, nastavak in [e.strip().split(' ') for e in open('C:/Users/Katarina123/workspace/textCroatianStemmer/CroatianStemmer/rules.txt')]]
-		self.transformacije=[e.strip().split('\t') for e in open('C:/Users/Katarina123/workspace/textCroatianStemmer/CroatianStemmer/transformations.txt')]
-		path = "C:/Users/Katarina123/workspace/mySpider/spiders/cleanTextFromHTML"
-		numberOfLink = 0
-		for fileName in glob.glob(os.path.join(path, '*.txt')):
-			output_file = open("C:/Users/Katarina123/workspace/textCroatianStemmer/CroatianStemmer/stemmedWords/stemmed-web-page-%05d.txt" % numberOfLink, 'w')
-			for token in re.findall(r'[\u0041-\u017F]+',open(fileName).read(),re.UNICODE):
+		self.pravila=[re.compile(r'^('+osnova+')('+nastavak+r')$') for osnova, nastavak in [e.strip().split(' ') for e in open('rules.txt')]]
+		self.transformacije=[e.strip().split('\t') for e in open('transformations.txt')]
+		path = "cleanTextFromHTML"
+		allFiles = glob.glob(os.path.join(path, '*.txt'))
+		print (numberOfLinks)
+		while (numberOfLinks < len(allFiles)):
+			#for fileName in glob.glob(os.path.join(path, '*.txt')):
+			output_file = open("stemmedWords/stemmed-web-page-%05d.txt" % numberOfLinks, 'w')
+			for token in re.findall(r'[\u0041-\u017F]+',open(allFiles[numberOfLinks]).read(),re.UNICODE):
 				if token.lower() in stop:
 					output_file.write(token + "\n")
 					#output_file.write((token+'\t'+token.lower()+'\n').encode('utf8'))
@@ -85,4 +86,12 @@ class CroatianStemmer():
 					output_file.write(token + " " + self.korjenuj(self.transformiraj(token)) + "\n")
 		
 			output_file.close()
-			numberOfLink += 1
+			numberOfLinks += 1
+			
+			
+	def stemOneWord(self, text):
+		
+		self.pravila=[re.compile(r'^('+osnova+')('+nastavak+r')$') for osnova, nastavak in [e.strip().split(' ') for e in open('rules.txt')]]
+		self.transformacije=[e.strip().split('\t') for e in open('transformations.txt')]
+		for token in re.findall(r'[\u0041-\u017F]+',text,re.UNICODE):
+			return (self.korjenuj(self.transformiraj(token)))

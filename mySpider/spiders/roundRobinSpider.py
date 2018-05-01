@@ -24,13 +24,13 @@ class RoundRobinSpider():
     #             domain - domain of web page to be crawled
     #             f_all - file for writing all crawled links
     # return: NONE
-    def roundRobinSpider(self, pagesToVisit, domains, regexExpressions, howManyPagesToCrawl, fAll): 
+    def roundRobinSpider(self, pagesToVisit, domains, regexExpressions, howManyPagesToCrawl, fAll, numberVisited): 
         
         try:
             
             visited = []
-            numberVisited = 0
-            while (numberVisited < howManyPagesToCrawl):
+            maxCrawl = howManyPagesToCrawl + numberVisited
+            while (numberVisited < maxCrawl):
                 
                 #which page will we crawl?
                 whichDomain = randint(0, len(domains)-1)
@@ -52,7 +52,7 @@ class RoundRobinSpider():
                     if re.match(regexExpr, url, flags=0):
                         print("URL that crawler found as target: " + url)
                         fAll.write(url + "\n")
-                        f = codecs.open("C:/Users/Katarina123/workspace/mySpider/spiders/webPagesHTML/web-page-%05d.txt" % numberVisited, 'w', encoding='Windows-1250')
+                        f = codecs.open("webPagesHTML/web-page-%05d.txt" % numberVisited, 'w', encoding='Windows-1250')
                         f.write(data.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
                         f.close()
                         numberVisited += 1

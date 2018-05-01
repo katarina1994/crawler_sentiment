@@ -17,13 +17,14 @@ class RegularSpider():
     #             domain - domain of web page to be crawled
     #             f_all - file for writing all crawled links
     # return: NONE
-    def spider(self, url, domain, regexExpr, maxPages, fAll): 
+    def spider(self, url, domain, regexExpr, maxPages, fAll, numberVisited): 
         
         visited = []
         pagesToVisit = [url]
-        numberVisited = 0
+        #print (numberVisited, maxPages)
+        maxCrawl = maxPages + numberVisited
         
-        while numberVisited < maxPages and pagesToVisit != []:
+        while (numberVisited < maxCrawl and pagesToVisit != []):
             
             #numberVisited = numberVisited + 1
             #print ("NUMBER OF VISITED PAGES: " + str(numberVisited))
@@ -34,13 +35,21 @@ class RegularSpider():
                 parser = linkParser.LinkParser()
                 data, links = parser.getLinks(url)
                 
+                fAll.seek(0)
+                allLines = fAll.readlines()
+                allLines = [line.strip("\n") for line in allLines]
+
+                #fAll.seek(0)
                 #if regexExpr in data:
-                if re.match(regexExpr, url, flags=0):
-                    fAll.write(url + "\n")
-                    f = codecs.open("C:/Users/Katarina123/workspace/mySpider/spiders/webPagesHTML/web-page-%05d.txt" % numberVisited, 'w', encoding='Windows-1250')
-                    f.write(data.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
-                    f.close()
-                    numberVisited = numberVisited + 1
+                if re.match(regexExpr, url, flags=0):                  
+                    if url not in allLines:
+                        print (url)
+                        #fAll.seek(2)
+                        fAll.write(url + "\n")
+                        f = codecs.open("webPagesHTML/web-page-%05d.txt" % numberVisited, 'w', encoding='Windows-1250')
+                        f.write(data.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
+                        f.close()
+                        numberVisited = numberVisited + 1
                 #time.sleep(10)
                 tmp = []
                 for link in links:               

@@ -1,0 +1,2272 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+>
+<head>
+<meta name="description" content="" />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Vozaè kombija pokosio desetke sluèajnih prolaznika u Torontu - Jutarnji List</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
+<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+</script>
+<section>
+<!-- DFP verzija 11 -->
+<script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function () {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' === document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+//DFP vars
+dfpId = 11425286;
+dfpName = 'jl';
+dfpAsync = true;
+dfpSingleRequest = true;
+dfpCollapseEmpty = true;
+dfpDisableInitialLoad = true;
+dfpMobileMaxWidth = 960;
+dfpStickyMinWidth = 1024;
+dfpStickyUnitHeightLimit = 600;
+dfpStickyColumnHeightLimit = 680;
+dfpLazyUnitOffset = 1000;
+dfpUnitRefresh = 15000;
+doClickTracking = false;
+dfpAdSlots = {};
+dfpLazyLoad = [];
+dfpUnits = {
+"fot" : {
+"div-gpt-ad-1504618478356-0" : {
+"slot" : "gallery1",
+"unit" : "pos1",
+"size" : [[300, 250], [970, 90], [970, 250], [320, 100], [2, 1]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-1",
+"lazyLoad" : true,
+"deviceType" : "all",
+"loaded" : false
+},
+"div-gpt-ad-1504618478356-1" : {
+"slot" : "gallery2",
+"unit" : "pos2",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 2]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-2",
+"lazyLoad" : true,
+"deviceType" : "all",
+"loaded" : false
+},
+"div-gpt-ad-1504618478356-2" : {
+"slot" : "gallery3",
+"unit" : "pos3",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 3]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-3",
+"lazyLoad" : true,
+"deviceType" : "all",
+"loaded" : false
+},
+"div-gpt-ad-1504618478356-3" : {
+"slot" : "gallery4",
+"unit" : "pos4",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 4]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-4",
+"lazyLoad" : true,
+"deviceType" : "all",
+"loaded" : false
+},
+"div-gpt-ad-1504618478356-4" : {
+"slot" : "gallery5",
+"unit" : "pos5",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 5]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-5",
+"lazyLoad" : true,
+"deviceType" : "all",
+"loaded" : false
+},
+}
+};
+var dfpCountryCode = "US";
+var dfpCurrentPageType = "fot";
+var dfpGalleryImgNum = 0;
+var dfpGalleryUnitNum = 0;
+dfpGalleryImgNum = parseInt("20") - 1;
+dfpGalleryUnitNum = Math.floor(dfpGalleryImgNum / 5);
+var dfpCategory = "Fotogalerije";
+var dfpCategoryParent = "Front Page";
+var dfpRos = "naslovnica";
+var dfpArticle = "7278933";
+var dfpArticleKeyword = "";
+// oglasne jedinice za trenutaènu stranicu
+var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
+// jedinice koje je potrebno osvježiti
+var dfpRefreshUnits = [];
+// jedinice koje je potrebno osvježiti a ulaze u prebid
+var dfpRefreshPrebidUnits = [];
+var dfpWindowWidth = dfpGetWindowWidth();
+var dfpWindowDPR = window.devicePixelRatio;
+var dfpIsMobile = false;
+if (dfpWindowWidth <= dfpMobileMaxWidth) {
+dfpIsMobile = true;
+}
+var dfpBreakpoint = dfpGetBreakpoint();
+var dfpPrebid = true;
+if (dfpCountryCode === 'HR') {
+dfpPrebid = false;
+}
+var dfpPrebidTimeout = 3000;
+var dfpPrebidUnits = [];
+var dfpPrebidGranularity = {
+"buckets" : [
+{
+"min" : 0,
+"max" : 100,
+"increment" : 0.1
+}
+]
+};
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+// inicijaliziraj sve oglasne jedinice ovisno o uèitanoj stranici i postavljenim parametrima
+googletag.cmd.push(function() {
+dfpConfigUnits();
+});
+// dohvati širinu prozora
+function dfpGetWindowWidth() {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+return windowWidth;
+}
+// pronaði najmanji breakpoint za trenutaènu širinu prozora
+function dfpGetBreakpoint() {
+var breakpoints = [ 640, 768, 960, 1200, 1350, 1366, 1440, 1600, 1920, 2560 ];
+var minBreakpoint = [ 640 ];
+for (i = 0; i < breakpoints.length; i++) {
+if (dfpWindowWidth >= breakpoints[i]) {
+minBreakpoint = [ breakpoints[i] ];
+}
+}
+return minBreakpoint;
+}
+// provjeri sadrži li DOM traženi node
+function checkIfNodeInPage(node) {
+var inDocument = false;
+if (node === document.body) {
+inDocument = false;
+} else {
+inDocument = document.body.contains(node);
+}
+return inDocument;
+}
+// èekaj odreðeno vrijeme na poziv callback funkcije prilikom scroll eventa
+function dfpThrottleScrolling(callback, wait) {
+var time;
+var go = true;
+return function() {
+if (go) {
+go = false;
+time = setTimeout(function() {
+time = null;
+go = true;
+callback.call();
+}, wait);
+}
+};
+};
+// inicijaliziraj sticky bannere
+function dfpInitStickyBanners() {
+if (dfpWindowWidth >= dfpStickyMinWidth) {
+// univerzalni preporuèeni nazivi klasa
+var stickyRowClass = '.dfp-scroll-row';
+var stickyColClass = '.dfp-scroll-column';
+var stickyElementClass = '.dfp-sticky-unit';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima na svim portalima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+stickyRowClass = '.jl-scroll-container';
+stickyColClass = '.jl-banner-column';
+stickyElementClass = '.jl-banner-wrapper';
+}
+var stickyElementContainers = document.querySelectorAll(stickyRowClass);
+for (var i = stickyElementContainers.length - 1; i >= 0; i--) {
+var contentHeight = stickyElementContainers[i].offsetHeight;
+var stickyElementColumn = stickyElementContainers[i].querySelector(stickyColClass);
+if (stickyElementColumn !== null) {
+var stickyElement = stickyElementColumn.querySelector(stickyElementClass);
+if (stickyElement !== null) {
+if (dfpWindowDPR === 1) {
+var stickyElementHeight = stickyElement.offsetHeight;
+if (stickyElementHeight >= dfpStickyUnitHeightLimit) {
+if (contentHeight < dfpStickyColumnHeightLimit) {
+contentHeight = dfpStickyColumnHeightLimit;
+}
+} else {
+contentHeight = contentHeight - 20;
+}
+stickyElementColumn.style.height = contentHeight + 'px';
+Stickyfill.add(stickyElement);
+} else {
+stickyElement.classList.remove("jl-sticky-banner");
+}
+}
+}
+}
+}
+}
+// handler lazy load uèitavanja jedinica
+var dfpScrollHandler = dfpThrottleScrolling(function() {
+scrolled = window.scrollY;
+// provjeri postoje li lazy load jedinice ili ukloni listener
+if (dfpLazyLoad.length > 0) {
+dfpLazyLoad.forEach(function(adUnit) {
+var adUnitIndex = dfpLazyLoad.indexOf(adUnit);
+var unitContainer = document.getElementById(dfpUnits[dfpCurrentPageType][adUnit]['container']);
+if (checkIfNodeInPage(unitContainer)) {
+var containerOffset = unitContainer.getBoundingClientRect().top;
+if (containerOffset < dfpLazyUnitOffset) {
+var slot = dfpUnits[dfpCurrentPageType][adUnit]['slot'];
+googletag.cmd.push(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+});
+dfpLazyLoad.splice(adUnitIndex, 1);
+}
+}
+});
+} else {
+window.removeEventListener('scroll', dfpScrollHandler);
+}
+}, 250);
+function dfpConfigUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// drugaèiji inicijalizacijski kod za out of page jedinice
+if (unitData['unit'] == 'wp') {
+dfpAdSlots[unitData['slot']] = googletag.defineOutOfPageSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitId).addService(googletag.pubads());
+} else {
+dfpAdSlots[unitData['slot']] = googletag.defineSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitData['size'], unitId).addService(googletag.pubads());
+}
+// targetiranje specifiènih velièina ekrana
+var sizeKey = 'WindowSizeAside';
+if (unitData['sizeType'] === 'pagebreak') {
+sizeKey = 'WindowSizePagebreak';
+} else if (unitData['sizeType'] === 'outofpage') {
+sizeKey = 'WindowSize';
+}
+dfpAdSlots[unitData['slot']].setTargeting(sizeKey, dfpBreakpoint);
+// targetiranje po rubrici
+if (dfpCategory !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Category', dfpCategory);
+}
+if (dfpCategoryParent !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('CategoryParent', dfpCategoryParent);
+}
+// targetiranje za èlanke
+if (dfpCurrentPageType === 'cla') {
+if (dfpArticle !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Article', dfpArticle);
+}
+if (dfpArticleKeyword !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ArticleKeyword', dfpArticleKeyword);
+}
+}
+// ros targetiranje
+if (dfpRos !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ROS', dfpRos);
+}
+// ako jedinica treba biti lazy loadana stavi je u dfpLazyLoad niz (no ne smije biti u Prebidu) ili je dodaj u dfpRefreshUnits u sluèaju da je onemoguæeno inicijalno uèitavanje
+if (((dfpPrebid === false) || (unitData['prebid'] === false) || (typeof unitData['prebid'] === 'undefined')) && unitData['lazyLoad']) {
+dfpLazyLoad.push(unitId);
+} else {
+if (dfpDisableInitialLoad === true) {
+if ((dfpPrebid === true) && (unitData['prebid'] === true)) {
+dfpRefreshPrebidUnits.push(dfpAdSlots[unitData['slot']]);
+} else {
+dfpRefreshUnits.push(dfpAdSlots[unitData['slot']]);
+}
+}
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+function dfpConfigPrebidUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// razlièita Prebid konfiguracija ovisno radi li se o mobilnim ili desktop ureðajima
+var unitPrebidConfigParam = 'prebidConfig';
+if (dfpIsMobile === true) {
+unitPrebidConfigParam = unitPrebidConfigParam + 'Mobile';
+}
+// ako je jedinica dostupna za bidding stavi ju u odgovarajuæi niz
+if (unitData['prebid'] && (unitData.hasOwnProperty(unitPrebidConfigParam))) {
+var unitBids = [];
+for (var bidderName in unitData[unitPrebidConfigParam]) {
+var bidderParams = [];
+bidderParams = unitData[unitPrebidConfigParam][bidderName];
+// dodatni parametri za connectad
+if (bidderName === 'connectad') {
+bidderParams['networkId'] = '10047';
+bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
+}
+var bidderData = {bidder: bidderName, params: bidderParams};
+unitBids.push(bidderData);
+}
+var dfpPrebidUnit = {
+code: unitId,
+sizes: unitData['size'],
+bids: unitBids
+}
+dfpPrebidUnits.push(dfpPrebidUnit);
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+// prebid
+function dfpPrebidSendAdServerRequest() {
+if (pbjs.adserverRequestSent) return;
+pbjs.adserverRequestSent = true;
+googletag.cmd.push(function() {
+pbjs.que.push(function() {
+pbjs.setTargetingForGPTAsync();
+googletag.pubads().refresh(dfpRefreshPrebidUnits);
+});
+});
+}
+if (dfpPrebid === true) {
+pbjs.que.push(function() {
+dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
+pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
+pbjs.addAdUnits(dfpPrebidUnits);
+pbjs.requestBids({
+bidsBackHandler: dfpPrebidSendAdServerRequest
+});
+});
+setTimeout(function() {
+dfpPrebidSendAdServerRequest();
+}, dfpPrebidTimeout);
+}
+//setup and initialize dfp adunits
+googletag.cmd.push(function() {
+// asinkrono renderiranje
+if (dfpAsync === true) {
+googletag.pubads().enableAsyncRendering();
+}
+// dohvati sve u jednom requestu
+if (dfpSingleRequest === true) {
+googletag.pubads().enableSingleRequest();
+}
+// smanji prazne div elemente
+if (dfpCollapseEmpty === true) {
+googletag.pubads().collapseEmptyDivs();
+}
+// iskljuèi inicijalno uèitavanje
+if (dfpDisableInitialLoad === true) {
+googletag.pubads().disableInitialLoad();
+}
+// osvježi sve jedinice koje nisu lazy loadane i nisu u prebidu
+if ((dfpDisableInitialLoad === true) && (dfpRefreshUnits.length > 0)) {
+googletag.pubads().refresh(dfpRefreshUnits);
+}
+// izvršava se nakon što je pojedina oglasna jedinica renderirana, idealno mjesto za dodavanje klasa
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+if (!event.isEmpty) {
+// provjeri koja se toèno jedinica renderirala
+var slotId = event.slot.getSlotElementId();
+var isLoaded = !event.isEmpty;
+dfpUnits[dfpCurrentPageType][slotId]['loaded'] = isLoaded;
+// dohvati podatke o renderiranoj oglasnoj jedinici
+var unitData = dfpUnits[dfpCurrentPageType][slotId];
+// stavi dodatne klase na kontejnere oglasnih jedinica gdje je potrebno
+if (unitData['sizeType'] === 'aside') {
+if (dfpWindowWidth > dfpMobileMaxWidth) {
+var elementExtraClasses = ' dfp-box';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-box';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+}
+} else if (unitData['sizeType'] === 'pagebreak') {
+var elementExtraClasses = ' dfp-space';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-space';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+// fix za in article jedinice na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] !== 'ia_1') && (unitData['unit'] !== 'ia_2') && (unitData['unit'] !== 'ia_3')) {
+var parentObj;
+if (checkIfNodeInPage(bannerElementWrapper.parentNode)) {
+parentObj = bannerElementWrapper.parentNode;
+var elementClass = parentObj.className;
+var searchForRow = true;
+while ((elementClass.indexOf('row') == -1) && searchForRow) {
+if (checkIfNodeInPage(parentObj.parentNode)) {
+parentObj = parentObj.parentNode;
+elementClass = parentObj.className;
+} else {
+searchForRow = false;
+}
+}
+if (searchForRow) {
+parentObj.className += ' jl-has-banner';
+}
+}
+}
+} else if (unitData['sizeType'] === 'outofpage') {
+// fix za ispravan prikaz wallpapera na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] === 'wp')) {
+var bodyElement = document.querySelector('body');
+bodyElement.className += ' hasWallpaperBanner';
+}
+}
+}
+});
+googletag.enableServices();
+});
+// slušaj scroll event za potrebe uèitvanja lazy loadom
+window.addEventListener('scroll', dfpScrollHandler);
+// inicijaliziraj sticky bannere
+window.addEventListener('load', dfpInitStickyBanners);
+window.addEventListener('resize', dfpInitStickyBanners);
+</script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
+</section>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-37299110-3', 'auto');
+ga('create', 'UA-37299110-1', 'auto', {'name': 'newTracker'});
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+ga('newTracker.send', 'pageview');
+</script>
+<meta property="fb:pages" content="133205716542" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GCRM7');</script>
+<!-- End Google Tag Manager -->
+<meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
+<link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
+<link rel="canonical" href="https://www.jutarnji.hr/Fotogalerije/vozac-kombija-pokosio-desetke-slucajnih-prolaznika-u-torontu/7278933/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/Fotogalerije/vozac-kombija-pokosio-desetke-slucajnih-prolaznika-u-torontu/7278933/amp">
+<link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/base/css/jutarnji-base.776f1bc32c84631a52d09f04544b488d.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/default/css/jutarnji-default.d41d8cd98f00b204e9800998ecf8427e.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/minimalist.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/mediaelementplayer.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="https://www.jutarnji.hr/static/js/html5shiv.js"></script>
+<script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
+<![endif]-->
+<script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
+<meta property="og:title" content="Vozaè kombija pokosio desetke sluèajnih prolaznika u Torontu" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.jutarnji.hr/Fotogalerije/vozac-kombija-pokosio-desetke-slucajnih-prolaznika-u-torontu/7278933/" />
+<meta property="og:site_name" content="jutarnji.hr" />
+<meta property="og:description" content="" />
+<meta property="fb:app_id" content="156538244364753" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="jutarnji.hr">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="Vozaè kombija pokosio desetke sluèajnih prolaznika u Torontu">
+<meta name="twitter:description" content="">
+<meta property="fb:pages" content="133205716542" />
+<!-- j2 - vijesti -->
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+var d=document,
+h=d.getElementsByTagName('head')[0],
+s=d.createElement('script');
+s.type='text/javascript';
+s.async=true;
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2433';
+h.appendChild(s);
+}());
+/* ]]> */
+</script>
+<script>
+(function(u,p,s,c,r){u[r]=u[r]||function(p){(u[r].q=u[r].q||[]).push(p)},u[r].ls=1*new Date();
+var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//d3n5x2l91yva9h.cloudfront.net/async/upScore.js','upScore');
+upScore({config:{ domain:"jutarnji.hr",
+article: "#CImaincontent",
+track_positions: false},
+data: { section: "Fotogalerije, Front Page",
+pubdate: "2018-04-23T23:01+02:00",
+author: "Dalibor Miljuš",
+object_type: "article",
+custom_sponsored: 0
+}});
+</script>
+</head>
+<body class=" gallery">
+<div id="fb-root">
+</div>
+<script type="text/javascript">
+(function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s);
+js.id = id;
+js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.7&appId=156538244364753";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+!function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (!d.getElementById(id)) {
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+}
+}(document, "script", "twitter-wjs");
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<c:if test="true">
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56cdc7652b8101eb"></script>
+</c:if>
+<script async defer src="//platform.instagram.com/hr_HR/embeds.js"></script>
+<script type="text/javascript">
+$(function() {
+if ($("#related-news-box").has("ul").length) {
+if ($("[id^='content-body-'] > p").length < 0) {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+}
+} else {
+$("#related-news-box").remove();
+}
+});
+</script>
+<div class="container">
+<header class="mainHead " role="banner">
+<a name="top"></a>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="col-sm-12 col-lg-8 col-lg-push-2 ">
+<div id="siteHead">
+<span class="logo"><a href="/">JutarnjList</a></span>
+</div>
+</div>
+<nav class="navbar main_nav "
+role="navigation" >
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div id="navbar-collapse-1" class="navbar-collapse collapse ">
+<ul class=" main nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/">
+Poèetna
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</li>
+<li class="">
+<a href="https://novac.jutarnji.hr" target="">
+Novac.hr
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/video/">
+Video
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav all_sections">
+<li>
+<a href="#" class="site_search"><span class="text-hide">Pretraži</span></a>
+<a href="https://twitter.com/jutarnjihr" class="twitter_follow"><span class="text-hide">Twitter</span></a>
+<a href="https://www.facebook.com/jutarnji.list/" class="facebook_follow"><span class="text-hide">Facebook</span></a>
+<a class="instagram_follow" href="https://www.instagram.com/jutarnji.hr/"><span class="text-hide">Instagram</span></a>
+</li>
+<li class="dropdown megadropdown ">
+<a href="/" id="menuPane-link-1">
+Sve rubrike
+<div id="rwd_toggle"><span></span><span></span><span></span><span></span></div>
+</a>
+</ul>
+</div>
+<div class="wrap-megadropdown-menu ">
+<div class="dropdown-menu megadropdown-menu ">
+<div class="sections ">
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="magazin ">
+<span>Magazin</span>
+<ul>
+<li class="ak"><a href="/autoklub">Autoklub</a></li>
+<li class="gl"><a href="/globus">Globus</a></li>
+<li class="dh"><a href="/dobrahrana">Dobra hrana</a></li>
+<li class="dd"><a href="/domidizajn">Dom i dizajn</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<section role="main">
+<div class="row articleWrapper articleGalleryWrapper skin-6 " >
+<div class="col-sm-12 ">
+<div class=" ">
+<section class="lead_image ">
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t192136z_402958545_rc1a02c74760_rtrmadp_3_canada-vanjpg/7278423" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t192136z_402958545_rc1a02c74760_rtrmadp_3_canada-vanjpg/7278423/ALTERNATES/WIDE_380/2018-04-23T192136Z_402958545_RC1A02C74760_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="WIDE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t192136z_402958545_rc1a02c74760_rtrmadp_3_canada-vanjpg/7278423/BINARY/thumbnail/2018-04-23T192136Z_402958545_RC1A02C74760_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A police officer stands next to a victim of an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Carlo Allegri / REUTERS
+</span>
+</div>
+</div>
+</div>
+</article>
+</section>
+<div class="header ahgh col-sm-12 col-md-10 col-md-push-1 ">
+<h1
+class="title">
+Vozaè kombija pokosio desetke sluèajnih prolaznika u Torontu
+</h1>
+<ul class="list-inline ">
+<strong>AUTOR: </strong>
+<li>
+<p
+class="authors">
+<ul>
+<li> Jutarnji.hr</li>
+</ul>
+</p>
+</li>
+<strong>OBJAVLJENO: </strong>
+<li>
+<p
+class="published-date">
+23.04.2018. u 23:01
+</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t192154z_1951525641_rc1cf96d2f10_rtrmadp_3_canada-vanjpg/7278426" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">1</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t192154z_1951525641_rc1cf96d2f10_rtrmadp_3_canada-vanjpg/7278426/ALTERNATES/FREE_380/2018-04-23T192154Z_1951525641_RC1CF96D2F10_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t192154z_1951525641_rc1cf96d2f10_rtrmadp_3_canada-vanjpg/7278426/BINARY/thumbnail/2018-04-23T192154Z_1951525641_RC1CF96D2F10_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A police officer responds to an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t192154z_1951525641_rc1cf96d2f10_rtrmadp_3_canada-vanjpg/7278426/BINARY/original/2018-04-23T192154Z_1951525641_RC1CF96D2F10_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T192154Z_1951525641_RC1CF96D2F10_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t192154z_1951525641_rc1cf96d2f10_rtrmadp_3_canada-vanjpg/7278426/BINARY/original/2018-04-23T192154Z_1951525641_RC1CF96D2F10_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t191518z_1308783101_rc1f3a51eac0_rtrmadp_3_canada-vanjpg/7278420" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">2</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t191518z_1308783101_rc1f3a51eac0_rtrmadp_3_canada-vanjpg/7278420/ALTERNATES/FREE_380/2018-04-23T191518Z_1308783101_RC1F3A51EAC0_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t191518z_1308783101_rc1f3a51eac0_rtrmadp_3_canada-vanjpg/7278420/BINARY/thumbnail/2018-04-23T191518Z_1308783101_RC1F3A51EAC0_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A pedestrian officer responds to an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Carlo Allegri / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t191518z_1308783101_rc1f3a51eac0_rtrmadp_3_canada-vanjpg/7278420/BINARY/original/2018-04-23T191518Z_1308783101_RC1F3A51EAC0_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T191518Z_1308783101_RC1F3A51EAC0_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t191518z_1308783101_rc1f3a51eac0_rtrmadp_3_canada-vanjpg/7278420/BINARY/original/2018-04-23T191518Z_1308783101_RC1F3A51EAC0_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t191517z_1167140233_rc13fc8ea4d0_rtrmadp_3_canada-vanjpg/7278417" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">3</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t191517z_1167140233_rc13fc8ea4d0_rtrmadp_3_canada-vanjpg/7278417/ALTERNATES/FREE_380/2018-04-23T191517Z_1167140233_RC13FC8EA4D0_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t191517z_1167140233_rc13fc8ea4d0_rtrmadp_3_canada-vanjpg/7278417/BINARY/thumbnail/2018-04-23T191517Z_1167140233_RC13FC8EA4D0_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A pedestrian walks along a police crime scene tape near where a van struck multiple people at a major intersection in Toronto's northern suburbs in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Carlo Allegri / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t191517z_1167140233_rc13fc8ea4d0_rtrmadp_3_canada-vanjpg/7278417/BINARY/original/2018-04-23T191517Z_1167140233_RC13FC8EA4D0_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T191517Z_1167140233_RC13FC8EA4D0_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t191517z_1167140233_rc13fc8ea4d0_rtrmadp_3_canada-vanjpg/7278417/BINARY/original/2018-04-23T191517Z_1167140233_RC13FC8EA4D0_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t190952z_1265046784_rc1b66dfb180_rtrmadp_3_canada-vanjpg/7278414" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">4</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t190952z_1265046784_rc1b66dfb180_rtrmadp_3_canada-vanjpg/7278414/ALTERNATES/FREE_380/2018-04-23T190952Z_1265046784_RC1B66DFB180_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t190952z_1265046784_rc1b66dfb180_rtrmadp_3_canada-vanjpg/7278414/BINARY/thumbnail/2018-04-23T190952Z_1265046784_RC1B66DFB180_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A pedestrian, who police say was a witness to a van striking multiple people at a major intersection in Toronto's northern suburbs, reacts in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Carlo Allegri / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t190952z_1265046784_rc1b66dfb180_rtrmadp_3_canada-vanjpg/7278414/BINARY/original/2018-04-23T190952Z_1265046784_RC1B66DFB180_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T190952Z_1265046784_RC1B66DFB180_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t190952z_1265046784_rc1b66dfb180_rtrmadp_3_canada-vanjpg/7278414/BINARY/original/2018-04-23T190952Z_1265046784_RC1B66DFB180_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t185523z_731937016_rc14cde40a00_rtrmadp_3_canada-vanjpg/7278366" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">5</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t185523z_731937016_rc14cde40a00_rtrmadp_3_canada-vanjpg/7278366/ALTERNATES/FREE_380/2018-04-23T185523Z_731937016_RC14CDE40A00_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t185523z_731937016_rc14cde40a00_rtrmadp_3_canada-vanjpg/7278366/BINARY/thumbnail/2018-04-23T185523Z_731937016_RC14CDE40A00_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A victim is helped by pedestrians after a van hit multiple people at a major intersection in Toronto, Canada April 23, 2018, in this picture obtained by REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. NO RESALES. NO ARCHIVES."
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t185523z_731937016_rc14cde40a00_rtrmadp_3_canada-vanjpg/7278366/BINARY/original/2018-04-23T185523Z_731937016_RC14CDE40A00_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T185523Z_731937016_RC14CDE40A00_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t185523z_731937016_rc14cde40a00_rtrmadp_3_canada-vanjpg/7278366/BINARY/original/2018-04-23T185523Z_731937016_RC14CDE40A00_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-1" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-0'];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-0');
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t185520z_1389045130_rc19a1b14720_rtrmadp_3_canada-vanjpg/7278363" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">6</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t185520z_1389045130_rc19a1b14720_rtrmadp_3_canada-vanjpg/7278363/ALTERNATES/FREE_380/2018-04-23T185520Z_1389045130_RC19A1B14720_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t185520z_1389045130_rc19a1b14720_rtrmadp_3_canada-vanjpg/7278363/BINARY/thumbnail/2018-04-23T185520Z_1389045130_RC19A1B14720_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A victim is helped by pedestrians after a van hit multiple people at a major intersection in Toronto, Canada April 23, 2018, in this picture obtained by REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. NO RESALES. NO ARCHIVES"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t185520z_1389045130_rc19a1b14720_rtrmadp_3_canada-vanjpg/7278363/BINARY/original/2018-04-23T185520Z_1389045130_RC19A1B14720_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T185520Z_1389045130_RC19A1B14720_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t185520z_1389045130_rc19a1b14720_rtrmadp_3_canada-vanjpg/7278363/BINARY/original/2018-04-23T185520Z_1389045130_RC19A1B14720_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t204054z_601282039_rc1f60510280_rtrmadp_3_canada-vanjpg/7278927" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">7</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t204054z_601282039_rc1f60510280_rtrmadp_3_canada-vanjpg/7278927/ALTERNATES/FREE_380/2018-04-23T204054Z_601282039_RC1F60510280_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t204054z_601282039_rc1f60510280_rtrmadp_3_canada-vanjpg/7278927/BINARY/thumbnail/2018-04-23T204054Z_601282039_RC1F60510280_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Detectives ask witnesses about an incident when a van hit multiple people at a major intersection in Toronto, Canada April 23, 2018, in this picture obtained from social media. MICAH WINSTON/via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. NO RESALES. NO ARCHIVES?"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> MICAH WINSTON/via REUTERS / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t204054z_601282039_rc1f60510280_rtrmadp_3_canada-vanjpg/7278927/BINARY/original/2018-04-23T204054Z_601282039_RC1F60510280_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T204054Z_601282039_RC1F60510280_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t204054z_601282039_rc1f60510280_rtrmadp_3_canada-vanjpg/7278927/BINARY/original/2018-04-23T204054Z_601282039_RC1F60510280_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t203716z_114692824_rc1e59864070_rtrmadp_3_canada-vanjpg/7278924" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">8</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t203716z_114692824_rc1e59864070_rtrmadp_3_canada-vanjpg/7278924/ALTERNATES/FREE_380/2018-04-23T203716Z_114692824_RC1E59864070_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t203716z_114692824_rc1e59864070_rtrmadp_3_canada-vanjpg/7278924/BINARY/thumbnail/2018-04-23T203716Z_114692824_RC1E59864070_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="ATTENTION EDITORS - VISUAL COVERAGE OF SCENES OF INJURY OR DEATH Firemen cover a victim of an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs, in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Carlo Allegri / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t203716z_114692824_rc1e59864070_rtrmadp_3_canada-vanjpg/7278924/BINARY/original/2018-04-23T203716Z_114692824_RC1E59864070_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T203716Z_114692824_RC1E59864070_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t203716z_114692824_rc1e59864070_rtrmadp_3_canada-vanjpg/7278924/BINARY/original/2018-04-23T203716Z_114692824_RC1E59864070_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t203714z_939220645_rc138670bf50_rtrmadp_3_canada-vanjpg/7278921" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">9</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t203714z_939220645_rc138670bf50_rtrmadp_3_canada-vanjpg/7278921/ALTERNATES/FREE_380/2018-04-23T203714Z_939220645_RC138670BF50_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t203714z_939220645_rc138670bf50_rtrmadp_3_canada-vanjpg/7278921/BINARY/thumbnail/2018-04-23T203714Z_939220645_RC138670BF50_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Firemen cover a victim of an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs, in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Carlo Allegri / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t203714z_939220645_rc138670bf50_rtrmadp_3_canada-vanjpg/7278921/BINARY/original/2018-04-23T203714Z_939220645_RC138670BF50_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T203714Z_939220645_RC138670BF50_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t203714z_939220645_rc138670bf50_rtrmadp_3_canada-vanjpg/7278921/BINARY/original/2018-04-23T203714Z_939220645_RC138670BF50_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t203652z_1866078758_rc15354c33c0_rtrmadp_3_canada-vanjpg/7278918" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">10</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t203652z_1866078758_rc15354c33c0_rtrmadp_3_canada-vanjpg/7278918/ALTERNATES/FREE_380/2018-04-23T203652Z_1866078758_RC15354C33C0_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t203652z_1866078758_rc15354c33c0_rtrmadp_3_canada-vanjpg/7278918/BINARY/thumbnail/2018-04-23T203652Z_1866078758_RC15354C33C0_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="First responders perform CPR on victim after a van hit multiple people at a major intersection in Toronto, Canada April 23, 2018, in this still image taken from a video from obtained from social media. LEELAW.COM/via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. NO RESALES. NO ARCHIVES?"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> LEELAW.COM/via REUTERS / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t203652z_1866078758_rc15354c33c0_rtrmadp_3_canada-vanjpg/7278918/BINARY/original/2018-04-23T203652Z_1866078758_RC15354C33C0_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T203652Z_1866078758_RC15354C33C0_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t203652z_1866078758_rc15354c33c0_rtrmadp_3_canada-vanjpg/7278918/BINARY/original/2018-04-23T203652Z_1866078758_RC15354C33C0_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-2" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-1">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-1'];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-1');
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t203059z_497780047_rc1e19de20a0_rtrmadp_3_canada-vanjpg/7278915" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">11</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t203059z_497780047_rc1e19de20a0_rtrmadp_3_canada-vanjpg/7278915/ALTERNATES/FREE_380/2018-04-23T203059Z_497780047_RC1E19DE20A0_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t203059z_497780047_rc1e19de20a0_rtrmadp_3_canada-vanjpg/7278915/BINARY/thumbnail/2018-04-23T203059Z_497780047_RC1E19DE20A0_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Police officers arrest suspect driver after a van hit multiple people at a major intersection in Toronto, Canada April 23, 2018, in this picture obtained from social media. TWITTER / @SOPHFLYPRO/via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. NO RESALES. NO ARCHIVES"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> TWITTER / @SOPHFLYPRO/via REUTERS / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t203059z_497780047_rc1e19de20a0_rtrmadp_3_canada-vanjpg/7278915/BINARY/original/2018-04-23T203059Z_497780047_RC1E19DE20A0_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T203059Z_497780047_RC1E19DE20A0_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t203059z_497780047_rc1e19de20a0_rtrmadp_3_canada-vanjpg/7278915/BINARY/original/2018-04-23T203059Z_497780047_RC1E19DE20A0_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t202924z_151400222_rc1260155000_rtrmadp_3_canada-vanjpg/7278912" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">12</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t202924z_151400222_rc1260155000_rtrmadp_3_canada-vanjpg/7278912/ALTERNATES/FREE_380/2018-04-23T202924Z_151400222_RC1260155000_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t202924z_151400222_rc1260155000_rtrmadp_3_canada-vanjpg/7278912/BINARY/thumbnail/2018-04-23T202924Z_151400222_RC1260155000_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A victim is helped by pedestrians after a van hit multiple people at a major intersection in Toronto, Canada April 23, 2018, in this picture obtained from social media. TWITTER / @GLAMMEDBYDIEGO/via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. NO RESALES. NO ARCHIVES?"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> TWITTER / @GLAMMEDBYDIEGO/via REUTERS / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t202924z_151400222_rc1260155000_rtrmadp_3_canada-vanjpg/7278912/BINARY/original/2018-04-23T202924Z_151400222_RC1260155000_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T202924Z_151400222_RC1260155000_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t202924z_151400222_rc1260155000_rtrmadp_3_canada-vanjpg/7278912/BINARY/original/2018-04-23T202924Z_151400222_RC1260155000_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t202907z_659142819_rc1afe69f6c0_rtrmadp_3_canada-vanjpg/7278909" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">13</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t202907z_659142819_rc1afe69f6c0_rtrmadp_3_canada-vanjpg/7278909/ALTERNATES/FREE_380/2018-04-23T202907Z_659142819_RC1AFE69F6C0_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t202907z_659142819_rc1afe69f6c0_rtrmadp_3_canada-vanjpg/7278909/BINARY/thumbnail/2018-04-23T202907Z_659142819_RC1AFE69F6C0_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="People react to an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs, in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Carlo Allegri / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t202907z_659142819_rc1afe69f6c0_rtrmadp_3_canada-vanjpg/7278909/BINARY/original/2018-04-23T202907Z_659142819_RC1AFE69F6C0_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T202907Z_659142819_RC1AFE69F6C0_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t202907z_659142819_rc1afe69f6c0_rtrmadp_3_canada-vanjpg/7278909/BINARY/original/2018-04-23T202907Z_659142819_RC1AFE69F6C0_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t202906z_118432232_rc184ed0c250_rtrmadp_3_canada-vanjpg/7278906" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">14</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t202906z_118432232_rc184ed0c250_rtrmadp_3_canada-vanjpg/7278906/ALTERNATES/FREE_380/2018-04-23T202906Z_118432232_RC184ED0C250_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t202906z_118432232_rc184ed0c250_rtrmadp_3_canada-vanjpg/7278906/BINARY/thumbnail/2018-04-23T202906Z_118432232_RC184ED0C250_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="People react to an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs, in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Carlo Allegri / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t202906z_118432232_rc184ed0c250_rtrmadp_3_canada-vanjpg/7278906/BINARY/original/2018-04-23T202906Z_118432232_RC184ED0C250_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T202906Z_118432232_RC184ED0C250_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t202906z_118432232_rc184ed0c250_rtrmadp_3_canada-vanjpg/7278906/BINARY/original/2018-04-23T202906Z_118432232_RC184ED0C250_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t202903z_852884988_rc1d39c67790_rtrmadp_3_canada-vanjpg/7278903" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">15</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t202903z_852884988_rc1d39c67790_rtrmadp_3_canada-vanjpg/7278903/ALTERNATES/FREE_380/2018-04-23T202903Z_852884988_RC1D39C67790_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t202903z_852884988_rc1d39c67790_rtrmadp_3_canada-vanjpg/7278903/BINARY/thumbnail/2018-04-23T202903Z_852884988_RC1D39C67790_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="People react to an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs, in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Carlo Allegri"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Carlo Allegri / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t202903z_852884988_rc1d39c67790_rtrmadp_3_canada-vanjpg/7278903/BINARY/original/2018-04-23T202903Z_852884988_RC1D39C67790_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T202903Z_852884988_RC1D39C67790_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t202903z_852884988_rc1d39c67790_rtrmadp_3_canada-vanjpg/7278903/BINARY/original/2018-04-23T202903Z_852884988_RC1D39C67790_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-3" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-2">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-2'];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-2');
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t202833z_1024942814_rc1eee5dded0_rtrmadp_3_canada-vanjpg/7278900" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">16</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t202833z_1024942814_rc1eee5dded0_rtrmadp_3_canada-vanjpg/7278900/ALTERNATES/FREE_380/2018-04-23T202833Z_1024942814_RC1EEE5DDED0_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t202833z_1024942814_rc1eee5dded0_rtrmadp_3_canada-vanjpg/7278900/BINARY/thumbnail/2018-04-23T202833Z_1024942814_RC1EEE5DDED0_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A victim is helped by police officer after a van hit multiple people at a major intersection in Toronto, Canada April 23, 2018, in this still image taken from a video obtained from social media. TWITTER / @GLAMMEDBYDIEGO/via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. NO RESALES. NO ARCHIVES?"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> TWITTER / @GLAMMEDBYDIEGO/via REUTERS / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t202833z_1024942814_rc1eee5dded0_rtrmadp_3_canada-vanjpg/7278900/BINARY/original/2018-04-23T202833Z_1024942814_RC1EEE5DDED0_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T202833Z_1024942814_RC1EEE5DDED0_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t202833z_1024942814_rc1eee5dded0_rtrmadp_3_canada-vanjpg/7278900/BINARY/original/2018-04-23T202833Z_1024942814_RC1EEE5DDED0_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t202831z_1871737457_rc118cf460c0_rtrmadp_3_canada-vanjpg/7278897" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">17</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t202831z_1871737457_rc118cf460c0_rtrmadp_3_canada-vanjpg/7278897/ALTERNATES/FREE_380/2018-04-23T202831Z_1871737457_RC118CF460C0_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t202831z_1871737457_rc118cf460c0_rtrmadp_3_canada-vanjpg/7278897/BINARY/thumbnail/2018-04-23T202831Z_1871737457_RC118CF460C0_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A victim is helped by pedestrians after a van hit multiple people at a major intersection in Toronto, Canada April 23, 2018, in this still image taken from a video obtained from social media. TWITTER / @HENRIMILLER100 /via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. NO RESALES. NO ARCHIVES?"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> TWITTER / @HENRIMILLER100 /via REUTERS / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t202831z_1871737457_rc118cf460c0_rtrmadp_3_canada-vanjpg/7278897/BINARY/original/2018-04-23T202831Z_1871737457_RC118CF460C0_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T202831Z_1871737457_RC118CF460C0_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t202831z_1871737457_rc118cf460c0_rtrmadp_3_canada-vanjpg/7278897/BINARY/original/2018-04-23T202831Z_1871737457_RC118CF460C0_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t200828z_1746433420_rc1d03887200_rtrmadp_3_canada-vanjpg/7278894" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">18</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t200828z_1746433420_rc1d03887200_rtrmadp_3_canada-vanjpg/7278894/ALTERNATES/FREE_380/2018-04-23T200828Z_1746433420_RC1D03887200_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t200828z_1746433420_rc1d03887200_rtrmadp_3_canada-vanjpg/7278894/BINARY/thumbnail/2018-04-23T200828Z_1746433420_RC1D03887200_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Toronto police investigates an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Chris Donovan"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Chris Donovan / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t200828z_1746433420_rc1d03887200_rtrmadp_3_canada-vanjpg/7278894/BINARY/original/2018-04-23T200828Z_1746433420_RC1D03887200_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T200828Z_1746433420_RC1D03887200_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t200828z_1746433420_rc1d03887200_rtrmadp_3_canada-vanjpg/7278894/BINARY/original/2018-04-23T200828Z_1746433420_RC1D03887200_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-04-23t200503z_1257864682_rc11fb969300_rtrmadp_3_canada-vanjpg/7278891" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">19</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">19</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-04-23t200503z_1257864682_rc11fb969300_rtrmadp_3_canada-vanjpg/7278891/ALTERNATES/FREE_380/2018-04-23T200503Z_1257864682_RC11FB969300_RTRMADP_3_CANADA-VAN.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-04-23t200503z_1257864682_rc11fb969300_rtrmadp_3_canada-vanjpg/7278891/BINARY/thumbnail/2018-04-23T200503Z_1257864682_RC11FB969300_RTRMADP_3_CANADA-VAN.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A Toronto police officer responds to an incident where a van struck multiple people at a major intersection in Toronto's northern suburbs in Toronto, Ontario, Canada, April 23, 2018. REUTERS/Chris Donovan"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Chris Donovan / REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-04-23t200503z_1257864682_rc11fb969300_rtrmadp_3_canada-vanjpg/7278891/BINARY/original/2018-04-23T200503Z_1257864682_RC11FB969300_RTRMADP_3_CANADA-VAN.jpg" data-title="2018-04-23T200503Z_1257864682_RC11FB969300_RTRMADP_3_CANADA-VAN.jpg" data-media="https://www.jutarnji.hr/incoming/2018-04-23t200503z_1257864682_rc11fb969300_rtrmadp_3_canada-vanjpg/7278891/BINARY/original/2018-04-23T200503Z_1257864682_RC11FB969300_RTRMADP_3_CANADA-VAN.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+</div>
+</section>
+</div>
+<footer class="siteFoot ">
+<div class="container ">
+<a href="#top">Povratak na vrh</a>
+<div class="row footNav ">
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/">
+Naslovnica
+</a>
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row socialize ">
+<div class="row col-xs-12 " >
+<dl class="socialLinks">
+<dt>Poveži se s Jutarnjim</dt> <dd><a class="fb" href="https://www.facebook.com/jutarnji.list/" title="Facebook">Facebook</a></dd>
+<dd><a class="tw" href="https://twitter.com/jutarnjihr" title="Twitter">Twitter</a></dd>
+<dd><a class="in" href="https://www.instagram.com/jutarnji.hr/" title="Instagram">Instagram</a></dd>
+</dl>
+</div>
+</div>
+<div class="row siteInfo ">
+<div class="col-xs-12 ">
+<p><a class="jl" href="/" title="Jutarnji list">Jutarnji list</a></p>
+<ul class="family">
+<li><a class="sd" href="http://www.slobodnadalmacija.hr/" title="Slobodna Dalmacija">Slobodna Dalmacija</a></li>
+<li><a class="sn" href="http://sportske.jutarnji.hr/" title="Sportske Novosti">Sportske Novosti</a></li>
+<li><a class="sto" href="http://100posto.hr/" title="100posto">100posto</a></li>
+<li><a class="glob" href="http://www.jutarnji.hr/globus/" title="Globus">Globus</a></li>
+<li><a class="zv" href="http://zivim.hr/" title="Živim.hr">Živim.hr</a></li>
+<li><a class="glo" href="http://www.gloria.hr/" title="Gloria">Gloria</a></li>
+<li><a class="dh" href="http://www.jutarnji.hr/dobrahrana/" title="Dobra hrana">Dobra hrana</a></li>
+<li><a class="did" href="http://www.jutarnji.hr/domidizajn/" title="Dom &amp; Dizajn">Dom &amp; Dizajn</a></li>
+<li><a class="ak" href="http://www.jutarnji.hr/autoklub/" title="Autoklub">Autoklub</a></li>
+<li><a class="ok" href="http://okjeok.hr/" title="ok!">ok!</a></li>
+<li><a class="ds" href="https://www.dosi.hr/" title="Dosi">Dosi</a></li>
+<li><a class="dv" href="http://dubrovacki.hr/" title="Dubrovacki Vjesnik">Dubrovacki Vjesnik</a></li>
+<li><a class="zd" href="http://www.zadarski.hr/" title="Zadarski">Zadarski</a></li>
+<li><a class="lc" href="http://www.likecroatia.com/" title="LikeCroatia">LikeCroatia</a></li>
+</ul>
+<ul class=" legal">
+<li class="">
+<a href="https://www.jutarnji.hr/Opci-uvjeti/">
+Opæi uvjeti korištenja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-prenosenja-sadrzaja/">
+Pravila prenošenja sadržaja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Zastita-privatnosti/">
+Zaštita privatnosti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-komentiranja/">
+Pravila komentiranja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Impressum/">
+Impressum
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Kontakt/">
+Kontakt
+</a>
+</li>
+<li class="">
+<a href="http://apps.jutarnji.hr/HM-Digital-Cjenik.pdf" target="_blank">
+Oglašavanje
+</a>
+</li>
+<li class="">
+<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
+Cjenik za izborno oglašavanje
+</a>
+</li>
+</ul>
+<p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
+</div>
+</div>
+</div>
+</footer>
+<!-- Midas Pixel Code -->
+<img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
+<!-- DO NOT MODIFY -->
+<!-- End Midas Pixel Code -->
+<script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=227&contextPath=1-227-&pubId=1&cat=&meta=read-gallery&objId=7278933&type=article&title=Voza%c4%8d+kombija+pokosio+desetke+slu%c4%8dajnih+prolaznika+u+Torontu&url=https%3a%2f%2fwww.jutarnji.hr%2fFotogalerije%2fvozac-kombija-pokosio-desetke-slucajnih-prolaznika-u-torontu%2f7278933%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=227&amp;contextPath=1-227-&amp;pubId=1&amp;cat=&amp;meta=read-gallery&amp;objId=7278933&amp;type=article&amp;title=Voza%c4%8d+kombija+pokosio+desetke+slu%c4%8dajnih+prolaznika+u+Torontu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fFotogalerije%2fvozac-kombija-pokosio-desetke-slucajnih-prolaznika-u-torontu%2f7278933%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"media.jwplayer.hls.enabled":"true","audioPlayer":"mediaelement","media.jwplayer.sharing.enabled":"true","lc.liveLoading.pollingInterval":"5","media.jwplayer.ga.enabled":"true","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","media.jwplayer.options.primary":"flash","videoPlayer":"flowplayer"};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "https://www.jutarnji.hr/";
+/* Client-side device detection */
+var WFClientTypeDef = {"small":"(max-width: 767px)","large":"(min-width: 992px)","medium":"(min-width: 768px) and (max-width: 991px)"};
+var imageSizes = [80, 180, 280, 380, 480, 580, 680, 780, 880, 980, 1080, 1180];
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+</script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style")
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+)
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/jquery-1.10.2.min.js"></script>
+<script>(function ($, d) {
+$.each(readyQ, function (i, f) {
+$(f)
+});
+$.each(bindReadyQ, function (i, f) {
+$(d).bind("ready", f)
+})
+})(jQuery, document)</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/wf-site.65c4eb6cf51818ab41250bfab36dff26.js"></script>
+<script type="text/javascript">
+require(['https://www.jutarnji.hr/static/js/holder.js'], function () {});
+</script>
+<script>
+var _ain = {};
+$(function() {
+$
+.ajax({
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/Fotogalerije/vozac-kombija-pokosio-desetke-slucajnih-prolaznika-u-torontu/7278933/',
+dataType : 'jsonp',
+success : function(data) {
+var commentsCount = 0;
+if (typeof data.comments != 'undefined') {
+commentsCount = data.comments;
+}
+/* CONFIGURATION START */
+_ain = {
+id : "1247",
+url : "https://www.jutarnji.hr/Fotogalerije/vozac-kombija-pokosio-desetke-slucajnih-prolaznika-u-torontu/7278933/",
+postId : "7278933",
+maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
+title : "Vozaè kombija pokosio desetke sluèajnih prolaznika u Torontu",
+pubdate : "2018-04-23 23:01",
+authors : "Dalibor Miljuš",
+sections : "Front Page, Fotogalerije",
+tags : "",
+comments : commentsCount.toString()
+};
+/* CONFIGURATION END */
+(function(d, s) {
+var sf = d.createElement(s);
+sf.type = 'text/javascript';
+sf.async = true;
+sf.src = (('https:' == d.location.protocol) ? 'https://d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com'
+: 'http://t.contentinsights.com')
++ '/stf.js';
+var t = d.getElementsByTagName(s)[0];
+t.parentNode.insertBefore(sf, t);
+})(document, 'script');
+}
+});
+});
+</script>
+</body>
+</html>

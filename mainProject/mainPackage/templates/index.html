@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Profili javnih osoba</title>
+	<meta name="author" content="your name" />
+	<meta name="description" content="" />
+	<link rel="stylesheet" href="{{ url_for('static', filename='webPageStyle.css') }}" type="text/css" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	
+	<script type=text/javascript>
+        $(function() {
+          $('a#test').bind('click', function() {
+            $.getJSON('/startCrawlerSentiment',
+                function(data) {
+              //do nothing
+            });
+            return false;
+          });
+        });
+	</script>
+
+	
+</head>
+
+<body>
+	<div id="page">
+		<div id="logo">
+			<h1><a href="/" id="logoLink">Profili javnih osoba</a></h1>
+		</div>
+		<div id="content">
+			<div>
+    			<h3>Crawlanje i analiza zadnjih 100 clanaka</h3>
+        		<form>
+            		<a href=# id=test><button class='btn btn-default'>Crawl</button></a>
+        		</form>
+			</div>
+				<div id="nav">
+					<ul>
+						<li><a href="showPolitics">Politika</a></li>
+						<li><a href="showMusic">Glazba</a></li>
+						<li><a href="showSport">Sport</a></li>
+						<li><a href="showTheatre">Kazaliste</a></li>
+						<li><a href="showTV">TV</a></li>
+						<li><a href="showBusiness">Poduzetnistvo</a></li>
+					</ul>	
+				</div>
+		</div>
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank">Katarina</a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>
