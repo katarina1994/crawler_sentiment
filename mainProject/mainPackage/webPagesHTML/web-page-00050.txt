@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Ravnatelj HRT-a Kazimir Baèiæ je, prema dokumentu koji posjedujemo, 18. prosinca prošle godine potpisao odluku o odabiru kandidata za radno mjesto glavnog tajnika HRT-a. Baèiæ je odluèio da æe glavni tajnik biti pravnik Toni Caratan." />
-<meta name="keywords" content="HRT" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<meta name="keywords" content="sendviè-bar Pingvin, Zagreb, sendvièi, Damir Maletiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Odabrao glavnog tajnika 2 mjeseca prije odobrenja Nadzornog odbora - Jutarnji List</title>
+<title>RAZGOVARALI SMO S VLASNIKOM KULTNOG SENDVIÈ-BARA U SREDIŠTU ZAGREBA Mnogi su ostali u šoku kad su èuli da Pingvin više ne radi: &#039;Ovo nije kraj&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "NO";
+var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
+var dfpCategory = "Zagreb";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7282531";
-var dfpArticleKeyword = "HRT";
+var dfpArticle = "7328583";
+var dfpArticleKeyword = "sendviè-bar Pingvin";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,8 +573,6 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
-<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
-<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -640,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/odabrao-glavnog-tajnika-2-mjeseca-prije-odobrenja-nadzornog-odbora/7282531/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/odabrao-glavnog-tajnika-2-mjeseca-prije-odobrenja-nadzornog-odbora/7282531/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/zagreb/razgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj/7328583/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/zagreb/razgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj/7328583/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -654,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/kazimir-bacic-hrt/5649603/ALTERNATES/LANDSCAPE_1180/kazimir%20ba%C4%8Di%C4%87%20hrt" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/popovski_ivan28-200212jpg/7328577/ALTERNATES/LANDSCAPE_1180/popovski_ivan28-200212.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/kazimir-bacic-hrt/5649603/ALTERNATES/LANDSCAPE_1180/kazimir%20ba%C4%8Di%C4%87%20hrt">
-<meta property="og:title" content="Odabrao glavnog tajnika 2 mjeseca prije odobrenja Nadzornog odbora" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/popovski_ivan28-200212jpg/7328577/ALTERNATES/LANDSCAPE_1180/popovski_ivan28-200212.jpg">
+<meta property="og:title" content="RAZGOVARALI SMO S VLASNIKOM KULTNOG SENDVIÈ-BARA U SREDIŠTU ZAGREBA Mnogi su ostali u šoku kad su èuli da Pingvin više ne radi: 'Ovo nije kraj'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/odabrao-glavnog-tajnika-2-mjeseca-prije-odobrenja-nadzornog-odbora/7282531/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/zagreb/razgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj/7328583/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Ravnatelj HRT-a Kazimir Baèiæ je, prema dokumentu koji posjedujemo, 18. prosinca prošle godine potpisao odluku o odabiru kandidata za radno mjesto glavnog tajnika HRT-a. Baèiæ je odluèio da æe glavni tajnik biti pravnik Toni Caratan." />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Slavica Lukiæ">
-<meta name="twitter:title" content="Odabrao glavnog tajnika 2 mjeseca prije odobrenja Nadzornog odbora">
-<meta name="twitter:description" content="Ravnatelj HRT-a Kazimir Baèiæ je, prema dokumentu koji posjedujemo, 18. prosinca prošle godine potpisao odluku o odabiru kandidata za radno mjesto glavnog tajnika HRT-a. Baèiæ je odluèio da æe glavni tajnik biti pravnik Toni Caratan.">
+<meta name="twitter:creator" content="Iva Badanjak">
+<meta name="twitter:title" content="RAZGOVARALI SMO S VLASNIKOM KULTNOG SENDVIÈ-BARA U SREDIŠTU ZAGREBA Mnogi su ostali u šoku kad su èuli da Pingvin više ne radi: 'Ovo nije kraj'">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -691,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-25T16:24+02:00",
-author: "Slavica Lukiæ",
+data: { section: "Zagreb, Vijesti, Front Page",
+pubdate: "2018-05-07T21:07+02:00",
+author: "Iva Badanjak",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -860,7 +858,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -875,7 +873,7 @@ Svijet
 Crna kronika
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/zagreb/">
 Zagreb
 </a>
@@ -888,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1136,10 +1139,10 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/zagreb/">Zagreb </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1154,7 +1157,7 @@ Svijet
 Crna kronika
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/zagreb/">
 Zagreb
 </a>
@@ -1167,6 +1170,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1206,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-RAVNATELJ BAÈIÆ ZAOBIŠAO PRAVILNIK
+ÈUVENI LOKAL U TESLINOJ
 </p>
 <h1
 class="title">
-Odabrao glavnog tajnika 2 mjeseca prije odobrenja Nadzornog odbora
+RAZGOVARALI SMO S VLASNIKOM KULTNOG SENDVIÈ-BARA U SREDIŠTU ZAGREBA Mnogi su ostali u šoku kad su èuli da Pingvin više ne radi: 'Ovo nije kraj'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1218,7 +1226,7 @@ Odabrao glavnog tajnika 2 mjeseca prije odobrenja Nadzornog odbora
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/slavica-lukic">Slavica Lukiæ</a></li>
+<li>Iva Badanjak</li>
 </ul>
 </p>
 </li>
@@ -1226,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 16:24
+07.05.2018. u 21:07
 </p>
 </li>
 </ul>
@@ -1238,21 +1246,23 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/kazimir-bacic-hrt/5649603" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/popovski_ivan28-200212jpg/7328577" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/kazimir-bacic-hrt/5649603/ALTERNATES/LANDSCAPE_380/kazimir%20ba%C4%8Di%C4%87%20hrt"
+<img src="https://www.jutarnji.hr/incoming/popovski_ivan28-200212jpg/7328577/ALTERNATES/LANDSCAPE_380/popovski_ivan28-200212.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/kazimir-bacic-hrt/5649603/BINARY/thumbnail/kazimir%20ba%C4%8Di%C4%87%20hrt"
+data-src-template="https://www.jutarnji.hr/incoming/popovski_ivan28-200212jpg/7328577/BINARY/thumbnail/popovski_ivan28-200212.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Zagreb, 200212.
+Ivan Popovski, makedonski redatelj postavlja predstavu Idiot u ZKM-u. Pingvin, kiosk za sendvice .
+Foto: Roberto Orlic / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> HANZA MEDIA/HRT
+<span> Roberto Orlic / CROPIX
 </span>
 </div>
 </div>
@@ -1261,6 +1271,10 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1284,14 +1298,44 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7282531"
+<div id="content-body-6263871-7328583"
 >
-<p>Ravnatelj HRT-a <strong>Kazimir Baèiæ </strong>je, prema dokumentu koji posjedujemo, 18. prosinca prošle godine potpisao odluku o odabiru kandidata za radno mjesto glavnog tajnika HRT-a. Baèiæ je odluèio da æe glavni tajnik biti pravnik <strong>Toni Caratan</strong>.</p><p>Problem s odabirom Tonija Caratana za funkciju glavnog tajnika, meðutim, leži u èinjenici što u prosincu prošle godine, kad je ravnatelj HRT-a potpisao odluku o Caratanovu odabiru, takvu odluku pravno gledano nije smio donijeti jer radno mjesto glavnog tajnika HRT-a nije bilo predviðeno važeæim HRT-ovim Pravilnikom o plaæama. Štoviše, Ravnateljstvo HRT-a nije smjelo niti raspisati natjeèaj za glavnog tajnika HRT-a sve dok HRT ne donese Pravilnik o plaæama kojim je to radno mjesto predviðeno.</p><p>Aktualna Uprava HRT-a u ljeto prošle godine napisala je prijedlog novog Pravilnika o plaæama u kojemu je, uz ostalo, predvidjela i radno mjesto glavnog tajnika. Interni akti te medijske kuæe, a Pravilnik o plaæama to svakako jest, ne mogu stupiti na snagu prije nego što ih potvrdi Nadzorni odbor, a HRT, kao što je poznato, od ljeta prošle godine ima problema s Nadzornim odborom. Prethodni Nadzorni odbor HRT-a kojim je predsjedala <strong>Anja Šovagoviæ Despot</strong>, HDZ-ova je saborska veæina u srpnju prošle godine naprasno smijenila nakon što je to tijelo uputilo Saboru godišnje izvješæe o radu HRT-a u 2016. u kojem je upozorilo na brojne nepravilnosti i financijski suspektne odluke v.d. uprave <strong>Siniše Kovaèiæa</strong>, ali i prethodne uprave <strong>Gorana Radmana</strong>.</p><p>Kako je HDZ-ova saborska veæina smijenila Nadzorni odbor, Sabor sve do sredine prosinca prošle godine nije izabrao novi. Usprkos tome, Uprava HRT-a je u rujnu prošle godine, u interregnumu nakon raspuštanja prethodnog, a prije nego je izabran novi Nadzorni odbor HRT-a, objavila dva natjeèaja, jedan 20. rujna, a drugi 29. rujna za èitav niz radnih mjesta koja nisu bila predviðena tada važeæim Pravilnikom o plaæama na HRT-u. Meðu njima je i mjesto glavnog tajnika HRT-a koje takoðer nije bilo predviðeno tada važeæim Pravilnikom o plaæama. I dok kandidate za ostala radna mjesta s tih natjeèaja Uprava još nije odabrala, èelni èovjek HRT-a Kazimir Baèiæ je 18. prosinca prošle godine potpisao odluku o odabiru Tonija Caratana za glavnog tajnika te kuæe.</p><p>Kako je moguæe da je odluku o odabiru glavnog tajnika donio, usprkos tome što nije imao temeljni dokument koji definira iznos plaæe za to radno mjesto te bez suglasnosti NO-a, pitanje je koje smo uputili predsjedniku HRT-ove Uprave Kazimiru Baèiæu. Od njihove Službe za odnose s javnošæu dobili smo pisani odgovor. U njemu tvrde da je NO HRT-a dao prethodnu suglasnost za zapošljavanje glavnog tajnika HRT-a 12. veljaèe ove godine te da je Kazimir Baèiæ devet dana poslije, 21. veljaèe, donio odluku o odabiru Tonija Caratana, a Caratan je na HRT-u, kako tvrde, zaposlen 1. ožujka ove godine.</p><p>Meðutim, kako posjedujemo presliku Baèiæeve odluke od 18. prosinca prošle godine o odabiru Caratana za glavnog tajnika HRT-a, oèito je da Uprava te kuæe pokušava sakriti èinjenicu da je odluka o Caratanovu odabiru donesena dva mjeseca prije nego što je NO za nju dao suglasnost. Nadzorni je odbor suglasnost na sporni Pravilnik o plaæama dao tek na sjednici 29. ožujka.</p>
+<p>Kultni zagrebaèki sendviè-bar Pingvin otvorit æe se u novom ruhu s boljom ponudom. Kad je prošli tjedan na društvenim mrežama osvanula vijest da je lokal u Teslinoj ulici zatvoren, mnogi su se s tugom zapitali je li rijeè o kraju jedne ere. Razgovarali smo s vlasnikom <strong>Vlatkom Duvanèiæem</strong> koji nam je rekao da je rijeè o manjem preureðenju i da æe veæ za desetak dana Pingvin opet biti u pogonu.</p><p>- Trebali smo zamijeniti hladnjake, rashladne ureðaje i vitrine pa smo nakratko zatvorili. Bilo je krajnje vrijeme da osvježimo unutarnji prostor, a usput æemo proširiti gastro ponudu za koju se nadamo da æe se svidjeti kupcima. Sve æe biti poboljšano i unaprijeðeno, u suradnji s novim partnerom - kaže Maletiæ.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/pingvin_hrana2-031008jpg/7328574" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/pingvin_hrana2-031008jpg/7328574/ALTERNATES/FREE_380/pingvin_hrana2-031008.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/pingvin_hrana2-031008jpg/7328574/BINARY/thumbnail/pingvin_hrana2-031008.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 031008.
+Teslina ulica, fast food Pingvin.
+Tema o mjestima u Zagrebu na kojima se moze nesto pojesti u nocnim satima. 'Pingvin' slovi kao popularnije mjesto s vrlo velikim izborom, a i radi do ranih jutarnjih sati.
+Foto: Nina Djurdjevic / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Nina Djurdjevic / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>A partner o kojem je rijeè je <strong>Damir Maletiæ</strong>, vlasnik Kaptolske kleti, koji je odluèio uvesti novitete u to dugovjeèno zagrebaèko mjesto.</p><p>- Na postojeæu kvalitetu sendvièa koju veæ imamo dodat æemo klasiènu street food ponudu. Primjerice, nudit æemo biftek i piletinu, ali i sezonske salate s dressingom, hladne juhe, ljetne hladne salate s mozzarellom, tunom ili ribom. Sve æe biti prilagoðeno sezonskim potrebama, a ponuda æe se mijenjati iz tjedna u tjedan. Bit æe tu i deserata, poput savijaèa, pita, cheesecakea u èašici, kroasana... Bit æe tu i novi mladi kuhar i jedan stariji, poznati i iskusniji. Imena zasad ne bih htio otkrivati, to æe biti lijepo iznenaðenje - govori Maletiæ.</p><p>Novost sendviè-bara je i produljeno radno vrijeme pa æe &quot;novi&quot; Pingvin raditi svaki dan od 8 do 4.</p><p>Poznati kiosk sa sendvièima otvorio je <strong>Albert Papo</strong> 1987. godine kad je odluèio upoznati Zagrepèane s hranom koja se jede &quot;s nogu&quot;. Ubrzo je došao i Duvanèiæ, koji je današnji vlasnik lokala. Ponuda sendvièa širila se usporedno s tim kako je mjesto &quot;raslo&quot; pa tako danas u ponudi ima više od 40 vrsta sendvièa, kao i uvijek popularni hot-dog i burger. Tijekom godina Pingvin je postao nezaobilazno mjesto u koje se odlazi nakon noænog izlaska, u pauzi na poslu ili školi pa se u redu ispred lokala obavezno èeka, bilo to ujutro u 10 ujutro ili u 4.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7282531 p").filter(function () {
+$("#content-body-6263871-7328583 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1300,16 +1344,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7282531").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7328583").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7282531").children().slice(max).remove();
+$("#content-body-6263871-7328583").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7282531").children().get(0);
+var firstChild = $("#content-body-6263871-7328583").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1347,8 +1391,23 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/HRT" class ="label label-default" >
-HRT
+<a href="https://www.jutarnji.hr/tag/Damir_Maleti%C4%87" class ="label label-default" >
+Damir Maletiæ
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/sendvi%C4%8Di" class ="label label-default" >
+sendvièi
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Zagreb-2" class ="label label-default" >
+Zagreb
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/sendvi%C4%8D-bar_Pingvin" class ="label label-default" >
+sendviè-bar Pingvin
 </a>
 </li>
 </ul>
@@ -1359,21 +1418,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/hrt-otvorio-jos-jedno-dopisnistvo-u-bih-zelimo-afirmirati-hrvatski-narod-u-susjednoj-drzavi-informacije-trebaju-prolaziti-u-svim-smjerovima/7054109/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/hrt-otvorio-jos-jedno-dopisnistvo-u-bih-zelimo-afirmirati-hrvatski-narod-u-susjednoj-drzavi-informacije-trebaju-prolaziti-u-svim-smjerovima/7054109/">
-HRT OTVORIO JOŠ JEDNO DOPISNIŠTVO U BiH 'Želimo afirmirati hrvatski narod u susjednoj državi, informacije trebaju prolaziti u svim smjerovima'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1389,13 +1433,13 @@ HRT OTVORIO JOŠ JEDNO DOPISNIŠTVO U BiH 'Želimo afirmirati hrvatski narod u susj
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1407,8 +1451,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1420,13 +1464,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1438,8 +1482,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1451,13 +1495,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1469,8 +1513,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1482,17 +1526,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1500,9 +1544,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1584,7 +1627,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7282531" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7328583" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1628,19 +1671,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="zagreb media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/zagreb/razgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj/7328583/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/vijesti/zagreb/razgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj/7328583/">
+ÈUVENI LOKAL U TESLINOJ
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/vijesti/zagreb/razgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj/7328583/">
+RAZGOVARALI SMO S VLASNIKOM KULTNOG SENDVIÈ-BARA U SREDIŠTU ZAGREBA Mnogi su ostali u šoku kad su èuli da Pingvin više ne radi: 'Ovo nije kraj'
 </a>
 </h4>
 </div>
@@ -1650,20 +1693,19 @@ VUKOVI OKO NAS
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="zagreb media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/zagreb/foto-bivsa-misica-izazvala-pomutnju-u-zagrebackoj-gradskoj-skupstini-zastupnici-su-novu-bandicevu-uzdanicu-docekali-s-odusevljenjem/7326441/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
+<a href="https://www.jutarnji.hr/vijesti/zagreb/foto-bivsa-misica-izazvala-pomutnju-u-zagrebackoj-gradskoj-skupstini-zastupnici-su-novu-bandicevu-uzdanicu-docekali-s-odusevljenjem/7326441/">
+POLITIÈKA KARIJERA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
-</a>
+<a href="https://www.jutarnji.hr/vijesti/zagreb/foto-bivsa-misica-izazvala-pomutnju-u-zagrebackoj-gradskoj-skupstini-zastupnici-su-novu-bandicevu-uzdanicu-docekali-s-odusevljenjem/7326441/">
+FOTO: BIVŠA MISICA IZAZVALA POMUTNJU U ZAGREBAÈKOJ GRADSKOJ SKUPŠTINI Zastupnici su novu Bandiæevu uzdanicu doèekali s oduševljenjem </a>
 </h4>
 </div>
 </div>
@@ -1672,19 +1714,19 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="zagreb media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/zagreb/jezivi-prizori-s-jaruna-zabrinuli-zagrepcane-danima-se-govorilo-o-pomoru-ribe-ali-sada-je-stiglo-objasnjenje-o-cemu-je-zapravo-rijec/7329300/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/vijesti/zagreb/jezivi-prizori-s-jaruna-zabrinuli-zagrepcane-danima-se-govorilo-o-pomoru-ribe-ali-sada-je-stiglo-objasnjenje-o-cemu-je-zapravo-rijec/7329300/">
+'ZAGREBAÈKO MORE'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/vijesti/zagreb/jezivi-prizori-s-jaruna-zabrinuli-zagrepcane-danima-se-govorilo-o-pomoru-ribe-ali-sada-je-stiglo-objasnjenje-o-cemu-je-zapravo-rijec/7329300/">
+JEZIVI PRIZORI S JARUNA ZABRINULI ZAGREPÈANE Danima se govorilo o pomoru ribe, ali sada je stiglo objašnjenje o èemu je zapravo rijeè
 </a>
 </h4>
 </div>
@@ -1694,19 +1736,19 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="zagreb media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/zagreb/sramotan-video-iz-zagreba-vozac-zet-ovog-autobusa-napao-putnicu-u-invalidskim-kolicima-sto-ja-sve-moram-raditi/7321974/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/vijesti/zagreb/sramotan-video-iz-zagreba-vozac-zet-ovog-autobusa-napao-putnicu-u-invalidskim-kolicima-sto-ja-sve-moram-raditi/7321974/">
+BAHATLUK NA LINIJI 221
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/vijesti/zagreb/sramotan-video-iz-zagreba-vozac-zet-ovog-autobusa-napao-putnicu-u-invalidskim-kolicima-sto-ja-sve-moram-raditi/7321974/">
+SRAMOTAN VIDEO IZ ZAGREBA: VOZAÈ ZET-ovog AUTOBUSA NAPAO PUTNICU U INVALIDSKIM KOLICIMA 'Što ja sve moram raditi...'
 </a>
 </h4>
 </div>
@@ -1744,19 +1786,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1764,8 +1806,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1824,7 +1866,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1839,7 +1881,7 @@ Svijet
 Crna kronika
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/zagreb/">
 Zagreb
 </a>
@@ -1852,6 +1894,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2141,11 +2188,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2193,14 +2235,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2244,23 +2286,56 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7282531&type=article&title=Odabrao+glavnog+tajnika+2+mjeseca+prije+odobrenja+Nadzornog+odbora&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fodabrao-glavnog-tajnika-2-mjeseca-prije-odobrenja-nadzornog-odbora%2f7282531%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=20&contextPath=1-16-20-&pubId=1&cat=&meta=read-story&objId=7328583&type=article&title=RAZGOVARALI+SMO+S+VLASNIKOM+KULTNOG+SENDVI%c4%8c-BARA+U+SREDI%c5%a0TU+ZAGREBA+Mnogi+su+ostali+u+%c5%a1oku+kad+su+%c4%8duli+da+Pingvin+vi%c5%a1e+ne+radi%3a+%26%23039%3bOvo+nije+kraj%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fzagreb%2frazgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj%2f7328583%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7282531&amp;type=article&amp;title=Odabrao+glavnog+tajnika+2+mjeseca+prije+odobrenja+Nadzornog+odbora&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fodabrao-glavnog-tajnika-2-mjeseca-prije-odobrenja-nadzornog-odbora%2f7282531%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=20&amp;contextPath=1-16-20-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7328583&amp;type=article&amp;title=RAZGOVARALI+SMO+S+VLASNIKOM+KULTNOG+SENDVI%c4%8c-BARA+U+SREDI%c5%a0TU+ZAGREBA+Mnogi+su+ostali+u+%c5%a1oku+kad+su+%c4%8duli+da+Pingvin+vi%c5%a1e+ne+radi%3a+%26%23039%3bOvo+nije+kraj%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fzagreb%2frazgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj%2f7328583%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2014876282&title=HRT&url=tag%3ajltags%40eph.hr%2c2016%3aHRT&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&cat=jltags%40eph.hr%2c2016&objId=128869804&title=sendvi%c4%8d-bar+Pingvin&url=tag%3ajltags%40eph.hr%2c2016%3asendvi%25C4%258D-bar_Pingvin&rt=1&ctxId=20&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2014876282&amp;title=HRT&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHRT&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=128869804&amp;title=sendvi%c4%8d-bar+Pingvin&amp;url=tag%3ajltags%40eph.hr%2c2016%3asendvi%25C4%258D-bar_Pingvin&amp;rt=1&amp;ctxId=20&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&cat=jltags%40eph.hr%2c2016&objId=1902895962&title=Zagreb&url=tag%3ajltags%40eph.hr%2c2016%3aZagreb-2&rt=1&ctxId=20&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1902895962&amp;title=Zagreb&amp;url=tag%3ajltags%40eph.hr%2c2016%3aZagreb-2&amp;rt=1&amp;ctxId=20&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&cat=jltags%40eph.hr%2c2016&objId=267719651&title=sendvi%c4%8di&url=tag%3ajltags%40eph.hr%2c2016%3asendvi%25C4%258Di&rt=1&ctxId=20&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=267719651&amp;title=sendvi%c4%8di&amp;url=tag%3ajltags%40eph.hr%2c2016%3asendvi%25C4%258Di&amp;rt=1&amp;ctxId=20&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&cat=jltags%40eph.hr%2c2016&objId=208228828&title=Damir+Maleti%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aDamir_Maleti%25C4%2587&rt=1&ctxId=20&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=208228828&amp;title=Damir+Maleti%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDamir_Maleti%25C4%2587&amp;rt=1&amp;ctxId=20&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2313,7 +2388,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/odabrao-glavnog-tajnika-2-mjeseca-prije-odobrenja-nadzornog-odbora/7282531/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/zagreb/razgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj/7328583/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2323,14 +2398,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/odabrao-glavnog-tajnika-2-mjeseca-prije-odobrenja-nadzornog-odbora/7282531/",
-postId : "7282531",
+url : "https://www.jutarnji.hr/vijesti/zagreb/razgovarali-smo-s-vlasnikom-kultnog-sendvic-bara-u-sredistu-zagreba-mnogi-su-ostali-u-soku-kad-su-culi-da-pingvin-vise-ne-radi-ovo-nije-kraj/7328583/",
+postId : "7328583",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Odabrao glavnog tajnika 2 mjeseca prije odobrenja Nadzornog odbora",
-pubdate : "2018-04-25 16:24",
-authors : "Slavica Lukiæ",
-sections : "Front Page, Hrvatska",
-tags : "HRT",
+title : "RAZGOVARALI SMO S VLASNIKOM KULTNOG SENDVIÈ-BARA U SREDIŠTU ZAGREBA Mnogi su ostali u šoku kad su èuli da Pingvin više ne radi: 'Ovo nije kraj'",
+pubdate : "2018-05-07 21:07",
+authors : "Iva Badanjak",
+sections : "Front Page, Vijesti, Zagreb",
+tags : "sendviè-bar Pingvin, Zagreb, sendvièi, Damir Maletiæ",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

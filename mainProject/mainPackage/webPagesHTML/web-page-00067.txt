@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Robert Herjavec, Kym Johnson, Blizanci, Djeca" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Sedmogodišnjeg djeèaka Matiju Vuèkoviæa iz Zagreba, roðenog s deformacijom kralježnice, uspješno je operirao vrhunski ortoped prof. dr. Vladimir Kovaè u Specijalnoj bolnici Arithera." />
+<meta name="keywords" content="Kralježnica, Operacija" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na &#039;Ples sa zvijezdama&#039;... - Jutarnji List</title>
+<title>U ZAGREBU USPJEŠNO IZVEDENA ZAHTJEVNA, RIZIÈNA I RIJETKA ORTOPEDSKA OPERACIJA Matija je imao deformaciju kralježnice, ali sada je potpuno izlijeèen - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Životne prièe";
+var dfpCategory = "Zdravlje";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7281363";
-var dfpArticleKeyword = "Robert Herjavec";
+var dfpArticle = "7324356";
+var dfpArticleKeyword = "Kralježnica";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/kym-johnson-robert-herjavec/7281318/ALTERNATES/LANDSCAPE_1180/Kym%20Johnson,%20Robert%20Herjavec" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/183297-233413-matija_s_mamomjpg/7324368/ALTERNATES/LANDSCAPE_1180/183297-233413-matija_s_mamom.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/kym-johnson-robert-herjavec/7281318/ALTERNATES/LANDSCAPE_1180/Kym%20Johnson,%20Robert%20Herjavec">
-<meta property="og:title" content="JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'..." />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/183297-233413-matija_s_mamomjpg/7324368/ALTERNATES/LANDSCAPE_1180/183297-233413-matija_s_mamom.jpg">
+<meta property="og:title" content="U ZAGREBU USPJEŠNO IZVEDENA ZAHTJEVNA, RIZIÈNA I RIJETKA ORTOPEDSKA OPERACIJA Matija je imao deformaciju kralježnice, ali sada je potpuno izlijeèen" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Sedmogodišnjeg djeèaka Matiju Vuèkoviæa iz Zagreba, roðenog s deformacijom kralježnice, uspješno je operirao vrhunski ortoped prof. dr. Vladimir Kovaè u Specijalnoj bolnici Arithera." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content="Suzana Ciboci">
+<meta name="twitter:title" content="U ZAGREBU USPJEŠNO IZVEDENA ZAHTJEVNA, RIZIÈNA I RIJETKA ORTOPEDSKA OPERACIJA Matija je imao deformaciju kralježnice, ali sada je potpuno izlijeèen">
+<meta name="twitter:description" content="Sedmogodišnjeg djeèaka Matiju Vuèkoviæa iz Zagreba, roðenog s deformacijom kralježnice, uspješno je operirao vrhunski ortoped prof. dr. Vladimir Kovaè u Specijalnoj bolnici Arithera.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Životne prièe, Life, Front Page",
-pubdate: "2018-04-24T18:23+02:00",
-author: "Ivana Vašareviæ",
+data: { section: "Zdravlje, Life, Front Page",
+pubdate: "2018-05-07T22:30+02:00",
+author: "Suzana Ciboci",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -731,10 +731,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <script type="text/javascript">
 $(function() {
 if ($("#related-news-box").has("ul").length) {
-if ($("[id^='content-body-'] > p").length < 3) {
+if ($("[id^='content-body-'] > p").length < 0) {
 $("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
 } else {
-$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(3));
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
 }
 } else {
 $("#related-news-box").remove();
@@ -888,6 +888,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -951,7 +956,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -966,7 +971,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1134,7 +1139,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
+<li><a href="https://www.jutarnji.hr/life/zdravlje/">Zdravlje </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1152,7 +1157,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1167,7 +1172,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1229,10 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-DVOSTRUKA SREÆA </p>
+PREKOBROJNI KRALJEŽAK
+</p>
 <h1
 class="title">
-JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...
+U ZAGREBU USPJEŠNO IZVEDENA ZAHTJEVNA, RIZIÈNA I RIJETKA ORTOPEDSKA OPERACIJA Matija je imao deformaciju kralježnice, ali sada je potpuno izlijeèen
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1240,7 +1246,7 @@ JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene raz
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li>Suzana Ciboci</li>
 </ul>
 </p>
 </li>
@@ -1248,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 18:23
+07.05.2018. u 22:30
 </p>
 </li>
 </ul>
@@ -1260,26 +1266,27 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/kym-johnson-robert-herjavec/7281318" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/183297-233413-matija_s_mamomjpg/7324368" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/kym-johnson-robert-herjavec/7281318/ALTERNATES/LANDSCAPE_380/Kym%20Johnson,%20Robert%20Herjavec"
+<img src="https://www.jutarnji.hr/incoming/183297-233413-matija_s_mamomjpg/7324368/ALTERNATES/LANDSCAPE_380/183297-233413-matija_s_mamom.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/kym-johnson-robert-herjavec/7281318/BINARY/thumbnail/Kym%20Johnson,%20Robert%20Herjavec"
+data-src-template="https://www.jutarnji.hr/incoming/183297-233413-matija_s_mamomjpg/7324368/BINARY/thumbnail/183297-233413-matija_s_mamom.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="-Los Angeles, CA - 01/27/2016 G`Day USA Black Tie Gala -PICTURED: Kym Johnson, Robert Herjavec -, Image: 361564810, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, INSTAR Images"
+alt="Zagreb, 250418.
+Bukovacka 1.
+Prof.dr.sc.Vladimir Kovac, voditelj Centra za deformitete kraljeznice SB Arithera.
+Na fotografiji: majka i djecak kojem je prof.dr.sc.Vladimir Kovac operirao skolioznu kraljeznicu.
+Foto: Darko Tomas / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Profimedia, INSTAR Images
+<span> Darko Tomaš / CROPIX
 </span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Kym Johnson i Robert Herjavec</h4>
 </div>
 </div>
 </section>
@@ -1288,7 +1295,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p> </p>
+<p><em><strong>Sedmogodišnjem Matiji izvaðen je prekobrojni kralježak koji je bio višak i stvarao progresivnu deformaciju</strong></em></p>
 </p>
 </section>
 <section>
@@ -1313,20 +1320,91 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7281363"
+<div id="content-body-6263871-7324356"
 >
-<p><strong>Kym Johnson</strong> (41) i <strong>Robert Herjavec</strong> (55) u ponedjeljak su dobili blizance - djeèaka i djevojèicu, a fotografijom prinova veæ su se pohvalili na Instagramu, prenosi <strong><a href="http://people.com/babies/kym-johnson-robert-herjavec-welcome-twins/" target="_blank">People</a></strong>. </p><p>- Preko ušiju smo se zaljubili u naše male anðele - objavila je presretna majka Kym, profesionalna plesaèica i TV zvijezda iz Australije, koja je zaèela umjetnom oplodnjom. Par još nije otkrio kako æe se bebe zvati, a èestitke na novim èlanovima obitelji pristižu sa svih strana svijeta.</p><p> <section class="social_embed ">
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bh77KY2nvNi/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Bh77KY2nvNi/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">I never though my heart could feel so full. We&#39;re so in love with our little angels. Born at 7.44am and 7.45am 4/23/18 .</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/kymherjavec5678/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Kym Herjavec</a> (@kymherjavec5678) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-24T02:24:25+00:00">Apr 23, 2018 at 7:24pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+<p>Sedmogodišnjeg djeèaka <strong>Matiju Vuèkoviæa</strong> iz Zagreba, roðenog s deformacijom kralježnice, uspješno je operirao vrhunski ortoped prof. dr. <strong>Vladimir Kovaè</strong> u Specijalnoj bolnici Arithera.</p><p>Matiji je zahtjevnom i relativno rijetkom operacijom izvaðen deformirani, prekobrojni kralježak koji je stvarao progresivnu deformaciju te je skraæivanjem kralježnice za oko tri centimetra uèinjena korekcija deformacije i sprijeèena progresija koja bi u kasnijoj dobi Matiji mogla prouzroèiti niz, èak po život opasnih, komplikacija - od pluænih i kardioloških do neuroloških. Ovom operacijom u potpunosti je riješen djeèakov zdravstveni problem i Matija æe za tri mjeseca, kad se oèekuje da æe kralješci uredno srasti, živjeti bez fizièkih ogranièenja, a u buduænosti æe se moæi baviti èak i natjecateljskim sportom te birati posao koji želi.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/183297-233414-matija_s_doktoromjpg/7324371" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/183297-233414-matija_s_doktoromjpg/7324371/ALTERNATES/FREE_380/183297-233414-Matija_s_doktorom.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/183297-233414-matija_s_doktoromjpg/7324371/BINARY/thumbnail/183297-233414-Matija_s_doktorom.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 250418.
+Bukovacka 1.
+Prof.dr.sc.Vladimir Kovac, voditelj Centra za deformitete kraljeznice SB Arithera.
+Na fotografiji: Vladimir Kovac i djecak kojem je operirao skolioznu kraljeznicu.
+Foto: Darko Tomas / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Darko Tomaš / CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Dr. Vladimir Kovaè i Matija</h4>
+</div>
+</div>
+</div>
+</article>
 </section>
- </p><p>Robert, jedan od najbogatijih Hrvata, inaèe rodom iz Varaždina, ali sa stalnom adresom u Torontu, vlasnik je tvrtke Herjavec Group, koja se bavi sustavima sigurnosti na internetu. Pretpostavlja se kako je bankovni raèun ovog uspješnog poduzetnika &quot;težak&quot; 260-ak milijuna dolara. </p><p>Kanadski Donald Trump, kako su ga prozvali strani mediji, iz prvoga braka s <strong>Diane Plese</strong>, lijeènicom optometristicom, koja je takoðer hrvatskoga podrijetla, ima troje djece - kæi <strong>Caprice</strong> i <strong>Skye</strong> te sina <strong>Brendana</strong>. Par se vjenèao 1990. i rastao 2016., a Herjavec je poslije braènoga brodoloma bio toliko loše da je, priznao je u intervjuu za èasopis People, razmišljao i o samoubojstvu.</p><p>- Htio sam skoèiti s hotelskoga balkona u Torontu - izjavio je svojedobno Herjavec.</p><p> <section class="social_embed ">
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BhAA_FcHzkw/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BhAA_FcHzkw/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Happiness </a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/kymherjavec5678/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Kym Herjavec</a> (@kymherjavec5678) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-03-31T20:00:52+00:00">Mar 31, 2018 at 1:00pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+ </p><h5><strong>Bez komplikacija</strong></h5><p>Veæ drugi dan nakon operacije Matija je mogao sjediti, dva dana kasnije i hodati, nakon deset dana otpušten je iz bolnice. Mama <strong>Ana</strong>, obitelj Vuèkoviæ i <strong>Bijeliæ</strong> duboko su, kako kažu, zahvalni lijeèniku i osoblju i presretni jer je operacija prošla bez komplikacija. Matija æe sa sestrom blizankom <strong>Katjom</strong> najesen u školu.</p><p>Ovakve rijetke operacije, koje su nužne u sluèajevima nekih priroðenih deformacija kralježnice, riziène su i moguæe su brojne komplikacije. Svuda u svijetu opisane su kao riziène s brojnim neželjenim ishodima - od neuroloških komplikacija kao posljedice ozljede leðne moždine, do moguæih velikih krvarenja. Dr. Kovaè, koji je veæ napravio desetak ovakvih uspješnih operacija, pokušava utrti put da se te operacije izvode i u Hrvatskoj na teret HZZO-a. Naime, ako bolesnici nemaju novca za lijeèenje u privatnoj bolnici Arithera, na raèun HZZO-a mogu se lijeèiti jedino u višestrukoskupljim klinikama u inozemstvu. Ugovorne ustanove u Hrvatskoj takve zahvate još ne izvode.</p><p>Obitelj Vuèkoviæ novac je skupila zahvaljujuæi donacijama, meðu njima jedna od najveæih bila je ona od kolega iz HEP-a, tvrtke u kojoj Ana radi. No to je još uvijek jeftinije nego primjerice u centrima s kojima HZZO ima ugovor za ovakve operacije. Svježi primjer je onaj djeèaka <strong>Davida Raièa</strong> koji je poslan na operaciju odstranjenja polukralješka u bolnicu u Hamburg, s kojom HZZO ima ugovor. Meðutim, operacija nije bila uspješna, deformacija nije ispravljena, polukralježak nije izvaðen, kralježnica nije adekvatno fiksirana, kontrole u Hamburgu su bile vrlo teške za djeèaka koji je onamo putovao u nekoliko navrata, šest tjedana je ležao u gipsu, a nakon toga još je morao tijekom godine dana 24 sata dnevno nositi korzet-ortrozu. Nakon operacije i skidanja gipsa, morao je ponovno uèiti hodati, slijedila je dugotrajna fizikalna terapija. I danas djeèak hoda nagnut u stranu, ima poteškoæe i još uvijek je hendikepiran. Trošak puta, prema rijeèima djeèakove majke, dvostruko je nadmašio cijenu operacije u privatnoj ustanovi u Hrvatskoj.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/183297-233415-matija_sa_sestramajpg/7324374" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/183297-233415-matija_sa_sestramajpg/7324374/ALTERNATES/FREE_380/183297-233415-matija_sa_sestrama.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/183297-233415-matija_sa_sestramajpg/7324374/BINARY/thumbnail/183297-233415-matija_sa_sestrama.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Darko Tomaš / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
 </section>
- </p><p>Hrvatsko-kanadski biznismen drugu suprugu Kym upoznao je na snimanju showa &quot;Ples sa zvijezdama&quot;, u kojemu se on natjecao, a Johnson je bila mentorica.  </p><p>Inaèe, obitelj Herjavec otišla je u Kanadu kad je Robertu bilo samo osam godina. Imali su jedan kovèeg i 20 dolara u džepu. </p><p>- Dok smo živjeli u Hrvatskoj, otac se èesto bunio protiv komunizma. Ne samo da nije mogao pronaæi posao, nego su ga i zatvarali... S obzirom da me nije imao tko èuvati, odrastao sam kod bake i djeda u selu Zbjeg kraj Slavonskoga Broda, u kuæi bez tekuæe vode i sa zemljanim podovima po kojima su noæu trèali štakori - rekao je svojedobno Robert hrvatskim medijima.  </p>
+ </p><h5><strong>Progresija</strong></h5><p>- Matiju je pratio dr. Kovaè još dok je bio u KB Dubrava. Manje agresivnom operacijom u dobi od godinu dana uèinjena je fiksacija kralješka koja je usporila rast deformacije na 13 stupnjeva, s dvije godine izvaðeni su vijci i šipke, no ipak je došlo do postupne progresije na 36 stupnjeva i operacija vaðenja kralješka je bila jedino rješenje - rekla je mama Ana.</p><p>- S obzirom na to da se kod djeteta tek oèekuje pubertet, kada se èetiri puta intenzivnije pogoršavaju ovakve deformacije, to bi moglo rezultirati ne samo teškom deformacijom, veæ i velikim problemima. Naime, u 20 posto sluèajeva ovakve deformacije dovode do kompresije na leðnu moždinu i do moguæeg invaliditeta. Nismo htjeli èekati da taj suvišni kralježak još naraste i razvije veliku deformaciju. Operacija bi tada bila riziènija, a korekcija krivine tek djelomièna. Ovako smo sada uspjeli ukloniti deformaciju jednom kratkom fuzijom (spajanjem) dva susjedna kralješka. Izbjegli smo problematièno lijeèenje ortrozom do puberteta, riziènu i tešku operaciju u pubertetu te upitnu kvalitetu života u buduænosti. Zapravo smo “u jednom potezu” efikasno riješili problem - kaže dr. Kovaè.</p><p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<h5>'Vrlo je važno da operacija ne bude bespotrebno agresivna'</h5><p>- Pojam minimalno invazivnog zahvata treba uzeti s rezervom. Duljina samog reza uopæe nije kriterij invazivnosti. Ako se radi kroz, primjerice, centimetarski rez, ali sve se radi pod kontrolom rendgena, tada je kolièina intraoperacijskog zraèenja uvelike premašila korist kratkog reza. Smatram da je vrlo važno da operacija ne bude bespotrebno agresivna, ali svakako je potrebno izbjeæi dodatne rizike - kriteriji invazivnosti su minimalizirati zraèenje, optimalna vidljivost, trajanje operacije, kolièina krvarenja pri takvim operacijama.</p><p>Matija je izgubio vrlo malo krvi, toliko da mu infuzija i nije bila potrebna, a ako je dan nakon operacije sjedio, a dva dana nakon operacije hodao, onda možemo smatrati da je to minimalno invazivna operacija. Ima dva reza od oko deset centimetara (na leðima i uz 12. rebro). Neki zagovaraju da se takva operacija napravi samo sa stražnje strane, no tada operacija traje dulje, komplikacije su èešæe i ozbiljnije - istièe dr. Kovaè.</p>
+</div>
+</section>
+</div>
+ </p><p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<h5>Lijeèenje iskrivljenosti u ranoj djeèjoj dobi može zaustaviti rast</h5><p>Najveæi dio deformacija kralježnica (skolioze i kifoze) je genetski uvjetovano. To su idiopatske skolioze na koje otpada do 70% svih deformacija. Svake je godine oko stotinu idiopatskih skolioza koje zahtijevaju operaciju. Operacije u dobi puberteta ne predstavljaju problem. Deformacije se danas u potpunosti mogu ispraviti, komplikacije su rijetke, kvaliteta života dobra. Napretkom medicine poboljšavaju se i moguænosti lijeèenja.</p><p>Problem, meðutim, predstavljaju deformacije u ranoj djeèjoj dobi. Klasiène fuzijske operacije, nažalost, zaustavljaju rast djeteta. Uporno se traže nova rješenja “tzv. nefuzijskih operacija”. Jedna od tih metoda je, primjerice, operacija uz pomoæ tzv. magnetskih šipki. Skupa je, ali prednost metode je u tome što nisu potrebne opetovane operacije rastezanja kralježnice kako dijete raste, veæ se šipke rastežu ulaskom u magnetno polje. Manjkavosti su ipak problemi neželjenih spontanih sraštavanja kralježaka, pucanje šipki, izostanak kontrole stvaranja rebrene grbe. Za sada sve nefuzijske operacije koje se rade sa stražnje strane prate i neuspjesi - bilo da se ne može kontrolirati rotacija kralježnice, bilo da se razvijaju spontana sraštenja.</p><p>- Razvio sam originalnu metodu nefuzijske operacije s prednje strane, gdje vijci i kralješci koji rastu, klize duž šipke kao po traènici. Izbjegavaju se iritacije pokosnice i spontana neželjena sraštenja, kontrolira se rotacija (stvaranje rebrene grbe) - objašnjava dr. Kovaè, koji je prvu takvu operaciju izveo prije 5 godina.</p>
+</div>
+</section>
+</div>
+</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7281363 p").filter(function () {
+$("#content-body-6263871-7324356 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1335,16 +1413,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7281363").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7324356").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7281363").children().slice(max).remove();
+$("#content-body-6263871-7324356").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7281363").children().get(0);
+var firstChild = $("#content-body-6263871-7324356").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1382,23 +1460,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/djeca" class ="label label-default" >
-Djeca
+<a href="https://www.jutarnji.hr/tag/operacija" class ="label label-default" >
+Operacija
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/blizanci" class ="label label-default" >
-Blizanci
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Kym_Johnson" class ="label label-default" >
-Kym Johnson
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Robert_Herjavec" class ="label label-default" >
-Robert Herjavec
+<a href="https://www.jutarnji.hr/tag/kralje%C5%BEnica" class ="label label-default" >
+Kralježnica
 </a>
 </li>
 </ul>
@@ -1409,21 +1477,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="domace-zvijezde media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/rodeni-varazdinac-australska-tv-zvijezda-udala-se-za-hrvata-vrijednog-200-milijuna-dolara/4598837/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/rodeni-varazdinac-australska-tv-zvijezda-udala-se-za-hrvata-vrijednog-200-milijuna-dolara/4598837/">
-ROÐENI VARAŽDINAC Australska TV zvijezda udala se za Hrvata 'vrijednog' 200 milijuna dolara
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1439,13 +1492,13 @@ ROÐENI VARAŽDINAC Australska TV zvijezda udala se za Hrvata 'vrijednog' 200 mili
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1457,8 +1510,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1470,13 +1523,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1488,8 +1541,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1501,13 +1554,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1519,8 +1572,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1532,17 +1585,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1550,9 +1603,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1634,7 +1686,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7281363" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7324356" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1678,18 +1730,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-MUTACIJA GENA </a>
+<a href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/">
+INTERVJU SA SUZY WENGEL
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'
+<a href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/">
+AUTORICA NOVE HIT-DIJETE KOJA JE ZALUDJELA SVIJET Ovo je najjednostavniji naèin prehrane na planetu, kolièinu mjerite šakama, zabranjene hrane - nema!
 </a>
 </h4>
 </div>
@@ -1699,19 +1752,19 @@ MUTACIJA GENA </a>
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-NE SRAME SE
+<a href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/">
+PREKOBROJNI KRALJEŽAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE' Tinejdžerica majci predstavila novog deèka, oca troje djece
+<a href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/">
+U ZAGREBU USPJEŠNO IZVEDENA ZAHTJEVNA, RIZIÈNA I RIJETKA ORTOPEDSKA OPERACIJA Matija je imao deformaciju kralježnice, ali sada je potpuno izlijeèen
 </a>
 </h4>
 </div>
@@ -1721,18 +1774,19 @@ FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-DVOSTRUKA SREÆA </a>
+<a href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/">
+SKUPLJA ZA LIJEÈENJE
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...
+<a href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/">
+ZOVU JE 'DJEVOJÈICA ZMIJA' Tužna prièa o tinejdžerici koja je zbog strašne bolesti prisiljena živjeti u osami: 'Što sam zgriješila da ovako patim?'
 </a>
 </h4>
 </div>
@@ -1742,19 +1796,19 @@ JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene raz
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-SANDA PANDŽA
+<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
+KAKO VAM SE ÈINI?
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-FILMSKI USPJEH Hrvatica od konobarice bez radne dozvole u Italiji dogurala do zvjezdanog biznisa: Organizirala sam svadbu Toma Cruisea i P. Ecclestone
+<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
+NAJNOVIJA DIJETA ZALUDJELA POLA SVIJETA Držite se ovih pravila i dobit æete rezultate ravne liposukciji
 </a>
 </h4>
 </div>
@@ -1792,19 +1846,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1812,8 +1866,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1902,6 +1956,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1965,7 +2024,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1980,7 +2039,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -2189,11 +2248,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2241,14 +2295,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2292,56 +2346,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7281363&type=article&title=JEDAN+OD+NAJBOGATIJIH+HRVATA+POSTAO+OTAC+BLIZANKI+Nakon+razvoda+od+prve+%c5%beene+razmi%c5%a1ljao+je+o+suicidu%2c+a+onda+je+oti%c5%a1ao+na+%26%23039%3bPles+sa+zvijezdama%26%23039%3b...&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fjedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama%2f7281363%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=36&contextPath=1-32-36-&pubId=1&cat=&meta=read-story&objId=7324356&type=article&title=U+ZAGREBU+USPJE%c5%a0NO+IZVEDENA+ZAHTJEVNA%2c+RIZI%c4%8cNA+I+RIJETKA+ORTOPEDSKA+OPERACIJA+Matija+je+imao+deformaciju+kralje%c5%benice%2c+ali+sada+je+potpuno+izlije%c4%8den&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fu-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen%2f7324356%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7281363&amp;type=article&amp;title=JEDAN+OD+NAJBOGATIJIH+HRVATA+POSTAO+OTAC+BLIZANKI+Nakon+razvoda+od+prve+%c5%beene+razmi%c5%a1ljao+je+o+suicidu%2c+a+onda+je+oti%c5%a1ao+na+%26%23039%3bPles+sa+zvijezdama%26%23039%3b...&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fjedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama%2f7281363%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=36&amp;contextPath=1-32-36-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7324356&amp;type=article&amp;title=U+ZAGREBU+USPJE%c5%a0NO+IZVEDENA+ZAHTJEVNA%2c+RIZI%c4%8cNA+I+RIJETKA+ORTOPEDSKA+OPERACIJA+Matija+je+imao+deformaciju+kralje%c5%benice%2c+ali+sada+je+potpuno+izlije%c4%8den&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fu-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen%2f7324356%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=770920853&title=Robert+Herjavec&url=tag%3ajltags%40eph.hr%2c2016%3aRobert_Herjavec&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=1354999709&title=Kralje%c5%benica&url=tag%3ajltags%40eph.hr%2c2016%3akralje%25C5%25BEnica&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=770920853&amp;title=Robert+Herjavec&amp;url=tag%3ajltags%40eph.hr%2c2016%3aRobert_Herjavec&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1354999709&amp;title=Kralje%c5%benica&amp;url=tag%3ajltags%40eph.hr%2c2016%3akralje%25C5%25BEnica&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=2147003863&title=Kym+Johnson&url=tag%3ajltags%40eph.hr%2c2016%3aKym_Johnson&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=2010509472&title=Operacija&url=tag%3ajltags%40eph.hr%2c2016%3aoperacija&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2147003863&amp;title=Kym+Johnson&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKym_Johnson&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=97344076&title=Blizanci&url=tag%3ajltags%40eph.hr%2c2016%3ablizanci&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=97344076&amp;title=Blizanci&amp;url=tag%3ajltags%40eph.hr%2c2016%3ablizanci&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=1793577491&title=Djeca&url=tag%3ajltags%40eph.hr%2c2016%3adjeca&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1793577491&amp;title=Djeca&amp;url=tag%3ajltags%40eph.hr%2c2016%3adjeca&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2010509472&amp;title=Operacija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aoperacija&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2394,7 +2426,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2404,14 +2436,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/",
-postId : "7281363",
+url : "https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/",
+postId : "7324356",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...",
-pubdate : "2018-04-24 18:23",
-authors : "Ivana Vašareviæ",
-sections : "Front Page, Life, Životne prièe",
-tags : "Robert Herjavec, Kym Johnson, Blizanci, Djeca",
+title : "U ZAGREBU USPJEŠNO IZVEDENA ZAHTJEVNA, RIZIÈNA I RIJETKA ORTOPEDSKA OPERACIJA Matija je imao deformaciju kralježnice, ali sada je potpuno izlijeèen",
+pubdate : "2018-05-07 22:30",
+authors : "Suzana Ciboci",
+sections : "Front Page, Life, Zdravlje",
+tags : "Kralježnica, Operacija",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

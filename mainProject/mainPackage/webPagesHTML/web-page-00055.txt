@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Ako je vjerovati skupštinskim partnerima gradonaèelnika Milana Bandiæa, Grad Zagreb sutra neæe dobiti Plan gospodarenja otpadom, kljuèan dokument koji bi trebao postati platforma za rješavanje veæine problema sa smeæem u metropoli." />
-<meta name="keywords" content="Milan Bandiæ, Zagreb" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Carinska uprava zaplijenila je više od 3,3 milijuna komada cigareta i još 11 tona duhana. Kako se nmavodi u priopæenju, zapljene su se dogodile na podruèju Rijeke, Podravine, Bjelovara i Vukovara, a rezultat su sustavnog nadziranja provedenog tijekom mjeseca travnja i svibnja 2018. godine." />
+<meta name="keywords" content="Krijumèarenje, duhan, carinici" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Hasanbegoviæ i Esih neæe glasati za Plan gospodarenja otpadom, zamrznute prijave za fondove EU - Jutarnji List</title>
+<title>FOTO: KUJICA RASKA OTKRILA VIŠE OD TRI MILIJUNA KOMADA CIGARETA Carinska uprava u èetiri akcije zaplijenila ogromnu kolièinu duhana - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Zagreb";
+var dfpCategory = "Crna kronika";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7282468";
-var dfpArticleKeyword = "Milan Bandiæ";
+var dfpArticle = "7333719";
+var dfpArticleKeyword = "Krijumèarenje";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/zagreb/hasanbegovic-i-esih-nece-glasati-za-plan-gospodarenja-otpadom-zamrznute-prijave-za-fondove-eu/7282468/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/zagreb/hasanbegovic-i-esih-nece-glasati-za-plan-gospodarenja-otpadom-zamrznute-prijave-za-fondove-eu/7282468/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-kujica-raska-otkrila-vise-od-tri-milijuna-komada-cigareta-carinska-uprava-u-cetiri-akcije-zaplijenila-ogromnu-kolicinu-duhana/7333719/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-kujica-raska-otkrila-vise-od-tri-milijuna-komada-cigareta-carinska-uprava-u-cetiri-akcije-zaplijenila-ogromnu-kolicinu-duhana/7333719/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/bandic-smece-otpad/7282477/ALTERNATES/LANDSCAPE_1180/bandi%C4%87%20sme%C4%87e%20otpad" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/duhan-glavnajpg/7333776/ALTERNATES/LANDSCAPE_1180/duhan%20glavna.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/bandic-smece-otpad/7282477/ALTERNATES/LANDSCAPE_1180/bandi%C4%87%20sme%C4%87e%20otpad">
-<meta property="og:title" content="Hasanbegoviæ i Esih neæe glasati za Plan gospodarenja otpadom, zamrznute prijave za fondove EU" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/duhan-glavnajpg/7333776/ALTERNATES/LANDSCAPE_1180/duhan%20glavna.jpg">
+<meta property="og:title" content="FOTO: KUJICA RASKA OTKRILA VIŠE OD TRI MILIJUNA KOMADA CIGARETA Carinska uprava u èetiri akcije zaplijenila ogromnu kolièinu duhana" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/zagreb/hasanbegovic-i-esih-nece-glasati-za-plan-gospodarenja-otpadom-zamrznute-prijave-za-fondove-eu/7282468/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/foto-kujica-raska-otkrila-vise-od-tri-milijuna-komada-cigareta-carinska-uprava-u-cetiri-akcije-zaplijenila-ogromnu-kolicinu-duhana/7333719/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Ako je vjerovati skupštinskim partnerima gradonaèelnika Milana Bandiæa, Grad Zagreb sutra neæe dobiti Plan gospodarenja otpadom, kljuèan dokument koji bi trebao postati platforma za rješavanje veæine problema sa smeæem u metropoli." />
+<meta property="og:description" content="Carinska uprava zaplijenila je više od 3,3 milijuna komada cigareta i još 11 tona duhana. Kako se nmavodi u priopæenju, zapljene su se dogodile na podruèju Rijeke, Podravine, Bjelovara i Vukovara, a rezultat su sustavnog nadziranja provedenog tijekom mjeseca travnja i svibnja 2018. godine." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Tomislav Mamiæ">
-<meta name="twitter:title" content="Hasanbegoviæ i Esih neæe glasati za Plan gospodarenja otpadom, zamrznute prijave za fondove EU">
-<meta name="twitter:description" content="Ako je vjerovati skupštinskim partnerima gradonaèelnika Milana Bandiæa, Grad Zagreb sutra neæe dobiti Plan gospodarenja otpadom, kljuèan dokument koji bi trebao postati platforma za rješavanje veæine problema sa smeæem u metropoli.">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="FOTO: KUJICA RASKA OTKRILA VIŠE OD TRI MILIJUNA KOMADA CIGARETA Carinska uprava u èetiri akcije zaplijenila ogromnu kolièinu duhana">
+<meta name="twitter:description" content="Carinska uprava zaplijenila je više od 3,3 milijuna komada cigareta i još 11 tona duhana. Kako se nmavodi u priopæenju, zapljene su se dogodile na podruèju Rijeke, Podravine, Bjelovara i Vukovara, a rezultat su sustavnog nadziranja provedenog tijekom mjeseca travnja i svibnja 2018. godine.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Zagreb, Vijesti, Front Page",
-pubdate: "2018-04-25T16:24+02:00",
-author: "Tomislav Mamiæ, Matija Boltižar",
+data: { section: "Crna kronika, Vijesti, Front Page",
+pubdate: "2018-05-08T17:31+02:00",
+author: "Silvija Novak",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -868,12 +868,12 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/zagreb/">
 Zagreb
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1134,7 +1139,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/zagreb/">Zagreb </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1147,12 +1152,12 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/zagreb/">
 Zagreb
 </a>
@@ -1165,6 +1170,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1204,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-BANDIÆ OSTAO BEZ PARTNERA
+GOLEM ULOV
 </p>
 <h1
 class="title">
-Hasanbegoviæ i Esih neæe glasati za Plan gospodarenja otpadom, zamrznute prijave za fondove EU
+FOTO: KUJICA RASKA OTKRILA VIŠE OD TRI MILIJUNA KOMADA CIGARETA Carinska uprava u èetiri akcije zaplijenila ogromnu kolièinu duhana
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,8 +1226,7 @@ Hasanbegoviæ i Esih neæe glasati za Plan gospodarenja otpadom, zamrznute prijave
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/tomislav-mamic">Tomislav Mamiæ</a>,</li>
-<li>Matija Boltižar</li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1225,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 16:24
+08.05.2018. u 17:31
 </p>
 </li>
 </ul>
@@ -1237,24 +1246,21 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/bandic-smece-otpad/7282477" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/duhan-glavnajpg/7333776" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/bandic-smece-otpad/7282477/ALTERNATES/LANDSCAPE_380/bandi%C4%87%20sme%C4%87e%20otpad"
+<img src="https://www.jutarnji.hr/incoming/duhan-glavnajpg/7333776/ALTERNATES/LANDSCAPE_380/duhan%20glavna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/bandic-smece-otpad/7282477/BINARY/thumbnail/bandi%C4%87%20sme%C4%87e%20otpad"
+data-src-template="https://www.jutarnji.hr/incoming/duhan-glavnajpg/7333776/BINARY/thumbnail/duhan%20glavna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 140414.
-Gradonacelnik Milan Bandic sa suradnicima provjerio je tijek realizacije pilot projekta odvojenog prikupljanja otpada u ulici Zvonimira Fultingera na Malesnici.
-Na fotografiji: Milan Bandic i Sandra Tucak Zoric razvrstavaju otpad.
-Foto: Dragan Matic / CROPIX"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Dragan Matiæ / CROPIX
+<span> Carinska uprava
 </span>
 </div>
 </div>
@@ -1263,6 +1269,10 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1286,14 +1296,251 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7282468"
+<div id="content-body-6263871-7333719"
 >
-<p>Ako je vjerovati skupštinskim partnerima gradonaèelnika <strong>Milana Bandiæa</strong>, Grad Zagreb sutra neæe dobiti Plan gospodarenja otpadom, kljuèan dokument koji bi trebao postati platforma za rješavanje veæine problema sa smeæem u metropoli.</p><p>Taj dokument nalazi se na dnevnom redu sjednice Gradske skupštine koja se održava sutra, a kako nam je juèer potvrðeno, svoje ruke za taj plan neæe dignuti zastupnici stranke Neovisni za Hrvatsku - <strong>Bruna Esih </strong>i <strong>Zlatko Hasanbegoviæ </strong>koji zajedno s HDZ-om i zastupnicima Bandiæeve stranke Rada i solidarnosti èine veæinu u ovom gradskom parlamentu.</p><p>- Mi æemo biti protiv Plana gospodarenja otpadom - kratko nam je juèer poruèio Hasanbegoviæ koji nije želio otkrivati razloge takve odluke.</p><p>Odbijanjem Plana za gospodarenje otpadom, koji je usklaðen s Vladinom Uredbom o gospodarenju komunalnog otpada, a koja je na snagu stupila 1. studenoga, Zagreb bi se mogao naæi u velikim problemima, kako onim financijskim, tako i onim infrastrukturnim.</p><h5><strong>Direktiva EU</strong></h5><p>Vladina uredba usklaðena je s direktivama Europske unije, èime se Hrvatska obavezala da æe do 2020. reciklirati i ponovno upotrijebiti 50 posto svog otpada. Stoga sve jedinice lokalne samouprave moraju donijeti Plan za gospodarenje otpadom kako bi èim prije krenuli u recikliranje, a ako ne ispune tu kvotu, slijede im kazne. Te kazne se donose na razini cijele države, no kako je Vlada decentralizirala cijeli problem, kazna æe se razdijeliti na sve one gradove koji nisu uspjeli ispuniti propisanu normu.</p><p>U Udruzi gradova kažu nam kako æe država, odnosno lokalne samouprave, ne zadovolje li normu, biti kažnjene milijunskim iznosima te æe morati plaæati i svakodnevne penale dok ne ostvare cilj od 50 posto recikliranog i ponovno upotrebljenog otpada.</p><p>- Prema informacijama koje imamo, kazne bi mogle iznositi i do 26 tisuæa eura dnevno na razini države - kaže nam <strong>Sonja Polonio</strong>, struèna suradnica Udruge gradova.</p><p>Što donošenje Plana za gospodarenje otpadom donosi Zagrebu? Plan za gospodarenje otpadom je platforma na kojoj bi se trebao realizirati Centar za gospodarenje otpadom koji bi, uz ostalo, omoguæio veæi postotak recikliranog otpada. Sav miješani otpad koji graðani ne recikliraju odlazi na Jakuševac jer u Zagrebu nema sortirnice. Taj centar, koji bi se trebao nalaziti na Resniku, sadržavao bi sortirnicu, reciklažno dvorište te postrojenja za obradu biootpada, miješanog komunalnog otpada i glomaznog otpada, kao i plohe za odlaganje obraðenog neopasnog otpada i graðevinskog otpada koji sadrži azbest.</p><p>Prema planu koji æe najvjerojatnije biti odbijen, takav centar sa sortirnicama otpada trebao bi biti gotov do 2022. godine, a stajao bi oko 1,125 milijardi kuna. Njegova gradnja financirala bi se iz fondova Europske unije, iz Fonda za zaštitu okoliša, sredstvima Grada Zagreba i Zagrebaèke županije te dijelom kroz javno-privatno partnerstvo.</p><p>No bez donošenja plana takav centar ne može krenuti u realizaciju, kao što se ne može krenuti ni u potpunu sanaciju Jakuševca. Osim toga, planom se odreðuju i lokacije za kompostane, reciklažna dvorišta te postrojenja za obradu mulja.</p><p>Ako Skupština uistinu odbije plan, Zagreb èeka sljedeæi scenarij. Procjenjuje se da æe se zbog nedonošenja plana svi rokovi za završetak infrastrukturnih projekata kasniti za najmanje godinu dana. Tekst plana gospodarenje otpadom ne može se naæi na sjednici Gradske skupštine sljedeæa tri mjeseca.</p><p>No to ne znaèi da æe se u srpnju glasati o novom planu. Naime, kao i za ovaj prijedlog, prvo se mora odrediti sadržaj novog plana, odnosno odrediti koje æe dijelove promijeniti. Za sada su najkritièniji kompostana i reciklažno dvorište u Brezovici, odnosno Podsusedu. Nakon utvrðivanja sadržaja, slijedi postupak izrade strateške studije te potom javna rasprava.</p><h5><strong>Nabava spremnika</strong></h5><p>Zadovoljavanje ovih uvjeta za predloženi plan koji se našao na Skupštini trajalo je osam mjeseci. Problema ima još.</p><p>- Bez plana ne možemo povuæi sredstva iz fondova EU, sve ostaje na èekanju - objašnjava <strong>Mirka Joziæ</strong>, proèelnica za gospodarstvo.</p><p>Osim toga, bez donošenja plana Grad Zagreb neæe se moæi prijaviti na natjeèaj Fonda za zaštitu okoliša koji traje do 20. svibnja, a kojim se sufinancira nabava spremnika.</p>
+<p>Carinska uprava zaplijenila je više od 3,3 milijuna komada cigareta i još 11 tona duhana. Kako se nmavodi u priopæenju, zapljene su se dogodile na podruèju Rijeke, Podravine, Bjelovara i Vukovara, a rezultat su sustavnog nadziranja provedenog tijekom mjeseca travnja i svibnja 2018. godine.</p><p>Najveæa zapljena bila je ona u Luci Rijeka gdje je pretragom brodskog kontejnera u deklariranoj robi - borovim daskama za izradu paleta – uporabom novoga RTG ureðaja &quot;Nuctech MT1213DE&quot; te uporabom službenog psa za detekciju duhana i duhanskih proizvoda, Raska, otkriveno ukupno 3.299.940,00 komada cigareta (164.997 kutija), a koje su bile obilježene duhanskim markicama Republike Bjelorusije. </p><p>Samo u ovom sluèaju utvrðena moguæa šteta nastala za državni proraèun iznosi više od tri milijuna kuna.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rijekajpg/7333734" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/rijekajpg/7333734/ALTERNATES/FREE_380/Rijeka.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/rijekajpg/7333734/BINARY/thumbnail/Rijeka.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Jutarnji
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Pas Raska i zaplijenjene cigarete</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ 
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rijeka2jpg/7333737" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/rijeka2jpg/7333737/ALTERNATES/FREE_380/Rijeka2.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/rijeka2jpg/7333737/BINARY/thumbnail/Rijeka2.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Jutarnji
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Pas Raska i cigarete skrivene u paletama</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rijeka3jpg/7333740" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/rijeka3jpg/7333740/ALTERNATES/FREE_380/Rijeka3.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/rijeka3jpg/7333740/BINARY/thumbnail/Rijeka3.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Jutarnji
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Cigarete skrivene u paletama</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rijeka4jpg/7333743" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/rijeka4jpg/7333743/ALTERNATES/FREE_380/Rijeka4.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/rijeka4jpg/7333743/BINARY/thumbnail/Rijeka4.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Jutarnji
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Cigarete skrivene u paletama</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rijeka5jpg/7333746" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/rijeka5jpg/7333746/ALTERNATES/FREE_380/Rijeka5.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/rijeka5jpg/7333746/BINARY/thumbnail/Rijeka5.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Jutarnji
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Cigarete skrivene u paletama</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>U drugoj akciji, na širem podruèju Podravine, pronaðeno je ukupno 7.402,30 kilograma duhana. U ovome sluèaju je prilikom pretrage obiteljske kuæe u garažnom prostoru pronaðen skriveni otvor koji je vodio u dodatnu prikrivenu podrumsku prostoriju. Ondje su pronaðene 22 kartonske kutije, ukupne težine 3 409,20 kilograma, ispunjene duhanskom sirovinom za koju vlasnik ne posjeduje nikakvu dokumentaciju.   </p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/3-duhanjpg/7333731" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/3-duhanjpg/7333731/ALTERNATES/FREE_380/3-duhan.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/3-duhanjpg/7333731/BINARY/thumbnail/3-duhan.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Jutarnji
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Zapljena duhana u Podravini</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Sljedeæeg dana pretragom druge obiteljske kuæe u garažnom prostoru pronaðeno je 26 kartonskih kutija ukupne težine 3 993,10 kilograma duhanske sirovine bez ikakve dokumentacije. Na istom mjestu pronaðena je i elektrièna dizalica marke „Hercules“ koja je služila za prebacivanje kartonskih kutija  ispunjenih duhanom. I duhan i dizalica su zaplijenjeni. Prekršitelji iz ovog sluèaja dužni su platiti skoro 4,5 milijuna kuna.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2-duhanjpg/7333728" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/2-duhanjpg/7333728/ALTERNATES/FREE_380/2-duhan.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2-duhanjpg/7333728/BINARY/thumbnail/2-duhan.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Jutarnji
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Zapljena duhana u Podravini</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>U bjelovarskom sluèaju pronaðeno je ukupno 3478 kilograma (27 kartonskih kutija) sušenog duhana u listu, 55 kilograma sitno rezanog duhana bez nadzornih markica Ministarstva financija te elektrièna rezalica za rezanje sušenog duhana u listu. I u ovom sluèaju podnesene su odgovarajuæe prijave protiv prekršitelja te zahtjevi za naknadu naplatu trošarinskog duga u iznosu od  2.120.688,00 kuna</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/1-duhanjpg/7333725" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/1-duhanjpg/7333725/ALTERNATES/FREE_380/1-duhan.JPG"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/1-duhanjpg/7333725/BINARY/thumbnail/1-duhan.JPG"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Jutarnji
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Zapljena duhana u Podravini</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>Kod Vukovara je pak zabilježen pokušaj krijumèarenja cigareta na graniènom prijelazu Županja. Pretragom osobnog vozila u skrivenim i preinaèenim prostorima na vozilu policajci su pronašli ukupno 44.200 komada cigareta (221 šteka) raznih marki koje nisu prijavljene prilikom ulaska u Republiku Hrvatsku. Protiv vozaèa osobnog vozila podnesena je kaznena prijava te æe morati platiti<strong> </strong>33.533,80 kuna.  </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7282468 p").filter(function () {
+$("#content-body-6263871-7333719 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1302,16 +1549,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7282468").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7333719").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7282468").children().slice(max).remove();
+$("#content-body-6263871-7333719").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7282468").children().get(0);
+var firstChild = $("#content-body-6263871-7333719").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1349,13 +1596,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Zagreb" class ="label label-default" >
-Zagreb
+<a href="https://www.jutarnji.hr/tag/carinici" class ="label label-default" >
+carinici
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Milan_Bandi%C4%87" class ="label label-default" >
-Milan Bandiæ
+<a href="https://www.jutarnji.hr/tag/duhan" class ="label label-default" >
+duhan
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Krijum%C4%8Darenje" class ="label label-default" >
+Krijumèarenje
 </a>
 </li>
 </ul>
@@ -1366,15 +1618,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="zagreb media none">
+<article class="crna-kronika media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/radikalne-mjere-kako-bi-se-zagreb-ocistio-od-smeca-hitno-se-zaposljava-100-ljudi-uvodi-se-rad-u-tri-smjene-od-0-do-24-cistoca-dobiva-nove-sefove/7237974/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/policija-uhvatila-85-godisnjeg-djedicu-u-svercu-duhana-nosio-je-dvije-velike-teske-vrece-moramo-utvrditi-je-li-to-radio-za-sebe-ili-druge/7161918/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/radikalne-mjere-kako-bi-se-zagreb-ocistio-od-smeca-hitno-se-zaposljava-100-ljudi-uvodi-se-rad-u-tri-smjene-od-0-do-24-cistoca-dobiva-nove-sefove/7237974/">
-RADIKALNE MJERE KAKO BI SE ZAGREB OÈISTIO OD SMEÆA Hitno se zapošljava 100 ljudi, uvodi se rad u tri smjene od 0 do 24, Èistoæa dobiva nove šefove...
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/policija-uhvatila-85-godisnjeg-djedicu-u-svercu-duhana-nosio-je-dvije-velike-teske-vrece-moramo-utvrditi-je-li-to-radio-za-sebe-ili-druge/7161918/">
+POLICIJA UHVATILA 85-GODIŠNJEG DJEDICU U ŠVERCU DUHANA 'Nosio je dvije velike teške vreæe... moramo utvrditi je li to radio za sebe ili druge'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="crna-kronika media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/policija-u-novoj-gradiski-u-tri-akcije-zaplijenila-drogu-i-uhitila-preprodavace-najmladi-ima-23-godine/7304023/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/policija-u-novoj-gradiski-u-tri-akcije-zaplijenila-drogu-i-uhitila-preprodavace-najmladi-ima-23-godine/7304023/">
+Policija u Novoj Gradiški u tri akcije zaplijenila drogu i uhitila preprodavaèe, najmlaði ima 23 godine
 </a>
 </h4>
 </li>
@@ -1396,13 +1663,13 @@ RADIKALNE MJERE KAKO BI SE ZAGREB OÈISTIO OD SMEÆA Hitno se zapošljava 100 ljudi
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1414,8 +1681,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1427,13 +1694,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1445,8 +1712,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1458,13 +1725,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1476,8 +1743,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1489,17 +1756,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1507,9 +1774,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1591,7 +1857,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7282468" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7333719" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1635,19 +1901,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zagreb media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/vlasnici-jedite-koliko-hocete-za-fiksnu-cijenu-prihvatljivu-bas-svima-ali-uz-jedan-uvjet-u-zagrebu-otvoren-restoran-s-revolucionarnom-ponudom/7275951/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/vlasnici-jedite-koliko-hocete-za-fiksnu-cijenu-prihvatljivu-bas-svima-ali-uz-jedan-uvjet-u-zagrebu-otvoren-restoran-s-revolucionarnom-ponudom/7275951/">
-'ALL YOU CAN EAT'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/">
+ŠAROLIKA SEKSI PONUDA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/vlasnici-jedite-koliko-hocete-za-fiksnu-cijenu-prihvatljivu-bas-svima-ali-uz-jedan-uvjet-u-zagrebu-otvoren-restoran-s-revolucionarnom-ponudom/7275951/">
-VLASNICI: JEDITE KOLIKO HOÆETE ZA FIKSNU CIJENU PRIHVATLJIVU BAŠ SVIMA, ALI UZ JEDAN UVJET! U Zagrebu otvoren restoran s revolucionarnom ponudom
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/">
+MJESECIMA SLUŠALI RAZGOVORE DJEVOJAKA I BIVŠIH NOGOMETAŠA Razbijen unosni lanac prostitucije u Zagrebu, osim sportaša klijenti su bili i menadžeri
 </a>
 </h4>
 </div>
@@ -1657,19 +1923,19 @@ VLASNICI: JEDITE KOLIKO HOÆETE ZA FIKSNU CIJENU PRIHVATLJIVU BAŠ SVIMA, ALI UZ J
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zagreb media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/zagreb-bi-uskoro-mogao-dobiti-park-envera-colakovica-gradska-oporba-zaprepastena-pa-taj-covjek-je-bio-kulturni-atase-ndh-u-zlocinackoj-madarskoj/7277370/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/zagreb-bi-uskoro-mogao-dobiti-park-envera-colakovica-gradska-oporba-zaprepastena-pa-taj-covjek-je-bio-kulturni-atase-ndh-u-zlocinackoj-madarskoj/7277370/">
-NOVI SPORNI PRIJEDLOG
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/">
+ODLUKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/zagreb-bi-uskoro-mogao-dobiti-park-envera-colakovica-gradska-oporba-zaprepastena-pa-taj-covjek-je-bio-kulturni-atase-ndh-u-zlocinackoj-madarskoj/7277370/">
-ZAGREB BI USKORO MOGAO DOBITI PARK ENVERA ÈOLAKOVIÆA Gradska oporba zaprepaštena: 'Pa taj èovjek je bio kulturni ataše NDH u zloèinaèkoj Maðarskoj!'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/">
+SRUŠENA OSLOBAÐAJUÆA PRESUDA HORVATINÈIÆU: SINKOPA NIJE DOKAZANA Zakljuèak suda da su ubijeni Talijani suodgovorni za nesreæu odbaèen kao iracionalan
 </a>
 </h4>
 </div>
@@ -1679,19 +1945,19 @@ ZAGREB BI USKORO MOGAO DOBITI PARK ENVERA ÈOLAKOVIÆA Gradska oporba zaprepaštena
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zagreb media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/susjedi-su-tvrdili-da-se-tereza-u-stan-uselila-1995-a-potom-promijenili-iskaz-i-rekli-da-je-majka-ene-begovic-u-stanu-bila-vec-pocetkom-rata/7270239/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/susjedi-su-tvrdili-da-se-tereza-u-stan-uselila-1995-a-potom-promijenili-iskaz-i-rekli-da-je-majka-ene-begovic-u-stanu-bila-vec-pocetkom-rata/7270239/">
-TKO IMA PRAVO BITI U STANU?
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/">
+DEGUTANTNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/susjedi-su-tvrdili-da-se-tereza-u-stan-uselila-1995-a-potom-promijenili-iskaz-i-rekli-da-je-majka-ene-begovic-u-stanu-bila-vec-pocetkom-rata/7270239/">
-Susjedi su tvrdili da se Tereza u stan uselila 1995., a potom promijenili iskaz i rekli da je majka Ene Begoviæ u stanu bila veæ poèetkom rata
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/">
+OTKRIVENO STRAVIÈNO ZLOSTAVLJANJE NA INTERNETU: Djevojèicu iz Dubrovnika koja je izgubila oba roditelja vršnjaci zasuli odvratnim porukama
 </a>
 </h4>
 </div>
@@ -1701,19 +1967,19 @@ Susjedi su tvrdili da se Tereza u stan uselila 1995., a potom promijenili iskaz 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zagreb media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/foto-pobuna-zbog-rusenja-stuba-oko-mestroviceva-paviljona-grad-stavit-cemo-kvalitetniji-kamen-struka-trebali-ste-se-drzati-originala/7283284/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/foto-pobuna-zbog-rusenja-stuba-oko-mestroviceva-paviljona-grad-stavit-cemo-kvalitetniji-kamen-struka-trebali-ste-se-drzati-originala/7283284/">
-KULTURNO DOBRO
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/">
+NAORUŽAN DO ZUBA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/foto-pobuna-zbog-rusenja-stuba-oko-mestroviceva-paviljona-grad-stavit-cemo-kvalitetniji-kamen-struka-trebali-ste-se-drzati-originala/7283284/">
-FOTO: POBUNA ZBOG RUŠENJA STUBA OKO MEŠTROVIÆEVA PAVILJONA Grad: 'Stavit æemo kvalitetniji kamen' STRUKA 'Trebali ste se držati originala'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/">
+KAKO JE POMAHNITALI NASILNIK ZATOÈIO CIJELO BARANJSKO SELO: Svako malo pucao, policajci u panici bježali: U jednom je trenu specijalac viknuo - BOMBA!
 </a>
 </h4>
 </div>
@@ -1751,19 +2017,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1771,8 +2037,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1841,12 +2107,12 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/zagreb/">
 Zagreb
 </a>
@@ -1859,6 +2125,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2148,11 +2419,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2200,14 +2466,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2251,34 +2517,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=20&contextPath=1-16-20-&pubId=1&cat=&meta=read-story&objId=7282468&type=article&title=Hasanbegovi%c4%87+i+Esih+ne%c4%87e+glasati+za+Plan+gospodarenja+otpadom%2c+zamrznute+prijave+za+fondove+EU&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fzagreb%2fhasanbegovic-i-esih-nece-glasati-za-plan-gospodarenja-otpadom-zamrznute-prijave-za-fondove-eu%2f7282468%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7333719&type=article&title=FOTO%3a+KUJICA+RASKA+OTKRILA+VI%c5%a0E+OD+TRI+MILIJUNA+KOMADA+CIGARETA+Carinska+uprava+u+%c4%8detiri+akcije+zaplijenila+ogromnu+koli%c4%8dinu+duhana&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2ffoto-kujica-raska-otkrila-vise-od-tri-milijuna-komada-cigareta-carinska-uprava-u-cetiri-akcije-zaplijenila-ogromnu-kolicinu-duhana%2f7333719%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=20&amp;contextPath=1-16-20-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7282468&amp;type=article&amp;title=Hasanbegovi%c4%87+i+Esih+ne%c4%87e+glasati+za+Plan+gospodarenja+otpadom%2c+zamrznute+prijave+za+fondove+EU&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fzagreb%2fhasanbegovic-i-esih-nece-glasati-za-plan-gospodarenja-otpadom-zamrznute-prijave-za-fondove-eu%2f7282468%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7333719&amp;type=article&amp;title=FOTO%3a+KUJICA+RASKA+OTKRILA+VI%c5%a0E+OD+TRI+MILIJUNA+KOMADA+CIGARETA+Carinska+uprava+u+%c4%8detiri+akcije+zaplijenila+ogromnu+koli%c4%8dinu+duhana&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2ffoto-kujica-raska-otkrila-vise-od-tri-milijuna-komada-cigareta-carinska-uprava-u-cetiri-akcije-zaplijenila-ogromnu-kolicinu-duhana%2f7333719%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&cat=jltags%40eph.hr%2c2016&objId=409600272&title=Milan+Bandi%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aMilan_Bandi%25C4%2587&rt=1&ctxId=20&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1890713418&title=Krijum%c4%8darenje&url=tag%3ajltags%40eph.hr%2c2016%3aKrijum%25C4%258Darenje&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=409600272&amp;title=Milan+Bandi%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMilan_Bandi%25C4%2587&amp;rt=1&amp;ctxId=20&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1890713418&amp;title=Krijum%c4%8darenje&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKrijum%25C4%258Darenje&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&cat=jltags%40eph.hr%2c2016&objId=497447883&title=Zagreb&url=tag%3ajltags%40eph.hr%2c2016%3aZagreb&rt=1&ctxId=20&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1793246956&title=duhan&url=tag%3ajltags%40eph.hr%2c2016%3aduhan&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=497447883&amp;title=Zagreb&amp;url=tag%3ajltags%40eph.hr%2c2016%3aZagreb&amp;rt=1&amp;ctxId=20&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1793246956&amp;title=duhan&amp;url=tag%3ajltags%40eph.hr%2c2016%3aduhan&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=715205340&title=carinici&url=tag%3ajltags%40eph.hr%2c2016%3acarinici&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=715205340&amp;title=carinici&amp;url=tag%3ajltags%40eph.hr%2c2016%3acarinici&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2331,7 +2608,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/zagreb/hasanbegovic-i-esih-nece-glasati-za-plan-gospodarenja-otpadom-zamrznute-prijave-za-fondove-eu/7282468/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/foto-kujica-raska-otkrila-vise-od-tri-milijuna-komada-cigareta-carinska-uprava-u-cetiri-akcije-zaplijenila-ogromnu-kolicinu-duhana/7333719/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2341,14 +2618,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/zagreb/hasanbegovic-i-esih-nece-glasati-za-plan-gospodarenja-otpadom-zamrznute-prijave-za-fondove-eu/7282468/",
-postId : "7282468",
+url : "https://www.jutarnji.hr/vijesti/crna-kronika/foto-kujica-raska-otkrila-vise-od-tri-milijuna-komada-cigareta-carinska-uprava-u-cetiri-akcije-zaplijenila-ogromnu-kolicinu-duhana/7333719/",
+postId : "7333719",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Hasanbegoviæ i Esih neæe glasati za Plan gospodarenja otpadom, zamrznute prijave za fondove EU",
-pubdate : "2018-04-25 16:24",
-authors : "Tomislav Mamiæ, Matija Boltižar",
-sections : "Zagreb",
-tags : "Milan Bandiæ, Zagreb",
+title : "FOTO: KUJICA RASKA OTKRILA VIŠE OD TRI MILIJUNA KOMADA CIGARETA Carinska uprava u èetiri akcije zaplijenila ogromnu kolièinu duhana",
+pubdate : "2018-05-08 17:31",
+authors : "Silvija Novak",
+sections : "Front Page, Crna kronika",
+tags : "Krijumèarenje, duhan, carinici",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

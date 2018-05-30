@@ -1,3 +1,3 @@
 www.jutarnji.hr
-https://www.jutarnji.hr/.+/.*\w+-\w+-.+/\d+/$
+https://.*jutarnji.hr/.+/.*\w+-\w+-.+/\d+/$
 100

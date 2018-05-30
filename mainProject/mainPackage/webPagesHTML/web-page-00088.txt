@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Nikada na manekensku pistu nije kroèila, nikada nije odradila ni jedan photosession, no ljepota joj nije mogla proæi nezapaženo, dapaèe, 26-godišnjoj Spliæanki Silvani Došen, roðenoj u Münchenu, u kojem i živi cijeli život, ovog je vikenda priskrbila titulu druge pratilje Miss Universe Hrvatska 2018." />
-<meta name="keywords" content="misica, Miss Universe 2018" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Južnoafrièkog filmskog snimatelja usmrtila je žirafa koju je snimao u rezervatu u blizini Johannesburga, objavio je u nedjelju vlasnik parka životinja." />
+<meta name="keywords" content="žirafa, snimatelj, smrt, Carlos Carvalho, Južnoafrièka Republika" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>MLADA, LIJEPA I AMBICIOZNA SPLIÆANKA Iznenadit æete kada doznate koji su planovi druge pratilje za miss Universe: &#039;Živjet æu od svoje inovacije!&#039; - Jutarnji List</title>
+<title>JUŽNOAFRIÈKOG SNIMATELJA UBILA ŽIRAFA Stajao je preko puta životinje kad je ona razmaknula noge, sagnula vrat i zanjihala glavom prema njemu... - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Životne prièe";
-var dfpCategoryParent = "Life";
-var dfpRos = "life-ros";
-var dfpArticle = "7279416";
-var dfpArticleKeyword = "misica";
+var dfpCategory = "Svijet";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7325883";
+var dfpArticleKeyword = "žirafa";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/mlada-lijepa-i-ambiciozna-splicanka-iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-zivjet-cu-od-svoje-inovacije/7279416/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/mlada-lijepa-i-ambiciozna-splicanka-iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-zivjet-cu-od-svoje-inovacije/7279416/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/juznoafrickog-snimatelja-ubila-zirafa-stajao-je-preko-puta-zivotinje-kad-je-ona-razmaknula-noge-sagnula-vrat-i-zanjihala-glavom-prema-njemu/7325883/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/juznoafrickog-snimatelja-ubila-zirafa-stajao-je-preko-puta-zivotinje-kad-je-ona-razmaknula-noge-sagnula-vrat-i-zanjihala-glavom-prema-njemu/7325883/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/miss/7279425/ALTERNATES/LANDSCAPE_1180/miss" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/zirafa/7325880/ALTERNATES/LANDSCAPE_1180/%C5%BEirafa" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/miss/7279425/ALTERNATES/LANDSCAPE_1180/miss">
-<meta property="og:title" content="MLADA, LIJEPA I AMBICIOZNA SPLIÆANKA Iznenadit æete kada doznate koji su planovi druge pratilje za miss Universe: 'Živjet æu od svoje inovacije!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/zirafa/7325880/ALTERNATES/LANDSCAPE_1180/%C5%BEirafa">
+<meta property="og:title" content="JUŽNOAFRIÈKOG SNIMATELJA UBILA ŽIRAFA Stajao je preko puta životinje kad je ona razmaknula noge, sagnula vrat i zanjihala glavom prema njemu..." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/mlada-lijepa-i-ambiciozna-splicanka-iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-zivjet-cu-od-svoje-inovacije/7279416/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/juznoafrickog-snimatelja-ubila-zirafa-stajao-je-preko-puta-zivotinje-kad-je-ona-razmaknula-noge-sagnula-vrat-i-zanjihala-glavom-prema-njemu/7325883/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Nikada na manekensku pistu nije kroèila, nikada nije odradila ni jedan photosession, no ljepota joj nije mogla proæi nezapaženo, dapaèe, 26-godišnjoj Spliæanki Silvani Došen, roðenoj u Münchenu, u kojem i živi cijeli život, ovog je vikenda priskrbila titulu druge pratilje Miss Universe Hrvatska 2018." />
+<meta property="og:description" content="Južnoafrièkog filmskog snimatelja usmrtila je žirafa koju je snimao u rezervatu u blizini Johannesburga, objavio je u nedjelju vlasnik parka životinja." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="MLADA, LIJEPA I AMBICIOZNA SPLIÆANKA Iznenadit æete kada doznate koji su planovi druge pratilje za miss Universe: 'Živjet æu od svoje inovacije!'">
-<meta name="twitter:description" content="Nikada na manekensku pistu nije kroèila, nikada nije odradila ni jedan photosession, no ljepota joj nije mogla proæi nezapaženo, dapaèe, 26-godišnjoj Spliæanki Silvani Došen, roðenoj u Münchenu, u kojem i živi cijeli život, ovog je vikenda priskrbila titulu druge pratilje Miss Universe Hrvatska 2018.">
+<meta name="twitter:creator" content=" Hina">
+<meta name="twitter:title" content="JUŽNOAFRIÈKOG SNIMATELJA UBILA ŽIRAFA Stajao je preko puta životinje kad je ona razmaknula noge, sagnula vrat i zanjihala glavom prema njemu...">
+<meta name="twitter:description" content="Južnoafrièkog filmskog snimatelja usmrtila je žirafa koju je snimao u rezervatu u blizini Johannesburga, objavio je u nedjelju vlasnik parka životinja.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Životne prièe, Life, Front Page",
-pubdate: "2018-04-24T09:51+02:00",
-author: "Sanja Žordiæ",
+data: { section: "Svijet, Vijesti, Front Page",
+pubdate: "2018-05-07T14:29+02:00",
+author: "Hina",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="life story">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -731,10 +731,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <script type="text/javascript">
 $(function() {
 if ($("#related-news-box").has("ul").length) {
-if ($("[id^='content-body-'] > p").length < 0) {
+if ($("[id^='content-body-'] > p").length < 3) {
 $("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
 } else {
-$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(3));
 }
 } else {
 $("#related-news-box").remove();
@@ -793,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -808,7 +808,7 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
@@ -863,7 +863,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -966,7 +971,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1132,64 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/life/">Life </a>
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
-Obitelj i djeca
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/tehnologija/">
-Tehnologija
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/znanost/">
-Znanost
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zdravlje/">
-Zdravlje
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/seks-i-veze/">
-Seks i veze
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/putovanja/">
-Putovanja
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/life/zivotne-price/">
-Životne prièe
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/vaumijau/">
-VauMijau
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
-Moda i ljepota
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/astro/">
-Astro
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
-Buduænost zdravstva
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1229,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-NEOBIÈNA MISICA
+BIZARNA NESREÆA
 </p>
 <h1
 class="title">
-MLADA, LIJEPA I AMBICIOZNA SPLIÆANKA Iznenadit æete kada doznate koji su planovi druge pratilje za miss Universe: 'Živjet æu od svoje inovacije!'
+JUŽNOAFRIÈKOG SNIMATELJA UBILA ŽIRAFA Stajao je preko puta životinje kad je ona razmaknula noge, sagnula vrat i zanjihala glavom prema njemu...
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1226,7 @@ MLADA, LIJEPA I AMBICIOZNA SPLIÆANKA Iznenadit æete kada doznate koji su planovi
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 09:51
+07.05.2018. u 14:29
 </p>
 </li>
 </ul>
@@ -1261,21 +1246,21 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/miss/7279425" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/zirafa/7325880" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/miss/7279425/ALTERNATES/LANDSCAPE_380/miss"
+<img src="https://www.jutarnji.hr/incoming/zirafa/7325880/ALTERNATES/LANDSCAPE_380/%C5%BEirafa"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/miss/7279425/BINARY/thumbnail/miss"
+data-src-template="https://www.jutarnji.hr/incoming/zirafa/7325880/BINARY/thumbnail/%C5%BEirafa"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="NAIROBI, KENYA - JULY 11: A giraffe looks on at Nairobi National Park ahead of IAAF U18 World Championships on July 11, 2017 in Nairobi, Kenya. (Photo by Joosep Martinson/Getty Images for IAAF)"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Tomislav Krišto/Hanza Media
+<span> Ilustracija / Getty Images for IAAF
 </span>
 </div>
 </div>
@@ -1307,14 +1292,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7279416"
+<div id="content-body-6263871-7325883"
 >
-<p>Nikada na manekensku pistu nije kroèila, nikada nije odradila ni jedan photosession, no ljepota joj nije mogla proæi nezapaženo, dapaèe, 26-godišnjoj Spliæanki<strong> Silvani Došen</strong>, roðenoj u Münchenu, u kojem i živi cijeli život, ovog je vikenda priskrbila titulu druge pratilje Miss Universe Hrvatska 2018., piše <a href="https://www.slobodnadalmacija.hr/scena/showbizz/clanak/id/543024/niti-ekonomistica-niti-pravnica-niti-kozmeticarka--iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-splicanke-silvane-dosen" target="_blank">Slobodna Dalmacija. </a></p><p>Silvanu je i sam ulazak meðu pet najljepših djevojaka oduševio, a s njom i poslovne ponude koje su stigle netom nakon izbora. Našli su se tu pozivi za nošenje revija, snimanje editorijala i spotova, mnogo poslova o kojima je veæ na povratku u Njemaèku poèela pomno razmišljati.</p><p>– Rekla sam sebi: ma idem probati. Idem vidjeti kako izgledaju ti izbori ljepote, to svaku djevojku zanima. Mislila sam, možda mi se svidi taj svijet, možda bi moglo biti zanimljivo. I bilo je odlièno i super, stigle su i poslovne ponude. Razmislit æu o njima, premda nekako mislim kako ipak u tom svijetu u Hrvatskoj ne možeš baš puno zaraditi. Premalo je to tržište za stvaranje posla.</p><p>A ja imam planove u životu – kaže Silvana. I to kakve. Silvana je inovator, smislila je zanimljivu verziju kista za šminkanje, prijavila je veæ taj patent i veæ je u velikim planovima za otvaranje svoje tvrtke. Još uvijek radi u marketingu jedne münchenske osiguravajuæe kuæe, no njezin je projekt jako intrigira, pa se toplo nada, kaže, kako æe za godinu dana imati svoju tvrtku. Želi pokušati, baš kao i s ovim izborom, pa kako bude.</p><p><img alt="" height="0" src="https://adv.slobodnadalmacija.hr/www/delivery/lg.php?bannerid=0&amp;campaignid=0&amp;zoneid=454&amp;loc=https%3A%2F%2Fwww.slobodnadalmacija.hr%2Fscena%2Fshowbizz%2Fclanak%2Fid%2F543024%2Fniti-ekonomistica-niti-pravnica-niti-kozmeticarka--iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-splicanke-silvane-dosen&amp;referer=https%3A%2F%2Fwww.slobodnadalmacija.hr%2F&amp;cb=bf81cb44f0" width="0">– Tražila sam svoj put za otvaranje neèeg svog, i tako sam došla na ideju za inovaciju tog patenta. I kako upravo radim na razvijanju svoga posla, moram vidjeti koliko mi se zapravo manekenski svijet može uklopiti u cijelu tu prièu. Mene biznis jako zanima, i zato sam bila toliko sretna što sam na izboru upoznala <strong>Ivanu Trump</strong>. Ona je fenomenalna poslovna žena, ozbiljna, jaka, od nje djevojke mogu puno toga nauèiti. Bila je s nama na veèeri, poželjela nam je sreæu, baš me se dojmila njezina prièa. I ja bih voljela imati takvu karijeru. To je ono što mene vuèe – kaže Silvana.</p><p>Majka joj je Šoltanka, obitelj ima tu kuæu, te stan u Splitu, pa se vrlo èesto okupljaju na dalmatinskim odmorima. Ovaj kraj, Šoltu, Split, more, obožava, èak razmišlja kako bi jednom mogla tu i živjeti, raèunajuæi da bi s uzletom svoje tvrtke poslove ionako mogla obavljati bilo gdje u svijetu. A ona bi voljela to raditi baš iz Splita. Sa zagrebaèkog izbora kuæi nosi divne uspomene, poznanstva s curama, meðu kojima se s nekima baš i zbližila. Upravo zato joj je cijeli Miss Universe doživljaj ostao u tolikom dobrom sjeæanju da bi ga opet rado ponovila.</p><p>– Imam li deèka, e neka to bude moja mala tajna. Otkrit æu samo kako veæ pomalo moram poèeti razmišljati o stvaranju svoje obitelji. Osvojiti me može muškarac koji je dobar èovjek, èovjek s Božje strane, samo takav, i to mi je je najbitnije. Vjera mi je, znate, vrlo bitna u životu. To mi je na prvom mjestu – otkriva nam Silvana tvrdeæi kako, uz prehranu punu Dalmacije na tanjuru, bez velikog odricanja od bilo èega, prakticira i tri do èetiri puta tjedno odlazak u teretanu, te triput tjedno treninge boksa.</p><p>Izborom je prezadovoljan i njegov prvi èovjek <strong>Vladimir Kraljeviæ</strong>, koji za prvoplasiranu djevojku <strong>Miju Pojatinu</strong> ima samo rijeèi hvale. No i naša Spliæanka Silvana mu je &quot;fantastic&quot;, i za nju, kao za svih prvih pet plasiranih djevojaka, ima veliki optimizam za njihov proboj u modnom svijetu.</p><p>Otkrio nam je i nekoliko zanimljivosti, u ugošæavanju svoje drage prijateljice Ivane Trump pomogao mu je beogradski prijatelj <strong>Milan Popoviæ</strong>, koji je po nju u Zagreb, nakon izbora, poslao luksuznu transfer-limuzinu. U svom beogradskom &quot;Star Moda cafeu&quot;, sa sestrom <strong>Aleksandrom</strong>, Milan je za Ivanu te Vladimira i <strong>Mariju Kraljeviæ</strong> organizirao privatni koktel dobrodošlice. Vladimir iznimno hvali velikodušnu gestu svoga dragog, dugogodišnjeg beogradskog prijatelja i poslovnog partnera.</p><p>– Šest mjeseci smo s ljudima iz Ivanina newyorškog ureda pregovarali oko njezina dolaska u Zagreb. Mi jesmo prijatelji, no ovo je bio veliki posao koji je trebalo uskladiti i s njezinim brojnim obvezama. Imali smo problem, Zagreb nema direktnu liniju s New Yorkom, pa je avionom došla u Beograd. Air Serbia je samo zbog nje ispraznio cijeli jedan dio svoje biznis-klase, samo kako bi imala maksimalnu privatnost i .</p><p>Rekla nam je kako je imala kraljevski tretman. A tako su se ponijeli i Milan i Aleksandra, pripremili su joj ekskluzivnu dobrodošlicu i predivne specijalitete, štrudle, losos, šampanjac. Ivanu je oduševila Hrvatska, ali i doèek u &quot;Star Moda cafeu&quot; i u prekrasnom novootvorenom hotelu &quot;Hilton Beograd&quot;, gdje je prespavala noæ prije rano jutarnjeg leta za New York – veli Vladimir Kraljeviæ, piše <a href="https://www.slobodnadalmacija.hr/scena/showbizz/clanak/id/543024/niti-ekonomistica-niti-pravnica-niti-kozmeticarka--iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-splicanke-silvane-dosen">Slobodna Dalmacija.</a></p>
+<p>Južnoafrièkog filmskog snimatelja usmrtila je žirafa koju je snimao u rezervatu u blizini Johannesburga, objavio je u nedjelju vlasnik parka životinja. </p><p>Žirafa je usmrtila <strong>Carlosa Carvalha</strong> udarivši ga u glavu u parku Glen Afric Country Lodge u pokrajini North West. </p><p>- Carlos je stajao preko puta žirafe kad je životinja razmaknula noge, sagnula vrat i zanjihala glavom prema njemu - objasnio je za stranicu Netwerk24 Afrikaans <strong>Richard Brooker</strong>, èija obitelj posjeduje park. </p><p>Žirafa po imenu <strong>Gerald</strong> &quot;nije uèinila ništa loše&quot;, dodao je on. </p><p>Callacrew, južnoafrièka agencija za filmsku produkciju, istaknula je kako je Carlos Carvalho preminuo u srijedu naveèer. </p><p>- S velikom tugom moramo objaviti smrt Carlosa Carvalha, jednog od naših omiljenih snimatelja. Radio je u Glen Africu i imao koban susret sa žirafom - objavila je agencija na Facebook stranici. </p><p>Carvalho (47), otac dvoje djece, stradao je u trenutku dok je iz neposredne blizine pokušavao napraviti snimke žirafe.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7279416 p").filter(function () {
+$("#content-body-6263871-7325883 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1323,16 +1308,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7279416").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7325883").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7279416").children().slice(max).remove();
+$("#content-body-6263871-7325883").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7279416").children().get(0);
+var firstChild = $("#content-body-6263871-7325883").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1370,13 +1355,28 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Miss_Universe_2018" class ="label label-default" >
-Miss Universe 2018
+<a href="https://www.jutarnji.hr/tag/Ju%C5%BEnoafri%C4%8Dka_Republika" class ="label label-default" >
+Južnoafrièka Republika
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/misica" class ="label label-default" >
-misica
+<a href="https://www.jutarnji.hr/tag/Carlos_Carvalho" class ="label label-default" >
+Carlos Carvalho
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/smrt" class ="label label-default" >
+smrt
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/snimatelj" class ="label label-default" >
+snimatelj
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/%C5%BEirafa" class ="label label-default" >
+žirafa
 </a>
 </li>
 </ul>
@@ -1387,45 +1387,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="strane-zvijezde media none">
+<article class="fun media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/viral/fun/video-zirafa-odlucila-provjeriti-ima-li-u-autu-sto-za-jesti-ono-sto-je-uslijedilo-iznenadilo-je-i-uplasilo-sve-prisutne/7232607/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/">
-EKSKLUZIVNO: IVANA TRUMP ISKRENO I OTVORENO O BIVŠEM MUŽU I PRVOJ DAMI AMERIKE 'S Melanijom sam dobra, ali ne bih joj voljela biti u koži...'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="moda-i-ljepota media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/foto-lijepa-slavonka-na-instagramu-pokazuje-zasto-je-nova-miss-universe-ostala-sam-bez-daha-onog-trena-kad-su-me-proglasili-pobjednicom/7274577/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/foto-lijepa-slavonka-na-instagramu-pokazuje-zasto-je-nova-miss-universe-ostala-sam-bez-daha-onog-trena-kad-su-me-proglasili-pobjednicom/7274577/">
-FOTO: LIJEPA SLAVONKA NA INSTAGRAMU POKAZUJE ZAŠTO JE NOVA MISS UNIVERSE 'Ostala sam bez daha onog trena kad su me proglasili pobjednicom'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="spektakli-razno media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/top/miss-universe-hrvatske-titulu-ponijela-prelijepa-mia-iz-nove-gradiske-osim-ljepote-ziri-je-osvojila-i-odgovorom-na-skakljivo-pitanje/7270815/" data-widget-title="" data-web-position="box"
-data-widget-position="2">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/top/miss-universe-hrvatske-titulu-ponijela-prelijepa-mia-iz-nove-gradiske-osim-ljepote-ziri-je-osvojila-i-odgovorom-na-skakljivo-pitanje/7270815/">
-MISS UNIVERSE HRVATSKE Titulu ponijela prelijepa Mia iz Nove Gradiške, osim ljepote žiri je osvojila i odgovorom na škakljivo pitanje
+<a href="https://www.jutarnji.hr/viral/fun/video-zirafa-odlucila-provjeriti-ima-li-u-autu-sto-za-jesti-ono-sto-je-uslijedilo-iznenadilo-je-i-uplasilo-sve-prisutne/7232607/">
+VIDEO: ŽIRAFA ODLUÈILA PROVJERITI IMA LI U AUTU ŠTO ZA JESTI Ono što je uslijedilo iznenadilo je i uplašilo sve prisutne
 </a>
 </h4>
 </li>
@@ -1447,13 +1417,13 @@ MISS UNIVERSE HRVATSKE Titulu ponijela prelijepa Mia iz Nove Gradiške, osim ljep
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1465,8 +1435,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1478,13 +1448,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1496,8 +1466,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1509,13 +1479,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1527,8 +1497,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1540,17 +1510,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1558,9 +1528,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1642,7 +1611,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7279416" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7325883" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1686,18 +1655,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-MUTACIJA GENA </a>
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+SAMO NEK' SE OKREÆE...
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
 </a>
 </h4>
 </div>
@@ -1707,19 +1677,19 @@ MUTACIJA GENA </a>
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-NE SRAME SE
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+NE CVATU IM RUŽE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE' Tinejdžerica majci predstavila novog deèka, oca troje djece
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+RAZOTKRIVENA TUŽNA SVAKODNEVNICA PRVE DAME AMERIKE Objavljeni nepoznati detalji iz života Melanije Trump: 'Cijela situacija je neugodna'
 </a>
 </h4>
 </div>
@@ -1729,18 +1699,19 @@ FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-DVOSTRUKA SREÆA </a>
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+GLOBALNA NAPETOST
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
 </a>
 </h4>
 </div>
@@ -1750,19 +1721,19 @@ JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene raz
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-SANDA PANDŽA
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+PRIJELOMNI TRENUTAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-FILMSKI USPJEH Hrvatica od konobarice bez radne dozvole u Italiji dogurala do zvjezdanog biznisa: Organizirala sam svadbu Toma Cruisea i P. Ecclestone
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </a>
 </h4>
 </div>
@@ -1800,19 +1771,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1820,8 +1791,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1885,7 +1856,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1908,6 +1879,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1988,7 +1964,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -2197,11 +2173,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2249,14 +2220,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2300,34 +2271,67 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7279416&type=article&title=MLADA%2c+LIJEPA+I+AMBICIOZNA+SPLI%c4%86ANKA+Iznenadit+%c4%87ete+kada+doznate+koji+su+planovi+druge+pratilje+za+miss+Universe%3a+%26%23039%3b%c5%bdivjet+%c4%87u+od+svoje+inovacije!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fmlada-lijepa-i-ambiciozna-splicanka-iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-zivjet-cu-od-svoje-inovacije%2f7279416%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7325883&type=article&title=JU%c5%bdNOAFRI%c4%8cKOG+SNIMATELJA+UBILA+%c5%bdIRAFA+Stajao+je+preko+puta+%c5%beivotinje+kad+je+ona+razmaknula+noge%2c+sagnula+vrat+i+zanjihala+glavom+prema+njemu...&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fjuznoafrickog-snimatelja-ubila-zirafa-stajao-je-preko-puta-zivotinje-kad-je-ona-razmaknula-noge-sagnula-vrat-i-zanjihala-glavom-prema-njemu%2f7325883%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7279416&amp;type=article&amp;title=MLADA%2c+LIJEPA+I+AMBICIOZNA+SPLI%c4%86ANKA+Iznenadit+%c4%87ete+kada+doznate+koji+su+planovi+druge+pratilje+za+miss+Universe%3a+%26%23039%3b%c5%bdivjet+%c4%87u+od+svoje+inovacije!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fmlada-lijepa-i-ambiciozna-splicanka-iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-zivjet-cu-od-svoje-inovacije%2f7279416%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7325883&amp;type=article&amp;title=JU%c5%bdNOAFRI%c4%8cKOG+SNIMATELJA+UBILA+%c5%bdIRAFA+Stajao+je+preko+puta+%c5%beivotinje+kad+je+ona+razmaknula+noge%2c+sagnula+vrat+i+zanjihala+glavom+prema+njemu...&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fjuznoafrickog-snimatelja-ubila-zirafa-stajao-je-preko-puta-zivotinje-kad-je-ona-razmaknula-noge-sagnula-vrat-i-zanjihala-glavom-prema-njemu%2f7325883%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=54242934&title=misica&url=tag%3ajltags%40eph.hr%2c2016%3amisica&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=138537454&title=%c5%beirafa&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BEirafa&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=54242934&amp;title=misica&amp;url=tag%3ajltags%40eph.hr%2c2016%3amisica&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=138537454&amp;title=%c5%beirafa&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BEirafa&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=304650690&title=Miss+Universe+2018&url=tag%3ajltags%40eph.hr%2c2016%3aMiss_Universe_2018&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1002590111&title=snimatelj&url=tag%3ajltags%40eph.hr%2c2016%3asnimatelj&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=304650690&amp;title=Miss+Universe+2018&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMiss_Universe_2018&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1002590111&amp;title=snimatelj&amp;url=tag%3ajltags%40eph.hr%2c2016%3asnimatelj&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1896339074&title=smrt&url=tag%3ajltags%40eph.hr%2c2016%3asmrt&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1896339074&amp;title=smrt&amp;url=tag%3ajltags%40eph.hr%2c2016%3asmrt&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=548773095&title=Carlos+Carvalho&url=tag%3ajltags%40eph.hr%2c2016%3aCarlos_Carvalho&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=548773095&amp;title=Carlos+Carvalho&amp;url=tag%3ajltags%40eph.hr%2c2016%3aCarlos_Carvalho&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=2137891346&title=Ju%c5%benoafri%c4%8dka+Republika&url=tag%3ajltags%40eph.hr%2c2016%3aJu%25C5%25BEnoafri%25C4%258Dka_Republika&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2137891346&amp;title=Ju%c5%benoafri%c4%8dka+Republika&amp;url=tag%3ajltags%40eph.hr%2c2016%3aJu%25C5%25BEnoafri%25C4%258Dka_Republika&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2380,7 +2384,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/mlada-lijepa-i-ambiciozna-splicanka-iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-zivjet-cu-od-svoje-inovacije/7279416/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/juznoafrickog-snimatelja-ubila-zirafa-stajao-je-preko-puta-zivotinje-kad-je-ona-razmaknula-noge-sagnula-vrat-i-zanjihala-glavom-prema-njemu/7325883/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2390,14 +2394,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zivotne-price/mlada-lijepa-i-ambiciozna-splicanka-iznenadit-cete-kada-doznate-koji-su-planovi-druge-pratilje-za-miss-universe-zivjet-cu-od-svoje-inovacije/7279416/",
-postId : "7279416",
+url : "https://www.jutarnji.hr/vijesti/svijet/juznoafrickog-snimatelja-ubila-zirafa-stajao-je-preko-puta-zivotinje-kad-je-ona-razmaknula-noge-sagnula-vrat-i-zanjihala-glavom-prema-njemu/7325883/",
+postId : "7325883",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "MLADA, LIJEPA I AMBICIOZNA SPLIÆANKA Iznenadit æete kada doznate koji su planovi druge pratilje za miss Universe: 'Živjet æu od svoje inovacije!'",
-pubdate : "2018-04-24 09:51",
-authors : "Sanja Žordiæ",
-sections : "Front Page, Životne prièe",
-tags : "misica, Miss Universe 2018",
+title : "JUŽNOAFRIÈKOG SNIMATELJA UBILA ŽIRAFA Stajao je preko puta životinje kad je ona razmaknula noge, sagnula vrat i zanjihala glavom prema njemu...",
+pubdate : "2018-05-07 14:29",
+authors : "Hina",
+sections : "Front Page, Life, VauMijau, Svijet",
+tags : "žirafa, snimatelj, smrt, Carlos Carvalho, Južnoafrièka Republika",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

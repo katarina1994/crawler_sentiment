@@ -3,6 +3,9 @@
 	<name>mySentimentAnalysis</name>
 	<comment></comment>
 	<projects>
+		<project>mainProject</project>
+		<project>mySpider</project>
+		<project>textCroatianStemmer</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

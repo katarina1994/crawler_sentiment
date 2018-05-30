@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="&#039;&#039;Oèi u oèi&#039;&#039; sa zmijom, i to poskokom, najveæom europskom otrovnicom, susreli su se Makarani Ljubo Erceg i Joze Turiæ i to ispred svojih kuæa u podbiokovskom zaseoku Makar." />
-<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Amerièki predsjednik Donald Trump je dakle odustao od svoje, kako ju je sam opisivao najbolje pregovaraèke karakteristike: nije više nepredvidljiv." />
+<meta name="keywords" content="Donald Trump, iranski sporazum" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>STRUÈNJAK MISLIO DA SE RADI O FOTOMONTAŽI!? &#039;Divovski poskok dopuzao nam je u dvor i krenuo prema jednogodišnjoj unuci, jedva smo ga zatukli...&#039; - Jutarnji List</title>
+<title>PRVA ANALIZA TRUMPOVOG POTEZA Možda je najstrašnije da iza svega stoji njegov narcizam, samoljublje, uvjerenje da zna sve o svemu najbolje - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "Unknown";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7284706";
-var dfpArticleKeyword = "";
+var dfpCategory = "Komentari";
+var dfpCategoryParent = "Front Page";
+var dfpRos = "naslovnica";
+var dfpArticle = "7334409";
+var dfpArticleKeyword = "Donald Trump";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -593,42 +595,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<script>
-var elipsoResizeTimeout;
-function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
-if (!elipsoResizeTimeout) {
-elipsoResizeTimeout = setTimeout(function() {
-elipsoResizeTimeout = null;
-elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
-}, 250);
-}
-}
-function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
-var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-var elipsoBreakpoint = 0;
-var elipsoBreakpoints = [768, 992, 1200];
-for (i = 0; i < elipsoBreakpoints.length; i++) {
-if (windowWidth >= elipsoBreakpoints[i]) {
-elipsoBreakpoint = elipsoBreakpoints[i];
-}
-}
-var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
-var elipsoIframeWH = elipsoIframeSize.split('x');
-var elipsoIframe = document.getElementById(elipsoIframeId);
-var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
-var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
-if (currentElipsoIframeSrc !== elipsoIframeSrc) {
-elipsoIframe.setAttribute("src", elipsoIframeSrc);
-elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
-elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
-elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
-elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
-}
-}
-</script>
 <style>
-.displaynone-upscore-hack {
-display: none ;
+#row-padding-fix {
+padding: 0 0 20px 0;
 }
 </style>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
@@ -638,8 +607,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/strucnjak-mislio-da-se-radi-o-fotomontazi-divovski-poskok-dopuzao-nam-je-u-dvor-i-krenuo-prema-jednogodisnjoj-unuci-jedva-smo-ga-zatukli/7284706/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/strucnjak-mislio-da-se-radi-o-fotomontazi-divovski-poskok-dopuzao-nam-je-u-dvor-i-krenuo-prema-jednogodisnjoj-unuci-jedva-smo-ga-zatukli/7284706/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +621,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/poskokjpg/7284748/ALTERNATES/LANDSCAPE_1180/poskok.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/rts1qgnyjpg/7334406/ALTERNATES/LANDSCAPE_1180/RTS1QGNY.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/poskokjpg/7284748/ALTERNATES/LANDSCAPE_1180/poskok.jpg">
-<meta property="og:title" content="STRUÈNJAK MISLIO DA SE RADI O FOTOMONTAŽI!? 'Divovski poskok dopuzao nam je u dvor i krenuo prema jednogodišnjoj unuci, jedva smo ga zatukli...'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/rts1qgnyjpg/7334406/ALTERNATES/LANDSCAPE_1180/RTS1QGNY.jpg">
+<meta property="og:title" content="PRVA ANALIZA TRUMPOVOG POTEZA Možda je najstrašnije da iza svega stoji njegov narcizam, samoljublje, uvjerenje da zna sve o svemu najbolje" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/strucnjak-mislio-da-se-radi-o-fotomontazi-divovski-poskok-dopuzao-nam-je-u-dvor-i-krenuo-prema-jednogodisnjoj-unuci-jedva-smo-ga-zatukli/7284706/" />
+<meta property="og:url" content="https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="''Oèi u oèi'' sa zmijom, i to poskokom, najveæom europskom otrovnicom, susreli su se Makarani Ljubo Erceg i Joze Turiæ i to ispred svojih kuæa u podbiokovskom zaseoku Makar." />
+<meta property="og:description" content="Amerièki predsjednik Donald Trump je dakle odustao od svoje, kako ju je sam opisivao najbolje pregovaraèke karakteristike: nije više nepredvidljiv." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Dijana Turiæ Makarska kronika">
-<meta name="twitter:title" content="STRUÈNJAK MISLIO DA SE RADI O FOTOMONTAŽI!? 'Divovski poskok dopuzao nam je u dvor i krenuo prema jednogodišnjoj unuci, jedva smo ga zatukli...'">
-<meta name="twitter:description" content="''Oèi u oèi'' sa zmijom, i to poskokom, najveæom europskom otrovnicom, susreli su se Makarani Ljubo Erceg i Joze Turiæ i to ispred svojih kuæa u podbiokovskom zaseoku Makar.">
+<meta name="twitter:creator" content="Željko Trkanjec">
+<meta name="twitter:title" content="PRVA ANALIZA TRUMPOVOG POTEZA Možda je najstrašnije da iza svega stoji njegov narcizam, samoljublje, uvjerenje da zna sve o svemu najbolje">
+<meta name="twitter:description" content="Amerièki predsjednik Donald Trump je dakle odustao od svoje, kako ju je sam opisivao najbolje pregovaraèke karakteristike: nije više nepredvidljiv.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +646,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2433';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +658,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-25T11:39+02:00",
-author: "Dijana Turiæ Makarska kronika",
+data: { section: "Komentari, Front Page",
+pubdate: "2018-05-08T21:02+02:00",
+author: "Željko Trkanjec",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="komentari story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -793,7 +762,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -858,7 +827,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -886,6 +855,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1131,43 +1105,6 @@ Mozgalice
 </form>
 </div>
 <div class="subLevelNavbar ">
-<ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
-</li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
-</ul>
-<ul class=" sub nav navbar-nav">
-<li class="active">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
-</a>
-</li>
-<li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
-</a>
-</li>
-</ul>
 </div>
 </nav>
 </div>
@@ -1204,11 +1141,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-OÈI U OÈI S OTROVNICOM
+POVLAÈENJE IZ IRANSKOG SPORAZUMA
 </p>
 <h1
 class="title">
-STRUÈNJAK MISLIO DA SE RADI O FOTOMONTAŽI!? 'Divovski poskok dopuzao nam je u dvor i krenuo prema jednogodišnjoj unuci, jedva smo ga zatukli...'
+PRVA ANALIZA TRUMPOVOG POTEZA Možda je najstrašnije da iza svega stoji njegov narcizam, samoljublje, uvjerenje da zna sve o svemu najbolje
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1153,7 @@ STRUÈNJAK MISLIO DA SE RADI O FOTOMONTAŽI!? 'Divovski poskok dopuzao nam je u dv
 <p
 class="authors">
 <ul>
-<li>Dijana Turiæ Makarska kronika</li>
+<li><a href="https://www.jutarnji.hr/autori/zeljko-trkanjec">Željko Trkanjec</a></li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1161,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 11:39
+08.05.2018. u 21:02
 </p>
 </li>
 </ul>
@@ -1236,36 +1173,32 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/poskokjpg/7284748" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/rts1qgnyjpg/7334406" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/poskokjpg/7284748/ALTERNATES/LANDSCAPE_380/poskok.jpg"
+<img src="https://www.jutarnji.hr/incoming/rts1qgnyjpg/7334406/ALTERNATES/LANDSCAPE_380/RTS1QGNY.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/poskokjpg/7284748/BINARY/thumbnail/poskok.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/rts1qgnyjpg/7334406/BINARY/thumbnail/RTS1QGNY.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="U.S. President Donald Trump displays a presidential memorandum after announcing his intent to withdraw from the JCPOA Iran nuclear agreement in the Diplomatic Room at the White House in Washington, U.S., May 8, 2018. REUTERS/Jonathan Ernst - HP1EE581FULTV"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Dijana Turiæ
+<span> REUTERS/Jonathan Ernst
 </span>
 </div>
 </div>
 <div class="picture-caption ">
-<h4>Poskok dug èak 85 centimetara skonèao je od udarca èekiæa i lopate</h4>
+<h4>Donald Trump </h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1289,41 +1222,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7284706"
+<div id="content-body-6263871-7334409"
 >
-<p>''Oèi u oèi'' sa zmijom, i to poskokom, najveæom europskom otrovnicom, susreli su se Makarani <strong>Ljubo Erceg</strong> i <strong>Joze Turiæ</strong> i to ispred svojih kuæa u podbiokovskom zaseoku Makar.</p><p>Poskok dug èak 85 centimetara skonèao je od udarca èekiæa i lopate koje su Erceg i Turiæ uspjeli dohvatiti iz svojih dvorišta. Sreæom da su se tog podneva stvari posložile kako su i trebale jer je poskok od Turiæeve kuæe poèeo puzati do susjedne Ercegove u èijem se dvorištu igrala njegova 1,5-godišnja unuka. Kako se zapravo sve odvijalo, isprièao nam je Turiæ koji se premišljao je li doista rijeè o poskoku ili riðovki buduæi da zmiji na glavi nije vidio onaj strašni rog, veæ samo rombove. - Moja žena i majka sjedile su oko podne u dvorištu ispred kuæe i ugledale ogromnog poskoka koji je puzao prema njima, a pretpostavljamo da se htio skriti od sunca i zavuæi u podrum. Sreæom su obje bile pribrane pa su izmaknule stolice i njima lupale po tlu pa se prvo poèeo izmicati od tapkanja, a žena je dohvatila metlu kojom je izbacila otrovnicu na ulicu - prièa Turiæ <a href="https://www.slobodnadalmacija.hr/dalmacija/split-zupanija/clanak/id/543245/39divovski-poskok-dopuzao-nam-je-u-dvor-i-krenuo-prema-jednogodisnjoj-unuci-jedva-smo-ga-zatukli39-procitajte-nevjerojatnu-pricu-mjestana-malog-sela-ispod-biokova-o-borbi-s-jednom-od-najopasnijih-otrovnica" target="_blank">novinarima Slobodne Dalmacije</a> dodajuæi da je poskok bio jako trom te se sklupèao nasred ceste.</p><p>U tom trenutku naišao je treæi susjed, koji je pokušao motorom prijeæi preko zmije, ali opet ništa, a poskok je lagano poèeo puzati prema Ercegovoj kuæi u èijem se dvorištu pored komina nalazila gumena cijev za vodu. Ali i unuka. Tada su se, pukom sreæom, ispred kuæe stvorili Turiæ i Erceg, pri èemu je ovaj potonji dohvatio najbliži alat koji je našao, èekiæ. i njime zatukao poskoka po glavi, dok ga je Turiæ dokrajèio lopatom. - Iako su svi tvrdili da je rijeè o poskoku, ja sam bio uvjeren da je otrovnica riðovka ili crnostrik, kakvih sam do sada na selu ubio najmanje stotinjak. Tijelo zmije ima rombove poput poskoka, ali na glavi nisam zamijetio rog, a i poskoka odavno nisam vidio, posebno ne kraj svoje kuæe - kaže nam Turiæ.</p><p>Oko njihovih kuæa sve je oèišæeno, nema velikog grmlja, ali se nalaze odmah do šume i pored obraslog potoka. Pretpostavljaju da je poskok od tuda i došao, a zbog cijele strke i panike poziranje s dokrajèenom zmijom bilo im je najmanje na pameti. Fotografija koju objavljujemo, bez glava, kako zmijine tako i ljudske, sve je što imaju za uspomenu na primjerak poskoka koji se rijetko viða.</p><p>Da je uistinu rijeè o poskoku potvrdio nam je i <strong>prof. dr. sc. Zoran Tadiæ</strong>, izvanredni profesor Biološkog odsjeka Prirodoslovno-matematièkog fakulteta u Zagrebu, struènjak koji se bavi ekofiziologijom te ponašanjem i kognicijom životinja a kao znanstvene modele koristi zmije.<br>Kad smo Tadiæu dostavili fotografiju ubijene zmije iz Makra, isprva je mislio da je rijeè o fotomontaži.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/poskokjpg/7284712" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/poskokjpg/7284712/ALTERNATES/FREE_380/poskok.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/poskokjpg/7284712/BINARY/thumbnail/poskok.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Dijana Turiæ
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>- Po ovom što sam vidio na fotografiji, to je veliki poskok (Vipera ammodytes) koji je dosta star. Poskoci su u prosjeku dugi oko 70 centimetara, a ženke 60, ali sam u Hrvatskom zagorju ulovio jednoga od 110 centimetara, no takvi su primjerci jako rijetki - kaže Tadiæ kojemu je kroz ruke prošlo više stotina poskoka.</p><p>Poskoci s juga zemlje u pravilu su, veli, nešto manji od onih sa sjevera, no to ne znaèi da su manje otrovni. Bez obzira što se na fotografiji iz Makra zmiji ne vidi glava, Tadiæ sa sigurnošæu kaže da je rijeè o poskoku jer na našem podruèju nema riðovki, osim na visokim planinama, buduæi da ne podnose visoke temperature. Poskok živi u suhom okolišu, kamenjaru obraslom niskim grmljem i drveæem, na rubovima zaraslih putova i suhozidova, a stanište riðovke je vlažno, poput livada, a u Dalmaciji, Zagori i Hercegovini ima ih samo na vrlo visokim planinama, poput Dinare.</p><p>- Ugriza poskoka zabilježeno je vrlo malo jer je on prilièno letargièan. Ako se naglo doðe pred njega i on vas primijeti, najèešæe pokušava odmah pobjeæi, uvuæi se u kakvu rupu ili procjep. Ako ne uspije, obièno poène glasno šištati što je upozorenje da se držite dalje. A ako ga se dira, pokušat æe vas ugristi. Meðutim, neki niti onda neæe odmah ugristi, veæ ih treba dobro isprovocirati tako da u krajevima gdje je poskok èest, više ljudi strada od elementarnih nepogoda nego od zmijskog ugriza - kaže Tadiæ.</p><p>Poskok se, pojašnjava, hrani uglavnom malim glodavcima, ponekad i pticama. Pare se krajem travnja ili u svibnju, a ženka koti žive mlade krajem kolovoza, u rujnu ili poèetkom listopada. U jednom leglu obièno ih bude od èetiri do devet, najèešæe šest.</p><p>- Opæenito je pogrešno mišljenje da zmije vole veliku toplinu. Obièno kažem da su zmije kao ljudi, vole temperature od 25 do 28 stupnjeva, a iznad im je prevruæe zbog èega je poskok u ovo doba godine i aktivan po danu, dok ljeti postaje noæna životinja. Dakle, kada upeèe &quot;zvizdan&quot;, nijedna zmija ne izlazi vani - zakljuèuje Tadiæ.</p><p><strong>Ranu ne smijete podvezivati!</strong></p><p>Ako èovjeka poskok ili bilo koja druga zmija ugrize za prst ili dlan, što je najèešæi sluèaj, otok se brzo širi prema laktu do ramena i dalje. Uz jak otok, èesto se pojavljuju i krvni podljevi te muènina i povraæanje, ponekad smetnje vida. Tu su takoðer i jako znojenje, brza oteèenost dijelova tijela na mjestima gdje nema ugriza, gušenje i nesvjestica. </p><p>- Osobu koju je ugrizla zmija treba, naravno, odmah odvesti u bolnicu, ali prije toga mjesto ugriza nikako se ne smije rezati i isisavati, a kamoli podvezivati, veæ samo zamotati zavojem. Naime, u sluèaju podvezivanja otrov se širi krvlju, a kada mjesto ugriza samo zavijete, on ostaje koncentriran na tom dijelu - kaže Tadiæ, podsjetivši da Imunološki zavod više ne proizvodi anti serum kojeg po bolnicama ima još jako malo, veæ se sada isti uvozi pa je za ''povratak'' u život ugrižene osobe potrebno i do sedam ampula za razliku od prijašnje jedne do dvije jer se onaj uvozni pravi od riðovki sa zapada i jako je razrijeðen.</p><p><strong>Oprez, beraèi šparoga</strong></p><p>- Sada ima šparoga, ali su se aktivirali i poskoci, posebno muški jer traže ženke za parenje. Zato, beraèi šparoga, pazite gdje gurate ruke, ne hodajte po obraslom kamenjaru i, što je najvažnije, kada vidite poskoka ili bilo koju drugu zmiju, zaobiðite je i ne dirajte, a pogotovo ne ubijajte ako baš ne morate jer je poskok strogo zaštiæena vrsta u cijeloj Europi - kaže <strong>prof. dr. sc. Zoran Tadiæ</strong>.</p>
+<p>Amerièki predsjednik <strong>Donald Trump </strong>je dakle odustao od svoje, kako ju je sam opisivao najbolje pregovaraèke karakteristike: nije više nepredvidljiv.</p><p>Njegove se odluke mogu s velikom razinom sigurnosti prognozirati pa tako i ova posljednja - Donald Trump je unatoè pozivima s gotovo svih strana svijeta odluèio da SAD istupi iz nuklearnog sporazuma s Iranom. Sad je više nego jasno da je prošlotjedna prezentacija izraelskog premijera<strong> Benjamina Netanyahua</strong> imala samo jedan cilj: uvjeriti Trumpa da Iran laže.</p><p>Iako su svi ostali amerièki saveznici i nesaveznici (Rusija, Kina) tvrdili obrnuto i naglašavali da je sporazum ostvario svoj cilj. Trump je rekao kako æe svijet nakon ove odluke biti sigurniji. Saveznici su tvrdili upravo obrnuto: svijet je prije ove odluke bio sigurniji. I to je bolna istina. Trump je pokazao da ne shvaæa dinamiku meðunarodnih odnosa, konaèno to je èovjek koji je tvrdio da je “NATO zastario” da bi nakon toga priznao da on, kao poslovni èovjek koji se bavi nekretninama, nije ni znao èime se NATO bavi i što sve radi.</p><p>Možda je najstrašniji dio ove predstave da iza svega stoji Trumpov narcizam, samoljublje, uvjerenje da zna sve o svemu najbolje. I da ako on kaže da je sporazum s Iranom loš, najgori na svijetu, onda je tomu tako. Ne zanimaju ga posljedice njegovih odluka. Bitno je da on bude prikazan kao moæan, velik, nepokolebljiv, lider kojeg se svi boje. Ne shvaæajuæi da mu se smiju.</p><p>I da sustavno, od prvog dana uništava transatlantske odnose, donosi odluke koje svojim negativnim dosegom podsjeæaju na nasilni upad amerièke vojske u Irak 2003. godine. Negativne posljedice te svjesne odluke cijeli svijet, a posebno Bliski istok osjeæa i danas.</p><p>Konaèno, Iran je nakon tog rata postao regionalni problematièni akter.</p><p>Trumpova odluka æe zadovoljiti Izrael i Saudijsku Arabiju - i to je to. I dati Iranu novi poticaj da nastavi s destruktivnim djelovanjem. Jer, zašto bi bio konstruktivan ako to ne donosi pozitivne rezultate.</p><p>Sankcije su na djelu i sada je važno da u Teheranu saèuvaju hladnu glavu, da predsjednik <strong>Hasan Rohani </strong>uspije uvjeriti radikale oko vrhovnog religijskog voðe <strong>Alija Hamneija</strong> da se ne izlazi iz sporazuma i da se nastavi raditi s ostalih pet potpisnica (Velika Britanija, Njemaèka, Francuska, Kina, Rusija).</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7284706 p").filter(function () {
+$("#content-body-6263871-7334409 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1332,16 +1238,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7284706").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7334409").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7284706").children().slice(max).remove();
+$("#content-body-6263871-7334409").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7284706").children().get(0);
+var firstChild = $("#content-body-6263871-7334409").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1376,6 +1282,19 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/iranski_sporazum" class ="label label-default" >
+iranski sporazum
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Donald_Trump" class ="label label-default" >
+Donald Trump
+</a>
+</li>
+</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1383,45 +1302,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="zivotne-price media none">
+<article class="svijet media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/foto-pogledajte-kako-mi-izgleda-noga-prica-nase-pravnice-koju-je-tijekom-treninga-napala-zmija-bilo-je-strasno-svi-su-mi-se-misici-grcili/6252981/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-pogledajte-kako-mi-izgleda-noga-prica-nase-pravnice-koju-je-tijekom-treninga-napala-zmija-bilo-je-strasno-svi-su-mi-se-misici-grcili/6252981/">
-FOTO: 'POGLEDAJTE KAKO MI IZGLEDA NOGA' Prièa naše pravnice koju je tijekom treninga napala zmija: 'Bilo je strašno, svi su mi se mišiæi grèili...'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="svijet media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/panika-u-autobusu-na-liniji-za-beograd-vozac-stao-a-svi-u-strahu-istrcali-van-nakon-sto-se-jednoj-zeni-oko-nogu-obmotala-zmija-duga-metar-i-pol/5991271/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/panika-u-autobusu-na-liniji-za-beograd-vozac-stao-a-svi-u-strahu-istrcali-van-nakon-sto-se-jednoj-zeni-oko-nogu-obmotala-zmija-duga-metar-i-pol/5991271/">
-PANIKA U AUTOBUSU NA LINIJI ZA BEOGRAD Vozaè stao, a svi u strahu istrèali van nakon što se jednoj ženi oko nogu obmotala zmija duga metar i pol
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="kucni-ljubimci media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/krenuo-je-na-sljeme-i-snimio-ovo-poznati-hrvatski-umjetnik-naletio-na-poskoka-evo-sto-trebate-uciniti-ako-se-to-dogodi-i-vama/5864427/" data-widget-title="" data-web-position="box"
-data-widget-position="2">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/krenuo-je-na-sljeme-i-snimio-ovo-poznati-hrvatski-umjetnik-naletio-na-poskoka-evo-sto-trebate-uciniti-ako-se-to-dogodi-i-vama/5864427/">
-KRENUO JE NA SLJEME I SNIMIO OVO! POZNATI HRVATSKI UMJETNIK NALETIO NA POSKOKA Evo što trebate uèiniti ako se to dogodi i vama...
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </a>
 </h4>
 </li>
@@ -1435,137 +1324,6 @@ KRENUO JE NA SLJEME I SNIMIO OVO! POZNATI HRVATSKI UMJETNIK NALETIO NA POSKOKA E
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
-<div class="row upscore-magicflow displaynone-upscore-hack " >
-<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
-<section class="upscore_promo1_4 ">
-<div class="row">
-<div class="col-xs-12" data-widget-position="0">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="1">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="2">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="3">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-</div>
-</section>
-</div>
 <div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
 <div id="div-gpt-ad-1459756830165-0">
 <script type='text/javascript'>
@@ -1587,7 +1345,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </div>
 </div>
-<div class="row " >
+<div class="row " id="row-padding-fix">
 <div class="col-sm-12 ">
 <div class="row titleRow">
 <div class="col-sm-12">
@@ -1637,9 +1395,6 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 </div>
-<div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7284706" data-colorscheme="light" data-numposts="5"></div>
-</div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
 <div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
@@ -1661,18 +1416,6 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </script>
 </div>
 </div>
-<div class="jl-sticky-banner" style="margin-bottom:20px;">
-<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
-<script type="text/javascript">
-Criteo.events.push(function() {
-Criteo.DisplayAcceptableAdIfAdblocked({
-"zoneid": 1197956,
-"containerid": "crt-47675ba0",
-"overrideZoneFloor": false
-});
-});
-</script>
-</div>
 </div>
 </div>
 <div class="row hidden-xs " >
@@ -1682,19 +1425,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="komentari media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/komentari/nesto-se-kuha-u-banskim-dvorima-uskoro-bismo-mogli-na-izvanredne-izbore-puno-toga-sto-plenkovic-u-zadnje-vrijeme-radi-ukazuje-bas-na-to/7324521/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/komentari/nesto-se-kuha-u-banskim-dvorima-uskoro-bismo-mogli-na-izvanredne-izbore-puno-toga-sto-plenkovic-u-zadnje-vrijeme-radi-ukazuje-bas-na-to/7324521/">
+LABIRINT POLITIKE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/komentari/nesto-se-kuha-u-banskim-dvorima-uskoro-bismo-mogli-na-izvanredne-izbore-puno-toga-sto-plenkovic-u-zadnje-vrijeme-radi-ukazuje-bas-na-to/7324521/">
+NEŠTO SE KUHA U BANSKIM DVORIMA, USKORO BISMO MOGLI NA IZVANREDNE IZBORE Puno toga što Plenkoviæ u zadnje vrijeme radi ukazuje baš na to
 </a>
 </h4>
 </div>
@@ -1704,19 +1447,19 @@ VUKOVI OKO NAS
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="komentari media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
+<a href="https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/">
+POVLAÈENJE IZ IRANSKOG SPORAZUMA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+<a href="https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/">
+PRVA ANALIZA TRUMPOVOG POTEZA Možda je najstrašnije da iza svega stoji njegov narcizam, samoljublje, uvjerenje da zna sve o svemu najbolje
 </a>
 </h4>
 </div>
@@ -1726,19 +1469,19 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="komentari media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/komentari/kako-bi-izgledala-hrvatska-da-na-vlast-dode-zivi-zid-imali-bi-vise-slobode-i-manje-odgovornosti-netko-bi-u-tome-profitirao-treba-li-pogadati-tko/7291372/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/komentari/kako-bi-izgledala-hrvatska-da-na-vlast-dode-zivi-zid-imali-bi-vise-slobode-i-manje-odgovornosti-netko-bi-u-tome-profitirao-treba-li-pogadati-tko/7291372/">
+PRO ET CONTRA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/komentari/kako-bi-izgledala-hrvatska-da-na-vlast-dode-zivi-zid-imali-bi-vise-slobode-i-manje-odgovornosti-netko-bi-u-tome-profitirao-treba-li-pogadati-tko/7291372/">
+KAKO BI IZGLEDALA HRVATSKA DA NA VLAST DOÐE ŽIVI ZID? Imali bi više slobode i manje odgovornosti. Netko bi u tome profitirao. Treba li pogaðati tko?
 </a>
 </h4>
 </div>
@@ -1748,19 +1491,19 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="komentari media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/komentari/kako-je-mali-radio-ukaljao-nasu-takozvanu-kulturu-opazili-ste-mozda-isti-su-na-koncertu-mitru-miricu-i-na-misi-za-godisnjicu-ukazanja-u-medugorju/7319775/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/komentari/kako-je-mali-radio-ukaljao-nasu-takozvanu-kulturu-opazili-ste-mozda-isti-su-na-koncertu-mitru-miricu-i-na-misi-za-godisnjicu-ukazanja-u-medugorju/7319775/">
+KLASA OPTIMIST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/komentari/kako-je-mali-radio-ukaljao-nasu-takozvanu-kulturu-opazili-ste-mozda-isti-su-na-koncertu-mitru-miricu-i-na-misi-za-godisnjicu-ukazanja-u-medugorju/7319775/">
+KAKO JE MALI RADIO UKALJAO NAŠU TAKOZVANU KULTURU Opazili ste možda, isti su na koncertu Mitru Miriæu i na misi za godišnjicu ukazanja u Meðugorju
 </a>
 </h4>
 </div>
@@ -1798,19 +1541,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1818,8 +1561,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1878,7 +1621,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1906,6 +1649,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2195,11 +1943,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2247,14 +1990,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2298,12 +2041,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7284706&type=article&title=STRU%c4%8cNJAK+MISLIO+DA+SE+RADI+O+FOTOMONTA%c5%bdI!%3f+%26%23039%3bDivovski+poskok+dopuzao+nam+je+u+dvor+i+krenuo+prema+jednogodi%c5%a1njoj+unuci%2c+jedva+smo+ga+zatukli...%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fstrucnjak-mislio-da-se-radi-o-fotomontazi-divovski-poskok-dopuzao-nam-je-u-dvor-i-krenuo-prema-jednogodisnjoj-unuci-jedva-smo-ga-zatukli%2f7284706%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=339&contextPath=1-339-&pubId=1&cat=&meta=read-story&objId=7334409&type=article&title=PRVA+ANALIZA+TRUMPOVOG+POTEZA+Mo%c5%beda+je+najstra%c5%a1nije+da+iza+svega+stoji+njegov+narcizam%2c+samoljublje%2c+uvjerenje+da+zna+sve+o+svemu+najbolje&url=https%3a%2f%2fwww.jutarnji.hr%2fkomentari%2fprva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje%2f7334409%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7284706&amp;type=article&amp;title=STRU%c4%8cNJAK+MISLIO+DA+SE+RADI+O+FOTOMONTA%c5%bdI!%3f+%26%23039%3bDivovski+poskok+dopuzao+nam+je+u+dvor+i+krenuo+prema+jednogodi%c5%a1njoj+unuci%2c+jedva+smo+ga+zatukli...%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fstrucnjak-mislio-da-se-radi-o-fotomontazi-divovski-poskok-dopuzao-nam-je-u-dvor-i-krenuo-prema-jednogodisnjoj-unuci-jedva-smo-ga-zatukli%2f7284706%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=339&amp;contextPath=1-339-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7334409&amp;type=article&amp;title=PRVA+ANALIZA+TRUMPOVOG+POTEZA+Mo%c5%beda+je+najstra%c5%a1nije+da+iza+svega+stoji+njegov+narcizam%2c+samoljublje%2c+uvjerenje+da+zna+sve+o+svemu+najbolje&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkomentari%2fprva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje%2f7334409%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-339-&cat=jltags%40eph.hr%2c2016&objId=262665481&title=Donald+Trump&url=tag%3ajltags%40eph.hr%2c2016%3aDonald_Trump&rt=1&ctxId=339&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-339-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=262665481&amp;title=Donald+Trump&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDonald_Trump&amp;rt=1&amp;ctxId=339&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-339-&cat=jltags%40eph.hr%2c2016&objId=1064956667&title=iranski+sporazum&url=tag%3ajltags%40eph.hr%2c2016%3airanski_sporazum&rt=1&ctxId=339&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-339-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1064956667&amp;title=iranski+sporazum&amp;url=tag%3ajltags%40eph.hr%2c2016%3airanski_sporazum&amp;rt=1&amp;ctxId=339&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2356,7 +2121,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/strucnjak-mislio-da-se-radi-o-fotomontazi-divovski-poskok-dopuzao-nam-je-u-dvor-i-krenuo-prema-jednogodisnjoj-unuci-jedva-smo-ga-zatukli/7284706/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2366,14 +2131,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/strucnjak-mislio-da-se-radi-o-fotomontazi-divovski-poskok-dopuzao-nam-je-u-dvor-i-krenuo-prema-jednogodisnjoj-unuci-jedva-smo-ga-zatukli/7284706/",
-postId : "7284706",
+url : "https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/",
+postId : "7334409",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "STRUÈNJAK MISLIO DA SE RADI O FOTOMONTAŽI!? 'Divovski poskok dopuzao nam je u dvor i krenuo prema jednogodišnjoj unuci, jedva smo ga zatukli...'",
-pubdate : "2018-04-25 11:39",
-authors : "Dijana Turiæ Makarska kronika",
-sections : "Front Page, Vijesti, Hrvatska",
-tags : "",
+title : "PRVA ANALIZA TRUMPOVOG POTEZA Možda je najstrašnije da iza svega stoji njegov narcizam, samoljublje, uvjerenje da zna sve o svemu najbolje",
+pubdate : "2018-05-08 21:02",
+authors : "Željko Trkanjec",
+sections : "Front Page, Komentari",
+tags : "Donald Trump, iranski sporazum",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

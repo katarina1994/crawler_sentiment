@@ -1,0 +1,2513 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+>
+<head>
+<meta name="description" content="Što god mislili o godini na izmaku, 2016. bila je plodna godina za internetske memeove, kako u svijetu, tako i u Hrvatskoj." />
+<meta name="keywords" content="Meme, Viral, Pregled 2016." /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>S ÈIME SMO SE SPRDALI I ÈEMU SMO SE SMIJALI 2016. Od ministrice Juretiæ preko Željke Markiæ do Sabora: 10 najboljih šala koje su osvojili internet - Jutarnji List</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
+<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+</script>
+<section>
+<!-- DFP verzija 11 -->
+<script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function () {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' === document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+//DFP vars
+dfpId = 11425286;
+dfpName = 'jl';
+dfpAsync = true;
+dfpSingleRequest = true;
+dfpCollapseEmpty = true;
+dfpDisableInitialLoad = true;
+dfpMobileMaxWidth = 960;
+dfpStickyMinWidth = 1024;
+dfpStickyUnitHeightLimit = 600;
+dfpStickyColumnHeightLimit = 680;
+dfpLazyUnitOffset = 3000;
+dfpUnitRefresh = 15000;
+doClickTracking = false;
+dfpAdSlots = {};
+dfpLazyLoad = [];
+dfpUnits = {
+"cla" : {
+"div-gpt-ad-1459756830165-0" : {
+"slot" : "aside1",
+"unit" : "300x600",
+"size" : [[300, 600], [300, 1], [300, 1050], [300, 601], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-1",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
+},
+"div-gpt-ad-1459756830165-1" : {
+"slot" : "aside2",
+"unit" : "300x602",
+"size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-2",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
+},
+"div-gpt-ad-1459756830165-2" : {
+"slot" : "billboard",
+"unit" : "bb_nav",
+"size" : [[1180, 150], [1180, 500], [970, 500], [970, 1000], [970, 90], [300, 100], [300, 150], [320, 100], [320, 50], [1180, 250], [300, 50], [1, 3], [970, 250], [970, 251]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-nav-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1462358187814-0" : {
+"slot" : "billboardbot",
+"unit" : "bb_bot",
+"size" : [[300, 250], [320, 100], [320, 50], [1180, 250], [970, 250], [970, 90], [1, 7]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-bot-wrapper",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-7" : {
+"slot" : "inarticle1",
+"unit" : "ia_1",
+"size" : [[300, 50], [320, 50], [320, 100], [300, 150], [760, 250], [760, 500], [320, 480], [600, 250], [570, 250], [728, 90], [300, 100], [2, 1], [300, 250], [300, 605]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-1",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-8" : {
+"slot" : "inarticle2",
+"unit" : "ia_2",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [300, 100], [300, 150], [2, 2], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-2",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-9" : {
+"slot" : "inarticle3",
+"unit" : "ia_3",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [2, 3], [300, 100], [300, 150], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-3",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-6" : {
+"slot" : "float",
+"unit" : "float",
+"size" : [1, 1],
+"sizeType" : "outofpage",
+"container" : "jl-floater-wrapper",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-10" : {
+"slot" : "wallpaper",
+"unit" : "wp",
+"size" : "",
+"sizeType" : "outofpage",
+"container" : "jl-wallpaper-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+}
+};
+var dfpCountryCode = "HR";
+var dfpCurrentPageType = "cla";
+var dfpGalleryImgNum = 0;
+var dfpGalleryUnitNum = 0;
+var dfpCategory = "Meme";
+var dfpCategoryParent = "Viral";
+var dfpRos = "viral-ros";
+var dfpArticle = "5414839";
+var dfpArticleKeyword = "Meme";
+// oglasne jedinice za trenutaènu stranicu
+var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
+// jedinice koje je potrebno osvježiti
+var dfpRefreshUnits = [];
+// jedinice koje je potrebno osvježiti a ulaze u prebid
+var dfpRefreshPrebidUnits = [];
+var dfpWindowWidth = dfpGetWindowWidth();
+var dfpWindowDPR = window.devicePixelRatio;
+var dfpIsMobile = false;
+if (dfpWindowWidth <= dfpMobileMaxWidth) {
+dfpIsMobile = true;
+}
+var dfpBreakpoint = dfpGetBreakpoint();
+var dfpPrebid = true;
+if (dfpCountryCode === 'HR') {
+dfpPrebid = false;
+}
+var dfpPrebidTimeout = 3000;
+var dfpPrebidUnits = [];
+var dfpPrebidGranularity = {
+"buckets" : [
+{
+"min" : 0,
+"max" : 100,
+"increment" : 0.1
+}
+]
+};
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+// inicijaliziraj sve oglasne jedinice ovisno o uèitanoj stranici i postavljenim parametrima
+googletag.cmd.push(function() {
+dfpConfigUnits();
+});
+// dohvati širinu prozora
+function dfpGetWindowWidth() {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+return windowWidth;
+}
+// pronaði najmanji breakpoint za trenutaènu širinu prozora
+function dfpGetBreakpoint() {
+var breakpoints = [ 640, 768, 960, 1200, 1350, 1366, 1440, 1600, 1920, 2560 ];
+var minBreakpoint = [ 640 ];
+for (i = 0; i < breakpoints.length; i++) {
+if (dfpWindowWidth >= breakpoints[i]) {
+minBreakpoint = [ breakpoints[i] ];
+}
+}
+return minBreakpoint;
+}
+// provjeri sadrži li DOM traženi node
+function checkIfNodeInPage(node) {
+var inDocument = false;
+if (node === document.body) {
+inDocument = false;
+} else {
+inDocument = document.body.contains(node);
+}
+return inDocument;
+}
+// èekaj odreðeno vrijeme na poziv callback funkcije prilikom scroll eventa
+function dfpThrottleScrolling(callback, wait) {
+var time;
+var go = true;
+return function() {
+if (go) {
+go = false;
+time = setTimeout(function() {
+time = null;
+go = true;
+callback.call();
+}, wait);
+}
+};
+};
+// inicijaliziraj sticky bannere
+function dfpInitStickyBanners() {
+if (dfpWindowWidth >= dfpStickyMinWidth) {
+// univerzalni preporuèeni nazivi klasa
+var stickyRowClass = '.dfp-scroll-row';
+var stickyColClass = '.dfp-scroll-column';
+var stickyElementClass = '.dfp-sticky-unit';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima na svim portalima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+stickyRowClass = '.jl-scroll-container';
+stickyColClass = '.jl-banner-column';
+stickyElementClass = '.jl-banner-wrapper';
+}
+var stickyElementContainers = document.querySelectorAll(stickyRowClass);
+for (var i = stickyElementContainers.length - 1; i >= 0; i--) {
+var contentHeight = stickyElementContainers[i].offsetHeight;
+var stickyElementColumn = stickyElementContainers[i].querySelector(stickyColClass);
+if (stickyElementColumn !== null) {
+var stickyElement = stickyElementColumn.querySelector(stickyElementClass);
+if (stickyElement !== null) {
+if (dfpWindowDPR === 1) {
+var stickyElementHeight = stickyElement.offsetHeight;
+if (stickyElementHeight >= dfpStickyUnitHeightLimit) {
+if (contentHeight < dfpStickyColumnHeightLimit) {
+contentHeight = dfpStickyColumnHeightLimit;
+}
+} else {
+contentHeight = contentHeight - 20;
+}
+stickyElementColumn.style.height = contentHeight + 'px';
+Stickyfill.add(stickyElement);
+} else {
+stickyElement.classList.remove("jl-sticky-banner");
+}
+}
+}
+}
+}
+}
+// handler lazy load uèitavanja jedinica
+var dfpScrollHandler = dfpThrottleScrolling(function() {
+scrolled = window.scrollY;
+// provjeri postoje li lazy load jedinice ili ukloni listener
+if (dfpLazyLoad.length > 0) {
+dfpLazyLoad.forEach(function(adUnit) {
+var adUnitIndex = dfpLazyLoad.indexOf(adUnit);
+var unitContainer = document.getElementById(dfpUnits[dfpCurrentPageType][adUnit]['container']);
+if (checkIfNodeInPage(unitContainer)) {
+var containerOffset = unitContainer.getBoundingClientRect().top;
+if (containerOffset < dfpLazyUnitOffset) {
+var slot = dfpUnits[dfpCurrentPageType][adUnit]['slot'];
+googletag.cmd.push(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+});
+dfpLazyLoad.splice(adUnitIndex, 1);
+}
+}
+});
+} else {
+window.removeEventListener('scroll', dfpScrollHandler);
+}
+}, 250);
+function dfpConfigUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// drugaèiji inicijalizacijski kod za out of page jedinice
+if (unitData['unit'] == 'wp') {
+dfpAdSlots[unitData['slot']] = googletag.defineOutOfPageSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitId).addService(googletag.pubads());
+} else {
+dfpAdSlots[unitData['slot']] = googletag.defineSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitData['size'], unitId).addService(googletag.pubads());
+}
+// targetiranje specifiènih velièina ekrana
+var sizeKey = 'WindowSizeAside';
+if (unitData['sizeType'] === 'pagebreak') {
+sizeKey = 'WindowSizePagebreak';
+} else if (unitData['sizeType'] === 'outofpage') {
+sizeKey = 'WindowSize';
+}
+dfpAdSlots[unitData['slot']].setTargeting(sizeKey, dfpBreakpoint);
+// targetiranje po rubrici
+if (dfpCategory !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Category', dfpCategory);
+}
+if (dfpCategoryParent !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('CategoryParent', dfpCategoryParent);
+}
+// targetiranje za èlanke
+if (dfpCurrentPageType === 'cla') {
+if (dfpArticle !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Article', dfpArticle);
+}
+if (dfpArticleKeyword !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ArticleKeyword', dfpArticleKeyword);
+}
+}
+// ros targetiranje
+if (dfpRos !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ROS', dfpRos);
+}
+// ako jedinica treba biti lazy loadana stavi je u dfpLazyLoad niz (no ne smije biti u Prebidu) ili je dodaj u dfpRefreshUnits u sluèaju da je onemoguæeno inicijalno uèitavanje
+if (((dfpPrebid === false) || (unitData['prebid'] === false) || (typeof unitData['prebid'] === 'undefined')) && unitData['lazyLoad']) {
+dfpLazyLoad.push(unitId);
+} else {
+if (dfpDisableInitialLoad === true) {
+if ((dfpPrebid === true) && (unitData['prebid'] === true)) {
+dfpRefreshPrebidUnits.push(dfpAdSlots[unitData['slot']]);
+} else {
+dfpRefreshUnits.push(dfpAdSlots[unitData['slot']]);
+}
+}
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+function dfpConfigPrebidUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// razlièita Prebid konfiguracija ovisno radi li se o mobilnim ili desktop ureðajima
+var unitPrebidConfigParam = 'prebidConfig';
+if (dfpIsMobile === true) {
+unitPrebidConfigParam = unitPrebidConfigParam + 'Mobile';
+}
+// ako je jedinica dostupna za bidding stavi ju u odgovarajuæi niz
+if (unitData['prebid'] && (unitData.hasOwnProperty(unitPrebidConfigParam))) {
+var unitBids = [];
+for (var bidderName in unitData[unitPrebidConfigParam]) {
+var bidderParams = [];
+bidderParams = unitData[unitPrebidConfigParam][bidderName];
+// dodatni parametri za connectad
+if (bidderName === 'connectad') {
+bidderParams['networkId'] = '10047';
+bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
+}
+var bidderData = {bidder: bidderName, params: bidderParams};
+unitBids.push(bidderData);
+}
+var dfpPrebidUnit = {
+code: unitId,
+sizes: unitData['size'],
+bids: unitBids
+}
+dfpPrebidUnits.push(dfpPrebidUnit);
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+// prebid
+function dfpPrebidSendAdServerRequest() {
+if (pbjs.adserverRequestSent) return;
+pbjs.adserverRequestSent = true;
+googletag.cmd.push(function() {
+pbjs.que.push(function() {
+pbjs.setTargetingForGPTAsync();
+googletag.pubads().refresh(dfpRefreshPrebidUnits);
+});
+});
+}
+if (dfpPrebid === true) {
+pbjs.que.push(function() {
+dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
+pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
+pbjs.addAdUnits(dfpPrebidUnits);
+pbjs.requestBids({
+bidsBackHandler: dfpPrebidSendAdServerRequest
+});
+});
+setTimeout(function() {
+dfpPrebidSendAdServerRequest();
+}, dfpPrebidTimeout);
+}
+//setup and initialize dfp adunits
+googletag.cmd.push(function() {
+// asinkrono renderiranje
+if (dfpAsync === true) {
+googletag.pubads().enableAsyncRendering();
+}
+// dohvati sve u jednom requestu
+if (dfpSingleRequest === true) {
+googletag.pubads().enableSingleRequest();
+}
+// smanji prazne div elemente
+if (dfpCollapseEmpty === true) {
+googletag.pubads().collapseEmptyDivs();
+}
+// iskljuèi inicijalno uèitavanje
+if (dfpDisableInitialLoad === true) {
+googletag.pubads().disableInitialLoad();
+}
+// osvježi sve jedinice koje nisu lazy loadane i nisu u prebidu
+if ((dfpDisableInitialLoad === true) && (dfpRefreshUnits.length > 0)) {
+googletag.pubads().refresh(dfpRefreshUnits);
+}
+// izvršava se nakon što je pojedina oglasna jedinica renderirana, idealno mjesto za dodavanje klasa
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+if (!event.isEmpty) {
+// provjeri koja se toèno jedinica renderirala
+var slotId = event.slot.getSlotElementId();
+var isLoaded = !event.isEmpty;
+dfpUnits[dfpCurrentPageType][slotId]['loaded'] = isLoaded;
+// dohvati podatke o renderiranoj oglasnoj jedinici
+var unitData = dfpUnits[dfpCurrentPageType][slotId];
+// stavi dodatne klase na kontejnere oglasnih jedinica gdje je potrebno
+if (unitData['sizeType'] === 'aside') {
+if (dfpWindowWidth > dfpMobileMaxWidth) {
+var elementExtraClasses = ' dfp-box';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-box';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+}
+} else if (unitData['sizeType'] === 'pagebreak') {
+var elementExtraClasses = ' dfp-space';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-space';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+// fix za in article jedinice na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] !== 'ia_1') && (unitData['unit'] !== 'ia_2') && (unitData['unit'] !== 'ia_3')) {
+var parentObj;
+if (checkIfNodeInPage(bannerElementWrapper.parentNode)) {
+parentObj = bannerElementWrapper.parentNode;
+var elementClass = parentObj.className;
+var searchForRow = true;
+while ((elementClass.indexOf('row') == -1) && searchForRow) {
+if (checkIfNodeInPage(parentObj.parentNode)) {
+parentObj = parentObj.parentNode;
+elementClass = parentObj.className;
+} else {
+searchForRow = false;
+}
+}
+if (searchForRow) {
+parentObj.className += ' jl-has-banner';
+}
+}
+}
+} else if (unitData['sizeType'] === 'outofpage') {
+// fix za ispravan prikaz wallpapera na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] === 'wp')) {
+var bodyElement = document.querySelector('body');
+bodyElement.className += ' hasWallpaperBanner';
+}
+}
+}
+});
+googletag.enableServices();
+});
+// slušaj scroll event za potrebe uèitvanja lazy loadom
+window.addEventListener('scroll', dfpScrollHandler);
+// inicijaliziraj sticky bannere
+window.addEventListener('load', dfpInitStickyBanners);
+window.addEventListener('resize', dfpInitStickyBanners);
+</script>
+</section>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-37299110-3', 'auto');
+ga('create', 'UA-37299110-1', 'auto', {'name': 'newTracker'});
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+ga('newTracker.send', 'pageview');
+</script>
+<meta property="fb:pages" content="133205716542" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GCRM7');</script>
+<!-- End Google Tag Manager -->
+<script>
+var elipsoResizeTimeout;
+function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
+if (!elipsoResizeTimeout) {
+elipsoResizeTimeout = setTimeout(function() {
+elipsoResizeTimeout = null;
+elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
+}, 250);
+}
+}
+function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var elipsoBreakpoint = 0;
+var elipsoBreakpoints = [768, 992, 1200];
+for (i = 0; i < elipsoBreakpoints.length; i++) {
+if (windowWidth >= elipsoBreakpoints[i]) {
+elipsoBreakpoint = elipsoBreakpoints[i];
+}
+}
+var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
+var elipsoIframeWH = elipsoIframeSize.split('x');
+var elipsoIframe = document.getElementById(elipsoIframeId);
+var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
+var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
+if (currentElipsoIframeSrc !== elipsoIframeSrc) {
+elipsoIframe.setAttribute("src", elipsoIframeSrc);
+elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
+elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
+elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
+elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
+}
+}
+</script>
+<style>
+.displaynone-upscore-hack {
+display: none ;
+}
+</style>
+<meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
+<link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
+<link rel="canonical" href="https://www.jutarnji.hr/viral/meme/s-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet/5414839/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/viral/meme/s-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet/5414839/amp">
+<link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/base/css/jutarnji-base.776f1bc32c84631a52d09f04544b488d.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/default/css/jutarnji-default.d41d8cd98f00b204e9800998ecf8427e.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/minimalist.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/mediaelementplayer.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="https://www.jutarnji.hr/static/js/html5shiv.js"></script>
+<script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
+<![endif]-->
+<script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/meme.jpg/5414863/ALTERNATES/LANDSCAPE_1180/meme.jpg" />
+<meta property="og:image:width" content="1180" />
+<meta property="og:image:height" content="700" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/meme.jpg/5414863/ALTERNATES/LANDSCAPE_1180/meme.jpg">
+<meta property="og:title" content="S ÈIME SMO SE SPRDALI I ÈEMU SMO SE SMIJALI 2016. Od ministrice Juretiæ preko Željke Markiæ do Sabora: 10 najboljih šala koje su osvojili internet " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.jutarnji.hr/viral/meme/s-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet/5414839/" />
+<meta property="og:site_name" content="jutarnji.hr" />
+<meta property="og:description" content="Što god mislili o godini na izmaku, 2016. bila je plodna godina za internetske memeove, kako u svijetu, tako i u Hrvatskoj." />
+<meta property="fb:app_id" content="156538244364753" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="jutarnji.hr">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="S ÈIME SMO SE SPRDALI I ÈEMU SMO SE SMIJALI 2016. Od ministrice Juretiæ preko Željke Markiæ do Sabora: 10 najboljih šala koje su osvojili internet ">
+<meta name="twitter:description" content="Što god mislili o godini na izmaku, 2016. bila je plodna godina za internetske memeove, kako u svijetu, tako i u Hrvatskoj.">
+<meta property="fb:pages" content="133205716542" />
+<!-- j2 - vijesti -->
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+var d=document,
+h=d.getElementsByTagName('head')[0],
+s=d.createElement('script');
+s.type='text/javascript';
+s.async=true;
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2440';
+h.appendChild(s);
+}());
+/* ]]> */
+</script>
+<script>
+(function(u,p,s,c,r){u[r]=u[r]||function(p){(u[r].q=u[r].q||[]).push(p)},u[r].ls=1*new Date();
+var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//d3n5x2l91yva9h.cloudfront.net/async/upScore.js','upScore');
+upScore({config:{ domain:"jutarnji.hr",
+article: "#CImaincontent",
+track_positions: false},
+data: { section: "Meme, Viral, Front Page",
+pubdate: "2016-12-28T10:27+01:00",
+author: "Ana Soriæ",
+object_type: "article",
+custom_sponsored: 0
+}});
+</script>
+</head>
+<body class="viral story">
+<div id="fb-root">
+</div>
+<script type="text/javascript">
+(function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s);
+js.id = id;
+js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.7&appId=156538244364753";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+!function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (!d.getElementById(id)) {
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+}
+}(document, "script", "twitter-wjs");
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<c:if test="true">
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56cdc7652b8101eb"></script>
+</c:if>
+<script async defer src="//platform.instagram.com/hr_HR/embeds.js"></script>
+<script type="text/javascript">
+$(function() {
+if ($("#related-news-box").has("ul").length) {
+if ($("[id^='content-body-'] > p").length < 0) {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+}
+} else {
+$("#related-news-box").remove();
+}
+});
+</script>
+<div class="container">
+<header class="mainHead " role="banner">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId : '156538244364753',
+xfbml : true,
+version : 'v2.10'
+});
+FB.AppEvents.logPageView();
+};
+(function(d, s, id){
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<a name="top"></a>
+<div class="row " >
+<div class="col-sm-12 ">
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="col-sm-12 col-lg-8 col-lg-push-2 ">
+<div id="siteHead">
+<span class="logo"><a href="/">JutarnjList</a></span>
+</div>
+</div>
+<nav class="navbar main_nav "
+role="navigation" >
+<a href="#" class="mSiteSearch"><span class="text-hide">Pretraži</span></a>
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div id="navbar-collapse-1" class="navbar-collapse collapse ">
+<ul class=" main nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/">
+Poèetna
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</li>
+<li class="">
+<a href="https://novac.jutarnji.hr" target="">
+Novac.hr
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/video/">
+Video
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav all_sections">
+<li>
+<a href="#" class="site_search"><span class="text-hide">Pretraži</span></a>
+<a href="https://twitter.com/jutarnjihr" class="twitter_follow"><span class="text-hide">Twitter</span></a>
+<a href="https://www.facebook.com/jutarnji.list/" class="facebook_follow"><span class="text-hide">Facebook</span></a>
+<a class="instagram_follow" href="https://www.instagram.com/jutarnji.hr/"><span class="text-hide">Instagram</span></a>
+</li>
+<li class="dropdown megadropdown ">
+<a href="/" id="menuPane-link-1">
+Sve rubrike
+<div id="rwd_toggle"><span></span><span></span><span></span><span></span></div>
+</a>
+</ul>
+</div>
+<div class="wrap-megadropdown-menu ">
+<div class="dropdown-menu megadropdown-menu ">
+<div class="sections ">
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="magazin ">
+<span>Magazin</span>
+<ul>
+<li class="ak"><a href="/autoklub">Autoklub</a></li>
+<li class="gl"><a href="/globus">Globus</a></li>
+<li class="dh"><a href="/dobrahrana">Dobra hrana</a></li>
+<li class="dd"><a href="/domidizajn">Dom i dizajn</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="searchBox">
+<form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Pretraži Jutarnji.hr" value="" />
+<button type="submit">Submit</button>
+</div>
+</form>
+</div>
+<div class="subLevelNavbar ">
+<ul class="breadcrumb">
+<li><a href="https://www.jutarnji.hr/viral/">Viral </a>
+</li>
+<li><a href="https://www.jutarnji.hr/viral/meme/">Meme </a></li>
+</ul>
+<ul class=" sub nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<section role="main">
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-nav-wrapper" class="jl-billboard-nav">
+<div id="div-gpt-ad-1459756830165-2">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-2"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-2");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
+<p
+class="overline">
+PREGLED GODINE
+</p>
+<h1
+class="title">
+S ÈIME SMO SE SPRDALI I ÈEMU SMO SE SMIJALI 2016. Od ministrice Juretiæ preko Željke Markiæ do Sabora: 10 najboljih šala koje su osvojili internet </h1>
+<ul class="list-inline ">
+<strong>AUTOR: </strong>
+<li>
+<p
+class="authors">
+<ul>
+<li> Jutarnji.hr</li>
+</ul>
+</p>
+</li>
+<strong>OBJAVLJENO: </strong>
+<li>
+<p
+class="published-date">
+28.12.2016. u 10:27
+</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row article_body jl-scroll-container " >
+<div class="col-sm-8 " >
+<section class="lead_image ">
+<section class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/meme.jpg/5414863" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/meme.jpg/5414863/ALTERNATES/LANDSCAPE_380/meme.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/meme.jpg/5414863/BINARY/thumbnail/meme.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Facebook
+</span>
+</div>
+</div>
+</div>
+</section>
+</section>
+<div class=" ">
+<section class="ci_lead ">
+</section>
+<section>
+<div id="jl-inarticle-wrapper-1" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-7">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-7"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-7");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+<section id="CImaincontent" class="ci_body ">
+<div id="content-body-6263871-5414839"
+>
+<p>Što god mislili o godini na izmaku, 2016. bila je plodna godina za internetske memeove, kako u svijetu, tako i u Hrvatskoj.</p><p>Rijeè ‘meme’ u žargonu oznaèava zezanciju, šalu, kulturološki simbol ili ideju koja se širi internetom i tako postaje viralan, odnosno ‘širi se poput virusa’. Najèešæe su to fotografije kojima je dodan tekst s namjerom da slika postane zabavna, èesto ismijavajuæi tuðe postupke i ponašanje. Memeovi mogu biti i samo tekstualni, a koliko mogu biti površni i namijenjeni zabavi, jednako tako mogu nositi dublji smisao.</p><p>Izraz je osmislio i prvi put upotrijebio evolucijski biolog <strong>Richard Dawkins</strong> 1976. godine preuzevši je od grèke rijeèi ‘mimema’, nešto što se oponaša. Dawkins je memeove opisao kao oblik kulturološkog prenošenja, naèin na koji ljudi meðusobno prenose sjeæanja i ideje.</p><p>Društvene su mreže, naravno, postale idealna platforma za podjelu memeova, a rezultati su ponekad urnebesni. Izdvojili smo za vas 10 ovogodišnjih memeova koje ste najviše dijelili i kojima ste se najviše smijali.</p><h5>Sportska fotografija koja govori više od rijeèi</h5><p>
+<section class="social_embed ">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsmisaodrustvenelobotomije%2Fposts%2F1035833456514821%3A0&width=500" width="500" height="628" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</section>
+ </p><p>Hrvatski košarkaši nisu se uspjeli plasirati u polufinale olimpijskog turnira u Rio de Janeiru nakon što su u dramatiènom èetvrtfinalu izgubili od Srbije sa 83:86, a to je pak rezultiralo brojnim nacionalistièki obojanim uvredama s jedne i druge strane. Sve dok se nije pojavila ova fotografija koja je zaèepila usta svima koji su imali još nešto zlobno za reæi. <strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/fotka-koja-govori-vise-od-rijeci-ovo-je-najbolji-odgovor-na-netrpeljivost-hrvatske-i-srbije/4624370/" target="_blank">OVOM LINKU</a>.</strong></p><h5>Štrace svih županija, ujedinite se!</h5><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/straca-meme/3741684" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/straca-meme/3741684/ALTERNATES/FREE_380/%C5%A1traca%20meme"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/straca-meme/3741684/BINARY/thumbnail/%C5%A1traca%20meme"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Društvene mreže / Društvene mreže
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>U Hrvatskoj je ove godine izgovoreno mnogo besdastoæa, no nijedna izjava nije podigla toliko prašine u javnosti kao ona kardinala <strong>Vinka Puljiæa</strong> koji je na propovijedi u Zadru podsjetio vjernike da crkva ne podržava predbraène intimne odnose. No pritom se obratio samo ženama kao da se na muškarce jedno od važnijih katolièkih principa ne odnosi. Puljiæ je rekao da žene ‘u zadnje vrijeme’ isprobavaju ‘koji æe muž biti dobar’ te ih upozorava da paze jer æe tako postati ‘štrace’!</p><p>Potpuno neprimjerenu i mizoginu izjavu popratio je niz memeova koji su se poigrali s rjeèju ‘štraca’, a rezultati su fantastièni. Zabava na raèun štraca, žena i seksa prije braka nije prestajala ni tjedan dana nakon sporne propovijedi, pa su poznati hitovi hrvatske zabavne glazbe odjednom postali ‘štrace’. Tako je slavni Mišin hit ‘Ostala si uvijek ista’ postao ‘Ostala si uvijek štraca’, a ‘divna crna žena’ iz pjesme Krunoslava Kiæe Slabinca postala je ‘divna crna štraca’. <strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/ovako-je-internet-odgovorio-na-izjavu-kardinala-puljica-o-zenama-koje-se-seksaju-prije-braka/3741768/" target="_blank">OVOM</a> i <a href="http://www.jutarnji.hr/viral/meme/ostala-si-uvijek-straca-i-najpoznatiji-hrvatski-hitovi-su-uz-pomoc-photoshopa-postali-strace/4015662/" target="_blank">OVOM LINKU</a>.</strong></p><h5><strong>Èestitamo, nosite mali Fiat Ducato!</strong></h5><h5><strong>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/meme.jpg/4065516" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/meme.jpg/4065516/ALTERNATES/FREE_380/meme.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/meme.jpg/4065516/BINARY/thumbnail/meme.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Jakov Viloviæ, kreativni direktor agencije Utorak
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </strong></h5><p>Osim kardinala Puljiæa niz bisera prosula je i bivša ministrica socijalne politike i mladih, <strong>Bernardica Juretiæ</strong>, koja je prilikom najave o mjerama poticanja obitelji na treæe dijete rekla da bi im se moglo olakšati primjerice kupnjom kombija. To je bilo dovoljno da se odjednom na društvenim mrežama pojave slike ultrazvuka na kojima se vidi kombi umjesto bebe. <strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/cestitam-nosite-mali-fiat-ducato-ovako-je-internet-reagirao-na-izjavu-ministrice-juretic/4065642/" target="_blank">OVOM LINKU</a>.</strong></p><h5>Hrvatska na Eurosongu</h5><h5>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/nina-kraljic-haljina-meme/3739443" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/nina-kraljic-haljina-meme/3739443/ALTERNATES/FREE_380/nina%20kralji%C4%87%20haljina%20meme"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/nina-kraljic-haljina-meme/3739443/BINARY/thumbnail/nina%20kralji%C4%87%20haljina%20meme"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Facebook / Facebook
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </h5><p>Mnogo se ove godine pisalo i o Eurosongu gdje je Hrvatsku predstavila <strong>Nina Kraljiæ</strong> s pjesmom ‘Svjetionik’, a zahvaljujuæi dobroj promociji Nina je doista imala veliku podršku. Meðutim, malo je iznenadila modnim odabirom.</p><p>Bogatu bijelu haljinu dizajnirao je <strong>Juraj Zigman</strong>, a bila je teška èak 18 kilograma. I možda i ne bi bila tako zamijeæena da joj dodatak na rukavima nije bio obogaæen perjem koje je padalo do poda. A onda se internet odluèio našaliti sa Zigmanovom kreacijom…</p><p><strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/impresivnu-nininu-haljinu-okrutni-internet-pretvorio-u-stand-s-naocalama/3739446/" target="_blank">OVOM LINKU</a>.</strong></p><h5>Novi hrvatski blagdan</h5><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/tjednovo.jpg/4070001" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/tjednovo.jpg/4070001/ALTERNATES/FREE_380/tjednovo.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/tjednovo.jpg/4070001/BINARY/thumbnail/tjednovo.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Facebook
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Nažalost, ovo još nije ušlo u Ustav, ali Hrvatski je sabor ove godine smislio novi blagdan - Tjednovo. Da budemo precizni, Sabor ga je smislio, a internetski korisnici imenovali i realizirali u slikama.</p><p>Na to ih je potaknula epohalna odluka Sabora da zbog jednog dana blagdana Tijelova, koji je pao na èetvrtak 26. lipnja, proglase cijeli tjedan slobodnim.</p><p><strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/neki-slave-tijelovo-a-neki-tjednovo.-znate-li-sto-je-to/4070007/" target="_blank">OVOM LINKU</a>.</strong></p><h5>Vlada vs. Darth Vader</h5><p>
+<section class="social_embed ">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOccupyCroatia%2Fposts%2F871381559651879%3A0&width=500" width="500" height="561" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</section>
+ </p><p>Polovicom godine veliku je sablazan izazvala odluka hrvatske Vlade da se djeci s Downovim sindromom ukine invalidnina. Zbog izmjena propisa i tumaèenja zakona dijagnoza i pravilnika o bolestima, na stotine djece moralo je èekati dodatna vještaèenja koja bi odluèila pripada li im invalidnina od 1.250 kuna.</p><p>Ako je suditi prema tada nastalim memeovima, Vlada se pokazala ‘malom bebom’ i u odnosu na Dartha Vadera. </p><p><strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/hrvati-se-sad-vec-sprdaju-s-odlukom-vlade-da-ukine-invalidninu-djeci-s-downovim-sindromom/4057896/" target="_blank">OVOM LINKU</a>.</strong></p><h5>Markiæ vs. Darth Vader</h5><p><strong></strong>
+<section class="social_embed ">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fzeljko.badurina%2Fposts%2F1395555350470562&width=500" width="500" height="248" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</section>
+ </p><p><strong>Željka Markiæ</strong> je ove godine imala nekoliko akcija koje su rezultirale opæom poplavom memeova, a jedna se dogodila nakon prosvjeda protiv pobaèaja pod nazivom Hod za život.</p><p>Jedan od zabavnijih memeova izradio je <strong>Željko Badurina</strong>, jedan je od najduhovitijih suvremenih hrvatskih umjetnika koji u svom radu komentira društveno-kulturno-politièku svakodnevicu. Na montaži se Darth Vader i Željka Markiæ prepiru tko je kome otac, a tko kome majka.</p><p><strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/darth-vader-konacno-pronasao-pravu-majku/4072110/" target="_blank">OVOM LINKU</a></strong>.</p><h5>Kako je Simon Cowell postao Palèiæ</h5><p>
+<section class="social_embed ">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/toegate?src=hash">#toegate</a> <a href="https://twitter.com/hashtag/XFactor?src=hash">#XFactor</a> <a href="https://twitter.com/SimonCowell">@SimonCowell</a> <a href="https://twitter.com/TheXFactor">@TheXFactor</a> is that your toe Simon or willy sticking out lol <a href="https://t.co/vcQIDBapFV">pic.twitter.com/vcQIDBapFV</a></p>&mdash; leah kelly (@xxxleecexxx) <a href="https://twitter.com/xxxleecexxx/status/782682241252065281">October 2, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+ </p><p>Poznati TV producent <strong>Simon Cowell</strong> doživio je oveæu neugodnost, a da je uopæe nije bio svjestan. Sve dok nisu reagirali internetski korisnici, naravno…</p><p>Cowell se izvalio na kauè za vrijeme audicija za X Factor i podigao nogu. No, bosonogo je stopalo postavio u tako nezgodnu pozu da su gledatelji pomislili kako se radi o neèem drugom. Dok je istina otkrivena, screenshot se proširio internetom, a producent je zaradio nadimak Palèiæ.</p><p><strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/cijeli-svijet-se-smije-slavnom-producentu-nitko-nije-bio-siguran-sto-se-dogodilo-no-sad-ga-zovu-palcic/4931234/" target="_blank">OVOM LINKU</a>.</strong></p><h5>Zagrljaj bivšeg predsjednika i nesuðene predsjednice</h5><p>
+<section class="social_embed ">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ztNh4"><a href="//imgur.com/ztNh4">The coupling</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</section>
+ </p><p>Od svjetskih dogaðaja 2016. godinu nesumnjivo su izmeðu ostalog obilježili amerièki predsjednièki izbori. U žestokoj su borbi ostala dva kandidata - <strong>Hillary Clinton i Donald Trump</strong>, a uskoro bivši predsjednik <strong>Barack Obama </strong>otvoreno je podržao Clinton.</p><p>Na Demokratskoj nacionalnoj konvenciji u Philadelphiji Obama i Clinton su izmijenili nježan trenutak, topao zagrljaj koji je postao predmet sprdnje u svijetu. Njihova su blažna lica pretvorena u plakat za romantiènu komediju, u idealnu obitelj i još koješta…</p><p><strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/fotografija-obisla-internet-zagrljaj-hillary-i-obame-potaknuo-sjajne-zezancije-u-photoshopu/4569674/" target="_blank">OVOM LINKU</a>.</strong></p><h5>Ni kriva ni dužna Jennifer Aniston</h5><p>
+<section class="social_embed ">
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I bet u <a href="https://twitter.com/hashtag/JenniferAniston?src=hash">#JenniferAniston</a> is somewhere Laughing her Ass Off, gettin COKED OUT of Her Mind!!! <a href="https://twitter.com/hashtag/AngelinaJolie?src=hash">#AngelinaJolie</a> <a href="https://twitter.com/hashtag/BradPitt?src=hash">#BradPitt</a> <a href="https://twitter.com/hashtag/Brangelina?src=hash">#Brangelina</a> <a href="https://t.co/iAP1bQQxR3">pic.twitter.com/iAP1bQQxR3</a></p>&mdash; Mofo (@mofowear) <a href="https://twitter.com/mofowear/status/778493843213737984">September 21, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+ </p><p>Takozvani <em>razvod stoljeæa</em> izmeðu <strong>Angeline Jolie i Brada Pitta</strong>, koji usput reèeno još uvijek traje, izbacio je u jednom trenutku u prvi plan Bradovu bivšu, <strong>Jennifer Aniston</strong>. Nakon što se vijest o razvodu proširila interneom, sve je zanimalo: 'A što Jennifer kaže? Kako je Jennifer reagirala?'</p><p>Online zajednica se dobro zabavila s pretpostavkama koje su mogle biti reakcije slavne glumice premda se Aniston nije pretjerano zamarala time. No na veæini memeova prikazana je kako se slatko smije novonastaloj situaciji.</p><p><strong>Više proèitajte na <a href="http://www.jutarnji.hr/viral/meme/razvod-stoljeca-drustvene-mreze-preplavljene-navodnim-reakcijama-jennifer-aniston-na-krah-brangeline/4714040/" target="_blank">OVOM LINKU</a>.</strong></p>
+</div>
+<script type="text/javascript" language="javascript">
+$(document).ready(function () {
+// Removing empty paragraphs first
+$("#content-body-6263871-5414839 p").filter(function () {
+var html = $.trim($(this).html());
+if (html == '' || html == '&nbsp;')
+return true;
+}).remove();
+// Taking a subset of paragraphs using offset and maximum
+var offset = 1;
+var max = -1;
+if (offset > 1) {
+$("#content-body-6263871-5414839").children().slice(0, offset - 1).remove();
+}
+if (max > -1) {
+$("#content-body-6263871-5414839").children().slice(max).remove();
+}
+// Show dateline field at the beginning of the first paragraph
+var showDateline = true;
+var datelineStr = "";
+if (offset <= 1 && showDateline == true && datelineStr != "") {
+var firstChild = $("#content-body-6263871-5414839").children().get(0);
+if ("P" == firstChild.nodeName.toUpperCase()) {
+$(firstChild).prepend("<span>" + datelineStr + " - </span>");
+}
+else {
+$(firstChild).before("<span>" + datelineStr + "</span>");
+}
+}
+});
+</script>
+</section>
+<section>
+<div id="inArticleBanner">
+<div id="jl-inarticle-wrapper-2" class="jl-inarticle-wrapper">
+<div id="jl-inarticle-2" class="jl-inarticle">
+<!-- /11425286/jl_cla_ia_2 -->
+<div id='div-gpt-ad-1459756830165-8'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459756830165-8'); });
+</script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+if ($("[id^='content-body-'] > p").length < 3) {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 - 1));
+}
+});
+</script>
+</section>
+<div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/Pregled_2016." class ="label label-default" >
+Pregled 2016.
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/viral" class ="label label-default" >
+Viral
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Meme" class ="label label-default" >
+Meme
+</a>
+</li>
+</ul>
+</div>
+<div id="related-news-box"
+class="rel_art_ib ">
+<h3>
+Vezane vijesti
+</h3>
+<section>
+<article class="film-i-tv media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/15-najboljih-filmova-po-izboru-jurice-pavicica-jos-jednom-odlicna-godina-domaceg-filma-i-jos-jednom-bez-publike/5402463/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/15-najboljih-filmova-po-izboru-jurice-pavicica-jos-jednom-odlicna-godina-domaceg-filma-i-jos-jednom-bez-publike/5402463/">
+15 NAJBOLJIH FILMOVA PO IZBORU JURICE PAVIÈIÆA Još jednom odlièna godina domaæeg filma i još jednom bez publike
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+</section>
+</div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div style="text-align:center;" class="addthis_responsive_sharing"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div class="row upscore-magicflow displaynone-upscore-hack " >
+<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
+<section class="upscore_promo1_4 ">
+<div class="row">
+<div class="col-xs-12" data-widget-position="0">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="1">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="2">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="3">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</section>
+</div>
+<div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Izdvajamo</span></div></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__302"></div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__301"></div>
+</div>
+</div>
+<div class="row jl-scroll-container " >
+<div class="col-sm-8 " >
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midas" class="center-block" style="width:100%; max-width:600px;">
+<div id="midasWidget__72"></div>
+<script async src="https://cdn.midas-network.com/Widget/IndexAsync/1?portalWidgetId=72&portalWidgetId=301&portalWidgetId=302" type="text/javascript"></script>
+</div>
+</div>
+<section>
+<div id="jl-inarticle-wrapper-3" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-9">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-9"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-9");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+<div class="separator alt ">
+<div class="fb-comments" data-href="https://www.jutarnji.hr/viral/meme/s-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet/5414839/" data-colorscheme="light" data-numposts="5"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-1">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-1"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0.00;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-1");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+<div class="jl-sticky-banner" style="margin-bottom:20px;">
+<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
+<script type="text/javascript">
+Criteo.events.push(function() {
+Criteo.DisplayAcceptableAdIfAdblocked({
+"zoneid": 1197956,
+"containerid": "crt-47675ba0",
+"overrideZoneFloor": false
+});
+});
+</script>
+</div>
+</div>
+</div>
+<div class="row hidden-xs " >
+<div class="col-sm-12 ">
+<div class="emp_block article_most_read sidebar ">
+<h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
+<div class="row">
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
+<section>
+<article class="meme media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/viral/meme/foto-fasada-kakvu-jos-niste-vidjeli-svi-se-smiju-kako-je-vlasnik-ukrasio-svoj-dom-e-ovo-je-iskonska-bih-kuca/5120975/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/viral/meme/foto-fasada-kakvu-jos-niste-vidjeli-svi-se-smiju-kako-je-vlasnik-ukrasio-svoj-dom-e-ovo-je-iskonska-bih-kuca/5120975/">
+ÈUDO IZ SUSJEDSTVA
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/viral/meme/foto-fasada-kakvu-jos-niste-vidjeli-svi-se-smiju-kako-je-vlasnik-ukrasio-svoj-dom-e-ovo-je-iskonska-bih-kuca/5120975/">
+FOTO: FASADA KAKVU JOŠ NISTE VIDJELI Svi se smiju kako je vlasnik ukrasio svoj dom: 'E, ovo je iskonska BiH kuæa!'
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
+<section>
+<article class="meme media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/viral/meme/novi-meme-zeljka-badurine-nakon-skijanja-i-kupanje-na-trgu-bana-jelacica/5465611/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/viral/meme/novi-meme-zeljka-badurine-nakon-skijanja-i-kupanje-na-trgu-bana-jelacica/5465611/">
+KOMENTAR UMJETNIKA
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/viral/meme/novi-meme-zeljka-badurine-nakon-skijanja-i-kupanje-na-trgu-bana-jelacica/5465611/">
+NOVI MEME ŽELJKA BADURINE Nakon skijanja, i kupanje na Trgu bana Jelaèiæa?
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
+<section>
+<article class="meme media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/viral/meme/s-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet/5414839/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/viral/meme/s-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet/5414839/">
+PREGLED GODINE
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/viral/meme/s-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet/5414839/">
+S ÈIME SMO SE SPRDALI I ÈEMU SMO SE SMIJALI 2016. Od ministrice Juretiæ preko Željke Markiæ do Sabora: 10 najboljih šala koje su osvojili internet </a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
+<section>
+<article class="meme media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/viral/meme/ovakve-susjede-bi-svatko-pozelio-odusevili-internet-porukom-i-poklonom-u-haustoru-zbog-radova/4559285/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/viral/meme/ovakve-susjede-bi-svatko-pozelio-odusevili-internet-porukom-i-poklonom-u-haustoru-zbog-radova/4559285/">
+RIJETKO VIÐENA GESTA
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/viral/meme/ovakve-susjede-bi-svatko-pozelio-odusevili-internet-porukom-i-poklonom-u-haustoru-zbog-radova/4559285/">
+Ovakve susjede bi svatko poželio: Oduševili internet porukom i poklonom u haustoru zbog radova
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-4 openInNewTab" >
+<section>
+<article class="banner-testing-page media none">
+<div class="teaser "
+data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="http://www.gloria.hr/">
+<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+<article class="fokus-zvjezdane-staze media c3 none">
+<div class="teaser link-block"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+</a>
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title text-small">
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
+</a>
+</h4>
+</div>
+</div>
+</article>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
+</div>
+</div>
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-bot-wrapper" class="jl-billboard-bot">
+<div id="div-gpt-ad-1462358187814-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1462358187814-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1462358187814-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+<footer class="siteFoot ">
+<div class="container ">
+<a href="#top">Povratak na vrh</a>
+<div class="row footNav ">
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/">
+Naslovnica
+</a>
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row socialize ">
+<div class="row col-xs-12 " >
+<dl class="socialLinks">
+<dt>Poveži se s Jutarnjim</dt> <dd><a class="fb" href="https://www.facebook.com/jutarnji.list/" title="Facebook">Facebook</a></dd>
+<dd><a class="tw" href="https://twitter.com/jutarnjihr" title="Twitter">Twitter</a></dd>
+<dd><a class="in" href="https://www.instagram.com/jutarnji.hr/" title="Instagram">Instagram</a></dd>
+</dl>
+</div>
+</div>
+<div class="row siteInfo ">
+<div class="col-xs-12 ">
+<p><a class="jl" href="/" title="Jutarnji list">Jutarnji list</a></p>
+<ul class="family">
+<li><a class="sd" href="http://www.slobodnadalmacija.hr/" title="Slobodna Dalmacija">Slobodna Dalmacija</a></li>
+<li><a class="sn" href="http://sportske.jutarnji.hr/" title="Sportske Novosti">Sportske Novosti</a></li>
+<li><a class="sto" href="http://100posto.hr/" title="100posto">100posto</a></li>
+<li><a class="glob" href="http://www.jutarnji.hr/globus/" title="Globus">Globus</a></li>
+<li><a class="zv" href="http://zivim.hr/" title="Živim.hr">Živim.hr</a></li>
+<li><a class="glo" href="http://www.gloria.hr/" title="Gloria">Gloria</a></li>
+<li><a class="dh" href="http://www.jutarnji.hr/dobrahrana/" title="Dobra hrana">Dobra hrana</a></li>
+<li><a class="did" href="http://www.jutarnji.hr/domidizajn/" title="Dom &amp; Dizajn">Dom &amp; Dizajn</a></li>
+<li><a class="ak" href="http://www.jutarnji.hr/autoklub/" title="Autoklub">Autoklub</a></li>
+<li><a class="ok" href="http://okjeok.hr/" title="ok!">ok!</a></li>
+<li><a class="ds" href="https://www.dosi.hr/" title="Dosi">Dosi</a></li>
+<li><a class="dv" href="http://dubrovacki.hr/" title="Dubrovacki Vjesnik">Dubrovacki Vjesnik</a></li>
+<li><a class="zd" href="http://www.zadarski.hr/" title="Zadarski">Zadarski</a></li>
+<li><a class="lc" href="http://www.likecroatia.com/" title="LikeCroatia">LikeCroatia</a></li>
+</ul>
+<ul class=" legal">
+<li class="">
+<a href="https://www.jutarnji.hr/Opci-uvjeti/">
+Opæi uvjeti korištenja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-prenosenja-sadrzaja/">
+Pravila prenošenja sadržaja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Zastita-privatnosti/">
+Zaštita privatnosti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-komentiranja/">
+Pravila komentiranja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Impressum/">
+Impressum
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Kontakt/">
+Kontakt
+</a>
+</li>
+<li class="">
+<a href="http://apps.jutarnji.hr/HM-Digital-Cjenik.pdf" target="_blank">
+Oglašavanje
+</a>
+</li>
+</ul>
+<p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
+</div>
+</div>
+</div>
+</footer>
+<script>
+function fbCommentGA() {
+FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'Facebook Comment', 'Posted', window.location.href, 1);
+});
+}
+window.onload = fbCommentGA;
+</script>
+<!-- Midas Pixel Code -->
+<img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
+<!-- DO NOT MODIFY -->
+<!-- End Midas Pixel Code -->
+<script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
+<div id="jl-floater-wrapper" class="jl-floater-wrapper">
+<div id="jl-float" class="jl-floater">
+<!-- /11425286/jl_floater -->
+<div id='div-gpt-ad-1459756830165-6'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-6"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-6'); });
+}
+</script>
+</div>
+</div>
+</div>
+<div id="jl-wallpaper-wrapper" class="jl-wallpaper-wrapper">
+<div id="jl-wallpaper" class="jl-wallpaper">
+<!-- /11425286/jl_wp -->
+<div id='div-gpt-ad-1459756830165-10'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-10"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-10'); });
+}
+</script>
+</div> </div>
+</div>
+<div class="hidden-xs ">
+<div id="side-article-widget" class="side-article-widget" style="display: none;">
+<div class="clearfix">
+<div class="pull-left side-article-column">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<div class="side-article clearfix">
+<div class="pull-left side-article-image">
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
+</div>
+<div class="pull-right side-article-text-wrapper">
+<div class="side-article-text">
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
+<hr class="side-article-hr" />
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="pull-right side-control-column">
+<div class="side-control">
+<a href="#" class="side-button" data-status="open">&#9658;</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+$('#side-article-widget a.side-button').click(function (event) {
+event.preventDefault();
+var status = $(this).attr('data-status');
+if (status === 'open') {
+$('.side-article-column').fadeOut('fast');
+$(this).attr('data-status', 'close');
+$(this).html('&#9664;');
+} else {
+$('.side-article-column').fadeIn('fast');
+$(this).attr('data-status', 'open');
+$(this).html('&#9658;');
+}
+});
+$(window).scroll(function (event) {
+var turnOnHeight = 1500;
+var scrolled = $(window).scrollTop();
+if (scrolled > turnOnHeight) {
+$('#side-article-widget').fadeIn('fast');
+} else {
+$('#side-article-widget').fadeOut('fast');
+}
+});
+});
+</script>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=61&contextPath=1-56-61-&pubId=1&cat=&meta=read-story&objId=5414839&type=article&title=S+%c4%8cIME+SMO+SE+SPRDALI+I+%c4%8cEMU+SMO+SE+SMIJALI+2016.+Od+ministrice+Jureti%c4%87+preko+%c5%bdeljke+Marki%c4%87+do+Sabora%3a+10+najboljih+%c5%a1ala+koje+su+osvojili+internet&url=https%3a%2f%2fwww.jutarnji.hr%2fviral%2fmeme%2fs-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet%2f5414839%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=61&amp;contextPath=1-56-61-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=5414839&amp;type=article&amp;title=S+%c4%8cIME+SMO+SE+SPRDALI+I+%c4%8cEMU+SMO+SE+SMIJALI+2016.+Od+ministrice+Jureti%c4%87+preko+%c5%bdeljke+Marki%c4%87+do+Sabora%3a+10+najboljih+%c5%a1ala+koje+su+osvojili+internet&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fviral%2fmeme%2fs-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet%2f5414839%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-61-&cat=jltags%40eph.hr%2c2016&objId=1895199158&title=Meme&url=tag%3ajltags%40eph.hr%2c2016%3aMeme&rt=1&ctxId=61&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-61-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1895199158&amp;title=Meme&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMeme&amp;rt=1&amp;ctxId=61&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-61-&cat=jltags%40eph.hr%2c2016&objId=1776971462&title=Viral&url=tag%3ajltags%40eph.hr%2c2016%3aviral&rt=1&ctxId=61&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-61-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1776971462&amp;title=Viral&amp;url=tag%3ajltags%40eph.hr%2c2016%3aviral&amp;rt=1&amp;ctxId=61&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-61-&cat=jltags%40eph.hr%2c2016&objId=1124766307&title=Pregled+2016.&url=tag%3ajltags%40eph.hr%2c2016%3aPregled_2016.&rt=1&ctxId=61&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-61-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1124766307&amp;title=Pregled+2016.&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPregled_2016.&amp;rt=1&amp;ctxId=61&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"media.jwplayer.hls.enabled":"true","audioPlayer":"mediaelement","media.jwplayer.sharing.enabled":"true","lc.liveLoading.pollingInterval":"5","media.jwplayer.ga.enabled":"true","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","media.jwplayer.options.primary":"flash","videoPlayer":"flowplayer"};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "https://www.jutarnji.hr/";
+/* Client-side device detection */
+var WFClientTypeDef = {"small":"(max-width: 767px)","large":"(min-width: 992px)","medium":"(min-width: 768px) and (max-width: 991px)"};
+var imageSizes = [80, 180, 280, 380, 480, 580, 680, 780, 880, 980, 1080, 1180];
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+</script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style")
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+)
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/jquery-1.10.2.min.js"></script>
+<script>(function ($, d) {
+$.each(readyQ, function (i, f) {
+$(f)
+});
+$.each(bindReadyQ, function (i, f) {
+$(d).bind("ready", f)
+})
+})(jQuery, document)</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/wf-site.65c4eb6cf51818ab41250bfab36dff26.js"></script>
+<script type="text/javascript">
+require(['https://www.jutarnji.hr/static/js/holder.js'], function () {});
+</script>
+<script>
+var _ain = {};
+$(function() {
+$
+.ajax({
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/viral/meme/s-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet/5414839/',
+dataType : 'jsonp',
+success : function(data) {
+var commentsCount = 0;
+if (typeof data.comments != 'undefined') {
+commentsCount = data.comments;
+}
+/* CONFIGURATION START */
+_ain = {
+id : "1247",
+url : "https://www.jutarnji.hr/viral/meme/s-cime-smo-se-sprdali-i-cemu-smo-se-smijali-2016.-od-ministrice-juretic-preko-zeljke-markic-do-sabora-10-najboljih-sala-koje-su-osvojili-internet/5414839/",
+postId : "5414839",
+maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
+title : "S ÈIME SMO SE SPRDALI I ÈEMU SMO SE SMIJALI 2016. Od ministrice Juretiæ preko Željke Markiæ do Sabora: 10 najboljih šala koje su osvojili internet ",
+pubdate : "2016-12-28 10:27",
+authors : "Ana Soriæ",
+sections : "Front Page, Viral, Meme",
+tags : "Meme, Viral, Pregled 2016.",
+comments : commentsCount.toString()
+};
+/* CONFIGURATION END */
+(function(d, s) {
+var sf = d.createElement(s);
+sf.type = 'text/javascript';
+sf.async = true;
+sf.src = (('https:' == d.location.protocol) ? 'https://d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com'
+: 'http://t.contentinsights.com')
++ '/stf.js';
+var t = d.getElementsByTagName(s)[0];
+t.parentNode.insertBefore(sf, t);
+})(document, 'script');
+}
+});
+});
+</script>
+</body>
+</html>

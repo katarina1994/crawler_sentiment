@@ -2,11 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Životne prièe, kult, Nxvim, Allison Mack, richard branson, Keith Raniere" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Hair Stylist Masterclass u organizaciji Ministry of Beauty - vodeæe beauty obrazovne ustanove u Hrvatskoj – pruža moguænost usavršavanja znanja i vještina za sve profesionalne ili amaterske artiste i stiliste kako bi njihova usluga bila potpuna, znalaèka i savršena." />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>ZLOGLASNI SEKS KULT IMAO JE LUDE PARTIJE NA PRIVATNOM OTOKU MILIJARDERA Richard Branson tvrdi da ne zna ništa o tome, èlanovi: &#039;Htjeli smo ga za sebe&#039; - Jutarnji List</title>
+<title>HAIR STYLIST MASTERCLASS USAVRŠAVANJE VJEŠTINA ZA ARTISTE, STILISTE i FRIZERE
+U MODNOJ I FILMSKOJ INDUSTRIJI - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -16,563 +17,6 @@ window.Criteo = window.Criteo || {};
 window.Criteo.events = window.Criteo.events || [];
 </script>
 <section>
-<!-- DFP verzija 11 -->
-<script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
-<script>
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function () {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' === document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-//DFP vars
-dfpId = 11425286;
-dfpName = 'jl';
-dfpAsync = true;
-dfpSingleRequest = true;
-dfpCollapseEmpty = true;
-dfpDisableInitialLoad = true;
-dfpMobileMaxWidth = 960;
-dfpStickyMinWidth = 1024;
-dfpStickyUnitHeightLimit = 600;
-dfpStickyColumnHeightLimit = 680;
-dfpLazyUnitOffset = 3000;
-dfpUnitRefresh = 15000;
-doClickTracking = false;
-dfpAdSlots = {};
-dfpLazyLoad = [];
-dfpUnits = {
-"cla" : {
-"div-gpt-ad-1459756830165-0" : {
-"slot" : "aside1",
-"unit" : "300x600",
-"size" : [[300, 600], [300, 1], [300, 1050], [300, 601], [300, 250]],
-"sizeType" : "aside",
-"container" : "jl-banner-wrapper-1",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "634"},
-"appnexus": {"placementId": "12512215"},
-"criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"},
-"openx": {"unit": "539865163"}
-},
-},
-"div-gpt-ad-1459756830165-1" : {
-"slot" : "aside2",
-"unit" : "300x602",
-"size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
-"sizeType" : "aside",
-"container" : "jl-banner-wrapper-2",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "634"},
-"appnexus": {"placementId": "12512215"},
-"criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"},
-"openx": {"unit": "539865163"}
-},
-},
-"div-gpt-ad-1459756830165-2" : {
-"slot" : "billboard",
-"unit" : "bb_nav",
-"size" : [[1180, 150], [1180, 500], [970, 500], [970, 1000], [970, 90], [300, 100], [300, 150], [320, 100], [320, 50], [1180, 250], [300, 50], [1, 3], [970, 250], [970, 251]],
-"sizeType" : "pagebreak",
-"container" : "jl-billboard-nav-wrapper",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : false
-},
-"div-gpt-ad-1462358187814-0" : {
-"slot" : "billboardbot",
-"unit" : "bb_bot",
-"size" : [[300, 250], [320, 100], [320, 50], [1180, 250], [970, 250], [970, 90], [1, 7]],
-"sizeType" : "pagebreak",
-"container" : "jl-billboard-bot-wrapper",
-"lazyLoad" : true,
-"mobile" : true,
-"deviceType" : "all",
-"loaded" : false,
-"prebid" : false
-},
-"div-gpt-ad-1459756830165-7" : {
-"slot" : "inarticle1",
-"unit" : "ia_1",
-"size" : [[300, 50], [320, 50], [320, 100], [300, 150], [760, 250], [760, 500], [320, 480], [600, 250], [570, 250], [728, 90], [300, 100], [2, 1], [300, 250], [300, 605]],
-"sizeType" : "pagebreak",
-"container" : "jl-inarticle-wrapper-1",
-"lazyLoad" : false,
-"mobile" : true,
-"deviceType" : "all",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "1024"},
-"appnexus": {"placementId": "12512211"},
-"criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"},
-"openx": {"unit": "539865166"}
-},
-"prebidConfigMobile" : {
-"connectad": {"placementId": "637"},
-"appnexus": {"placementId": "12512220"},
-"criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"},
-"openx": {"unit": "539865168"}
-},
-},
-"div-gpt-ad-1459756830165-8" : {
-"slot" : "inarticle2",
-"unit" : "ia_2",
-"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [300, 100], [300, 150], [2, 2], [300, 250]],
-"sizeType" : "pagebreak",
-"container" : "jl-inarticle-wrapper-2",
-"lazyLoad" : false,
-"mobile" : true,
-"deviceType" : "all",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "1024"},
-"appnexus": {"placementId": "12512211"},
-"criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"},
-"openx": {"unit": "539865166"}
-},
-"prebidConfigMobile" : {
-"connectad": {"placementId": "637"},
-"appnexus": {"placementId": "12512220"},
-"criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"},
-"openx": {"unit": "539865168"}
-},
-},
-"div-gpt-ad-1459756830165-9" : {
-"slot" : "inarticle3",
-"unit" : "ia_3",
-"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [2, 3], [300, 100], [300, 150], [300, 250]],
-"sizeType" : "pagebreak",
-"container" : "jl-inarticle-wrapper-3",
-"lazyLoad" : true,
-"mobile" : true,
-"deviceType" : "all",
-"loaded" : false,
-"prebid" : false
-},
-"div-gpt-ad-1459756830165-6" : {
-"slot" : "float",
-"unit" : "float",
-"size" : [1, 1],
-"sizeType" : "outofpage",
-"container" : "jl-floater-wrapper",
-"lazyLoad" : false,
-"mobile" : true,
-"deviceType" : "all",
-"loaded" : false,
-"prebid" : false
-},
-"div-gpt-ad-1459756830165-10" : {
-"slot" : "wallpaper",
-"unit" : "wp",
-"size" : "",
-"sizeType" : "outofpage",
-"container" : "jl-wallpaper-wrapper",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : false
-},
-}
-};
-var dfpCountryCode = "HR";
-var dfpCurrentPageType = "cla";
-var dfpGalleryImgNum = 0;
-var dfpGalleryUnitNum = 0;
-var dfpCategory = "Životne prièe";
-var dfpCategoryParent = "Life";
-var dfpRos = "life-ros";
-var dfpArticle = "7282933";
-var dfpArticleKeyword = "Životne prièe";
-// oglasne jedinice za trenutaènu stranicu
-var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
-// jedinice koje je potrebno osvježiti
-var dfpRefreshUnits = [];
-// jedinice koje je potrebno osvježiti a ulaze u prebid
-var dfpRefreshPrebidUnits = [];
-var dfpWindowWidth = dfpGetWindowWidth();
-var dfpWindowDPR = window.devicePixelRatio;
-var dfpIsMobile = false;
-if (dfpWindowWidth <= dfpMobileMaxWidth) {
-dfpIsMobile = true;
-}
-var dfpBreakpoint = dfpGetBreakpoint();
-var dfpPrebid = true;
-if (dfpCountryCode === 'HR') {
-dfpPrebid = false;
-}
-var dfpPrebidTimeout = 3000;
-var dfpPrebidUnits = [];
-var dfpPrebidGranularity = {
-"buckets" : [
-{
-"min" : 0,
-"max" : 100,
-"increment" : 0.1
-}
-]
-};
-var pbjs = pbjs || {};
-pbjs.que = pbjs.que || [];
-// inicijaliziraj sve oglasne jedinice ovisno o uèitanoj stranici i postavljenim parametrima
-googletag.cmd.push(function() {
-dfpConfigUnits();
-});
-// dohvati širinu prozora
-function dfpGetWindowWidth() {
-var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-return windowWidth;
-}
-// pronaði najmanji breakpoint za trenutaènu širinu prozora
-function dfpGetBreakpoint() {
-var breakpoints = [ 640, 768, 960, 1200, 1350, 1366, 1440, 1600, 1920, 2560 ];
-var minBreakpoint = [ 640 ];
-for (i = 0; i < breakpoints.length; i++) {
-if (dfpWindowWidth >= breakpoints[i]) {
-minBreakpoint = [ breakpoints[i] ];
-}
-}
-return minBreakpoint;
-}
-// provjeri sadrži li DOM traženi node
-function checkIfNodeInPage(node) {
-var inDocument = false;
-if (node === document.body) {
-inDocument = false;
-} else {
-inDocument = document.body.contains(node);
-}
-return inDocument;
-}
-// èekaj odreðeno vrijeme na poziv callback funkcije prilikom scroll eventa
-function dfpThrottleScrolling(callback, wait) {
-var time;
-var go = true;
-return function() {
-if (go) {
-go = false;
-time = setTimeout(function() {
-time = null;
-go = true;
-callback.call();
-}, wait);
-}
-};
-};
-// inicijaliziraj sticky bannere
-function dfpInitStickyBanners() {
-if (dfpWindowWidth >= dfpStickyMinWidth) {
-// univerzalni preporuèeni nazivi klasa
-var stickyRowClass = '.dfp-scroll-row';
-var stickyColClass = '.dfp-scroll-column';
-var stickyElementClass = '.dfp-sticky-unit';
-// stari nazivi klasa, trebaju se zamijeniti univerzalnima na svim portalima
-if ((dfpName === 'jl') || (dfpName === 'sn')) {
-stickyRowClass = '.jl-scroll-container';
-stickyColClass = '.jl-banner-column';
-stickyElementClass = '.jl-banner-wrapper';
-}
-var stickyElementContainers = document.querySelectorAll(stickyRowClass);
-for (var i = stickyElementContainers.length - 1; i >= 0; i--) {
-var contentHeight = stickyElementContainers[i].offsetHeight;
-var stickyElementColumn = stickyElementContainers[i].querySelector(stickyColClass);
-if (stickyElementColumn !== null) {
-var stickyElement = stickyElementColumn.querySelector(stickyElementClass);
-if (stickyElement !== null) {
-if (dfpWindowDPR === 1) {
-var stickyElementHeight = stickyElement.offsetHeight;
-if (stickyElementHeight >= dfpStickyUnitHeightLimit) {
-if (contentHeight < dfpStickyColumnHeightLimit) {
-contentHeight = dfpStickyColumnHeightLimit;
-}
-} else {
-contentHeight = contentHeight - 20;
-}
-stickyElementColumn.style.height = contentHeight + 'px';
-Stickyfill.add(stickyElement);
-} else {
-stickyElement.classList.remove("jl-sticky-banner");
-}
-}
-}
-}
-}
-}
-// handler lazy load uèitavanja jedinica
-var dfpScrollHandler = dfpThrottleScrolling(function() {
-scrolled = window.scrollY;
-// provjeri postoje li lazy load jedinice ili ukloni listener
-if (dfpLazyLoad.length > 0) {
-dfpLazyLoad.forEach(function(adUnit) {
-var adUnitIndex = dfpLazyLoad.indexOf(adUnit);
-var unitContainer = document.getElementById(dfpUnits[dfpCurrentPageType][adUnit]['container']);
-if (checkIfNodeInPage(unitContainer)) {
-var containerOffset = unitContainer.getBoundingClientRect().top;
-if (containerOffset < dfpLazyUnitOffset) {
-var slot = dfpUnits[dfpCurrentPageType][adUnit]['slot'];
-googletag.cmd.push(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-});
-dfpLazyLoad.splice(adUnitIndex, 1);
-}
-}
-});
-} else {
-window.removeEventListener('scroll', dfpScrollHandler);
-}
-}, 250);
-function dfpConfigUnits() {
-if (dfpPlacementUnits !== '') {
-var dfpUnitCounter = 0;
-for (var unitId in dfpPlacementUnits) {
-if (dfpPlacementUnits.hasOwnProperty(unitId)) {
-if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
-break;
-}
-// podaci o trenutaènoj jedinici
-var unitData = dfpPlacementUnits[unitId];
-// provjeri treba li biti inicijalizirana ovisno o širini ekrana
-if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
-// drugaèiji inicijalizacijski kod za out of page jedinice
-if (unitData['unit'] == 'wp') {
-dfpAdSlots[unitData['slot']] = googletag.defineOutOfPageSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitId).addService(googletag.pubads());
-} else {
-dfpAdSlots[unitData['slot']] = googletag.defineSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitData['size'], unitId).addService(googletag.pubads());
-}
-// targetiranje specifiènih velièina ekrana
-var sizeKey = 'WindowSizeAside';
-if (unitData['sizeType'] === 'pagebreak') {
-sizeKey = 'WindowSizePagebreak';
-} else if (unitData['sizeType'] === 'outofpage') {
-sizeKey = 'WindowSize';
-}
-dfpAdSlots[unitData['slot']].setTargeting(sizeKey, dfpBreakpoint);
-// targetiranje po rubrici
-if (dfpCategory !== '') {
-dfpAdSlots[unitData['slot']].setTargeting('Category', dfpCategory);
-}
-if (dfpCategoryParent !== '') {
-dfpAdSlots[unitData['slot']].setTargeting('CategoryParent', dfpCategoryParent);
-}
-// targetiranje za èlanke
-if (dfpCurrentPageType === 'cla') {
-if (dfpArticle !== '') {
-dfpAdSlots[unitData['slot']].setTargeting('Article', dfpArticle);
-}
-if (dfpArticleKeyword !== '') {
-dfpAdSlots[unitData['slot']].setTargeting('ArticleKeyword', dfpArticleKeyword);
-}
-}
-// ros targetiranje
-if (dfpRos !== '') {
-dfpAdSlots[unitData['slot']].setTargeting('ROS', dfpRos);
-}
-// ako jedinica treba biti lazy loadana stavi je u dfpLazyLoad niz (no ne smije biti u Prebidu) ili je dodaj u dfpRefreshUnits u sluèaju da je onemoguæeno inicijalno uèitavanje
-if (((dfpPrebid === false) || (unitData['prebid'] === false) || (typeof unitData['prebid'] === 'undefined')) && unitData['lazyLoad']) {
-dfpLazyLoad.push(unitId);
-} else {
-if (dfpDisableInitialLoad === true) {
-if ((dfpPrebid === true) && (unitData['prebid'] === true)) {
-dfpRefreshPrebidUnits.push(dfpAdSlots[unitData['slot']]);
-} else {
-dfpRefreshUnits.push(dfpAdSlots[unitData['slot']]);
-}
-}
-}
-}
-}
-dfpUnitCounter = dfpUnitCounter + 1;
-}
-}
-}
-function dfpConfigPrebidUnits() {
-if (dfpPlacementUnits !== '') {
-var dfpUnitCounter = 0;
-for (var unitId in dfpPlacementUnits) {
-if (dfpPlacementUnits.hasOwnProperty(unitId)) {
-if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
-break;
-}
-// podaci o trenutaènoj jedinici
-var unitData = dfpPlacementUnits[unitId];
-// provjeri treba li biti inicijalizirana ovisno o širini ekrana
-if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
-// razlièita Prebid konfiguracija ovisno radi li se o mobilnim ili desktop ureðajima
-var unitPrebidConfigParam = 'prebidConfig';
-if (dfpIsMobile === true) {
-unitPrebidConfigParam = unitPrebidConfigParam + 'Mobile';
-}
-// ako je jedinica dostupna za bidding stavi ju u odgovarajuæi niz
-if (unitData['prebid'] && (unitData.hasOwnProperty(unitPrebidConfigParam))) {
-var unitBids = [];
-for (var bidderName in unitData[unitPrebidConfigParam]) {
-var bidderParams = [];
-bidderParams = unitData[unitPrebidConfigParam][bidderName];
-// dodatni parametri za connectad
-if (bidderName === 'connectad') {
-bidderParams['networkId'] = '10047';
-bidderParams['siteId'] = '977103';
-} else if (bidderName === 'openx') {
-bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
-}
-var bidderData = {bidder: bidderName, params: bidderParams};
-unitBids.push(bidderData);
-}
-var dfpPrebidUnit = {
-code: unitId,
-sizes: unitData['size'],
-bids: unitBids
-}
-dfpPrebidUnits.push(dfpPrebidUnit);
-}
-}
-}
-dfpUnitCounter = dfpUnitCounter + 1;
-}
-}
-}
-// prebid
-function dfpPrebidSendAdServerRequest() {
-if (pbjs.adserverRequestSent) return;
-pbjs.adserverRequestSent = true;
-googletag.cmd.push(function() {
-pbjs.que.push(function() {
-pbjs.setTargetingForGPTAsync();
-googletag.pubads().refresh(dfpRefreshPrebidUnits);
-});
-});
-}
-if (dfpPrebid === true) {
-pbjs.que.push(function() {
-dfpConfigPrebidUnits();
-pbjs.setConfig({userSync: {iframeEnabled: true}});
-pbjs.setPriceGranularity(dfpPrebidGranularity);
-//pbjs.enableSendAllBids();
-pbjs.addAdUnits(dfpPrebidUnits);
-pbjs.requestBids({
-bidsBackHandler: dfpPrebidSendAdServerRequest
-});
-});
-setTimeout(function() {
-dfpPrebidSendAdServerRequest();
-}, dfpPrebidTimeout);
-}
-//setup and initialize dfp adunits
-googletag.cmd.push(function() {
-// asinkrono renderiranje
-if (dfpAsync === true) {
-googletag.pubads().enableAsyncRendering();
-}
-// dohvati sve u jednom requestu
-if (dfpSingleRequest === true) {
-googletag.pubads().enableSingleRequest();
-}
-// smanji prazne div elemente
-if (dfpCollapseEmpty === true) {
-googletag.pubads().collapseEmptyDivs();
-}
-// iskljuèi inicijalno uèitavanje
-if (dfpDisableInitialLoad === true) {
-googletag.pubads().disableInitialLoad();
-}
-// osvježi sve jedinice koje nisu lazy loadane i nisu u prebidu
-if ((dfpDisableInitialLoad === true) && (dfpRefreshUnits.length > 0)) {
-googletag.pubads().refresh(dfpRefreshUnits);
-}
-// izvršava se nakon što je pojedina oglasna jedinica renderirana, idealno mjesto za dodavanje klasa
-googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-if (!event.isEmpty) {
-// provjeri koja se toèno jedinica renderirala
-var slotId = event.slot.getSlotElementId();
-var isLoaded = !event.isEmpty;
-dfpUnits[dfpCurrentPageType][slotId]['loaded'] = isLoaded;
-// dohvati podatke o renderiranoj oglasnoj jedinici
-var unitData = dfpUnits[dfpCurrentPageType][slotId];
-// stavi dodatne klase na kontejnere oglasnih jedinica gdje je potrebno
-if (unitData['sizeType'] === 'aside') {
-if (dfpWindowWidth > dfpMobileMaxWidth) {
-var elementExtraClasses = ' dfp-box';
-// stari nazivi klasa, trebaju se zamijeniti univerzalnima
-if ((dfpName === 'jl') || (dfpName === 'sn')) {
-elementExtraClasses = ' jl-banner-box';
-}
-var bannerElementWrapper = document.getElementById(unitData['container']);
-if (bannerElementWrapper !== null) {
-bannerElementWrapper.className += elementExtraClasses;
-}
-}
-} else if (unitData['sizeType'] === 'pagebreak') {
-var elementExtraClasses = ' dfp-space';
-// stari nazivi klasa, trebaju se zamijeniti univerzalnima
-if ((dfpName === 'jl') || (dfpName === 'sn')) {
-elementExtraClasses = ' jl-banner-space';
-}
-var bannerElementWrapper = document.getElementById(unitData['container']);
-if (bannerElementWrapper !== null) {
-bannerElementWrapper.className += elementExtraClasses;
-}
-// fix za in article jedinice na sportskim novostima
-if ((dfpName === 'sn') && (unitData['unit'] !== 'ia_1') && (unitData['unit'] !== 'ia_2') && (unitData['unit'] !== 'ia_3')) {
-var parentObj;
-if (checkIfNodeInPage(bannerElementWrapper.parentNode)) {
-parentObj = bannerElementWrapper.parentNode;
-var elementClass = parentObj.className;
-var searchForRow = true;
-while ((elementClass.indexOf('row') == -1) && searchForRow) {
-if (checkIfNodeInPage(parentObj.parentNode)) {
-parentObj = parentObj.parentNode;
-elementClass = parentObj.className;
-} else {
-searchForRow = false;
-}
-}
-if (searchForRow) {
-parentObj.className += ' jl-has-banner';
-}
-}
-}
-} else if (unitData['sizeType'] === 'outofpage') {
-// fix za ispravan prikaz wallpapera na sportskim novostima
-if ((dfpName === 'sn') && (unitData['unit'] === 'wp')) {
-var bodyElement = document.querySelector('body');
-bodyElement.className += ' hasWallpaperBanner';
-}
-}
-}
-});
-googletag.enableServices();
-});
-// slušaj scroll event za potrebe uèitvanja lazy loadom
-window.addEventListener('scroll', dfpScrollHandler);
-// inicijaliziraj sticky bannere
-window.addEventListener('load', dfpInitStickyBanners);
-window.addEventListener('resize', dfpInitStickyBanners);
-</script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -593,44 +37,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<script>
-var elipsoResizeTimeout;
-function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
-if (!elipsoResizeTimeout) {
-elipsoResizeTimeout = setTimeout(function() {
-elipsoResizeTimeout = null;
-elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
-}, 250);
-}
-}
-function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
-var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-var elipsoBreakpoint = 0;
-var elipsoBreakpoints = [768, 992, 1200];
-for (i = 0; i < elipsoBreakpoints.length; i++) {
-if (windowWidth >= elipsoBreakpoints[i]) {
-elipsoBreakpoint = elipsoBreakpoints[i];
-}
-}
-var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
-var elipsoIframeWH = elipsoIframeSize.split('x');
-var elipsoIframe = document.getElementById(elipsoIframeId);
-var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
-var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
-if (currentElipsoIframeSrc !== elipsoIframeSrc) {
-elipsoIframe.setAttribute("src", elipsoIframeSrc);
-elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
-elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
-elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
-elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
-}
-}
-</script>
-<style>
-.displaynone-upscore-hack {
-display: none ;
-}
-</style>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -638,8 +44,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/zloglasni-seks-kult-imao-je-lude-partije-na-privatnom-otoku-milijardera-richard-branson-tvrdi-da-ne-zna-nista-o-tome-clanovi-htjeli-smo-ga-za-sebe/7282933/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/zloglasni-seks-kult-imao-je-lude-partije-na-privatnom-otoku-milijardera-richard-branson-tvrdi-da-ne-zna-nista-o-tome-clanovi-htjeli-smo-ga-za-sebe/7282933/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/Promo/hair-stylist-masterclass-usavrsavanje-vjestina-za-artiste-stiliste-i-frizere-u-modnoj-i-filmskoj-industriji/7317342/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/Promo/hair-stylist-masterclass-usavrsavanje-vjestina-za-artiste-stiliste-i-frizere-u-modnoj-i-filmskoj-industriji/7317342/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +58,23 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/kultjpg/7282915/ALTERNATES/LANDSCAPE_1180/kult.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/pr_mob_schwarzkopfjpg/7327032/ALTERNATES/LANDSCAPE_1180/PR_MoB_Schwarzkopf.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/kultjpg/7282915/ALTERNATES/LANDSCAPE_1180/kult.jpg">
-<meta property="og:title" content="ZLOGLASNI SEKS KULT IMAO JE LUDE PARTIJE NA PRIVATNOM OTOKU MILIJARDERA Richard Branson tvrdi da ne zna ništa o tome, èlanovi: 'Htjeli smo ga za sebe'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/pr_mob_schwarzkopfjpg/7327032/ALTERNATES/LANDSCAPE_1180/PR_MoB_Schwarzkopf.jpg">
+<meta property="og:title" content="HAIR STYLIST MASTERCLASS USAVRŠAVANJE VJEŠTINA ZA ARTISTE, STILISTE i FRIZERE
+U MODNOJ I FILMSKOJ INDUSTRIJI" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/zloglasni-seks-kult-imao-je-lude-partije-na-privatnom-otoku-milijardera-richard-branson-tvrdi-da-ne-zna-nista-o-tome-clanovi-htjeli-smo-ga-za-sebe/7282933/" />
+<meta property="og:url" content="https://www.jutarnji.hr/Promo/hair-stylist-masterclass-usavrsavanje-vjestina-za-artiste-stiliste-i-frizere-u-modnoj-i-filmskoj-industriji/7317342/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Hair Stylist Masterclass u organizaciji Ministry of Beauty - vodeæe beauty obrazovne ustanove u Hrvatskoj – pruža moguænost usavršavanja znanja i vještina za sve profesionalne ili amaterske artiste i stiliste kako bi njihova usluga bila potpuna, znalaèka i savršena." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="ZLOGLASNI SEKS KULT IMAO JE LUDE PARTIJE NA PRIVATNOM OTOKU MILIJARDERA Richard Branson tvrdi da ne zna ništa o tome, èlanovi: 'Htjeli smo ga za sebe'">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content=" Promo">
+<meta name="twitter:title" content="HAIR STYLIST MASTERCLASS USAVRŠAVANJE VJEŠTINA ZA ARTISTE, STILISTE i FRIZERE
+U MODNOJ I FILMSKOJ INDUSTRIJI">
+<meta name="twitter:description" content="Hair Stylist Masterclass u organizaciji Ministry of Beauty - vodeæe beauty obrazovne ustanove u Hrvatskoj – pruža moguænost usavršavanja znanja i vještina za sve profesionalne ili amaterske artiste i stiliste kako bi njihova usluga bila potpuna, znalaèka i savršena.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +85,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2433';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +97,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Životne prièe, Life, Front Page",
-pubdate: "2018-04-24T22:20+02:00",
-author: "Ana Soriæ",
+data: { section: "Promo, Front Page",
+pubdate: "2018-05-04T12:22+02:00",
+author: "Promo",
 object_type: "article",
-custom_sponsored: 0
+custom_sponsored: 1
 }});
 </script>
 </head>
-<body class="life story">
+<body class=" promoStory">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -747,24 +155,6 @@ $("#related-news-box").remove();
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<script>
-window.fbAsyncInit = function() {
-FB.init({
-appId : '156538244364753',
-xfbml : true,
-version : 'v2.10'
-});
-FB.AppEvents.logPageView();
-};
-(function(d, s, id){
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) {return;}
-js = d.createElement(s); js.id = id;
-js.src = "https://connect.facebook.net/en_US/sdk.js";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
-<a name="top"></a>
 <div class="row " >
 <div class="col-sm-12 ">
 </div>
@@ -808,7 +198,7 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
@@ -888,7 +278,17 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
+</div>
+<div class=" ">
+<h3>
+Novac.hr
+</h3>
 </div>
 <div class=" ">
 <h3>
@@ -923,11 +323,6 @@ Sport Mix
 </a>
 </li>
 </ul>
-</div>
-<div class=" ">
-<h3>
-Novac.hr
-</h3>
 </div>
 <div class=" ">
 <h3>
@@ -966,7 +361,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1131,96 +526,20 @@ Mozgalice
 </form>
 </div>
 <div class="subLevelNavbar ">
-<ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/life/">Life </a>
-</li>
-<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
-</ul>
-<ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
-Obitelj i djeca
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/tehnologija/">
-Tehnologija
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/znanost/">
-Znanost
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zdravlje/">
-Zdravlje
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/seks-i-veze/">
-Seks i veze
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/putovanja/">
-Putovanja
-</a>
-</li>
-<li class="active">
-<a href="https://www.jutarnji.hr/life/zivotne-price/">
-Životne prièe
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/vaumijau/">
-VauMijau
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
-Moda i ljepota
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/astro/">
-Astro
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
-Buduænost zdravstva
-</a>
-</li>
-</ul>
 </div>
 </nav>
 </div>
 </div>
+<a name="top"></a>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 </header>
 <section role="main">
 <div class="row dfp-no-padding " >
 <div class="col-sm-12 ">
 <section>
-<div id="jl-billboard-nav-wrapper" class="jl-billboard-nav">
-<div id="div-gpt-ad-1459756830165-2">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-2"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-2");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
 </section>
 </div>
 </div>
@@ -1229,11 +548,12 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-SEKS I ORGIJE
+EKSKLUZIVNO U REGIJI
 </p>
 <h1
 class="title">
-ZLOGLASNI SEKS KULT IMAO JE LUDE PARTIJE NA PRIVATNOM OTOKU MILIJARDERA Richard Branson tvrdi da ne zna ništa o tome, èlanovi: 'Htjeli smo ga za sebe'
+HAIR STYLIST MASTERCLASS USAVRŠAVANJE VJEŠTINA ZA ARTISTE, STILISTE i FRIZERE
+U MODNOJ I FILMSKOJ INDUSTRIJI
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +561,7 @@ ZLOGLASNI SEKS KULT IMAO JE LUDE PARTIJE NA PRIVATNOM OTOKU MILIJARDERA Richard 
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li> Promo</li>
 </ul>
 </p>
 </li>
@@ -1249,84 +569,56 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 22:20
+04.05.2018. u 12:22
 </p>
 </li>
 </ul>
 </div>
+<section class="lead_image ">
+<section class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/pr_mob_schwarzkopfjpg/7327032" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/pr_mob_schwarzkopfjpg/7327032/ALTERNATES/WIDE_380/PR_MoB_Schwarzkopf.jpg"
+data-variant="WIDE"
+data-src-template="https://www.jutarnji.hr/incoming/pr_mob_schwarzkopfjpg/7327032/BINARY/thumbnail/PR_MoB_Schwarzkopf.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</section>
+</section>
 </div>
 </div>
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
-<section class="lead_image ">
-<section class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/kultjpg/7282915" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/kultjpg/7282915/ALTERNATES/LANDSCAPE_380/kult.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/kultjpg/7282915/BINARY/thumbnail/kult.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Facebook / Profimedia, TEMP Rex Features
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Sara Bronfman, Rishard Branson i Allison Mack</h4>
-</div>
-</div>
-</section>
-</section>
 <div class=" ">
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p> </p>
+<p><em><strong>Hair Stylist Masterclass</strong></em><strong> u organizaciji Ministry of Beauty - vodeæe <em>beauty</em> obrazovne ustanove u Hrvatskoj – pruža moguænost usavršavanja znanja i vještina za sve profesionalne ili amaterske artiste i stiliste kako bi njihova usluga bila potpuna, znalaèka i savršena.</strong></p>
 </p>
 </section>
-<section>
-<div id="jl-inarticle-wrapper-1" class="jl-inarticle">
-<div id="div-gpt-ad-1459756830165-7">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-7"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-7");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7282933"
+<div id="content-body-6263871-7317342"
 >
-<p>Èlanovi zloglasnog seksualnog kulta Nxivm navodno su održali najmanje dva luda tuluma na Neckeru, privatnom otoku milijardera <strong>Richarda Bransona</strong> koji iznajmljuje za paprenu cijenu. Kako piše britanski <strong><a href="https://www.thesun.co.uk/news/6117529/nxivm-held-parties-on-richard-branson-island-claims/" target="_blank">Sun</a></strong>, nekoliko je èlanova posjetilo otok 2007. i 2010., ukljuèujuæi suosnivaèicu <strong>Nancy Salzman</strong> i slavnu glumicu, navodno ‘drugu osobu’ kulta, <strong>Allison Mack</strong>.</p><p><strong>Frank Parlato</strong>, novinar koji je razotkrio èlanove sekte kao zloèince koji su prisiljavali osobe na seks i prisilni rad, ali i osoba koja je jedno vrijeme bila zadužena za Nxivmove odnose s javnošæu, rekao je za britanski list: ‘Rekli su mi da seminare, a zapravo tulume na Neckeru organiziraju kako bi regrutirali Bransona. On bi im bio najveæi ulov kojeg su ikad imali.’</p><p>Jedan od tih boravaka navodno je financirala <strong>Sara Bronfman</strong>, èlanica kulta i nasljednica bogatstva poduzetnika pokojnog <strong>Edgara Bronfmana</strong>, koji je poznavao Bransona. Sarina sestra <strong>Clare</strong> takoðer je sljedbenica Nxivma, a otkako su voða kulta <strong>Keith Raniere</strong> i glumica Allison Mack završili u pritvoru s teškim optužbama držanja robinja, izgladnjivanja i muèenja žena za seksualne prohtjeve ‘Voðe’, Clare je preuzela glavnu rijeè u kultu.</p><p>
+<p><em><strong>Hair Stylist Masterclass</strong></em><strong> održat æe se pod vodstvom vrhunskih profesionalaca s bogatim meðunarodnim iskustvom, uz koje æe polaznici usvojiti potrebne tehnike, vještine i znanja o stiliziranju kose tijekom zahtjevnih modnih epoha do aktualnih modnih stilova. Masterclass se provodi uz ekskluzivnu podršku i suradnju Schwarzkopf Professional ASK akademije i proizvoda.</strong></p><p><strong>
 <section>
 <article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/bronfmanjpg/7282894" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/shutterstock_631798205jpg/7327002" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/bronfmanjpg/7282894/ALTERNATES/FREE_380/Bronfman.JPG"
+<img src="https://www.jutarnji.hr/incoming/shutterstock_631798205jpg/7327002/ALTERNATES/FREE_380/shutterstock_631798205.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/bronfmanjpg/7282894/BINARY/thumbnail/Bronfman.JPG"
+data-src-template="https://www.jutarnji.hr/incoming/shutterstock_631798205jpg/7327002/BINARY/thumbnail/shutterstock_631798205.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1335,28 +627,25 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Instagram
+<span> promo
 </span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Sestre Clare i Sara Bronfman</h4>
 </div>
 </div>
 </div>
 </article>
 </section>
- </p><p><strong><a href="https://www.thesun.co.uk/news/6117529/nxivm-held-parties-on-richard-branson-island-claims/" target="_blank">The Sun</a></strong> je došao u posjed fotografija na kojima su Branson, Sara i Mack. Parlato tvrdi da je Nancy Salzman doista preko dana održavala radionice, no veæ bi u rano poslijepodne poèeli s partijanjem.</p><p>Branson je rekao da ne zna ništa o seminarima na njegovom otoku, da nikad nije èuo za Ranierea te da ga nikad nije upoznao.</p><p>Mediji nagaðaju da Raniereu neæe biti ponuðena nikakva nagodba, posebno stoga što mu nije odobrena ni jamèevina da se brani sa slobode jer je imao seksualne odnose s dvije maloljetnice, 12 i 15 godina.</p><p>
+ </strong></p><p>Make up Uèilište <em>Ministry of Beauty</em>, uz ekskluzivnu podršku i suradnju Schwarzkopf Professional ASK akademije, najavljuje premijerni <em>Hair Stylist Masterclass</em> koji æe se održati od 4. do 30. lipnja 2018. u Zagrebu, tijekom kojeg æe polaznici steæi iscrpno znanje stiliziranja kose.</p><p>Ovaj èetverotjedni <em>Masterclass</em> osmišljen je kako bi proširio paletu usluga osobama u industriji  – profesionalcima, kao i amaterima: make-up artistima, stilistima i frizerima. <em>Hair styling</em> postaje neophodna vještina i zvanje gotovo svakog make-up artista, stilista i frizera koji stvara svoje ime u  modnoj i filmskoj industriji. Teèaj daje sveobuhvatno znanje te svladavanje tehnika i vještina iz modnih i stilskih epoha (18.-20. st.) do prepoznavanja i svladavanja suvremenih stilova i trendova, te potreba i zahtjeva svih segmenata industrije (modne, filmske i fotografske; kazališta, te evenata i vjenèanja). Iskusni edukatori polaznicima æe nizom intenzivnih predavanja i vježbi prenijeti iznimno iskustvo stiliziranja kose – trenda za kojim potreba u svijetu vrtoglavo raste. Uz make-up artiste i modne stiliste, ovaj <em>Masterclass </em>je apsolutni imperativ i za frizere koji svoju vještinu žele nadograditi u tehnikama i aplikaciji stilskog oblikovanja kose i umjetne brade (<em>facial hair</em>).</p><p>
 <section>
 <article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/keith-ranierejpg/7179618" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/emma_t3_salon_01_108jpg/7327005" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/keith-ranierejpg/7179618/ALTERNATES/FREE_380/Keith%20Raniere.jpg"
+<img src="https://www.jutarnji.hr/incoming/emma_t3_salon_01_108jpg/7327005/ALTERNATES/FREE_380/EMMA_T3_SALON_01_108.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/keith-ranierejpg/7179618/BINARY/thumbnail/Keith%20Raniere.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/emma_t3_salon_01_108jpg/7327005/BINARY/thumbnail/EMMA_T3_SALON_01_108.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1365,7 +654,7 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Print screen / Youtube
+<span> promo
 </span>
 </div>
 </div>
@@ -1373,43 +662,12 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </p><p>Optužnica protiv njega i glumice poznate po ulozi u TV seriji ‘Smallville’ podignuta je u veljaèi nakon što je FBI prikupio dokaze. Njihov agent <strong>Michael Lever</strong> obavio je niz razgovora s bivšim pripadnicama kulta koje su potvrdile da je Raniere došao na ideju za seksualno roblje u ljeto 2015. Navodno mu je prva žrtva bila upravo Allison Mack koju je zlostavljao do granice kad mu je postala bezrezervno odana. FBI je u posjedu emailova iz kojih je jasno da je Raniere udaljio Mack od roditelja jer æe joj ‘uništititi karakter’. Jedan sadrži ugovor prema kojem se Mack odrièe skrbništva nad djecom, ako ih rodi, u korist Ranierea, a u drugom je ugovor o prebacivanju nekretnine na Ranierea ako odluèi otiæi.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0220294937jpg/7282900" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0220294937jpg/7282900/ALTERNATES/FREE_380/profimedia-0220294937.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0220294937jpg/7282900/BINARY/thumbnail/profimedia-0220294937.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Allison Mack
-THE CW UPFRONT, NEW YORK, AMERICA - 18 MAY 2006, Image: 220294937, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, TEMP Rex Features"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, TEMP Rex Features
-</span>
+ </p><p>Edukacija se odvija tijekom 100 nastavnih sati pod vodstvom vrhunskih struènjaka - Irene Ružiæ, Lidije Štokiæ i Silve Stojanoviæ s neprocjenjivim iskustvom usavršavanim na prestižnim meðunarodnim akademijama u Milanu, Parizu i Londonu, a ujedno æe polaznici moæi raditi s vrhunskom paletom Schwarzkopf Professional proizvoda.</p><p>Za sve dodatne informacije obratite se putem <em>Ministry of Beauty</em> društvenih mreža ili mailom na <a href="/cdn-cgi/l/email-protection#90e3f9fce6f1d0fdf9fef9e3e4e2e9fff6f2f5f1e5e4e9bef5e5" target="_blank"><span class="__cf_email__" data-cfemail="5023393c2631103d393e39232422293f363235312524297e3525">[email&#160;protected]</span></a> Upisi su u tijeku, a broj polaznika je ogranièen.</p>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Allison Mack</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Nijedan od tih navoda u emailovima još nije dokazan.</p><p>Mack je navodno bila glavna u pridobivanju novih èlanica, a u tome joj je nesumnjivo pomogla veæ steèena slava. Prijeti joj doživotni zatvor.</p><p>Nxivm još ima veliku bazu u Albanyju, u državi New York, no veæina èlanova, posebno poznatih imena, napustilo je kult ranije ove godine.</p>
-</div>
-<script type="text/javascript" language="javascript">
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7282933 p").filter(function () {
+$("#content-body-6263871-7317342 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1418,16 +676,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7282933").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7317342").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7282933").children().slice(max).remove();
+$("#content-body-6263871-7317342").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7282933").children().get(0);
+var firstChild = $("#content-body-6263871-7317342").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1438,63 +696,7 @@ $(firstChild).before("<span>" + datelineStr + "</span>");
 });
 </script>
 </section>
-<section>
-<div id="inArticleBanner">
-<div id="jl-inarticle-wrapper-2" class="jl-inarticle-wrapper">
-<div id="jl-inarticle-2" class="jl-inarticle">
-<!-- /11425286/jl_cla_ia_2 -->
-<div id='div-gpt-ad-1459756830165-8'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459756830165-8'); });
-</script>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript">
-$(function() {
-if ($("[id^='content-body-'] > p").length < 3) {
-$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
-} else {
-$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 - 1));
-}
-});
-</script>
-</section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/Keith_Raniere" class ="label label-default" >
-Keith Raniere
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/richard_branson" class ="label label-default" >
-richard branson
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Allison_Mack" class ="label label-default" >
-Allison Mack
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Nxvim" class ="label label-default" >
-Nxvim
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/kult" class ="label label-default" >
-kult
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/%C5%BEivotne_pri%C4%8De" class ="label label-default" >
-Životne prièe
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1502,36 +704,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="svijet media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/prijeti-joj-dozivotan-zatvor-poznata-glumica-bila-je-clanica-opasne-sekte-i-sudjelovala-u-stravicnim-zlocinima/7272972/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/prijeti-joj-dozivotan-zatvor-poznata-glumica-bila-je-clanica-opasne-sekte-i-sudjelovala-u-stravicnim-zlocinima/7272972/">
-PRIJETI JOJ DOŽIVOTAN ZATVOR Poznata glumica bila je èlanica opasne sekte i sudjelovala u straviènim zloèinima
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="svijet media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/video-samozvani-guru-zatocio-zene-i-silio-ih-na-seks-na-zdjelice-bi-im-tetovirao-svoje-inicijale-a-tjerao-ih-je-i-na-dijetu-jer-je-volio-mrsavice/7179600/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/video-samozvani-guru-zatocio-zene-i-silio-ih-na-seks-na-zdjelice-bi-im-tetovirao-svoje-inicijale-a-tjerao-ih-je-i-na-dijetu-jer-je-volio-mrsavice/7179600/">
-VIDEO: SAMOZVANI GURU ZATOÈIO ŽENE I SILIO IH NA SEKS Na zdjelice bi im tetovirao svoje inicijale, a tjerao ih je i na dijetu jer je volio mršavice
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1539,424 +711,11 @@ VIDEO: SAMOZVANI GURU ZATOÈIO ŽENE I SILIO IH NA SEKS Na zdjelice bi im tetovira
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
-<div class="row upscore-magicflow displaynone-upscore-hack " >
-<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
-<section class="upscore_promo1_4 ">
-<div class="row">
-<div class="col-xs-12" data-widget-position="0">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="1">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="2">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="3">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-</div>
-</section>
-</div>
-<div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
-<div id="div-gpt-ad-1459756830165-0">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-0"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-0");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div class="row titleRow">
-<div class="col-sm-12">
-<h3 class="section_title_alt izdvojeno_alt"><div><span>Izdvajamo</span></div></h3>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div id="midasWidget__302"></div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div id="midasWidget__301"></div>
-</div>
-</div>
-<div class="row jl-scroll-container " >
-<div class="col-sm-8 " >
-<div class="row " >
-<div class="col-sm-12 ">
-<div id="midas" class="center-block" style="width:100%; max-width:600px;">
-<div id="midasWidget__72"></div>
-<script async src="https://cdn.midas-network.com/Widget/IndexAsync/1?portalWidgetId=72&portalWidgetId=301&portalWidgetId=302" type="text/javascript"></script>
-</div>
-</div>
-<section>
-<div id="jl-inarticle-wrapper-3" class="jl-inarticle">
-<div id="div-gpt-ad-1459756830165-9">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-9"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-9");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</section>
-</div>
-<div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7282933" data-colorscheme="light" data-numposts="5"></div>
-</div>
-</div>
-<div class="col-sm-4 jl-banner-column" >
-<div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
-<div id="div-gpt-ad-1459756830165-1">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-1"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0.00;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-1");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-<div class="jl-sticky-banner" style="margin-bottom:20px;">
-<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
-<script type="text/javascript">
-Criteo.events.push(function() {
-Criteo.DisplayAcceptableAdIfAdblocked({
-"zoneid": 1197956,
-"containerid": "crt-47675ba0",
-"overrideZoneFloor": false
-});
-});
-</script>
-</div>
-</div>
-</div>
-<div class="row hidden-xs " >
-<div class="col-sm-12 ">
-<div class="emp_block article_most_read sidebar ">
-<h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
-<div class="row">
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
-<section>
-<article class="zivotne-price media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-MUTACIJA GENA </a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
-<section>
-<article class="zivotne-price media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-NE SRAME SE
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE' Tinejdžerica majci predstavila novog deèka, oca troje djece
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
-<section>
-<article class="zivotne-price media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-DVOSTRUKA SREÆA </a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
-<section>
-<article class="zivotne-price media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-SANDA PANDŽA
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-FILMSKI USPJEH Hrvatica od konobarice bez radne dozvole u Italiji dogurala do zvjezdanog biznisa: Organizirala sam svadbu Toma Cruisea i P. Ecclestone
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-4 openInNewTab" >
-<section>
-<article class="banner-testing-page media none">
-<div class="teaser "
-data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="http://www.gloria.hr/">
-<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
-<article class="fokus-zvjezdane-staze media c3 none">
-<div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-</a>
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
-</a>
-</h4>
-</div>
-</div>
-</article>
-</div>
-<div class="col-sm-4 openInNewTab" >
-<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
-</div>
-<div class="col-sm-4 openInNewTab" >
-<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
 </div>
 </div>
 <div class="row dfp-no-padding " >
 <div class="col-sm-12 ">
 <section>
-<div id="jl-billboard-bot-wrapper" class="jl-billboard-bot">
-<div id="div-gpt-ad-1462358187814-0">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1462358187814-0"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1462358187814-0");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
 </section>
 </div>
 </div>
@@ -2008,6 +767,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2088,7 +852,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -2297,181 +1061,26 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
 </div>
 </div>
 </footer>
-<script>
-function fbCommentGA() {
-FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'Facebook Comment', 'Posted', window.location.href, 1);
-});
-}
-window.onload = fbCommentGA;
-</script>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
 <script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
-<div id="jl-floater-wrapper" class="jl-floater-wrapper">
-<div id="jl-float" class="jl-floater">
-<!-- /11425286/jl_floater -->
-<div id='div-gpt-ad-1459756830165-6'>
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-6"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-6'); });
-}
-</script>
-</div>
-</div>
-</div>
-<div id="jl-wallpaper-wrapper" class="jl-wallpaper-wrapper">
-<div id="jl-wallpaper" class="jl-wallpaper">
-<!-- /11425286/jl_wp -->
-<div id='div-gpt-ad-1459756830165-10'>
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-10"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-10'); });
-}
-</script>
-</div> </div>
-</div>
-<div class="hidden-xs ">
-<div id="side-article-widget" class="side-article-widget" style="display: none;">
-<div class="clearfix">
-<div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
-<div class="side-article clearfix">
-<div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
-</div>
-<div class="pull-right side-article-text-wrapper">
-<div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
-<hr class="side-article-hr" />
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="pull-right side-control-column">
-<div class="side-control">
-<a href="#" class="side-button" data-status="open">&#9658;</a>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript">
-$(document).ready(function () {
-$('#side-article-widget a.side-button').click(function (event) {
-event.preventDefault();
-var status = $(this).attr('data-status');
-if (status === 'open') {
-$('.side-article-column').fadeOut('fast');
-$(this).attr('data-status', 'close');
-$(this).html('&#9664;');
-} else {
-$('.side-article-column').fadeIn('fast');
-$(this).attr('data-status', 'open');
-$(this).html('&#9658;');
-}
-});
-$(window).scroll(function (event) {
-var turnOnHeight = 1500;
-var scrolled = $(window).scrollTop();
-if (scrolled > turnOnHeight) {
-$('#side-article-widget').fadeIn('fast');
-} else {
-$('#side-article-widget').fadeOut('fast');
-}
-});
-});
-</script>
-</div>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7282933&type=article&title=ZLOGLASNI+SEKS+KULT+IMAO+JE+LUDE+PARTIJE+NA+PRIVATNOM+OTOKU+MILIJARDERA+Richard+Branson+tvrdi+da+ne+zna+ni%c5%a1ta+o+tome%2c+%c4%8dlanovi%3a+%26%23039%3bHtjeli+smo+ga+za+sebe%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fzloglasni-seks-kult-imao-je-lude-partije-na-privatnom-otoku-milijardera-richard-branson-tvrdi-da-ne-zna-nista-o-tome-clanovi-htjeli-smo-ga-za-sebe%2f7282933%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=302&contextPath=1-302-&pubId=1&cat=&meta=read-promoStory&objId=7317342&type=article&title=HAIR+STYLIST+MASTERCLASS+USAVR%c5%a0AVANJE+VJE%c5%a0TINA+ZA+ARTISTE%2c+STILISTE+i+FRIZERE%0aU+MODNOJ+I+FILMSKOJ+INDUSTRIJI&url=https%3a%2f%2fwww.jutarnji.hr%2fPromo%2fhair-stylist-masterclass-usavrsavanje-vjestina-za-artiste-stiliste-i-frizere-u-modnoj-i-filmskoj-industriji%2f7317342%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7282933&amp;type=article&amp;title=ZLOGLASNI+SEKS+KULT+IMAO+JE+LUDE+PARTIJE+NA+PRIVATNOM+OTOKU+MILIJARDERA+Richard+Branson+tvrdi+da+ne+zna+ni%c5%a1ta+o+tome%2c+%c4%8dlanovi%3a+%26%23039%3bHtjeli+smo+ga+za+sebe%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fzloglasni-seks-kult-imao-je-lude-partije-na-privatnom-otoku-milijardera-richard-branson-tvrdi-da-ne-zna-nista-o-tome-clanovi-htjeli-smo-ga-za-sebe%2f7282933%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=980436424&title=%c5%bdivotne+pri%c4%8de&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BEivotne_pri%25C4%258De&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=980436424&amp;title=%c5%bdivotne+pri%c4%8de&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BEivotne_pri%25C4%258De&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=1896108248&title=kult&url=tag%3ajltags%40eph.hr%2c2016%3akult&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1896108248&amp;title=kult&amp;url=tag%3ajltags%40eph.hr%2c2016%3akult&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=1813461344&title=Nxvim&url=tag%3ajltags%40eph.hr%2c2016%3aNxvim&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1813461344&amp;title=Nxvim&amp;url=tag%3ajltags%40eph.hr%2c2016%3aNxvim&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=190116887&title=Allison+Mack&url=tag%3ajltags%40eph.hr%2c2016%3aAllison_Mack&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=190116887&amp;title=Allison+Mack&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAllison_Mack&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=211246563&title=richard+branson&url=tag%3ajltags%40eph.hr%2c2016%3arichard_branson&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=211246563&amp;title=richard+branson&amp;url=tag%3ajltags%40eph.hr%2c2016%3arichard_branson&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=2146662110&title=Keith+Raniere&url=tag%3ajltags%40eph.hr%2c2016%3aKeith_Raniere&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2146662110&amp;title=Keith+Raniere&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKeith_Raniere&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=302&amp;contextPath=1-302-&amp;pubId=1&amp;cat=&amp;meta=read-promoStory&amp;objId=7317342&amp;type=article&amp;title=HAIR+STYLIST+MASTERCLASS+USAVR%c5%a0AVANJE+VJE%c5%a0TINA+ZA+ARTISTE%2c+STILISTE+i+FRIZERE%0aU+MODNOJ+I+FILMSKOJ+INDUSTRIJI&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fPromo%2fhair-stylist-masterclass-usavrsavanje-vjestina-za-artiste-stiliste-i-frizere-u-modnoj-i-filmskoj-industriji%2f7317342%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2524,7 +1133,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/zloglasni-seks-kult-imao-je-lude-partije-na-privatnom-otoku-milijardera-richard-branson-tvrdi-da-ne-zna-nista-o-tome-clanovi-htjeli-smo-ga-za-sebe/7282933/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/Promo/hair-stylist-masterclass-usavrsavanje-vjestina-za-artiste-stiliste-i-frizere-u-modnoj-i-filmskoj-industriji/7317342/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2534,14 +1143,15 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zivotne-price/zloglasni-seks-kult-imao-je-lude-partije-na-privatnom-otoku-milijardera-richard-branson-tvrdi-da-ne-zna-nista-o-tome-clanovi-htjeli-smo-ga-za-sebe/7282933/",
-postId : "7282933",
+url : "https://www.jutarnji.hr/Promo/hair-stylist-masterclass-usavrsavanje-vjestina-za-artiste-stiliste-i-frizere-u-modnoj-i-filmskoj-industriji/7317342/",
+postId : "7317342",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "ZLOGLASNI SEKS KULT IMAO JE LUDE PARTIJE NA PRIVATNOM OTOKU MILIJARDERA Richard Branson tvrdi da ne zna ništa o tome, èlanovi: 'Htjeli smo ga za sebe'",
-pubdate : "2018-04-24 22:20",
-authors : "Ana Soriæ",
-sections : "Front Page, Life, Životne prièe",
-tags : "Životne prièe, kult, Nxvim, Allison Mack, richard branson, Keith Raniere",
+title : "HAIR STYLIST MASTERCLASS USAVRŠAVANJE VJEŠTINA ZA ARTISTE, STILISTE i FRIZERE
+U MODNOJ I FILMSKOJ INDUSTRIJI",
+pubdate : "2018-05-04 12:22",
+authors : "Promo",
+sections : "Life, Promo",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

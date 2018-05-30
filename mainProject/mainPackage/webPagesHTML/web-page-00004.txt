@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Vojvotkinja Kate, poroðaj" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Neposredno nakon što je amerièki predsjednik Donald Trump u obraæanju naciji iz Bijele kuæe objavio da se Amerika povlaèi iz nuklearnog sporazuma s Iranom, Izrael je proglasio uzbunu zbog moguæeg iranskog napada, a istovremeno su amerièki dužnosnici CNN-u rekli da strahuju da bi Iran doista mogao biti na rubu pokretanja napada na Izrael." />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>RAÐALA PET SATI, A ONDA SE ISTI DAN POJAVILA PRED NACIJOM ELEGANTNA I DOTJERANA U èemu je tajna? Struènjaci: Stvar je u posebnoj metodi poroðaja! - Jutarnji List</title>
+<title>IZRAEL NAPAO SIRIJU: DAMASKOM ODJEKUJU EKSPLOZIJE Ni dva sata nakon Trumpova obraæanja naciji poèeo udar na kljuènog saveznika Irana - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "SE";
+var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Strane zvijezde";
-var dfpCategoryParent = "Spektakli";
-var dfpRos = "spektakli-ros";
-var dfpArticle = "7285066";
-var dfpArticleKeyword = "Vojvotkinja Kate";
+var dfpCategory = "Svijet";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7334649";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,8 +573,6 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
-<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
-<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -640,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/radala-pet-sati-a-onda-se-isti-dan-pojavila-pred-nacijom-elegantna-i-dotjerana-u-cemu-je-tajna-strucnjaci-stvar-je-u-posebnoj-metodi-porodaja/7285066/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/radala-pet-sati-a-onda-se-isti-dan-pojavila-pred-nacijom-elegantna-i-dotjerana-u-cemu-je-tajna-strucnjaci-stvar-je-u-posebnoj-metodi-porodaja/7285066/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/izrael-napao-siriju-damaskom-odjekuju-eksplozije-ni-dva-sata-nakon-trumpova-obracanja-naciji-poceo-udar-na-kljucnog-saveznika-irana/7334649/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/izrael-napao-siriju-damaskom-odjekuju-eksplozije-ni-dva-sata-nakon-trumpova-obracanja-naciji-poceo-udar-na-kljucnog-saveznika-irana/7334649/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -654,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/profimedia-0369496796jpg/7285039/ALTERNATES/LANDSCAPE_1180/profimedia-0369496796.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/profimedia-0368487683jpg/7334646/ALTERNATES/LANDSCAPE_1180/profimedia-0368487683.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/profimedia-0369496796jpg/7285039/ALTERNATES/LANDSCAPE_1180/profimedia-0369496796.jpg">
-<meta property="og:title" content="RAÐALA PET SATI, A ONDA SE ISTI DAN POJAVILA PRED NACIJOM ELEGANTNA I DOTJERANA U èemu je tajna? Struènjaci: Stvar je u posebnoj metodi poroðaja!" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/profimedia-0368487683jpg/7334646/ALTERNATES/LANDSCAPE_1180/profimedia-0368487683.jpg">
+<meta property="og:title" content="IZRAEL NAPAO SIRIJU: DAMASKOM ODJEKUJU EKSPLOZIJE Ni dva sata nakon Trumpova obraæanja naciji poèeo udar na kljuènog saveznika Irana" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/spektakli/strane-zvijezde/radala-pet-sati-a-onda-se-isti-dan-pojavila-pred-nacijom-elegantna-i-dotjerana-u-cemu-je-tajna-strucnjaci-stvar-je-u-posebnoj-metodi-porodaja/7285066/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/izrael-napao-siriju-damaskom-odjekuju-eksplozije-ni-dva-sata-nakon-trumpova-obracanja-naciji-poceo-udar-na-kljucnog-saveznika-irana/7334649/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Neposredno nakon što je amerièki predsjednik Donald Trump u obraæanju naciji iz Bijele kuæe objavio da se Amerika povlaèi iz nuklearnog sporazuma s Iranom, Izrael je proglasio uzbunu zbog moguæeg iranskog napada, a istovremeno su amerièki dužnosnici CNN-u rekli da strahuju da bi Iran doista mogao biti na rubu pokretanja napada na Izrael." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Petra Pliveliæ">
-<meta name="twitter:title" content="RAÐALA PET SATI, A ONDA SE ISTI DAN POJAVILA PRED NACIJOM ELEGANTNA I DOTJERANA U èemu je tajna? Struènjaci: Stvar je u posebnoj metodi poroðaja!">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content=" Hina">
+<meta name="twitter:title" content="IZRAEL NAPAO SIRIJU: DAMASKOM ODJEKUJU EKSPLOZIJE Ni dva sata nakon Trumpova obraæanja naciji poèeo udar na kljuènog saveznika Irana">
+<meta name="twitter:description" content="Neposredno nakon što je amerièki predsjednik Donald Trump u obraæanju naciji iz Bijele kuæe objavio da se Amerika povlaèi iz nuklearnog sporazuma s Iranom, Izrael je proglasio uzbunu zbog moguæeg iranskog napada, a istovremeno su amerièki dužnosnici CNN-u rekli da strahuju da bi Iran doista mogao biti na rubu pokretanja napada na Izrael.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -679,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -691,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Strane zvijezde, Spektakli, Front Page",
-pubdate: "2018-04-25T15:26+02:00",
-author: "Petra Pliveliæ",
+data: { section: "Svijet, Vijesti, Front Page",
+pubdate: "2018-05-08T22:23+02:00",
+author: "Dalibor Miljuš",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="spektakli story">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -795,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -820,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -865,7 +863,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -888,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1051,7 +1054,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -1134,39 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a>
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">Strane zvijezde </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
-Domaæe zvijezde
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
-Strane zvijezde
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/reality/">
-Reality
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/ups/">
-Ups!
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
-Na kavi sa...
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
-Zlatni Studio
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1206,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ENGLESKA JOJ SE DIVI
+BOMBARDIRANJE
 </p>
 <h1
 class="title">
-RAÐALA PET SATI, A ONDA SE ISTI DAN POJAVILA PRED NACIJOM ELEGANTNA I DOTJERANA U èemu je tajna? Struènjaci: Stvar je u posebnoj metodi poroðaja!
+IZRAEL NAPAO SIRIJU: DAMASKOM ODJEKUJU EKSPLOZIJE Ni dva sata nakon Trumpova obraæanja naciji poèeo udar na kljuènog saveznika Irana
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1218,7 +1226,8 @@ RAÐALA PET SATI, A ONDA SE ISTI DAN POJAVILA PRED NACIJOM ELEGANTNA I DOTJERANA 
 <p
 class="authors">
 <ul>
-<li>Petra Pliveliæ</li>
+<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a>,</li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1226,7 +1235,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 15:26
+08.05.2018. u 22:23
 </p>
 </li>
 </ul>
@@ -1238,33 +1247,32 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0369496796jpg/7285039" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/profimedia-0368487683jpg/7334646" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369496796jpg/7285039/ALTERNATES/LANDSCAPE_380/profimedia-0369496796.jpg"
+<img src="https://www.jutarnji.hr/incoming/profimedia-0368487683jpg/7334646/ALTERNATES/LANDSCAPE_380/profimedia-0368487683.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369496796jpg/7285039/BINARY/thumbnail/profimedia-0369496796.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/profimedia-0368487683jpg/7334646/BINARY/thumbnail/profimedia-0368487683.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="(180423) -- LONDON, April 23, 2018 -- Prince William (L), Duke of Cambridge, and his wife Catherine, Duchess of Cambridge, present their newborn son outside St. Mary's Hospital in London, Britain, on April 23, 2018. Catherine on Monday gave birth to a boy, her third child, who is the fifth in line to the British throne., Image: 369496796, License: Rights-managed, Restrictions: WORLDWIDE RIGHTS AVAILABLE EXCLUDING CHINA, HONG KONG ONLY. End users shall not licence, sell, transmit, or otherwise distribute any photographs represented by eyevine, to any third party. Contact eyevine for more information: Tel: +44 (0) 20 8709 8709 Ema, Model Release: no, Credit line: Profimedia, Eyevine"
+alt="April 14, 2018 - Damascus, Syria - Surface-to-air missiles are seen over Syria's capital Damascus as the Syrian air defenses were responding to U.S. attacks. The U.S. started military actions against Damascus before daybreak Saturday as loud explosions were heard with ''red dots'' seen flying from earth to the sky., Image: 368487683, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Zuma Press - News"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Profimedia, Eyevine
+<span> Profimedia, Zuma Press - News
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>djelovanje sirijske protuzraène obrane u Damasku tijekom amerièkih napada projektilima 14. travnja</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1288,51 +1296,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285066"
+<div id="content-body-6263871-7334649"
 >
-<p>Samo sedam sati nakon poroda vojvotkinja Kate pojavila se na stepenicama ispred luksuznog privatnog krila Lindo londonske bolnice St. Mary, elegantna i dotjerana baš kao i nakon prva dva poroda. </p><p>Kao da to jutro nije imala trudove i raðala, ni traga nateèenim prstima ili stopalima, Kate je s novoroðenim sinom u naruèju u pratnji supruga, princa Williama, stala pred mnoštvo okupljenih fotoreportera i novinara kako bi svijetu predstavila petog po redu nasljednika britanske krune. Osim nagaðanja i klaðenja oko imena novog princa, sljedeæeg su dana svi imali samo jedno pitanje - kako joj to uspijeva?</p><p>bez olakšavanja boli Katein treæi poroðaj trajao je pet sati i prošao je bez komplikacija, ali i bez olakšavanja boli. Naime, vojvotkinja nije htjela niti epiduralnu anesteziju niti nikakve analgetike. Za mnoge majke sjeæanje na poroðaj nije baš ugodno. Traumatièni bolovi, molbe za epiduralnu, dugotrajni trudovi koji potraju i do 40 sati, a ponekad i hitan carski rez sasvim su uobièajeni scenarij poroðaja, no ne i za Kate, koja se veæ treæi put dokazala kao udžbenièki primjer savršene rodilje.</p><p>Izvori bliski dvoru kažu da je Kateina tajna “hipnoporod”, odnosno prirodna metoda poroðaja koja ukljuèuje opuštanje i tehnike disanja za upravljanje bolovima i “vizualizaciju” djetetova dolaska. Ta joj je praksa pomogla da princa Georgea rodi deset i pol sati nakon što je primljena u bolnicu 2013. godine, a dvije godine kasnije princezu Charlotte rodila je nakon samo dva sata i 34 minute. Hipnoporod metoda datira iz tridesetih godina prošlog stoljeæa i ukorijenila se u britansku praksu porodništva, a lijeènici su je prakticirali s ciljem da majka mirno podnosi trudove i poroðaj, bez prepuštanja agoniji i bolovima. </p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0369451805jpg/7285054" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369451805jpg/7285054/ALTERNATES/FREE_380/profimedia-0369451805.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369451805jpg/7285054/BINARY/thumbnail/profimedia-0369451805.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="BGUK_1213444 - London, UNITED KINGDOM - The Duke and Duchess of Cambridge are seen leaving the Lindo Wing where Catherine Duchess of Cambridge gave birth to their third child earlier today at St Mary's Hospital in London, UK.
-Pictured: Duke and Duchess of Cambridge with the new royal baby
-*UK Clients - Pictures Containing Children
-Please Pixelate Face Prior To Publication*, Image: 369451805, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Xposurephotos"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, Xposurephotos
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Opuštanjem i prilagoðenim disanjem potièe se oslobaðanje hormona oksitocina koji stimulira maternicu i potièe kontrakcije te endorfina koji utjeèe na bol. Ista metoda navodno je pomogla mnogim slavnim majkama, meðu kojima su Angelina Jolie i Gisele Bündchen, a upravo je ona temelj koji dovodi do brzog poroðaja, kraæeg bolnièkog boravka i smanjene anksioznosti nakon dolaska bebe na svijet.</p><p>duge pripreme Meðutim, osim metode hipnoporoda, Kate se dobro pripremila za poroðaj u posljednjih mjesec dana, nakon što je 22. ožujka dobila izuzeæe sa svih službenih dužnosti. Izvori bliski kraljevskoj obitelji kažu da je Kate redovito plivala u bazenu Buckinghamske palaèe, kamo vodi Georgea i Charlotte na plivanje, a od relaksacije u vodi nije odustajala èak ni u poodmaklom stupnju trudnoæe. Struènjaci kažu da lagano plivanje trudnicama može pomoæi za opuštanje mišiæa, ublažavanje bolova u donjem dijelu leða te poboljšava cirkulaciju. </p><p>Kate je u prvoj trudnoæi s princom Georgeom navodno pohaðala privatne satove joge za trudnice kako bi se opustila i ojaèala mišiæe oko leða i zdjelice, no sada, uz dvoje male djece, èetverogodišnjeg Georgea i dvogodišnju Charlotte, njezin prenatalni režim vježbanja umjesto joge ukljuèivao je ležerno jutarnje šetanje s Lupom, obiteljskim koker španijelom, oko dvorišta palaèe. </p><p> <div class="e4-sub-article ">
-<section>
-<div>
-<h5>Ginekolog Fistoniæ: 'Brz izlazak iz bolnice nije ništa èudno'</h5><p>U Ujedinjenom Kraljevstvu ova praksa nije nimalo neobièna. Prema Guardianu, majke u bolnici u prosjeku provedu dan i pol nakon poroðaja, što je ujedno i najkraæe razdoblje boravka meðu zemljama s visokim dohotkom. Majke u SAD-u u bolnici provedu prosjeèno dva dana prije odlaska kuæi, dok prema Business insideru majke u Ukrajini najdulje ostaju u bolnici, u prosjeku 6,2 dana. Vojvotkinja Kate nakon roðenja princa Georgea 2013. provela je noæ u bolnici, a nakon roðenja princeze Charlotte 2015. godine bolnicu je napustila nakon 10 sati. <strong>Doc. dr. sc. Ivan Fistoniæ</strong> s Instituta za žensko zdravlje kaže da nema nièeg neobiènog u Kateinu brzom izlasku iz bolnice.</p><p>- Ako je sve u redu s majkom i novoroðenèetom, apsolutno je moguæ tako brz izlazak iz bolnice jer se i kod kuæe majka može lijepo oporaviti. Posebice je to sluèaj ako se majka dobro pripremila za porod i ako ima babicu koja s njom radi jedan na jedan - zakljuèio je Fistoniæ, naglašavajuæi da su brzi izlasci iz bolnice u mnogim državama uobièajena praksa, no kod nas se i dalje preporuèuje dulji boravak u bolnici nakon poroðaja.</p><p>- Zaboravljamo da su žene ranije raðale kod kuæe pa su veæ drugi dan bile na nogama - istièe Fistoniæ, dodajuæi da je prosjek ostanka u bolnici i kod nas u padu, s pet dana na sadašnjih dva do tri dana, odnosno tri do èetiri ako se radi o carskom rezu.</p><p>- Majke i novoroðenèad ne otpušta se iz bolnice ako postoje bilo kakve sumnje na postporoðajne komplikacije. Meðutim, kod majki koje poput vojvotkinje Kate brzo iziðu eventualno se može dogoditi da je ostao komadiæ posteljiènog tkiva pa da prokrvari nakon dva tjedna, ali to je rijetkost - rekao je ginekolog Fistoniæ.</p><p>Još jedan razlog Kateina brzog odlaska iz bolnice leži u velikom zanimanju javnosti i gužvi koja se stvara u blizini bolnice, kao i u èinjenici da su u bolnici ostale majke koje je Kate vjerojatno htjela poštedjeti medijske hajke i stresa, zakljuèuje britanski People. K tome, valja imati na umu da je rijeè o britanskoj kraljevskoj obitelji, koja i kod kuæe, odnosno u palaèi ima omoguæenu najbolju moguæu njegu.</p>
-</div>
-</section>
-</div>
- </p>
+<p>Neposredno nakon što je amerièki predsjednik <strong>Donald Trump</strong> u obraæanju naciji iz Bijele kuæe objavio da se Amerika povlaèi iz nuklearnog sporazuma s Iranom, Izrael je proglasio uzbunu zbog moguæeg iranskog napada, a istovremeno su amerièki dužnosnici CNN-u rekli da strahuju da bi Iran doista mogao biti na rubu pokretanja napada na Izrael.</p><p>Ni dva sata nakon Trumpova obraæanja, iz Sirije je stigla vijest da je u glavnom gradu Damasku oglašena uzbuna, a jedan od zapovjednika sirijske vojske odane predsjedniku Bašaru al-Asadu, rekao je za Reuters da su poèeli izraelski zraèni napadi na južna predgraða Damaska. Sirijska državna novinska agencija SANA istovremeno je izvijestila da u samom Damasku odjekuju eksplozije.</p><p>Sirijski predsjednik al-Asad èvrsti je saveznik Irana, èije mu snage aktivno pomažu u vojnim operacijama protiv raznih protivnika, od ISIS-a i drugih džihadista pa do onih koje vojno potpomažu Amerikanci koji ih vole nazivati 'umjerenom oporbom', a koja je u veæini kljuènih uporišta koje je držala tijekom graðanskog rata slomljena.</p><p>Izraelska je vojska ranije u utorak priopæila da je uoèila 'neredovite aktivnosti iranskih snaga u Siriji' zbog èega je lokalnim vlastima na Golanskoj visoravni nareðeno da 'otkljuèaju i urede skloništa' za zaštitu u sluèaju bombardiranja. </p><p>U izjavi izraelske vojske takoðer se kaže da su postavljeni obrambeni sustavi da su &quot;vojnici IDF-a (Izraelskih obrambenih snaga) u visokoj pripravnosti&quot; za moguæi napad.</p><p>Izraelski mediji su istaknuli da nalog za pripremu skloništa nikada nije izdan tijekom sedam godina graðanskog rata u Siriji, u kojemu je Izrael formalno neutralan, ali je izvodio udare preko granice na sumnjive položaje iranskih snaga koje podržavaju sirijskog èelnika Bašara al-Asada.</p><p>Iran je optužio Izrael za napad 9. travnja u kojem su u sirijskoj zraènoj bazi ubijena devetorica Iranaca i obeæao osvetu.</p><p>Izraelski premijer <strong>Benjamin Netanyahu</strong> kazao je u utorak, uoèi Trumpova obraæanja, da Iran nastoji u Siriji rasporediti &quot;jako opasno oružje&quot; kako bi prijetio Izraelu.</p><p>Iran &quot;otvoreno, svakodnevno, poziva na uništenje, eliminaciju Izraela s lica Zemlje i prakticira neublaženu agresiju protiv nas&quot;, rekao je Netanyahu novinarima u Nikoziji.</p><p>&quot;Sada nastoji rasporediti jako opasno oružje u Siriji... u iskljuèivu cilju našeg uništenja&quot;, dodao je, ne spominjuæi meðunarodni sporazum s Iranom.</p><p>Visoki iranski dužnosnici su u utorak, nekoliko sati prije objave Trumpove odluke, rekli da Iran neæe ostati pasivan i da je spreman je za najgori scenarij.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285066 p").filter(function () {
+$("#content-body-6263871-7334649 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1341,16 +1312,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285066").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7334649").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285066").children().slice(max).remove();
+$("#content-body-6263871-7334649").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285066").children().get(0);
+var firstChild = $("#content-body-6263871-7334649").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1385,19 +1356,6 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/poro%C4%91aj" class ="label label-default" >
-poroðaj
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Vojvotkinja_Kate" class ="label label-default" >
-Vojvotkinja Kate
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1405,21 +1363,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="bizarre media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/viral/bizarre/luksuz-kao-u-hotelu-s-pet-zvjezdica-vojvotkinja-kate-rodila-okruzena-raskosi-vrhunskim-lijecnicima-i-sampanjcem-za-63450-kuna-po-danu/7281072/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/viral/bizarre/luksuz-kao-u-hotelu-s-pet-zvjezdica-vojvotkinja-kate-rodila-okruzena-raskosi-vrhunskim-lijecnicima-i-sampanjcem-za-63450-kuna-po-danu/7281072/">
-LUKSUZ KAO U HOTELU S PET ZVJEZDICA Vojvotkinja Kate rodila okružena raskoši, vrhunskim lijeènicima i šampanjcem. Za 63.450 kuna po danu...
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1435,13 +1378,13 @@ LUKSUZ KAO U HOTELU S PET ZVJEZDICA Vojvotkinja Kate rodila okružena raskoši, vr
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1453,8 +1396,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1466,13 +1409,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1484,8 +1427,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1497,13 +1440,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1515,8 +1458,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1528,17 +1471,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1546,9 +1489,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1630,7 +1572,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285066" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7334649" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1674,19 +1616,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-prevruce-cak-i-za-miami-slavni-dj-na-plazi-nije-htio-skinuti-ni-majicu-ali-zato-je-njegova-prelijepa-supruga-pokazala-i-previse/7281462/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-prevruce-cak-i-za-miami-slavni-dj-na-plazi-nije-htio-skinuti-ni-majicu-ali-zato-je-njegova-prelijepa-supruga-pokazala-i-previse/7281462/">
-KAO OD MAJKE ROÐENA
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+SAMO NEK' SE OKREÆE...
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-prevruce-cak-i-za-miami-slavni-dj-na-plazi-nije-htio-skinuti-ni-majicu-ali-zato-je-njegova-prelijepa-supruga-pokazala-i-previse/7281462/">
-FOTO: PREVRUÆE ÈAK I ZA MIAMI! Slavni DJ na plaži nije htio skinuti ni majicu, ali zato je njegova prelijepa supruga pokazala i previše
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
 </a>
 </h4>
 </div>
@@ -1696,19 +1638,19 @@ FOTO: PREVRUÆE ÈAK I ZA MIAMI! Slavni DJ na plaži nije htio skinuti ni majicu, a
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/potresni-detalji-iz-zivota-prerano-preminulog-dj-a-na-dan-je-zaradivao-250000-dolara-prije-par-mjeseci-otkrio-nastavim-li-nastupati-umrijet-cu/7282339/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/potresni-detalji-iz-zivota-prerano-preminulog-dj-a-na-dan-je-zaradivao-250000-dolara-prije-par-mjeseci-otkrio-nastavim-li-nastupati-umrijet-cu/7282339/">
-AVICII
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+NE CVATU IM RUŽE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/potresni-detalji-iz-zivota-prerano-preminulog-dj-a-na-dan-je-zaradivao-250000-dolara-prije-par-mjeseci-otkrio-nastavim-li-nastupati-umrijet-cu/7282339/">
-POTRESNI DETALJI IZ ŽIVOTA PRERANO PREMINULOG DJ-a Na dan je zaraðivao 250.000 dolara, prije par mjeseci otkrio: 'Nastavim li nastupati, umrijet æu'
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+RAZOTKRIVENA TUŽNA SVAKODNEVNICA PRVE DAME AMERIKE Objavljeni nepoznati detalji iz života Melanije Trump: 'Cijela situacija je neugodna'
 </a>
 </h4>
 </div>
@@ -1718,19 +1660,19 @@ POTRESNI DETALJI IZ ŽIVOTA PRERANO PREMINULOG DJ-a Na dan je zaraðivao 250.000 d
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/zivot-ugledne-arhitektice-u-samo-mjesec-dana-okrenuo-se-naglavacke-zatelebala-se-u-brada-pitta-ali-nije-racunala-sto-ce-joj-nova-ljubav-donijeti/7275996/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/zivot-ugledne-arhitektice-u-samo-mjesec-dana-okrenuo-se-naglavacke-zatelebala-se-u-brada-pitta-ali-nije-racunala-sto-ce-joj-nova-ljubav-donijeti/7275996/">
-NERI OXMAN
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+GLOBALNA NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/zivot-ugledne-arhitektice-u-samo-mjesec-dana-okrenuo-se-naglavacke-zatelebala-se-u-brada-pitta-ali-nije-racunala-sto-ce-joj-nova-ljubav-donijeti/7275996/">
-ŽIVOT UGLEDNE ARHITEKTICE U SAMO MJESEC DANA OKRENUO SE NAGLAVAÈKE 'Zatelebala se u Brada Pitta, ali nije raèunala što æe joj nova ljubav donijeti'
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
 </a>
 </h4>
 </div>
@@ -1740,19 +1682,19 @@ NERI OXMAN
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/">
-INTERVJU ZA JUTARNJI
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+PRIJELOMNI TRENUTAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/">
-EKSKLUZIVNO: IVANA TRUMP ISKRENO I OTVORENO O BIVŠEM MUŽU I PRVOJ DAMI AMERIKE 'S Melanijom sam dobra, ali ne bih joj voljela biti u koži...'
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </a>
 </h4>
 </div>
@@ -1790,19 +1732,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1810,8 +1752,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1875,7 +1817,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1898,6 +1840,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2061,7 +2008,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -2187,11 +2134,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2239,14 +2181,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/scena/sve-sto-vas-je-ikad-zanimalo-o-westworldu-jednoj-od-najboljih-i-najgledanijih-serija-koje-mozete-pratiti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524572048profimedia-0305220521.jpg?v=1524572100" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>STIGLA JE DRUGA SEZONA/Sve što vas je ikad zanimalo o &#039;Westworldu&#039;, jednoj od najboljih i najgledanijih serija koje možete pratiti</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2290,34 +2232,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=53&contextPath=1-51-53-&pubId=1&cat=&meta=read-story&objId=7285066&type=article&title=RA%c4%90ALA+PET+SATI%2c+A+ONDA+SE+ISTI+DAN+POJAVILA+PRED+NACIJOM+ELEGANTNA+I+DOTJERANA+U+%c4%8demu+je+tajna%3f+Stru%c4%8dnjaci%3a+Stvar+je+u+posebnoj+metodi+poro%c4%91aja!&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2fradala-pet-sati-a-onda-se-isti-dan-pojavila-pred-nacijom-elegantna-i-dotjerana-u-cemu-je-tajna-strucnjaci-stvar-je-u-posebnoj-metodi-porodaja%2f7285066%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7334649&type=article&title=IZRAEL+NAPAO+SIRIJU%3a+DAMASKOM+ODJEKUJU+EKSPLOZIJE+Ni+dva+sata+nakon+Trumpova+obra%c4%87anja+naciji+po%c4%8deo+udar+na+klju%c4%8dnog+saveznika+Irana&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fizrael-napao-siriju-damaskom-odjekuju-eksplozije-ni-dva-sata-nakon-trumpova-obracanja-naciji-poceo-udar-na-kljucnog-saveznika-irana%2f7334649%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=53&amp;contextPath=1-51-53-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285066&amp;type=article&amp;title=RA%c4%90ALA+PET+SATI%2c+A+ONDA+SE+ISTI+DAN+POJAVILA+PRED+NACIJOM+ELEGANTNA+I+DOTJERANA+U+%c4%8demu+je+tajna%3f+Stru%c4%8dnjaci%3a+Stvar+je+u+posebnoj+metodi+poro%c4%91aja!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2fradala-pet-sati-a-onda-se-isti-dan-pojavila-pred-nacijom-elegantna-i-dotjerana-u-cemu-je-tajna-strucnjaci-stvar-je-u-posebnoj-metodi-porodaja%2f7285066%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&cat=jltags%40eph.hr%2c2016&objId=1270233487&title=Vojvotkinja+Kate&url=tag%3ajltags%40eph.hr%2c2016%3aVojvotkinja_Kate&rt=1&ctxId=53&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1270233487&amp;title=Vojvotkinja+Kate&amp;url=tag%3ajltags%40eph.hr%2c2016%3aVojvotkinja_Kate&amp;rt=1&amp;ctxId=53&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&cat=jltags%40eph.hr%2c2016&objId=1116838738&title=poro%c4%91aj&url=tag%3ajltags%40eph.hr%2c2016%3aporo%25C4%2591aj&rt=1&ctxId=53&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1116838738&amp;title=poro%c4%91aj&amp;url=tag%3ajltags%40eph.hr%2c2016%3aporo%25C4%2591aj&amp;rt=1&amp;ctxId=53&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7334649&amp;type=article&amp;title=IZRAEL+NAPAO+SIRIJU%3a+DAMASKOM+ODJEKUJU+EKSPLOZIJE+Ni+dva+sata+nakon+Trumpova+obra%c4%87anja+naciji+po%c4%8deo+udar+na+klju%c4%8dnog+saveznika+Irana&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fizrael-napao-siriju-damaskom-odjekuju-eksplozije-ni-dva-sata-nakon-trumpova-obracanja-naciji-poceo-udar-na-kljucnog-saveznika-irana%2f7334649%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2370,7 +2290,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/strane-zvijezde/radala-pet-sati-a-onda-se-isti-dan-pojavila-pred-nacijom-elegantna-i-dotjerana-u-cemu-je-tajna-strucnjaci-stvar-je-u-posebnoj-metodi-porodaja/7285066/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/izrael-napao-siriju-damaskom-odjekuju-eksplozije-ni-dva-sata-nakon-trumpova-obracanja-naciji-poceo-udar-na-kljucnog-saveznika-irana/7334649/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2380,14 +2300,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/spektakli/strane-zvijezde/radala-pet-sati-a-onda-se-isti-dan-pojavila-pred-nacijom-elegantna-i-dotjerana-u-cemu-je-tajna-strucnjaci-stvar-je-u-posebnoj-metodi-porodaja/7285066/",
-postId : "7285066",
+url : "https://www.jutarnji.hr/vijesti/svijet/izrael-napao-siriju-damaskom-odjekuju-eksplozije-ni-dva-sata-nakon-trumpova-obracanja-naciji-poceo-udar-na-kljucnog-saveznika-irana/7334649/",
+postId : "7334649",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "RAÐALA PET SATI, A ONDA SE ISTI DAN POJAVILA PRED NACIJOM ELEGANTNA I DOTJERANA U èemu je tajna? Struènjaci: Stvar je u posebnoj metodi poroðaja!",
-pubdate : "2018-04-25 15:26",
-authors : "Petra Pliveliæ",
-sections : "Front Page, Strane zvijezde",
-tags : "Vojvotkinja Kate, poroðaj",
+title : "IZRAEL NAPAO SIRIJU: DAMASKOM ODJEKUJU EKSPLOZIJE Ni dva sata nakon Trumpova obraæanja naciji poèeo udar na kljuènog saveznika Irana",
+pubdate : "2018-05-08 22:23",
+authors : "Dalibor Miljuš",
+sections : "Front Page, Svijet",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Magnum, Nives Celzijus, Nives Celzius" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Izbor za najboljeg poljoprivrednika, koji u Hrvatskoj organizira europarlamentarka Marijana Petir, ušao je u završnu fazu. Struèni ocjenjivaèki sud odabrao je deset najboljih. Jutarnji list vam je donosio njihove prièe, kako posluju, kako rade i koji su im planovi u buduænosti." />
+<meta name="keywords" content="najbolji poljoprivrednik, Poljoprivreda, Davor Matak" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>VIDEO: SPEKTAKULARNO SNIMANJE NIVES CELZIJUS ZA NOVI MAGNUM Pjevaèica progovorila o detaljima iz privatnog života, pa i o odnosu s bivšim mužem... - Jutarnji List</title>
+<title>ANKETA JUTARNJEG: ODABERITE NAJBOLJEG MLADOG HRVATSKOG POLJOPRIVREDNIKA Pogledajte deset odabranih kandidata i dajte svoj glas vašem favoritu - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Domaæe zvijezde";
-var dfpCategoryParent = "Spektakli";
-var dfpRos = "spektakli-ros";
-var dfpArticle = "7285549";
-var dfpArticleKeyword = "Magnum";
+var dfpCategory = "Hrvatska";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7325874";
+var dfpArticleKeyword = "najbolji poljoprivrednik";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/spektakli/domace-zvijezde/video-spektakularno-snimanje-nives-celzijus-za-novi-magnum-pjevacica-progovorila-o-detaljima-iz-privatnog-zivota-pa-i-o-odnosu-s-bivsim-muzem/7285549/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/domace-zvijezde/video-spektakularno-snimanje-nives-celzijus-za-novi-magnum-pjevacica-progovorila-o-detaljima-iz-privatnog-zivota-pa-i-o-odnosu-s-bivsim-muzem/7285549/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/anketa-jutarnjeg-odaberite-najboljeg-mladog-hrvatskog-poljoprivrednika-pogledajte-deset-odabranih-kandidata-i-dajte-svoj-glas-vasem-favoritu/7325874/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/anketa-jutarnjeg-odaberite-najboljeg-mladog-hrvatskog-poljoprivrednika-pogledajte-deset-odabranih-kandidata-i-dajte-svoj-glas-vasem-favoritu/7325874/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/nives-celzijus/7285444/ALTERNATES/LANDSCAPE_1180/Nives%20Celzijus" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/najboljipoljoprivrednici_naslovnajpg/7326201/ALTERNATES/LANDSCAPE_1180/NAJBOLJIPOLJOPRIVREDNICI_NASLOVNA.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/nives-celzijus/7285444/ALTERNATES/LANDSCAPE_1180/Nives%20Celzijus">
-<meta property="og:title" content="VIDEO: SPEKTAKULARNO SNIMANJE NIVES CELZIJUS ZA NOVI MAGNUM Pjevaèica progovorila o detaljima iz privatnog života, pa i o odnosu s bivšim mužem..." />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/najboljipoljoprivrednici_naslovnajpg/7326201/ALTERNATES/LANDSCAPE_1180/NAJBOLJIPOLJOPRIVREDNICI_NASLOVNA.jpg">
+<meta property="og:title" content="ANKETA JUTARNJEG: ODABERITE NAJBOLJEG MLADOG HRVATSKOG POLJOPRIVREDNIKA Pogledajte deset odabranih kandidata i dajte svoj glas vašem favoritu" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/spektakli/domace-zvijezde/video-spektakularno-snimanje-nives-celzijus-za-novi-magnum-pjevacica-progovorila-o-detaljima-iz-privatnog-zivota-pa-i-o-odnosu-s-bivsim-muzem/7285549/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/anketa-jutarnjeg-odaberite-najboljeg-mladog-hrvatskog-poljoprivrednika-pogledajte-deset-odabranih-kandidata-i-dajte-svoj-glas-vasem-favoritu/7325874/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Izbor za najboljeg poljoprivrednika, koji u Hrvatskoj organizira europarlamentarka Marijana Petir, ušao je u završnu fazu. Struèni ocjenjivaèki sud odabrao je deset najboljih. Jutarnji list vam je donosio njihove prièe, kako posluju, kako rade i koji su im planovi u buduænosti." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="VIDEO: SPEKTAKULARNO SNIMANJE NIVES CELZIJUS ZA NOVI MAGNUM Pjevaèica progovorila o detaljima iz privatnog života, pa i o odnosu s bivšim mužem...">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:title" content="ANKETA JUTARNJEG: ODABERITE NAJBOLJEG MLADOG HRVATSKOG POLJOPRIVREDNIKA Pogledajte deset odabranih kandidata i dajte svoj glas vašem favoritu">
+<meta name="twitter:description" content="Izbor za najboljeg poljoprivrednika, koji u Hrvatskoj organizira europarlamentarka Marijana Petir, ušao je u završnu fazu. Struèni ocjenjivaèki sud odabrao je deset najboljih. Jutarnji list vam je donosio njihove prièe, kako posluju, kako rade i koji su im planovi u buduænosti.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Domaæe zvijezde, Spektakli, Front Page",
-pubdate: "2018-04-25T14:29+02:00",
-author: "Ana Soriæ",
+data: { section: "Hrvatska, Vijesti, Front Page",
+pubdate: "2018-05-07T11:29+02:00",
+author: "Sandra Pudja",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="spektakli story">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -793,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -818,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -858,7 +858,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1044,7 +1049,7 @@ Spektakli
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
 Domaæe zvijezde
 </a>
@@ -1132,39 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a>
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">Domaæe zvijezde </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="active">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
-Domaæe zvijezde
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
-Strane zvijezde
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/reality/">
-Reality
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/ups/">
-Ups!
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
-Na kavi sa...
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
-Zlatni Studio
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1204,11 +1214,10 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-JAÈA I SEKSEPILNIJA NEGO IKAD
-</p>
+IZBOR NAJBOLJEG POLJOPRIVREDNIKA </p>
 <h1
 class="title">
-VIDEO: SPEKTAKULARNO SNIMANJE NIVES CELZIJUS ZA NOVI MAGNUM Pjevaèica progovorila o detaljima iz privatnog života, pa i o odnosu s bivšim mužem...
+ANKETA JUTARNJEG: ODABERITE NAJBOLJEG MLADOG HRVATSKOG POLJOPRIVREDNIKA Pogledajte deset odabranih kandidata i dajte svoj glas vašem favoritu
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1224,7 +1233,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 14:29
+07.05.2018. u 11:29
 </p>
 </li>
 </ul>
@@ -1236,12 +1245,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/nives-celzijus/7285444" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/najboljipoljoprivrednici_naslovnajpg/7326201" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/nives-celzijus/7285444/ALTERNATES/LANDSCAPE_380/Nives%20Celzijus"
+<img src="https://www.jutarnji.hr/incoming/najboljipoljoprivrednici_naslovnajpg/7326201/ALTERNATES/LANDSCAPE_380/NAJBOLJIPOLJOPRIVREDNICI_NASLOVNA.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/nives-celzijus/7285444/BINARY/thumbnail/Nives%20Celzijus"
+data-src-template="https://www.jutarnji.hr/incoming/najboljipoljoprivrednici_naslovnajpg/7326201/BINARY/thumbnail/NAJBOLJIPOLJOPRIVREDNICI_NASLOVNA.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1250,12 +1259,12 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Sreæko Rundiæ / Magnum
+<span> HANZA MEDIA, JUTARNJI LIST
 </span>
 </div>
 </div>
 <div class="picture-caption ">
-<h4>Nives Celzijus za Magnum</h4>
+<h4>Kandidati za izbor najboljeg poljoprivrednika Hrvatske</h4>
 </div>
 </div>
 </section>
@@ -1289,59 +1298,21 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285549"
+<div id="content-body-6263871-7325874"
 >
-<p><strong>Nives Celzijus</strong> se vratila i jaèa je nego ikad. <em><strong>Magazin Magnum</strong></em> u novom broju koji se sutra, u èetvrtak, na kisocima može kupiti u paketu s Jutarnjim listom, donosi veliki osobni intervju sa spisateljicom, voditeljicom, pjevaèicom i glumicom. </p><p>U njemu otkriva detalje o svom poslovnom uzletu, planove za novu karijeru, ali i detalje iz privatnog života u kojem je majka dvoje djece te o svom odnosu s bivšim suprugom <strong>Dinom Drpiæem</strong>. Nives je za Magnum odradila i spektakularni foto session te nakon <strong>Lane Jurèeviæ, Helene Miniæ Mataniæ, Lidije Baèiæ i Žanamari</strong> krasi njegovu naslovnicu.</p><p>Kako je bilo na snimanju provjerite u videu koji je snimio fotograf <strong>Sreæko Rundiæ</strong>:</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/article7285522.ece" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="youtubeWrapper "
-style="width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/4TvwCp5vDLE"
-frameborder="0"
-width="100%"
-allowfullscreen=""></iframe>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Magnum u novom broju uz to donosi i insajdersku reportažu iiz Studentskog doma ‘Stjepan Radiæ’, najveæeg i najluðeg u zemlji, a našem reporteru studenti su se povjerili oko seksa, alkohola i ispita.</p><p>Sportski novinar <strong>Tomislav Juranoviæ</strong> istražuje kako je <strong>Niko Kovaè</strong> u ruke dobio voðenje Bayerna, a razgovarali smo i s hit glumcem <strong>Damirom Poljièkom</strong>. Donosimo i velike vodièe kroz stvari koje vam trebaju za roštilj, kako odabrati savršenu kožnu jaknu i tenisice za novu sezonu trèanja.</p><p><em><strong>Sve ovo i još više u novom Magnumu koji je na kioscima sutra uz Jutarnji list!</strong></em></p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/magnum-naslovnica/7285441" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/magnum-naslovnica/7285441/ALTERNATES/FREE_380/MAGNUM%20naslovnica"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/magnum-naslovnica/7285441/BINARY/thumbnail/MAGNUM%20naslovnica"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Hanza Media
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
+<p>Izbor za najboljeg poljoprivrednika, koji u Hrvatskoj organizira ambasadorica projekta i europarlamentarka Marijana Petir, ušao je u završnu fazu. Struèni ocjenjivaèki sud odabrao je deset najboljih. Jutarnji list vam je donio njihove prièe - kako posluju, kako su uspjeli i koji su im planovi za buduænost.</p><p><em><strong>Ovdje podsjeæamo na prièe 10 poljoprivrednika, a na kraju sudjelujte u anketi u kojoj birate vama najboljeg! Glasati možete do srijede, 9. svibnja, u 9 sati! Struèni žiri veæ je odabrao pobjednika, a onaj koji dobije najviše glasova u ovoj anketi dobit æe posebnu nagradu publike na konferenciji koju u srijedu suorganizira Jutarnji list.</strong></em></p><h5>Davor Matak: 'Od zemlje dobro živimo, a obitelj je uvijek na okupu'</h5><p><strong>Davor Matak</strong>, naš kandidat za najboljeg poljoprivrednika, sa suprugom <strong>Jagodom</strong>, ocem <strong>Dragutinom</strong> i majkom <strong>Gordanom</strong> na 10,5 hektara zemlje na Ražanaèkom i Krneškom polju proizvodi rajèice, patlidžane, tikvice, kupusnjaèe, krumpir, batat, lubenice, dinje, smokve, trešnje, masline, grožðe, šipak, bobièasto voæe... S malo intenzivnijom proizvodnjom i dobrim planiranjem, oni danas imaju proizvode koji su zanimljivi kupcima koji žele kvalitetu, a uskoro æe im na svom imanju ponuditi i smještaj tako da mogu uživati na svježem morskom i velebitskom zraku i kušati tradicionalnu hranu. Njihov je recept za uspjeh ne odustati, ne odustati, ne odustati. I tako su pobijedili probleme sa svojim zavièajnim prijateljima - posolicom i burom. Cijelu prièu obitelji Marak možete proèitati <a href="https://www.jutarnji.hr/vijesti/hrvatska/davor-matak-od-zemlje-dobro-zivimo-a-obitelj-je-uvijek-na-okupu/7315353/" target="_blank">OVDJE.</a></p><h5>Tvrtko Matijeviæ: Kilogram pèelinjeg &quot;bijelog zlata&quot; prodaje po 150.000 kn, a uskoro bi mogao biti najveæi proizvoðaè u Europi</h5><p><strong>Tvrtko Matijeviæ</strong> danas radi s pèelama, medom i pèelinjim otrovom, èiji je trenutno najveæi proizvoðaè u Hrvatskoj. Tvrtko je nakon prvih susreta s pèelama kupio svoje prve dvije košnice i smjestio ih na seoskom imanju koje je njegov otac Anto kupio kao vikendicu u Daruvarskom Brestovcu. Tamo je Tvrtko, uz nasade aronije, usavršavao proizvodnju meda, peluda i voska na iskustvima starijih pèelara, ali i na, kako kaže, vlastitim pogreškama, a danas ima 70 košnica. Prijelomni trenutak u njegovu promišljanju o èarobnim pèelinjim putanjama dogodio se kada se na kolegiju kod profesora Nikole Keziæa ukljuèio u radnu skupinu koje je tri mjeseca radila na izluèivanju pèelinjeg otrova. Njegovu prièu proèitajte <a href="https://www.jutarnji.hr/life/zivotne-price/mladic-iz-zagreba-u-okolici-daruvara-nasao-pcelinje-bijelo-zlato-kilogram-prodaje-po-150000-kn-uskoro-bi-mogao-biti-najveci-proizvodac-u-europi/7306741/" target="_blank">OVDJE.</a></p><h5>Zvonimir Kaliæ, magistar diplomacije iz Ðakova: 'Konoplja je mom djedu produljila život, a sada svi živimo od nje'</h5><p>“Kada smo krenuli s proizvodnjom industrijske konoplje, ljudi su nam se maltene podsmjehivali, smatrajuæi da je to biljka prošlosti, no nije nas to omelo u našim planovima da od konoplje napravimo dobru prièu. Danas smo sigurni da smo na dobrom putu i da je konoplja biljka sadašnjosti i buduænosti”, rijeèi su <strong>Zvonimira Kaliæa</strong>, po struci svježeg magistra meðunarodnih odnosa i diplomacije, ali po zanimanju poljoprivrednika i nositelja OPG-a Kaliæ, èije je sjedište u Ðakovu, ali sve vezano uz proizvodnju i preradu konoplje smjestili su u Vrpolje. Njegovu prièu proèitajte <a href="https://www.jutarnji.hr/life/zivotne-price/konoplja-je-mom-djedu-produljila-zivot-a-sada-svi-zivimo-od-nje-magistar-diplomacije-iz-dakova-ozbiljno-smo-razmisljali-o-odlasku-u-njemacku/7304962/" target="_blank">OVDJE.</a></p><h5>Tomislav Kovaè, vozaè motokrosa koji se pronašao u poljoprivredi: 'Moja staza sada je pašnjak za škotsko govedo!'</h5><p>Da shvati koliko je vrijedno ono što ima kod kuæe, Tomislavu Kovaèu (37), prehrambenom tehnièaru iz Jaškova kraj Ozlja, trebala su dva odlaska na rad u inozemstvo, jednom u Njemaèku gdje je radio poslove metalskog radnika, a drugi put u Francusku, gdje je brao orahe. Ima tome, doduše, i petnaestak godina.</p><p>No, otkako se vratio na zemlju svojih pradjedova i prekrasno oèevo imanje, iz Jaškova sigurno neæe više nikamo, a evo i dokaza: ovaj pasionirani vozaè motokrosa i bivši prvak države u autokrosu èak je vlastitu stazu za vježbanje ovih sportova prenamijenio u pašnjak za uzgoj ekološkog visokoplaninskog škotskog goveda, èime se tek treba poèeti ozbiljnije baviti. Tako umjesto na motociklu i autokros vozilu, vrijeme radije provodi u tri traktora. Osim egzotiènog škotskog goveda, Kovaè uzgaja orah, uljne tikve te razno povræe i bobièasto voæe, sve, dakako, ekološkim naèinom proizvodnje. Njegovu prièu možete pronaæi <a href="https://www.jutarnji.hr/dobrahrana/price/vozac-motokrosa-koji-se-pronasao-u-poljoprivredi-moja-staza-sada-je-pasnjak-za-skotsko-govedo/7280619/" target="_blank">OVDJE.</a></p><h5>Obitelj Gašiæ, koja je uspjela napraviti èudo u nemoguæim uvjetima: 'Neisplativo smo mlijeko pretvorili u šampionski sir'</h5><p>Prije godinu dana iz malog pogona u dvorištu njihove obiteljske kuæe izišli su prvi sirevi OPG-a Gašiæ, koji su u vrlo kratkom roku oduševili struku, kritièare, ali i, što je najvažnije, kupce. Sve je poèelo još te 2013. godine kada je Stanko kao svojevrstan poklon svome sinu za uspješno završenu školu i položenu maturu prepisao kompletan OPG. Otad je Ivan nositelj te uspješne poljoprivredne obiteljske prièe, koja æe, sigurni smo, biti još uspješnija. Njihovu prièu koja nije imala nimalo lak poèetak, proèitajte <a href="https://www.jutarnji.hr/vijesti/hrvatska/obitelj-koja-je-uspjela-napraviti-cudo-u-nemogucim-uvjetima-neisplativo-smo-mlijeko-pretvorili-u-sampionski-sir/7291015/" target="_blank">OVDJE.</a></p><h5>Diana Prpiæ, mlada struènjakinja za kazneno i meðunarodno pravo koja se okrenula radu na njivi: 'Da nije polja, nikada ne bih vidjela Havaje, New York...'</h5><p>Kakve veze kazneno procesno pravo ima s ekološkim uzgojem graha zelenèeka ili, recimo, meðunarodno pravo s glavicama domaæeg zelja? Baš nikakve. Osim ako se ne naðete u Brežanima na Kupi, gdje joj je imanje i veæina nasada, ili u Turnju uz Koranu, gdje je mali pogon za uzgoj kvalitetnih sadnica batata Obiteljskog poljoprivrednog gospodarstva Prpiæ i mlade gazdarice <strong>Diane Prpiæ</strong> (28). Ona vodi najbolji OPG u Karlovaèkoj županiji, u samom je vrhu po kvaliteti svojeg posla u Hrvatskoj, pa je logièno da se prijavila i u ovaj izbor. Njezinu prièu proèitajte <a href="https://www.jutarnji.hr/life/zivotne-price/mlada-strucnjakinja-za-kazneno-i-medunarodno-pravo-okrenula-se-fizickom-radu-na-njivi-da-nije-polja-nikada-ne-bih-vidjela-havaje-new-york/7282585/" target="_blank">OVDJE.</a></p><h5>Amalka Vukeliæ: 'Za uzgoj bobica i dunja koristim rogove krave koja se jednom otelila, jelenji mjehur i kravlje crijevo!'</h5><p>U edukaciji o biodinamici koriste se ideje Rudolfa Steinera, utemeljitelja biodinamike koji je roðen 1861. u Donjem Kraljevcu u Meðimurju. U spomen na velikog mislioca i filozofa, u Donjem Kraljevcu je prije deset godina osnovan Centar “Dr. Rudolf Steiner” koji posjeæuju njegovi sljedbenici iz cijelog svijeta. Kada se raspituju o biodinamièkoj proizvodnji u Hrvatskoj, suradnici uglavnom sliježu ramenima. Meðu tek nekoliko proizvoðaèa koji su se zaljubili u Steinerove postulate je i struèna suradnica tog Centra Amalka Vukeliæ (37), diplomirana inženjerka agronomije i naša kandidatkinja za najboljeg mladog poljoprivrednika/cu.</p><p>Prepoznavši velike i neiskorištene potencijale biodinamièke proizvodnje, ona se s obitelji iz Zagreba preselila u mali Lužan Biškupeèki nedaleko od Varaždin Brega. Tamo uzgaja bobièasto voæe, dunje i povræe po principima biodinamike. Njezinu prièu proèitajte <a href="https://www.jutarnji.hr/dobrahrana/price/biodinamicki-pristup-za-uzgoj-bobica-i-dunja-koristim-rogove-krave-koja-se-jednom-otelila-jelenji-mjehur-i-kravlje-crijevo/7274664/" target="_blank">OVDJE.</a></p><h5>Luka Glavaèeviæ: 'Podolac ima buduænost, ali nam treba zemlje za ispašu'</h5><p>Kada je naše Ministarstvo poljoprivrede prije 13 godina odluèilo poticati uzgoj podolca s èak 4500 kuna po uvjetnom grlu, dosta se slavonskih poljoprivrednika odluèilo prebaciti na uzgoj ovog goveda, koje daje visokokvalitetno meso. Jedan od njih bio je i <strong>Hrvoje Glavaèeviæ</strong> iz Strizivojne. Njemu je tada bilo 40 godina, a njegovu sinu<strong> Luki </strong>11.</p><p>Danas, 13 godina poslije, obitelj Glavaèeviæ i dalje radi samo i jedino s podolcima, iako je poticaj na ovo govedo danas prepolovljen. No, oni se ne predaju, veæ i dalje vjeruju da se s podolcima može napraviti odlièan posao.  Njihovu prièu proèitajte <a href="https://www.jutarnji.hr/vijesti/hrvatska/mladi-poljoprivrednici-luka-glavacevic-podolac-ima-buducnost-ali-nam-treba-zemlje-za-ispasu/7310685/" target="_blank">OVDJE.</a></p><h5>Stipe Vuletiæ, mladi profesor koji je nakon pet godina dao otkaz u školi i zapoèeo novi život: 'Put je bio trnovit, ali i strelovit! Sve je osmislila moja cura Matea'</h5><p>Kada je Neretvanin<strong> Stipe Vuletiæ</strong> pokrenuo ekološku proizvodnju mandarina nije mogao ni sanjati da æe uæi u uži izbor za najboljeg hrvatskog mladog poljoprivrednika. Ovaj profesor geografije uèionicu je zamijenio radom na zemlji proizvodeæi mandarine, klementine, limune i ostale citruse i to ne bilo kako veæ u ekološkoj proizvodnji, što je trend poljoprivredne proizvodnje u Europskoj uniji. Njegovu prièu pronaæi æete <a href="https://www.jutarnji.hr/life/zivotne-price/mladi-profesor-nakon-pet-godina-dao-otkaz-u-skoli-sada-zivi-novi-zivot-put-je-bio-trnovit-ali-i-strelovit-sve-je-osmislila-moja-cura-matea/7304500/" target="_blank">OVDJE.</a></p><h5>Mladen Karamarkoviæ, 25-godišnjak koji je napravio èudo u selu s 20 stanovnika:  'Zbog oca volim polje, a i ja moram nešto ostaviti sinu'</h5><p><strong>Mladen Karamarkoviæ</strong> nedavno je napunio 25 godina. Njegovoj supruzi <strong>Tatjani </strong>su 24. Imaju 16-mjeseènog sina <strong>Petra</strong>. Žive u Ilmin Dvoru. Malom naselju sa samo 20-ak stanovnika, smještenom u opæini Èaðavica tik uz rijeku Dravu i granicu s Maðarskom. Veæina nas za Ilmin Dvor nikad nije èula, što i nije èudno, no ako ste pomislili da je život tamo dosadan, gadno ste se prevarili. Doduše, nekome možda i jest, ali Mladenu i Tatjani sigurno nije. Za to su prvenstveno zaslužni sami, odnosno njihovi karakteri i marljivost. Ovo dvoje mladih ljudi svojim primjerom šalje snažnu poruku da se na slavonskoj zemlji i od nje ipak može živjeti. Njihovu prièu proèitajte <a href="https://www.jutarnji.hr/life/zivotne-price/napravio-cudo-u-selu-s-20-stanovnika-napunio-je-25-godina-a-poljoprivreda-je-njegov-poziv-zbog-oca-volim-polje-a-i-ja-moram-nesto-ostaviti-sinu/7286716/" target="_blank">OVDJE.</a></p><h5>Sudjelujte u anketi!</h5><p>
+<section class="social_embed ">
+<div class="riddle_target" data-rid-id="151259" data-fg="#1486cd" data-bg="#ffffff" style="margin:0 auto;max-width:100%;width:640px;" data-auto-scroll="true">
+<script src="https://www.riddle.com/files/js/embed.js"></script>
+<iframe style="width:100%;height:300px;border:1px solid #cfcfcf;" src="https://www.riddle.com/a/151259?" title="Opinion Poll - Tko je najbolji hrvatski poljoprivrednik?"><section><h2>Tko je najbolji hrvatski poljoprivrednik?</h2><p><p>Izbor za najboljeg poljoprivrednika, koji u Hrvatskoj organizira ambasadorica projekta i europarlamentarka Marijana Petir, ušao je u završnu fazu. Struèni ocjenjivaèki sud odabrao je deset najboljih. Jutarnji list vam je donio njihove prièe - kako posluju, kako su uspjeli i koji su im planovi za buduænost. Vi birate najboljeg poljoprivrednika!</p></p></section><section><h2>Davor Matak: voæe, povræe, vino, meso, maslinovo ulje...</h2></section><section><h3>Tvrtko Matijeviæ: pèelinji otrov, med, džem, èaj</h3></section><section><h3>Zvonimir Kaliæ: industrijska konoplja i proizvodi od nje</h3></section><section><h3>Tomislav Kovaè: ekološko egzotièno škotsko govedo</h3></section><section><h3>Obitelj Gašiæ: sir</h3></section><section><h3>Diana Prpiæ: orah, uljna tikva, batat te razno povræe i bobièasto voæe</h3></section><section><h3>Amalka Vukeliæ: bobièasto voæe, dunje i povræe po principima biodinamike</h3></section><section><h3>Luka Glavaèeviæ: slavonsko-srijemski podolac, sijeno, silaža, djetelina</h3></section><section><h3>Stipe Vuletiæ: ekološka proizvodnja mandarina</h3></section><section><h3>Mladen Karamarkoviæ: mlijeko, kukuruz, djetelina, uljana repica, pšenica, jeèam...</h3></section></iframe>
+</div><p style="text-align: left; padding-left: 20px; font: inherit; font-size: 80%; max-width: 95%; width: 640px; margin: 0px auto; padding-top: 10px;"><a href="https://www.riddle.com" style="color: inherit;" rel="nofollow" target="blank">Quiz Maker</a> - powered by Riddle</p>
 </section>
  </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285549 p").filter(function () {
+$("#content-body-6263871-7325874 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1350,16 +1321,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285549").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7325874").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285549").children().slice(max).remove();
+$("#content-body-6263871-7325874").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285549").children().get(0);
+var firstChild = $("#content-body-6263871-7325874").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1397,18 +1368,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Nives_Celzius" class ="label label-default" >
-Nives Celzius
+<a href="https://www.jutarnji.hr/tag/Davor_Matak" class ="label label-default" >
+Davor Matak
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Nives_Celzijus" class ="label label-default" >
-Nives Celzijus
+<a href="https://www.jutarnji.hr/tag/Poljoprivreda" class ="label label-default" >
+Poljoprivreda
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Magnum" class ="label label-default" >
-Magnum
+<a href="https://www.jutarnji.hr/tag/najbolji_poljoprivrednik" class ="label label-default" >
+najbolji poljoprivrednik
 </a>
 </li>
 </ul>
@@ -1419,20 +1390,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="spektakli media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/video-cisti-seksepil-u-cistoj-ljubavi-neke-uloge-izgubila-je-jer-je-tako-su-joj-rekli-prezgodna-ali-sad-je-napokon-pokazala-sve-svoje-adute/7230312/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/video-cisti-seksepil-u-cistoj-ljubavi-neke-uloge-izgubila-je-jer-je-tako-su-joj-rekli-prezgodna-ali-sad-je-napokon-pokazala-sve-svoje-adute/7230312/">
-VIDEO: ÈISTI SEKSEPIL U 'ÈISTOJ LJUBAVI' Neke uloge izgubila je jer je, tako su joj rekli, prezgodna, ali sad je napokon pokazala sve svoje adute! </a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1448,13 +1405,13 @@ VIDEO: ÈISTI SEKSEPIL U 'ÈISTOJ LJUBAVI' Neke uloge izgubila je jer je, tako su 
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1466,8 +1423,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1479,13 +1436,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1497,8 +1454,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1510,13 +1467,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1528,8 +1485,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1541,17 +1498,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1559,9 +1516,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1643,7 +1599,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285549" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7325874" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1687,19 +1643,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="domace-zvijezde media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-goran-karan-raspjevao-lisinski-na-pozornici-mu-se-pridruzili-severina-graso-i-providenca-u-publici-mnostvo-poznatih-lica/7279032/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-goran-karan-raspjevao-lisinski-na-pozornici-mu-se-pridruzili-severina-graso-i-providenca-u-publici-mnostvo-poznatih-lica/7279032/">
-PREDSTAVLJANJE NOVOG ALBUMA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-goran-karan-raspjevao-lisinski-na-pozornici-mu-se-pridruzili-severina-graso-i-providenca-u-publici-mnostvo-poznatih-lica/7279032/">
-FOTO: GORAN KARAN RASPJEVAO LISINSKI Na pozornici mu se pridružili Severina, Grašo i Providenca, u publici mnoštvo poznatih lica
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+KAKO GRADIÆ BLEIBURG ŽIVI UOÈI KOMEMORACIJE? Po prvi put dolaze 'austrijske kobre', a evo što lokalni mještani misle o gostima iz Hrvatske
 </a>
 </h4>
 </div>
@@ -1709,19 +1665,19 @@ FOTO: GORAN KARAN RASPJEVAO LISINSKI Na pozornici mu se pridružili Severina, Gra
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="domace-zvijezde media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/pakosna-izjava-zbog-cega-je-hauser-izrekao-tako-neprimjerene-rijeci-o-bivsoj-zarucnici-i-hoce-li-mu-zbog-toga-okrenuti-leda-brojna-zenska-publika/7137747/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/pakosna-izjava-zbog-cega-je-hauser-izrekao-tako-neprimjerene-rijeci-o-bivsoj-zarucnici-i-hoce-li-mu-zbog-toga-okrenuti-leda-brojna-zenska-publika/7137747/">
-NIMALO DŽENTLMENSKI
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+I TO JE HRVATSKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/pakosna-izjava-zbog-cega-je-hauser-izrekao-tako-neprimjerene-rijeci-o-bivsoj-zarucnici-i-hoce-li-mu-zbog-toga-okrenuti-leda-brojna-zenska-publika/7137747/">
-PAKOSNA IZJAVA Zbog èega je Hauser izrekao tako neprimjerene rijeèi o bivšoj zaruènici? I hoæe li mu zbog toga okrenuti leða brojna ženska publika?
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada
 </a>
 </h4>
 </div>
@@ -1731,19 +1687,19 @@ PAKOSNA IZJAVA Zbog èega je Hauser izrekao tako neprimjerene rijeèi o bivšoj zar
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="domace-zvijezde media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/vlatka-pokos-moj-novi-zivot-u-kanadi-svida-mi-se-mentalitet-ovdasnjih-ljudi-a-veze-s-hrv-zajednicom-ne-njegujem-mi-ne-dijelimo-isti-svjetonazor/7262253/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/vlatka-pokos-moj-novi-zivot-u-kanadi-svida-mi-se-mentalitet-ovdasnjih-ljudi-a-veze-s-hrv-zajednicom-ne-njegujem-mi-ne-dijelimo-isti-svjetonazor/7262253/">
-OTVORILA DUŠU
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+KRŠENJE JAVNOG REDA I MIRA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/vlatka-pokos-moj-novi-zivot-u-kanadi-svida-mi-se-mentalitet-ovdasnjih-ljudi-a-veze-s-hrv-zajednicom-ne-njegujem-mi-ne-dijelimo-isti-svjetonazor/7262253/">
-VLATKA POKOS: MOJ NOVI ŽIVOT U KANADI 'Sviða mi se mentalitet ovdašnjih ljudi, a veze s hrv. zajednicom ne njegujem, mi ne dijelimo isti svjetonazor!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+VELIKI ŠOK ZA OSJEÈANKU Sunèala se na vlastitom balkonu, na vrata joj je pokucala policija i zalijepila novèanu kaznu: 'Jako je uznemirila susjeda'
 </a>
 </h4>
 </div>
@@ -1753,19 +1709,19 @@ VLATKA POKOS: MOJ NOVI ŽIVOT U KANADI 'Sviða mi se mentalitet ovdašnjih ljudi, a
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="domace-zvijezde media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/i-otac-glumac-i-majka-glumica-bili-su-sigurni-da-nece-krenuti-istim-putem-nije-pokazivala-bas-nikakav-interes-a-onda-je-rekla-upisujem-akademiju/7269990/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/i-otac-glumac-i-majka-glumica-bili-su-sigurni-da-nece-krenuti-istim-putem-nije-pokazivala-bas-nikakav-interes-a-onda-je-rekla-upisujem-akademiju/7269990/">
-PETRA SVRTAN
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+VELIKA INVESTICIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/i-otac-glumac-i-majka-glumica-bili-su-sigurni-da-nece-krenuti-istim-putem-nije-pokazivala-bas-nikakav-interes-a-onda-je-rekla-upisujem-akademiju/7269990/">
-I otac glumac i majka glumica bili su sigurni da neæe krenuti istim putem. Nije pokazivala baš nikakav interes. A onda je rekla: Upisujem Akademiju
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+FOTO: POGLEDAJTE KAKO NAPREDUJU RADOVI NA ÈIOVSKOM MOSTU Snimili smo gradilište jednog od najvažnijih infrastrukturnih projekata u državi iz zraka
 </a>
 </h4>
 </div>
@@ -1803,19 +1759,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1823,8 +1779,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1883,7 +1839,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1911,6 +1867,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2069,7 +2030,7 @@ Spektakli
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
 Domaæe zvijezde
 </a>
@@ -2200,11 +2161,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2252,14 +2208,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/scena/sve-sto-vas-je-ikad-zanimalo-o-westworldu-jednoj-od-najboljih-i-najgledanijih-serija-koje-mozete-pratiti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524572048profimedia-0305220521.jpg?v=1524572100" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>STIGLA JE DRUGA SEZONA/Sve što vas je ikad zanimalo o &#039;Westworldu&#039;, jednoj od najboljih i najgledanijih serija koje možete pratiti</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2303,45 +2259,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=52&contextPath=1-51-52-&pubId=1&cat=&meta=read-story&objId=7285549&type=article&title=VIDEO%3a+SPEKTAKULARNO+SNIMANJE+NIVES+CELZIJUS+ZA+NOVI+MAGNUM+Pjeva%c4%8dica+progovorila+o+detaljima+iz+privatnog+%c5%beivota%2c+pa+i+o+odnosu+s+biv%c5%a1im+mu%c5%beem...&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fdomace-zvijezde%2fvideo-spektakularno-snimanje-nives-celzijus-za-novi-magnum-pjevacica-progovorila-o-detaljima-iz-privatnog-zivota-pa-i-o-odnosu-s-bivsim-muzem%2f7285549%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7325874&type=article&title=ANKETA+JUTARNJEG%3a+ODABERITE+NAJBOLJEG+MLADOG+HRVATSKOG+POLJOPRIVREDNIKA+Pogledajte+deset+odabranih+kandidata+i+dajte+svoj+glas+va%c5%a1em+favoritu&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fanketa-jutarnjeg-odaberite-najboljeg-mladog-hrvatskog-poljoprivrednika-pogledajte-deset-odabranih-kandidata-i-dajte-svoj-glas-vasem-favoritu%2f7325874%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=52&amp;contextPath=1-51-52-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285549&amp;type=article&amp;title=VIDEO%3a+SPEKTAKULARNO+SNIMANJE+NIVES+CELZIJUS+ZA+NOVI+MAGNUM+Pjeva%c4%8dica+progovorila+o+detaljima+iz+privatnog+%c5%beivota%2c+pa+i+o+odnosu+s+biv%c5%a1im+mu%c5%beem...&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fdomace-zvijezde%2fvideo-spektakularno-snimanje-nives-celzijus-za-novi-magnum-pjevacica-progovorila-o-detaljima-iz-privatnog-zivota-pa-i-o-odnosu-s-bivsim-muzem%2f7285549%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7325874&amp;type=article&amp;title=ANKETA+JUTARNJEG%3a+ODABERITE+NAJBOLJEG+MLADOG+HRVATSKOG+POLJOPRIVREDNIKA+Pogledajte+deset+odabranih+kandidata+i+dajte+svoj+glas+va%c5%a1em+favoritu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fanketa-jutarnjeg-odaberite-najboljeg-mladog-hrvatskog-poljoprivrednika-pogledajte-deset-odabranih-kandidata-i-dajte-svoj-glas-vasem-favoritu%2f7325874%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&cat=jltags%40eph.hr%2c2016&objId=869630183&title=Magnum&url=tag%3ajltags%40eph.hr%2c2016%3aMagnum&rt=1&ctxId=52&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1991066190&title=najbolji+poljoprivrednik&url=tag%3ajltags%40eph.hr%2c2016%3anajbolji_poljoprivrednik&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=869630183&amp;title=Magnum&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMagnum&amp;rt=1&amp;ctxId=52&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1991066190&amp;title=najbolji+poljoprivrednik&amp;url=tag%3ajltags%40eph.hr%2c2016%3anajbolji_poljoprivrednik&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&cat=jltags%40eph.hr%2c2016&objId=1411784885&title=Nives+Celzijus&url=tag%3ajltags%40eph.hr%2c2016%3aNives_Celzijus&rt=1&ctxId=52&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1209126657&title=Poljoprivreda&url=tag%3ajltags%40eph.hr%2c2016%3aPoljoprivreda&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1411784885&amp;title=Nives+Celzijus&amp;url=tag%3ajltags%40eph.hr%2c2016%3aNives_Celzijus&amp;rt=1&amp;ctxId=52&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1209126657&amp;title=Poljoprivreda&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPoljoprivreda&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&cat=jltags%40eph.hr%2c2016&objId=170004847&title=Nives+Celzius&url=tag%3ajltags%40eph.hr%2c2016%3aNives_Celzius&rt=1&ctxId=52&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1652112247&title=Davor+Matak&url=tag%3ajltags%40eph.hr%2c2016%3aDavor_Matak&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=170004847&amp;title=Nives+Celzius&amp;url=tag%3ajltags%40eph.hr%2c2016%3aNives_Celzius&amp;rt=1&amp;ctxId=52&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1652112247&amp;title=Davor+Matak&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDavor_Matak&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2394,7 +2350,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/domace-zvijezde/video-spektakularno-snimanje-nives-celzijus-za-novi-magnum-pjevacica-progovorila-o-detaljima-iz-privatnog-zivota-pa-i-o-odnosu-s-bivsim-muzem/7285549/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/anketa-jutarnjeg-odaberite-najboljeg-mladog-hrvatskog-poljoprivrednika-pogledajte-deset-odabranih-kandidata-i-dajte-svoj-glas-vasem-favoritu/7325874/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2404,14 +2360,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/spektakli/domace-zvijezde/video-spektakularno-snimanje-nives-celzijus-za-novi-magnum-pjevacica-progovorila-o-detaljima-iz-privatnog-zivota-pa-i-o-odnosu-s-bivsim-muzem/7285549/",
-postId : "7285549",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/anketa-jutarnjeg-odaberite-najboljeg-mladog-hrvatskog-poljoprivrednika-pogledajte-deset-odabranih-kandidata-i-dajte-svoj-glas-vasem-favoritu/7325874/",
+postId : "7325874",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "VIDEO: SPEKTAKULARNO SNIMANJE NIVES CELZIJUS ZA NOVI MAGNUM Pjevaèica progovorila o detaljima iz privatnog života, pa i o odnosu s bivšim mužem...",
-pubdate : "2018-04-25 14:29",
-authors : "Ana Soriæ",
-sections : "Front Page, Spektakli, Video, Video spektakli, Magnum, Domaæe zvijezde",
-tags : "Magnum, Nives Celzijus, Nives Celzius",
+title : "ANKETA JUTARNJEG: ODABERITE NAJBOLJEG MLADOG HRVATSKOG POLJOPRIVREDNIKA Pogledajte deset odabranih kandidata i dajte svoj glas vašem favoritu",
+pubdate : "2018-05-07 11:29",
+authors : "Sandra Pudja",
+sections : "Front Page, Vijesti, Hrvatska",
+tags : "najbolji poljoprivrednik, Poljoprivreda, Davor Matak",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Tim amerièkih lijeènika odradio je po prvi puta uspješnu potpunu transplantaciju penisa i skrotuma, piše BBC." />
-<meta name="keywords" content="transplantacija, penis" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<meta name="keywords" content="Samsung, Samsung Galaxy a6" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>&#039;KONAÈNO SE PONOVNO OSJEÆAM KAO POTPUN MUŠKARAC!&#039; Vojnik u Afganistanu ostao bez penisa, transplantirali mu zamjenski - Jutarnji List</title>
+<title>FOTO: SAMSUNG PREDSTAVIO DVA NOVA TELEFONA Kamera s opcijom Live Focus daje kontrolu nad dubinskim poljem i bokeh efektom prije i nakon snimanja - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Znanost";
+var dfpCategory = "Tehnologija";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7278930";
-var dfpArticleKeyword = "transplantacija";
+var dfpArticle = "7310112";
+var dfpArticleKeyword = "Samsung";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/tehnologija/foto-samsung-predstavio-dva-nova-telefona-kamera-s-opcijom-live-focus-daje-kontrolu-nad-dubinskim-poljem-i-bokeh-efektom-prije-i-nakon-snimanja/7310112/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/tehnologija/foto-samsung-predstavio-dva-nova-telefona-kamera-s-opcijom-live-focus-daje-kontrolu-nad-dubinskim-poljem-i-bokeh-efektom-prije-i-nakon-snimanja/7310112/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/img_20180419_103015jpg/7279086/ALTERNATES/LANDSCAPE_1180/IMG_20180419_103015.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/sm-a605fn_012_dynamic4_goldjpg/7310106/ALTERNATES/LANDSCAPE_1180/SM-A605FN_012_Dynamic4_Gold.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/img_20180419_103015jpg/7279086/ALTERNATES/LANDSCAPE_1180/IMG_20180419_103015.jpg">
-<meta property="og:title" content="'KONAÈNO SE PONOVNO OSJEÆAM KAO POTPUN MUŠKARAC!' Vojnik u Afganistanu ostao bez penisa, transplantirali mu zamjenski" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/sm-a605fn_012_dynamic4_goldjpg/7310106/ALTERNATES/LANDSCAPE_1180/SM-A605FN_012_Dynamic4_Gold.jpg">
+<meta property="og:title" content="FOTO: SAMSUNG PREDSTAVIO DVA NOVA TELEFONA Kamera s opcijom Live Focus daje kontrolu nad dubinskim poljem i bokeh efektom prije i nakon snimanja" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/tehnologija/foto-samsung-predstavio-dva-nova-telefona-kamera-s-opcijom-live-focus-daje-kontrolu-nad-dubinskim-poljem-i-bokeh-efektom-prije-i-nakon-snimanja/7310112/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Tim amerièkih lijeènika odradio je po prvi puta uspješnu potpunu transplantaciju penisa i skrotuma, piše BBC." />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="'KONAÈNO SE PONOVNO OSJEÆAM KAO POTPUN MUŠKARAC!' Vojnik u Afganistanu ostao bez penisa, transplantirali mu zamjenski">
-<meta name="twitter:description" content="Tim amerièkih lijeènika odradio je po prvi puta uspješnu potpunu transplantaciju penisa i skrotuma, piše BBC.">
+<meta name="twitter:creator" content="Ilija Matanoviæ">
+<meta name="twitter:title" content="FOTO: SAMSUNG PREDSTAVIO DVA NOVA TELEFONA Kamera s opcijom Live Focus daje kontrolu nad dubinskim poljem i bokeh efektom prije i nakon snimanja">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Znanost, Life, Front Page",
-pubdate: "2018-04-24T00:00+02:00",
-author: "Silvija Novak",
+data: { section: "Tehnologija, Life, Front Page",
+pubdate: "2018-05-02T20:30+02:00",
+author: "Ilija Matanoviæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -888,6 +888,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -941,12 +946,12 @@ Life
 Obitelj i djeca
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/tehnologija/">
 Tehnologija
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
@@ -1134,7 +1139,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/znanost/">Znanost </a></li>
+<li><a href="https://www.jutarnji.hr/life/tehnologija/">Tehnologija </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1142,12 +1147,12 @@ Mozgalice
 Obitelj i djeca
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/tehnologija/">
 Tehnologija
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
@@ -1229,11 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-USPJEH MEDICINE
+GALAXY A6 I A6+
 </p>
 <h1
 class="title">
-'KONAÈNO SE PONOVNO OSJEÆAM KAO POTPUN MUŠKARAC!' Vojnik u Afganistanu ostao bez penisa, transplantirali mu zamjenski
+FOTO: SAMSUNG PREDSTAVIO DVA NOVA TELEFONA Kamera s opcijom Live Focus daje kontrolu nad dubinskim poljem i bokeh efektom prije i nakon snimanja
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1246,7 @@ class="title">
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/ilija-matanovic">Ilija Matanoviæ</a></li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 00:00
+02.05.2018. u 20:30
 </p>
 </li>
 </ul>
@@ -1261,12 +1266,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/img_20180419_103015jpg/7279086" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/sm-a605fn_012_dynamic4_goldjpg/7310106" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/img_20180419_103015jpg/7279086/ALTERNATES/LANDSCAPE_380/IMG_20180419_103015.jpg"
+<img src="https://www.jutarnji.hr/incoming/sm-a605fn_012_dynamic4_goldjpg/7310106/ALTERNATES/LANDSCAPE_380/SM-A605FN_012_Dynamic4_Gold.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/img_20180419_103015jpg/7279086/BINARY/thumbnail/IMG_20180419_103015.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/sm-a605fn_012_dynamic4_goldjpg/7310106/BINARY/thumbnail/SM-A605FN_012_Dynamic4_Gold.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1274,19 +1279,16 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> Johns Hopkins Medicine
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>dr. Andrew Lee (drugi slijeva) i njegov tim</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1310,14 +1312,106 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7278930"
+<div id="content-body-6263871-7310112"
 >
-<p>Tim amerièkih lijeènika odradio je po prvi puta uspješnu potpunu transplantaciju penisa i skrotuma, piše <strong><a href="http://www.bbc.com/news/world-us-canada-43873058" target="_blank">BBC</a></strong>.</p><p>Kirurzi sveuèilišne bolnice Johns Hopkins u Baltimoreu izveli su operaciju na vojniku kojeg je ozlijedila bomba u Afganistanu.</p><p>Za transplantaciju su iskoristili penis, skrotum i dio trbušnog zida od preminulog pacijenta. Lijeènici kažu da æe vojnik moæi povratiti seksualnu funkciju što bi bilo nemoguæe samo s rekonstrukcijom penisa.</p><p>Tim od èak 11 kirurga sudjelovalo je na operaciji koja je trajala èak 14 sati. Lijeènici su rekli da testisi nisu transplantirani zbog etièkih razloga.</p><p>- Dok su amputacije ekstremiteta lako vidljive, postoje i ozljede koje su skrivene i èije posljedice nisu toliko oèite, rekao je doktor <strong>Andrew Lee</strong>, šef odjela za rekonstrukcijsku kirurgiju. Doktor Lee ozljede genitalija naziva 'neizreèenim ozljedama rata'.</p><p>2014. godine održan je simpozij pod nazivom 'Intimnost nakon rata' na kojem su o razornim posljedicama takvih ranjavanja govorile supruge, obitelji i njegovatelji ratnih veterana.</p><p>Vojnik koji je iz razumljivih razloga želio ostati anoniman, rekao je da se po buðenju iz anestezije ponovno osjeæao kao potpun i normalan èovjek. U Afganistanu je ozlijeðen nakon što je stao na nagaznu minu.</p><p>Obitelj preminule osobe èiji mu je penis presaðen u izjavi za medije navela je da je ponosna što je 'naš bližnji mogao pomoæi mladiæu koji je služio domovini'.</p><p>- Naš bi voljeni bio ponosan i poèašæen kada bi znao da vam je dao tako poseban dar. Kao obitelj, snažno podržavamo sve muškarce i žene koji služe našoj zemlji i zahvalni smo i vama na tome. Ovo je od srca jer i mi imamo nekoliko veterana u obitelji, navodi se u izjavi obitelji koja je takoðer željela ostati anonimna, a koja je svoje rijeèi uputila preko bolnice Johns Hopkins.</p><p>Medicinskim rjeènikom, ova se operacija zove vaskularizirana kompozitna alotransplantacija, što znaèi da se u procesu transplantacije presaðuju koža, kost, mišiæ, tetive i krvne žile.</p><p>Nakon operacije pacijent se osjeæa dobro i za nekoliko dana bit æe otpušten na kuænu njegu. Oèekuje se da æe se pacijent potpuno oporaviti za šest do dvanaest mjeseci.</p><p>- Nadamo se da æe mu operacija pomoæi da potpuno povrati urinarnu i seksualnu funkciju te da živi normalnim životom, rekao je jedan od èlanova lijeènièkog tima, doktor <strong>Rick Redett</strong>.</p><p>Bolnica je odobrila još 60 ovakvih zahvata kao dio programa Genitalne transplantacije. Inaèe, prva transplantacija penisa u SAD-u obavljena je u Bostonu 2016., a prva uopæe u svijetu u Južnoj Africi 2014.</p>
+<p><strong>Samsung</strong> je predstavio dva nova telefona iz nižeg srednjeg razreda - Galaxy A6 i A6+. Poštujuæi moderni dizajnerski kod korejske tvrtke, telefoni imaju takozvane Infinity Display zaslone, izduljene na omjer stranica od 18,5:9, doduše s nešto debljom bradom i èelom nego što je to sluèaj kod skupljih Samsungovih modela. </p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/a6_001_front_blackjpg/7310097" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/a6_001_front_blackjpg/7310097/ALTERNATES/FREE_380/A6_001_Front_Black.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/a6_001_front_blackjpg/7310097/BINARY/thumbnail/A6_001_Front_Black.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/sm-a605fn_002_back_lavenderjpg/7310100" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/sm-a605fn_002_back_lavenderjpg/7310100/ALTERNATES/FREE_380/SM-A605FN_002_Back_Lavender.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/sm-a605fn_002_back_lavenderjpg/7310100/BINARY/thumbnail/SM-A605FN_002_Back_Lavender.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>No dok A6 ima 5,6-inèni zaslon HD rezolucije, A6+ je opremljen panelom dijagonale 6 inèa u Full HD rezoluciji. Oba su Super AMOLED. Razlikuju se i po sistemskom èipu koji ih pogoni - A6+ ima Snapdragon 450, dok A6 radi uz pomoæ Samsungova èipa Exynos 7870. Oba dolaze u konfiguracijama od 3 ili 4 GB RAM-a te 32 ili 64 GB memorije i imaju kuæišta crne, zlatne i boje lavande.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/sm-a605fn_005_l-perspective_lavenderjpg/7310103" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/sm-a605fn_005_l-perspective_lavenderjpg/7310103/ALTERNATES/FREE_380/SM-A605FN_005_L-Perspective_Lavender.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/sm-a605fn_005_l-perspective_lavenderjpg/7310103/BINARY/thumbnail/SM-A605FN_005_L-Perspective_Lavender.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/sm-a605fn_012_dynamic4_goldjpg/7310106" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/sm-a605fn_012_dynamic4_goldjpg/7310106/ALTERNATES/FREE_380/SM-A605FN_012_Dynamic4_Gold.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/sm-a605fn_012_dynamic4_goldjpg/7310106/BINARY/thumbnail/SM-A605FN_012_Dynamic4_Gold.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p> </p><p>Samsung kao najveæu prednost telefona istièe kameru, pri èemu Galaxy A6+ ima dvostruku kameru s opcijom Live Focus, što znaèi da korisnici mogu kontrolirati dubinsko polje i bokeh efekt prije i nakon snimanja. Galaxy A6 ima jednostruku 16-megapikselnu kameru s otvorom blende od f/1.7. </p><p>Telefoni imaju moguænost prepoznavanja lica i skeniranja otisaka prstiju, podržavaju Bixby Vision, Home i Reminder. Telefoni na tržište dolaze poèetkom ovog mjeseca, a hrvatska cijena tek se treba odrediti. U Njemaèkoj æe se prodavati za 309 eura (A6, odnosno 369 eura (A6+). </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7278930 p").filter(function () {
+$("#content-body-6263871-7310112 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1326,16 +1420,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7278930").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7310112").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7278930").children().slice(max).remove();
+$("#content-body-6263871-7310112").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7278930").children().get(0);
+var firstChild = $("#content-body-6263871-7310112").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1373,13 +1467,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/penis" class ="label label-default" >
-penis
+<a href="https://www.jutarnji.hr/tag/Samsung_Galaxy_a6" class ="label label-default" >
+Samsung Galaxy a6
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/transplantacija" class ="label label-default" >
-transplantacija
+<a href="https://www.jutarnji.hr/tag/Samsung" class ="label label-default" >
+Samsung
 </a>
 </li>
 </ul>
@@ -1390,30 +1484,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="zdravlje media none">
+<article class="tehnologija media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/prvi-covjek-kojemu-je-lice-presadeno-dva-puta-francuz-je-prvu-transplantaciju-imao-prije-osam-godina-no-tijelo-mu-je-pocelo-odbacivati-lice/7255962/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/video-foto-reporter-jutarnjeg-na-mwc-u-u-barceloni-sony-predstavio-dva-telefona-s-novom-filozofijom-dizajna-i-ponesto-cudnim-rjesenjima/7074378/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/prvi-covjek-kojemu-je-lice-presadeno-dva-puta-francuz-je-prvu-transplantaciju-imao-prije-osam-godina-no-tijelo-mu-je-pocelo-odbacivati-lice/7255962/">
-PRVI ÈOVJEK KOJEMU JE LICE PRESAÐENO DVA PUTA Francuz je prvu transplantaciju imao prije osam godina, no tijelo mu je poèelo odbacivati lice
+<a href="https://www.jutarnji.hr/life/tehnologija/video-foto-reporter-jutarnjeg-na-mwc-u-u-barceloni-sony-predstavio-dva-telefona-s-novom-filozofijom-dizajna-i-ponesto-cudnim-rjesenjima/7074378/">
+VIDEO, FOTO: REPORTER JUTARNJEG NA MWC-u U BARCELONI Sony predstavio dva telefona s novom filozofijom dizajna i ponešto èudnim rješenjima
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="zivotne-price media none">
+<article class="tehnologija media video-jl">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/masina-borba-za-novi-bubreg-drustvo-iz-kafica-na-zagrebackom-jarunu-pokrenulo-akciju-u-kojoj-skupljaju-novac-za-bolesnu-curicu-iz-vukovara/6920487/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/foto-video-jutarnji-na-predstavljanju-pametnog-telefona-s-najjacom-kamerom-na-svijetu-huawei-snazno-zaigrao-na-kartu-umjetne-inteligencije/7178952/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/masina-borba-za-novi-bubreg-drustvo-iz-kafica-na-zagrebackom-jarunu-pokrenulo-akciju-u-kojoj-skupljaju-novac-za-bolesnu-curicu-iz-vukovara/6920487/">
-MAŠINA BORBA ZA NOVI BUBREG Društvo iz kafiæa na zagrebaèkom Jarunu pokrenulo akciju u kojoj skupljaju novac za bolesnu curicu iz Vukovara
+<a href="https://www.jutarnji.hr/life/tehnologija/foto-video-jutarnji-na-predstavljanju-pametnog-telefona-s-najjacom-kamerom-na-svijetu-huawei-snazno-zaigrao-na-kartu-umjetne-inteligencije/7178952/">
+FOTO, VIDEO: JUTARNJI NA PREDSTAVLJANJU PAMETNOG TELEFONA S NAJJAÈOM KAMEROM NA SVIJETU Huawei snažno zaigrao na kartu umjetne inteligencije
 </a>
 </h4>
 </li>
@@ -1435,13 +1529,13 @@ MAŠINA BORBA ZA NOVI BUBREG Društvo iz kafiæa na zagrebaèkom Jarunu pokrenulo ak
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1453,8 +1547,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1466,13 +1560,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1484,8 +1578,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1497,13 +1591,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1515,8 +1609,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1528,17 +1622,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1546,9 +1640,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1630,7 +1723,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7278930" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7310112" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1674,19 +1767,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="znanost media c11a none">
+<article class="tehnologija media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/aplikacija-koja-otkriva-sifre-s-njom-se-bilo-tko-moze-prikljuciti-na-vas-wi-fi-saznati-i-vase-lozinke-za-facebook-e-mail-cak-i-internet-bankarstvo/6436186/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/">
-USPJEH MEDICINE
+<a href="https://www.jutarnji.hr/life/tehnologija/aplikacija-koja-otkriva-sifre-s-njom-se-bilo-tko-moze-prikljuciti-na-vas-wi-fi-saznati-i-vase-lozinke-za-facebook-e-mail-cak-i-internet-bankarstvo/6436186/">
+NOVA OPASNOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/">
-'KONAÈNO SE PONOVNO OSJEÆAM KAO POTPUN MUŠKARAC!' Vojnik u Afganistanu ostao bez penisa, transplantirali mu zamjenski
+<a href="https://www.jutarnji.hr/life/tehnologija/aplikacija-koja-otkriva-sifre-s-njom-se-bilo-tko-moze-prikljuciti-na-vas-wi-fi-saznati-i-vase-lozinke-za-facebook-e-mail-cak-i-internet-bankarstvo/6436186/">
+APLIKACIJA KOJA OTKRIVA ŠIFRE S njom se bilo tko može prikljuèiti na vaš wi-fi, saznati i vaše lozinke za Facebook, e-mail, èak i internet bankarstvo
 </a>
 </h4>
 </div>
@@ -1696,19 +1789,19 @@ USPJEH MEDICINE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="znanost media c11a none">
+<article class="tehnologija media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/oduvijek-ste-zeljeli-pogledati-pornic-s-taylor-swift-natalie-portman-ili-lidijom-bacic-svi-vasi-mokri-snovi-sada-mogu-postati-stvarnost/6998886/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/">
-MISTERIJI ÈOVJEKA
+<a href="https://www.jutarnji.hr/life/tehnologija/oduvijek-ste-zeljeli-pogledati-pornic-s-taylor-swift-natalie-portman-ili-lidijom-bacic-svi-vasi-mokri-snovi-sada-mogu-postati-stvarnost/6998886/">
+NOVA APLIKACIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/">
-ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 godina istraživanja ne razumijemo ga u potpunosti
+<a href="https://www.jutarnji.hr/life/tehnologija/oduvijek-ste-zeljeli-pogledati-pornic-s-taylor-swift-natalie-portman-ili-lidijom-bacic-svi-vasi-mokri-snovi-sada-mogu-postati-stvarnost/6998886/">
+ODUVIJEK STE ŽELJELI POGLEDATI PORNIÆ S TAYLOR SWIFT, NATALIE PORTMAN ILI LIDIJOM BAÈIÆ? Svi vaši mokri snovi sada mogu postati stvarnost...
 </a>
 </h4>
 </div>
@@ -1718,19 +1811,19 @@ ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 go
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="znanost media c11a none">
+<article class="tehnologija media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/hoce-li-amerikanci-uspjeti-opet-poslati-covjeka-na-mjesec/7270773/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/hoce-li-amerikanci-uspjeti-opet-poslati-covjeka-na-mjesec/7270773/">
-MAKE NASA GREAT AGAIN
+<a href="https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/">
+ŽIVOT U HOGWARTSU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/hoce-li-amerikanci-uspjeti-opet-poslati-covjeka-na-mjesec/7270773/">
-Hoæe li Amerikanci uspjeti opet poslati èovjeka na Mjesec?
+<a href="https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/">
+'OTKAKO SAM SKINULA TU APLIKACIJU, NE SPAVAM ZADNJIH ŠEST DANA' Nova hit igrica zaludila je mnoge i u Hrvatskoj
 </a>
 </h4>
 </div>
@@ -1740,19 +1833,19 @@ Hoæe li Amerikanci uspjeti opet poslati èovjeka na Mjesec?
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="znanost media c11a none">
+<article class="tehnologija media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/prijelomno-otkrice-koje-spasava-svijet-znanstvenici-slucajno-proizveli-enzim-koji-u-hipu-prozdire-plastiku-ovo-je-sjajno-ali-i-pomalo-sokantno/7253280/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/zelite-zaradivati-na-instagramu-otkrivamo-koliko-vam-pratitelja-treba-i-sto-ciniti-da-bi-vam-svaki-dan-na-racun-sjelo-od-500-do-nekoliko-tisuca-kuna/7176033/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/prijelomno-otkrice-koje-spasava-svijet-znanstvenici-slucajno-proizveli-enzim-koji-u-hipu-prozdire-plastiku-ovo-je-sjajno-ali-i-pomalo-sokantno/7253280/">
-VELIKI USPJEH
+<a href="https://www.jutarnji.hr/life/tehnologija/zelite-zaradivati-na-instagramu-otkrivamo-koliko-vam-pratitelja-treba-i-sto-ciniti-da-bi-vam-svaki-dan-na-racun-sjelo-od-500-do-nekoliko-tisuca-kuna/7176033/">
+POSAO 'INFLUENCERA'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/prijelomno-otkrice-koje-spasava-svijet-znanstvenici-slucajno-proizveli-enzim-koji-u-hipu-prozdire-plastiku-ovo-je-sjajno-ali-i-pomalo-sokantno/7253280/">
-PRIJELOMNO OTKRIÆE KOJE SPAŠAVA SVIJET: ZNANSTVENICI SLUÈAJNO PROIZVELI ENZIM KOJI U HIPU PROŽDIRE PLASTIKU! 'Ovo je sjajno, ali i pomalo šokantno'
+<a href="https://www.jutarnji.hr/life/tehnologija/zelite-zaradivati-na-instagramu-otkrivamo-koliko-vam-pratitelja-treba-i-sto-ciniti-da-bi-vam-svaki-dan-na-racun-sjelo-od-500-do-nekoliko-tisuca-kuna/7176033/">
+ŽELITE ZARAÐIVATI NA INSTAGRAMU? Otkrivamo koliko vam pratitelja treba i što èiniti da bi vam svaki dan na raèun sjelo od 500 do nekoliko tisuæa kuna
 </a>
 </h4>
 </div>
@@ -1790,19 +1883,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1810,8 +1903,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1900,6 +1993,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1953,12 +2051,12 @@ Life
 Obitelj i djeca
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/tehnologija/">
 Tehnologija
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
@@ -2187,11 +2285,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2239,14 +2332,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2290,34 +2383,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=33&contextPath=1-32-33-&pubId=1&cat=&meta=read-story&objId=7278930&type=article&title=%26%23039%3bKONA%c4%8cNO+SE+PONOVNO+OSJE%c4%86AM+KAO+POTPUN+MU%c5%a0KARAC!%26%23039%3b+Vojnik+u+Afganistanu+ostao+bez+penisa%2c+transplantirali+mu+zamjenski&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fkonacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski%2f7278930%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=34&contextPath=1-32-34-&pubId=1&cat=&meta=read-story&objId=7310112&type=article&title=FOTO%3a+SAMSUNG+PREDSTAVIO+DVA+NOVA+TELEFONA+Kamera+s+opcijom+Live+Focus+daje+kontrolu+nad+dubinskim+poljem+i+bokeh+efektom+prije+i+nakon+snimanja&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2ftehnologija%2ffoto-samsung-predstavio-dva-nova-telefona-kamera-s-opcijom-live-focus-daje-kontrolu-nad-dubinskim-poljem-i-bokeh-efektom-prije-i-nakon-snimanja%2f7310112%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=33&amp;contextPath=1-32-33-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7278930&amp;type=article&amp;title=%26%23039%3bKONA%c4%8cNO+SE+PONOVNO+OSJE%c4%86AM+KAO+POTPUN+MU%c5%a0KARAC!%26%23039%3b+Vojnik+u+Afganistanu+ostao+bez+penisa%2c+transplantirali+mu+zamjenski&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fkonacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski%2f7278930%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=34&amp;contextPath=1-32-34-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7310112&amp;type=article&amp;title=FOTO%3a+SAMSUNG+PREDSTAVIO+DVA+NOVA+TELEFONA+Kamera+s+opcijom+Live+Focus+daje+kontrolu+nad+dubinskim+poljem+i+bokeh+efektom+prije+i+nakon+snimanja&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2ftehnologija%2ffoto-samsung-predstavio-dva-nova-telefona-kamera-s-opcijom-live-focus-daje-kontrolu-nad-dubinskim-poljem-i-bokeh-efektom-prije-i-nakon-snimanja%2f7310112%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&cat=jltags%40eph.hr%2c2016&objId=1755722635&title=transplantacija&url=tag%3ajltags%40eph.hr%2c2016%3atransplantacija&rt=1&ctxId=33&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&cat=jltags%40eph.hr%2c2016&objId=589578422&title=Samsung&url=tag%3ajltags%40eph.hr%2c2016%3aSamsung&rt=1&ctxId=34&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1755722635&amp;title=transplantacija&amp;url=tag%3ajltags%40eph.hr%2c2016%3atransplantacija&amp;rt=1&amp;ctxId=33&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=589578422&amp;title=Samsung&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSamsung&amp;rt=1&amp;ctxId=34&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&cat=jltags%40eph.hr%2c2016&objId=1782635341&title=penis&url=tag%3ajltags%40eph.hr%2c2016%3apenis&rt=1&ctxId=33&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&cat=jltags%40eph.hr%2c2016&objId=906047889&title=Samsung+Galaxy+a6&url=tag%3ajltags%40eph.hr%2c2016%3aSamsung_Galaxy_a6&rt=1&ctxId=34&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1782635341&amp;title=penis&amp;url=tag%3ajltags%40eph.hr%2c2016%3apenis&amp;rt=1&amp;ctxId=33&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=906047889&amp;title=Samsung+Galaxy+a6&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSamsung_Galaxy_a6&amp;rt=1&amp;ctxId=34&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2370,7 +2463,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/tehnologija/foto-samsung-predstavio-dva-nova-telefona-kamera-s-opcijom-live-focus-daje-kontrolu-nad-dubinskim-poljem-i-bokeh-efektom-prije-i-nakon-snimanja/7310112/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2380,14 +2473,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/",
-postId : "7278930",
+url : "https://www.jutarnji.hr/life/tehnologija/foto-samsung-predstavio-dva-nova-telefona-kamera-s-opcijom-live-focus-daje-kontrolu-nad-dubinskim-poljem-i-bokeh-efektom-prije-i-nakon-snimanja/7310112/",
+postId : "7310112",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "'KONAÈNO SE PONOVNO OSJEÆAM KAO POTPUN MUŠKARAC!' Vojnik u Afganistanu ostao bez penisa, transplantirali mu zamjenski",
-pubdate : "2018-04-24 00:00",
-authors : "Silvija Novak",
-sections : "Front Page, Life, Znanost",
-tags : "transplantacija, penis",
+title : "FOTO: SAMSUNG PREDSTAVIO DVA NOVA TELEFONA Kamera s opcijom Live Focus daje kontrolu nad dubinskim poljem i bokeh efektom prije i nakon snimanja",
+pubdate : "2018-05-02 20:30",
+authors : "Ilija Matanoviæ",
+sections : "Front Page, Life, Tehnologija",
+tags : "Samsung, Samsung Galaxy a6",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="KUPILA SALAMU DOMAÆEG PROIZVOÐAÈA U POZNATOM TRGOVAÈKOM CENTRU, KAD JU JE OTPAKIRALA DOÈEKALO JU JE SMRDLJIVO IZNENAÐENJE &#039;Sramota što nam prodaju, a umjesto da se pokriju i riješe to oni se sa mnom natežu!&#039;" />
+<meta name="description" content="Ne proðe ni dan u hrvatskim medijima a da nema neke prièe o mladima koji napuštaju Hrvatsku i sreæu traže u nekoj od zapadnih zemalja Europe, no mi vam donosimo drugu stranu te gastarbajterske sudbine." />
 <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA &#039;Tražila sam novac natrag, šokirao me njihov odgovor!&#039; - Jutarnji List</title>
+<title>SLAVONAC SE RAZOÈARAN VRATIO IZ NJEMAÈKE &#039;Poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,10 +204,10 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7280685";
+var dfpCategory = "Životne prièe";
+var dfpCategoryParent = "Life";
+var dfpRos = "life-ros";
+var dfpArticle = "7331442";
 var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/img_20180423_130514jpg/7280694/ALTERNATES/LANDSCAPE_1180/IMG_20180423_130514.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/cipiranijpg/7331454/ALTERNATES/LANDSCAPE_1180/%C4%8Dipirani.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/img_20180423_130514jpg/7280694/ALTERNATES/LANDSCAPE_1180/IMG_20180423_130514.jpg">
-<meta property="og:title" content="KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/cipiranijpg/7331454/ALTERNATES/LANDSCAPE_1180/%C4%8Dipirani.jpg">
+<meta property="og:title" content="SLAVONAC SE RAZOÈARAN VRATIO IZ NJEMAÈKE 'Poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="KUPILA SALAMU DOMAÆEG PROIZVOÐAÈA U POZNATOM TRGOVAÈKOM CENTRU, KAD JU JE OTPAKIRALA DOÈEKALO JU JE SMRDLJIVO IZNENAÐENJE 'Sramota što nam prodaju, a umjesto da se pokriju i riješe to oni se sa mnom natežu!'" />
+<meta property="og:description" content="Ne proðe ni dan u hrvatskim medijima a da nema neke prièe o mladima koji napuštaju Hrvatsku i sreæu traže u nekoj od zapadnih zemalja Europe, no mi vam donosimo drugu stranu te gastarbajterske sudbine." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'">
-<meta name="twitter:description" content="KUPILA SALAMU DOMAÆEG PROIZVOÐAÈA U POZNATOM TRGOVAÈKOM CENTRU, KAD JU JE OTPAKIRALA DOÈEKALO JU JE SMRDLJIVO IZNENAÐENJE 'Sramota što nam prodaju, a umjesto da se pokriju i riješe to oni se sa mnom natežu!'">
+<meta name="twitter:title" content="SLAVONAC SE RAZOÈARAN VRATIO IZ NJEMAÈKE 'Poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca'">
+<meta name="twitter:description" content="Ne proðe ni dan u hrvatskim medijima a da nema neke prièe o mladima koji napuštaju Hrvatsku i sreæu traže u nekoj od zapadnih zemalja Europe, no mi vam donosimo drugu stranu te gastarbajterske sudbine.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-24T13:37+02:00",
-author: "Sanja Žordiæ",
+data: { section: "Životne prièe, Life, Front Page",
+pubdate: "2018-05-08T12:03+02:00",
+author: "Marijan Brala",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="life story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -793,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -808,7 +808,7 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
@@ -858,7 +858,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -966,7 +971,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1132,39 +1137,64 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
+<li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
-</a>
-</li>
-<li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
 </a>
 </li>
 </ul>
@@ -1204,11 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-POKVARENA PEÈENKA
+DOMA JE NAJLJEPŠE
 </p>
 <h1
 class="title">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+SLAVONAC SE RAZOÈARAN VRATIO IZ NJEMAÈKE 'Poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1224,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 13:37
+08.05.2018. u 12:03
 </p>
 </li>
 </ul>
@@ -1236,12 +1266,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/img_20180423_130514jpg/7280694" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/cipiranijpg/7331454" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/img_20180423_130514jpg/7280694/ALTERNATES/LANDSCAPE_380/IMG_20180423_130514.jpg"
+<img src="https://www.jutarnji.hr/incoming/cipiranijpg/7331454/ALTERNATES/LANDSCAPE_380/%C4%8Dipirani.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/img_20180423_130514jpg/7280694/BINARY/thumbnail/IMG_20180423_130514.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/cipiranijpg/7331454/BINARY/thumbnail/%C4%8Dipirani.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1249,6 +1279,10 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> Screenshot RTL
+</span>
+</div>
 </div>
 </div>
 </section>
@@ -1282,83 +1316,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7280685"
+<div id="content-body-6263871-7331442"
 >
-<p>Jedna èitateljica Jutarnjeg iz Istre (podaci poznati redakciji) ostala je zgrožena kada se u nedjelju vratila iz kupovine iz poznatog trgovaèkog centra u Rijeci. </p><p>Šunka, odnosno domaæa peèenka, koju je gospoða kupila na akciji bila je naoèigled pokvarena - na rubovima je potamnila i poèela dobivati zelenkastu boju, a dokazne fotografije i raèun ogorèena graðanka poslala je na mail Jutarnjeg.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/img_20180423_130531jpg/7280697" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/img_20180423_130531jpg/7280697/ALTERNATES/FREE_380/IMG_20180423_130531.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/img_20180423_130531jpg/7280697/BINARY/thumbnail/IMG_20180423_130531.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Kaže kako se kao kupac osjeæa prevareno i jadno jer joj je, nakon što je kontaktirala trgovinu i požalila se na pokvarenu šunku, reèeno da može vratiti proizvod samo u centru gdje ga je i kupila.</p><p>- Kad sam je ujutro u ponedjeljak otvorila šokirala sam se jer je bila u oèajnom stanju... Lijepo sam ih zamolila je li moguæe dobiti povrat novca u najbližem centru što su potvrdili negativno... Pošto ja stanujem u Istri pet km od Pazina meni do Rijeke i nazad treba 120km plus 66 kn trošak tunela plus još toliko za benzin plus moje slobodno vrijeme za dolazak u navedeni centar da bi ispravila njihovu grešku - pojasnila je zašto želi povrat u najbližoj prodavaonici.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/img_20180423_130552jpg/7280700" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/img_20180423_130552jpg/7280700/ALTERNATES/FREE_380/IMG_20180423_130552.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/img_20180423_130552jpg/7280700/BINARY/thumbnail/IMG_20180423_130552.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Èitateljica tvrdi kako ovo nije prvi put da joj se takvo što dogodilo, no da je se sada prvi put odluèila požaliti.</p><p>- Sramota šta nam prodaju, svjesni su da je to roba kojoj je istekao rok trajanja. Umjesto da se pokriju i riješe to oni se sa mnom natežu... Rijeè je o 16kn... Pola kg sam kupila - napomenula je pa zakljuèila kako je prvi put reagirala na takvo što no da je oèito bilo uzaludno.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/img_20180423_131935jpg/7280703" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/img_20180423_131935jpg/7280703/ALTERNATES/FREE_380/IMG_20180423_131935.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/img_20180423_131935jpg/7280703/BINARY/thumbnail/IMG_20180423_131935.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p>
+<p>Ne proðe ni dan u hrvatskim medijima a da nema neke prièe o mladima koji napuštaju Hrvatsku i sreæu traže u nekoj od zapadnih zemalja Europe, no mi vam donosimo drugu stranu te gastarbajterske sudbine.</p><p>Ovo je prièa o dvojici Slavonaca koji su se odluèili vratiti u rodni Osijek i zbog toga su presretni. Kažu, nije Njemaèka obeæana zemlja, a u Hrvatskoj se može ljepše živjeti ako se radi.</p><p>Na posao pri povratku nisu èekali. Odmah su našli radno mjesto taksi vozaèa, a <strong>Tin Pintariæ</strong> (19) u Njemaèkoj je proveo èetiri mjeseca radeæi na graðevinskim poslovima. Odluèio se vratiti u Osijek jer, kako kaže, ni u Njemaèkoj sve nije bajno kako veæina naše javnosti misli.</p><p>- Ja nisam bio prijavljen, ja sam èekao da mi doðe kartica od zdravstvenog da odem otvoriti raèun. Molio sam èovjeka da otvorimo tekuæi raèun u njemaèkoj banci meðutim, on je stalno to odgaðao. Ja sam mislio bit æe, bit æe... Meðutim nije ništa bilo, isplaæivao nas je na ruke,  prièa <strong><a href="https://vijesti.rtl.hr/novosti/hrvatska/2996123/ispovijest-mladica-koji-se-iz-njemacke-vratio-u-slavoniju-govorili-su-mi-da-nikad-necu-biti-kao-oni/" target="_blank">RTL-u</a></strong> Tin Pintariæ.</p><p>Ni život nakon posla nije mu bio bajan: - Živjeli smo u jednoj sobi nas trojica i dijelili smo sve. Hranu, troškove..., govori Tin.</p><p>Tinov današnji kolega Domagoj bio je odlikaš u školi, a zatim otišao u Njemaèku trbuhom za kruhom. Tamo su provjeravali koliko vremena provodi na poslu.</p><p>&quot;Ja sam u Njemaèku otišao s nepunih 19 godina. Bio sam tamo godinu dana, a nakon mjesec dana sam dobio posao u skladištu preko agencije. Plaæa mi je bila sramotno mala i bio sam na dnu ljestvice što se poslodavca tièe. Vidjela se razlika izmeðu nas stranaca i Nijemaca. To se ne govori direktno, ali poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca&quot;, prièa nam Tinov prijatelj <strong>Domagoj Mrša</strong> koji je takoðer sreæu pronašao u taksiranju.</p><p>Kažu nam kako se ne može zaraditi i unatoè dobranoj štednji. Život je, suglasni su, jednostavno preskup, a baš zbog toga su s novim poslom kod kuæe izrazito zadovoljni.</p><p>&quot;Ipak je ovo naš grad, tu su svi naši prijatelji i obitelj. Kod kuæe je najljepše&quot;, kazali su nam i zadovoljno kazali kako im zbog povratka nije žao.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7280685 p").filter(function () {
+$("#content-body-6263871-7331442 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1367,16 +1332,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7280685").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7331442").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7280685").children().slice(max).remove();
+$("#content-body-6263871-7331442").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7280685").children().get(0);
+var firstChild = $("#content-body-6263871-7331442").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1418,15 +1383,45 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
+<article class="zivotne-price media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/video-poznati-trgovacki-lanac-i-proizvodac-objasnili-gnjusnu-snimku-iz-vukovara-nazalost-tu-manu-je-tesko-uociti-ako-je-smjestena-duboko-u-mesu/6982050/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/obecali-im-bajke-prevareni-balkanci-koji-su-radili-na-crno-u-njemackoj-prijavio-sam-se-za-rad-u-it-ju-a-zavrsio-na-gradilistu/6985821/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/video-poznati-trgovacki-lanac-i-proizvodac-objasnili-gnjusnu-snimku-iz-vukovara-nazalost-tu-manu-je-tesko-uociti-ako-je-smjestena-duboko-u-mesu/6982050/">
-VIDEO: POZNATI TRGOVAÈKI LANAC I PROIZVOÐAÈ OBJASNILI GNJUSNU SNIMKU IZ VUKOVARA 'Nažalost, tu manu je teško uoèiti ako je smještena duboko u mesu'
+<a href="https://www.jutarnji.hr/life/zivotne-price/obecali-im-bajke-prevareni-balkanci-koji-su-radili-na-crno-u-njemackoj-prijavio-sam-se-za-rad-u-it-ju-a-zavrsio-na-gradilistu/6985821/">
+OBEÆALI IM BAJKE Prevareni Balkanci koji su radili na crno u Njemaèkoj: 'Prijavio sam se za rad u IT-ju, a završio na gradilištu'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="hrvatska media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/gastarbajteri-tradicija-duga-pola-stoljeca-sporazumom-jugoslavije-i-sr-njemacke-krenuo-je-val-iseljavanja-koji-je-podijelio-hrvate-na-lijeve-i-desne/7114383/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/gastarbajteri-tradicija-duga-pola-stoljeca-sporazumom-jugoslavije-i-sr-njemacke-krenuo-je-val-iseljavanja-koji-je-podijelio-hrvate-na-lijeve-i-desne/7114383/">
+GASTARBAJTERI, TRADICIJA DUGA POLA STOLJEÆA Sporazumom Jugoslavije i SR Njemaèke krenuo je val iseljavanja koji je podijelio Hrvate na lijeve i desne
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="financije-i-trzista media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/biznis/financije-i-trzista/znate-li-koliko-su-novca-gastarbajteri-lani-poslali-u-domovinu-rekordne-uplate-s-rada-u-inozemstvu-ugledni-ekonomist-nije-to-dobro/7173588/" data-widget-title="" data-web-position="box"
+data-widget-position="2">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/biznis/financije-i-trzista/znate-li-koliko-su-novca-gastarbajteri-lani-poslali-u-domovinu-rekordne-uplate-s-rada-u-inozemstvu-ugledni-ekonomist-nije-to-dobro/7173588/">
+ZNATE LI KOLIKO SU NOVCA GASTARBAJTERI LANI POSLALI U DOMOVINU? Rekordne uplate s rada u inozemstvu UGLEDNI EKONOMIST 'Nije to dobro...'
 </a>
 </h4>
 </li>
@@ -1448,13 +1443,13 @@ VIDEO: POZNATI TRGOVAÈKI LANAC I PROIZVOÐAÈ OBJASNILI GNJUSNU SNIMKU IZ VUKOVARA
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1466,8 +1461,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1479,13 +1474,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1497,8 +1492,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1510,13 +1505,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1528,8 +1523,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1541,17 +1536,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1559,9 +1554,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1643,7 +1637,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7280685" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7331442" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1687,19 +1681,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/">
+DOMA JE NAJLJEPŠE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/">
+SLAVONAC SE RAZOÈARAN VRATIO IZ NJEMAÈKE 'Poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca'
 </a>
 </h4>
 </div>
@@ -1709,19 +1703,19 @@ VUKOVI OKO NAS
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
+<a href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/">
+OPORAVLJA SE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+<a href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/">
+'OVO JE ÈUDO, BOŽJE DJELO...' Djeèak se probudio iz kome dan nakon što su doktori od njega odustali, a roditelji dali dozvolu da ga iskljuèe s aparata
 </a>
 </h4>
 </div>
@@ -1731,19 +1725,19 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/">
+SMRTNA KAZNA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/">
+ISPOVIJEST ŽENE KOJA JE VIDJELA STOTINE SMAKNUÆA 'I danas se sjetim naboranih ruku majke jednog osuðenika kako oèajnièki pritišæu staklo'
 </a>
 </h4>
 </div>
@@ -1753,19 +1747,19 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/">
+BESKOMPROMISNO DESNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/">
+SLIKARSKA IKONA HRVATSKE DESNICE Nevjerojatna životna prièa Charlesa Billicha koji je Tita naslikao s vampirskim oènjacima
 </a>
 </h4>
 </div>
@@ -1803,19 +1797,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1823,8 +1817,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1883,7 +1877,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1911,6 +1905,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1991,7 +1990,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -2200,11 +2199,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2252,14 +2246,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2303,12 +2297,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7280685&type=article&title=KUPILA+DOMA%c4%86U+%c5%a0UNKU+U+NA%c5%a0EM+POZNATOM+TRGOVA%c4%8cKOM+CENTRU%2c+PA+SE+ZGROZILA+KAD+JU+JE+OTPAKIRALA+%26%23039%3bTra%c5%beila+sam+novac+natrag%2c+%c5%a1okirao+me+njihov+odgovor!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fkupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor%2f7280685%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7331442&type=article&title=SLAVONAC+SE+RAZO%c4%8cARAN+VRATIO+IZ+NJEMA%c4%8cKE+%26%23039%3bPoslodavci+ti+indirektno+poru%c4%8duju+da+nikad+ne%c4%87e%c5%a1+biti+u+rangu+Nijemaca%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fslavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca%2f7331442%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7280685&amp;type=article&amp;title=KUPILA+DOMA%c4%86U+%c5%a0UNKU+U+NA%c5%a0EM+POZNATOM+TRGOVA%c4%8cKOM+CENTRU%2c+PA+SE+ZGROZILA+KAD+JU+JE+OTPAKIRALA+%26%23039%3bTra%c5%beila+sam+novac+natrag%2c+%c5%a1okirao+me+njihov+odgovor!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fkupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor%2f7280685%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7331442&amp;type=article&amp;title=SLAVONAC+SE+RAZO%c4%8cARAN+VRATIO+IZ+NJEMA%c4%8cKE+%26%23039%3bPoslodavci+ti+indirektno+poru%c4%8duju+da+nikad+ne%c4%87e%c5%a1+biti+u+rangu+Nijemaca%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fslavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca%2f7331442%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2361,7 +2355,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2371,13 +2365,13 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/",
-postId : "7280685",
+url : "https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/",
+postId : "7331442",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'",
-pubdate : "2018-04-24 13:37",
-authors : "Sanja Žordiæ",
-sections : "Front Page, Hrvatska",
+title : "SLAVONAC SE RAZOÈARAN VRATIO IZ NJEMAÈKE 'Poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca'",
+pubdate : "2018-05-08 12:03",
+authors : "Marijan Brala",
+sections : "Front Page, Life, Životne prièe",
 tags : "",
 comments : commentsCount.toString()
 };

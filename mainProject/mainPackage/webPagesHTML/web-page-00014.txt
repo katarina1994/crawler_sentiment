@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="U Uredu predsjednice Republike Hrvatske predstavljen je u srijedu Projekt ustupanja šume Pantovèak gradu Zagrebu." />
-<meta name="keywords" content="Kolinda Grabar-Kitaroviæ, Pantovèak" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Neobièan prizor doèekao je u nedjelju sve posjetitelje parka Friedrichshain u Berlinu, a morali su reagirati i policija i vatrogasci." />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>PREDSJEDNICA SE OSVRNULA NA SVOJIH PET PREDIZBORNIH OBEÆANJA &#039;Priznajem pogrešku!&#039; - Jutarnji List</title>
+<title>FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
+var dfpCategory = "Svijet";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7285411";
-var dfpArticleKeyword = "Kolinda Grabar-Kitaroviæ";
+var dfpArticle = "7330713";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/predsjednica-se-osvrnula-na-svojih-pet-predizbornih-obecanja-priznajem-pogresku/7285411/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/predsjednica-se-osvrnula-na-svojih-pet-predizbornih-obecanja-priznajem-pogresku/7285411/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/kojpg/7286158/ALTERNATES/LANDSCAPE_1180/ko.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/31958997_864719707045468_635471975157858304_ojpg/7331088/ALTERNATES/LANDSCAPE_1180/31958997_864719707045468_635471975157858304_o.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/kojpg/7286158/ALTERNATES/LANDSCAPE_1180/ko.jpg">
-<meta property="og:title" content="PREDSJEDNICA SE OSVRNULA NA SVOJIH PET PREDIZBORNIH OBEÆANJA 'Priznajem pogrešku!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/31958997_864719707045468_635471975157858304_ojpg/7331088/ALTERNATES/LANDSCAPE_1180/31958997_864719707045468_635471975157858304_o.jpg">
+<meta property="og:title" content="FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/predsjednica-se-osvrnula-na-svojih-pet-predizbornih-obecanja-priznajem-pogresku/7285411/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="U Uredu predsjednice Republike Hrvatske predstavljen je u srijedu Projekt ustupanja šume Pantovèak gradu Zagrebu." />
+<meta property="og:description" content="Neobièan prizor doèekao je u nedjelju sve posjetitelje parka Friedrichshain u Berlinu, a morali su reagirati i policija i vatrogasci." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="PREDSJEDNICA SE OSVRNULA NA SVOJIH PET PREDIZBORNIH OBEÆANJA 'Priznajem pogrešku!'">
-<meta name="twitter:description" content="U Uredu predsjednice Republike Hrvatske predstavljen je u srijedu Projekt ustupanja šume Pantovèak gradu Zagrebu.">
+<meta name="twitter:title" content="FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju">
+<meta name="twitter:description" content="Neobièan prizor doèekao je u nedjelju sve posjetitelje parka Friedrichshain u Berlinu, a morali su reagirati i policija i vatrogasci.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-25T13:59+02:00",
-author: "Aleksandra Vladiæ",
+data: { section: "Svijet, Vijesti, Front Page",
+pubdate: "2018-05-08T10:51+02:00",
+author: "Marijan Brala",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -858,12 +858,12 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1134,15 +1139,15 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1165,6 +1170,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1204,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-USTUPANJE ŠUME
+SAMO NEK' SE OKREÆE...
 </p>
 <h1
 class="title">
-PREDSJEDNICA SE OSVRNULA NA SVOJIH PET PREDIZBORNIH OBEÆANJA 'Priznajem pogrešku!'
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1224,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 13:59
+08.05.2018. u 10:51
 </p>
 </li>
 </ul>
@@ -1236,24 +1246,21 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/kojpg/7286158" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/31958997_864719707045468_635471975157858304_ojpg/7331088" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/kojpg/7286158/ALTERNATES/LANDSCAPE_380/ko.jpg"
+<img src="https://www.jutarnji.hr/incoming/31958997_864719707045468_635471975157858304_ojpg/7331088/ALTERNATES/LANDSCAPE_380/31958997_864719707045468_635471975157858304_o.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/kojpg/7286158/BINARY/thumbnail/ko.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/31958997_864719707045468_635471975157858304_ojpg/7331088/BINARY/thumbnail/31958997_864719707045468_635471975157858304_o.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 250418.
-Predstavljanje Projekta ustupanja sume Pantovcak gradu Zagrebu u sklopu kojeg je najavljeno da ce 700 tisuca metara kvadratnih koji su trenutacno u sklopu Ureda predsjednice biti ustupljeni na upravljanje gradu Zagrebu.
-Na fotografiji: Kolinda Grabar Kitarovic i Milan Bandic.
-Foto: Boris Kovacev / CROPIX"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Boris Kovacev / CROPIX
+<span> POLIZEI BERLIN
 </span>
 </div>
 </div>
@@ -1289,44 +1296,21 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285411"
+<div id="content-body-6263871-7330713"
 >
-<p>U Uredu predsjednice Republike Hrvatske predstavljen je u srijedu Projekt ustupanja šume Pantovèak gradu Zagrebu.</p><p>Naime, kao što je Jutarnji pisao, Ministarstvo državne imovine, na inicijativu predsjednice<strong> Kolinde Grabar-Kitaroviæ</strong>, dovršilo je projekt da se park-šuma Pantovèak odvoji od kompleksa Ureda predsjednice Republike i otvori za graðane, a prema informacijama kojima raspolažemo, to bi se trebalo dogoditi veæ za nekoliko mjeseci. Zajednièki projekt ministra državne imovine Gorana Mariæa i predsjednice Republike Kolinde Grabar-Kitaroviæ, u dogovoru sa zagrebaèkim gradonaèelnikom Milanom Bandiæem, trebao bi omoguæiti da se više od tri èetvrtine sadašnjeg parka na Pantovèaku otvori za graðane.</p><p>Nakon predstavljanja projekta, predsjednica je odgovarala na pitanja novinara, javlja <a href="http://hr.n1info.com/a297282/Vijesti/Predsjednica-Priznajem-svoju-gresku.html" target="_blank">N1.</a></p><p>Odogvorila je meðu ostalim na pitanje o neispunjavanju predizbornog obeæanja.</p><p>- Zalagala sam se da dužnosnici imaju snage i mudrosti priznati pogreške, tako i ja danas priznajem svoju. Tada nisam mogla zamisliti da država ne može osigurati zamjenski, odgovarajuæi objekt za Ured predsjednice, kazala je predsjednica te se osvrnula na svojih pet predizbornih obeæanja, koja je dala.</p><p>- Prva ideja bila je približiti se graðanima. Držim da sam ta naèela ostvarila kroz svoj rad, kroz izmještanje Ureda, kroz rad na terenu... Voljela bih kad bih mogla izaæi na ulicu i razgovarati s ljudima u svakom trenutku, kazala je predsjednica.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/ustupanje_pantovcaka12-250418jpg/7286143" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/ustupanje_pantovcaka12-250418jpg/7286143/ALTERNATES/FREE_380/ustupanje_pantovcaka12-250418.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/ustupanje_pantovcaka12-250418jpg/7286143/BINARY/thumbnail/ustupanje_pantovcaka12-250418.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 250418.
-Predstavljanje Projekta ustupanja sume Pantovcak gradu Zagrebu u sklopu kojeg je najavljeno da ce 700 tisuca metara kvadratnih koji su trenutacno u sklopu Ureda predsjednice biti ustupljeni na upravljanje gradu Zagrebu.
-Na fotografiji: Kolinda Grabar Kitarovic i Milan Bandic.
-Foto: Boris Kovacev / CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Boris Kovacev / CROPIX
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
+<p>Neobièan prizor doèekao je u nedjelju sve posjetitelje parka Friedrichshain u Berlinu, a morali su reagirati i policija i vatrogasci.</p><p>Naime, skupina muškaraca u gradskom parku veselo je pekla janjce usred Berlina, a na improviziranim ražnjevima okretalo se èak 12 janjaca.</p><p>- Imali su i akumulatore, ugljen je bio rasut po tlu, a kad smo ih pitali zašto to rade kazali su kako slave Uskrs, kao i svake godine - napisali su berlinski policajci na svojoj službenoj Facebook stranici te potvrdili da je rijeè o skupini muškaraca iz Bosne i Hercegovine.</p><p>No veselo BiH društvo ipak je moralo razmontirati improvizirane ražnje, a dobili su i strogo upozorenje vatrogasaca.</p><p>Policija nije prijavila nikakve incidente, te istièu kako su gril-majstori 'pokazali dobru suradnju', no svejedno su im uzeli podatke i napisali izvješæe uredu za javni red u Friedrichshain-Kreuzberg, dijelu grada u kojem se grillparty odigravao. Kako ured nedjeljom ne radi, veselo društvo iz BiH sada oèekuje hoæe li ih se i novèano kazniti.</p><p> <section class="social_embed ">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPolizeiBerlin%2Fposts%2F864727210378051&width=500" width="500" height="727" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 </section>
- </p><p>- Drugo je bilo ušteda, a ovim smanjenjem za 700 tisuæa kvadrata bit æe i više ušteda od strane Ureda predsjednice, istaknula je.</p><p>- Treæe je bilo smanjenje broja dužnosnika i tu je broj dužnosnika de facto prepolovljen, a smanjen je i broj zaposlenih, s tim da nikome nismo dali otkaz, nego smo to rješavali na razne naèine, kazala je predsjednica.</p><p>- Èetvrto je bilo otvoriti Pantovèak graðanima. Namjera je da ovih preko 700 tisuæa kvadrata bude otvoreno graðanima, a u suradnji s Vladom i ostalim institucijama i udrugama radimo na tome da taj prostor stave u svrhu da graðani mogu uživati u njemu, kazala je predsjednica.</p><p>Peto obeæanje bilo je smanjenje broja pripadnika poèasne zaštitne bojne, za što je predsjednica istaknula da æe se na ovaj naèin svakako smanjiti, èim se smanji površina koju æe zauzimati Ured predsjednice.   </p><p>Na upita kad æe graðani moæi doæi u novi park na Pantovèaku, zagrebaèki gradonaèelnik Milan Bandiæ rekao je da æe to biti u najskorije vrijeme, poštujuæi proceduru.</p><p>- Ako mene pitate, ja bih sve za dva mjeseca, ali realnost je realnost. Po meni je to kad poènu pupati krajem ožujka, poèetkom travnja iduæe godine jaglaci, visibabe i šafrani&quot;, rekao je Bandiæ.</p><p>- Mi æemo se truditi da bude prije, u drugoj polovici ove godine, nakon jeseni, kazala je predsjednica.</p>
+ </p><p> <section class="social_embed ">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Tierischer <a href="https://twitter.com/hashtag/Notruf?src=hash&amp;ref_src=twsrc%5Etfw">#Notruf</a> am Sonntag gg. 13:30 Uhr:<br><br>&gt;&gt;Sie müssen zum Volkspark <a href="https://twitter.com/hashtag/Friedrichshain?src=hash&amp;ref_src=twsrc%5Etfw">#Friedrichshain</a> kommen. Hier laden welche mehrere rohe Schafe - im Ganzen und ohne Haut - aus dem Auto&lt;&lt;<br><br>...der Rest ist Geschichte.<br><br><a href="https://t.co/ViAWqLp0re">https://t.co/ViAWqLp0re</a><br>^tsm <a href="https://t.co/lS1sPzywUj">pic.twitter.com/lS1sPzywUj</a></p>&mdash; Polizei Berlin (@polizeiberlin) <a href="https://twitter.com/polizeiberlin/status/993441440167579648?ref_src=twsrc%5Etfw">May 7, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285411 p").filter(function () {
+$("#content-body-6263871-7330713 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1335,16 +1319,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285411").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7330713").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285411").children().slice(max).remove();
+$("#content-body-6263871-7330713").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285411").children().get(0);
+var firstChild = $("#content-body-6263871-7330713").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1379,19 +1363,6 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/Pantov%C4%8Dak" class ="label label-default" >
-Pantovèak
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Kolinda_Grabar-Kitarovi%C4%87" class ="label label-default" >
-Kolinda Grabar-Kitaroviæ
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1399,21 +1370,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/predsjednica-odlucila-suma-pantovcak-otvara-se-za-gradane-vladi-predaje-tri-cetvrtine-kompleksa-koji-ce-biti-ureden-kao-park-suma-za-javnost/7282351/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/predsjednica-odlucila-suma-pantovcak-otvara-se-za-gradane-vladi-predaje-tri-cetvrtine-kompleksa-koji-ce-biti-ureden-kao-park-suma-za-javnost/7282351/">
-PREDSJEDNICA ODLUÈILA: ŠUMA PANTOVÈAK OTVARA SE ZA GRAÐANE! Vladi predaje tri èetvrtine kompleksa koji æe biti ureðen kao park-šuma za javnost
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1429,13 +1385,13 @@ PREDSJEDNICA ODLUÈILA: ŠUMA PANTOVÈAK OTVARA SE ZA GRAÐANE! Vladi predaje tri èe
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1447,8 +1403,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1460,13 +1416,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1478,8 +1434,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1491,13 +1447,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1509,8 +1465,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1522,17 +1478,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1540,9 +1496,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1624,7 +1579,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285411" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7330713" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1668,19 +1623,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+SAMO NEK' SE OKREÆE...
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
 </a>
 </h4>
 </div>
@@ -1690,19 +1645,19 @@ VUKOVI OKO NAS
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+NE CVATU IM RUŽE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+RAZOTKRIVENA TUŽNA SVAKODNEVNICA PRVE DAME AMERIKE Objavljeni nepoznati detalji iz života Melanije Trump: 'Cijela situacija je neugodna'
 </a>
 </h4>
 </div>
@@ -1712,19 +1667,19 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+GLOBALNA NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
 </a>
 </h4>
 </div>
@@ -1734,19 +1689,19 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+PRIJELOMNI TRENUTAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </a>
 </h4>
 </div>
@@ -1784,19 +1739,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1804,8 +1759,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1864,12 +1819,12 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1892,6 +1847,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2181,11 +2141,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2233,14 +2188,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/gradonacelnik-zelio-pokazati-kako-je-radisan-pa-napravio-najgoru-fotomontazu-ikada-zafrkancija-na-njegov-racun-ne-prestaje?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524656819radovi.jpg?v=1524656908" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>MODNI MAÈAK ZA NJEGA JE BEBA/Gradonaèelnik želio pokazati kako je radišan pa napravio najgoru fotomontažu ikada, zafrkancija na njegov raèun ne prestaje</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2284,34 +2239,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7285411&type=article&title=PREDSJEDNICA+SE+OSVRNULA+NA+SVOJIH+PET+PREDIZBORNIH+OBE%c4%86ANJA+%26%23039%3bPriznajem+pogre%c5%a1ku!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fpredsjednica-se-osvrnula-na-svojih-pet-predizbornih-obecanja-priznajem-pogresku%2f7285411%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7330713&type=article&title=FOTO%3a+SKUPINA+MU%c5%a0KARACA+S+BALKANA+%c5%a0OKIRALA+STANOVNIKE+NJEMA%c4%8cKE+PRIJESTOLNICE+Usred+parka+okrenuli+12+janjaca+na+ra%c5%benju&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ffoto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju%2f7330713%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285411&amp;type=article&amp;title=PREDSJEDNICA+SE+OSVRNULA+NA+SVOJIH+PET+PREDIZBORNIH+OBE%c4%86ANJA+%26%23039%3bPriznajem+pogre%c5%a1ku!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fpredsjednica-se-osvrnula-na-svojih-pet-predizbornih-obecanja-priznajem-pogresku%2f7285411%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=473813388&title=Kolinda+Grabar-Kitarovi%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aKolinda_Grabar-Kitarovi%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=473813388&amp;title=Kolinda+Grabar-Kitarovi%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKolinda_Grabar-Kitarovi%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1628149961&title=Pantov%c4%8dak&url=tag%3ajltags%40eph.hr%2c2016%3aPantov%25C4%258Dak&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1628149961&amp;title=Pantov%c4%8dak&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPantov%25C4%258Dak&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7330713&amp;type=article&amp;title=FOTO%3a+SKUPINA+MU%c5%a0KARACA+S+BALKANA+%c5%a0OKIRALA+STANOVNIKE+NJEMA%c4%8cKE+PRIJESTOLNICE+Usred+parka+okrenuli+12+janjaca+na+ra%c5%benju&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ffoto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju%2f7330713%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2364,7 +2297,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/predsjednica-se-osvrnula-na-svojih-pet-predizbornih-obecanja-priznajem-pogresku/7285411/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2374,14 +2307,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/predsjednica-se-osvrnula-na-svojih-pet-predizbornih-obecanja-priznajem-pogresku/7285411/",
-postId : "7285411",
+url : "https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/",
+postId : "7330713",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "PREDSJEDNICA SE OSVRNULA NA SVOJIH PET PREDIZBORNIH OBEÆANJA 'Priznajem pogrešku!'",
-pubdate : "2018-04-25 13:59",
-authors : "Aleksandra Vladiæ",
-sections : "Front Page, Hrvatska",
-tags : "Kolinda Grabar-Kitaroviæ, Pantovèak",
+title : "FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju",
+pubdate : "2018-05-08 10:51",
+authors : "Marijan Brala",
+sections : "Front Page, Vijesti, Svijet",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

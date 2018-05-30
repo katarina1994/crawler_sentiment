@@ -6,7 +6,7 @@ Created on 17. pro 2017.
 
 import urllib
 import codecs
-import spiders.linkParser as linkParser
+import spiders.handlerURL as handURL
 import re
 
 
@@ -32,8 +32,8 @@ class RegularSpider():
             pagesToVisit = pagesToVisit[1:]
         
             try:
-                parser = linkParser.LinkParser()
-                data, links = parser.getLinks(url)
+                handler = handURL.handlerURL()
+                data, links = handler.getURLs(url)
                 
                 fAll.seek(0)
                 allLines = fAll.readlines()
@@ -43,7 +43,7 @@ class RegularSpider():
                 #if regexExpr in data:
                 if re.match(regexExpr, url, flags=0):                  
                     if url not in allLines:
-                        print (url)
+                        #print (url)
                         #fAll.seek(2)
                         fAll.write(url + "\n")
                         f = codecs.open("webPagesHTML/web-page-%05d.txt" % numberVisited, 'w', encoding='Windows-1250')

@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Mršavljenje, Vježbanje" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="On je simbol klimatskih promjena. Polarni medvjed stanovnik je Arktika, jednog od podruèja na Zemlji koje je najugroženije globalnim zagrijavanjem. Iako polarni medvjed nema prirodnog neprijatelja, klimatske promjene velika su prijetnja toj treæoj po velièini kopnenoj životinji zbog topljenja leda koji je njegovo kljuèno stanište. Arktièki morski led danas pokriva otprilike milijun èetvornih metara manje no što je to bio sluèaj 1979. godine, a znanstvenici upozoravaju da se led sada topi ubrzanijim tempom nego u prošlom desetljeæu." />
+<meta name="keywords" content="Polarni medvjed, Klimatske promjene" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>VIDEO: OD DEBELJKA DO KOMADA U SAMO 12 TJEDANA &#039;Želio sam vidjeti što bi se dogodilo da dosljedno vježbam tri mjeseca, no nije baš bilo zabavno&#039; - Jutarnji List</title>
+<title>HOÆE LI POLARNI MEDO PREŽIVJETI? Vjerojatnost da se populacija, koja se procjenjuje na 26.000 jedinki, smanji za više od 30 posto, iznosi 70 posto - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Zdravlje";
+var dfpCategory = "Znanost";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7254021";
-var dfpArticleKeyword = "Mršavljenje";
+var dfpArticle = "7299241";
+var dfpArticleKeyword = "Polarni medvjed";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zdravlje/video-od-debeljka-do-komada-u-samo-12-tjedana-zelio-sam-vidjeti-sto-bi-se-dogodilo-da-dosljedno-vjezbam-tri-mjeseca-no-nije-bas-bilo-zabavno/7254021/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zdravlje/video-od-debeljka-do-komada-u-samo-12-tjedana-zelio-sam-vidjeti-sto-bi-se-dogodilo-da-dosljedno-vjezbam-tri-mjeseca-no-nije-bas-bilo-zabavno/7254021/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/znanost/hoce-li-polarni-medo-prezivjeti-vjerojatnost-da-se-populacija-koja-se-procjenjuje-na-26000-jedinki-smanji-za-vise-od-30-posto-iznosi-70-posto/7299241/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/znanost/hoce-li-polarni-medo-prezivjeti-vjerojatnost-da-se-populacija-koja-se-procjenjuje-na-26000-jedinki-smanji-za-vise-od-30-posto-iznosi-70-posto/7299241/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/transformacijajpg/7254006/ALTERNATES/LANDSCAPE_1180/transformacija.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/polarni-medvjed-rusija/6666246/ALTERNATES/LANDSCAPE_1180/polarni%20medvjed%20Rusija" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/transformacijajpg/7254006/ALTERNATES/LANDSCAPE_1180/transformacija.jpg">
-<meta property="og:title" content="VIDEO: OD DEBELJKA DO KOMADA U SAMO 12 TJEDANA 'Želio sam vidjeti što bi se dogodilo da dosljedno vježbam tri mjeseca, no nije baš bilo zabavno'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/polarni-medvjed-rusija/6666246/ALTERNATES/LANDSCAPE_1180/polarni%20medvjed%20Rusija">
+<meta property="og:title" content="HOÆE LI POLARNI MEDO PREŽIVJETI? Vjerojatnost da se populacija, koja se procjenjuje na 26.000 jedinki, smanji za više od 30 posto, iznosi 70 posto" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zdravlje/video-od-debeljka-do-komada-u-samo-12-tjedana-zelio-sam-vidjeti-sto-bi-se-dogodilo-da-dosljedno-vjezbam-tri-mjeseca-no-nije-bas-bilo-zabavno/7254021/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/znanost/hoce-li-polarni-medo-prezivjeti-vjerojatnost-da-se-populacija-koja-se-procjenjuje-na-26000-jedinki-smanji-za-vise-od-30-posto-iznosi-70-posto/7299241/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="On je simbol klimatskih promjena. Polarni medvjed stanovnik je Arktika, jednog od podruèja na Zemlji koje je najugroženije globalnim zagrijavanjem. Iako polarni medvjed nema prirodnog neprijatelja, klimatske promjene velika su prijetnja toj treæoj po velièini kopnenoj životinji zbog topljenja leda koji je njegovo kljuèno stanište. Arktièki morski led danas pokriva otprilike milijun èetvornih metara manje no što je to bio sluèaj 1979. godine, a znanstvenici upozoravaju da se led sada topi ubrzanijim tempom nego u prošlom desetljeæu." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="VIDEO: OD DEBELJKA DO KOMADA U SAMO 12 TJEDANA 'Želio sam vidjeti što bi se dogodilo da dosljedno vježbam tri mjeseca, no nije baš bilo zabavno'">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content="Tanja Rudež">
+<meta name="twitter:title" content="HOÆE LI POLARNI MEDO PREŽIVJETI? Vjerojatnost da se populacija, koja se procjenjuje na 26.000 jedinki, smanji za više od 30 posto, iznosi 70 posto">
+<meta name="twitter:description" content="On je simbol klimatskih promjena. Polarni medvjed stanovnik je Arktika, jednog od podruèja na Zemlji koje je najugroženije globalnim zagrijavanjem. Iako polarni medvjed nema prirodnog neprijatelja, klimatske promjene velika su prijetnja toj treæoj po velièini kopnenoj životinji zbog topljenja leda koji je njegovo kljuèno stanište. Arktièki morski led danas pokriva otprilike milijun èetvornih metara manje no što je to bio sluèaj 1979. godine, a znanstvenici upozoravaju da se led sada topi ubrzanijim tempom nego u prošlom desetljeæu.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Zdravlje, Life, Front Page",
-pubdate: "2018-04-17T23:40+02:00",
-author: "Silvija Novak",
+data: { section: "Znanost, Life, Front Page",
+pubdate: "2018-04-30T18:30+02:00",
+author: "Tanja Rudež",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -888,6 +888,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -946,12 +951,12 @@ Obitelj i djeca
 Tehnologija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1134,7 +1139,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/zdravlje/">Zdravlje </a></li>
+<li><a href="https://www.jutarnji.hr/life/znanost/">Znanost </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1147,12 +1152,12 @@ Obitelj i djeca
 Tehnologija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1229,11 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-NEVJEROJATNA TRANSFORMACIJA
+KLIMATSKE PROMJENE
 </p>
 <h1
 class="title">
-VIDEO: OD DEBELJKA DO KOMADA U SAMO 12 TJEDANA 'Želio sam vidjeti što bi se dogodilo da dosljedno vježbam tri mjeseca, no nije baš bilo zabavno'
+HOÆE LI POLARNI MEDO PREŽIVJETI? Vjerojatnost da se populacija, koja se procjenjuje na 26.000 jedinki, smanji za više od 30 posto, iznosi 70 posto
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1246,7 @@ VIDEO: OD DEBELJKA DO KOMADA U SAMO 12 TJEDANA 'Želio sam vidjeti što bi se dogo
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/tanja-rudez">Tanja Rudež</a></li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-17.04.2018. u 23:40
+30.04.2018. u 18:30
 </p>
 </li>
 </ul>
@@ -1261,21 +1266,21 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/transformacijajpg/7254006" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/polarni-medvjed-rusija/6666246" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/transformacijajpg/7254006/ALTERNATES/LANDSCAPE_380/transformacija.jpg"
+<img src="https://www.jutarnji.hr/incoming/polarni-medvjed-rusija/6666246/ALTERNATES/LANDSCAPE_380/polarni%20medvjed%20Rusija"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/transformacijajpg/7254006/BINARY/thumbnail/transformacija.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/polarni-medvjed-rusija/6666246/BINARY/thumbnail/polarni%20medvjed%20Rusija"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Mother polar bear with a two years old cub (Ursus Maritimus), Wrangel Island, Chuckchi Sea, Chukotka, Russian Far East, Unesco World Heritage Site, Image: 171389372, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Alamy"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Print screen / Youtube
+<span> Profimedia, Alamy
 </span>
 </div>
 </div>
@@ -1284,10 +1289,6 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1311,32 +1312,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7254021"
+<div id="content-body-6263871-7299241"
 >
-<p>Ovaj nevjerojatan video pokazuje transformaciju jednog muškarca od bucmastog do mišiæavog i to u samo 12 tjedana.</p><p><strong>Hunter Hobbs</strong> iz amerièke savezne države Oklahome skinuo je impozantnih 19 kilograma za samo tri mjeseca. 24-godišnjak se slikao svaki dan tijekom ovog izazova kako bi bilježio napredak i motivirao se.</p><p>A rezultat je video u kojem Hunter kao da gubi kilograme pred našim oèima.</p><p>Na poèetku ovog izazova koji Hunter naziva 'najtežom stvari koju je ikad napravio', imao je 90,7 kilograma. Na Facebooku je napisao: - Želio sam vidjeti što bi se doista dogodilo kad bih vježbanje i prehranu shvatio ozbiljno na tri mjeseca. Rezultat: 19 kila manje i imam ten. Najteža stvar koju sam ikad napravio.</p><p>Njegovu transformaciju pogledale su tisuæe ljudi i veæina je zadivljena rezultatima.</p><p>- Zapravo sam bio znatiželjan i želio vidjeti mogu li to doista napraviti i što æe se dogoditi ako budem dosljedan 12 tjedana. No, uopæe nije bilo zabavno, dodao je Hunter.</p><p>Hunterov program vježbanja sastojao se od dizanja utega šest dana u tjednu te 20 do 30 minuta aerobnih vježbi svakoga dana.</p><p>No, kaže i da mu najveæi izazov nisu bile vježbe, veæ prehrana za koju misli da je najvažniji kad je gubitak kilograma u pitanju.</p><p>Tijekom tih 12 tjedana jeo je piletinu, batate, zobenu kašu, salatu, orašaste plodove i proteinske napitke. Osim toga, izbacio je alkohol i zaslaðena piæa te umjesto njih pio samo vodu.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/article7254000.ece" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="youtubeWrapper "
-style="width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/L4-QpckHfNo"
-frameborder="0"
-width="100%"
-allowfullscreen=""></iframe>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p>
+<p>On je simbol klimatskih promjena. Polarni medvjed stanovnik je Arktika, jednog od podruèja na Zemlji koje je najugroženije globalnim zagrijavanjem. Iako polarni medvjed nema prirodnog neprijatelja, klimatske promjene velika su prijetnja toj treæoj po velièini kopnenoj životinji zbog topljenja leda koji je njegovo kljuèno stanište. Arktièki morski led danas pokriva otprilike milijun èetvornih metara manje no što je to bio sluèaj 1979. godine, a znanstvenici upozoravaju da se led sada topi ubrzanijim tempom nego u prošlom desetljeæu.</p><p>“Vjerojatnost da se populacija polarnih medvjeda, koja se procjenjuje na 26.000, smanji za više od 30 posto tijekom iduæih 35 godina, iznosi 70 posto”, ustvrdili su znanstvenici na èelu s Ericom Regehrom u studiji objavljenoj 2016. godine u èasopisu Royal Society Biology Letters. U toj sveobuhvatnoj studiji kombinirano je 35 godina satelitskih podataka o ledu na Arktiku sa svim poznatim promjenama u 19 grupacija polarnih medvjeda raštrkanih u Kanadi, Aljasci, Rusiji, Grenlandu i Norveškoj.</p><h5><strong>Studija u Scienceu</strong></h5><p>Do sliènih su zakljuèaka došle i ostale studije, ukljuèujuæi onu Svjetske zaklade za prirodu (WWF) i Meðunarodnog saveza za oèuvanje prirode (IUCN) koji je polarnog medvjeda svrstao meðu ugrožene životinjske vrste.</p><p>Nedavno objavljena studija u èasopisu Science pokazala je da polarni medvjedi posljednje vrijeme ne uspijevaju pronaæi dovoljnu kolièinu hrane tijekom glavne sezone lova, a problem æe biti sve veæi s obzirom na klimatske promjene. Naime, zbog izgladnjivanja je došlo do promjena u metabolizmu ovih sisavaca.</p><p>Najèešæi plijen bijelih medvjeda tuljanovi su mladunci. Lako ih pronalaze èak i pod snijegom u koji ih zakopaju njihove majke. Ubijaju ih snažnim udarcem po glavi, a od plijena iskoriste samo iznutrice, kožu i masnoæu. U kasno ljeto i poèetkom jeseni sjeverni medvjedi zadržavaju se na obalama, gdje traže uginule kitove i morževe, a za ljetnih mjeseci hrane se bobicama i pokojim glodavcem. - Ustanovili smo da bijeli medvjedi imaju puno veæe energetske potrebe nego što smo mislili prije - rekao je dr. Anthony Pagano sa Sveuèilišta Kalifornija u Santa Cruzu, koji je vodio studiju objavljenu u Scienceu.</p><h5><strong>Surova zima</strong></h5><p>Istraživanje koje je proveo u suradnji s kolegama pokazuje da mnogi polarni medvjedi na Arktiku gube kilograme u vrijeme kad bi se trebali debljati. Za potrebe istraživanja znanstvenici su na devet ženki polarnih medvjeda stavili ogrlice za praæenje s kamerama i aplikacijama za brojenje koraka, registraciju srèanih otkucaja i drugih vitalnih podataka te da bi ih pratili za vrijeme triju proljetnih sezona. Medvjede su povremeno hvatali kako bi im provjerili krvnu sliku i izmjerili tjelesnu težinu. Došli su do zakljuèka da je pet polarnih medvjedica izgubilo na težini, a èetiri su gubile izmeðu 1,3 i 2,5 kilograma na dan. Prosjeèna težina polarnih medvjeda obuhvaæenih istraživanjem iznosila je 175 kilograma, a jedan od njih je za samo devet dana izgubio zabrinjavajuæa 23 kilograma. Znanstvenici su istraživanje na polarnim medvjedima proveli tijekom deset travanjskih dana, odnosno u vrijeme kad oni trebaju dobivati na težini jer im je to nužno da bi kasnije mogli imati mladunce, prehraniti ih i da bi svi zajedno preživjeli surovu zimu. No, sve je manje leda pa je medvjedima znatno otežano hvatanje mladunèadi tuljana u vrijeme koje im je kljuèno za lov. Manje leda na veæem prostoru znaèi da se medvjedi moraju više kretati, èesto plivajuæi, a posljedice su veæi utrošak energije, hipotermija i na koncu opasnost od ugibanja.</p><p>- Nijedan biolog ne govori da su polarni medvjedi pred izumiranjem, no oni koji su sada ugroženi upozoravaju nas na ono što slijedi - kaže dr. Steven Amstrup, vodeæi znanstvenik u organizaciji Polar Beer International i jedan od vodeæih struènjaka za polarne medvjede. Amstrup smatra da bi rast globalne temperature u ovom stoljeæu do dva Celzijeva stupnja omoguæio polarnim medvjedima da prežive na nekim podruèjima.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7254021 p").filter(function () {
+$("#content-body-6263871-7299241 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1345,16 +1328,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7254021").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7299241").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7254021").children().slice(max).remove();
+$("#content-body-6263871-7299241").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7254021").children().get(0);
+var firstChild = $("#content-body-6263871-7299241").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1392,13 +1375,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Vje%C5%BEbanje" class ="label label-default" >
-Vježbanje
+<a href="https://www.jutarnji.hr/tag/Klimatske_promjene" class ="label label-default" >
+Klimatske promjene
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Mr%C5%A1avljenje" class ="label label-default" >
-Mršavljenje
+<a href="https://www.jutarnji.hr/tag/Polarni_medvjed" class ="label label-default" >
+Polarni medvjed
 </a>
 </li>
 </ul>
@@ -1409,30 +1392,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="zivotne-price media none">
+<article class="znanost media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/darko-iz-knina-je-skoro-umro-od-debljine-nisu-me-mogli-izvagati-ni-stocnom-vagom-a-onda-sam-rekao-dosta-pogledajte-me-sada/5740295/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/vodeci-hrvatski-strucnjak-otkriva-za-jutarnji-zasto-otapanje-leda-na-arktiku-uzrokuje-debeli-minus-u-zagrebu-i-kakve-to-veze-ima-s-reykjavikom/7253679/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/darko-iz-knina-je-skoro-umro-od-debljine-nisu-me-mogli-izvagati-ni-stocnom-vagom-a-onda-sam-rekao-dosta-pogledajte-me-sada/5740295/">
-DARKO IZ KNINA JE SKORO UMRO OD DEBLJINE 'Nisu me mogli izvagati ni stoènom vagom, a onda sam rekao - dosta! Pogledajte me sada...'
+<a href="https://www.jutarnji.hr/life/znanost/vodeci-hrvatski-strucnjak-otkriva-za-jutarnji-zasto-otapanje-leda-na-arktiku-uzrokuje-debeli-minus-u-zagrebu-i-kakve-to-veze-ima-s-reykjavikom/7253679/">
+VODEÆI HRVATSKI STRUÈNJAK OTKRIVA ZA JUTARNJI Zašto otapanje leda na Arktiku uzrokuje debeli minus u Zagrebu i kakve to veze ima s Reykjavikom
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="zdravlje media none">
+<article class="znanost media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/golfska-struja-najslabija-je-u-posljednjih-1600-godina-znanstvenici-posljednjih-14-godina-upozoravaju-sto-nas-ceka-stize-nam-novo-ledeno-doba/7235550/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
-NAJNOVIJA DIJETA ZALUDJELA POLA SVIJETA Držite se ovih pravila i dobit æete rezultate ravne liposukciji
+<a href="https://www.jutarnji.hr/life/znanost/golfska-struja-najslabija-je-u-posljednjih-1600-godina-znanstvenici-posljednjih-14-godina-upozoravaju-sto-nas-ceka-stize-nam-novo-ledeno-doba/7235550/">
+GOLFSKA STRUJA NAJSLABIJA JE U POSLJEDNJIH 1600 GODINA! Znanstvenici posljednjih 14 godina upozoravaju što nas èeka: 'Stiže nam novo ledeno doba!'
 </a>
 </h4>
 </li>
@@ -1454,13 +1437,13 @@ NAJNOVIJA DIJETA ZALUDJELA POLA SVIJETA Držite se ovih pravila i dobit æete rezu
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1472,8 +1455,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1485,13 +1468,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1503,8 +1486,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1516,13 +1499,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1534,8 +1517,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1547,17 +1530,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1565,9 +1548,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1649,7 +1631,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7254021" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7299241" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1693,19 +1675,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zdravlje media c11a none">
+<article class="znanost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/rijesena-tajna-tutankamonove-grobnice-arheolozi-koji-su-desetljecima-tragali-za-nefertiti-i-njezinom-grobnicom-potpuno-se-razocarali/7323639/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/">
-ODLUKA VIJEÆA HZZO-a
+<a href="https://www.jutarnji.hr/life/znanost/rijesena-tajna-tutankamonove-grobnice-arheolozi-koji-su-desetljecima-tragali-za-nefertiti-i-njezinom-grobnicom-potpuno-se-razocarali/7323639/">
+GDJE JE POKOPANA?
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/">
-SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska lista, dodani i lijekovi za multiplu sklerozu i KOPB
+<a href="https://www.jutarnji.hr/life/znanost/rijesena-tajna-tutankamonove-grobnice-arheolozi-koji-su-desetljecima-tragali-za-nefertiti-i-njezinom-grobnicom-potpuno-se-razocarali/7323639/">
+RIJEŠENA TAJNA TUTANKAMONOVE GROBNICE Arheolozi koji su desetljeæima tragali za Nefertiti i njezinom grobnicom, potpuno se razoèarali...
 </a>
 </h4>
 </div>
@@ -1715,19 +1697,19 @@ SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska li
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zdravlje media c11a none">
+<article class="znanost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/djevojcici-su-presadili-srce-babuna-muskarcima-su-transplantirali-cimpanzine-testise-majmunu-su-usadili-svinjino-srce-evo-sto-im-se-dogodilo/7299256/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/">
-BUDUÆNOST ZDRAVSTVA
+<a href="https://www.jutarnji.hr/life/znanost/djevojcici-su-presadili-srce-babuna-muskarcima-su-transplantirali-cimpanzine-testise-majmunu-su-usadili-svinjino-srce-evo-sto-im-se-dogodilo/7299256/">
+KSENOTRANSPLANTACIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/">
-Jedini cilj zdravstva je vrijednost za pacijenta
+<a href="https://www.jutarnji.hr/life/znanost/djevojcici-su-presadili-srce-babuna-muskarcima-su-transplantirali-cimpanzine-testise-majmunu-su-usadili-svinjino-srce-evo-sto-im-se-dogodilo/7299256/">
+Djevojèici su presadili srce babuna, muškarcima su transplantirali èimpanzine testise, majmunu su usadili svinjino srce... Evo što im se dogodilo
 </a>
 </h4>
 </div>
@@ -1737,19 +1719,19 @@ Jedini cilj zdravstva je vrijednost za pacijenta
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zdravlje media c11a none">
+<article class="znanost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/foto-nevideni-pomor-na-plazi-gospoda-nakon-oluje-krenula-u-jutarnju-setnju-pa-ostala-zaprepastena-prizorom-nikad-nisam-vidjela-nista-slicno/7095390/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/">
-VIŠE SREÆE NEGO PAMETI
+<a href="https://www.jutarnji.hr/life/znanost/foto-nevideni-pomor-na-plazi-gospoda-nakon-oluje-krenula-u-jutarnju-setnju-pa-ostala-zaprepastena-prizorom-nikad-nisam-vidjela-nista-slicno/7095390/">
+FENOMEN KOJI NIJE NEPOZNAT
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/">
-KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Mislilo se da mu nema pomoæi, no onda je pronaðen antibiotik koji djeluje
+<a href="https://www.jutarnji.hr/life/znanost/foto-nevideni-pomor-na-plazi-gospoda-nakon-oluje-krenula-u-jutarnju-setnju-pa-ostala-zaprepastena-prizorom-nikad-nisam-vidjela-nista-slicno/7095390/">
+FOTO: NEVIÐENI POMOR NA PLAŽI Gospoða nakon oluje krenula u jutarnju šetnju, pa ostala zaprepaštena prizorom: 'Nikad nisam vidjela ništa slièno'
 </a>
 </h4>
 </div>
@@ -1759,19 +1741,19 @@ KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Misl
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zdravlje media c11a none">
+<article class="znanost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/neocekivano-otkrice-znanstvenika-napravili-smo-simulaciju-zemlje-koja-se-okrece-u-suprotnom-smjeru-i-prilicno-se-iznenadili-sahara-bi-bila-zelena/7297633/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
-KAKO VAM SE ÈINI?
+<a href="https://www.jutarnji.hr/life/znanost/neocekivano-otkrice-znanstvenika-napravili-smo-simulaciju-zemlje-koja-se-okrece-u-suprotnom-smjeru-i-prilicno-se-iznenadili-sahara-bi-bila-zelena/7297633/">
+RETRO-ROTACIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
-NAJNOVIJA DIJETA ZALUDJELA POLA SVIJETA Držite se ovih pravila i dobit æete rezultate ravne liposukciji
+<a href="https://www.jutarnji.hr/life/znanost/neocekivano-otkrice-znanstvenika-napravili-smo-simulaciju-zemlje-koja-se-okrece-u-suprotnom-smjeru-i-prilicno-se-iznenadili-sahara-bi-bila-zelena/7297633/">
+NEOÈEKIVANO OTKRIÆE ZNANSTVENIKA 'Napravili smo simulaciju Zemlje koja se okreæe u suprotnom smjeru i prilièno se iznenadili: Sahara bi bila zelena!'
 </a>
 </h4>
 </div>
@@ -1809,19 +1791,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1829,8 +1811,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1919,6 +1901,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1977,12 +1964,12 @@ Obitelj i djeca
 Tehnologija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -2206,11 +2193,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2258,14 +2240,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2309,34 +2291,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=36&contextPath=1-32-36-&pubId=1&cat=&meta=read-story&objId=7254021&type=article&title=VIDEO%3a+OD+DEBELJKA+DO+KOMADA+U+SAMO+12+TJEDANA+%26%23039%3b%c5%bdelio+sam+vidjeti+%c5%a1to+bi+se+dogodilo+da+dosljedno+vje%c5%bebam+tri+mjeseca%2c+no+nije+ba%c5%a1+bilo+zabavno%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fvideo-od-debeljka-do-komada-u-samo-12-tjedana-zelio-sam-vidjeti-sto-bi-se-dogodilo-da-dosljedno-vjezbam-tri-mjeseca-no-nije-bas-bilo-zabavno%2f7254021%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=33&contextPath=1-32-33-&pubId=1&cat=&meta=read-story&objId=7299241&type=article&title=HO%c4%86E+LI+POLARNI+MEDO+PRE%c5%bdIVJETI%3f+Vjerojatnost+da+se+populacija%2c+koja+se+procjenjuje+na+26.000+jedinki%2c+smanji+za+vi%c5%a1e+od+30+posto%2c+iznosi+70+posto&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fhoce-li-polarni-medo-prezivjeti-vjerojatnost-da-se-populacija-koja-se-procjenjuje-na-26000-jedinki-smanji-za-vise-od-30-posto-iznosi-70-posto%2f7299241%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=36&amp;contextPath=1-32-36-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7254021&amp;type=article&amp;title=VIDEO%3a+OD+DEBELJKA+DO+KOMADA+U+SAMO+12+TJEDANA+%26%23039%3b%c5%bdelio+sam+vidjeti+%c5%a1to+bi+se+dogodilo+da+dosljedno+vje%c5%bebam+tri+mjeseca%2c+no+nije+ba%c5%a1+bilo+zabavno%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fvideo-od-debeljka-do-komada-u-samo-12-tjedana-zelio-sam-vidjeti-sto-bi-se-dogodilo-da-dosljedno-vjezbam-tri-mjeseca-no-nije-bas-bilo-zabavno%2f7254021%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=33&amp;contextPath=1-32-33-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7299241&amp;type=article&amp;title=HO%c4%86E+LI+POLARNI+MEDO+PRE%c5%bdIVJETI%3f+Vjerojatnost+da+se+populacija%2c+koja+se+procjenjuje+na+26.000+jedinki%2c+smanji+za+vi%c5%a1e+od+30+posto%2c+iznosi+70+posto&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fhoce-li-polarni-medo-prezivjeti-vjerojatnost-da-se-populacija-koja-se-procjenjuje-na-26000-jedinki-smanji-za-vise-od-30-posto-iznosi-70-posto%2f7299241%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=439771616&title=Mr%c5%a1avljenje&url=tag%3ajltags%40eph.hr%2c2016%3aMr%25C5%25A1avljenje&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&cat=jltags%40eph.hr%2c2016&objId=1552249943&title=Polarni+medvjed&url=tag%3ajltags%40eph.hr%2c2016%3aPolarni_medvjed&rt=1&ctxId=33&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=439771616&amp;title=Mr%c5%a1avljenje&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMr%25C5%25A1avljenje&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1552249943&amp;title=Polarni+medvjed&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPolarni_medvjed&amp;rt=1&amp;ctxId=33&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=546502030&title=Vje%c5%bebanje&url=tag%3ajltags%40eph.hr%2c2016%3aVje%25C5%25BEbanje&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&cat=jltags%40eph.hr%2c2016&objId=523070206&title=Klimatske+promjene&url=tag%3ajltags%40eph.hr%2c2016%3aKlimatske_promjene&rt=1&ctxId=33&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=546502030&amp;title=Vje%c5%bebanje&amp;url=tag%3ajltags%40eph.hr%2c2016%3aVje%25C5%25BEbanje&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=523070206&amp;title=Klimatske+promjene&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKlimatske_promjene&amp;rt=1&amp;ctxId=33&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2389,7 +2371,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zdravlje/video-od-debeljka-do-komada-u-samo-12-tjedana-zelio-sam-vidjeti-sto-bi-se-dogodilo-da-dosljedno-vjezbam-tri-mjeseca-no-nije-bas-bilo-zabavno/7254021/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/znanost/hoce-li-polarni-medo-prezivjeti-vjerojatnost-da-se-populacija-koja-se-procjenjuje-na-26000-jedinki-smanji-za-vise-od-30-posto-iznosi-70-posto/7299241/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2399,14 +2381,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zdravlje/video-od-debeljka-do-komada-u-samo-12-tjedana-zelio-sam-vidjeti-sto-bi-se-dogodilo-da-dosljedno-vjezbam-tri-mjeseca-no-nije-bas-bilo-zabavno/7254021/",
-postId : "7254021",
+url : "https://www.jutarnji.hr/life/znanost/hoce-li-polarni-medo-prezivjeti-vjerojatnost-da-se-populacija-koja-se-procjenjuje-na-26000-jedinki-smanji-za-vise-od-30-posto-iznosi-70-posto/7299241/",
+postId : "7299241",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "VIDEO: OD DEBELJKA DO KOMADA U SAMO 12 TJEDANA 'Želio sam vidjeti što bi se dogodilo da dosljedno vježbam tri mjeseca, no nije baš bilo zabavno'",
-pubdate : "2018-04-17 23:40",
-authors : "Silvija Novak",
-sections : "Front Page, Life, Video, Video spektakli, Zdravlje",
-tags : "Mršavljenje, Vježbanje",
+title : "HOÆE LI POLARNI MEDO PREŽIVJETI? Vjerojatnost da se populacija, koja se procjenjuje na 26.000 jedinki, smanji za više od 30 posto, iznosi 70 posto",
+pubdate : "2018-04-30 18:30",
+authors : "Tanja Rudež",
+sections : "Front Page, Life, Znanost",
+tags : "Polarni medvjed, Klimatske promjene",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

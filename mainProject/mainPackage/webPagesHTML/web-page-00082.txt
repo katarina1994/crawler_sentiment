@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Hrvatski cyber policajci otkrili su i uhitili vlasnika najveæeg svjetskog ilegalnog internetskog servisa za DDoS kibernetièke napade, priopæio je danas MUP." />
-<meta name="keywords" content="hakeri, hakerski napad, Internet" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<meta name="keywords" content="igra, djeca" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>PAO JEDAN OD NAJZLOGLASNIJIH HAKERA NA SVIJETU, 19-GODIŠNJI HRVAT! Bio je vlasnik najveæeg svjetskog ilegalnog servisa za kibernetièke napade - Jutarnji List</title>
+<title>&#039;OVO JE NEVINOST U SVOJEM NAJBOLJEM IZDANJU&#039; Mama pokazala kakvo je blago našla u džepovima svojeg sina, ubrzo su se pridružili i drugi roditelji - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "US";
+var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Crna kronika";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7285123";
-var dfpArticleKeyword = "hakeri";
+var dfpCategory = "Obitelj i djeca";
+var dfpCategoryParent = "Life";
+var dfpRos = "life-ros";
+var dfpArticle = "7293715";
+var dfpArticleKeyword = "igra";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,8 +573,6 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
-<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
-<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -640,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/pao-jedan-od-najzloglasnijih-hakera-na-svijetu-19-godisnji-hrvat-bio-je-vlasnik-najveceg-svjetskog-ilegalnog-servisa-za-kiberneticke-napade/7285123/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/pao-jedan-od-najzloglasnijih-hakera-na-svijetu-19-godisnji-hrvat-bio-je-vlasnik-najveceg-svjetskog-ilegalnog-servisa-za-kiberneticke-napade/7285123/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/obitelj-i-djeca/ovo-je-nevinost-u-svojem-najboljem-izdanju-mama-pokazala-kakvo-je-blago-nasla-u-dzepovima-svojeg-sina-ubrzo-su-se-pridruzili-i-drugi-roditelji/7293715/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/obitelj-i-djeca/ovo-je-nevinost-u-svojem-najboljem-izdanju-mama-pokazala-kakvo-je-blago-nasla-u-dzepovima-svojeg-sina-ubrzo-su-se-pridruzili-i-drugi-roditelji/7293715/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -654,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/haker1jpg/7285150/ALTERNATES/LANDSCAPE_1180/haker1.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/blagojpg/7293706/ALTERNATES/LANDSCAPE_1180/blago.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/haker1jpg/7285150/ALTERNATES/LANDSCAPE_1180/haker1.jpg">
-<meta property="og:title" content="PAO JEDAN OD NAJZLOGLASNIJIH HAKERA NA SVIJETU, 19-GODIŠNJI HRVAT! Bio je vlasnik najveæeg svjetskog ilegalnog servisa za kibernetièke napade" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/blagojpg/7293706/ALTERNATES/LANDSCAPE_1180/blago.jpg">
+<meta property="og:title" content="'OVO JE NEVINOST U SVOJEM NAJBOLJEM IZDANJU' Mama pokazala kakvo je blago našla u džepovima svojeg sina, ubrzo su se pridružili i drugi roditelji" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/pao-jedan-od-najzloglasnijih-hakera-na-svijetu-19-godisnji-hrvat-bio-je-vlasnik-najveceg-svjetskog-ilegalnog-servisa-za-kiberneticke-napade/7285123/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/obitelj-i-djeca/ovo-je-nevinost-u-svojem-najboljem-izdanju-mama-pokazala-kakvo-je-blago-nasla-u-dzepovima-svojeg-sina-ubrzo-su-se-pridruzili-i-drugi-roditelji/7293715/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Hrvatski cyber policajci otkrili su i uhitili vlasnika najveæeg svjetskog ilegalnog internetskog servisa za DDoS kibernetièke napade, priopæio je danas MUP." />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="PAO JEDAN OD NAJZLOGLASNIJIH HAKERA NA SVIJETU, 19-GODIŠNJI HRVAT! Bio je vlasnik najveæeg svjetskog ilegalnog servisa za kibernetièke napade">
-<meta name="twitter:description" content="Hrvatski cyber policajci otkrili su i uhitili vlasnika najveæeg svjetskog ilegalnog internetskog servisa za DDoS kibernetièke napade, priopæio je danas MUP.">
+<meta name="twitter:title" content="'OVO JE NEVINOST U SVOJEM NAJBOLJEM IZDANJU' Mama pokazala kakvo je blago našla u džepovima svojeg sina, ubrzo su se pridružili i drugi roditelji">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -679,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -691,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Crna kronika, Vijesti, Front Page",
-pubdate: "2018-04-25T13:07+02:00",
-author: "Dražen Arapoviæ",
+data: { section: "Obitelj i djeca, Life, Front Page",
+pubdate: "2018-04-28T11:26+02:00",
+author: "Silvija Novak",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="life story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -795,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -810,7 +808,7 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
@@ -870,7 +868,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -888,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -938,7 +941,7 @@ Life
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -1134,39 +1137,64 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
+<li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
+<li><a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">Obitelj i djeca </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
-</a>
-</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
 </a>
 </li>
 <li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
 </a>
 </li>
 </ul>
@@ -1206,11 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-OPERACIJA 'MANUFAKTURA'
+ZAIGRANI KLINCI
 </p>
 <h1
 class="title">
-PAO JEDAN OD NAJZLOGLASNIJIH HAKERA NA SVIJETU, 19-GODIŠNJI HRVAT! Bio je vlasnik najveæeg svjetskog ilegalnog servisa za kibernetièke napade
+'OVO JE NEVINOST U SVOJEM NAJBOLJEM IZDANJU' Mama pokazala kakvo je blago našla u džepovima svojeg sina, ubrzo su se pridružili i drugi roditelji
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1226,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 13:07
+28.04.2018. u 11:26
 </p>
 </li>
 </ul>
@@ -1238,12 +1266,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/haker1jpg/7285150" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/blagojpg/7293706" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/haker1jpg/7285150/ALTERNATES/LANDSCAPE_380/haker1.jpg"
+<img src="https://www.jutarnji.hr/incoming/blagojpg/7293706/ALTERNATES/LANDSCAPE_380/blago.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/haker1jpg/7285150/BINARY/thumbnail/haker1.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/blagojpg/7293706/BINARY/thumbnail/blago.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1252,7 +1280,7 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> MUP
+<span> Katie Munnik / Twitter
 </span>
 </div>
 </div>
@@ -1288,68 +1316,30 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285123"
+<div id="content-body-6263871-7293715"
 >
-<p>Hrvatski cyber policajci otkrili su i uhitili vlasnika najveæeg svjetskog ilegalnog internetskog servisa za DDoS kibernetièke napade, <a href="https://www.mup.hr/novosti/5579/ugasen-najveci-svjetski-internetski-servis-za-ddos-napade" target="_blank">priopæio je danas MUP.</a></p><p>Webstresser.org najveæi je svjetski internetski servis na kojem su korisnici mogli unajmiti uslugu DDoS (Distributed Denial of Service) kibernetièkih napada na vlasnike internetskih stranica u cijelom svijetu. S više od 136.000 registriranih korisnika i 4 milijuna kibernetièkih napada ostvarenih do travnja 2018. Webstresser je predstavljao najveæu prijetnju za kljuène on-line usluge koje nude banke, poslovni sektor i državne institucije širom svijeta.</p><p>Webstresserom je upravljao devetnaestogodišnji hrvatski državljanin koji je uhiæen 24. travnja 2018. godine te je protiv njega podnesena kaznena prijava zbog osnovane sumnje da je poèinio kazneno djelo Teška kaznena djela protiv raèunalnih sustava, programa i podataka, za koje je zaprijeèena kazna zatvora od jedne do osam godina.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/haker2jpg/7285159" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/haker2jpg/7285159/ALTERNATES/FREE_380/haker2.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/haker2jpg/7285159/BINARY/thumbnail/haker2.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> MUP
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
+<p>Današnja djeca èesto su opsjednula pametnim telefonima i video igrama, no jedna je majka pokazala da priroda i dalje može zainteresirati malene.</p><p><strong>Katie Munnik</strong>, spisateljica iz Cardiffa, ispraznila je džepove sinove zimske jakne prije pranja i u njima pronašla pravo blago: drvene štapiæe i granèice, suho lišæe, kamenèiæe, komade kore od drveta, pa èak i malu plastiènu zmijicu.</p><p>Nije mogla odoljeti, pa je svoje otkriæe slikala i podijelila na Twitteru uz tekst:</p><p>'Našla sam ovo u džepovima 4-godišnjaka.'</p><p> <section class="social_embed ">
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Found in the pockets of the 4 yr-old&#39;s winter coat before washing. <a href="https://twitter.com/hashtag/lucky?src=hash&amp;ref_src=twsrc%5Etfw">#lucky</a> <a href="https://twitter.com/hashtag/spring?src=hash&amp;ref_src=twsrc%5Etfw">#spring</a> <a href="https://t.co/Q71MYwcI2A">pic.twitter.com/Q71MYwcI2A</a></p>&mdash; Katie Munnik (@messy_table) <a href="https://twitter.com/messy_table/status/988405559597654016?ref_src=twsrc%5Etfw">April 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </section>
- </p><p>Kriminalistièko istraživanje proveli su policijski službenici novoosnovane Službe kibernetièke sigurnosti Uprave kriminalistièke policije, objavila je danas hrvatska policija.</p><p>Osim hrvatskih policajaca, u operativnoj akciji su, uz podršku Europola, sudjelovale i nacionalne policijske službe Nizozemske, Velike Britanije, Kanade, Srbije, Španjolske, Italije i Hong Konga koje su uhitile pomagaèe i korisnike usluga DDoS napada te je meðunarodna policijska suradnja bila kljuèna za izvrsne rezultate operativne akcije koja je provedena pod kodnim imenom Manufaktura.</p><p>Tijekom provoðenja DDoS napada, koje je omoguæavao Webstresser, napadaè daljinski upravlja povezanim ureðajima spojenima na internet te usmjerava veliku kolièinu internetskog prometa prema odreðenoj web stranici ili internetskoj platformi, što za posljedicu ima usporavanje rada web stranice žrtve ili njenu potpunu nedostupnost te tako korisnici internet servisa nisu u moguænosti pristupiti razlièitim on-line uslugama.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/haker3jpg/7285162" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/haker3jpg/7285162/ALTERNATES/FREE_380/haker3.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/haker3jpg/7285162/BINARY/thumbnail/haker3.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> MUP
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
+ </p><p>Nije trebalo dugo èekati, i ostali su roditelji podijelili što njihovi klinci imaju u džepovima – od školjki do gumenih bombona.</p><p>Jedna je majka napisala: 'Nevinost u svojem najboljem izdanju!', a druga je dodala: 'Lijepo je vidjeti da se djeca i dalje vole igrati vani.'</p><p>Neki su roditelji savjetovali Katie da ovo neprocjenjivo blago saèuva jer æe djeèaku kad odraste sigurno biti drago vidjeti èime se igrao kad je bio mali.</p><p>Pogledajte što su sve roditelji našli u džepovima svoje djece:</p><p> <section class="social_embed ">
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Fir cones and stones...a firm favourite amongst 4 year-olds! <br> <a href="https://twitter.com/hashtag/checkpockets?src=hash&amp;ref_src=twsrc%5Etfw">#checkpockets</a> <a href="https://t.co/TBeC9bbjaj">pic.twitter.com/TBeC9bbjaj</a></p>&mdash; Bethany Still (@beesknees90) <a href="https://twitter.com/beesknees90/status/989186230008074241?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </section>
- </p><p>Nekada su poèinitelji koji su izvršavali DDoS napade trebali biti dobro upuæeni u naèine funkcioniranja internetske tehnologije, no s pojavom ilegalnih servisa poput Webstressera, to više nije sluèaj. Svaki korisnik Webstressera mogao je platiti naknadu putem on-line platformi za plaæanje ili u kriptovalutama poput Bitcoina te mu je za iznos veæ od 15 EUR na raspolaganje stavljena infrastruktura koja omoguæuje DDoS napade na web stranice po izboru korisnika.</p><p>U tijeku je postupak onemoguæavanja pristupa internetskoj domeni https://webstresser.org/ èime æe se sprijeèiti kibernetièki napadi u buduænosti, kažu iz MUP-a. </p>
+</p><p> <section class="social_embed ">
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">5 yr old&#39;s trouser pocket inventory, summer time <a href="https://t.co/ieaimSl0SI">pic.twitter.com/ieaimSl0SI</a></p>&mdash; Matt Flor (@mattflor) <a href="https://twitter.com/mattflor/status/989101299370209280?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+ </p><p> <section class="social_embed ">
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Don&#39;t think I&#39;ve ever grown out of this... It&#39;s tradition to bring something home in our pockets when we go on holiday... Interesting rocks, sticks, seashells &amp; an obligatory disco ball. Here&#39;s our (very edited) collection <a href="https://twitter.com/hashtag/adventuretreasure?src=hash&amp;ref_src=twsrc%5Etfw">#adventuretreasure</a> <a href="https://t.co/WuMrPUz9YC">pic.twitter.com/WuMrPUz9YC</a></p>&mdash; Rach McCafferty (@rachlikesrhythm) <a href="https://twitter.com/rachlikesrhythm/status/988852106344980481?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285123 p").filter(function () {
+$("#content-body-6263871-7293715 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1358,16 +1348,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285123").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7293715").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285123").children().slice(max).remove();
+$("#content-body-6263871-7293715").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285123").children().get(0);
+var firstChild = $("#content-body-6263871-7293715").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1405,18 +1395,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Internet" class ="label label-default" >
-Internet
+<a href="https://www.jutarnji.hr/tag/djeca-1" class ="label label-default" >
+djeca
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/hakerski_napad" class ="label label-default" >
-hakerski napad
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/hakeri" class ="label label-default" >
-hakeri
+<a href="https://www.jutarnji.hr/tag/igra" class ="label label-default" >
+igra
 </a>
 </li>
 </ul>
@@ -1427,59 +1412,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="svijet media none">
+<article class="art media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/praznili-su-bankomate-daljinski-uhicen-mozak-hakerske-bande-koja-je-u-40-drzava-diljem-svijeta-s-bankovnih-racuna-skinula-gotovo-milijardu-eura/7175688/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/art/zmaj-andelko-ponovno-leti-likovi-iz-istoimene-slikovnice-ozivjeli-u-novoj-drustvenoj-igri-pomognite-da-razveseli-djecu-u-bolnicama-vec-do-uskrsa/7137501/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/praznili-su-bankomate-daljinski-uhicen-mozak-hakerske-bande-koja-je-u-40-drzava-diljem-svijeta-s-bankovnih-racuna-skinula-gotovo-milijardu-eura/7175688/">
-PRAZNILI SU BANKOMATE DALJINSKI Uhiæen mozak hakerske bande koja je u 40 država diljem svijeta s bankovnih raèuna skinula gotovo milijardu eura!
+<a href="https://www.jutarnji.hr/kultura/art/zmaj-andelko-ponovno-leti-likovi-iz-istoimene-slikovnice-ozivjeli-u-novoj-drustvenoj-igri-pomognite-da-razveseli-djecu-u-bolnicama-vec-do-uskrsa/7137501/">
+ZMAJ ANÐELKO PONOVNO LETI! Likovi iz istoimene slikovnice oživjeli u novoj društvenoj igri, pomognite da razveseli djecu u bolnicama veæ do Uskrsa
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="svijet media none">
+<article class="zagreb media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/ruska-tvrtka-za-zastitu-kompjutora-kaspersky-razbio-americki-program-nadzora-terorista-na-bliskom-istoku/7160547/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/zagreb/s-tavana-na-europski-vrh-poceo-sam-bez-novca-i-plana-a-sada-osam-godina-kasnije-gradim-jednu-od-10-najvecih-maketa-na-kontinentu/7229346/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/ruska-tvrtka-za-zastitu-kompjutora-kaspersky-razbio-americki-program-nadzora-terorista-na-bliskom-istoku/7160547/">
-RUSKA TVRTKA ZA ZAŠTITU KOMPJUTORA Kaspersky razbio amerièki program nadzora terorista na Bliskom istoku </a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="hrvatska media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/" data-widget-title="" data-web-position="box"
-data-widget-position="2">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/ozbiljno-upozorenje-gradanima-kruze-lazne-elektronicke-poruke-dobijete-li-ovakav-email-o-dugovanjima-nemojte-ga-otvarati/7131531/">
-OZBILJNO UPOZORENJE GRAÐANIMA Kruže lažne elektronièke poruke: 'Dobijete li ovakav email o dugovanjima, nemojte ga otvarati'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="tehnologija media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/tehnologija/ruski-se-hakeri-maskirali-u-sjevernokorejske-te-napali-igre-u-pjongcangu-udar-se-dogodio-tijekom-ceremonije-otvaranja/7070064/" data-widget-title="" data-web-position="box"
-data-widget-position="3">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/tehnologija/ruski-se-hakeri-maskirali-u-sjevernokorejske-te-napali-igre-u-pjongcangu-udar-se-dogodio-tijekom-ceremonije-otvaranja/7070064/">
-RUSKI SE HAKERI MASKIRALI U SJEVERNOKOREJSKE TE NAPALI IGRE U PJONGÈANGU Udar se dogodio tijekom ceremonije otvaranja!
+<a href="https://www.jutarnji.hr/vijesti/zagreb/s-tavana-na-europski-vrh-poceo-sam-bez-novca-i-plana-a-sada-osam-godina-kasnije-gradim-jednu-od-10-najvecih-maketa-na-kontinentu/7229346/">
+S TAVANA NA EUROPSKI VRH 'Poèeo sam bez novca i plana, a sada, osam godina kasnije, gradim jednu od 10 najveæih maketa na kontinentu'
 </a>
 </h4>
 </li>
@@ -1501,13 +1457,13 @@ RUSKI SE HAKERI MASKIRALI U SJEVERNOKOREJSKE TE NAPALI IGRE U PJONGÈANGU Udar se
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1519,8 +1475,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1532,13 +1488,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1550,8 +1506,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1563,13 +1519,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1581,8 +1537,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1594,17 +1550,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1612,9 +1568,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1696,7 +1651,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285123" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7293715" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1740,19 +1695,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/">
-TRAGEDIJA ZA TRAGEDIJOM
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/">
+TABU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/">
-PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE Usred vožnje navodno tipkao SMS poruku, jedan djeèak (14) leži u komi
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/">
+MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru, a ja sam 15 godina vozila klince u školu. Ali nije da ih ne volim'
 </a>
 </h4>
 </div>
@@ -1762,19 +1717,19 @@ PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/">
-HOROR U MARINOM SELU
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/">
+MARKIRANA ODJEÆA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/">
-Nakon potjere uhiæen osumnjièeni ubojica majke sedmero djece, njezin ljubomorni muž: 'Mama je mrtva. Ne, nije se ugušila od dima. Ona je zadavljena!'
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/">
+FOTO: DJEÈAK SE IZRUGIVAO DJECI KOJA NOSE JEFTINU ODJEÆU, MAJKA GA DOVELA U RED 'Da više ljudi tako odgaja svoju djecu, svijet bi bio ljepši!'
 </a>
 </h4>
 </div>
@@ -1784,19 +1739,19 @@ Nakon potjere uhiæen osumnjièeni ubojica majke sedmero djece, njezin ljubomorni 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/">
-BLUDNE RADNJE
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/">
+POÈINJE SEZONA KUPANJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/">
-MUÈAN SLUÈAJ O KOJEM BRUJI CIJELI SPLIT Poznati nogometni trener optužen za spolno iskorištavanje djeèaka, ljubio ga, dirao, noæu zasipao SMS-ovima
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/">
+IGRA NA BAZENU UMALO ZAVRŠILA KOBNO Djevojèica skoro umrla od 'suhog utapanja'; primijetite li ove simptome, brzo idite doktoru
 </a>
 </h4>
 </div>
@@ -1806,19 +1761,19 @@ MUÈAN SLUÈAJ O KOJEM BRUJI CIJELI SPLIT Poznati nogometni trener optužen za spol
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/">
-STRAŠNA TRAGEDIJA U SMREÈJU
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/">
+STALNO ONLINE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/">
-FOTO: POŽAR PROGUTAO POLA SELA U GORSKOM KOTARU Dvije obitelji u suzama gledale kako im vatra u svega 15 minuta odnosi ono što su gradili cijeli život
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/">
+UZNEMIRUJUÆE ISPOVIJESTI MLADIH OVISNIKA 'Danima sam sjedio u sobi i surfao po društvenim mrežama. Jednog jutra došla su po mene dva èovjeka...'
 </a>
 </h4>
 </div>
@@ -1856,19 +1811,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1876,8 +1831,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1946,7 +1901,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1964,6 +1919,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2014,7 +1974,7 @@ Life
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -2253,11 +2213,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2305,14 +2260,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2356,45 +2311,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7285123&type=article&title=PAO+JEDAN+OD+NAJZLOGLASNIJIH+HAKERA+NA+SVIJETU%2c+19-GODI%c5%a0NJI+HRVAT!+Bio+je+vlasnik+najve%c4%87eg+svjetskog+ilegalnog+servisa+za+kiberneti%c4%8dke+napade&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fpao-jedan-od-najzloglasnijih-hakera-na-svijetu-19-godisnji-hrvat-bio-je-vlasnik-najveceg-svjetskog-ilegalnog-servisa-za-kiberneticke-napade%2f7285123%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=41&contextPath=1-32-41-&pubId=1&cat=&meta=read-story&objId=7293715&type=article&title=%26%23039%3bOVO+JE+NEVINOST+U+SVOJEM+NAJBOLJEM+IZDANJU%26%23039%3b+Mama+pokazala+kakvo+je+blago+na%c5%a1la+u+d%c5%beepovima+svojeg+sina%2c+ubrzo+su+se+pridru%c5%beili+i+drugi+roditelji&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fobitelj-i-djeca%2fovo-je-nevinost-u-svojem-najboljem-izdanju-mama-pokazala-kakvo-je-blago-nasla-u-dzepovima-svojeg-sina-ubrzo-su-se-pridruzili-i-drugi-roditelji%2f7293715%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285123&amp;type=article&amp;title=PAO+JEDAN+OD+NAJZLOGLASNIJIH+HAKERA+NA+SVIJETU%2c+19-GODI%c5%a0NJI+HRVAT!+Bio+je+vlasnik+najve%c4%87eg+svjetskog+ilegalnog+servisa+za+kiberneti%c4%8dke+napade&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fpao-jedan-od-najzloglasnijih-hakera-na-svijetu-19-godisnji-hrvat-bio-je-vlasnik-najveceg-svjetskog-ilegalnog-servisa-za-kiberneticke-napade%2f7285123%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=41&amp;contextPath=1-32-41-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7293715&amp;type=article&amp;title=%26%23039%3bOVO+JE+NEVINOST+U+SVOJEM+NAJBOLJEM+IZDANJU%26%23039%3b+Mama+pokazala+kakvo+je+blago+na%c5%a1la+u+d%c5%beepovima+svojeg+sina%2c+ubrzo+su+se+pridru%c5%beili+i+drugi+roditelji&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fobitelj-i-djeca%2fovo-je-nevinost-u-svojem-najboljem-izdanju-mama-pokazala-kakvo-je-blago-nasla-u-dzepovima-svojeg-sina-ubrzo-su-se-pridruzili-i-drugi-roditelji%2f7293715%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=96532688&title=hakeri&url=tag%3ajltags%40eph.hr%2c2016%3ahakeri&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=1896035379&title=igra&url=tag%3ajltags%40eph.hr%2c2016%3aigra&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=96532688&amp;title=hakeri&amp;url=tag%3ajltags%40eph.hr%2c2016%3ahakeri&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1896035379&amp;title=igra&amp;url=tag%3ajltags%40eph.hr%2c2016%3aigra&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1822526489&title=hakerski+napad&url=tag%3ajltags%40eph.hr%2c2016%3ahakerski_napad&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=1862858513&title=djeca&url=tag%3ajltags%40eph.hr%2c2016%3adjeca-1&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1822526489&amp;title=hakerski+napad&amp;url=tag%3ajltags%40eph.hr%2c2016%3ahakerski_napad&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1353111111&title=Internet&url=tag%3ajltags%40eph.hr%2c2016%3aInternet&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1353111111&amp;title=Internet&amp;url=tag%3ajltags%40eph.hr%2c2016%3aInternet&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1862858513&amp;title=djeca&amp;url=tag%3ajltags%40eph.hr%2c2016%3adjeca-1&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2447,7 +2391,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/pao-jedan-od-najzloglasnijih-hakera-na-svijetu-19-godisnji-hrvat-bio-je-vlasnik-najveceg-svjetskog-ilegalnog-servisa-za-kiberneticke-napade/7285123/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/obitelj-i-djeca/ovo-je-nevinost-u-svojem-najboljem-izdanju-mama-pokazala-kakvo-je-blago-nasla-u-dzepovima-svojeg-sina-ubrzo-su-se-pridruzili-i-drugi-roditelji/7293715/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2457,14 +2401,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/crna-kronika/pao-jedan-od-najzloglasnijih-hakera-na-svijetu-19-godisnji-hrvat-bio-je-vlasnik-najveceg-svjetskog-ilegalnog-servisa-za-kiberneticke-napade/7285123/",
-postId : "7285123",
+url : "https://www.jutarnji.hr/life/obitelj-i-djeca/ovo-je-nevinost-u-svojem-najboljem-izdanju-mama-pokazala-kakvo-je-blago-nasla-u-dzepovima-svojeg-sina-ubrzo-su-se-pridruzili-i-drugi-roditelji/7293715/",
+postId : "7293715",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "PAO JEDAN OD NAJZLOGLASNIJIH HAKERA NA SVIJETU, 19-GODIŠNJI HRVAT! Bio je vlasnik najveæeg svjetskog ilegalnog servisa za kibernetièke napade",
-pubdate : "2018-04-25 13:07",
-authors : "Dražen Arapoviæ",
-sections : "Front Page, Tehnologija, Crna kronika",
-tags : "hakeri, hakerski napad, Internet",
+title : "'OVO JE NEVINOST U SVOJEM NAJBOLJEM IZDANJU' Mama pokazala kakvo je blago našla u džepovima svojeg sina, ubrzo su se pridružili i drugi roditelji",
+pubdate : "2018-04-28 11:26",
+authors : "Silvija Novak",
+sections : "Front Page, Life, Obitelj i djeca",
+tags : "igra, djeca",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

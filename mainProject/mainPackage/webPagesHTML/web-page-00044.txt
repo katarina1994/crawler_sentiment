@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Vozaè kombija koji se u ponedjeljak u Torontu zaletio na pješake optužen je u utorak za deset ubojstava i 13 pokušaja ubojstava, no motiv zloèina i dalje je nepoznat. Alek Minassian (25) pojavio se na sudu u Torontu pokazujuæi vrlo malo emocija, a u sudnicu æe se vratiti 10. svibnja." />
-<meta name="keywords" content="Toronto, Kanada, Alek Minassian" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="U Krašiæu je u utorak obilježena 120. obljetnica roðenja blaženog Alojzija Stepinca, procesijom od Stepinèeve rodne kuæe u Brezariæu do župne crkve Presvetog Trojstva u Krašiæu te euharistijskih slavljem koji je predvodio je varaždinski biskup i Stepinèev praneæak mons. Josip Mrzljak, priopæeno je iz Tiskovnog ureda Zagrebaèke nadbiskupije." />
+<meta name="keywords" content="Alojzije Stepinac, Krašiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>OTKRIVENA &#039;ŠIFRIRANA PORUKA&#039; UBOJICE IZ TORONTA KOJU JE NAPISAO PRIJE POKOLJA Gazio ljude jer je imao siromašan seksualni život!? - Jutarnji List</title>
+<title>U Krašiæu obilježena 120. godišnjica roðenja blaženog Alojzija Stepinca - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "NO";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Svijet";
+var dfpCategory = "Hrvatska";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7283773";
-var dfpArticleKeyword = "Toronto";
+var dfpArticle = "7333629";
+var dfpArticleKeyword = "Alojzije Stepinac";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/otkrivena-sifrirana-poruka-ubojice-iz-toronta-koju-je-napisao-prije-pokolja-gazio-ljude-jer-je-imao-siromasan-seksualni-zivot/7283773/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/otkrivena-sifrirana-poruka-ubojice-iz-toronta-koju-je-napisao-prije-pokolja-gazio-ljude-jer-je-imao-siromasan-seksualni-zivot/7283773/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/u-krasicu-obiljezena-120-godisnjica-rodenja-blazenog-alojzija-stepinca/7333629/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/u-krasicu-obiljezena-120-godisnjica-rodenja-blazenog-alojzija-stepinca/7333629/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/ubojicajpg/7279110/ALTERNATES/LANDSCAPE_1180/ubojica.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/izlozba_stepinac5-070213.jpg/4606208/ALTERNATES/LANDSCAPE_1180/izlozba_stepinac5-070213.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/ubojicajpg/7279110/ALTERNATES/LANDSCAPE_1180/ubojica.jpg">
-<meta property="og:title" content="OTKRIVENA 'ŠIFRIRANA PORUKA' UBOJICE IZ TORONTA KOJU JE NAPISAO PRIJE POKOLJA Gazio ljude jer je imao siromašan seksualni život!?" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/izlozba_stepinac5-070213.jpg/4606208/ALTERNATES/LANDSCAPE_1180/izlozba_stepinac5-070213.jpg">
+<meta property="og:title" content="U Krašiæu obilježena 120. godišnjica roðenja blaženog Alojzija Stepinca" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/otkrivena-sifrirana-poruka-ubojice-iz-toronta-koju-je-napisao-prije-pokolja-gazio-ljude-jer-je-imao-siromasan-seksualni-zivot/7283773/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/u-krasicu-obiljezena-120-godisnjica-rodenja-blazenog-alojzija-stepinca/7333629/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Vozaè kombija koji se u ponedjeljak u Torontu zaletio na pješake optužen je u utorak za deset ubojstava i 13 pokušaja ubojstava, no motiv zloèina i dalje je nepoznat. Alek Minassian (25) pojavio se na sudu u Torontu pokazujuæi vrlo malo emocija, a u sudnicu æe se vratiti 10. svibnja." />
+<meta property="og:description" content="U Krašiæu je u utorak obilježena 120. obljetnica roðenja blaženog Alojzija Stepinca, procesijom od Stepinèeve rodne kuæe u Brezariæu do župne crkve Presvetog Trojstva u Krašiæu te euharistijskih slavljem koji je predvodio je varaždinski biskup i Stepinèev praneæak mons. Josip Mrzljak, priopæeno je iz Tiskovnog ureda Zagrebaèke nadbiskupije." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="OTKRIVENA 'ŠIFRIRANA PORUKA' UBOJICE IZ TORONTA KOJU JE NAPISAO PRIJE POKOLJA Gazio ljude jer je imao siromašan seksualni život!?">
-<meta name="twitter:description" content="Vozaè kombija koji se u ponedjeljak u Torontu zaletio na pješake optužen je u utorak za deset ubojstava i 13 pokušaja ubojstava, no motiv zloèina i dalje je nepoznat. Alek Minassian (25) pojavio se na sudu u Torontu pokazujuæi vrlo malo emocija, a u sudnicu æe se vratiti 10. svibnja.">
+<meta name="twitter:title" content="U Krašiæu obilježena 120. godišnjica roðenja blaženog Alojzija Stepinca">
+<meta name="twitter:description" content="U Krašiæu je u utorak obilježena 120. obljetnica roðenja blaženog Alojzija Stepinca, procesijom od Stepinèeve rodne kuæe u Brezariæu do župne crkve Presvetog Trojstva u Krašiæu te euharistijskih slavljem koji je predvodio je varaždinski biskup i Stepinèev praneæak mons. Josip Mrzljak, priopæeno je iz Tiskovnog ureda Zagrebaèke nadbiskupije.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +691,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Svijet, Vijesti, Front Page",
-pubdate: "2018-04-25T09:06+02:00",
-author: "Dražen Arapoviæ",
+data: { section: "Hrvatska, Vijesti, Front Page",
+pubdate: "2018-05-08T23:35+02:00",
+author: "Hina",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -858,12 +860,12 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -886,6 +888,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1134,15 +1141,15 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1165,6 +1172,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1204,11 +1216,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-NOVI DETALJI IZ ISTRAGE
+PROCESIJA OD RODNE KUÆE
 </p>
 <h1
 class="title">
-OTKRIVENA 'ŠIFRIRANA PORUKA' UBOJICE IZ TORONTA KOJU JE NAPISAO PRIJE POKOLJA Gazio ljude jer je imao siromašan seksualni život!?
+U Krašiæu obilježena 120. godišnjica roðenja blaženog Alojzija Stepinca
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,8 +1228,7 @@ OTKRIVENA 'ŠIFRIRANA PORUKA' UBOJICE IZ TORONTA KOJU JE NAPISAO PRIJE POKOLJA Ga
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a>,</li>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
 </ul>
 </p>
 </li>
@@ -1225,7 +1236,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 09:06
+08.05.2018. u 23:35
 </p>
 </li>
 </ul>
@@ -1237,21 +1248,24 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/ubojicajpg/7279110" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/izlozba_stepinac5-070213.jpg/4606208" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/ubojicajpg/7279110/ALTERNATES/LANDSCAPE_380/ubojica.jpg"
+<img src="https://www.jutarnji.hr/incoming/izlozba_stepinac5-070213.jpg/4606208/ALTERNATES/LANDSCAPE_380/izlozba_stepinac5-070213.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/ubojicajpg/7279110/BINARY/thumbnail/ubojica.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/izlozba_stepinac5-070213.jpg/4606208/BINARY/thumbnail/izlozba_stepinac5-070213.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Zagreb, 070213. Nadbiskupski pastoralni institut na Kaptolu.
+Otvorenje izlozbe Stepincevim stazama po Svetoj Zemlji povodom 75. obljetnice hrvatskog hodocasca u Kristovu domovinu, predvodjenog blazenim kardinalom Alojzijem Stepincem. Izlozbu su otvorili autor izlozbe Claude Grbesa, autorica likovnog postava Maja Juras, gradonacelnik Zagreba Milan Bandic i kardinal Josip Bozanic.
+Na fotografiji: detalj s izlozbe.
+Foto: Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Screenshot/LinkedIn
+<span> Boris Kovaèev / CROPIX
 </span>
 </div>
 </div>
@@ -1260,10 +1274,6 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1287,93 +1297,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7283773"
+<div id="content-body-6263871-7333629"
 >
-<p>Vozaè kombija koji se u ponedjeljak u Torontu zaletio na pješake optužen je u utorak za deset ubojstava i 13 pokušaja ubojstava, no motiv zloèina i dalje je nepoznat. <strong>Alek Minassian </strong>(25) pojavio se na sudu u Torontu pokazujuæi vrlo malo emocija, a u sudnicu æe se vratiti 10. svibnja.</p><p>On se u iznajmljenom bijelom kombiju namjerno zaletio u masu ljudi u sjevernom dijelu Toronta. Srušio je više desetaka pješaka i usmrtio njih 10.  Zasad je poznat identitet samo triju žrtava, <strong>Anne-Marie D'Amico</strong> koja je radila za amerièku investicijsku tvrtku i dvoje Južnokorejaca.</p><p>Iako policija za sada navodi da im optuženi nije bio poznat te da su nepoznati i njegovi motivi, iz policijske istrage su noæas procurili prvi zanimljivi detalji. Naime, Minassian je neposredno prije poèetka svog krvavog pohoda na Facebooku ostavio 'šifriranu poruku', navodi CNN.</p><p>
-<section class="social_embed ">
-<blockquote class="twitter-tweet" data-lang="hr"><p lang="en" dir="ltr">Is this the <a href="https://twitter.com/hashtag/Alek?src=hash&amp;ref_src=twsrc%5Etfw">#Alek</a> you are referring to? <br>Very tragic for all the family and friends.<a href="https://twitter.com/hashtag/Minassian?src=hash&amp;ref_src=twsrc%5Etfw">#Minassian</a> <a href="https://twitter.com/hashtag/AlekMinassian?src=hash&amp;ref_src=twsrc%5Etfw">#AlekMinassian</a> <a href="https://twitter.com/hashtag/Toronto?src=hash&amp;ref_src=twsrc%5Etfw">#Toronto</a> <a href="https://twitter.com/hashtag/TorontoAttack?src=hash&amp;ref_src=twsrc%5Etfw">#TorontoAttack</a> <a href="https://twitter.com/hashtag/TorontoStrong?src=hash&amp;ref_src=twsrc%5Etfw">#TorontoStrong</a> <a href="https://twitter.com/hashtag/Toronto?src=hash&amp;ref_src=twsrc%5Etfw">#Toronto</a> terrorism <a href="https://twitter.com/hashtag/torontoattack?src=hash&amp;ref_src=twsrc%5Etfw">#torontoattack</a> <br>&quot;Alek Minassian. REUTERS reports that &quot;Terrorism is the leading theory about motive&quot;. <a href="https://t.co/B8tg1XCAKM">pic.twitter.com/B8tg1XCAKM</a></p>&mdash; UnitedWeStand (@TrumpWillWinnn) <a href="https://twitter.com/TrumpWillWinnn/status/988562811512020992?ref_src=twsrc%5Etfw">23. travnja 2018.</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</section>
- </p><p>&quot;Incel pobuna je veæ poèela! Smijenit æemo svakog<strong> Chada</strong> i <strong>Stacy</strong>! Svi pozdravite vrhovnog gospodina <strong>Elliota Rodgera</strong>!&quot;, napisao je par minuta prije nego je kombijem pokosio pješake. BBC donosi više detalja te navodi kako je poruka ustvari pohvala <a href="https://en.wikipedia.org/wiki/2014_Isla_Vista_killings" target="_blank">Elliottu Rodgeru, 22-godišnjaku iz Kalifornije koji je 2014. u Isla Visti pobio šestero ljudi, ranio još 14, a onda izvršio samoubojstvo.</a></p><p><a href="https://en.wikipedia.org/wiki/Involuntary_celibacy" target="_blank">Termin 'incel'</a> se pak odnosi na online subkulturu, ali i zabranjenu grupu na Redditu, koju je koristio Rodger. U njoj su mladiæi raspravljali o siromašnom seksualnom životu i èinjenici da su neprivlaèni ženama, èesto okrivljujuæi upravo žene za taj problem. &quot;Chad&quot; i &quot;Stacy&quot; bila su imena kojim su nazivani privlaèni muškarci i žene 'nedostupni' èlanovima te grupe, 'incelima', veæinom mladiæima koji žive u celibatu protiv svoje volje(&quot;involuntary celibate&quot;).</p><p>Minassian je pohaðao srednjoškolski program za uèenike s posebnim potrebama.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/elliot-rodger/7283806" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/elliot-rodger/7283806/ALTERNATES/FREE_380/Elliot%20Rodger"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/elliot-rodger/7283806/BINARY/thumbnail/Elliot%20Rodger"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-<div class="picture-caption ">
-<h4>Elliot Rodger </h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Slièni napadi koji su posljednjih godina izvedeni u velikim gradovima bili su teroristièki, no premijer <strong>Justin Trudeau</strong> i ministar državne sigurnosti <strong>Ralph Goodale</strong> rekli su da se ne radi o toj vrsti napada. Goodale je dodao da u zemlji nije pojaèana uzbuna vezano uz terorizam i da se zasad ne zna ima li napad veze sa sastankom skupine G7 u Torontu koji je u tijeku.</p><p>Incident je najnoviji u nizu sliènih napada koji su u posljednje vrijeme zaredali u Sjedinjenim Državama i Europi i jedan je od najnasilnijih u novijoj kanadskoj povijesti. Napad se dogodio 30 km dalje od mjesta na kojem se u Torontu održava sastanak ministara vanjskih poslova skupine sedam najrazvijenijih zemalja.</p><p>Dan poslije Trudeau je od Kanaðana zatražio da ne žive u strahu. &quot;Ne smijemo živjeti u svakodnevnom strahu i nesigurnosti&quot; dok šetamo našim gradovima, rekao je premijer prije sastanka vlade u Ottawi. &quot;Kanaðani diljem zemlje su šokirani i tužni zbog tog bezumnog napada&quot;, dodao je šef vlade. &quot;Moramo ostati otvorena i slobodna zemlja&quot;, naglasio je.</p><p>
-<section>
-<article class="svijet media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/article7279926.ece" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="youtubeWrapper "
-style="width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/LdgMFumDV-c"
-frameborder="0"
-width="100%"
-allowfullscreen=""></iframe>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Videosnimka napada koju je snimio sluèajni prolaznik prikazana je na CBC televiziji i pokazuje muškarca koji je u više navrata uperio neki predmet prema policajcu, a ovaj mu vièe &quot;da legne&quot;, no muškarac odgovara &quot;Ubij me&quot;. Policajac iz Toronta koji je odbio pucati na osumnjièenika pohvaljen je u utorak za suzdržanost prema osobi koja je tvrdila da ima pištolj.</p><p>Nenasilnu akciju kanadske policije pozdravili su mnogi na društvenim mrežama. Policija u Sjedinjenim Državma kritizirana je jer je 'laka na obaraèu' što je pokazao niz ubojstava u kojima je policija pucala i ubila osumnjièene, a poslije se pokazalo da su bili nenaoružani.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/2018-04-24t225139z_524302870_rc1a1b2f49c0_rtrmadp_3_canada-vanjpg/7283836" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/2018-04-24t225139z_524302870_rc1a1b2f49c0_rtrmadp_3_canada-vanjpg/7283836/ALTERNATES/FREE_380/2018-04-24T225139Z_524302870_RC1A1B2F49C0_RTRMADP_3_CANADA-VAN.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/2018-04-24t225139z_524302870_rc1a1b2f49c0_rtrmadp_3_canada-vanjpg/7283836/BINARY/thumbnail/2018-04-24T225139Z_524302870_RC1A1B2F49C0_RTRMADP_3_CANADA-VAN.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Police vehicles are parked in front of the home of Alek Minassian, a day after multiple people were struck along a major intersection northern Toronto, Ontario, Canada, April 24, 2018. REUTERS/Saul Porto"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> REUTERS
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Policijski automobili ispred kuæe Aleka Minassijana</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p>
+<p>U Krašiæu je u utorak obilježena 120. obljetnica roðenja blaženog Alojzija Stepinca, procesijom od Stepinèeve rodne kuæe u Brezariæu do župne crkve Presvetog Trojstva u Krašiæu te euharistijskih slavljem koji je predvodio je varaždinski biskup i Stepinèev praneæak mons.<strong> Josip Mrzljak, </strong>priopæeno je iz Tiskovnog ureda Zagrebaèke nadbiskupije.</p><p>U propovijedi je biskup Mrzljak podsjetio na Stepinèeva pisma iz krašiækog zatoèeništva, poslana na razne adrese, koja su ilegalno putovala raznim osobama iz klerièkog i redovnièkog života, ali i mnogim kršæanskim laicima, kao i njegovoj rodbini. Ona pokazuju kršæansku zrelost i dosljednost u nimalo lakim vremenima jugoslavenske komunistièke diktature te su bila onda, ali i danas, siguran putokaz mnogim ljudima dobre volje, rekao je Mrzljak.</p><p>Pisma iz Krašiæa, istaknuo je, bogata su riznica svjedoèanstva èvrste i nepokolebljive vjere Alojzija Stepinca te njegova dragocjena ostavština svima.</p><p>&quot;Stoga i mi, koji danas ovdje obilježavamo 120. obljetnicu njegova roðenja i 20. obljetnicu proglašenja blaženim, te oèekujuæi još jedan korak – proglašenje svetim, kada bude Božje vrijeme, ponesimo sa sobom èvrstu i obnovljenu vjeru i zagovor bl. Alojzija&quot;, zakljuèio je biskup Mrzljak.</p><p>U ime zagrebaèkog nadbiskupa kardinala Josipa Bozaniæa okupljenima se obratio kancelar Nadbiskupskog duhovnog stola mons. Stjepan Veèkoviæ. Krašiæki župnik <strong>Ivan Vuèak </strong>u znak zahvale za predvoðenje euharistijskog slavlja, uruèio je biskupu Mrzljaku bistu Alojzija Stepinca. Bista, djelo akademskog kipara <strong>Vida Vuèaka</strong>, izraðena je prema fotografiji kardinala Stepinca u sudnici na montiranom politièkom sudu 1946. godine.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7283773 p").filter(function () {
+$("#content-body-6263871-7333629 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1382,16 +1313,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7283773").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7333629").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7283773").children().slice(max).remove();
+$("#content-body-6263871-7333629").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7283773").children().get(0);
+var firstChild = $("#content-body-6263871-7333629").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1429,18 +1360,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Alek_Minassian" class ="label label-default" >
-Alek Minassian
+<a href="https://www.jutarnji.hr/tag/Kra%C5%A1i%C4%87" class ="label label-default" >
+Krašiæ
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Kanada" class ="label label-default" >
-Kanada
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Toronto" class ="label label-default" >
-Toronto
+<a href="https://www.jutarnji.hr/tag/Alojzije_Stepinac" class ="label label-default" >
+Alojzije Stepinac
 </a>
 </li>
 </ul>
@@ -1451,44 +1377,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="svijet media none">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/biskup-kosic-nadam-se-da-ce-i-hrvatska-jednom-imati-vlast-kakvu-imaju-danas-madarska-i-poljska-zemlje-koje-se-javno-deklariraju-kao-krscanske/7023642/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/">
-ŠTO SE ZNA O NAPADAÈU IZ TORONTA? Istražitelji zavirili u povijest èovjeka koji je usred bijela dana ubio 10 ljudi i tek sada im ništa nije jasno
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/biskup-kosic-nadam-se-da-ce-i-hrvatska-jednom-imati-vlast-kakvu-imaju-danas-madarska-i-poljska-zemlje-koje-se-javno-deklariraju-kao-krscanske/7023642/">
+BISKUP KOŠIÆ 'Nadam se da æe i Hrvatska jednom imati vlast kakvu imaju danas Maðarska i Poljska, zemlje koje se javno deklariraju kao kršæanske'
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="svijet media none">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/video-foto-identificiran-manijak-iz-toronta-ovo-je-napadac-25-koji-je-kombijem-gazio-sve-pred-sobom-ubio-je-10-a-ranio-15-osoba/7279116/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/poceo-festival-tradicije-i-konzervativnih-ideja-organizira-ga-zaklada-vigilare-otvorio-ga-davor-stier-a-najvideniji-gost-je-kontroverzni-kardinal/5179336/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/video-foto-identificiran-manijak-iz-toronta-ovo-je-napadac-25-koji-je-kombijem-gazio-sve-pred-sobom-ubio-je-10-a-ranio-15-osoba/7279116/">
-VIDEO, FOTO: IDENTIFICIRAN MANIJAK IZ TORONTA Ovo je napadaè (25) koji je kombijem gazio sve pred sobom, ubio je 10, a ranio 15 osoba </a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="svijet media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/" data-widget-title="" data-web-position="box"
-data-widget-position="2">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/">
-KRVOPROLIÆE U SREDIŠTU TORONTA, VOZAÈ KOMBIJEM JURIO ULICOM I GAZIO SVE PRED SOBOM, POKOSIO DESETKE PJEŠAKA Najmanje 10 mrtvih, veæi broj ranjenih
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/poceo-festival-tradicije-i-konzervativnih-ideja-organizira-ga-zaklada-vigilare-otvorio-ga-davor-stier-a-najvideniji-gost-je-kontroverzni-kardinal/5179336/">
+POÈEO FESTIVAL TRADICIJE I KONZERVATIVNIH IDEJA Organizira ga zaklada Vigilare, otvorio ga Davor Stier, a najviðeniji gost je kontroverzni kardinal
 </a>
 </h4>
 </li>
@@ -1510,13 +1422,13 @@ KRVOPROLIÆE U SREDIŠTU TORONTA, VOZAÈ KOMBIJEM JURIO ULICOM I GAZIO SVE PRED SOB
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1528,8 +1440,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1541,13 +1453,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1559,8 +1471,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1572,13 +1484,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1590,8 +1502,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1603,17 +1515,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1621,9 +1533,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1705,7 +1616,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7283773" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7333629" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1749,19 +1660,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="svijet media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/">
-POZADINA STRAŠNOG ZLOÈINA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/">
-ŠTO SE ZNA O NAPADAÈU IZ TORONTA? Istražitelji zavirili u povijest èovjeka koji je usred bijela dana ubio 10 ljudi i tek sada im ništa nije jasno
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+KAKO GRADIÆ BLEIBURG ŽIVI UOÈI KOMEMORACIJE? Po prvi put dolaze 'austrijske kobre', a evo što lokalni mještani misle o gostima iz Hrvatske
 </a>
 </h4>
 </div>
@@ -1771,19 +1682,19 @@ POZADINA STRAŠNOG ZLOÈINA
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="svijet media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/">
-ŠOKANTNO UHIÆENJE
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+I TO JE HRVATSKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/">
-POLICAJCI SKOÈILI NA DJEVOJKU I POBRINULI SE DA CIJELI RESTORAN VIDI NJEZINE GRUDI Snimka izazvala val negodovanja u Americi: 'Gušiš me!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada
 </a>
 </h4>
 </div>
@@ -1793,19 +1704,19 @@ POLICAJCI SKOÈILI NA DJEVOJKU I POBRINULI SE DA CIJELI RESTORAN VIDI NJEZINE GRU
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="svijet media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/">
-SAM U KUÆI UŽIVO
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+KRŠENJE JAVNOG REDA I MIRA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/">
-'IDEM U ŠKOLU. ÆAO!' Djeèak (12) nakon rasprave s roditeljima odluèio preuzeti stvar u svoje ruke, pronašli ga u turistièkom raju na drugom kontinentu
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+VELIKI ŠOK ZA OSJEÈANKU Sunèala se na vlastitom balkonu, na vrata joj je pokucala policija i zalijepila novèanu kaznu: 'Jako je uznemirila susjeda'
 </a>
 </h4>
 </div>
@@ -1815,19 +1726,19 @@ SAM U KUÆI UŽIVO
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="svijet media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/">
-NAPAD U KANADI
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+VELIKA INVESTICIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/">
-KRVOPROLIÆE U SREDIŠTU TORONTA, VOZAÈ KOMBIJEM JURIO ULICOM I GAZIO SVE PRED SOBOM, POKOSIO DESETKE PJEŠAKA Najmanje 10 mrtvih, veæi broj ranjenih
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+FOTO: POGLEDAJTE KAKO NAPREDUJU RADOVI NA ÈIOVSKOM MOSTU Snimili smo gradilište jednog od najvažnijih infrastrukturnih projekata u državi iz zraka
 </a>
 </h4>
 </div>
@@ -1865,19 +1776,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1885,8 +1796,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1945,12 +1856,12 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1973,6 +1884,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2262,11 +2178,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2314,14 +2225,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2365,45 +2276,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7283773&type=article&title=OTKRIVENA+%26%23039%3b%c5%a0IFRIRANA+PORUKA%26%23039%3b+UBOJICE+IZ+TORONTA+KOJU+JE+NAPISAO+PRIJE+POKOLJA+Gazio+ljude+jer+je+imao+siroma%c5%a1an+seksualni+%c5%beivot!%3f&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fotkrivena-sifrirana-poruka-ubojice-iz-toronta-koju-je-napisao-prije-pokolja-gazio-ljude-jer-je-imao-siromasan-seksualni-zivot%2f7283773%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7333629&type=article&title=U+Kra%c5%a1i%c4%87u+obilje%c5%beena+120.+godi%c5%a1njica+ro%c4%91enja+bla%c5%beenog+Alojzija+Stepinca&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fu-krasicu-obiljezena-120-godisnjica-rodenja-blazenog-alojzija-stepinca%2f7333629%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7283773&amp;type=article&amp;title=OTKRIVENA+%26%23039%3b%c5%a0IFRIRANA+PORUKA%26%23039%3b+UBOJICE+IZ+TORONTA+KOJU+JE+NAPISAO+PRIJE+POKOLJA+Gazio+ljude+jer+je+imao+siroma%c5%a1an+seksualni+%c5%beivot!%3f&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fotkrivena-sifrirana-poruka-ubojice-iz-toronta-koju-je-napisao-prije-pokolja-gazio-ljude-jer-je-imao-siromasan-seksualni-zivot%2f7283773%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7333629&amp;type=article&amp;title=U+Kra%c5%a1i%c4%87u+obilje%c5%beena+120.+godi%c5%a1njica+ro%c4%91enja+bla%c5%beenog+Alojzija+Stepinca&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fu-krasicu-obiljezena-120-godisnjica-rodenja-blazenog-alojzija-stepinca%2f7333629%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=703225281&title=Toronto&url=tag%3ajltags%40eph.hr%2c2016%3aToronto&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1918993522&title=Alojzije+Stepinac&url=tag%3ajltags%40eph.hr%2c2016%3aAlojzije_Stepinac&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=703225281&amp;title=Toronto&amp;url=tag%3ajltags%40eph.hr%2c2016%3aToronto&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1918993522&amp;title=Alojzije+Stepinac&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAlojzije_Stepinac&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=926692980&title=Kanada&url=tag%3ajltags%40eph.hr%2c2016%3aKanada&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=190482203&title=Kra%c5%a1i%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aKra%25C5%25A1i%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=926692980&amp;title=Kanada&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKanada&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1417373953&title=Alek+Minassian&url=tag%3ajltags%40eph.hr%2c2016%3aAlek_Minassian&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1417373953&amp;title=Alek+Minassian&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAlek_Minassian&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=190482203&amp;title=Kra%c5%a1i%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKra%25C5%25A1i%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2456,7 +2356,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/otkrivena-sifrirana-poruka-ubojice-iz-toronta-koju-je-napisao-prije-pokolja-gazio-ljude-jer-je-imao-siromasan-seksualni-zivot/7283773/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/u-krasicu-obiljezena-120-godisnjica-rodenja-blazenog-alojzija-stepinca/7333629/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2466,14 +2366,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/svijet/otkrivena-sifrirana-poruka-ubojice-iz-toronta-koju-je-napisao-prije-pokolja-gazio-ljude-jer-je-imao-siromasan-seksualni-zivot/7283773/",
-postId : "7283773",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/u-krasicu-obiljezena-120-godisnjica-rodenja-blazenog-alojzija-stepinca/7333629/",
+postId : "7333629",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "OTKRIVENA 'ŠIFRIRANA PORUKA' UBOJICE IZ TORONTA KOJU JE NAPISAO PRIJE POKOLJA Gazio ljude jer je imao siromašan seksualni život!?",
-pubdate : "2018-04-25 09:06",
-authors : "Dražen Arapoviæ",
-sections : "Front Page, Vijesti, Video, Video news, Svijet",
-tags : "Toronto, Kanada, Alek Minassian",
+title : "U Krašiæu obilježena 120. godišnjica roðenja blaženog Alojzija Stepinca",
+pubdate : "2018-05-08 23:35",
+authors : "Hina",
+sections : "Hrvatska",
+tags : "Alojzije Stepinac, Krašiæ",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

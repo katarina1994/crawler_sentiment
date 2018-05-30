@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Spor oko imenovanja uprave u zajednièkoj nuklearki Krško (NEK) vjerojatno æe trebati riješiti arbitražom jer se Slovenija i dalje protivi kandidatu za èlana dvoèlane uprave kojega je predložio HEP, tvrdi danas ljubljansko &#034;Delo&#034;." />
-<meta name="keywords" content="Slovenija, arbitraža, Krško, nuklearna elektrana, Nuklearna elektrana Krško" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Sukobi u zagrebaèkom SDP-u koji su kulminirali usvajanjem izbornih pravila po kojima æe se birati buduæi predsjednik najveæe organizacije u SDP-u ne jenjavaju." />
+<meta name="keywords" content="Aleksandra Kolariæ, Alen Èièak, Gordan Maras, Denis Hrestak, SDP, izbori SDP, Davor Bernardiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>ZBOG ÈOVJEKA KOJI JE VRDOLJAKA OPTUŽIO ZA PRIJETNJE SLOVENIJA I HRVATSKA IDU NA NOVU ARBITRAŽU? Sporna je njegova pozicija u nuklearki Krško... - Jutarnji List</title>
+<title>U SDP-u KLJUÈA UOÈI IZBORA PREDSJEDNIKA ZAGREBAÈKE ORGANIZACIJE Bernardiæev favorit suoèen s teškim optužbama: &#039;Ovo šteti mom ugledu!&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "DE";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
 var dfpCategory = "Hrvatska";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7285240";
-var dfpArticleKeyword = "Slovenija";
+var dfpArticle = "7327245";
+var dfpArticleKeyword = "Aleksandra Kolariæ";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/zbog-covjeka-koji-je-vrdoljaka-optuzio-za-prijetnje-slovenija-i-hrvatska-idu-na-novu-arbitrazu-sporna-je-njegova-pozicija-u-nuklearki-krsko/7285240/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/zbog-covjeka-koji-je-vrdoljaka-optuzio-za-prijetnje-slovenija-i-hrvatska-idu-na-novu-arbitrazu-sporna-je-njegova-pozicija-u-nuklearki-krsko/7285240/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/u-sdp-u-kljuca-uoci-izbora-predsjednika-zagrebacke-organizacije-bernardicev-favorit-suocen-s-teskim-optuzbama-ovo-steti-mom-ugledu/7327245/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/u-sdp-u-kljuca-uoci-izbora-predsjednika-zagrebacke-organizacije-bernardicev-favorit-suocen-s-teskim-optuzbama-ovo-steti-mom-ugledu/7327245/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/vrdoljakjpg/7269249/ALTERNATES/LANDSCAPE_1180/vrdoljak.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/hrestak_bero_naslovnajpg/7327308/ALTERNATES/LANDSCAPE_1180/hrestak_bero_naslovna.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/vrdoljakjpg/7269249/ALTERNATES/LANDSCAPE_1180/vrdoljak.jpg">
-<meta property="og:title" content="ZBOG ÈOVJEKA KOJI JE VRDOLJAKA OPTUŽIO ZA PRIJETNJE SLOVENIJA I HRVATSKA IDU NA NOVU ARBITRAŽU? Sporna je njegova pozicija u nuklearki Krško..." />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/hrestak_bero_naslovnajpg/7327308/ALTERNATES/LANDSCAPE_1180/hrestak_bero_naslovna.jpg">
+<meta property="og:title" content="U SDP-u KLJUÈA UOÈI IZBORA PREDSJEDNIKA ZAGREBAÈKE ORGANIZACIJE Bernardiæev favorit suoèen s teškim optužbama: 'Ovo šteti mom ugledu!'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/zbog-covjeka-koji-je-vrdoljaka-optuzio-za-prijetnje-slovenija-i-hrvatska-idu-na-novu-arbitrazu-sporna-je-njegova-pozicija-u-nuklearki-krsko/7285240/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/u-sdp-u-kljuca-uoci-izbora-predsjednika-zagrebacke-organizacije-bernardicev-favorit-suocen-s-teskim-optuzbama-ovo-steti-mom-ugledu/7327245/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Spor oko imenovanja uprave u zajednièkoj nuklearki Krško (NEK) vjerojatno æe trebati riješiti arbitražom jer se Slovenija i dalje protivi kandidatu za èlana dvoèlane uprave kojega je predložio HEP, tvrdi danas ljubljansko "Delo"." />
+<meta property="og:description" content="Sukobi u zagrebaèkom SDP-u koji su kulminirali usvajanjem izbornih pravila po kojima æe se birati buduæi predsjednik najveæe organizacije u SDP-u ne jenjavaju." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="ZBOG ÈOVJEKA KOJI JE VRDOLJAKA OPTUŽIO ZA PRIJETNJE SLOVENIJA I HRVATSKA IDU NA NOVU ARBITRAŽU? Sporna je njegova pozicija u nuklearki Krško...">
-<meta name="twitter:description" content="Spor oko imenovanja uprave u zajednièkoj nuklearki Krško (NEK) vjerojatno æe trebati riješiti arbitražom jer se Slovenija i dalje protivi kandidatu za èlana dvoèlane uprave kojega je predložio HEP, tvrdi danas ljubljansko "Delo".">
+<meta name="twitter:creator" content="Ivanka Toma">
+<meta name="twitter:title" content="U SDP-u KLJUÈA UOÈI IZBORA PREDSJEDNIKA ZAGREBAÈKE ORGANIZACIJE Bernardiæev favorit suoèen s teškim optužbama: 'Ovo šteti mom ugledu!'">
+<meta name="twitter:description" content="Sukobi u zagrebaèkom SDP-u koji su kulminirali usvajanjem izbornih pravila po kojima æe se birati buduæi predsjednik najveæe organizacije u SDP-u ne jenjavaju.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -690,8 +692,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-25T13:42+02:00",
-author: "Hina",
+pubdate: "2018-05-07T13:16+02:00",
+author: "Ivanka Toma",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -886,6 +888,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1167,6 +1174,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 </nav>
@@ -1204,11 +1216,10 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-TVRDI 'DELO'
-</p>
+ZAGREBAÈKI IZBORI </p>
 <h1
 class="title">
-ZBOG ÈOVJEKA KOJI JE VRDOLJAKA OPTUŽIO ZA PRIJETNJE SLOVENIJA I HRVATSKA IDU NA NOVU ARBITRAŽU? Sporna je njegova pozicija u nuklearki Krško...
+U SDP-u KLJUÈA UOÈI IZBORA PREDSJEDNIKA ZAGREBAÈKE ORGANIZACIJE Bernardiæev favorit suoèen s teškim optužbama: 'Ovo šteti mom ugledu!'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1227,7 @@ ZBOG ÈOVJEKA KOJI JE VRDOLJAKA OPTUŽIO ZA PRIJETNJE SLOVENIJA I HRVATSKA IDU NA 
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
+<li><a href="https://www.jutarnji.hr/autori/ivanka-toma">Ivanka Toma</a></li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1235,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 13:42
+07.05.2018. u 13:16
 </p>
 </li>
 </ul>
@@ -1236,32 +1247,40 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/vrdoljakjpg/7269249" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/hrestak_bero_naslovnajpg/7327308" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/vrdoljakjpg/7269249/ALTERNATES/LANDSCAPE_380/vrdoljak.jpg"
+<img src="https://www.jutarnji.hr/incoming/hrestak_bero_naslovnajpg/7327308/ALTERNATES/LANDSCAPE_380/hrestak_bero_naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/vrdoljakjpg/7269249/BINARY/thumbnail/vrdoljak.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/hrestak_bero_naslovnajpg/7327308/BINARY/thumbnail/hrestak_bero_naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Zagreb, 240318.
+Sredisnjica SDP-a.
+Glavni odbor Socijaldemokratske partije Hrvatske odrzao sjednicu u sredisnjici stranke.
+Na fotografiji: Davor Bernardic.
+Foto: Marko Todorov / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> CROPIX, SDP Zagreb
 </span>
 </div>
 </div>
 <div class="picture-caption ">
-<h4>Ivan Vrdoljak i Hrvoje Perhariæ</h4>
+<h4>U krugu: Denis Hrestak; Na fotografiji: Davor Bernardiæ</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1285,14 +1304,17 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285240"
+<div id="content-body-6263871-7327245"
 >
-<p>Spor oko imenovanja uprave u zajednièkoj nuklearki Krško (NEK) vjerojatno æe trebati riješiti arbitražom jer se Slovenija i dalje protivi kandidatu za èlana dvoèlane uprave kojega je predložio HEP, tvrdi danas ljubljansko &quot;Delo&quot;.</p><p>Nakon što je Gen.energija, slovenski suvlasnik NEK-a, 10. travnja privremeno produžila mandat dugogodišnjem direktoru NEK-a <strong>Stani Rožmanu </strong>bez suglasnosti Hrvatske elektroprivrede (HEP), koja suglasnost uvjetuje prijevremenim opozivom sadašnjeg svog èlana uprave u NEK-u <strong>Hrvoja Perhariæa</strong>, slovenski bi suvlasnik o novonastaloj situaciji trebao na skupštini odluèivati u èetvrtak, ali je malo vjerojatno da æe doæi do deblokade situacije jer Slovenija ne pristaje na &quot;vezanu trgovinu&quot; i novog HEP-ova kandidata za to mjesto. </p><p>To je, prema informaciji slovenskog lista, <strong>Saša Medakoviæ</strong>, aktualni direktor hrvatskog državnog zavoda za radiološku i nuklearnu sigurnost.</p><p>Ako HEP i dalje bude inzistirao na imenovanju Medakoviæa, èime se blokira i odobrenje novog mandata za Rožmana, onda æe spor vjerojatno u buduænosti morati rješavati ekspertna arbitraža u kojoj æe po jednog èlana imenovati HEP i Gen.energija, dok bi treæi bio izabran njihovim suglasjem, kazao je za &quot;Delo&quot; direktor Gen.energije <strong>Martin Novšak.</strong></p><p>&quot;Mi ne odrièemo Hrvatskoj pravo da u bilo kojem trenutku zamijeni svog èlana uprave, no tražimo da se izabere èovjek primjerenih kvalifikacija i u skladu s praksom u svijetu&quot;, kazao je Novšak, dodavši da se struèno obuèavanje kadrova za najistaknutija rukovodeæa mjesta, bilo da je rijeè o slovenskim ili hrvatskim kadrovima, u nuklearci u Krškom planski provodi od 2006. godine.</p><p>Sadašnji HEP-ov èlan uprave Perhariæ, navodi &quot;Delo&quot;, želi &quot;opovrgnuti mit&quot; da bi uprava NEK-a poslove u NEK-u morala jednakomjerno razdijeliti na slovenska i hrvatska poduzeæa i dobavljaèe, tvrdi &quot;Delo&quot;, prema kojemu je to i bit njegova sudskog spora s predsjednikom HNS-a<strong> Ivanom</strong> <strong>Vrdoljakom</strong> kojega je tužio zbog navodnih prijetnji.</p><p>Kako navodi &quot;Delo&quot;, Perhariæ tvrdi da Vrdoljak, koji je 2015. bio ministar za gospodarstvo i supredsjedatelj meðudržavnog povjerenstva za Krško, svojim optužbama kako je Perhariæ pristajanjem na manji udjel poslova za hrvatske tvrtke oštetio Hrvatsku za dvije milijarde kuna želi preusmjeriti pozornost javnosti od &quot;biti problema&quot;, a to je, kako dodaje, da je NEK-u agresivno predlagao svog &quot;nekompetentnog kandidata&quot; i tako izazvao sadašnju blokadu.</p><p> </p>
+<p>Sukobi u zagrebaèkom SDP-u koji su kulminirali usvajanjem izbornih pravila po kojima æe se birati buduæi predsjednik najveæe organizacije u SDP-u ne jenjavaju. </p><p>U igri su èetiri kandidata: <strong>Aleksandra Kolariæ, Alen Èièak, Gordan Maras i Denis Hrestak. </strong></p><p>Od svih njih jedino Hrestak važi za favorita aktualnog predsjednika stranke <strong>Davora Bernardiæa</strong>, a na njegov raèun sve se glasnije iznose optužbe za izborni inženjering i manipulaciju èlanarinama èija je uplata preduvjet da èlanovi sudjeluju u izborima.</p><p><strong>Aleksandra Kolariæ i Gordan Maras</strong> javno su Hrestaka prozvali sumnjajuæi u manipulacije koje proizlaze iz tvrdnje da Hrestak kako zaposlenik stranke, za razliku od protukandidata, ima uvid u bazu podataka o èlanstvu.</p><p>Prozvani Hrestak sve to odbacuje, te tvrdi da se takvim izjavama nanosi šteta njegovom osobnom ugledu, ali i ugledu SDP-a.</p><p>- Uoèi unutarstranaèkih izbora naše stranke, u medije su plasirane netoène informacije koje štete mom ugledu osobno, ali i SDP-u, pogotovo zagrebaèkoj organizaciji, stoga u potpunosti odbacujem i odgovorno tvrdim da nije bilo zlouporabe baze podataka èlanova - kaže Hrestak.</p><p>U svome priopæenju kaže kako je njegova jedina prednost u buduæoj kampanji njegovi dosadašnji rezultati i program. </p><p>- U stranci sam od poèetka 1998. godine i u ovih dvadeset godina prošao sam put od èlana stranke do èlana Predsjedništva Gradske organizacije. Od mog uèlanjenja, u mojoj Mjesnoj organizaciji ili ogranku, SDP je uvijek prva stranka po broju dobivenih glasova. Moj cilj je da tim znanjem i iskustvom vratim SDP na prvo mjesto u Gradu Zagrebu. </p><p>Držim da su èlanovi stranke temelj i garancija uspjeha te je nužno uspostaviti èvrstu vezu izmeðu rada u stranci, doprinosa stranci i kasnijeg hijerarhijskog napredovanja unutar stranke. Onima koji nièime nisu doprinijeli preostaje tražiti medijsku pažnju, a ja odbijam biti dijelom njihove samopromocije. Stranka je tim, ne pojedinac. </p><p>U zagrebaèkom SDP-u nužno je izgraditi i uèiniti prepoznatljivima što veæi broj naših èlanica i èlanova, novih imena, osoba koje æe na lokalnim ili parlamentarnim izborima svojim ugledom motivirati, privuæi graðane da nam daju glas - kaže Hrestak.</p><p>Dodaje kako govori o ljudima koji su proèitali Statut i nije ih potrebno podsjeæati na obveze poput plaæanja èlanarine, jer im je stalo aktivno sudjelovati u djelovanju stranke i kada nije kampanja.</p><p>Svoje protukandidate Hrestak je pozvao da javno predstave svoje dosadašnje rezultate, ciljeve za zagrebaèki SDP i naèine na koje ih planiraju ostvariti.</p><p> <section class="social_embed ">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdenis.hrestak.5%2Fposts%2F10213204087551689&width=500" width="500" height="808" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285240 p").filter(function () {
+$("#content-body-6263871-7327245 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1301,16 +1323,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285240").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7327245").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285240").children().slice(max).remove();
+$("#content-body-6263871-7327245").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285240").children().get(0);
+var firstChild = $("#content-body-6263871-7327245").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1348,28 +1370,38 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Nuklearna_elektrana_Kr%C5%A1ko" class ="label label-default" >
-Nuklearna elektrana Krško
+<a href="https://www.jutarnji.hr/tag/Davor_Bernardi%C4%87" class ="label label-default" >
+Davor Bernardiæ
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/nuklearna_elektrana" class ="label label-default" >
-nuklearna elektrana
+<a href="https://www.jutarnji.hr/tag/izbori_SDP" class ="label label-default" >
+izbori SDP
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Kr%C5%A1ko" class ="label label-default" >
-Krško
+<a href="https://www.jutarnji.hr/tag/SDP" class ="label label-default" >
+SDP
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/arbitra%C5%BEa" class ="label label-default" >
-arbitraža
+<a href="https://www.jutarnji.hr/tag/Denis_Hrestak" class ="label label-default" >
+Denis Hrestak
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Slovenija" class ="label label-default" >
-Slovenija
+<a href="https://www.jutarnji.hr/tag/Gordan_Maras" class ="label label-default" >
+Gordan Maras
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Alen_%C4%8Ci%C4%8Dak" class ="label label-default" >
+Alen Èièak
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Aleksandra_Kolari%C4%87" class ="label label-default" >
+Aleksandra Kolariæ
 </a>
 </li>
 </ul>
@@ -1382,13 +1414,13 @@ Vezane vijesti
 <section>
 <article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/clan-uprave-krskog-o-kaznenoj-prijavi-protiv-vrdoljaka-podnesena-je-iskljucivo-mojom-osobnom-odlukom-i-nema-veze-sa-slovenskom-stranom/7280628/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/bernardic-zaposlit-cemo-mlade-i-smanjiti-pdv-u-turizmu-komadina-zivi-zid-za-razgovor-je-potrebno-dvoje/7323219/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/clan-uprave-krskog-o-kaznenoj-prijavi-protiv-vrdoljaka-podnesena-je-iskljucivo-mojom-osobnom-odlukom-i-nema-veze-sa-slovenskom-stranom/7280628/">
-ÈLAN UPRAVE KRŠKOG O KAZNENOJ PRIJAVI PROTIV VRDOLJAKA 'Podnesena je iskljuèivo mojom osobnom odlukom i nema veze sa slovenskom stranom'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/bernardic-zaposlit-cemo-mlade-i-smanjiti-pdv-u-turizmu-komadina-zivi-zid-za-razgovor-je-potrebno-dvoje/7323219/">
+BERNARDIÆ 'Zaposlit æemo mlade i smanjiti PDV u turizmu' KOMADINA 'Živi zid? Za razgovor je potrebno dvoje'
 </a>
 </h4>
 </li>
@@ -1397,13 +1429,13 @@ data-widget-position="0">
 </article>
 <article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/pozadina-optuznice-protiv-vrdoljaka-bitka-za-utjecaj-u-nuklearki-optuzba-navodi-svjedoka-vrdoljak-moje-svjedoke-dorh-nije-ni-ispitao/7269303/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kolaric-i-maras-izbori-u-zagrebackom-sdp-u-su-kontaminirani/7323291/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/pozadina-optuznice-protiv-vrdoljaka-bitka-za-utjecaj-u-nuklearki-optuzba-navodi-svjedoka-vrdoljak-moje-svjedoke-dorh-nije-ni-ispitao/7269303/">
-POZADINA OPTUŽNICE PROTIV VRDOLJAKA: BITKA ZA UTJECAJ U NUKLEARKI? Optužba navodi svjedoka, Vrdoljak: 'Moje svjedoke DORH nije ni ispitao'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kolaric-i-maras-izbori-u-zagrebackom-sdp-u-su-kontaminirani/7323291/">
+Kolariæ i Maras: Izbori u zagrebaèkom SDP-u su kontaminirani
 </a>
 </h4>
 </li>
@@ -1412,28 +1444,13 @@ POZADINA OPTUŽNICE PROTIV VRDOLJAKA: BITKA ZA UTJECAJ U NUKLEARKI? Optužba navod
 </article>
 <article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/dan-nakon-sto-je-potvrdena-optuznica-protiv-vrdoljaka-oglasio-se-sef-hns-a-nikada-nikome-nisam-prijetio/7264491/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/stigao-najnoviji-cro-demoskop-rejting-dviju-najjacih-stranaka-blago-pao-zivi-zid-se-ucvrstio-na-trecem-mjestu-a-najpozitivniji-politicar-je-nitko/7322937/" data-widget-title="" data-web-position="box"
 data-widget-position="2">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/dan-nakon-sto-je-potvrdena-optuznica-protiv-vrdoljaka-oglasio-se-sef-hns-a-nikada-nikome-nisam-prijetio/7264491/">
-DAN NAKON ŠTO JE POTVRÐENA OPTUŽNICA PROTIV VRDOLJAKA, OGLASIO SE ŠEF HNS-a: 'Nikada nikome nisam prijetio!'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="hrvatska media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potvrdena-optuznica-protiv-vrdoljaka-zbog-navodnih-prijetnji-clanu-uprave-ne-krsko-sef-hns-a-mu-je-navodno-obecao-zagorcati-zivot-to-je-laz/7262790/" data-widget-title="" data-web-position="box"
-data-widget-position="3">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/potvrdena-optuznica-protiv-vrdoljaka-zbog-navodnih-prijetnji-clanu-uprave-ne-krsko-sef-hns-a-mu-je-navodno-obecao-zagorcati-zivot-to-je-laz/7262790/">
-POTVRÐENA OPTUŽNICA PROTIV VRDOLJAKA ZBOG NAVODNIH PRIJETNJI ÈLANU UPRAVE NE KRŠKO Šef HNS-a mu je navodno 'obeæao' zagorèati život: 'To je laž!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/stigao-najnoviji-cro-demoskop-rejting-dviju-najjacih-stranaka-blago-pao-zivi-zid-se-ucvrstio-na-trecem-mjestu-a-najpozitivniji-politicar-je-nitko/7322937/">
+STIGAO NAJNOVIJI CRO DEMOSKOP Rejting dviju najjaèih stranaka blago pao, Živi zid se uèvrstio na treæem mjestu, a najpozitivniji politièar je 'Nitko'
 </a>
 </h4>
 </li>
@@ -1455,13 +1472,13 @@ POTVRÐENA OPTUŽNICA PROTIV VRDOLJAKA ZBOG NAVODNIH PRIJETNJI ÈLANU UPRAVE NE KRŠ
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1473,8 +1490,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1486,13 +1503,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1504,8 +1521,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1517,13 +1534,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1535,8 +1552,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1548,17 +1565,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1566,9 +1583,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1650,7 +1666,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285240" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7327245" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1696,17 +1712,17 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+KAKO GRADIÆ BLEIBURG ŽIVI UOÈI KOMEMORACIJE? Po prvi put dolaze 'austrijske kobre', a evo što lokalni mještani misle o gostima iz Hrvatske
 </a>
 </h4>
 </div>
@@ -1718,17 +1734,17 @@ VUKOVI OKO NAS
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+I TO JE HRVATSKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada
 </a>
 </h4>
 </div>
@@ -1740,17 +1756,17 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+KRŠENJE JAVNOG REDA I MIRA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+VELIKI ŠOK ZA OSJEÈANKU Sunèala se na vlastitom balkonu, na vrata joj je pokucala policija i zalijepila novèanu kaznu: 'Jako je uznemirila susjeda'
 </a>
 </h4>
 </div>
@@ -1762,17 +1778,17 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+VELIKA INVESTICIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+FOTO: POGLEDAJTE KAKO NAPREDUJU RADOVI NA ÈIOVSKOM MOSTU Snimili smo gradilište jednog od najvažnijih infrastrukturnih projekata u državi iz zraka
 </a>
 </h4>
 </div>
@@ -1810,19 +1826,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1830,8 +1846,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1918,6 +1934,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2207,11 +2228,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2259,14 +2275,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2310,67 +2326,89 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7285240&type=article&title=ZBOG+%c4%8cOVJEKA+KOJI+JE+VRDOLJAKA+OPTU%c5%bdIO+ZA+PRIJETNJE+SLOVENIJA+I+HRVATSKA+IDU+NA+NOVU+ARBITRA%c5%bdU%3f+Sporna+je+njegova+pozicija+u+nuklearki+Kr%c5%a1ko...&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fzbog-covjeka-koji-je-vrdoljaka-optuzio-za-prijetnje-slovenija-i-hrvatska-idu-na-novu-arbitrazu-sporna-je-njegova-pozicija-u-nuklearki-krsko%2f7285240%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7327245&type=article&title=U+SDP-u+KLJU%c4%8cA+UO%c4%8cI+IZBORA+PREDSJEDNIKA+ZAGREBA%c4%8cKE+ORGANIZACIJE+Bernardi%c4%87ev+favorit+suo%c4%8den+s+te%c5%a1kim+optu%c5%bebama%3a+%26%23039%3bOvo+%c5%a1teti+mom+ugledu!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fu-sdp-u-kljuca-uoci-izbora-predsjednika-zagrebacke-organizacije-bernardicev-favorit-suocen-s-teskim-optuzbama-ovo-steti-mom-ugledu%2f7327245%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285240&amp;type=article&amp;title=ZBOG+%c4%8cOVJEKA+KOJI+JE+VRDOLJAKA+OPTU%c5%bdIO+ZA+PRIJETNJE+SLOVENIJA+I+HRVATSKA+IDU+NA+NOVU+ARBITRA%c5%bdU%3f+Sporna+je+njegova+pozicija+u+nuklearki+Kr%c5%a1ko...&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fzbog-covjeka-koji-je-vrdoljaka-optuzio-za-prijetnje-slovenija-i-hrvatska-idu-na-novu-arbitrazu-sporna-je-njegova-pozicija-u-nuklearki-krsko%2f7285240%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7327245&amp;type=article&amp;title=U+SDP-u+KLJU%c4%8cA+UO%c4%8cI+IZBORA+PREDSJEDNIKA+ZAGREBA%c4%8cKE+ORGANIZACIJE+Bernardi%c4%87ev+favorit+suo%c4%8den+s+te%c5%a1kim+optu%c5%bebama%3a+%26%23039%3bOvo+%c5%a1teti+mom+ugledu!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fu-sdp-u-kljuca-uoci-izbora-predsjednika-zagrebacke-organizacije-bernardicev-favorit-suocen-s-teskim-optuzbama-ovo-steti-mom-ugledu%2f7327245%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1193006553&title=Slovenija&url=tag%3ajltags%40eph.hr%2c2016%3aSlovenija&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1689268105&title=Aleksandra+Kolari%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aAleksandra_Kolari%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1193006553&amp;title=Slovenija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSlovenija&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1689268105&amp;title=Aleksandra+Kolari%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAleksandra_Kolari%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=703366091&title=arbitra%c5%bea&url=tag%3ajltags%40eph.hr%2c2016%3aarbitra%25C5%25BEa&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=82999185&title=Alen+%c4%8ci%c4%8dak&url=tag%3ajltags%40eph.hr%2c2016%3aAlen_%25C4%258Ci%25C4%258Dak&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=703366091&amp;title=arbitra%c5%bea&amp;url=tag%3ajltags%40eph.hr%2c2016%3aarbitra%25C5%25BEa&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=82999185&amp;title=Alen+%c4%8ci%c4%8dak&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAlen_%25C4%258Ci%25C4%258Dak&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=972371183&title=Kr%c5%a1ko&url=tag%3ajltags%40eph.hr%2c2016%3aKr%25C5%25A1ko&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=793183230&title=Gordan+Maras&url=tag%3ajltags%40eph.hr%2c2016%3aGordan_Maras&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=972371183&amp;title=Kr%c5%a1ko&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKr%25C5%25A1ko&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=793183230&amp;title=Gordan+Maras&amp;url=tag%3ajltags%40eph.hr%2c2016%3aGordan_Maras&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2106720123&title=nuklearna+elektrana&url=tag%3ajltags%40eph.hr%2c2016%3anuklearna_elektrana&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=834551154&title=Denis+Hrestak&url=tag%3ajltags%40eph.hr%2c2016%3aDenis_Hrestak&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2106720123&amp;title=nuklearna+elektrana&amp;url=tag%3ajltags%40eph.hr%2c2016%3anuklearna_elektrana&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=834551154&amp;title=Denis+Hrestak&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDenis_Hrestak&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1247944387&title=Nuklearna+elektrana+Kr%c5%a1ko&url=tag%3ajltags%40eph.hr%2c2016%3aNuklearna_elektrana_Kr%25C5%25A1ko&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2014886415&title=SDP&url=tag%3ajltags%40eph.hr%2c2016%3aSDP&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1247944387&amp;title=Nuklearna+elektrana+Kr%c5%a1ko&amp;url=tag%3ajltags%40eph.hr%2c2016%3aNuklearna_elektrana_Kr%25C5%25A1ko&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2014886415&amp;title=SDP&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSDP&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1059993349&title=izbori+SDP&url=tag%3ajltags%40eph.hr%2c2016%3aizbori_SDP&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1059993349&amp;title=izbori+SDP&amp;url=tag%3ajltags%40eph.hr%2c2016%3aizbori_SDP&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=83038228&title=Davor+Bernardi%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aDavor_Bernardi%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=83038228&amp;title=Davor+Bernardi%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDavor_Bernardi%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2423,7 +2461,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/zbog-covjeka-koji-je-vrdoljaka-optuzio-za-prijetnje-slovenija-i-hrvatska-idu-na-novu-arbitrazu-sporna-je-njegova-pozicija-u-nuklearki-krsko/7285240/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/u-sdp-u-kljuca-uoci-izbora-predsjednika-zagrebacke-organizacije-bernardicev-favorit-suocen-s-teskim-optuzbama-ovo-steti-mom-ugledu/7327245/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2433,14 +2471,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/zbog-covjeka-koji-je-vrdoljaka-optuzio-za-prijetnje-slovenija-i-hrvatska-idu-na-novu-arbitrazu-sporna-je-njegova-pozicija-u-nuklearki-krsko/7285240/",
-postId : "7285240",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/u-sdp-u-kljuca-uoci-izbora-predsjednika-zagrebacke-organizacije-bernardicev-favorit-suocen-s-teskim-optuzbama-ovo-steti-mom-ugledu/7327245/",
+postId : "7327245",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "ZBOG ÈOVJEKA KOJI JE VRDOLJAKA OPTUŽIO ZA PRIJETNJE SLOVENIJA I HRVATSKA IDU NA NOVU ARBITRAŽU? Sporna je njegova pozicija u nuklearki Krško...",
-pubdate : "2018-04-25 13:42",
-authors : "Hina",
-sections : "Front Page, Hrvatska",
-tags : "Slovenija, arbitraža, Krško, nuklearna elektrana, Nuklearna elektrana Krško",
+title : "U SDP-u KLJUÈA UOÈI IZBORA PREDSJEDNIKA ZAGREBAÈKE ORGANIZACIJE Bernardiæev favorit suoèen s teškim optužbama: 'Ovo šteti mom ugledu!'",
+pubdate : "2018-05-07 13:16",
+authors : "Ivanka Toma",
+sections : "Front Page, Zagreb, Hrvatska",
+tags : "Aleksandra Kolariæ, Alen Èièak, Gordan Maras, Denis Hrestak, SDP, izbori SDP, Davor Bernardiæ",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

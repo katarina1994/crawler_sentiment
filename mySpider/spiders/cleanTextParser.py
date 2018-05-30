@@ -8,32 +8,31 @@ import codecs
 from urllib.request import urlopen  
 from bs4 import BeautifulSoup as bs
 #from bs4.element import Comment
+import CroatianStemmer.Croatian_stemmer as stem
+#from sentiment import cataloguePersonHelper
+from polyglot.text import Text
+
 
 
 class CleanText():
     
-    def getCleanTextFromHtml(self, numberOfLinks):  
-        f_html = codecs.open("allLinks.txt", 'r', encoding='Windows-1250')
-        fTitles = codecs.open("allTitles.txt", 'a', encoding='Windows-1250')
-        links = f_html.readlines()
-        #print (numberOfLinks)
-        while (numberOfLinks < len(links)):
-            html = urlopen(links[numberOfLinks]).read()
-            cleanTexts = self.textFromHtml(html)
-            cleanTexts = cleanTexts.strip(" ").strip("\t").strip("\n").strip("\r").strip()
-            f_clean = codecs.open("cleanTextFromHTML/clean-web-page-%05d.txt" % numberOfLinks, 'w', encoding='Windows-1250')
-            f_clean.write(cleanTexts.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
-            f_clean.close()            
-            title = self.getTitleFromHtml(html)
-            fTitles.write(title + "\n")    
-            numberOfLinks += 1
-            
-        f_html.close()
-        fTitles.close()
+    def writeCleanTextAndTitlesFromHtmlToFile(self, path, numberOfLinks, numberOfPages):  
         
+        # get all articles' text
+        cleanTextsArticles = self.getAllArticlesText(path, numberOfLinks, numberOfPages)
+                
+        index = numberOfLinks - numberOfPages
+        for article in cleanTextsArticles:
+            fClean = codecs.open("cleanTextFromHTML/clean-web-page-%05d.txt" % index, 'w', encoding='Windows-1250')
+            fClean.write(article.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
+            fClean.close()     
+            index += 1       
+                
+        # write titles to file
+        self.writeAllArticlesTitlesToFile(path, numberOfLinks - numberOfPages)
         
+    def getTextFromHtml(self, html):
         
-    def textFromHtml(self, html):
         soup = bs(html, 'html.parser')
         #texts = soup.findAll('p', attrs={'class': None})
         #texts += soup.findAll('div', attrs={})  
@@ -71,6 +70,82 @@ class CleanText():
 
 
     def getTitleFromHtml(self, html):
+        
         soup = bs(html, 'html.parser')
         for tag in soup.findAll('title'):
             return tag.text
+        
+        
+    def getAllArticlesText(self, path, numberOfLinks, numberOfPages):
+        
+        fHtml = codecs.open(path, 'r', encoding='Windows-1250')
+        links = fHtml.readlines()
+        listOfArticles = []
+        numberOfLinks = numberOfLinks - numberOfPages
+        
+        while (numberOfLinks < len(links)):
+            html = urlopen(links[numberOfLinks]).read()
+            cleanTexts = self.getTextFromHtml(html)
+            cleanTexts = cleanTexts.strip(" ").strip("\t").strip("\n").strip("\r").strip()
+            listOfArticles.append(cleanTexts)
+            numberOfLinks += 1        
+        fHtml.close()
+               
+        return listOfArticles
+
+    def getOneArticleText(self, link):      
+        
+        html = urlopen(link).read()
+        cleanTexts = self.getTextFromHtml(html)
+        cleanTexts = cleanTexts.strip(" ").strip("\t").strip("\n").strip("\r").strip()  
+
+        return cleanTexts
+
+
+    def writeAllArticlesTitlesToFile(self, path, numberOfLinks):
+        
+        fHtml = codecs.open(path, 'r', encoding='Windows-1250')
+        fTitles = codecs.open("allTitles.txt", 'a', encoding='Windows-1250')
+
+        links = fHtml.readlines()
+        
+        while (numberOfLinks < len(links)): 
+            html = urlopen(links[numberOfLinks]).read()
+            title = self.getTitleFromHtml(html)
+            fTitles.write((title.replace("\n", "") + "\n").encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))     
+            numberOfLinks += 1        
+
+        fHtml.close()
+        fTitles.close()
+
+
+
+
+    def getAllTitlesOfArticles(self, topicNumber, numberOfPages):
+
+        stemmer = stem.CroatianStemmer()        
+        start = topicNumber - numberOfPages
+        end =  topicNumber
+        fTitles = codecs.open("allTitles.txt", 'r')
+        allTitles = fTitles.readlines()[start:end]
+        allTitles = [title.lower().strip().strip(" ").strip("\n").strip("\t").strip("\r") for title in allTitles]
+        allTitles = [oneTitle.split(" ") for oneTitle in allTitles]
+        allTitles = [[word.strip(".").strip(",").strip("'").strip(":").strip(";").strip("-").strip("!").strip("?").strip("+").strip("").strip("(").strip(")").strip("/") for word in oneTitle] for oneTitle in allTitles]
+        allTitles = [[word for word in oneTitle if word is not ""] for oneTitle in allTitles]
+        allTitles = [[stemmer.stemOneWord(word) for word in oneTitle] for oneTitle in allTitles]
+        allTitles = [[word for word in oneTitle if word is not None] for oneTitle in allTitles]        
+        allTitles = [Text(" ".join(oneTitle), hint_language_code='hr').sentences[0] for oneTitle in allTitles]
+        fTitles.close()
+        
+        return allTitles
+    
+    def getPolyglotSentenceList(self, listOfWords):
+        
+        listPoly = []
+        listOfWordsPoly = Text(" ".join(listOfWords), hint_language_code='hr')
+        if (listOfWordsPoly):
+            listPoly.append(listOfWordsPoly.sentences[0]) 
+        else:
+            listPoly.append("-")
+        return listPoly
+        

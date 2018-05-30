@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Inspiracija je bila kupaonica u kojoj su ploèice iz Mutine, a prostor za tuširanje atraktivno je povišen u odnosu na ostatak prostorije" />
-<meta name="keywords" content="kupaonica, ureðenje kupaonice, kupaonica s lebdeæom stepenicom, Emmezeta, Moj prvi stan" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="&#034;Najljepše ljubavi su nesvjesne, spontane, iskrene. Takvu ljubav èuvaš za sebe i cijeli život joj se vraæaš. Takva je i ljubav prema prirodi.&#034;" />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Kupaonica koja æe vas oduševljavati svaki put kad u nju uðete - Jutarnji List</title>
+<title>PRIRODA OD KOJE ZASTAJE DAH: Spektakularne fotografije berbe smrèaka na Velebitu s akademskim slikarom! - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <section>
 <!-- DFP verzija 11 -->
@@ -197,11 +197,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Savjeti";
-var dfpCategoryParent = "Dom&Dizajn";
-var dfpRos = "domidizajn-ros";
-var dfpArticle = "7031776";
-var dfpArticleKeyword = "kupaonica";
+var dfpCategory = "Prièe";
+var dfpCategoryParent = "Dobra hrana";
+var dfpRos = "dobrahrana-ros";
+var dfpArticle = "4057431";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -593,22 +593,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<meta property="article:author" content="https://www.facebook.com/domidizajn" />
-<meta property="article:publisher" content="https://www.facebook.com/domidizajn" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Domidizajn.hr" />
-<meta name="twitter:site" content="Domidizajn.hr" />
-<style>
-div.overline_uppercase {
-text-transform: uppercase;
-}
-div.overline_lowercase {
-text-transform: lowercase;
-}
-div.overline_capitalize {
-text-transform: capitalize;
-}
-</style>
+<meta property="article:author" content="https://www.facebook.com/dobrahrana.hr" />
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -616,8 +601,8 @@ text-transform: capitalize;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/domidizajn/savjeti/kupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete/7031776/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/domidizajn/savjeti/kupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete/7031776/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -630,21 +615,21 @@ text-transform: capitalize;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/moj_prvi_stan54-090516jpg/7032610/ALTERNATES/LANDSCAPE_1180/moj_prvi_stan54-090516.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/dobrahrana/price/smrci-008.jpg/4057347/ALTERNATES/LANDSCAPE_1180/smrci-008.JPG" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/moj_prvi_stan54-090516jpg/7032610/ALTERNATES/LANDSCAPE_1180/moj_prvi_stan54-090516.jpg">
-<meta property="og:title" content="Kupaonica koja æe vas oduševljavati svaki put kad u nju uðete" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/dobrahrana/price/smrci-008.jpg/4057347/ALTERNATES/LANDSCAPE_1180/smrci-008.JPG">
+<meta property="og:title" content="PRIRODA OD KOJE ZASTAJE DAH: Spektakularne fotografije berbe smrèaka na Velebitu s akademskim slikarom!" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/domidizajn/savjeti/kupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete/7031776/" />
+<meta property="og:url" content="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Inspiracija je bila kupaonica u kojoj su ploèice iz Mutine, a prostor za tuširanje atraktivno je povišen u odnosu na ostatak prostorije" />
+<meta property="og:description" content=""Najljepše ljubavi su nesvjesne, spontane, iskrene. Takvu ljubav èuvaš za sebe i cijeli život joj se vraæaš. Takva je i ljubav prema prirodi."" />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Dom i dizajn">
-<meta name="twitter:title" content="Kupaonica koja æe vas oduševljavati svaki put kad u nju uðete">
-<meta name="twitter:description" content="Inspiracija je bila kupaonica u kojoj su ploèice iz Mutine, a prostor za tuširanje atraktivno je povišen u odnosu na ostatak prostorije">
+<meta name="twitter:creator" content="Mateja Domitroviæ">
+<meta name="twitter:title" content="PRIRODA OD KOJE ZASTAJE DAH: Spektakularne fotografije berbe smrèaka na Velebitu s akademskim slikarom!">
+<meta name="twitter:description" content=""Najljepše ljubavi su nesvjesne, spontane, iskrene. Takvu ljubav èuvaš za sebe i cijeli život joj se vraæaš. Takva je i ljubav prema prirodi."">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -655,7 +640,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2445';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2442';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -667,15 +652,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Savjeti, Dom&Dizajn, Front Page",
-pubdate: "2018-04-24T10:26+02:00",
-author: "Danijela Kovaèeviæ",
+data: { section: "Prièe, Dobra hrana, Front Page",
+pubdate: "2018-05-08T09:14+02:00",
+author: "Mateja Domitroviæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="domdizajn story">
+<body class="dobrahrana story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -753,7 +738,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>25.4.</span>2018.
+<span>09.5.</span>2018.
 </p>
 <p class="day">
 srijeda
@@ -823,6 +808,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1060,50 +1050,51 @@ Mozgalice
 </div>
 </div>
 <div class="subBranding ">
-<span class="logo"><a href="/domidizajn">Dom i dizajn</a></span>
+<span class="logo"><a href="/dobrahrana">Dobra hrana</a></span>
 </div>
 <div class="subLevelNavbar ">
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/domidizajn/">
+<a href="https://www.jutarnji.hr/dobrahrana/">
 Naslovnica
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/">
-Interijeri
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/domidizajn/inspiracije/">
-Inspiracije
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/domidizajn/dd-vrt/">
-D&amp;D Vrt
+<a href="https://www.jutarnji.hr/dobrahrana/recepti/">
+Recepti
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/">
-Savjeti
+<a href="https://www.jutarnji.hr/dobrahrana/price/">
+Prièe
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/domidizajn/eksterijeri/">
-Eksterijeri
+<a href="https://www.jutarnji.hr/dobrahrana/vodici/">
+Vodièi
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/domidizajn/dd-specijali/moj-prvi-stan/">
-Moj prvi stan
+<a href="https://www.jutarnji.hr/dobrahrana/dobrisavjeti/">
+Dobri savjeti
+</a>
+</li>
+<li class="">
+<a href="http://www.dobri-restorani.hr/" target="_new">
+Restorani
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/dobrahrana/dh-specijali/ajvar/">
+Ajvar
 </a>
 </li>
 </ul>
 <ul class="nav navbar-nav socialChannels">
 <li>
-<a href="https://www.facebook.com/domidizajn/" class="facebook_follow" target="_blank"><span class="text-hide">Facebook</span></a>
-<a class="instagram_follow" href="https://www.instagram.com/domidizajn/" target="_blank"><span class="text-hide">Instagram</span></a>
+<!--<a href="https://twitter.com/dobra_hrana" class="twitter_follow" target="_blank"><span class="text-hide">Twitter</span></a>-->
+<a href="https://www.facebook.com/ovojedobrahrana/" class="facebook_follow" target="_blank"><span class="text-hide">Facebook</span></a>
+<a class="instagram_follow" href="https://www.instagram.com/dobra_hrana/" target="_blank"><span class="text-hide">Instagram</span></a>
 </li>
 </ul>
 </div>
@@ -1149,12 +1140,12 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="col-sm-12 ">
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
-class="overline overline_uppercase">
-Kupaonica s lebdeæom stepenicom
+class="overline">
+DOBRA HRANA U BERBI SMRÈAKA
 </p>
 <h1
 class="title">
-Kupaonica koja æe vas oduševljavati svaki put kad u nju uðete
+PRIRODA OD KOJE ZASTAJE DAH: Spektakularne fotografije berbe smrèaka na Velebitu s akademskim slikarom!
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1162,7 +1153,7 @@ Kupaonica koja æe vas oduševljavati svaki put kad u nju uðete
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/dom-i-dizajn"> Dom i dizajn</a></li>
+<li>Mateja Domitroviæ</li>
 </ul>
 </p>
 </li>
@@ -1170,48 +1161,46 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 10:26
+08.05.2018. u 09:14
 </p>
 </li>
 </ul>
 </div>
-</div>
-</div>
-<div class="row article_body jl-scroll-container " >
-<div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="ece_incoming media ">
+<section class="price media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan54-090516jpg/7032610" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/smrci-008.jpg/4057347" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan54-090516jpg/7032610/ALTERNATES/LANDSCAPE_380/moj_prvi_stan54-090516.jpg"
+<img src="https://www.jutarnji.hr/dobrahrana/price/smrci-008.jpg/4057347/ALTERNATES/LANDSCAPE_380/smrci-008.JPG"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan54-090516jpg/7032610/BINARY/thumbnail/moj_prvi_stan54-090516.jpg"
+data-src-template="https://www.jutarnji.hr/dobrahrana/price/smrci-008.jpg/4057347/BINARY/thumbnail/smrci-008.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Cijeli uredjeni stan
-Foto: Berislava Picek/ CROPIX"
+alt="Lika i Velebit 13042016
+Ivan Golac sakupljanje i priprema sumskih smrcaka i drugog divljeg jestivog bilja
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Mario Kuèera
 </span>
 </div>
 </div>
 </div>
 </section>
 </section>
+</div>
+</div>
+<div class="row article_body jl-scroll-container " >
+<div class="col-sm-8 " >
 <div class=" ">
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p align="justify"><u><strong>Inspiracija je bila kupaonica u kojoj su ploèice iz Mutine, a prostor za tuširanje atraktivno je povišen u odnosu na ostatak prostorije</strong></u></p>
+<strong>"Najljepše ljubavi su nesvjesne, spontane, iskrene. Takvu ljubav èuvaš za sebe i cijeli život joj se vraæaš. Takva je i ljubav prema prirodi."</strong>
 </p>
 </section>
 <section>
@@ -1236,66 +1225,55 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7031776"
+<div id="content-body-6263871-4057431"
 >
-<p align="justify"><strong>Predstavljamo kupaonicu velièine 4,4 m2 u stanu od 39 èetvornih metara u Preèkom ureðenu bez greške. Vlasnica nam je beskompromisno otvorila vrata svojeg doma i s nama podijelila svoju prièu, a što je sve prošla proèitajte u nastavku.</strong></p><p align="justify">Kako za vrijeme gradnje zgrade nisu bile moguæe preinake u stanovima, kupljeni se stan preuzimao s gotovom kupaonicom s kojom vlasnica nije bila zadovoljna. Iako priznaje da je kupaonica bila kvalitetno opremljena, ona je htjela kupaonicu koja æe ju oduševljavati svaki put kad uðe u nju. Jer, kupaonica je najintimnija prostorija doma u kojoj poèinje, ali i završava svaki dan.</p><p>
+<p>Potpuno smo budni. Budni i željni prirode. Sve u nama tjera nas van, na zemlju, u vrt, u šumu, na planinu, na sa ðenje, kopanje, traganje, branje i sakupljanje. I krenuli smo, put Like i predivnog Velebita. Ovaj put zbog smrèaka, jedne od najcjenjenijih gljiva koju još nazivaju proljetnim gljivarskim prvijencem. U travnju se ovi saæasti klobuci pojavljuju na šumskim obroncima, ali ne baš i u restoranima i na našim tržnicama.</p><p><strong>Pogledajte našu fotogaleriju:</strong></p><p>
 <section>
-<article class="ece_incoming media ">
+<article class="price media galleryCall ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica6-09jpg/7032373" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/na-velebitu-okusali-smo-srecu-u-trazenju-smrcaka/4057428/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica6-09jpg/7032373/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica6-09.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica6-09jpg/7032373/BINARY/thumbnail/moj_prvi_stan_kupaonica6-09.jpg"
+<a href="https://www.jutarnji.hr/dobrahrana/price/na-velebitu-okusali-smo-srecu-u-trazenju-smrcaka/4057428/">
+<img src="https://www.jutarnji.hr/dobrahrana/price/smrci-010.jpg/4057350/ALTERNATES/LANDSCAPE_380/smrci-010.JPG"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/dobrahrana/price/smrci-010.jpg/4057350/BINARY/thumbnail/smrci-010.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
+alt="Lika i Velebit 13042016
+Ivan Golac sakupljanje i priprema sumskih smrcaka i drugog divljeg jestivog bilja
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> CROPIX
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Zateèeno stanje kupaonice</h4>
-</div>
+</a>
 </div>
 </div>
 </article>
 </section>
-</p><p>
+ </p><p>I zato smo krenuli u potragu koja bi neslavno završila po naše neiskusno oko da s nama nije bio Ivan Golac, èovjek od šume i planine koji poznaje svaki kutak svoje Like. Ivan Golac je akademski slikar, ali i “profesionalni” sakupljaè gljiva, samoniklog bilja i šumskih plodova koje preraðuje na svom OPG-u.</p><p>
 <section>
-<article class="ece_incoming media ">
+<article class="price media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica2-09jpg/7032376" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/smrci-003.jpg/4057338" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica2-09jpg/7032376/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica2-09.jpg"
+<img src="https://www.jutarnji.hr/dobrahrana/price/smrci-003.jpg/4057338/ALTERNATES/FREE_380/smrci-003.JPG"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica2-09jpg/7032376/BINARY/thumbnail/moj_prvi_stan_kupaonica2-09.jpg"
+data-src-template="https://www.jutarnji.hr/dobrahrana/price/smrci-003.jpg/4057338/BINARY/thumbnail/smrci-003.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
+alt="Lika i Velebit 13042016
+Ivan Golac sakupljanje i priprema sumskih smrcaka i drugog divljeg jestivog bilja
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Mario Kuèera
 </span>
 </div>
 </div>
@@ -1303,38 +1281,28 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-</p><p>
-<div class="e4-sub-article ">
+</p><p>No, ne samo to, on je èovjek koji s prirodom živi svakodnevno, koji je s njom u posebnoj, najiskrenijoj moguæoj vezi kao malo tko, èovjek koji o njoj govori nevjerojatno srèano s ogromnom ljubavlju i zahvalnošæu. Osim što mu se zbog toga divimo, na tome mu i zavidimo jer on živi onako kako bi mnogi od nas željeli, onako kako neki od nas sanjaju.</p><p>
 <section>
-<div>
-<p align="justify">Postojeæi umivaonik je demontiran te je poklonjen kolegici s posla koja takoðer uskoro planira preureðenje kupaonice, a na ugradbenim elementima postavljen je novi, nadgradni umivaonik</p>
-</div>
-</section>
-</div>
- </p><p>
-<section>
-<article class="ece_incoming media ">
+<article class="price media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica1-09jpg/7032379" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/smrci-024.jpg/4057380" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica1-09jpg/7032379/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica1-09.jpg"
+<img src="https://www.jutarnji.hr/dobrahrana/price/smrci-024.jpg/4057380/ALTERNATES/FREE_380/smrci-024.JPG"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica1-09jpg/7032379/BINARY/thumbnail/moj_prvi_stan_kupaonica1-09.jpg"
+data-src-template="https://www.jutarnji.hr/dobrahrana/price/smrci-024.jpg/4057380/BINARY/thumbnail/smrci-024.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
+alt="Lika i Velebit 13042016
+Ivan Golac sakupljanje i priprema sumskih smrcaka i drugog divljeg jestivog bilja
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Mario Kuèera
 </span>
 </div>
 </div>
@@ -1342,30 +1310,28 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-</p><p align="justify">- Listajuæi brojeve magazina D&amp;D iz mjeseca u mjesec primijeæivala sam kupaonice koje su mi se svidjele te sam izrezivala stranice mjesecima prije kupnje stana, skupljajuæi polako materijale koji æe mi poslužiti kao inspiracija kad napokon doðe dan kad æu moæi realizirati svoju viziju kupaonice s &quot;wow&quot; efektom. Htjela sam da bude drugaèija, dizajnerska, ali istodobno jednostavna. Naravno, preureðenje kupaonice dolazilo je u obzir samo ako æe mi ostati dovoljno novca kad preuzmem stan i isplatim investitora - preprièava mlada poslovna žena.</p><p>
+ </p><h3><em>&quot;Najljepše ljubavi su nesvjesne, spontane, iskrene. Takvu ljubav èuvaš za sebe i cijeli život joj se vraæaš. Takva je i ljubav prema prirodi. Još kao dijete sam iduæi s tatom u ribolov osjetio hladna jutra i s njima prve zrake sunca, beskrajni mir, tople ljetne veèeri, žuborenje vode, kreket žaba, miris ljekovitog bilja… Polako se zbližiš, poèinješ promatrati, stopiš se sa svime i naposljetku zaljubiš. I kasnije poèneš prouèavati, shvatiš da ti se priroda nudi, da daje sve od sebe za tvoju ljubav.&quot;</em></h3><p>- Sjeæam se i prvih susreta s najljepšom planinom na svijetu, Velebitom, prvih iskustava koja sam stekao na izletima s gospiækim planinarima poèetkom osamdesetih. I od tada pa do danas Velebit stalno posjeæujem, a njegova podnožja i vrhovi, klanci i doline neiscrpan su izvor i mog slikarstva, a ponekad svojoj planini napišem i pokoji stih - kaže Ivan.</p><p>- Tu strast sa mnom dijeli i moja supruga Senka s kojom redovito obilazim lièke terene, a najdraža staništa za branje su nam bukova velebitska šuma od podnožja pa do samih vrhova. U rano proljeæe kad sve propupa uživamo u branju smrèaka. A zajedno s njima kreæu i martovke koje su zaštiæene, no ponekad otkinemo koju jer u Lici ima dosta njihovih staništa i ovdje nisu ugrožene. Proljeæe i jesen najdraži su mi dio godine jer priroda tada u bujicama èasti. Stol je u to vrijeme uvijek obilat, kuhamo razne juhe, variva, umake, pohamo i peèemo gljive, a najdraži nam je rižoto od sušenih vrganja - kaže.</p><p>
 <section>
-<article class="ece_incoming media ">
+<article class="price media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica18-0jpg/7032421" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/smrci-007.jpg/4057344" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica18-0jpg/7032421/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica18-0.jpg"
+<img src="https://www.jutarnji.hr/dobrahrana/price/smrci-007.jpg/4057344/ALTERNATES/FREE_380/smrci-007.JPG"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica18-0jpg/7032421/BINARY/thumbnail/moj_prvi_stan_kupaonica18-0.jpg"
+data-src-template="https://www.jutarnji.hr/dobrahrana/price/smrci-007.jpg/4057344/BINARY/thumbnail/smrci-007.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
+alt="Lika i Velebit 13042016
+Ivan Golac sakupljanje i priprema sumskih smrcaka i drugog divljeg jestivog bilja
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Mario Kuèera
 </span>
 </div>
 </div>
@@ -1373,38 +1339,28 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-</p><p>
-<div class="e4-sub-article ">
+ </p><p>Veæ ujutro bili smo u šumi, borovoj koju smrèci ovdje osobito vole, a posebno onaj teren koji je izgoren, no zašto je to tako, ne znamo, jednostavno im nešto paše. Ulov je bio više nego sjajan; dvije pune košare smrèaka koje smo pripremili na otvorenoj vatri uz pomoæ Ivanovih prijatelja Ružice i Fabijana Kolaka iz hostela Baške Oštarije i Vlade Prpiæa Prpe, legende Velebita koji godinama vodi planinarski dom Prpa.</p><p>
 <section>
-<div>
-<p align="justify">Prvo su se skidale ploèice te su demontirani tuš i umivaonik, potom je bilo potrebno nivelirati pod nivelir masom te hidroizolirati pod i zidove gdje æe biti walk-in tuš kada. Postavljena su dva sloja hidroizolacije prije nego što se postavila tuš kanalica</p>
-</div>
-</section>
-</div>
- </p><p>
-<section>
-<article class="ece_incoming media ">
+<article class="price media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica51-0jpg/7032496" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/smrci-015.jpg/4057353" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica51-0jpg/7032496/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica51-0.jpg"
+<img src="https://www.jutarnji.hr/dobrahrana/price/smrci-015.jpg/4057353/ALTERNATES/FREE_380/smrci-015.JPG"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica51-0jpg/7032496/BINARY/thumbnail/moj_prvi_stan_kupaonica51-0.jpg"
+data-src-template="https://www.jutarnji.hr/dobrahrana/price/smrci-015.jpg/4057353/BINARY/thumbnail/smrci-015.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
+alt="Lika i Velebit 13042016
+Ivan Golac sakupljanje i priprema sumskih smrcaka i drugog divljeg jestivog bilja
+Foto Mario Kuèera"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Mario Kuèera
 </span>
 </div>
 </div>
@@ -1412,30 +1368,28 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </p><p align="justify">Dodaje kako je u jednom stanu prezentiranom upravo u magazinu D&amp;D uoèila kupaonicu koju je projektirala dizajnerica Tina Kurpez te je odmah znala da želi istu takvu. Ili barem sliènu. Naime, po uzoru na kupaonicu viðenu u magazinu, ideja je bila maknuti postojeæu tuš-kabinu i izgraditi walk-in tuš koji ne bi bio u razini s podom, nego bi postojala tzv. lebdeæa stepenica. Takoðer, planirano je izraditi ugradbene elemente po mjeri te postaviti novi, nadgradni umivaonik.</p><p>
+ </p><p>Juha od smrèaka i suhih gljiva, tjestenina sa smrècima i šparogama, smrèci s jajima, ražnjiæi sa smrècima i špekom te šumska salata od samoniklog bilja. Dio je završio u zamrzivaèu, a dio na sušenju. Nabrali smo i nešto šparoga te podosta medvjeðeg luka kojim se èastila cijela redakcija pa sad imamo zaliha pesta za dulje vrijeme.</p><p>Ivan smrèke kao i druge gljive suši pa tako meðu svojim proizvodima ima i sušene vrganje te miks suhih gljiva, zatim èaj od divljeg voæa (divlje jabuke i kruške, šipak, dren, glog, trnina, kupina, borovica, maline i dunje) te ocat od divljih jabuka koji su i osnovni proizvodi OPG-a Golac.</p><p><em><strong>- Višegodišnje iskustvo u branju i sakupljanju plodova potaknulo nas je da poènemo proizvoditi autentièan, nesvakidašnji i zdrav proizvod, pri èemu je naša osnovna misao i vodilja kvaliteta, sve pod sloganom 'samo sunce, voda i zemlja' - kaže Ivan.</strong></em></p><p>S Ivanom se onaj spomenuti san koji neki od nas èesto sanjaju ostvario na jedan dan. U taj jedan dan dobili smo i više od onoga što smo poželjeli, ukratko i mi smo se zaljubili u Liku. Kuhali smo hranu koju smo sami pronašli, okupili smo se za stolom i sve to podijelili s ljudima koje sada posve spontano zovemo prijateljima. I to nas je uèinilo sretnima.</p><h2><a href="http://www.jutarnji.hr/dobrahrana/recepti/tjestenina-sa-smrccima-i-sparogama/6088024/">Tjestenina sa smrècima i šparogama</a></h2><h2>
 <section>
-<article class="ece_incoming media ">
+<article class="price media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica45-0jpg/7032478" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/smrci-017jpg/4057359" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica45-0jpg/7032478/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica45-0.jpg"
+<img src="https://www.jutarnji.hr/dobrahrana/price/smrci-017jpg/4057359/ALTERNATES/FREE_380/smrci-017.JPG"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica45-0jpg/7032478/BINARY/thumbnail/moj_prvi_stan_kupaonica45-0.jpg"
+data-src-template="https://www.jutarnji.hr/dobrahrana/price/smrci-017jpg/4057359/BINARY/thumbnail/smrci-017.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
+alt="Lika i Velebit 13042016
+Ivan Golac sakupljanje i priprema sumskih smrcaka i drugog divljeg jestivog bilja
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Mario Kuèera / Hanza Media
 </span>
 </div>
 </div>
@@ -1443,38 +1397,28 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-</p><p>
-<div class="e4-sub-article ">
+ </h2><h2><a href="http://www.jutarnji.hr/dobrahrana/recepti/juha-od-smrcaka-i-suhih-gljiva/6088014/">Juha od smrèaka i suhih gljiva</a></h2><h2>
 <section>
-<div>
-<p align="justify">Postojeæe keramièke ploèice na zidu bile su bež boje, a na podu sive. Zbog radova su se mijenjale ploèice na jednom zidu gdje je walk-in tuš</p>
-</div>
-</section>
-</div>
- </p><p>
-<section>
-<article class="ece_incoming media ">
+<article class="price media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica50-0jpg/7032493" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/smrci-018jpg/4057362" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica50-0jpg/7032493/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica50-0.jpg"
+<img src="https://www.jutarnji.hr/dobrahrana/price/smrci-018jpg/4057362/ALTERNATES/FREE_380/smrci-018.JPG"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica50-0jpg/7032493/BINARY/thumbnail/moj_prvi_stan_kupaonica50-0.jpg"
+data-src-template="https://www.jutarnji.hr/dobrahrana/price/smrci-018jpg/4057362/BINARY/thumbnail/smrci-018.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
+alt="Lika i Velebit 13042016
+Ivan Golac sakupljanje i priprema sumskih smrcaka i drugog divljeg jestivog bilja
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Mario Kuèera
 </span>
 </div>
 </div>
@@ -1482,30 +1426,28 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
-</p><p>
+ </h2><h2><a href="http://www.jutarnji.hr/dobrahrana/recepti/smrcci-s-jajima-na-oko/6088009/">Smrèci s jajima na oko</a></h2><h2>
 <section>
-<article class="ece_incoming media ">
+<article class="price media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica40-0jpg/7032463" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/smrci-016jpg/4057356" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica40-0jpg/7032463/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica40-0.jpg"
+<img src="https://www.jutarnji.hr/dobrahrana/price/smrci-016jpg/4057356/ALTERNATES/FREE_380/smrci-016.JPG"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica40-0jpg/7032463/BINARY/thumbnail/moj_prvi_stan_kupaonica40-0.jpg"
+data-src-template="https://www.jutarnji.hr/dobrahrana/price/smrci-016jpg/4057356/BINARY/thumbnail/smrci-016.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
+alt="Lika i Velebit 13042016
+Ivan Golac sakupljanje i priprema sumskih smrcaka i drugog divljeg jestivog bilja
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> CROPIX
+<span> Mario Kuèera
 </span>
 </div>
 </div>
@@ -1513,982 +1455,12 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </p><p align="justify">- Dio radova ukljuèivao je rušenje postojeæih keramièkih ploèica na jednom dijelu zida, a nisam bila sigurna hoæu li mijenjati i ploèice na podu. Nisam mogla pretpostaviti koliko æe me sve to koštati, 5000 ili 50.000 kuna, a krenuti u takve radove bez ikakve pretpostavke koliko æe me to koštati i koliko æe sve trajati, bilo je pomalo i glupo i hrabro - preprièava i dodaje kako su prvo krenuli radovi u boravku, a kad su se približili kraju, odnosno kad je stan bio pun šute, prašine i kartona postavljenih na pod, shvatila je da ako sad ne krene u preureðenje kupaonice, neæe nikada. Jer, zašto bi se za par mjeseci opet iznova suoèila s prašinom, šutom, odabirom majstora i svemu što radovi povlaèe sa sobom. A nije ni bila svjesna da æe joj ova faza ureðenja novog stana ostati u ne tako lijepom sjeæanju.</p><p><strong>DETALJI ZA KUPAONICU - KOPIRAJ STIL!</strong></p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/856847_sicily_kada-cf04cbcadf239ef3df2da496f3c71016_product_largejpg/7218228" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/856847_sicily_kada-cf04cbcadf239ef3df2da496f3c71016_product_largejpg/7218228/ALTERNATES/FREE_380/856847_sicily_kada-cf04cbcadf239ef3df2da496f3c71016_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/856847_sicily_kada-cf04cbcadf239ef3df2da496f3c71016_product_largejpg/7218228/BINARY/thumbnail/856847_sicily_kada-cf04cbcadf239ef3df2da496f3c71016_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/namjestaj/kupaonica/kupaonske-slavine/32106/sicily-2-slavina-za-kadutus/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Sicily 2 slavina</a> za kadu/tuš, 699,99 kn</p><p><strong> </strong></p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/611967_6-4c7719d625ebf0b25a14a668e30a64b3_product_largejpg/7218219" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/611967_6-4c7719d625ebf0b25a14a668e30a64b3_product_largejpg/7218219/ALTERNATES/FREE_380/611967_6-4c7719d625ebf0b25a14a668e30a64b3_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/611967_6-4c7719d625ebf0b25a14a668e30a64b3_product_largejpg/7218219/BINARY/thumbnail/611967_6-4c7719d625ebf0b25a14a668e30a64b3_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonski-dodaci/63765/stalak-s-3-police-wood/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Stalak s 3 police Wood</a>, 299,99 kn</p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/879243_vogue-dd9b215147aae195c79e097ec41f0f31_product_largejpg/7218234" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/879243_vogue-dd9b215147aae195c79e097ec41f0f31_product_largejpg/7218234/ALTERNATES/FREE_380/879243_vogue-dd9b215147aae195c79e097ec41f0f31_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/879243_vogue-dd9b215147aae195c79e097ec41f0f31_product_largejpg/7218234/BINARY/thumbnail/879243_vogue-dd9b215147aae195c79e097ec41f0f31_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/namjestaj/kupaonica/kupaonski-namjestaj/37629/vogue-kupaonski-namjestaj/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Vogue kupaonski namještaj,</a> cijena po elementima</p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/856848_siluete-26df8d81711490a995e9570a00449253_product_largejpg/7218231" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/856848_siluete-26df8d81711490a995e9570a00449253_product_largejpg/7218231/ALTERNATES/FREE_380/856848_siluete-26df8d81711490a995e9570a00449253_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/856848_siluete-26df8d81711490a995e9570a00449253_product_largejpg/7218231/BINARY/thumbnail/856848_siluete-26df8d81711490a995e9570a00449253_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/namjestaj/kupaonica/kupaonske-slavine/32107/siluete-slavina-za-umivaonik/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Siluete slavina za umivaonik</a>, 699,99 kn</p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/612493_-6bc579e1b12a887da742f7bf93c85223_product_largejpg/7218222" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/612493_-6bc579e1b12a887da742f7bf93c85223_product_largejpg/7218222/ALTERNATES/FREE_380/612493_-6bc579e1b12a887da742f7bf93c85223_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/612493_-6bc579e1b12a887da742f7bf93c85223_product_largejpg/7218222/BINARY/thumbnail/612493_-6bc579e1b12a887da742f7bf93c85223_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonski-tepisi/64423/kupaonski-tepih-memory-40x60-cm-plavi/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Kupaonski tepih Memory</a> 40X60 CM, plavi, 55,99 kn</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/611430_1-236f3f57da89a23d6c9533975af25714_product_large-2jpg/7218258" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/611430_1-236f3f57da89a23d6c9533975af25714_product_large-2jpg/7218258/ALTERNATES/FREE_380/611430_1-236f3f57da89a23d6c9533975af25714_product_large-2.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/611430_1-236f3f57da89a23d6c9533975af25714_product_large-2jpg/7218258/BINARY/thumbnail/611430_1-236f3f57da89a23d6c9533975af25714_product_large-2.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonski-dodaci/63939/kupaonska-polica-sa-spremnikom-natural-42x36x151cm/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Kupaonska polica sa spremnikom Natural</a>, 42x36x151cm, 229,99 kn</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/611438_-ce0ee9a8496993b854134903aa4949b2_product_largejpg/7218264" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/611438_-ce0ee9a8496993b854134903aa4949b2_product_largejpg/7218264/ALTERNATES/FREE_380/611438_-ce0ee9a8496993b854134903aa4949b2_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/611438_-ce0ee9a8496993b854134903aa4949b2_product_largejpg/7218264/BINARY/thumbnail/611438_-ce0ee9a8496993b854134903aa4949b2_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonska-galanterija/64156/kupaonska-kosara-pastel-siva/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Kupaonska košara Pastel</a>, siva, 9,99 kn</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/lopigna-kupaonski-namjestajjpg/7219836" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/lopigna-kupaonski-namjestajjpg/7219836/ALTERNATES/FREE_380/Lopigna%20kupaonski%20namje%C5%A1taj.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/lopigna-kupaonski-namjestajjpg/7219836/BINARY/thumbnail/Lopigna%20kupaonski%20namje%C5%A1taj.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p><a href="https://www.emmezeta.hr/namjestaj/kupaonica/kupaonski-namjestaj/39649/lopigna-kupaonski-namjestaj/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Lopigna kupaonski namještaj</a></p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/609746_609750_609777_-51c406187642ddcbc27f9292bc0174fe_product_largejpg/7218207" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/609746_609750_609777_-51c406187642ddcbc27f9292bc0174fe_product_largejpg/7218207/ALTERNATES/FREE_380/609746_609750_609777_-51c406187642ddcbc27f9292bc0174fe_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/609746_609750_609777_-51c406187642ddcbc27f9292bc0174fe_product_largejpg/7218207/BINARY/thumbnail/609746_609750_609777_-51c406187642ddcbc27f9292bc0174fe_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonska-galanterija/63974/kupaonska-galanterija-steel/" target="_blank">Kupaonska galanterija Steel</a>, veæ od 39,99 kn</p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/611840_3-5b047c2872f8749dd9ba8b8009b57076_product_largejpg/7218216" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/611840_3-5b047c2872f8749dd9ba8b8009b57076_product_largejpg/7218216/ALTERNATES/FREE_380/611840_3-5b047c2872f8749dd9ba8b8009b57076_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/611840_3-5b047c2872f8749dd9ba8b8009b57076_product_largejpg/7218216/BINARY/thumbnail/611840_3-5b047c2872f8749dd9ba8b8009b57076_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonski-dodaci/55956/stalak-s-4-police-bamboo/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Stalak s 4 police Bamboo</a>, 299,99 kn</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/609702_609701_609700-100ca755f52a4bccd5e78b7cd87c1cef_product_largejpg/7218267" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/609702_609701_609700-100ca755f52a4bccd5e78b7cd87c1cef_product_largejpg/7218267/ALTERNATES/FREE_380/609702_609701_609700-100ca755f52a4bccd5e78b7cd87c1cef_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/609702_609701_609700-100ca755f52a4bccd5e78b7cd87c1cef_product_largejpg/7218267/BINARY/thumbnail/609702_609701_609700-100ca755f52a4bccd5e78b7cd87c1cef_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonska-galanterija/64188/kupaonska-galanterija-rainbow-tirkizna/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Kupaonska galanterija Rainbow</a>, tirkizna, veæ od 24,99 kn</p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/131073_131074_131075_-b61b7a76ab8870a67625aab748372b45_product_largejpg/7218189" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/131073_131074_131075_-b61b7a76ab8870a67625aab748372b45_product_largejpg/7218189/ALTERNATES/FREE_380/131073_131074_131075_-b61b7a76ab8870a67625aab748372b45_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/131073_131074_131075_-b61b7a76ab8870a67625aab748372b45_product_largejpg/7218189/BINARY/thumbnail/131073_131074_131075_-b61b7a76ab8870a67625aab748372b45_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonska-galanterija/55452/kupaonska-galanterija-bamboo-bijela/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Kupaonska galanterija Bamboo</a>, bijela, veæ od 19,99 kn</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/nora-kupaonski-namjestajjpg/7219839" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/nora-kupaonski-namjestajjpg/7219839/ALTERNATES/FREE_380/Nora%20kupaonski%20namje%C5%A1taj.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/nora-kupaonski-namjestajjpg/7219839/BINARY/thumbnail/Nora%20kupaonski%20namje%C5%A1taj.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p><a href="https://www.emmezeta.hr/namjestaj/kupaonica/kupaonski-namjestaj/41551/nora-kupaonski-namjestaj/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Nora kupaonski namještaj</a></p><p> </p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/62677_62692_62706_-379fe53bcd8fb8735d9473dcccf7a35b_product_largejpg/7218186" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/62677_62692_62706_-379fe53bcd8fb8735d9473dcccf7a35b_product_largejpg/7218186/ALTERNATES/FREE_380/62677_62692_62706_-379fe53bcd8fb8735d9473dcccf7a35b_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/62677_62692_62706_-379fe53bcd8fb8735d9473dcccf7a35b_product_largejpg/7218186/BINARY/thumbnail/62677_62692_62706_-379fe53bcd8fb8735d9473dcccf7a35b_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/uredenje-doma/tekstil/rucnici/47615/rucnik-casablanca-tamno-sivi-vise-dimenzija/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Ruènik Casablanca</a> tamno sivi, više dimenzija, veæ od 17,99 kn</p><p><strong> </strong></p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/609827_609823_609822_-ea3efb3d8c71ec5663c034eae20f2f79_product_largejpg/7218210" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/609827_609823_609822_-ea3efb3d8c71ec5663c034eae20f2f79_product_largejpg/7218210/ALTERNATES/FREE_380/609827_609823_609822_-ea3efb3d8c71ec5663c034eae20f2f79_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/609827_609823_609822_-ea3efb3d8c71ec5663c034eae20f2f79_product_largejpg/7218210/BINARY/thumbnail/609827_609823_609822_-ea3efb3d8c71ec5663c034eae20f2f79_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonska-galanterija/63973/kupaonska-galanterija-geometric-siva/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Kupaonska galanterija Geometric</a>, siva, veæ od 29,99 kn</p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/601250_-4e3f082d69979c681b3d82be29b4df31_product_largejpg/7218192" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/601250_-4e3f082d69979c681b3d82be29b4df31_product_largejpg/7218192/ALTERNATES/FREE_380/601250_-4e3f082d69979c681b3d82be29b4df31_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/601250_-4e3f082d69979c681b3d82be29b4df31_product_largejpg/7218192/BINARY/thumbnail/601250_-4e3f082d69979c681b3d82be29b4df31_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/zavjese-za-tus/55420/zavjesa-za-tus-honey-siva/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Zavjesa za tuš Honey</a> siva, 79,99 kn</p><p><strong>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/601283_127093_127091_127096_1_-01cda60f7b270bfa52cbe5340d42775f_product_largejpg/7218195" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/601283_127093_127091_127096_1_-01cda60f7b270bfa52cbe5340d42775f_product_largejpg/7218195/ALTERNATES/FREE_380/601283_127093_127091_127096_1_-01cda60f7b270bfa52cbe5340d42775f_product_large.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/601283_127093_127091_127096_1_-01cda60f7b270bfa52cbe5340d42775f_product_largejpg/7218195/BINARY/thumbnail/601283_127093_127091_127096_1_-01cda60f7b270bfa52cbe5340d42775f_product_large.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</strong></p><p><a href="https://www.emmezeta.hr/uredenje-doma/oprema-za-kupaonice/kupaonski-dodaci/55952/stalak-s-3-police-bamboo/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Stalak s 3 police Bamboo</a>, 279,99 kn</p><p><strong>Postavljanje keramike i izvoðenje stepenice</strong></p><p align="justify">S obzirom na ogranièen budžet, keramièke ploèice s potpisom dizajnerice Patricije Urquiole, proizvoðaèa Mutina, koje su se nalazile u kupaonici koja je poslužila kao inspiracija, bile su nedostižne. Stoga je poèela potraga za sliènim ploèicama, ali i sanitarnim elementima.</p><p align="justify">Konkretni radovi u kupaonici zapoèeli su rušenjem postojeæih ploèica, niveliranjem i hidroizoliranjem poda, a zatim su poèeli radovi na walk-in tušu. Lebdeæa stepenica sazidana je od estriha, nakon sušenja je premazana nivelir masom i hidroizolacijom, a tek se onda postavljala keramika. Kako se tuš kanalica ne bi trebala postavljati u pod, oko nje se izgradila stepenica. Bilo je pitanje treba li graditi stepenicu od siporexa ili estriha, a estrih se pokazao puno èvršæim materijalom, koji se izraðuje na bazi cementa.</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica10-0jpg/7220094" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica10-0jpg/7220094/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica10-0.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica10-0jpg/7220094/BINARY/thumbnail/moj_prvi_stan_kupaonica10-0.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> CROPIX
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p align="justify">Vlasnica je odabrala Ragno keramièke ploèice, proizvoðaèa Marazzi, koje cijeloj kupaonici daju toplinu. Meðutim, kako se fuge nisu dobro osušile, a postavljeni prozirni silikon poprimio je smeðu boju fuga i ulaskom u kupaonicu prvo se on uoèavao. Na kraju se silikon èetiri puta skidao i postavljao novi, jer se nikako nije mogla pogoditi boja silikona koja odgovara boji ploèica i pripadajuæih fuga. Tek nakon što joj je tvrtka Tim Novak preporuèla tvrtku Fuga Mikiæ, problem je riješen.</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica28-0jpg/7220097" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica28-0jpg/7220097/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica28-0.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica28-0jpg/7220097/BINARY/thumbnail/moj_prvi_stan_kupaonica28-0.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> CROPIX
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p align="justify">- Gospodin Mikiæ objasnio mi je da je funkcija silikona jako važna, ali on mora biti neprimjetan. I tako je za par sto kuna riješen problem silikona u sat i po. Nazvala sam g. Mikiæa &quot;majstor za rješavanje problema&quot;. Uz to, silikonirao je i staklenu pregradu za tuš, zatim sve kuteve i obrube u kuponi - kaže vlasnica.</p><p align="justify">
-<div class="e4-sub-article ">
-<section>
-<div>
-<p>DNEVNIK RADOVA IZ PRVE RUKE</p><p><u><strong>Vlasnica je vodila dnevnik radova te iz prve ruke govori o problemima s kojima se susrela kad su u pitanju majstori i izvoðenje radova</strong></u></p><p align="justify">Ideja je bila da mi jedan izvoðaè napravi sve radove u kupaonici plus par preinaka u dnevnom boravku. Prvo sam pozvala tvrtku koja izvodi tzv. sitne graðevinske radove, meðutim, kad sam vidjela konaèni iznos ponude koju su mi poslali, skoro sam pala u nesvjest jer je èinilo dvije treæine mog cijelog budžeta! U tom trenutku sam odluèila angažirati jednog po jednog majstora. To je, naravno, najgora moguæa solucija, jer sam onda ja ta koja sve njih mora koordinirati. Našla sam se u toj situaciji kao netko tko ne zna ništa o izvoðenju tih konkretnih radova. Tako da su radovi, umjesto mjesec dana koliko je realno za izvoðenje kupaonice od pet kvadrata i nekoliko preinaka u boravku, trajali ukupno šest mjeseci. To znaèi da sam odabrala krive majstore.</p><p>
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica55-0jpg/7032508" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica55-0jpg/7032508/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica55-0.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica55-0jpg/7032508/BINARY/thumbnail/moj_prvi_stan_kupaonica55-0.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica24-0jpg/7032439" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica24-0jpg/7032439/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica24-0.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica24-0jpg/7032439/BINARY/thumbnail/moj_prvi_stan_kupaonica24-0.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica23-0jpg/7032436" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica23-0jpg/7032436/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica23-0.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica23-0jpg/7032436/BINARY/thumbnail/moj_prvi_stan_kupaonica23-0.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-</p><p>
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica53-0jpg/7032502" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica53-0jpg/7032502/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica53-0.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica53-0jpg/7032502/BINARY/thumbnail/moj_prvi_stan_kupaonica53-0.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">U tom periodu sam prostudirala graðevinu, a izrazi poput šlica, štemanja, estriha, niveliranja i hidroizolacije su mi postai i više nego poznati. Da bih uopæe mogla komunicirati s majstorima, shvatla sam to nakon tri mjeseca, morala sam nauèiti više od njih ili se barem raspitati do posljednjeg detalja kako izvesti ono što sam planirala.</p><p>
- </p><p align="justify">Na poèetku sam bila uvjerena da æe majstori, ako im pokažem fotografiju iz D&amp;D-a i osiguram potrebne materijale, s pažnjom dobrog gospodarstvenika izvesti radove po pravilima struke i u mojim najboljim interesima. U tim trenucima, znam to sad, bila sam veoma naivna.</p><p align="justify">
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica54-0jpg/7032505" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica54-0jpg/7032505/ALTERNATES/FREE_380/moj_prvi_stan_kupaonica54-0.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan_kupaonica54-0jpg/7032505/BINARY/thumbnail/moj_prvi_stan_kupaonica54-0.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Kupaonica od pocetnog do uredjenog
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">Kad su radovi krenuli, stalno su postavljali pitanja na koja nisam znala odgovor: &quot;za koliko centimetara spuštamo strop&quot;, &quot;na kojoj visini želite postaviti utiènice&quot;, &quot;oznaèite gdje želite da utiènice budu razmještene&quot;, na kojoj visini treba biti lebdeæa stepenica&quot;, &quot;koliko da bude pad&quot;, &quot;hoæemo li hidroizolirati cijeli zid ili do neke visine&quot;... Trebalo mi je više od mjesec dana da pohvatam termine, a nakon razgovora s desetak majstora koje sam pozivala svaki put sam nešto novo nauèila, a raspitivala sam se i kod prijatelja graðevinara. Na kraju sam toèno znala kolika treba biti hidroizolacija, koje materijale æemo koristiti, koji su proizvoðaèi bolji ili lošiji...</p><p align="justify">
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan48-090516jpg/7032589" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan48-090516jpg/7032589/ALTERNATES/FREE_380/moj_prvi_stan48-090516.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan48-090516jpg/7032589/BINARY/thumbnail/moj_prvi_stan48-090516.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Cijeli uredjeni stan
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-</p><p align="justify">
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan50-090516jpg/7032598" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan50-090516jpg/7032598/ALTERNATES/FREE_380/moj_prvi_stan50-090516.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan50-090516jpg/7032598/BINARY/thumbnail/moj_prvi_stan50-090516.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Cijeli uredjeni stan
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-</p><p align="justify">
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan51-090516jpg/7032601" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan51-090516jpg/7032601/ALTERNATES/FREE_380/moj_prvi_stan51-090516.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan51-090516jpg/7032601/BINARY/thumbnail/moj_prvi_stan51-090516.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Cijeli uredjeni stan
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p>
- </p><p align="justify">Ukoliko se radovi vode na ovakav naèin, to zna biti vrlo iscrpljujuæe i naporno. U nekim sam trenucima iskreno razmišljala o prekvalifikaciji, jer sam bila u totalnom šoku od susreta s ovom branšom. Svaka èast pojedincima, ali sam sigurna da majstor neæe raditi za moju dobrobit. On je danas kod mene, sutra je negdje drugdje i, u konaènici, ne zanima ga hoæe li mi curiti voda ili ne.</p><p align="justify">
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan53-090516jpg/7032607" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan53-090516jpg/7032607/ALTERNATES/FREE_380/moj_prvi_stan53-090516.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan53-090516jpg/7032607/BINARY/thumbnail/moj_prvi_stan53-090516.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Cijeli uredjeni stan
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-</p><p align="justify">
-<section>
-<article class="ece_incoming media singleImg ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/moj_prvi_stan55-090516jpg/7032613" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/moj_prvi_stan55-090516jpg/7032613/ALTERNATES/FREE_380/moj_prvi_stan55-090516.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/moj_prvi_stan55-090516jpg/7032613/BINARY/thumbnail/moj_prvi_stan55-090516.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 090516.
-Stan od 35 metara kvadratnih u Preckom pratili smo u svim fazama preuredjenja. Od biranja stana, pocetnog stanja, odabira projekta uredjenja, majstora, dovozenja namjestaja i konacnog uredjenja.
-Obilazili smo majstore i prodajne salone u kojima se birao namjestaj i materijal za gradnju.
-Na fotografiji: Cijeli uredjeni stan
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">Napravit æe on što mu kažem, pritom neæe uzeti u obzir cjelokupnu sliku i ostale radove, a ako poslije nešto nije dobro izvedeno, reæi æe da je napravio kako sam mu rekla, a zeznuo je netko drugi. A ako u istu kupaonicu ulaze èetiri majstora, uvijek je kriv, naravno, onaj prethodni. Svaki od njih se prvo 20 minuta èudio kako je nešto loše izvedeno, a tek bi se onda fokusirali na sanaciju i nastavak radova. Da ne spominjem njihova kašnjenja i prilagoðavanja njihovom vremenu ili, pak, èišæenja iza njih. I da, iz stana površine 39 kvadrata za vrijeme radova nestala je pipa. I pogaðate, nitko ju od majstora nije uzeo. Baš nitko.</p>
-</div>
-</section>
-</div>
-</p><p align="justify"><strong>SANITARIJE I OPREMA - KOPIRAJ STIL!</strong></p><p align="justify"> </p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/gorenje-w6101s-perilica-rubljajpg/7219824" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/gorenje-w6101s-perilica-rubljajpg/7219824/ALTERNATES/FREE_380/Gorenje%20W6101:S%20perilica%20rublja.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/gorenje-w6101s-perilica-rubljajpg/7219824/BINARY/thumbnail/Gorenje%20W6101:S%20perilica%20rublja.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/samostojeca/perilice-rublja/52785/gorenje-w6101s-perilica-rublja/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Gorenje W6101/S perilica rublja</a>, 1.999,99 kn</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/remington-s5506gp-e51-pegla-za-kosujpg/7219800" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/remington-s5506gp-e51-pegla-za-kosujpg/7219800/ALTERNATES/FREE_380/Remington%20S5506GP%20E51%20pegla%20za%20kosu.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/remington-s5506gp-e51-pegla-za-kosujpg/7219800/BINARY/thumbnail/Remington%20S5506GP%20E51%20pegla%20za%20kosu.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/osobna-njega-i-zdravlje/pegle-za-kosu/62864/remington-s5506gp-e51-pegla-za-kosu/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Remington S5506GP E51 pegla za kosu</a>, 299,99 kn</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/gorenje-d854bj-susilica-rublja-jpg/7219821" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/gorenje-d854bj-susilica-rublja-jpg/7219821/ALTERNATES/FREE_380/Gorenje%20D854BJ%20su%C5%A1ilica%20rublja%20.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/gorenje-d854bj-susilica-rublja-jpg/7219821/BINARY/thumbnail/Gorenje%20D854BJ%20su%C5%A1ilica%20rublja%20.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/samostojeca/susilice-rublja/48454/gorenje-d854bj-susilica-rublja/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Gorenje D854BJ sušilica rublja</a>, 2.899,99 kn</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/zidna-svjetiljka-palmerajpg/7219809" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/zidna-svjetiljka-palmerajpg/7219809/ALTERNATES/FREE_380/Zidna%20svjetiljka%20Palmera.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/zidna-svjetiljka-palmerajpg/7219809/BINARY/thumbnail/Zidna%20svjetiljka%20Palmera.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/uredenje-doma/rasvjeta/stropne-i-zidne-svjetiljke/22171/zidna-svjetiljka-palmera/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Zidna svjetiljka Palmera</a>, 399,99 kn</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/beurer-ps07-osobna-vagajpg/7219812" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/beurer-ps07-osobna-vagajpg/7219812/ALTERNATES/FREE_380/Beurer%20PS07%20osobna%20vaga.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/beurer-ps07-osobna-vagajpg/7219812/BINARY/thumbnail/Beurer%20PS07%20osobna%20vaga.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/osobna-njega-i-zdravlje/osobne-vage/24808/beurer-ps07-osobna-vaga/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Beurer PS07 osobna vaga</a>, 159,99 kn</p><p align="justify"> </p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/rowenta-cv5346c1-susilo-za-kosujpg/7219803" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/rowenta-cv5346c1-susilo-za-kosujpg/7219803/ALTERNATES/FREE_380/Rowenta%20CV5346C1%20su%C5%A1ilo%20za%20kosu.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/rowenta-cv5346c1-susilo-za-kosujpg/7219803/BINARY/thumbnail/Rowenta%20CV5346C1%20su%C5%A1ilo%20za%20kosu.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/osobna-njega-i-zdravlje/susila-za-kosu/65317/rowenta-cv5346c1-susilo-za-kosu/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Rowenta CV5346C1 sušilo za kosu</a>, 159,99 kn</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/gorenje-w6503s-a-perilica-rubljajpg/7219827" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/gorenje-w6503s-a-perilica-rubljajpg/7219827/ALTERNATES/FREE_380/Gorenje%20W6503:S%20A+++%20perilica%20rublja.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/gorenje-w6503s-a-perilica-rubljajpg/7219827/BINARY/thumbnail/Gorenje%20W6503:S%20A+++%20perilica%20rublja.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/samostojeca/perilice-rublja/46221/gorenje-w6503s-a-perilica-rublja/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Gorenje W6503/S A+++ perilica rublja</a>, 2.299,99 kn</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/philips-bre640-epilatorjpg/7219845" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/philips-bre640-epilatorjpg/7219845/ALTERNATES/FREE_380/Philips%20BRE640%20epilator.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/philips-bre640-epilatorjpg/7219845/BINARY/thumbnail/Philips%20BRE640%20epilator.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/osobna-njega-i-zdravlje/epilatori/50931/philips-bre640-epilator/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Philips BRE640 epilator</a>, 749,99 kn</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/gorenje-d744bj-susilica-rubljajpg/7219818" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/gorenje-d744bj-susilica-rubljajpg/7219818/ALTERNATES/FREE_380/Gorenje%20D744BJ%20su%C5%A1ilica%20rublja.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/gorenje-d744bj-susilica-rubljajpg/7219818/BINARY/thumbnail/Gorenje%20D744BJ%20su%C5%A1ilica%20rublja.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/samostojeca/susilice-rublja/29168/gorenje-d744bj-susilica-rublja/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Gorenje D744BJ sušilica rublja</a>, 2.799,99 kn</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/philips-bg203632-higijenski-brijacjpg/7219842" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/philips-bg203632-higijenski-brijacjpg/7219842/ALTERNATES/FREE_380/Philips%20BG2036:32%20higijenski%20brija%C4%8D.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/philips-bg203632-higijenski-brijacjpg/7219842/BINARY/thumbnail/Philips%20BG2036:32%20higijenski%20brija%C4%8D.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/osobna-njega-i-zdravlje/aparati-za-brijanje/39399/philips-bg203632-higijenski-brijac/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Philips BG2036/32 higijenski brijaè,</a> 399,99 kn</p><p align="justify">
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/inhalatorsauna-za-lice-beurer-fs50jpg/7219833" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/inhalatorsauna-za-lice-beurer-fs50jpg/7219833/ALTERNATES/FREE_380/Inhalator:sauna%20za%20lice%20Beurer%20FS50.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/inhalatorsauna-za-lice-beurer-fs50jpg/7219833/BINARY/thumbnail/Inhalator:sauna%20za%20lice%20Beurer%20FS50.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"><a href="https://www.emmezeta.hr/bijela-tehnika/osobna-njega-i-zdravlje/medicinska-oprema/8354/inhalatorsauna-za-lice-beurer-fs50/?utm_source=jutarnji&amp;utm_medium=pr&amp;utm_campaign=jutarnji_moj_prvi_stan_kupaonica" target="_blank">Inhalator/sauna za lice Beurer FS50</a>, 249,99 kn</p><p>Kupujte iz naslonjaèa uz <a href="https://www.emmezeta.hr" target="_blank">Emmezetu</a>!</p><p>Foto: Berislava Picek/Hanza Media, Emmezeta</p>
+ </h2>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7031776 p").filter(function () {
+$("#content-body-6263871-4057431 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -2497,16 +1469,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7031776").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-4057431").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7031776").children().slice(max).remove();
+$("#content-body-6263871-4057431").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7031776").children().get(0);
+var firstChild = $("#content-body-6263871-4057431").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -2541,34 +1513,6 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/Moj_prvi_stan" class ="label label-default" >
-Moj prvi stan
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Emmezeta" class ="label label-default" >
-Emmezeta
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/kupaonica_s_lebde%C4%87om_stepenicom" class ="label label-default" >
-kupaonica s lebdeæom stepenicom
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/ure%C4%91enje_kupaonice" class ="label label-default" >
-ureðenje kupaonice
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/kupaonica" class ="label label-default" >
-kupaonica
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -2655,7 +1599,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7031776" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -2687,19 +1631,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="savjeti media c11a none">
+<article class="price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/savjeti/kupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete/7031776/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/ispeci-mami-tortu-donosimo-vam-pet-recepata-ovih-genijalnih-torti/7326120/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/kupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete/7031776/">
-Kupaonica s lebdeæom stepenicom
+<a href="https://www.jutarnji.hr/dobrahrana/price/ispeci-mami-tortu-donosimo-vam-pet-recepata-ovih-genijalnih-torti/7326120/">
+DAJ MI NEŠ SLATKO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/kupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete/7031776/">
-Kupaonica koja æe vas oduševljavati svaki put kad u nju uðete
+<a href="https://www.jutarnji.hr/dobrahrana/price/ispeci-mami-tortu-donosimo-vam-pet-recepata-ovih-genijalnih-torti/7326120/">
+ISPECI MAMI TORTU: Donosimo vam pet recepata ovih genijalnih torti!
 </a>
 </h4>
 </div>
@@ -2709,19 +1653,19 @@ Kupaonica koja æe vas oduševljavati svaki put kad u nju uðete
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="savjeti media c11a none">
+<article class="price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/savjeti/4-predmeta-uz-koja-cete-jednostavnije-organizirati-svoju-kuhinju/7276989/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/4-predmeta-uz-koja-cete-jednostavnije-organizirati-svoju-kuhinju/7276989/">
-Kaos u kuhinjskim ormariæima
+<a href="https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/">
+JEDU NAM SE SOÈNI BURGERI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/4-predmeta-uz-koja-cete-jednostavnije-organizirati-svoju-kuhinju/7276989/">
-4 predmeta uz koja æete jednostavnije organizirati svoju kuhinju
+<a href="https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/">
+KAKO DO SAVRŠENOG BURGERA: Omjeri i vrste mesa, domaæa peciva, savjeti i zanimljivi umaci zbog kojih morate zasukati rukave!
 </a>
 </h4>
 </div>
@@ -2731,19 +1675,19 @@ Kaos u kuhinjskim ormariæima
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="savjeti media c11a none">
+<article class="price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/savjeti/donosimo-4-prirodna-nacina-koja-uvijek-pale/5725535/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/donosimo-4-prirodna-nacina-koja-uvijek-pale/5725535/">
-Naporne životinjice
+<a href="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/">
+DOBRA HRANA U BERBI SMRÈAKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/donosimo-4-prirodna-nacina-koja-uvijek-pale/5725535/">
-Donosimo 4 prirodna naèina koja uvijek pale!
+<a href="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/">
+PRIRODA OD KOJE ZASTAJE DAH: Spektakularne fotografije berbe smrèaka na Velebitu s akademskim slikarom!
 </a>
 </h4>
 </div>
@@ -2753,19 +1697,19 @@ Donosimo 4 prirodna naèina koja uvijek pale!
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="savjeti media c11a none">
+<article class="price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/savjeti/stakleni-tusevi-bez-suvisnih-detalja/6728130/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/tehnologija-u-gastronomiji-sous-vide-u-pecnici-i-rucak-skuhan-tri-puta-brze/7288255/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/stakleni-tusevi-bez-suvisnih-detalja/6728130/">
-Manje je više
+<a href="https://www.jutarnji.hr/dobrahrana/price/tehnologija-u-gastronomiji-sous-vide-u-pecnici-i-rucak-skuhan-tri-puta-brze/7288255/">
+POSTANI STRUÈNJAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/stakleni-tusevi-bez-suvisnih-detalja/6728130/">
-Stakleni tuševi bez suvišnih detalja
+<a href="https://www.jutarnji.hr/dobrahrana/price/tehnologija-u-gastronomiji-sous-vide-u-pecnici-i-rucak-skuhan-tri-puta-brze/7288255/">
+TEHNOLOGIJA U GASTRONOMIJI: Sous vide u peænici i ruèak skuhan tri puta brže!
 </a>
 </h4>
 </div>
@@ -2788,13 +1732,13 @@ Stakleni tuševi bez suvišnih detalja
 </div>
 <div class="row " >
 <div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/slobodna/?section=kvadratpomom" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://widgets.jutarnji.hr/vanjski/slobodna/?section=gastro" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
 <div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/zadovoljna/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://widgets.jutarnji.hr/vanjski/punkufer/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
 <div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/?section=lifestyle" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
 </div>
 <div class="row dfp-no-padding " >
@@ -2870,6 +1814,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -3159,11 +2108,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -3211,14 +2155,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -3262,67 +2206,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=72&contextPath=1-69-72-&pubId=1&cat=&meta=read-story&objId=7031776&type=article&title=Kupaonica+koja+%c4%87e+vas+odu%c5%a1evljavati+svaki+put+kad+u+nju+u%c4%91ete&url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2fsavjeti%2fkupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete%2f7031776%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=76&contextPath=1-74-76-&pubId=1&cat=&meta=read-story&objId=4057431&type=article&title=PRIRODA+OD+KOJE+ZASTAJE+DAH%3a+Spektakularne+fotografije++berbe+smr%c4%8daka+na+Velebitu+s+akademskim+slikarom!&url=https%3a%2f%2fwww.jutarnji.hr%2fdobrahrana%2fprice%2fpriroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom%2f4057431%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=72&amp;contextPath=1-69-72-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7031776&amp;type=article&amp;title=Kupaonica+koja+%c4%87e+vas+odu%c5%a1evljavati+svaki+put+kad+u+nju+u%c4%91ete&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2fsavjeti%2fkupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete%2f7031776%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&cat=jltags%40eph.hr%2c2016&objId=1473676925&title=kupaonica&url=tag%3ajltags%40eph.hr%2c2016%3akupaonica&rt=1&ctxId=72&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1473676925&amp;title=kupaonica&amp;url=tag%3ajltags%40eph.hr%2c2016%3akupaonica&amp;rt=1&amp;ctxId=72&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&cat=jltags%40eph.hr%2c2016&objId=1981091051&title=ure%c4%91enje+kupaonice&url=tag%3ajltags%40eph.hr%2c2016%3aure%25C4%2591enje_kupaonice&rt=1&ctxId=72&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1981091051&amp;title=ure%c4%91enje+kupaonice&amp;url=tag%3ajltags%40eph.hr%2c2016%3aure%25C4%2591enje_kupaonice&amp;rt=1&amp;ctxId=72&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&cat=jltags%40eph.hr%2c2016&objId=1623093402&title=kupaonica+s+lebde%c4%87om+stepenicom&url=tag%3ajltags%40eph.hr%2c2016%3akupaonica_s_lebde%25C4%2587om_stepenicom&rt=1&ctxId=72&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1623093402&amp;title=kupaonica+s+lebde%c4%87om+stepenicom&amp;url=tag%3ajltags%40eph.hr%2c2016%3akupaonica_s_lebde%25C4%2587om_stepenicom&amp;rt=1&amp;ctxId=72&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&cat=jltags%40eph.hr%2c2016&objId=1884126750&title=Emmezeta&url=tag%3ajltags%40eph.hr%2c2016%3aEmmezeta&rt=1&ctxId=72&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1884126750&amp;title=Emmezeta&amp;url=tag%3ajltags%40eph.hr%2c2016%3aEmmezeta&amp;rt=1&amp;ctxId=72&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&cat=jltags%40eph.hr%2c2016&objId=166969137&title=Moj+prvi+stan&url=tag%3ajltags%40eph.hr%2c2016%3aMoj_prvi_stan&rt=1&ctxId=72&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-72-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=166969137&amp;title=Moj+prvi+stan&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMoj_prvi_stan&amp;rt=1&amp;ctxId=72&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=76&amp;contextPath=1-74-76-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=4057431&amp;type=article&amp;title=PRIRODA+OD+KOJE+ZASTAJE+DAH%3a+Spektakularne+fotografije++berbe+smr%c4%8daka+na+Velebitu+s+akademskim+slikarom!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdobrahrana%2fprice%2fpriroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom%2f4057431%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -3375,7 +2264,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/domidizajn/savjeti/kupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete/7031776/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -3385,14 +2274,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/domidizajn/savjeti/kupaonica-koja-ce-vas-odusevljavati-svaki-put-kad-u-nju-udete/7031776/",
-postId : "7031776",
+url : "https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/",
+postId : "4057431",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Kupaonica koja æe vas oduševljavati svaki put kad u nju uðete",
-pubdate : "2018-04-24 10:26",
-authors : "Danijela Kovaèeviæ",
-sections : "Front Page, Dom&Dizajn, Moj prvi stan, Promo - DD, Savjeti",
-tags : "kupaonica, ureðenje kupaonice, kupaonica s lebdeæom stepenicom, Emmezeta, Moj prvi stan",
+title : "PRIRODA OD KOJE ZASTAJE DAH: Spektakularne fotografije berbe smrèaka na Velebitu s akademskim slikarom!",
+pubdate : "2018-05-08 09:14",
+authors : "Mateja Domitroviæ",
+sections : "Front Page, Dobra hrana, Prièe",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

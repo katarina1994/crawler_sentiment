@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Glazba, INmusic festival, INmusic" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="" />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>VIDEO: OVE PERSPEKTIVNE REGIONALNE BENDOVE MORATE VIDJETI UŽIVO She Loves Pablo i Straight Mickey and the Boyz donose žestoki zvuk na INmusic - Jutarnji List</title>
+<title>Beèki bal u Zagrebu - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -41,174 +41,76 @@ dfpMobileMaxWidth = 960;
 dfpStickyMinWidth = 1024;
 dfpStickyUnitHeightLimit = 600;
 dfpStickyColumnHeightLimit = 680;
-dfpLazyUnitOffset = 3000;
+dfpLazyUnitOffset = 1000;
 dfpUnitRefresh = 15000;
 doClickTracking = false;
 dfpAdSlots = {};
 dfpLazyLoad = [];
 dfpUnits = {
-"cla" : {
-"div-gpt-ad-1459756830165-0" : {
-"slot" : "aside1",
-"unit" : "300x600",
-"size" : [[300, 600], [300, 1], [300, 1050], [300, 601], [300, 250]],
-"sizeType" : "aside",
-"container" : "jl-banner-wrapper-1",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "634"},
-"appnexus": {"placementId": "12512215"},
-"criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"},
-"openx": {"unit": "539865163"}
-},
-},
-"div-gpt-ad-1459756830165-1" : {
-"slot" : "aside2",
-"unit" : "300x602",
-"size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
-"sizeType" : "aside",
-"container" : "jl-banner-wrapper-2",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "634"},
-"appnexus": {"placementId": "12512215"},
-"criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"},
-"openx": {"unit": "539865163"}
-},
-},
-"div-gpt-ad-1459756830165-2" : {
-"slot" : "billboard",
-"unit" : "bb_nav",
-"size" : [[1180, 150], [1180, 500], [970, 500], [970, 1000], [970, 90], [300, 100], [300, 150], [320, 100], [320, 50], [1180, 250], [300, 50], [1, 3], [970, 250], [970, 251]],
+"fot" : {
+"div-gpt-ad-1504618478356-0" : {
+"slot" : "gallery1",
+"unit" : "pos1",
+"size" : [[300, 250], [970, 90], [970, 250], [320, 100], [2, 1]],
 "sizeType" : "pagebreak",
-"container" : "jl-billboard-nav-wrapper",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : false
-},
-"div-gpt-ad-1462358187814-0" : {
-"slot" : "billboardbot",
-"unit" : "bb_bot",
-"size" : [[300, 250], [320, 100], [320, 50], [1180, 250], [970, 250], [970, 90], [1, 7]],
-"sizeType" : "pagebreak",
-"container" : "jl-billboard-bot-wrapper",
+"container" : "dfp-gallery-1",
 "lazyLoad" : true,
-"mobile" : true,
 "deviceType" : "all",
-"loaded" : false,
-"prebid" : false
+"loaded" : false
 },
-"div-gpt-ad-1459756830165-7" : {
-"slot" : "inarticle1",
-"unit" : "ia_1",
-"size" : [[300, 50], [320, 50], [320, 100], [300, 150], [760, 250], [760, 500], [320, 480], [600, 250], [570, 250], [728, 90], [300, 100], [2, 1], [300, 250], [300, 605]],
+"div-gpt-ad-1504618478356-1" : {
+"slot" : "gallery2",
+"unit" : "pos2",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 2]],
 "sizeType" : "pagebreak",
-"container" : "jl-inarticle-wrapper-1",
-"lazyLoad" : false,
-"mobile" : true,
-"deviceType" : "all",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "1024"},
-"appnexus": {"placementId": "12512211"},
-"criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"},
-"openx": {"unit": "539865166"}
-},
-"prebidConfigMobile" : {
-"connectad": {"placementId": "637"},
-"appnexus": {"placementId": "12512220"},
-"criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"},
-"openx": {"unit": "539865168"}
-},
-},
-"div-gpt-ad-1459756830165-8" : {
-"slot" : "inarticle2",
-"unit" : "ia_2",
-"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [300, 100], [300, 150], [2, 2], [300, 250]],
-"sizeType" : "pagebreak",
-"container" : "jl-inarticle-wrapper-2",
-"lazyLoad" : false,
-"mobile" : true,
-"deviceType" : "all",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "1024"},
-"appnexus": {"placementId": "12512211"},
-"criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"},
-"openx": {"unit": "539865166"}
-},
-"prebidConfigMobile" : {
-"connectad": {"placementId": "637"},
-"appnexus": {"placementId": "12512220"},
-"criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"},
-"openx": {"unit": "539865168"}
-},
-},
-"div-gpt-ad-1459756830165-9" : {
-"slot" : "inarticle3",
-"unit" : "ia_3",
-"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [2, 3], [300, 100], [300, 150], [300, 250]],
-"sizeType" : "pagebreak",
-"container" : "jl-inarticle-wrapper-3",
+"container" : "dfp-gallery-2",
 "lazyLoad" : true,
-"mobile" : true,
 "deviceType" : "all",
-"loaded" : false,
-"prebid" : false
+"loaded" : false
 },
-"div-gpt-ad-1459756830165-6" : {
-"slot" : "float",
-"unit" : "float",
-"size" : [1, 1],
-"sizeType" : "outofpage",
-"container" : "jl-floater-wrapper",
-"lazyLoad" : false,
-"mobile" : true,
+"div-gpt-ad-1504618478356-2" : {
+"slot" : "gallery3",
+"unit" : "pos3",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 3]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-3",
+"lazyLoad" : true,
 "deviceType" : "all",
-"loaded" : false,
-"prebid" : false
+"loaded" : false
 },
-"div-gpt-ad-1459756830165-10" : {
-"slot" : "wallpaper",
-"unit" : "wp",
-"size" : "",
-"sizeType" : "outofpage",
-"container" : "jl-wallpaper-wrapper",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : false
+"div-gpt-ad-1504618478356-3" : {
+"slot" : "gallery4",
+"unit" : "pos4",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 4]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-4",
+"lazyLoad" : true,
+"deviceType" : "all",
+"loaded" : false
+},
+"div-gpt-ad-1504618478356-4" : {
+"slot" : "gallery5",
+"unit" : "pos5",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 5]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-5",
+"lazyLoad" : true,
+"deviceType" : "all",
+"loaded" : false
 },
 }
 };
 var dfpCountryCode = "HR";
-var dfpCurrentPageType = "cla";
+var dfpCurrentPageType = "fot";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Glazba";
-var dfpCategoryParent = "Kultura";
-var dfpRos = "kultura-ros";
-var dfpArticle = "7285027";
-var dfpArticleKeyword = "Glazba";
+dfpGalleryImgNum = parseInt("26") - 1;
+dfpGalleryUnitNum = Math.floor(dfpGalleryImgNum / 5);
+var dfpCategory = "Fotogalerije";
+var dfpCategoryParent = "Front Page";
+var dfpRos = "naslovnica";
+var dfpArticle = "7323735";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -593,44 +495,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<script>
-var elipsoResizeTimeout;
-function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
-if (!elipsoResizeTimeout) {
-elipsoResizeTimeout = setTimeout(function() {
-elipsoResizeTimeout = null;
-elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
-}, 250);
-}
-}
-function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
-var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-var elipsoBreakpoint = 0;
-var elipsoBreakpoints = [768, 992, 1200];
-for (i = 0; i < elipsoBreakpoints.length; i++) {
-if (windowWidth >= elipsoBreakpoints[i]) {
-elipsoBreakpoint = elipsoBreakpoints[i];
-}
-}
-var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
-var elipsoIframeWH = elipsoIframeSize.split('x');
-var elipsoIframe = document.getElementById(elipsoIframeId);
-var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
-var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
-if (currentElipsoIframeSrc !== elipsoIframeSrc) {
-elipsoIframe.setAttribute("src", elipsoIframeSrc);
-elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
-elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
-elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
-elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
-}
-}
-</script>
-<style>
-.displaynone-upscore-hack {
-display: none ;
-}
-</style>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -638,8 +502,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/kultura/glazba/video-ove-perspektivne-regionalne-bendove-morate-vidjeti-uzivo-she-loves-pablo-i-straight-mickey-and-the-boyz-donose-zestoki-zvuk-na-inmusic/7285027/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/kultura/glazba/video-ove-perspektivne-regionalne-bendove-morate-vidjeti-uzivo-she-loves-pablo-i-straight-mickey-and-the-boyz-donose-zestoki-zvuk-na-inmusic/7285027/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/Fotogalerije/becki-bal-u-zagrebu/7323735/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/Fotogalerije/becki-bal-u-zagrebu/7323735/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +516,17 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/inmusic/7285021/ALTERNATES/LANDSCAPE_1180/INMUSIC" />
-<meta property="og:image:width" content="1180" />
-<meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/inmusic/7285021/ALTERNATES/LANDSCAPE_1180/INMUSIC">
-<meta property="og:title" content="VIDEO: OVE PERSPEKTIVNE REGIONALNE BENDOVE MORATE VIDJETI UŽIVO She Loves Pablo i Straight Mickey and the Boyz donose žestoki zvuk na INmusic" />
+<meta property="og:title" content="Beèki bal u Zagrebu" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/kultura/glazba/video-ove-perspektivne-regionalne-bendove-morate-vidjeti-uzivo-she-loves-pablo-i-straight-mickey-and-the-boyz-donose-zestoki-zvuk-na-inmusic/7285027/" />
+<meta property="og:url" content="https://www.jutarnji.hr/Fotogalerije/becki-bal-u-zagrebu/7323735/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="" />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="VIDEO: OVE PERSPEKTIVNE REGIONALNE BENDOVE MORATE VIDJETI UŽIVO She Loves Pablo i Straight Mickey and the Boyz donose žestoki zvuk na INmusic">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content="Sanja Žordiæ">
+<meta name="twitter:title" content="Beèki bal u Zagrebu">
+<meta name="twitter:description" content="">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +537,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2438';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2433';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +549,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Glazba, Kultura, Front Page",
-pubdate: "2018-04-25T12:27+02:00",
-author: "Ana Soriæ",
+data: { section: "Fotogalerije, Front Page",
+pubdate: "2018-05-06T16:53+02:00",
+author: "Sanja Žordiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="kultura story">
+<body class=" gallery">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -743,32 +603,11 @@ $("#related-news-box").remove();
 </script>
 <div class="container">
 <header class="mainHead " role="banner">
+<a name="top"></a>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<script>
-window.fbAsyncInit = function() {
-FB.init({
-appId : '156538244364753',
-xfbml : true,
-version : 'v2.10'
-});
-FB.AppEvents.logPageView();
-};
-(function(d, s, id){
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) {return;}
-js = d.createElement(s); js.id = id;
-js.src = "https://connect.facebook.net/en_US/sdk.js";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
-<a name="top"></a>
-<div class="row " >
-<div class="col-sm-12 ">
-</div>
-</div>
 <div class="row " >
 <div class="col-sm-12 ">
 <div class="col-sm-12 col-lg-8 col-lg-push-2 ">
@@ -778,7 +617,6 @@ fjs.parentNode.insertBefore(js, fjs);
 </div>
 <nav class="navbar main_nav "
 role="navigation" >
-<a href="#" class="mSiteSearch"><span class="text-hide">Pretraži</span></a>
 <div class="navbar-header">
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
 <span class="icon-bar"></span>
@@ -813,7 +651,7 @@ Novac.hr
 Life
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/kultura/">
 Kultura
 </a>
@@ -886,6 +724,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1015,7 +858,7 @@ Film i televizija
 Književnost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/kultura/glazba/">
 Glazba
 </a>
@@ -1122,131 +965,23 @@ Mozgalice
 </div>
 </div>
 </div>
-<div id="searchBox">
-<form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
-<div class="form-group">
-<input type="text" name="q" class="form-control" placeholder="Pretraži Jutarnji.hr" value="" />
-<button type="submit">Submit</button>
-</div>
-</form>
-</div>
-<div class="subLevelNavbar ">
-<ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/kultura/">Kultura </a>
-</li>
-<li><a href="https://www.jutarnji.hr/kultura/glazba/">Glazba </a></li>
-</ul>
-<ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/art/">
-Art
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
-Film i televizija
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
-Književnost
-</a>
-</li>
-<li class="active">
-<a href="https://www.jutarnji.hr/kultura/glazba/">
-Glazba
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/arhitektura/">
-Arhitektura
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/kazaliste/">
-Kazalište
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/gaming/">
-Gaming
-</a>
-</li>
-</ul>
-</div>
 </nav>
 </div>
 </div>
 </header>
 <section role="main">
-<div class="row dfp-no-padding " >
+<div class="row articleWrapper articleGalleryWrapper skin-6 " >
 <div class="col-sm-12 ">
-<section>
-<div id="jl-billboard-nav-wrapper" class="jl-billboard-nav">
-<div id="div-gpt-ad-1459756830165-2">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-2"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-2");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</section>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
-<p
-class="overline">
-ENERGIÈNI NASTUPI
-</p>
-<h1
-class="title">
-VIDEO: OVE PERSPEKTIVNE REGIONALNE BENDOVE MORATE VIDJETI UŽIVO She Loves Pablo i Straight Mickey and the Boyz donose žestoki zvuk na INmusic
-</h1>
-<ul class="list-inline ">
-<strong>AUTOR: </strong>
-<li>
-<p
-class="authors">
-<ul>
-<li> Jutarnji.hr</li>
-</ul>
-</p>
-</li>
-<strong>OBJAVLJENO: </strong>
-<li>
-<p
-class="published-date">
-25.04.2018. u 12:27
-</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="row article_body jl-scroll-container " >
-<div class="col-sm-8 " >
+<div class=" ">
 <section class="lead_image ">
-<section class="ece_incoming media ">
+<article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/inmusic/7285021" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9693jpg/7323687" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/inmusic/7285021/ALTERNATES/LANDSCAPE_380/INMUSIC"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/inmusic/7285021/BINARY/thumbnail/INMUSIC"
+<img src="https://www.jutarnji.hr/incoming/fpd_9693jpg/7323687/ALTERNATES/WIDE_380/FPD_9693.jpg"
+data-variant="WIDE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9693jpg/7323687/BINARY/thumbnail/FPD_9693.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1255,546 +990,53 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Promo
+<span> Filip Popoviæ
 </span>
 </div>
 </div>
 </div>
+</article>
 </section>
-</section>
-<div class=" ">
-<section class="ci_lead ">
+<div class="header ahgh col-sm-12 col-md-10 col-md-push-1 ">
+<h1
+class="title">
+Beèki bal u Zagrebu
+</h1>
+<ul class="list-inline ">
+<strong>AUTOR: </strong>
+<li>
 <p
-class="leadtext">
-<p> </p>
-</p>
-</section>
-<section>
-<div id="jl-inarticle-wrapper-1" class="jl-inarticle">
-<div id="div-gpt-ad-1459756830165-7">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-7"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-7");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</section>
-<section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285027"
->
-<p>Na pozornici ovogodišnjeg INmusic festivala velikim svjetskim imenima pridružit æe se sjajni bendovi <strong>She Loves Pablo</strong> i <strong>Straight Mickey and the Boyz</strong>.</p><p>Groove/stoner bend She Loves Pablo osnovan je 2006. godine, a od samog poèetka aktivno nastupaju. Prvi album 'Mother Of All' objavili su 2009. godine, uslijedio je 'Burn And Levitate' 2013. godine, a posljednji album 'Try Mandarin' objavili su 2016. godine. Deèki se vraæaju na INmusic festival nakon pet godina, a u meðuvremenu su nastupali diljem Hrvatske i Europe.</p><p>Beogradski Straight Mickey and the Boyz su dinamièna trojka sjajnih glazbenika koji su pod utjecajem raznih žanrova stvorili prepoznatljiv zvuk. Poznati su kao grooverski rock tornado, a kroz glazbu se igraju s rockom, hard coreom i funkom. Etablirali su se kao jedan od najperspektivnijih novih regionalnih bendova zbog svojih energiènih nastupa te su stekli epitet benda koji se mora vidjeti uživo.</p><p> <section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/article7285003.ece" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="youtubeWrapper "
-style="width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/viNT9p0p1eE"
-frameborder="0"
-width="100%"
-allowfullscreen=""></iframe>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>She Loves Pablo i Straight Mickey and the Boyz prudružuju se odliènom line-upu INmusic festivala #13 kojeg èine <strong>Queens Of The Stone Age, Nick Cave &amp; The Bad Seeds, Interpol, Alice in Chains, David Byrne, St. Vincent, Portugal. The Man, The Kills, Bombino, Frank Carter &amp; The Rattlesnakes, Šumski, Reykjavíkurd?tur, Super Besse, Tshegue, Témé Tan, Superorganism</strong> i mnogi drugi. </p><p> <section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/article7285009.ece" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="youtubeWrapper "
-style="width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/Szi4xe_gh6Q"
-frameborder="0"
-width="100%"
-allowfullscreen=""></iframe>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>INmusic festival #13 održat æe se na veæ dobro poznatoj lokaciji zagrebaèkih jarunskih otoka od 25. do 27. lipnja 2018. godine, uz podršku OTP banke Hrvatska koja omoguæuje beskontaktno plaæanje na festivalu. Fizièke ulaznice za INmusic festival #13 po cijeni od 449 kuna moguæe je uplatiti u preko stotinu poslovnica OTP banke diljem Hrvatske i u Dirty Old Shopu (Tratinska 18, Zagreb). Trodnevne ulaznice za INmusic festival #13 dostupne su i putem <strong><a href="https://www.inmusicfestival.com/shop/ulaznice" target="_blank">službenog festivalskog webshopa</a></strong> po cijeni od 449 kuna (+troškovi transakcije), kao i sedmodnevne kamperske ulaznice po cijeni od 250 kuna (+troškovi transakcije).</p>
-</div>
-<script type="text/javascript" language="javascript">
-$(document).ready(function () {
-// Removing empty paragraphs first
-$("#content-body-6263871-7285027 p").filter(function () {
-var html = $.trim($(this).html());
-if (html == '' || html == '&nbsp;')
-return true;
-}).remove();
-// Taking a subset of paragraphs using offset and maximum
-var offset = 1;
-var max = -1;
-if (offset > 1) {
-$("#content-body-6263871-7285027").children().slice(0, offset - 1).remove();
-}
-if (max > -1) {
-$("#content-body-6263871-7285027").children().slice(max).remove();
-}
-// Show dateline field at the beginning of the first paragraph
-var showDateline = true;
-var datelineStr = "";
-if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285027").children().get(0);
-if ("P" == firstChild.nodeName.toUpperCase()) {
-$(firstChild).prepend("<span>" + datelineStr + " - </span>");
-}
-else {
-$(firstChild).before("<span>" + datelineStr + "</span>");
-}
-}
-});
-</script>
-</section>
-<section>
-<div id="inArticleBanner">
-<div id="jl-inarticle-wrapper-2" class="jl-inarticle-wrapper">
-<div id="jl-inarticle-2" class="jl-inarticle">
-<!-- /11425286/jl_cla_ia_2 -->
-<div id='div-gpt-ad-1459756830165-8'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459756830165-8'); });
-</script>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript">
-$(function() {
-if ($("[id^='content-body-'] > p").length < 3) {
-$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
-} else {
-$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 - 1));
-}
-});
-</script>
-</section>
-<div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/INmusic" class ="label label-default" >
-INmusic
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/INmusic_festival" class ="label label-default" >
-INmusic festival
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Glazba" class ="label label-default" >
-Glazba
-</a>
-</li>
-</ul>
-</div>
-<div id="related-news-box"
-class="rel_art_ib ">
-<h3>
-Vezane vijesti
-</h3>
-<section>
-<article class="glazba media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/glazba/na-pozornici-inmusic-festivala-13-zasvirat-ce-jos-dva-sjajna-hrvatska-umjetnika-irena-zilic-i-jr-august/7265412/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
+class="authors">
 <ul>
+<li><a href="https://www.jutarnji.hr/autori/sanja-zordic">Sanja Žordiæ</a></li>
+</ul>
+</p>
+</li>
+<strong>OBJAVLJENO: </strong>
 <li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/glazba/na-pozornici-inmusic-festivala-13-zasvirat-ce-jos-dva-sjajna-hrvatska-umjetnika-irena-zilic-i-jr-august/7265412/">
-Na pozornici INmusic festivala #13 zasvirat æe još dva sjajna hrvatska umjetnika - Irena Žiliæ i J.R. August!
-</a>
-</h4>
+<p
+class="published-date">
+06.05.2018. u 16:53
+</p>
 </li>
 </ul>
 </div>
-</article>
-<article class="kultura media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/editors-ekskluzivno-za-jutarnji-ne-zelimo-biti-bend-kojemu-je-jedan-hit-obiljezio-karijeru-ali-barem-nas-vise-ne-usporeduju-s-joy-divisionom/7256997/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/editors-ekskluzivno-za-jutarnji-ne-zelimo-biti-bend-kojemu-je-jedan-hit-obiljezio-karijeru-ali-barem-nas-vise-ne-usporeduju-s-joy-divisionom/7256997/">
-EDITORS EKSKLUZIVNO ZA JUTARNJI 'Ne želimo biti bend kojemu je jedan hit obilježio karijeru, ali barem nas više ne usporeðuju s Joy Divisionom'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-</section>
-</div>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div style="text-align:center;" class="addthis_responsive_sharing"></div>
 </div>
 </div>
-<div class="col-sm-4 jl-banner-column" >
-<div class="row upscore-magicflow displaynone-upscore-hack " >
-<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
-<section class="upscore_promo1_4 ">
-<div class="row">
-<div class="col-xs-12" data-widget-position="0">
 <section>
-<article class="promo media c13 skin-2 none">
+<article class="ece_incoming listBox media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/neno-pavincicjpg/7323723" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
+<div class="gallery-sidebar">
+<span class="gallery__index">1</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
 </div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="1">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="2">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="3">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-</div>
-</section>
-</div>
-<div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
-<div id="div-gpt-ad-1459756830165-0">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-0"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-0");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div class="row titleRow">
-<div class="col-sm-12">
-<h3 class="section_title_alt izdvojeno_alt"><div><span>Izdvajamo</span></div></h3>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div id="midasWidget__302"></div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div id="midasWidget__301"></div>
-</div>
-</div>
-<div class="row jl-scroll-container " >
-<div class="col-sm-8 " >
-<div class="row " >
-<div class="col-sm-12 ">
-<div id="midas" class="center-block" style="width:100%; max-width:600px;">
-<div id="midasWidget__72"></div>
-<script async src="https://cdn.midas-network.com/Widget/IndexAsync/1?portalWidgetId=72&portalWidgetId=301&portalWidgetId=302" type="text/javascript"></script>
-</div>
-</div>
-<section>
-<div id="jl-inarticle-wrapper-3" class="jl-inarticle">
-<div id="div-gpt-ad-1459756830165-9">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-9"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-9");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</section>
-</div>
-<div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285027" data-colorscheme="light" data-numposts="5"></div>
-</div>
-</div>
-<div class="col-sm-4 jl-banner-column" >
-<div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
-<div id="div-gpt-ad-1459756830165-1">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-1"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0.00;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-1");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-<div class="jl-sticky-banner" style="margin-bottom:20px;">
-<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
-<script type="text/javascript">
-Criteo.events.push(function() {
-Criteo.DisplayAcceptableAdIfAdblocked({
-"zoneid": 1197956,
-"containerid": "crt-47675ba0",
-"overrideZoneFloor": false
-});
-});
-</script>
-</div>
-</div>
-</div>
-<div class="row hidden-xs " >
-<div class="col-sm-12 ">
-<div class="emp_block article_most_read sidebar ">
-<h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
-<div class="row">
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
-<section>
-<article class="glazba media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/glazba/tragican-kraj-princeze-yu-rocka-droga-je-ucinila-svoje-srce-je-stalo-u-sebi-je-otprije-nosila-virus-side-imala-je-epilepsiju/7272843/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/glazba/tragican-kraj-princeze-yu-rocka-droga-je-ucinila-svoje-srce-je-stalo-u-sebi-je-otprije-nosila-virus-side-imala-je-epilepsiju/7272843/">
-KULTNA GLAZBENICA
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/glazba/tragican-kraj-princeze-yu-rocka-droga-je-ucinila-svoje-srce-je-stalo-u-sebi-je-otprije-nosila-virus-side-imala-je-epilepsiju/7272843/">
-TRAGIÈAN KRAJ PRINCEZE YU ROCKA Droga je uèinila svoje. Srce je stalo. U sebi je otprije nosila virus side, imala je epilepsiju...
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
-<section>
-<article class="glazba media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/glazba/aleksandar-dragas-o-biografiji-margite-stefanovic-od-djeteta-crvene-burzoazije-do-tragicne-princeze-novog-vala/7277919/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/glazba/aleksandar-dragas-o-biografiji-margite-stefanovic-od-djeteta-crvene-burzoazije-do-tragicne-princeze-novog-vala/7277919/">
-MAGI: KAO DA JE BILO NEKAD
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/glazba/aleksandar-dragas-o-biografiji-margite-stefanovic-od-djeteta-crvene-burzoazije-do-tragicne-princeze-novog-vala/7277919/">
-ALEKSANDAR DRAGAŠ O BIOGRAFIJI MARGITE STEFANOVIÆ Od djeteta crvene buržoazije do tragiène princeze novog vala </a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
-<section>
-<article class="glazba media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/glazba/nepoznati-detalji-iz-mladosti-posljednje-yu-rock-heroine-s-ekipom-iz-benda-magi-je-cesto-prakticirala-mracne-rituale-i-seksualne-seanse/7262970/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/glazba/nepoznati-detalji-iz-mladosti-posljednje-yu-rock-heroine-s-ekipom-iz-benda-magi-je-cesto-prakticirala-mracne-rituale-i-seksualne-seanse/7262970/">
-ŽIVOT IKONE ROCKA 80-IH (2)
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/glazba/nepoznati-detalji-iz-mladosti-posljednje-yu-rock-heroine-s-ekipom-iz-benda-magi-je-cesto-prakticirala-mracne-rituale-i-seksualne-seanse/7262970/">
-NEPOZNATI DETALJI IZ MLADOSTI POSLJEDNJE YU ROCK HEROINE S ekipom iz benda Magi je èesto prakticirala mraène rituale i seksualne seanse
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
-<section>
-<article class="glazba media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/glazba/kako-je-zivjela-princeza-yu-rocka-magi-je-bolovala-od-epilepsije-imala-tezak-odnos-s-majkom-a-bila-je-ludo-zaljubljena-u-ivu-pogorelica/7258269/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/glazba/kako-je-zivjela-princeza-yu-rocka-magi-je-bolovala-od-epilepsije-imala-tezak-odnos-s-majkom-a-bila-je-ludo-zaljubljena-u-ivu-pogorelica/7258269/">
-NOVA KNJIGA
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/glazba/kako-je-zivjela-princeza-yu-rocka-magi-je-bolovala-od-epilepsije-imala-tezak-odnos-s-majkom-a-bila-je-ludo-zaljubljena-u-ivu-pogorelica/7258269/">
-KAKO JE ŽIVJELA PRINCEZA YU ROCKA Magi je bolovala od epilepsije, imala težak odnos s majkom, a bila je ludo zaljubljena u Ivu Pogoreliæa
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-4 openInNewTab" >
-<section>
-<article class="banner-testing-page media none">
-<div class="teaser "
-data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="http://www.gloria.hr/">
-<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
+<img src="https://www.jutarnji.hr/incoming/neno-pavincicjpg/7323723/ALTERNATES/FREE_380/NENO%20PAVINCIC.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
+data-src-template="https://www.jutarnji.hr/incoming/neno-pavincicjpg/7323723/BINARY/thumbnail/NENO%20PAVINCIC.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1802,22 +1044,37 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
-</a>
 </div>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Neno Pavinèiæ
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/neno-pavincicjpg/7323723/BINARY/original/NENO%20PAVINCIC.jpg" data-title="NENO PAVINCIC.jpg" data-media="https://www.jutarnji.hr/incoming/neno-pavincicjpg/7323723/BINARY/original/NENO%20PAVINCIC.jpg"></div>
+</div>
+</li>
+</ul>
 </div>
 </article>
 </section>
-<article class="fokus-zvjezdane-staze media c3 none">
-<div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/vesna-grubic-ivica-jakicjpg/7323732" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-</a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+<div class="gallery-sidebar">
+<span class="gallery__index">2</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/vesna-grubic-ivica-jakicjpg/7323732/ALTERNATES/FREE_380/Vesna%20Grubic,%20Ivica%20Jakic.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/vesna-grubic-ivica-jakicjpg/7323732/BINARY/thumbnail/Vesna%20Grubic,%20Ivica%20Jakic.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1825,37 +1082,148 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
-</a>
 </div>
-<div class="media-body">
-<h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
-</a>
-</h4>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Vesna Grubiæ, Ivica Jakiæ
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/vesna-grubic-ivica-jakicjpg/7323732/BINARY/original/Vesna%20Grubic,%20Ivica%20Jakic.jpg" data-title="Vesna Grubic, Ivica Jakic.jpg" data-media="https://www.jutarnji.hr/incoming/vesna-grubic-ivica-jakicjpg/7323732/BINARY/original/Vesna%20Grubic,%20Ivica%20Jakic.jpg"></div>
 </div>
+</li>
+</ul>
 </div>
 </article>
-</div>
-<div class="col-sm-4 openInNewTab" >
-<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
-</div>
-<div class="col-sm-4 openInNewTab" >
-<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
-</div>
-</div>
-<div class="row dfp-no-padding " >
-<div class="col-sm-12 ">
+</section>
 <section>
-<div id="jl-billboard-bot-wrapper" class="jl-billboard-bot">
-<div id="div-gpt-ad-1462358187814-0">
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rektor-damir-borasjpg/7323729" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">3</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/rektor-damir-borasjpg/7323729/ALTERNATES/FREE_380/REKTOR%20DAMIR%20BORAS.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/rektor-damir-borasjpg/7323729/BINARY/thumbnail/REKTOR%20DAMIR%20BORAS.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Filip Popoviæ
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Damir Boras
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/rektor-damir-borasjpg/7323729/BINARY/original/REKTOR%20DAMIR%20BORAS.jpg" data-title="REKTOR DAMIR BORAS.jpg" data-media="https://www.jutarnji.hr/incoming/rektor-damir-borasjpg/7323729/BINARY/original/REKTOR%20DAMIR%20BORAS.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/nina-mia-cikes-ivan-jelcicjpg/7323726" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">4</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/nina-mia-cikes-ivan-jelcicjpg/7323726/ALTERNATES/FREE_380/NINA%20MIA%20CIKES,%20IVAN%20JELCIC.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/nina-mia-cikes-ivan-jelcicjpg/7323726/BINARY/thumbnail/NINA%20MIA%20CIKES,%20IVAN%20JELCIC.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Nina Mia Èikeš i Ivan Jelèiæ
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/nina-mia-cikes-ivan-jelcicjpg/7323726/BINARY/original/NINA%20MIA%20CIKES,%20IVAN%20JELCIC.jpg" data-title="NINA MIA CIKES, IVAN JELCIC.jpg" data-media="https://www.jutarnji.hr/incoming/nina-mia-cikes-ivan-jelcicjpg/7323726/BINARY/original/NINA%20MIA%20CIKES,%20IVAN%20JELCIC.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/jadranka-i-mate-granicjpg/7323720" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">5</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/jadranka-i-mate-granicjpg/7323720/ALTERNATES/FREE_380/JADRANKA%20I%20MATE%20GRANIC.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/jadranka-i-mate-granicjpg/7323720/BINARY/thumbnail/JADRANKA%20I%20MATE%20GRANIC.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Jadranka i Mate Graniæ
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/jadranka-i-mate-granicjpg/7323720/BINARY/original/JADRANKA%20I%20MATE%20GRANIC.jpg" data-title="JADRANKA I MATE GRANIC.jpg" data-media="https://www.jutarnji.hr/incoming/jadranka-i-mate-granicjpg/7323720/BINARY/original/JADRANKA%20I%20MATE%20GRANIC.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-1" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-0">
 <script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1462358187814-0"];
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-0'];
 if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
 googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1462358187814-0");
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-0');
 if (refreshTime > 0) {
 setInterval(function() {
 googletag.pubads().refresh([ dfpAdSlots[slot] ]);
@@ -1866,8 +1234,799 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </script>
 </div>
 </div>
-</section>
 </div>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/ivan-rukavina-fani-stipkovic-utakmica-zivotajpg/7323717" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">6</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/ivan-rukavina-fani-stipkovic-utakmica-zivotajpg/7323717/ALTERNATES/FREE_380/Ivan%20Rukavina,%20Fani%20Stipkovic,%20UTAKMICA%20ZIVOTA.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/ivan-rukavina-fani-stipkovic-utakmica-zivotajpg/7323717/BINARY/thumbnail/Ivan%20Rukavina,%20Fani%20Stipkovic,%20UTAKMICA%20ZIVOTA.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Ivan RUkavina i Fani Stipkoviæ
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/ivan-rukavina-fani-stipkovic-utakmica-zivotajpg/7323717/BINARY/original/Ivan%20Rukavina,%20Fani%20Stipkovic,%20UTAKMICA%20ZIVOTA.jpg" data-title="Ivan Rukavina, Fani Stipkovic, UTAKMICA ZIVOTA.jpg" data-media="https://www.jutarnji.hr/incoming/ivan-rukavina-fani-stipkovic-utakmica-zivotajpg/7323717/BINARY/original/Ivan%20Rukavina,%20Fani%20Stipkovic,%20UTAKMICA%20ZIVOTA.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/ivona-i-kazimir-ilijasjpg/7323714" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">7</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/ivona-i-kazimir-ilijasjpg/7323714/ALTERNATES/FREE_380/IVONA%20I%20KAZIMIR%20ILIJAS.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/ivona-i-kazimir-ilijasjpg/7323714/BINARY/thumbnail/IVONA%20I%20KAZIMIR%20ILIJAS.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Ivona i Kazimir Ilijas
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/ivona-i-kazimir-ilijasjpg/7323714/BINARY/original/IVONA%20I%20KAZIMIR%20ILIJAS.jpg" data-title="IVONA I KAZIMIR ILIJAS.jpg" data-media="https://www.jutarnji.hr/incoming/ivona-i-kazimir-ilijasjpg/7323714/BINARY/original/IVONA%20I%20KAZIMIR%20ILIJAS.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpf_0130jpg/7323711" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">8</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpf_0130jpg/7323711/ALTERNATES/FREE_380/FPF_0130.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpf_0130jpg/7323711/BINARY/thumbnail/FPF_0130.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpf_0130jpg/7323711/BINARY/original/FPF_0130.jpg" data-title="FPF_0130.jpg" data-media="https://www.jutarnji.hr/incoming/fpf_0130jpg/7323711/BINARY/original/FPF_0130.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpf_0097jpg/7323708" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">9</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpf_0097jpg/7323708/ALTERNATES/FREE_380/FPF_0097.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpf_0097jpg/7323708/BINARY/thumbnail/FPF_0097.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpf_0097jpg/7323708/BINARY/original/FPF_0097.jpg" data-title="FPF_0097.jpg" data-media="https://www.jutarnji.hr/incoming/fpf_0097jpg/7323708/BINARY/original/FPF_0097.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpf_0092jpg/7323705" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">10</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpf_0092jpg/7323705/ALTERNATES/FREE_380/FPF_0092.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpf_0092jpg/7323705/BINARY/thumbnail/FPF_0092.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpf_0092jpg/7323705/BINARY/original/FPF_0092.jpg" data-title="FPF_0092.jpg" data-media="https://www.jutarnji.hr/incoming/fpf_0092jpg/7323705/BINARY/original/FPF_0092.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-2" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-1">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-1'];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-1');
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpf_0078jpg/7323702" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">11</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpf_0078jpg/7323702/ALTERNATES/FREE_380/FPF_0078.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpf_0078jpg/7323702/BINARY/thumbnail/FPF_0078.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpf_0078jpg/7323702/BINARY/original/FPF_0078.jpg" data-title="FPF_0078.jpg" data-media="https://www.jutarnji.hr/incoming/fpf_0078jpg/7323702/BINARY/original/FPF_0078.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpf_0063jpg/7323699" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">12</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpf_0063jpg/7323699/ALTERNATES/FREE_380/FPF_0063.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpf_0063jpg/7323699/BINARY/thumbnail/FPF_0063.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpf_0063jpg/7323699/BINARY/original/FPF_0063.jpg" data-title="FPF_0063.jpg" data-media="https://www.jutarnji.hr/incoming/fpf_0063jpg/7323699/BINARY/original/FPF_0063.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpf_0044jpg/7323696" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">13</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpf_0044jpg/7323696/ALTERNATES/FREE_380/FPF_0044.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpf_0044jpg/7323696/BINARY/thumbnail/FPF_0044.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpf_0044jpg/7323696/BINARY/original/FPF_0044.jpg" data-title="FPF_0044.jpg" data-media="https://www.jutarnji.hr/incoming/fpf_0044jpg/7323696/BINARY/original/FPF_0044.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9772jpg/7323693" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">14</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpd_9772jpg/7323693/ALTERNATES/FREE_380/FPD_9772.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9772jpg/7323693/BINARY/thumbnail/FPD_9772.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpd_9772jpg/7323693/BINARY/original/FPD_9772.jpg" data-title="FPD_9772.jpg" data-media="https://www.jutarnji.hr/incoming/fpd_9772jpg/7323693/BINARY/original/FPD_9772.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9735jpg/7323690" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">15</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpd_9735jpg/7323690/ALTERNATES/FREE_380/FPD_9735.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9735jpg/7323690/BINARY/thumbnail/FPD_9735.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpd_9735jpg/7323690/BINARY/original/FPD_9735.jpg" data-title="FPD_9735.jpg" data-media="https://www.jutarnji.hr/incoming/fpd_9735jpg/7323690/BINARY/original/FPD_9735.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-3" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-2">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-2'];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-2');
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9691jpg/7323684" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">16</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpd_9691jpg/7323684/ALTERNATES/FREE_380/FPD_9691.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9691jpg/7323684/BINARY/thumbnail/FPD_9691.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpd_9691jpg/7323684/BINARY/original/FPD_9691.jpg" data-title="FPD_9691.jpg" data-media="https://www.jutarnji.hr/incoming/fpd_9691jpg/7323684/BINARY/original/FPD_9691.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9683jpg/7323681" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">17</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpd_9683jpg/7323681/ALTERNATES/FREE_380/FPD_9683.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9683jpg/7323681/BINARY/thumbnail/FPD_9683.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpd_9683jpg/7323681/BINARY/original/FPD_9683.jpg" data-title="FPD_9683.jpg" data-media="https://www.jutarnji.hr/incoming/fpd_9683jpg/7323681/BINARY/original/FPD_9683.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9681jpg/7323678" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">18</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpd_9681jpg/7323678/ALTERNATES/FREE_380/FPD_9681.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9681jpg/7323678/BINARY/thumbnail/FPD_9681.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpd_9681jpg/7323678/BINARY/original/FPD_9681.jpg" data-title="FPD_9681.jpg" data-media="https://www.jutarnji.hr/incoming/fpd_9681jpg/7323678/BINARY/original/FPD_9681.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9665jpg/7323675" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">19</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpd_9665jpg/7323675/ALTERNATES/FREE_380/FPD_9665.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9665jpg/7323675/BINARY/thumbnail/FPD_9665.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpd_9665jpg/7323675/BINARY/original/FPD_9665.jpg" data-title="FPD_9665.jpg" data-media="https://www.jutarnji.hr/incoming/fpd_9665jpg/7323675/BINARY/original/FPD_9665.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9649jpg/7323672" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">20</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpd_9649jpg/7323672/ALTERNATES/FREE_380/FPD_9649.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9649jpg/7323672/BINARY/thumbnail/FPD_9649.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpd_9649jpg/7323672/BINARY/original/FPD_9649.jpg" data-title="FPD_9649.jpg" data-media="https://www.jutarnji.hr/incoming/fpd_9649jpg/7323672/BINARY/original/FPD_9649.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-4" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-3">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-3'];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-3');
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9592jpg/7323669" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">21</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpd_9592jpg/7323669/ALTERNATES/FREE_380/FPD_9592.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9592jpg/7323669/BINARY/thumbnail/FPD_9592.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpd_9592jpg/7323669/BINARY/original/FPD_9592.jpg" data-title="FPD_9592.jpg" data-media="https://www.jutarnji.hr/incoming/fpd_9592jpg/7323669/BINARY/original/FPD_9592.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fpd_9471jpg/7323666" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">22</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/fpd_9471jpg/7323666/ALTERNATES/FREE_380/FPD_9471.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fpd_9471jpg/7323666/BINARY/thumbnail/FPD_9471.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/fpd_9471jpg/7323666/BINARY/original/FPD_9471.jpg" data-title="FPD_9471.jpg" data-media="https://www.jutarnji.hr/incoming/fpd_9471jpg/7323666/BINARY/original/FPD_9471.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/dalibor-biscanjpg/7323663" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">23</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/dalibor-biscanjpg/7323663/ALTERNATES/FREE_380/Dalibor%20Biscan.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/dalibor-biscanjpg/7323663/BINARY/thumbnail/Dalibor%20Biscan.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Dalibor Bišèan
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/dalibor-biscanjpg/7323663/BINARY/original/Dalibor%20Biscan.jpg" data-title="Dalibor Biscan.jpg" data-media="https://www.jutarnji.hr/incoming/dalibor-biscanjpg/7323663/BINARY/original/Dalibor%20Biscan.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/drazenka-buntak-ilijana-palcecjpg/7323660" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">24</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/drazenka-buntak-ilijana-palcecjpg/7323660/ALTERNATES/FREE_380/DRAZENKA%20BUNTAK,%20ILIJANA%20PALCEC.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/drazenka-buntak-ilijana-palcecjpg/7323660/BINARY/thumbnail/DRAZENKA%20BUNTAK,%20ILIJANA%20PALCEC.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+DRaženka Buntak i Ilijana Palèec
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/drazenka-buntak-ilijana-palcecjpg/7323660/BINARY/original/DRAZENKA%20BUNTAK,%20ILIJANA%20PALCEC.jpg" data-title="DRAZENKA BUNTAK, ILIJANA PALCEC.jpg" data-media="https://www.jutarnji.hr/incoming/drazenka-buntak-ilijana-palcecjpg/7323660/BINARY/original/DRAZENKA%20BUNTAK,%20ILIJANA%20PALCEC.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/antonella-malis-marina-tomasevicjpg/7323657" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">25</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">25</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/antonella-malis-marina-tomasevicjpg/7323657/ALTERNATES/FREE_380/ANTONELLA%20MALIS,%20MARINA%20TOMASEVIC.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/antonella-malis-marina-tomasevicjpg/7323657/BINARY/thumbnail/ANTONELLA%20MALIS,%20MARINA%20TOMASEVIC.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Antonella Malis i Marina Tomaševiæ
+</p>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/antonella-malis-marina-tomasevicjpg/7323657/BINARY/original/ANTONELLA%20MALIS,%20MARINA%20TOMASEVIC.jpg" data-title="ANTONELLA MALIS, MARINA TOMASEVIC.jpg" data-media="https://www.jutarnji.hr/incoming/antonella-malis-marina-tomasevicjpg/7323657/BINARY/original/ANTONELLA%20MALIS,%20MARINA%20TOMASEVIC.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-5" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-4">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-4'];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-4');
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</section>
 </div>
 </section>
 </div>
@@ -1917,6 +2076,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2046,7 +2210,7 @@ Film i televizija
 Književnost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/kultura/glazba/">
 Glazba
 </a>
@@ -2206,148 +2370,26 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
 </div>
 </div>
 </footer>
-<script>
-function fbCommentGA() {
-FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'Facebook Comment', 'Posted', window.location.href, 1);
-});
-}
-window.onload = fbCommentGA;
-</script>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
 <script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
-<div id="jl-floater-wrapper" class="jl-floater-wrapper">
-<div id="jl-float" class="jl-floater">
-<!-- /11425286/jl_floater -->
-<div id='div-gpt-ad-1459756830165-6'>
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-6"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-6'); });
-}
-</script>
-</div>
-</div>
-</div>
-<div id="jl-wallpaper-wrapper" class="jl-wallpaper-wrapper">
-<div id="jl-wallpaper" class="jl-wallpaper">
-<!-- /11425286/jl_wp -->
-<div id='div-gpt-ad-1459756830165-10'>
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-10"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-10'); });
-}
-</script>
-</div> </div>
-</div>
-<div class="hidden-xs ">
-<div id="side-article-widget" class="side-article-widget" style="display: none;">
-<div class="clearfix">
-<div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
-<div class="side-article clearfix">
-<div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
-</div>
-<div class="pull-right side-article-text-wrapper">
-<div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
-<hr class="side-article-hr" />
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="pull-right side-control-column">
-<div class="side-control">
-<a href="#" class="side-button" data-status="open">&#9658;</a>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript">
-$(document).ready(function () {
-$('#side-article-widget a.side-button').click(function (event) {
-event.preventDefault();
-var status = $(this).attr('data-status');
-if (status === 'open') {
-$('.side-article-column').fadeOut('fast');
-$(this).attr('data-status', 'close');
-$(this).html('&#9664;');
-} else {
-$('.side-article-column').fadeIn('fast');
-$(this).attr('data-status', 'open');
-$(this).html('&#9658;');
-}
-});
-$(window).scroll(function (event) {
-var turnOnHeight = 1500;
-var scrolled = $(window).scrollTop();
-if (scrolled > turnOnHeight) {
-$('#side-article-widget').fadeIn('fast');
-} else {
-$('#side-article-widget').fadeOut('fast');
-}
-});
-});
-</script>
-</div>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=45&contextPath=1-43-45-&pubId=1&cat=&meta=read-story&objId=7285027&type=article&title=VIDEO%3a+OVE+PERSPEKTIVNE+REGIONALNE+BENDOVE+MORATE+VIDJETI+U%c5%bdIVO+She+Loves+Pablo+i+Straight+Mickey+and+the+Boyz+donose+%c5%beestoki+zvuk+na+INmusic&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fglazba%2fvideo-ove-perspektivne-regionalne-bendove-morate-vidjeti-uzivo-she-loves-pablo-i-straight-mickey-and-the-boyz-donose-zestoki-zvuk-na-inmusic%2f7285027%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=227&contextPath=1-227-&pubId=1&cat=&meta=read-gallery&objId=7323735&type=article&title=Be%c4%8dki+bal+u+Zagrebu&url=https%3a%2f%2fwww.jutarnji.hr%2fFotogalerije%2fbecki-bal-u-zagrebu%2f7323735%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=45&amp;contextPath=1-43-45-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285027&amp;type=article&amp;title=VIDEO%3a+OVE+PERSPEKTIVNE+REGIONALNE+BENDOVE+MORATE+VIDJETI+U%c5%bdIVO+She+Loves+Pablo+i+Straight+Mickey+and+the+Boyz+donose+%c5%beestoki+zvuk+na+INmusic&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fglazba%2fvideo-ove-perspektivne-regionalne-bendove-morate-vidjeti-uzivo-she-loves-pablo-i-straight-mickey-and-the-boyz-donose-zestoki-zvuk-na-inmusic%2f7285027%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&cat=jltags%40eph.hr%2c2016&objId=1031414173&title=Glazba&url=tag%3ajltags%40eph.hr%2c2016%3aGlazba&rt=1&ctxId=45&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1031414173&amp;title=Glazba&amp;url=tag%3ajltags%40eph.hr%2c2016%3aGlazba&amp;rt=1&amp;ctxId=45&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&cat=jltags%40eph.hr%2c2016&objId=494611101&title=INmusic+festival&url=tag%3ajltags%40eph.hr%2c2016%3aINmusic_festival&rt=1&ctxId=45&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=494611101&amp;title=INmusic+festival&amp;url=tag%3ajltags%40eph.hr%2c2016%3aINmusic_festival&amp;rt=1&amp;ctxId=45&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&cat=jltags%40eph.hr%2c2016&objId=1418577008&title=INmusic&url=tag%3ajltags%40eph.hr%2c2016%3aINmusic&rt=1&ctxId=45&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1418577008&amp;title=INmusic&amp;url=tag%3ajltags%40eph.hr%2c2016%3aINmusic&amp;rt=1&amp;ctxId=45&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=227&amp;contextPath=1-227-&amp;pubId=1&amp;cat=&amp;meta=read-gallery&amp;objId=7323735&amp;type=article&amp;title=Be%c4%8dki+bal+u+Zagrebu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fFotogalerije%2fbecki-bal-u-zagrebu%2f7323735%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2400,7 +2442,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/glazba/video-ove-perspektivne-regionalne-bendove-morate-vidjeti-uzivo-she-loves-pablo-i-straight-mickey-and-the-boyz-donose-zestoki-zvuk-na-inmusic/7285027/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/Fotogalerije/becki-bal-u-zagrebu/7323735/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2410,14 +2452,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/kultura/glazba/video-ove-perspektivne-regionalne-bendove-morate-vidjeti-uzivo-she-loves-pablo-i-straight-mickey-and-the-boyz-donose-zestoki-zvuk-na-inmusic/7285027/",
-postId : "7285027",
+url : "https://www.jutarnji.hr/Fotogalerije/becki-bal-u-zagrebu/7323735/",
+postId : "7323735",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "VIDEO: OVE PERSPEKTIVNE REGIONALNE BENDOVE MORATE VIDJETI UŽIVO She Loves Pablo i Straight Mickey and the Boyz donose žestoki zvuk na INmusic",
-pubdate : "2018-04-25 12:27",
-authors : "Ana Soriæ",
-sections : "Front Page, Kultura, Glazba",
-tags : "Glazba, INmusic festival, INmusic",
+title : "Beèki bal u Zagrebu",
+pubdate : "2018-05-06 16:53",
+authors : "Sanja Žordiæ",
+sections : "Front Page, Fotogalerije",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

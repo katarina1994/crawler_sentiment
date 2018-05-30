@@ -6,7 +6,7 @@
 <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Zašto ponekad trebamo posegnuti za multivitaminima i mineralima? - Jutarnji List</title>
+<title>PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -43,8 +43,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -57,20 +57,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_1180/asphalt-clouds-endurance-421160.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_1180/Aspira%20naslovna.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_1180/asphalt-clouds-endurance-421160.jpg">
-<meta property="og:title" content="Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_1180/Aspira%20naslovna.jpg">
+<meta property="og:title" content="PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" />
+<meta property="og:url" content="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" />
 <meta property="og:site_name" content="jutarnji.hr" />
 <meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Promo">
-<meta name="twitter:title" content="Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?">
+<meta name="twitter:title" content="PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! ">
 <meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
@@ -95,7 +95,7 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Promo, Front Page",
-pubdate: "2018-04-16T09:17+02:00",
+pubdate: "2018-05-07T10:32+02:00",
 author: "Promo",
 object_type: "article",
 custom_sponsored: 1
@@ -273,6 +273,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -538,10 +543,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row " >
 <div class="col-sm-12 ">
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
+<p
+class="overline">
+PRAVI IZBOR ZA TEBE
+</p>
 <h1
 class="title">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</h1>
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
 <li>
@@ -556,27 +564,31 @@ class="authors">
 <li>
 <p
 class="published-date">
-16.04.2018. u 09:17
+07.05.2018. u 10:32
 </p>
 </li>
 </ul>
 </div>
 <section class="lead_image ">
-<section class="ece_incoming media ">
+<section class="promo media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/WIDE_380/asphalt-clouds-endurance-421160.jpg"
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/WIDE_380/Aspira%20naslovna.jpg"
 data-variant="WIDE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> Promo
+</span>
+</div>
 </div>
 </div>
 </section>
@@ -593,19 +605,19 @@ class="leadtext">
 </p>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7246617"
+<div id="content-body-6263871-7325964"
 >
-<p>Zdrava prehrana, bogata esencijalnim tvarima osnova je dobrog zdravlja. Vitamini i minerali neophodni su za odvijanje važnih procesa u organizmu, a njihov nedostatak može izazvati ozbiljne poremeæaje koji rezultiraju raznim tegobama i oboljenjima. Obzirom da je današnja prehrana, kako ukazuju mnoga ispitivanja, neuravnotežena, neredovita i siromašna mikronutrijentima, bitno je osigurati dodatni unos ovih za život bitnih tvari.</p><p>Kako bi se osigurao optimalni unos vitamina, minerala i drugih esencijalnih tvari najèešæe se preporuèuje uzimanje ciljanih multivitaminskih kombinacija. Pošto se na tržištu nudi mnoštvo ovih kombinacija potrebno je naglasiti da nisu sve formule jednake! Razlikuju se u sastavu, kolièini aktivnih tvari, njihovom obliku kao i kolièini i vrsti pomoænih tvari - važnim faktorima koji onda utjeèu na apsorpciju i iskoristivost.</p><p>Prilikom odabira multivitamiskih formula treba voditi brigu o obliku vitamina i minerala. Prirodne oblike naše tijelo prepoznaje kao svoje i u potpunosti ih iskorištava. Najbolja opcija je ako su ti prirodni oblici i kelirani tj. kombinirani sa amino kiselinama koje se nalaze u našem organizmu.</p><p>Specijalne formule multivitamina i minerala u biljnoj bazi u <strong>Twinlab Dualtabs</strong>-u odabir su za osobe koje se <strong>neredovito i nekvalitetno hrane</strong>. Dualtabs se posebno preporuèuje osobama <strong>pod stresom (studenti, poslovni ljudi...), starijim osobama, kroniènim bolesnicima i rekonvalescentima te sportašima koji imaju poveæane potrebe za vitaminima i mineralima.</strong> Zbog jedinstvenog sastava <strong>Dualtabs</strong> je optimalna dopuna prehrani za jaèanje imuniteta i poboljšanje opæeg stanja organizma.</p><p><strong>Dualtabs</strong> tablete sadrže odvojene vitaminske i mineralne slojeve sa 16 esencijalnih vitamina te 12 minerala. Na ovaj naèin smanjuje se moguænost meðudjelovanja, a osigurava bolja apsorpciju i iskoristivost. Specijalna tehnologija izrade osigurava postepeno otpuštanje tijekom cijelog dana, pa je dovoljna jedna tableta dnevno. <strong>Vitamini B</strong> kompleksa sudjeluju u svim metabolièkim procesima u organizmu stoga su posebno zastupljeni u ovoj formuli.  Od mikroelemenata za imunitet najpotrebniji su <strong>selen</strong> i <strong>cink</strong> dok <strong>vitamin A</strong> pomaže u oporavku sluznice i jaèa imunitet. <strong>Vitamini C i E</strong> pružaju snažnu antioksidativnu potporu  i jaèaju<strong> imunitet. </strong> Zaštiæena <strong>biljna baza</strong> kompleksa prirodnih bioflavonoida (rutin i hesperidin) poboljšava apsorpciju i iskoristivost vitamina i minerala iz formule. Ekstrakti <strong>acerole i šipka</strong>, bogati su prirodni izvor vitamina C i antioksidansa dok <strong>probiotièka kultura </strong>(Lactobacillus acidophilus) regulira fiziološku crijevnu floru. Dualtabs sadrži specijalno obloženo <strong>željezo</strong> koje ne uzrokuje probavne teškoæe. Prirodni <strong>proteolitièki enzimi</strong> iz ananasove palme i papaje (bromelain i papain) omoguæuju optimalnu razgradnju hrane i bolju iskoristivost hranjivih tvari, dinamièki djeluje na probavu pa se preporuèuje uzimanje Dualtabsa nakon obroka.</p><p>Dualtabs je izraðen od <strong>provjerenih i najkvalitetnijih sirovina</strong> suvremenim tehnološkim postupcima, a staklena ambalaža nema interakciju sa sadržajem tako da su <strong>cjelovitost i kvaliteta </strong>proizvoda zagarantirani.</p><p>Iz navedenog sastava vidljiva je kompleksnost formule èija svakodnevna primjena osigurava optimalnu nadopunu prehrane i omoguæuje bolju apsorpciju  hrane, esencijalni proces za održavanje imuniteta i opæeg zdravstvenog stanja.</p><p>Potražite specijalno duopakiranje <a href="http://twinlab.hr/katalog%20proizvoda/dualtabs-magnezij/" target="_blank">TWINLAB DUALTABS + TWINLAB MAGNEZIJ gratis, tokom mjeseca travnja</a>.</p><p> </p><p>
+<p>Turizam je zadnjih godina najperspektivnija gospodarska grana u Hrvatskoj, a raste i konstantna potražnja za kvalitetnom radnom snagom. Obrazovanje i usavršavanje je postalo kljuèni resurs suvremenog poslovanja, a samim time i razvoja pa je adekvatno obrazovanje kadrova u hotelijerstvu i turizmu preduvjet konkurentnoj prednosti odreðene zajednice, podizanju produktivnosti i poveæanju tržišne vrijednosti. Upravo zbog toga<strong><a href="http://www.aspira.hr/?utm_source=jutarnji&amp;utm_medium=cpc&amp;utm_campaign=jutarnji&amp;utm_term=keyword&amp;utm_content=creative" target="_blank"> Visoka škola Aspira</a></strong> kreirala je struèni studij <strong>Meðunarodnog menadžmenta u hotelijerstvu i turizmu</strong>.</p><p>Želiš li studirati na drugaèijem studiju na kojem je praksa važnija od boravka u uèionici? Odraðivati praksu u najboljim hotelskim lancima, turistièkim agencijama i vrhunskim restoranima?  <strong><a href="http://www.aspira.hr/?utm_source=jutarnji&amp;utm_medium=cpc&amp;utm_campaign=jutarnji&amp;utm_term=keyword&amp;utm_content=creative" target="_blank">Visoka škola Aspira</a></strong> je onda pravi izbor za tebe.</p><p>Studijski program <strong>Meðunarodni menadžment u hotelijerstvu i turizmu</strong> obrazuje struènjake za rad u hotelijerstvu i turizmu uvoðenjem novih znanja i vještina putem specijalizacije. Naime, specijalizacije su zamišljene tako da studenti biraju jedno od tri usmjerenja: <strong>Hotelski menadžment</strong>, <strong>Menadžment destinacijskih organizacija</strong> <strong>i kompanija</strong> i <strong>Gastronomiju</strong>.</p><h2><strong>Drugaèiji studij Turizma</strong></h2><p>Studij je osmišljen u suradnji s poslodavcima i prilagoðen potrebama tržišta rada. Traje <strong>3 godine</strong>, a izvodi se kao <strong>redovni</strong> <strong>i izvanredni</strong>. Nastavu održavaju vrhunski domaæi i inozemni struènjaci s bogatim iskustvom. Primjerice na Aspiri možete slušati predavanja voditeljice studijskog programa Meðunarodnog hotelskog menadžmenta na <em>Hotel Institute Montreux</em> (<em>Swiss Education Group</em>) <strong>dr. Helen Bayne</strong> ili direktora gospodarskog razvoja <em>Resursnog Centra Sveuèilišta u Greenwichu (London, UK)</em> –  <strong>dr.</strong> <strong>Jamesa Kennella</strong>.</p><p>Osim kreativno osmišljenog nastavnog programa studenti sudjeluju u struènim radionicama, odlaze na terensku nastavu te imaju moguænost birati izmeðu brojnih izvannastavnih aktivnosti. <strong>Turistièka inspekcija</strong>, <strong>Poduzetnièki klub</strong>, <strong>PR klub</strong>, <strong>Gastro klub</strong> su samo neke od brojnih sekcija koje djeluj u na Aspiri. Na tjednoj bazi hrvatski i inozemni struènjaci iz podruèja turizma, ugostiteljstva, hotelijerstva, menadžmenta i marketinga dolaze kao gosti predavaèi i informiraju Aspirine studente o najnovijim trendovima iz prakse.</p><p><a href="http://www.aspira.hr/?utm_source=jutarnji&amp;utm_medium=cpc&amp;utm_campaign=jutarnji&amp;utm_term=keyword&amp;utm_content=creative" target="_blank">Aspirini studenti </a>imaju moguænost nastavka školovanja ili odraðivanja struène prakse u inozemstvu preko <strong>Erasmus + programa mobilnosti</strong>. Potpisani su partnerski ugovori s preko 30 prestižnih sveuèilišta u Europi. Visoka škola Aspira kao jedina visokoobrazovna institucija u ovom dijelu Europe ima potpisan ugovor o suradnji s uglednom <strong>Swiss Education Group</strong>. Rijeè je o grupaciji koja okuplja najbolje svjetske fakultete s podruèja hotelijerstva i turizma, a studenti nakon završetka školovanja dobivaju švicarsku i amerièku diplomu.</p><p>
 <section>
-<article class="ece_incoming media ">
+<article class="promo media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/twl-dualtabs_mg-duopaket2png/7246629" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/studenti-aspire-solarispng/7325955" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/twl-dualtabs_mg-duopaket2png/7246629/ALTERNATES/FREE_380/TWL-DualTabs_Mg-Duopaket2.png"
+<img src="https://www.jutarnji.hr/Promo/studenti-aspire-solarispng/7325955/ALTERNATES/FREE_380/Studenti%20Aspire%20-%20Solaris.png"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/twl-dualtabs_mg-duopaket2png/7246629/BINARY/thumbnail/TWL-DualTabs_Mg-Duopaket2.png"
+data-src-template="https://www.jutarnji.hr/Promo/studenti-aspire-solarispng/7325955/BINARY/thumbnail/Studenti%20Aspire%20-%20Solaris.png"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -614,26 +626,53 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> promo
+<span> Promo
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Studenti Aspire na terenskoj nastavi u hotelskom kompleksu Solaris u Šibenik</h4>
 </div>
 </div>
 </div>
 </article>
 </section>
- </p><p>Nakon 50 godina rada Twinlab je i dalje ostao vjeran svojim korijenima. Za razliku od mnogih drugih proizvoðaèa, Twinlab i dalje inzistira na vrlo strogim kontrolama kvalitete od poèetka do kraja proizvodnog procesa, te se sva proizvodnja odvija u SAD-u.</p><p>Uvjerite se i sami.....</p><p> <section class="social_embed ">
-<video width="600" height="300" controls>
-<source src="https://ads-jutarnji.r.worldssl.net/cdn/video/Twinlab_Our_story.mp4
-"video/mp4">
-</video>
+</p><h2><strong>Struèna praksa kao kruna studiranja</strong></h2><p>Najvažniji dio studijskog programa je struèna praksa koja se provodi veæ od prve godine studija u najboljim domaæim i inozemnim hotelima, turistièkim agencijama i restoranima. Praksa se dogovara na <strong>Danu karijera</strong>, centralnom dogaðaju gdje se okuplja preko 70 poslodavaca iz Hrvatske. Studenti praksu odraðuju u poznatim hotelskim lancima poput <strong>Hiltona</strong>, <strong>Radisson Blu</strong>, <strong>Kempinski</strong>, <strong>Le Meriden Lav</strong> i mnogim drugima, <strong>ACI marinama</strong>, restoranima <strong>Pelegrini</strong>, <strong>Nautika</strong> i <strong>Zinfandel</strong>. Zanimljivo je da veliki broj studenta pronaðe zaposlenje i prije kraja formalnog školovanja, najèešæe kod poslodavaca kod koji su odraðivali struènu praksu. Na Aspiri djeluje i <strong>Centar za poslovne karijere</strong> koji pomaže studentima u pronalasku posla i kreiranju profila prema zahtjevima tržišta. Njegov rad najbolje potvrðuje èinjenica da <strong>93 %</strong> studenata nakon završetka školovanja <a href="http://www.aspira.hr/?utm_source=jutarnji&amp;utm_medium=cpc&amp;utm_campaign=jutarnji&amp;utm_term=keyword&amp;utm_content=creative" target="_blank">na Aspiri pronaðe posao u struci</a>.</p><p>
+<section>
+<article class="promo media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/strucna-praksajpg/7325958" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/Promo/strucna-praksajpg/7325958/ALTERNATES/FREE_380/Stru%C4%8Dna%20praksa.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/Promo/strucna-praksajpg/7325958/BINARY/thumbnail/Stru%C4%8Dna%20praksa.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Promo
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Struèna praksa u hotelu Excelsior u Dubrovniku</h4>
+</div>
+</div>
+</div>
+</article>
 </section>
- </p>
+</p><h2><strong>Studij uz rad</strong></h2><p>Predavanja i vježbe u sklopu studija prilagoðene su i zaposlenim osobama koje zbog svojih profesionalnih obveza nisu u moguænosti redovito pohaðati nastavu. Izvanrednim studentima omoguæene su individualne konzultacije uz mentorstvo, a nastavu je moguæe pratiti i putem video prijenosa. Takoðer, Visoka škola Aspira omoguæuje izvanrednim studentima s udaljenih mjesta boravka polaganje odreðenih ispita online uz softversku podršku u sklopu sustava <strong>Merlin</strong>.</p><p>Studij <strong>Meðunarodnog menadžmenta u hotelijerstvu i turizmu</strong> se može upisati preko državne mature i razredbenog postupka, a moguæ je i prijelaz s drugih studija. <strong>Razredbeni postupak</strong> u <strong>Splitu </strong>održat æe se <strong>12. svibnja</strong>, a u<strong> Zagrebu</strong> <strong>19. svibnja</strong>. Više informacija možete pronaæi na <strong><a href="http://www.aspira.hr/?utm_source=jutarnji&amp;utm_medium=cpc&amp;utm_campaign=jutarnji&amp;utm_term=keyword&amp;utm_content=creative" target="_blank">www.aspira.hr</a></strong>.</p><p> </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7246617 p").filter(function () {
+$("#content-body-6263871-7325964 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -642,16 +681,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7246617").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7325964").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7246617").children().slice(max).remove();
+$("#content-body-6263871-7325964").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7246617").children().get(0);
+var firstChild = $("#content-body-6263871-7325964").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -733,6 +772,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1022,11 +1066,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -1041,12 +1080,12 @@ Cjenik za izborno oglašavanje
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=302&contextPath=1-302-&pubId=1&cat=&meta=read-promoStory&objId=7246617&type=article&title=Za%c5%a1to+ponekad+trebamo+posegnuti+za+multivitaminima+i+mineralima%3f&url=https%3a%2f%2fwww.jutarnji.hr%2fPromo%2fzasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima%2f7246617%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=302&contextPath=1-302-&pubId=1&cat=&meta=read-promoStory&objId=7325964&type=article&title=PRAVI+STUDIJ+TURIZMA+NA+VISOKOJ+%c5%a0KOLI+ASPIRA+U+SPLITU+I+ZAGREBU%3a+Ostvari+me%c4%91unarodnu+karijeru+u+turizmu!&url=https%3a%2f%2fwww.jutarnji.hr%2fPromo%2fpravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu%2f7325964%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=302&amp;contextPath=1-302-&amp;pubId=1&amp;cat=&amp;meta=read-promoStory&amp;objId=7246617&amp;type=article&amp;title=Za%c5%a1to+ponekad+trebamo+posegnuti+za+multivitaminima+i+mineralima%3f&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fPromo%2fzasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima%2f7246617%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=302&amp;contextPath=1-302-&amp;pubId=1&amp;cat=&amp;meta=read-promoStory&amp;objId=7325964&amp;type=article&amp;title=PRAVI+STUDIJ+TURIZMA+NA+VISOKOJ+%c5%a0KOLI+ASPIRA+U+SPLITU+I+ZAGREBU%3a+Ostvari+me%c4%91unarodnu+karijeru+u+turizmu!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fPromo%2fpravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu%2f7325964%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -1099,7 +1138,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -1109,13 +1148,13 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/",
-postId : "7246617",
+url : "https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/",
+postId : "7325964",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?",
-pubdate : "2018-04-16 09:17",
+title : "PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! ",
+pubdate : "2018-05-07 10:32",
 authors : "Promo",
-sections : "Vijesti, Promo",
+sections : "Promo",
 tags : "",
 comments : commentsCount.toString()
 };

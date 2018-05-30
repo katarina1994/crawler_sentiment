@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Kuæni ljubimci, Životne prièe, psi, Životinje, spašavanje" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="ZAGREB - Nastavši 1984. kao glazbeni projekt buduæih supružnika Ira Kaplana (gitara, klavir, vokali) i Georgie Hubley (bubnjevi, klavir, vokali), kojima se osam godina kasnije prikljuèio basist James McNew, Yo La Tengo su s vremenom stekli kultno sljedbeništvo te postali jednim od najveæih miljenika glazbene kritike diljem svijeta. Za sobom imaju èetrnaest redom izvrsnih albuma prekrasne, intrigantne, eksperimentima sklone i nerijetke buène pop glazbe, radili su glazbu za filmove ali i snimili temu za kultne Simpsone, glumili su The Velvet Underground u filmu &#034;I Shot Andy Warhol&#034; te dijelili pozornicu s mnogim drugim glazbenim velikanima." />
+<meta name="keywords" content="SuperUho, Jedinstvo, Koncerti" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i gotovo slijep ležao je uz nju cijelu noæ, zaradio i odlikovanje - Jutarnji List</title>
+<title>YO LA TENGO U JEDINSTVU Povratak kultnih indie rockera koji su snimili temu za Simpsone i glumili Velvet Underground u filmu - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "VauMijau";
-var dfpCategoryParent = "Life";
-var dfpRos = "life-ros";
-var dfpArticle = "7275420";
-var dfpArticleKeyword = "Kuæni ljubimci";
+var dfpCategory = "Glazba";
+var dfpCategoryParent = "Kultura";
+var dfpRos = "kultura-ros";
+var dfpArticle = "7330923";
+var dfpArticleKeyword = "SuperUho";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/stari-pas-max/7275393/ALTERNATES/LANDSCAPE_1180/stari%20pas%20Max" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/150909_ylt_a07-2jpg/7332423/ALTERNATES/LANDSCAPE_1180/15.09.09_YLT_a07-2.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/stari-pas-max/7275393/ALTERNATES/LANDSCAPE_1180/stari%20pas%20Max">
-<meta property="og:title" content="FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i gotovo slijep ležao je uz nju cijelu noæ, zaradio i odlikovanje" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/150909_ylt_a07-2jpg/7332423/ALTERNATES/LANDSCAPE_1180/15.09.09_YLT_a07-2.jpg">
+<meta property="og:title" content="YO LA TENGO U JEDINSTVU Povratak kultnih indie rockera koji su snimili temu za Simpsone i glumili Velvet Underground u filmu" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/" />
+<meta property="og:url" content="https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="ZAGREB - Nastavši 1984. kao glazbeni projekt buduæih supružnika Ira Kaplana (gitara, klavir, vokali) i Georgie Hubley (bubnjevi, klavir, vokali), kojima se osam godina kasnije prikljuèio basist James McNew, Yo La Tengo su s vremenom stekli kultno sljedbeništvo te postali jednim od najveæih miljenika glazbene kritike diljem svijeta. Za sobom imaju èetrnaest redom izvrsnih albuma prekrasne, intrigantne, eksperimentima sklone i nerijetke buène pop glazbe, radili su glazbu za filmove ali i snimili temu za kultne Simpsone, glumili su The Velvet Underground u filmu "I Shot Andy Warhol" te dijelili pozornicu s mnogim drugim glazbenim velikanima." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i gotovo slijep ležao je uz nju cijelu noæ, zaradio i odlikovanje">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="YO LA TENGO U JEDINSTVU Povratak kultnih indie rockera koji su snimili temu za Simpsone i glumili Velvet Underground u filmu">
+<meta name="twitter:description" content="ZAGREB - Nastavši 1984. kao glazbeni projekt buduæih supružnika Ira Kaplana (gitara, klavir, vokali) i Georgie Hubley (bubnjevi, klavir, vokali), kojima se osam godina kasnije prikljuèio basist James McNew, Yo La Tengo su s vremenom stekli kultno sljedbeništvo te postali jednim od najveæih miljenika glazbene kritike diljem svijeta. Za sobom imaju èetrnaest redom izvrsnih albuma prekrasne, intrigantne, eksperimentima sklone i nerijetke buène pop glazbe, radili su glazbu za filmove ali i snimili temu za kultne Simpsone, glumili su The Velvet Underground u filmu "I Shot Andy Warhol" te dijelili pozornicu s mnogim drugim glazbenim velikanima.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2438';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "VauMijau, Life, Front Page",
-pubdate: "2018-04-23T12:21+02:00",
-author: "Hina",
+data: { section: "Glazba, Kultura, Front Page",
+pubdate: "2018-05-08T14:33+02:00",
+author: "Goran Šikiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="life story">
+<body class="kultura story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -808,12 +808,12 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/">
 Kultura
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -971,7 +976,7 @@ Putovanja
 Životne prièe
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/vaumijau/">
 VauMijau
 </a>
@@ -1015,7 +1020,7 @@ Film i televizija
 Književnost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/glazba/">
 Glazba
 </a>
@@ -1132,64 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/life/">Life </a>
+<li><a href="https://www.jutarnji.hr/kultura/">Kultura </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/vaumijau/">VauMijau </a></li>
+<li><a href="https://www.jutarnji.hr/kultura/glazba/">Glazba </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
-Obitelj i djeca
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/tehnologija/">
-Tehnologija
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/znanost/">
-Znanost
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zdravlje/">
-Zdravlje
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/seks-i-veze/">
-Seks i veze
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/putovanja/">
-Putovanja
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zivotne-price/">
-Životne prièe
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/life/vaumijau/">
-VauMijau
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
-Moda i ljepota
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/astro/">
-Astro
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
-Buduænost zdravstva
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
 </a>
 </li>
 </ul>
@@ -1229,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-DIRLJIVA VJERNOST
+SUPERUHO
 </p>
 <h1
 class="title">
-FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i gotovo slijep ležao je uz nju cijelu noæ, zaradio i odlikovanje
+YO LA TENGO U JEDINSTVU Povratak kultnih indie rockera koji su snimili temu za Simpsone i glumili Velvet Underground u filmu
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1226,7 @@ FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-23.04.2018. u 12:21
+08.05.2018. u 14:33
 </p>
 </li>
 </ul>
@@ -1261,21 +1246,21 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/stari-pas-max/7275393" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/150909_ylt_a07-2jpg/7332423" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/stari-pas-max/7275393/ALTERNATES/LANDSCAPE_380/stari%20pas%20Max"
+<img src="https://www.jutarnji.hr/incoming/150909_ylt_a07-2jpg/7332423/ALTERNATES/LANDSCAPE_380/15.09.09_YLT_a07-2.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/stari-pas-max/7275393/BINARY/thumbnail/stari%20pas%20Max"
+data-src-template="https://www.jutarnji.hr/incoming/150909_ylt_a07-2jpg/7332423/BINARY/thumbnail/15.09.09_YLT_a07-2.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Brooklym, NY - September 25, 2015 - Larry Campbell and Teresa Williams."
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Facebook
+<span> Jacob Blickenstaff
 </span>
 </div>
 </div>
@@ -1284,10 +1269,6 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1311,17 +1292,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7275420"
+<div id="content-body-6263871-7330923"
 >
-<p>Ostarjeli, nagluhi i poluslijepi pas èuvao je trogodišnju djevojèicu koja je odlutala u australsku divljinu i zaradio je titulu poèasnog policijskog psa, prenosi BBC.</p><p>Djevojèica <strong>Aurora</strong> odlutala je u petak iz svoga doma u Queenslandu, a za njom je krenuo 17-godišnji nagluhi i poluslijepi pas <strong>Max</strong> koji je ostao uz nju sve dok je u subotu nisu pronašli roðaci na jednom brdu oko dva kilometra od kuæe.</p><p>Njezina baka <strong>Leisa Marie Bennett</strong> èula ju je kako doziva i poletjela na vrh brda gdje ju je doèekao pas i odveo do Aurore, kazala je za australske medije. Prema obitelji Aurora se s psom sakrila ispod nekih stijena i provela noæ na temepraturi od 15 stupnjeva Celzija. Zadobila je samo manje ogrebotine.</p><p>U potrazi za nestalom djevojèicom sudjelovalo je više od stotinu ljudi.</p><p> <section class="social_embed ">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FQueenslandPolice%2Fposts%2F10156553225908254&width=500" width="500" height="709" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-</section>
- </p><p>'U dobi od tri godine mogu zamisliti da je dijete bilo vrlo prestrašeno i da mu je bilo hladno tijekom noæi', kazao je inspektor <strong>Craig Berry</strong>.</p><p>'Možete se nadati da je pas bio dobro društvo i da ju je grijao. To je dobar ishod.'</p>
+<p><strong>ZAGREB</strong> - Nastavši 1984. kao glazbeni projekt buduæih supružnika <strong>Ira Kaplana</strong> (gitara, klavir, vokali) i <strong>Georgie Hubley</strong> (bubnjevi, klavir, vokali), kojima se osam godina kasnije prikljuèio basist <strong>James McNew</strong>, Yo La Tengo su s vremenom stekli kultno sljedbeništvo te postali jednim od najveæih miljenika glazbene kritike diljem svijeta. </p><p>Za sobom imaju èetrnaest redom izvrsnih albuma prekrasne, intrigantne, eksperimentima sklone i nerijetke buène pop glazbe, radili su glazbu za filmove ali i snimili temu za kultne Simpsone, glumili su The Velvet Underground u filmu &quot;I Shot Andy Warhol&quot; te dijelili pozornicu s mnogim drugim glazbenim velikanima.</p><p>U ožujku ove godine bend je za Matador Records objavio novi studijski album “There’s a Riot Going On”, koji ih je odveo na još jednu veliku amerièku i europsku turneju. Yo La Tengo su prije toèno èetiri godine prvi put nastupili u Zagrebu, oduševili ga, ali i bili podjednako oduševljeni gradom i njegovom publikom kojoj se <strong>11. svibnja</strong> vraæaju u dvoranu Jedinstvo.</p><p>Ovaj koncert u sklopu programa SuperUho zapoèinje toèno u 20.15 sati. Sastoji se od dva dijela, prvog tišeg i drugog glasnog, izmeðu kojih æe biti kratka pauza, a sve zajedno æe trajati više od 2 sata.</p><p>Ulaznice po promotivnoj cijeni od 150 kuna u prodaji su u Dirty Old Shopu (Tratinska 18) te Rockmarku (Berislaviæeva 13), a na ulazu æe koštati 180 kn, ako veæ ranije ne budu rasprodane.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7275420 p").filter(function () {
+$("#content-body-6263871-7330923 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1330,16 +1308,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7275420").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7330923").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7275420").children().slice(max).remove();
+$("#content-body-6263871-7330923").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7275420").children().get(0);
+var firstChild = $("#content-body-6263871-7330923").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1377,28 +1355,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/spa%C5%A1avanje" class ="label label-default" >
-spašavanje
+<a href="https://www.jutarnji.hr/tag/koncerti" class ="label label-default" >
+Koncerti
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/%C5%BDivotinje-1" class ="label label-default" >
-Životinje
+<a href="https://www.jutarnji.hr/tag/Jedinstvo" class ="label label-default" >
+Jedinstvo
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/psi" class ="label label-default" >
-psi
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/%C5%BEivotne_pri%C4%8De" class ="label label-default" >
-Životne prièe
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/ku%C4%87ni_Ljubimci" class ="label label-default" >
-Kuæni ljubimci
+<a href="https://www.jutarnji.hr/tag/SuperUho" class ="label label-default" >
+SuperUho
 </a>
 </li>
 </ul>
@@ -1409,15 +1377,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
+<article class="glazba media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/strava-u-kninu-jos-jedan-slucaj-zlostavljanja-zivotinja-psicu-flokyju-odrezana-prednja-sapa-i-tesko-ozlijedena-zadnja-noga-morat-ce-ju-amputirati/7248249/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/kawasaki-3p-usred-tjedna-slavi-25-godina-i-dalje-smo-spremni-na-gazu-zakasniti-zbog-dobrih-kremsnita/7329225/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/strava-u-kninu-jos-jedan-slucaj-zlostavljanja-zivotinja-psicu-flokyju-odrezana-prednja-sapa-i-tesko-ozlijedena-zadnja-noga-morat-ce-ju-amputirati/7248249/">
-STRAVA U KNINU: JOŠ JEDAN SLUÈAJ ZLOSTAVLJANJA ŽIVOTINJA? Psiæu Flokyju odrezana prednja šapa i teško ozlijeðena zadnja noga, morat æe ju amputirati
+<a href="https://www.jutarnji.hr/kultura/glazba/kawasaki-3p-usred-tjedna-slavi-25-godina-i-dalje-smo-spremni-na-gazu-zakasniti-zbog-dobrih-kremsnita/7329225/">
+KAWASAKI 3P USRED TJEDNA SLAVI 25 GODINA 'I dalje smo spremni na gažu zakasniti zbog dobrih kremšnita'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="glazba media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/glazba/jonathan-njihovo-ime-znaci-dar-od-boga-a-publika-ih-bas-tako-dozivljava-i-religiozno-prati-cak-i-ona-strana-koja-je-tajna-njihova-uspjeha/7309549/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/glazba/jonathan-njihovo-ime-znaci-dar-od-boga-a-publika-ih-bas-tako-dozivljava-i-religiozno-prati-cak-i-ona-strana-koja-je-tajna-njihova-uspjeha/7309549/">
+JONATHAN Njihovo ime znaèi dar od Boga, a publika ih baš tako doživljava i religiozno prati. Èak i ona strana. Koja je tajna njihova uspjeha?
 </a>
 </h4>
 </li>
@@ -1439,13 +1422,13 @@ STRAVA U KNINU: JOŠ JEDAN SLUÈAJ ZLOSTAVLJANJA ŽIVOTINJA? Psiæu Flokyju odrezana
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1457,8 +1440,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1470,13 +1453,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1488,8 +1471,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1501,13 +1484,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1519,8 +1502,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1532,17 +1515,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1550,9 +1533,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1634,7 +1616,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7275420" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7330923" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1678,19 +1660,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="glazba media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/kawasaki-3p-usred-tjedna-slavi-25-godina-i-dalje-smo-spremni-na-gazu-zakasniti-zbog-dobrih-kremsnita/7329225/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/">
-SPAŠENI MALIŠANI
+<a href="https://www.jutarnji.hr/kultura/glazba/kawasaki-3p-usred-tjedna-slavi-25-godina-i-dalje-smo-spremni-na-gazu-zakasniti-zbog-dobrih-kremsnita/7329225/">
+TRIPANJE NA SCENI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/">
-FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa stara tek par mjeseci: 'Dobro su, ali nikada više neæe vidjeti majku'
+<a href="https://www.jutarnji.hr/kultura/glazba/kawasaki-3p-usred-tjedna-slavi-25-godina-i-dalje-smo-spremni-na-gazu-zakasniti-zbog-dobrih-kremsnita/7329225/">
+KAWASAKI 3P USRED TJEDNA SLAVI 25 GODINA 'I dalje smo spremni na gažu zakasniti zbog dobrih kremšnita'
 </a>
 </h4>
 </div>
@@ -1700,19 +1682,19 @@ FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa s
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="glazba media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/">
-DIRLJIVA VJERNOST
+<a href="https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/">
+GLAZBENI SPEKTAKL
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/">
-FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i gotovo slijep ležao je uz nju cijelu noæ, zaradio i odlikovanje
+<a href="https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/">
+MAKSIM MRVICA PONOVNO NA NAJLJEPŠOJ POZORNICI JADRANA Pijanist svjetskog ugleda nakon tri godine vraæa se u svoj Šibenik na tvrðavu sv. Mihovila
 </a>
 </h4>
 </div>
@@ -1722,20 +1704,19 @@ FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="glazba media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/kako-je-pas-postao-jedan-od-najboljih-japanskih-izvoznih-proizvoda-akitu-za-ljubimca-ima-cak-i-putin-japancima-je-ova-pasmina-nacionalno-blago/7271331/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/sve-je-spremno-za-drugi-sea-star-donosimo-vam-46-najvaznijih-brojki-i-cinjenica-o-spektakularnom-festivalu-u-umagu/7317087/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/kako-je-pas-postao-jedan-od-najboljih-japanskih-izvoznih-proizvoda-akitu-za-ljubimca-ima-cak-i-putin-japancima-je-ova-pasmina-nacionalno-blago/7271331/">
-SVE POPULARNIJI LJUBIMAC
+<a href="https://www.jutarnji.hr/kultura/glazba/sve-je-spremno-za-drugi-sea-star-donosimo-vam-46-najvaznijih-brojki-i-cinjenica-o-spektakularnom-festivalu-u-umagu/7317087/">
+LANI JE DOŠLO 50 TISUÆA LJUDI!
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/kako-je-pas-postao-jedan-od-najboljih-japanskih-izvoznih-proizvoda-akitu-za-ljubimca-ima-cak-i-putin-japancima-je-ova-pasmina-nacionalno-blago/7271331/">
-KAKO JE PAS POSTAO JEDAN OD NAJBOLJIH JAPANSKIH IZVOZNIH PROIZVODA Akitu za ljubimca ima èak i Putin, Japancima je ova pasmina nacionalno blago
-</a>
+<a href="https://www.jutarnji.hr/kultura/glazba/sve-je-spremno-za-drugi-sea-star-donosimo-vam-46-najvaznijih-brojki-i-cinjenica-o-spektakularnom-festivalu-u-umagu/7317087/">
+SVE JE SPREMNO ZA DRUGI SEA STAR Donosimo vam 46 najvažnijih brojki i èinjenica o spektakularnom festivalu u Umagu </a>
 </h4>
 </div>
 </div>
@@ -1744,19 +1725,19 @@ KAKO JE PAS POSTAO JEDAN OD NAJBOLJIH JAPANSKIH IZVOZNIH PROIZVODA Akitu za ljub
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="glazba media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/biste-li-vi-mogli-raditi-pod-ovakvim-uvjetima-nekad-su-svi-zeljeli-sjediti-za-stolom-uz-prozor-a-sada-to-vise-nitko-ne-moze-podnijeti/7267746/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/biste-li-vi-mogli-raditi-pod-ovakvim-uvjetima-nekad-su-svi-zeljeli-sjediti-za-stolom-uz-prozor-a-sada-to-vise-nitko-ne-moze-podnijeti/7267746/">
-SVETI GRAL UREDA
+<a href="https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/">
+SUPERUHO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/biste-li-vi-mogli-raditi-pod-ovakvim-uvjetima-nekad-su-svi-zeljeli-sjediti-za-stolom-uz-prozor-a-sada-to-vise-nitko-ne-moze-podnijeti/7267746/">
-BISTE LI VI MOGLI RADITI POD OVAKVIM UVJETIMA? Nekad su svi željeli sjediti za stolom uz prozor, a sada to više nitko ne može podnijeti
+<a href="https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/">
+YO LA TENGO U JEDINSTVU Povratak kultnih indie rockera koji su snimili temu za Simpsone i glumili Velvet Underground u filmu
 </a>
 </h4>
 </div>
@@ -1794,19 +1775,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1814,8 +1795,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1904,6 +1885,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1987,7 +1973,7 @@ Putovanja
 Životne prièe
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/vaumijau/">
 VauMijau
 </a>
@@ -2031,7 +2017,7 @@ Film i televizija
 Književnost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/glazba/">
 Glazba
 </a>
@@ -2191,11 +2177,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2243,14 +2224,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2294,67 +2275,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=38&contextPath=1-32-38-&pubId=1&cat=&meta=read-story&objId=7275420&type=article&title=FOTO%3a+DJEVOJ%c4%8cICA+(3)+PRE%c5%bdIVJELA+U+DIVLJINI+SAMO+ZAHVALJUJU%c4%86I+STAROM+PSU+Nagluh+i+gotovo+slijep+le%c5%beao+je+uz+nju+cijelu+no%c4%87%2c+zaradio+i+odlikovanje&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fvaumijau%2ffoto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje%2f7275420%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=45&contextPath=1-43-45-&pubId=1&cat=&meta=read-story&objId=7330923&type=article&title=YO+LA+TENGO+U+JEDINSTVU+Povratak+kultnih+indie+rockera+koji+su+snimili+temu+za+Simpsone+i+glumili+Velvet+Underground+u+filmu&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fglazba%2fyo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu%2f7330923%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=38&amp;contextPath=1-32-38-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7275420&amp;type=article&amp;title=FOTO%3a+DJEVOJ%c4%8cICA+(3)+PRE%c5%bdIVJELA+U+DIVLJINI+SAMO+ZAHVALJUJU%c4%86I+STAROM+PSU+Nagluh+i+gotovo+slijep+le%c5%beao+je+uz+nju+cijelu+no%c4%87%2c+zaradio+i+odlikovanje&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fvaumijau%2ffoto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje%2f7275420%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=45&amp;contextPath=1-43-45-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7330923&amp;type=article&amp;title=YO+LA+TENGO+U+JEDINSTVU+Povratak+kultnih+indie+rockera+koji+su+snimili+temu+za+Simpsone+i+glumili+Velvet+Underground+u+filmu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fglazba%2fyo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu%2f7330923%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=818390575&title=Ku%c4%87ni+ljubimci&url=tag%3ajltags%40eph.hr%2c2016%3aku%25C4%2587ni_Ljubimci&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&cat=jltags%40eph.hr%2c2016&objId=890604089&title=SuperUho&url=tag%3ajltags%40eph.hr%2c2016%3aSuperUho&rt=1&ctxId=45&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=818390575&amp;title=Ku%c4%87ni+ljubimci&amp;url=tag%3ajltags%40eph.hr%2c2016%3aku%25C4%2587ni_Ljubimci&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=890604089&amp;title=SuperUho&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSuperUho&amp;rt=1&amp;ctxId=45&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=980436424&title=%c5%bdivotne+pri%c4%8de&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BEivotne_pri%25C4%258De&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&cat=jltags%40eph.hr%2c2016&objId=1338098008&title=Jedinstvo&url=tag%3ajltags%40eph.hr%2c2016%3aJedinstvo&rt=1&ctxId=45&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=980436424&amp;title=%c5%bdivotne+pri%c4%8de&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BEivotne_pri%25C4%258De&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1338098008&amp;title=Jedinstvo&amp;url=tag%3ajltags%40eph.hr%2c2016%3aJedinstvo&amp;rt=1&amp;ctxId=45&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=2014915766&title=psi&url=tag%3ajltags%40eph.hr%2c2016%3apsi&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&cat=jltags%40eph.hr%2c2016&objId=1192619105&title=Koncerti&url=tag%3ajltags%40eph.hr%2c2016%3akoncerti&rt=1&ctxId=45&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2014915766&amp;title=psi&amp;url=tag%3ajltags%40eph.hr%2c2016%3apsi&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=1407688076&title=%c5%bdivotinje&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BDivotinje-1&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1407688076&amp;title=%c5%bdivotinje&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BDivotinje-1&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=207026127&title=spa%c5%a1avanje&url=tag%3ajltags%40eph.hr%2c2016%3aspa%25C5%25A1avanje&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=207026127&amp;title=spa%c5%a1avanje&amp;url=tag%3ajltags%40eph.hr%2c2016%3aspa%25C5%25A1avanje&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1192619105&amp;title=Koncerti&amp;url=tag%3ajltags%40eph.hr%2c2016%3akoncerti&amp;rt=1&amp;ctxId=45&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2407,7 +2366,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2417,14 +2376,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/",
-postId : "7275420",
+url : "https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/",
+postId : "7330923",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i gotovo slijep ležao je uz nju cijelu noæ, zaradio i odlikovanje",
-pubdate : "2018-04-23 12:21",
-authors : "Hina",
-sections : "Front Page, Life, VauMijau",
-tags : "Kuæni ljubimci, Životne prièe, psi, Životinje, spašavanje",
+title : "YO LA TENGO U JEDINSTVU Povratak kultnih indie rockera koji su snimili temu za Simpsone i glumili Velvet Underground u filmu",
+pubdate : "2018-05-08 14:33",
+authors : "Goran Šikiæ",
+sections : "Front Page, Kultura, Glazba",
+tags : "SuperUho, Jedinstvo, Koncerti",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

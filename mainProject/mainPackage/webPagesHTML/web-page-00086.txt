@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Veæina roditelja æe spremno priznati da oko djece ima puno posla, ali da se sav taj trud isplati. Nezamislivo je da bilo koja majka kaže nešto suprotno. To meðutim ne znaèi da takvih majki nema. Tri su takve žene za program Victoria Derbyshire i BBC otkrile kako je to potajno priželjkivati život bez djece." />
-<meta name="keywords" content="majka, dijete, majèinstvo" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Prvi susret s pèelama imao sam prije sedam godina, kada me prijatelj zamolio da mu pomognem preseliti pèele na pašu lipe u okolicu Virovitice. Nisam imao puno iskustva, a uz sve to, prijatelj mi je dao premalo pèelarsko odijelo s rupama, umjesto èizama nosio sam tenisice, a na rukama rukavice za èišæenje WC-a." />
+<meta name="keywords" content="pèele, Tvrtko Matijeviæ, med, proizvodnja meda, pèelinji otrov, proizvodnja pèela" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU &#039;Mogla sam imati bolju karijeru, a ja sam 15 godina vozila klince u školu. Ali nije da ih ne volim&#039; - Jutarnji List</title>
+<title>MLADIÆ IZ ZAGREBA U OKOLICI DARUVARA NAŠAO PÈELINJE BIJELO ZLATO! Kilogram prodaje po 150.000 kn, uskoro bi mogao biti najveæi proizvoðaè u Europi - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "IL";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Obitelj i djeca";
+var dfpCategory = "Životne prièe";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7203132";
-var dfpArticleKeyword = "majka";
+var dfpArticle = "7306741";
+var dfpArticleKeyword = "pèele";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/mladic-iz-zagreba-u-okolici-daruvara-nasao-pcelinje-bijelo-zlato-kilogram-prodaje-po-150000-kn-uskoro-bi-mogao-biti-najveci-proizvodac-u-europi/7306741/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/mladic-iz-zagreba-u-okolici-daruvara-nasao-pcelinje-bijelo-zlato-kilogram-prodaje-po-150000-kn-uskoro-bi-mogao-biti-najveci-proizvodac-u-europi/7306741/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/life/obitelj-i-djeca/profimedia-0101628333jpg/7203123/ALTERNATES/LANDSCAPE_1180/profimedia-0101628333.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic6-250418jpg/7306732/ALTERNATES/LANDSCAPE_1180/njapoljoprivrednik_matijevic6-250418.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/life/obitelj-i-djeca/profimedia-0101628333jpg/7203123/ALTERNATES/LANDSCAPE_1180/profimedia-0101628333.jpg">
-<meta property="og:title" content="MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru, a ja sam 15 godina vozila klince u školu. Ali nije da ih ne volim'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic6-250418jpg/7306732/ALTERNATES/LANDSCAPE_1180/njapoljoprivrednik_matijevic6-250418.jpg">
+<meta property="og:title" content="MLADIÆ IZ ZAGREBA U OKOLICI DARUVARA NAŠAO PÈELINJE BIJELO ZLATO! Kilogram prodaje po 150.000 kn, uskoro bi mogao biti najveæi proizvoðaè u Europi" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/mladic-iz-zagreba-u-okolici-daruvara-nasao-pcelinje-bijelo-zlato-kilogram-prodaje-po-150000-kn-uskoro-bi-mogao-biti-najveci-proizvodac-u-europi/7306741/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Veæina roditelja æe spremno priznati da oko djece ima puno posla, ali da se sav taj trud isplati. Nezamislivo je da bilo koja majka kaže nešto suprotno. To meðutim ne znaèi da takvih majki nema. Tri su takve žene za program Victoria Derbyshire i BBC otkrile kako je to potajno priželjkivati život bez djece." />
+<meta property="og:description" content="Prvi susret s pèelama imao sam prije sedam godina, kada me prijatelj zamolio da mu pomognem preseliti pèele na pašu lipe u okolicu Virovitice. Nisam imao puno iskustva, a uz sve to, prijatelj mi je dao premalo pèelarsko odijelo s rupama, umjesto èizama nosio sam tenisice, a na rukama rukavice za èišæenje WC-a." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Damjan Rakniæ">
-<meta name="twitter:title" content="MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru, a ja sam 15 godina vozila klince u školu. Ali nije da ih ne volim'">
-<meta name="twitter:description" content="Veæina roditelja æe spremno priznati da oko djece ima puno posla, ali da se sav taj trud isplati. Nezamislivo je da bilo koja majka kaže nešto suprotno. To meðutim ne znaèi da takvih majki nema. Tri su takve žene za program Victoria Derbyshire i BBC otkrile kako je to potajno priželjkivati život bez djece.">
+<meta name="twitter:creator" content="Zlatko Šimiæ">
+<meta name="twitter:title" content="MLADIÆ IZ ZAGREBA U OKOLICI DARUVARA NAŠAO PÈELINJE BIJELO ZLATO! Kilogram prodaje po 150.000 kn, uskoro bi mogao biti najveæi proizvoðaè u Europi">
+<meta name="twitter:description" content="Prvi susret s pèelama imao sam prije sedam godina, kada me prijatelj zamolio da mu pomognem preseliti pèele na pašu lipe u okolicu Virovitice. Nisam imao puno iskustva, a uz sve to, prijatelj mi je dao premalo pèelarsko odijelo s rupama, umjesto èizama nosio sam tenisice, a na rukama rukavice za èišæenje WC-a.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +691,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Obitelj i djeca, Life, Front Page",
-pubdate: "2018-04-05T00:00+02:00",
-author: "Damjan Rakniæ",
+data: { section: "Životne prièe, Life, Front Page",
+pubdate: "2018-05-03T23:30+02:00",
+author: "Zlatko Šimiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -731,10 +733,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <script type="text/javascript">
 $(function() {
 if ($("#related-news-box").has("ul").length) {
-if ($("[id^='content-body-'] > p").length < 0) {
+if ($("[id^='content-body-'] > p").length < 2) {
 $("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
 } else {
-$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(2));
 }
 } else {
 $("#related-news-box").remove();
@@ -888,6 +890,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -936,7 +943,7 @@ Life
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -966,7 +973,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1134,10 +1141,10 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">Obitelj i djeca </a></li>
+<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -1167,7 +1174,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1229,11 +1236,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-TABU
+PRIÈA TVRTKA MATIJEVIÆA
 </p>
 <h1
 class="title">
-MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru, a ja sam 15 godina vozila klince u školu. Ali nije da ih ne volim'
+MLADIÆ IZ ZAGREBA U OKOLICI DARUVARA NAŠAO PÈELINJE BIJELO ZLATO! Kilogram prodaje po 150.000 kn, uskoro bi mogao biti najveæi proizvoðaè u Europi
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1248,7 @@ MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/damjan-raknic">Damjan Rakniæ</a></li>
+<li><a href="https://www.jutarnji.hr/autori/zlatko-simic">Zlatko Šimiæ</a></li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1256,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-05.04.2018. u 00:00
+03.05.2018. u 23:30
 </p>
 </li>
 </ul>
@@ -1259,31 +1266,40 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="obitelj-i-djeca media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/profimedia-0101628333jpg/7203123" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic6-250418jpg/7306732" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/life/obitelj-i-djeca/profimedia-0101628333jpg/7203123/ALTERNATES/LANDSCAPE_380/profimedia-0101628333.jpg"
+<img src="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic6-250418jpg/7306732/ALTERNATES/LANDSCAPE_380/njapoljoprivrednik_matijevic6-250418.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/life/obitelj-i-djeca/profimedia-0101628333jpg/7203123/BINARY/thumbnail/profimedia-0101628333.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic6-250418jpg/7306732/BINARY/thumbnail/njapoljoprivrednik_matijevic6-250418.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="MODEL RELEASED. Mother holding her three month old baby as she looks out of a window., Image: 101628333, License: Rights-managed, Restrictions: , Model Release: yes, Credit line: Profimedia, Sciencephoto RM"
+alt="Daruvar, Daruvarski Brestovac, 250418
+Izbor za najboljeg mladog poljoprivrednika, Tvrtko Matijevic, kandidat koji uzgaja pcele i proizvodi pcelinji otrov.
+Foto: Bruno Konjevic / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Profimedia, Sciencephoto RM
+<span> Bruno Konjevic / CROPIX
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Tvrtko Matijeviæ uzgaja pèele i proizvodi pèelinji otrov</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1307,14 +1323,168 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7203132"
+<div id="content-body-6263871-7306741"
 >
-<p>Veæina roditelja æe spremno priznati da oko djece ima puno posla, ali da se sav taj trud isplati. Nezamislivo je da bilo koja majka kaže nešto suprotno. To, meðutim, ne znaèi da takvih majki nema.</p><p>Tri su takve žene za emisiju <strong><a href="http://www.bbc.com/news/education-43555736" target="_blank">Victoria Derbyshire</a></strong> na BBC-ju otkrile kako je to potajno priželjkivati život bez djece.</p><p>U emisiji su istupile pod pseudonimima Rachel, Alison i Joy.</p><h5>Rachel</h5><p>- Kad bih se mogla vratiti u prošlost ne bih imala djecu, otkriva Rachel koja je sada u 50-ima.</p><p>Rachel je majka troje djece - najmlaðe ima 17 godina - a veæinu tog je vremena provela kao samohrani roditelj.</p><p>- Bilo je trenutaka kada se nisam osjeæala dovoljno zrelo da brinem za nekog drugog, tu malu osobu kojoj sam bila potrebna da bi preživjela, kaže.</p><p>- Sve je izgledalo kao beskonaèni ciklus hranjenja i obavljanja velike nužde. Pitala sam se u kojem æe trenutku ovo postati zabavno? Došlo mi je da vrištim jer majèinstvo nije bilo nešto posebno. Da se razumijemo, ako ste majèinski nastrojeni, onda super, dobili ste ono što ste oduvijek htjeli. Meðutim, ako niste, upali ste u zamku, kaže.</p><p>Rachel priznaje da nije do kraja razmislila o tome kako æe joj djeca promijeniti život. Da je znala, kaže, ne bi ih nikada imala.</p><p>- Osjeæam se krivo zbog toga što jako volim svoju djecu, dodaje.</p><p>- Osjeæate se kao da niste bili dobra mama i taj osjeæaj krivnje stalno nosite pa se pitate znaju li oni možda to.</p><p>- No, život ne bi trebao biti odricanje od vlastitog života kako bi ga oni mogli imati. To je teško priznati jer ljudi misle da niste dobra osoba, kaže Rachel i dodaje da bi htjela da se žene koje se osjeæaju isto kao ona ne tretira kao zloèince.</p><p>- Osjeæala sam se tako samo. Osjeæala sam se kao da sa mnom nešto ne valja. Da sam barem mogla s nekime o tome poprièati, možda bi mi bilo lakše suoèiti se s majèinstvom, rekla je.</p><h5>Alison</h5><p>- Ja sam samo vidjela sretnu malu obitelj s kuæom i vrtom te djecom koja veselo hopsaju u školu - bajku, kaže Alison.</p><p>Alison je posvojena i oduvijek je sanjala da æe imati vlastitu obitelj. Kad je dobila svog prvog sina otkrila je da nije majèinski nastrojena. Vratila se na posao nakon svega šest mjeseci kako bi pobjegla od svoje nove uloge.</p><p>- Uzimala bih slobodne dane, a sina bih ostavljala kod dadilje kako bih se mogla posvetiti sebi, dodaje.</p><p>- Nije da nisam htjela provoditi vrijeme s njim veæ nisam znala što da radim. Nisam bila dobra u smišljanju igara, pojašnjava.</p><p>Kako Alison i njezin muž nisu htjeli da njihov sin bude jedinac, odluèili su se za još jedno dijete. Oba sina su sada studenti. Alison priznaje da nikada ne bi postala majka da je znala ono što zna sada.</p><p>- Potrebe i želje drugih ljudi uvijek imaju prioritet. Posljednjih 20 godina je vladalo pravilo 'ako su svi drugi sretni, onda sam i ja sretna', a to zna biti iritantno, objašnjava Alison.</p><p>- Mogla sam imati bolju karijeru. Petnaest sam godina vozila djecu u školu, a to zna usporiti napredak, kaže.</p><p>Alison naglašava da voli svoju djecu, ali priznaje da je presebièna da bi ih imala.</p><p>- Zavidjela sam im zbog toga što su imali pravo na toliko mog vremena, objašnjava i dodaje da žene na ovakav naèin ne govore jer se boje osude.</p><p>- Ne žele da ih se smatra sebiènima. Implicira se da si loša majka ako ne želiš djecu, zakljuèuje.</p><h5>Joy</h5><p>Joy je vrlo rano shvatila da ne želi biti majka.</p><p>- Svi prièaju o trenutku kada im daju njihovo dijete i nevjerojatnoj ljubavi koja kola kroz njih. Ja ništa od toga nisam osjetila. Meni je to sve izgledalo kao velika odgovornost, kaže majka èija kæi danas ima 20 godina.</p><p>Možda je to razlog zašto se Joy djetinjstva svoje kæeri ne sjeæa s radošæu.</p><p>- Bilo je teško, svakodnevni naporni rad. Pretpostavljam da sve majke proðu kroz to. Ja jednostavno u tome nisam pronalazila nikakav užitak. Bilo je baš turobno, objašnjava.</p><p>Joy vjeruje da jednostavno nije majèinski tip.</p><p>- Dugo sam mislila da se druge majke šale kada kažu da je ovo sve divno te da æe mi jednog dana reæi kako stvari zapravo stoje, kaže.</p><p>- Nikad mi se nije èinilo da sam sposobna biti brižna, topla i prijazna majka. Htjela sam se vratiti na posao. Htjela sam nastaviti svoju karijeru, tvrtku koju sam gradila. Dijete je postalo samo još jedna velika dodatna stvar, dodaje Joy.</p><p>Joy tvrdi da je njezina kæer sumnjala u njezinu ljubav jer nisu bile bliske.</p><p>- Ja je volim, ali naša veza nije sladunjava, dodaje.</p><p>Joy smatra da bi više žena otkrilo kako se stvarno osjeæaju kada ih se ne bi pritiskalo da postanu majke.</p><p>- Ima nas puno više nego što ljudi misle, kaže.</p><p>- Bilo bi super kada bi žene mogle biti iskrene same sa sobom po pitanju djece i kada bi mogle reæi jesu li im djeca stvarno važna. Ako jesu, onda super, meðutim ako nisu, onda nije pošteno da ih se sramoti i da ih društvo pritišæe na majèinstvo. Morale bi moæi reæi: 'Ne želim djecu, ne želim biti majka', zakljuèuje.</p>
+<p> <div class="e4-sub-article ">
+<section>
+<div>
+<p>Izbor za najboljeg poljoprivrednika, koji u Hrvatskoj organizira europarlamentarka <strong>Marijana Petir</strong>, ušao je u završnu fazu. Struèni ocjenjivaèki sud odabrao je deset najboljih. Ovo su njihove prièe...</p>
+</div>
+</section>
+</div>
+ </p><p>Prvi susret s pèelama imao sam prije sedam godina, kada me prijatelj zamolio da mu pomognem preseliti pèele na pašu lipe u okolicu Virovitice. Nisam imao puno iskustva, a uz sve to, prijatelj mi je dao premalo pèelarsko odijelo s rupama, umjesto èizama nosio sam tenisice, a na rukama rukavice za èišæenje WC-a.</p><p>Dok smo premještali košnice, uznemirene pèele po dijelovima otkrivenog tijela izbole su me na 49 mjesta, ali osim oteklina nisam imao težih posljedica. Ne znam je li to bilo od adrenalina oko cijele akcije opasnog seljenja ili od pèelinjeg otrova koji se nataložio u mojem tijelu, ali ubrzo sam euforièno poèeo vikati: “Sviða mi se, sviða mi se, želim to raditi”. I tako je sve poèelo.</p><h5><strong>Najveæi proizvoðaè</strong></h5><p>Ovo je poèetak prièe o druženju tada 19-godišnjeg studenta agronomije iz Zagreba <strong>Tvrtka Matijeviæa </strong>s pèelama, medom i pèelinjim otrovom, èiji je danas najveæi proizvoðaè u Hrvatskoj. Nakon tog bliskog susreta i uboda Tvrtko je kupio svoje prve dvije košnice i smjestio ih na seoskom imanju koje je njegov otac <strong>Anto</strong> kupio kao vikendicu u Daruvarskom Brestovcu. Tamo je Tvrtko, uz nasade aronije, usavršavao proizvodnju meda, peluda i voska na iskustvima starijih pèelara, ali i na, kako kaže, vlastitim pogreškama, a danas ima 70 košnica. Prijelomni trenutak u njegovu promišljanju o èarobnim pèelinjim putanjama dogodio se kada se na kolegiju kod profesora <strong>Nikole Keziæa</strong> ukljuèio u radnu skupinu koje je tri mjeseca radila na izluèivanju pèelinjeg otrova.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic2-250418jpg/7315947" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic2-250418jpg/7315947/ALTERNATES/FREE_380/njapoljoprivrednik_matijevic2-250418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic2-250418jpg/7315947/BINARY/thumbnail/njapoljoprivrednik_matijevic2-250418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Daruvar, Daruvarski Brestovac, 250418
+Izbor za najboljeg mladog poljoprivrednika, Tvrtko Matijevic, kandidat koji uzgaja pcele i proizvodi pcelinji otrov.
+Foto: Bruno Konjevic / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Bruno Konjevic / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>- Kako nisam baš znao puno o tome, poèeo sam surfati internetom i tražiti kako se to sakuplja. U svibnju 2015. u svojem sam pèelinjaku poèeo sakupljati pèelinji otrov. Prvo sam ispitivao kako i kojim ureðajima za sakupljanje pèelinjeg otrova možemo dobiti najveæu kolièinu i najbolju kvalitetu tog otrova. Na raspolaganju smo imali više vrsta ureðaja koji svojim naponom izmeðu 7 i 12 volti iritiraju pèelu te ona bode u staklo u koje ispušta otrov. Na samom poèetku dobivali smo toliko loše rezultate da jednostavno nismo mogli dobiti bijeli otrov kakav tržište traži. Nakon toga sinulo mi je da bih mogao pokušati staviti foliju preko stakla, pri èemu æe neèistoæe i nektar ostati na foliji, a žalac bi trebao probiti foliju i ostaviti èisti otrov na staklu. Kada smo izvukli ureðaje iz košnice, ostavili smo stakla da se posuše te skinuli foliju. Kada smo vidjeli rezultat, bili smo jako ponosni: dobili smo otrov bijel kao šeæer u prahu. To je bilo to, ali nešto me još kopkalo - prièa nam Tvrtko dok se pripremamo za snimanje sakupljanja otrova, koje se inaèe radi u ranim jutarnjim satima.</p><p>Pouèeni njegovim iskustvom s premalim odijelom, odbili smo presvlaèenje, pa fotoreporteru <strong>Bruni</strong> prepuštamo opasniji dio snimanja. Uz roj uznemirenih pèela, vidjeli smo to sa sigurne udaljenosti, obojica su prošla bez uboda. Ono što ga je kopkalo, Tvrtko nam je objasnio kasnije.</p><p>- Kada smo dobili otrov kakav je zanimljiv tržištu, sljedeæi cilj nam je bio dobiti što veæu kolièinu otrova u što kraæem vremenu. Ispitivanjem svih ureðaja koje smo imali dolazili smo do nama slabih rezultata. Bila je to kolièina od 0,05 do 0,1 gram po košnici, što nam se èinilo jako malo kad znamo da u košnici prosjeèno imamo oko 45.000 pèela, a 10.000 pèela ima kolièinu otrova od 1,2 grama. Nakon svih ispitanih ureðaja odluèili smo pokrenuti suradnju s elektrièarima - objašnjava Tvrtko.</p><h5><strong>Testiranje</strong></h5><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic8-250418jpg/7306738" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic8-250418jpg/7306738/ALTERNATES/FREE_380/njapoljoprivrednik_matijevic8-250418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic8-250418jpg/7306738/BINARY/thumbnail/njapoljoprivrednik_matijevic8-250418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Daruvar, Daruvarski Brestovac, 250418
+Izbor za najboljeg mladog poljoprivrednika, Tvrtko Matijevic, kandidat koji uzgaja pcele i proizvodi pcelinji otrov.
+Na fotografiji: Tvrtko Matijevic skuplja pcelinji otrov s staklene ploce
+Foto: Bruno Konjevic / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Bruno Konjevic / CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Tvrtko Matijeviæ</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Kada su stavili sve komponente i sklopili ureðaj, poèeli su ga testirati i dobili kolièinu od 0,2 grama otrova po košnici, što je bilo dvostruko više nego s ureðajima koje su imali u poèetku. Meðutim, odluèili su isprobati skupljanje pèelinjeg otrova unutar košnice.</p><p>- Tu smo imali više ispitivanja; stavljanje ureðaja u okvir, stavljanje ureðaja izmeðu dva nastavka te, kao treæu metodu, koja se pokazala kao najbolja, sakupljanje pèelinjeg otrova na vrhu košnice prekrivene kupolom. Tu metodu i danas koristimo jer pèele u vrijeme sakupljanja otrova nisu agresivne - kaže Tvrtko.</p><p>Nakon istraživanja pèelinji su otrov analizirali u Institutu “Andrija Štampar”. Rezultati su bili odlièni. Dobili su otrov prve klase sa 66,9 posto melitina, što ih svrstava u višu klasu, èije je obilježje 50 posto melitina. Nakon toga Tvrtko je odluèio ugostiti pèelare iz Daruvara, prikazati im kako sakupljati pèelinji otrov i zaraditi uz malo truda. Pèelari su mu se, kaže, požalili na probleme male otkupne cijene pravog domaæeg meda te raznih mješavina kineskog i patvorenog meda koje se legalno prodaju u duæanima i na tržnicama.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic3-250418jpg/7315950" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic3-250418jpg/7315950/ALTERNATES/FREE_380/njapoljoprivrednik_matijevic3-250418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic3-250418jpg/7315950/BINARY/thumbnail/njapoljoprivrednik_matijevic3-250418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Daruvar, Daruvarski Brestovac, 250418
+Izbor za najboljeg mladog poljoprivrednika, Tvrtko Matijevic, kandidat koji uzgaja pcele i proizvodi pcelinji otrov.
+Foto: Bruno Konjevic / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Bruno Konjevic / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>No, ubrzo su se uhvatili posla s vaðenjem pèelinjeg otrova. Prije dvije godine bilo ih je sedam sa 1400 košnica iz podruèja Daruvara, lani im se pridružilo još šest iz Hrvatske Kostajnice, pa ih je ukupno bilo 13 sa 2900 košnica. Tada su sakupili prvi kilogram pèelinjeg otrova koji na tržištu postiže cijenu od 150.000 kuna. U 2018. oèekuju da æe ih biti 20 s oko 3500 košnica i da æe prikupiti više kilograma tog “pèelinjeg bijelog zlata”.</p><p>Tvrtko se nada da æe uskoro uspjeti okupiti oko 1000 pèelara sa 70.000 košnica i tako postati jedan od najveæih proizvoðaèa pèelinjeg otrova u Europi.</p><p>- Najteži posao u proizvodnji pèelinjeg otrova je struganje, skidanje osušenog pèelinjeg otrova sa stakla. Jedino èime se može strugati pèelinji otrov je žilet; koristimo jedan žilet za jedno staklo jer ga prebrzo tupi. Pèelinji otrov proizvode pèele u prva dva tjedna svoga života. Nakon što ga proizvedu, tamo ostaje do kraja života pèele. U otrovnom mjehuru pèele ima od 0,5 do 0,12 mg pèelinjeg otrova. Osnovna funkcija pèelinjeg otrova je zaštita pèele. Ako vas ubode, ona æe uginuti, ali kada se zalijepe na stakalce, ostaje im dovoljno da prežive. Najvažnija supstanca pèelinjeg otrova je bjelanèevina melitin, jaki antiupalni agens koji potièe izluèenje kortizola, hormona nadbubrežne žlijezde, objašnjava nam vispreni i poduzetni Tvrtko, koji nam je u nekoliko sati druženja pokazao što bi mladi fakultetski agronomi mogli raditi kada bi uistinu živjeli ono što su studirali. I bez pomoæi roditelja, uhodanog biznisa koji nasljeðuju i koji ih slabo zanima.</p><h5><strong>Preraðevine</strong></h5><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic7-250418jpg/7306735" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic7-250418jpg/7306735/ALTERNATES/FREE_380/njapoljoprivrednik_matijevic7-250418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/njapoljoprivrednik_matijevic7-250418jpg/7306735/BINARY/thumbnail/njapoljoprivrednik_matijevic7-250418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Daruvar, Daruvarski Brestovac, 250418
+Izbor za najboljeg mladog poljoprivrednika, Tvrtko Matijevic, kandidat koji uzgaja pcele i proizvodi pcelinji otrov.
+Na fotografiji: Tvrtko Matijevic s nekim svojim proizvodima od pcelinjeg otrova
+Foto: Bruno Konjevic / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Bruno Konjevic / CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Tvrtko Matijeviæ</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Svoje predavanje o pèelinjem otrovu Tvrtko nam nastavlja s tri najvažnije stavke otkupa; kolièina melitina, vlaga i èistoæa otrova. Pèelinji otrov se najviše koristi u farmaceutskoj industriji; za proizvodnju krema za pomlaðivanje kože ili, kao u Tvrtkovu sluèaju, kao krema za sportske ozljede, reumatske bolesti i migrene.</p><p>Na prijavu za najboljeg mladog poljoprivrednika nagovorila ga je djevojka <strong>Mirna</strong>, rekavši mu kako smatra da je ovo nešto sasvim novo na hrvatskom tržištu, pa je željela da Tvrtko upozna ljude s time.</p><p>- Želio bih pokazati ljudima da imamo i druge pèelinje proizvode osim meda, peluda i propolisa. Uz proizvodnju meda i pèelinjeg otrova, bavimo se proizvodnjom aronije, koju smo posadili prije pet godina, na površini od 6000 èetvornih metara, a rijeè je o ukupno 11.000 sadnica. Proizvodimo preraðevine od aronije: sok, džem, èaj i med, koji se mogu pronaæi na Facebook stranici Bobica zdravlja - zakljuèuje Tvrtko.</p><p>Bobica i otrov, hm, to je dobar par.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/tvrtkojpg/7315944" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/tvrtkojpg/7315944/ALTERNATES/FREE_380/tvrtko.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/tvrtkojpg/7315944/BINARY/thumbnail/tvrtko.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7203132 p").filter(function () {
+$("#content-body-6263871-7306741 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1323,16 +1493,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7203132").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7306741").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7203132").children().slice(max).remove();
+$("#content-body-6263871-7306741").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7203132").children().get(0);
+var firstChild = $("#content-body-6263871-7306741").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1370,18 +1540,33 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/maj%C4%8Dinstvo" class ="label label-default" >
-majèinstvo
+<a href="https://www.jutarnji.hr/tag/proizvodnja_p%C4%8Dela" class ="label label-default" >
+proizvodnja pèela
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/dijete" class ="label label-default" >
-dijete
+<a href="https://www.jutarnji.hr/tag/p%C4%8Delinji_otrov" class ="label label-default" >
+pèelinji otrov
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/majka" class ="label label-default" >
-majka
+<a href="https://www.jutarnji.hr/tag/proizvodnja_meda" class ="label label-default" >
+proizvodnja meda
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/med" class ="label label-default" >
+med
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Tvrtko_Matijevi%C4%87" class ="label label-default" >
+Tvrtko Matijeviæ
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/p%C4%8Dele" class ="label label-default" >
+pèele
 </a>
 </li>
 </ul>
@@ -1392,30 +1577,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="obitelj-i-djeca media none">
+<article class="price media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/roditelji-u-ovim-situacijama-svojoj-djeci-morate-reci-ne-postavljanje-granica-je-vazno-za-razvoj-djeteta-i-u-tome-morate-biti-ustrajni/7200495/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/grasevina-nasa-svaka-cetvrta-boca-koju-su-hrvati-popili-je-od-sorte-grasevina/7301098/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/roditelji-u-ovim-situacijama-svojoj-djeci-morate-reci-ne-postavljanje-granica-je-vazno-za-razvoj-djeteta-i-u-tome-morate-biti-ustrajni/7200495/">
-RODITELJI, U OVIM SITUACIJAMA SVOJOJ DJECI MORATE REÆI 'NE' Postavljanje granica je važno za razvoj djeteta i u tome morate biti ustrajni
+<a href="https://www.jutarnji.hr/dobrahrana/price/grasevina-nasa-svaka-cetvrta-boca-koju-su-hrvati-popili-je-od-sorte-grasevina/7301098/">
+GRAŠEVINA NAŠA: Svaka èetvrta boca koju su Hrvati popili je od sorte graševina!
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="obitelj-i-djeca media none">
+<article class="price media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/cetiri-price-o-majkama-koje-su-sikanirane-na-svom-radnom-mjestu-gotovo-svaka-druga-majka-dozivjela-je-neki-oblik-diskriminacije-na-poslu/7086225/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/video-socan-kolac-od-jagoda-i-bijele-cokolade/4057305/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/cetiri-price-o-majkama-koje-su-sikanirane-na-svom-radnom-mjestu-gotovo-svaka-druga-majka-dozivjela-je-neki-oblik-diskriminacije-na-poslu/7086225/">
-ÈETIRI PRIÈE O MAJKAMA KOJE SU ŠIKANIRANE NA SVOM RADNOM MJESTU Gotovo svaka druga majka doživjela je neki oblik diskriminacije na poslu
+<a href="https://www.jutarnji.hr/dobrahrana/price/video-socan-kolac-od-jagoda-i-bijele-cokolade/4057305/">
+VIDEO: Soèan kolaè od jagoda i bijele èokolade
 </a>
 </h4>
 </li>
@@ -1437,13 +1622,13 @@ data-widget-position="1">
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1455,8 +1640,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1468,13 +1653,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1486,8 +1671,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1499,13 +1684,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1517,8 +1702,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1530,17 +1715,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1548,9 +1733,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1632,7 +1816,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7203132" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7306741" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1676,19 +1860,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="obitelj-i-djeca media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/">
-TABU
+<a href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/">
+DOMA JE NAJLJEPŠE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/">
-MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru, a ja sam 15 godina vozila klince u školu. Ali nije da ih ne volim'
+<a href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/">
+SLAVONAC SE RAZOÈARAN VRATIO IZ NJEMAÈKE 'Poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca'
 </a>
 </h4>
 </div>
@@ -1698,19 +1882,19 @@ MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="obitelj-i-djeca media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/">
-MARKIRANA ODJEÆA
+<a href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/">
+OPORAVLJA SE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/">
-FOTO: DJEÈAK SE IZRUGIVAO DJECI KOJA NOSE JEFTINU ODJEÆU, MAJKA GA DOVELA U RED 'Da više ljudi tako odgaja svoju djecu, svijet bi bio ljepši!'
+<a href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/">
+'OVO JE ÈUDO, BOŽJE DJELO...' Djeèak se probudio iz kome dan nakon što su doktori od njega odustali, a roditelji dali dozvolu da ga iskljuèe s aparata
 </a>
 </h4>
 </div>
@@ -1720,19 +1904,19 @@ FOTO: DJEÈAK SE IZRUGIVAO DJECI KOJA NOSE JEFTINU ODJEÆU, MAJKA GA DOVELA U RED 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="obitelj-i-djeca media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/island-je-drzava-s-najmanje-djece-rodene-s-downim-sindromom-abortus-za-nas-nije-ubojstvo-tako-sprecavamo-patnju-za-dijete-i-obitelj/6467599/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/island-je-drzava-s-najmanje-djece-rodene-s-downim-sindromom-abortus-za-nas-nije-ubojstvo-tako-sprecavamo-patnju-za-dijete-i-obitelj/6467599/">
-GENETSKI POREMEÆAJ
+<a href="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/">
+SMRTNA KAZNA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/island-je-drzava-s-najmanje-djece-rodene-s-downim-sindromom-abortus-za-nas-nije-ubojstvo-tako-sprecavamo-patnju-za-dijete-i-obitelj/6467599/">
-ISLAND JE DRŽAVA S NAJMANJE DJECE ROÐENE S DOWNIM SINDROMOM 'Abortus za nas nije ubojstvo, tako spreèavamo patnju za dijete i obitelj'
+<a href="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/">
+ISPOVIJEST ŽENE KOJA JE VIDJELA STOTINE SMAKNUÆA 'I danas se sjetim naboranih ruku majke jednog osuðenika kako oèajnièki pritišæu staklo'
 </a>
 </h4>
 </div>
@@ -1742,19 +1926,19 @@ ISLAND JE DRŽAVA S NAJMANJE DJECE ROÐENE S DOWNIM SINDROMOM 'Abortus za nas nije
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="obitelj-i-djeca media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/roditelji-u-ovim-situacijama-svojoj-djeci-morate-reci-ne-postavljanje-granica-je-vazno-za-razvoj-djeteta-i-u-tome-morate-biti-ustrajni/7200495/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/roditelji-u-ovim-situacijama-svojoj-djeci-morate-reci-ne-postavljanje-granica-je-vazno-za-razvoj-djeteta-i-u-tome-morate-biti-ustrajni/7200495/">
-SAVJETI KOJI ZLATA VRIJEDE
+<a href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/">
+BESKOMPROMISNO DESNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/roditelji-u-ovim-situacijama-svojoj-djeci-morate-reci-ne-postavljanje-granica-je-vazno-za-razvoj-djeteta-i-u-tome-morate-biti-ustrajni/7200495/">
-RODITELJI, U OVIM SITUACIJAMA SVOJOJ DJECI MORATE REÆI 'NE' Postavljanje granica je važno za razvoj djeteta i u tome morate biti ustrajni
+<a href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/">
+SLIKARSKA IKONA HRVATSKE DESNICE Nevjerojatna životna prièa Charlesa Billicha koji je Tita naslikao s vampirskim oènjacima
 </a>
 </h4>
 </div>
@@ -1792,19 +1976,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1812,8 +1996,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1902,6 +2086,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1950,7 +2139,7 @@ Life
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -1980,7 +2169,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -2189,11 +2378,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2241,14 +2425,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2292,45 +2476,78 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=41&contextPath=1-32-41-&pubId=1&cat=&meta=read-story&objId=7203132&type=article&title=MAJKE+KOJE+SU+PO%c5%bdALILE+%c5%a0TO+SU+RODILE+SVOJU+DJECU+%26%23039%3bMogla+sam+imati+bolju+karijeru%2c+a+ja+sam+15+godina+vozila+klince+u+%c5%a1kolu.+Ali+nije+da+ih+ne+volim%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fobitelj-i-djeca%2fmajke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim%2f7203132%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7306741&type=article&title=MLADI%c4%86+IZ+ZAGREBA+U+OKOLICI+DARUVARA+NA%c5%a0AO+P%c4%8cELINJE+BIJELO+ZLATO!+Kilogram+prodaje+po+150.000+kn%2c+uskoro+bi+mogao+biti+najve%c4%87i+proizvo%c4%91a%c4%8d+u+Europi&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fmladic-iz-zagreba-u-okolici-daruvara-nasao-pcelinje-bijelo-zlato-kilogram-prodaje-po-150000-kn-uskoro-bi-mogao-biti-najveci-proizvodac-u-europi%2f7306741%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=41&amp;contextPath=1-32-41-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7203132&amp;type=article&amp;title=MAJKE+KOJE+SU+PO%c5%bdALILE+%c5%a0TO+SU+RODILE+SVOJU+DJECU+%26%23039%3bMogla+sam+imati+bolju+karijeru%2c+a+ja+sam+15+godina+vozila+klince+u+%c5%a1kolu.+Ali+nije+da+ih+ne+volim%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fobitelj-i-djeca%2fmajke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim%2f7203132%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7306741&amp;type=article&amp;title=MLADI%c4%86+IZ+ZAGREBA+U+OKOLICI+DARUVARA+NA%c5%a0AO+P%c4%8cELINJE+BIJELO+ZLATO!+Kilogram+prodaje+po+150.000+kn%2c+uskoro+bi+mogao+biti+najve%c4%87i+proizvo%c4%91a%c4%8d+u+Europi&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fmladic-iz-zagreba-u-okolici-daruvara-nasao-pcelinje-bijelo-zlato-kilogram-prodaje-po-150000-kn-uskoro-bi-mogao-biti-najveci-proizvodac-u-europi%2f7306741%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=1785528868&title=majka&url=tag%3ajltags%40eph.hr%2c2016%3amajka&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=391952007&title=p%c4%8dele&url=tag%3ajltags%40eph.hr%2c2016%3ap%25C4%258Dele&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1785528868&amp;title=majka&amp;url=tag%3ajltags%40eph.hr%2c2016%3amajka&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=391952007&amp;title=p%c4%8dele&amp;url=tag%3ajltags%40eph.hr%2c2016%3ap%25C4%258Dele&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=203690857&title=dijete&url=tag%3ajltags%40eph.hr%2c2016%3adijete&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=1376883572&title=Tvrtko+Matijevi%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aTvrtko_Matijevi%25C4%2587&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=203690857&amp;title=dijete&amp;url=tag%3ajltags%40eph.hr%2c2016%3adijete&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1376883572&amp;title=Tvrtko+Matijevi%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aTvrtko_Matijevi%25C4%2587&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=1995412736&title=maj%c4%8dinstvo&url=tag%3ajltags%40eph.hr%2c2016%3amaj%25C4%258Dinstvo&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=2014912444&title=med&url=tag%3ajltags%40eph.hr%2c2016%3amed&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1995412736&amp;title=maj%c4%8dinstvo&amp;url=tag%3ajltags%40eph.hr%2c2016%3amaj%25C4%258Dinstvo&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2014912444&amp;title=med&amp;url=tag%3ajltags%40eph.hr%2c2016%3amed&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=116311998&title=proizvodnja+meda&url=tag%3ajltags%40eph.hr%2c2016%3aproizvodnja_meda&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=116311998&amp;title=proizvodnja+meda&amp;url=tag%3ajltags%40eph.hr%2c2016%3aproizvodnja_meda&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=182725051&title=p%c4%8delinji+otrov&url=tag%3ajltags%40eph.hr%2c2016%3ap%25C4%258Delinji_otrov&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=182725051&amp;title=p%c4%8delinji+otrov&amp;url=tag%3ajltags%40eph.hr%2c2016%3ap%25C4%258Delinji_otrov&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=1716474876&title=proizvodnja+p%c4%8dela&url=tag%3ajltags%40eph.hr%2c2016%3aproizvodnja_p%25C4%258Dela&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1716474876&amp;title=proizvodnja+p%c4%8dela&amp;url=tag%3ajltags%40eph.hr%2c2016%3aproizvodnja_p%25C4%258Dela&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2383,7 +2600,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/mladic-iz-zagreba-u-okolici-daruvara-nasao-pcelinje-bijelo-zlato-kilogram-prodaje-po-150000-kn-uskoro-bi-mogao-biti-najveci-proizvodac-u-europi/7306741/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2393,14 +2610,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/",
-postId : "7203132",
+url : "https://www.jutarnji.hr/life/zivotne-price/mladic-iz-zagreba-u-okolici-daruvara-nasao-pcelinje-bijelo-zlato-kilogram-prodaje-po-150000-kn-uskoro-bi-mogao-biti-najveci-proizvodac-u-europi/7306741/",
+postId : "7306741",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru, a ja sam 15 godina vozila klince u školu. Ali nije da ih ne volim'",
-pubdate : "2018-04-05 00:00",
-authors : "Damjan Rakniæ",
-sections : "Front Page, Life, Obitelj i djeca",
-tags : "majka, dijete, majèinstvo",
+title : "MLADIÆ IZ ZAGREBA U OKOLICI DARUVARA NAŠAO PÈELINJE BIJELO ZLATO! Kilogram prodaje po 150.000 kn, uskoro bi mogao biti najveæi proizvoðaè u Europi",
+pubdate : "2018-05-03 23:30",
+authors : "Zlatko Šimiæ",
+sections : "Front Page, Life, Životne prièe",
+tags : "pèele, Tvrtko Matijeviæ, med, proizvodnja meda, pèelinji otrov, proizvodnja pèela",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

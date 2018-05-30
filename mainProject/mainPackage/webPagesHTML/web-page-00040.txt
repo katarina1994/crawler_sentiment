@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Ulaganje životne ušteðevine u kuæu za odmor u Hrvatskoj bila je gorka lekcija u životu jednog švedskog para o èijem je iskustvu s hrvatskim pravosuðem prilog nedavno objavila švedska državna televizija u središnjem informativnom dnevniku Aktuellt." />
-<meta name="keywords" content="sudovi" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Na Županijskom sudu u Velikoj Gorici danas je održano roèište o zahtjevu za izruèenjem 46-godišnjeg državljanina BiH A.È. kojeg Tunis sumnjièi za ubojstvo Hamasova struènjaka Mohammeda Zawahrija i za terorizam." />
+<meta name="keywords" content="Mossad, Hamas, Tunis, Izrael, terorizam" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>ŠVEÐANIN MISLIO DA JE U ISTRI KUPIO KUÆU IZ SNOVA, A ONDA JE KRENULA AGONIJA Prisjela mu i Istra i kuæa, ali ne odustaje od borbe koja traje 14 godina - Jutarnji List</title>
+<title>NAVODNI MOSSADOV ŠPIJUN DOVEDEN NA SUD U V. GORICI Zgradu osiguravali specijalci s dugim cijevima, još uvijek se ne zna hoæemo li ga izruèiti Tunisu - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "IE";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
 var dfpCategory = "Hrvatska";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7282537";
-var dfpArticleKeyword = "sudovi";
+var dfpArticle = "7331541";
+var dfpArticleKeyword = "Mossad";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/svedanin-mislio-da-je-u-istri-kupio-kucu-iz-snova-a-onda-je-krenula-agonija-prisjela-mu-i-istra-i-kuca-ali-ne-odustaje-od-borbe-koja-traje-14-godina/7282537/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/svedanin-mislio-da-je-u-istri-kupio-kucu-iz-snova-a-onda-je-krenula-agonija-prisjela-mu-i-istra-i-kuca-ali-ne-odustaje-od-borbe-koja-traje-14-godina/7282537/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/navodni-mossadov-spijun-doveden-na-sud-u-v-gorici-zgradu-osiguravali-specijalci-s-dugim-cijevima-jos-uvijek-se-ne-zna-hocemo-li-ga-izruciti-tunisu/7331541/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/navodni-mossadov-spijun-doveden-na-sud-u-v-gorici-zgradu-osiguravali-specijalci-s-dugim-cijevima-jos-uvijek-se-ne-zna-hocemo-li-ga-izruciti-tunisu/7331541/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/dewjpg/7282555/ALTERNATES/LANDSCAPE_1180/dew.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/mossadjpg/7332435/ALTERNATES/LANDSCAPE_1180/mossad.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/dewjpg/7282555/ALTERNATES/LANDSCAPE_1180/dew.jpg">
-<meta property="og:title" content="ŠVEÐANIN MISLIO DA JE U ISTRI KUPIO KUÆU IZ SNOVA, A ONDA JE KRENULA AGONIJA Prisjela mu i Istra i kuæa, ali ne odustaje od borbe koja traje 14 godina" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/mossadjpg/7332435/ALTERNATES/LANDSCAPE_1180/mossad.jpg">
+<meta property="og:title" content="NAVODNI MOSSADOV ŠPIJUN DOVEDEN NA SUD U V. GORICI Zgradu osiguravali specijalci s dugim cijevima, još uvijek se ne zna hoæemo li ga izruèiti Tunisu" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/svedanin-mislio-da-je-u-istri-kupio-kucu-iz-snova-a-onda-je-krenula-agonija-prisjela-mu-i-istra-i-kuca-ali-ne-odustaje-od-borbe-koja-traje-14-godina/7282537/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/navodni-mossadov-spijun-doveden-na-sud-u-v-gorici-zgradu-osiguravali-specijalci-s-dugim-cijevima-jos-uvijek-se-ne-zna-hocemo-li-ga-izruciti-tunisu/7331541/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Ulaganje životne ušteðevine u kuæu za odmor u Hrvatskoj bila je gorka lekcija u životu jednog švedskog para o èijem je iskustvu s hrvatskim pravosuðem prilog nedavno objavila švedska državna televizija u središnjem informativnom dnevniku Aktuellt." />
+<meta property="og:description" content="Na Županijskom sudu u Velikoj Gorici danas je održano roèište o zahtjevu za izruèenjem 46-godišnjeg državljanina BiH A.È. kojeg Tunis sumnjièi za ubojstvo Hamasova struènjaka Mohammeda Zawahrija i za terorizam." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Antonija Handabaka">
-<meta name="twitter:title" content="ŠVEÐANIN MISLIO DA JE U ISTRI KUPIO KUÆU IZ SNOVA, A ONDA JE KRENULA AGONIJA Prisjela mu i Istra i kuæa, ali ne odustaje od borbe koja traje 14 godina">
-<meta name="twitter:description" content="Ulaganje životne ušteðevine u kuæu za odmor u Hrvatskoj bila je gorka lekcija u životu jednog švedskog para o èijem je iskustvu s hrvatskim pravosuðem prilog nedavno objavila švedska državna televizija u središnjem informativnom dnevniku Aktuellt.">
+<meta name="twitter:creator" content="Marin Deškoviæ">
+<meta name="twitter:title" content="NAVODNI MOSSADOV ŠPIJUN DOVEDEN NA SUD U V. GORICI Zgradu osiguravali specijalci s dugim cijevima, još uvijek se ne zna hoæemo li ga izruèiti Tunisu">
+<meta name="twitter:description" content="Na Županijskom sudu u Velikoj Gorici danas je održano roèište o zahtjevu za izruèenjem 46-godišnjeg državljanina BiH A.È. kojeg Tunis sumnjièi za ubojstvo Hamasova struènjaka Mohammeda Zawahrija i za terorizam.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -690,8 +692,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-25T07:18+02:00",
-author: "Antonija Handabaka, Barbara Ban",
+pubdate: "2018-05-08T12:23+02:00",
+author: "Marin Deškoviæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -886,6 +888,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1167,6 +1174,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 </nav>
@@ -1204,11 +1216,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ÈETRNAEST GODINA NA SUDU
+ODRŽANO ROÈIŠTE
 </p>
 <h1
 class="title">
-ŠVEÐANIN MISLIO DA JE U ISTRI KUPIO KUÆU IZ SNOVA, A ONDA JE KRENULA AGONIJA Prisjela mu i Istra i kuæa, ali ne odustaje od borbe koja traje 14 godina
+NAVODNI MOSSADOV ŠPIJUN DOVEDEN NA SUD U V. GORICI Zgradu osiguravali specijalci s dugim cijevima, još uvijek se ne zna hoæemo li ga izruèiti Tunisu
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,8 +1228,7 @@ class="title">
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/antonija-handabaka">Antonija Handabaka</a>,</li>
-<li>Barbara Ban</li>
+<li><a href="https://www.jutarnji.hr/autori/marin-deskovic">Marin Deškoviæ</a></li>
 </ul>
 </p>
 </li>
@@ -1225,7 +1236,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 07:18
+08.05.2018. u 12:23
 </p>
 </li>
 </ul>
@@ -1237,12 +1248,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/dewjpg/7282555" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/mossadjpg/7332435" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/dewjpg/7282555/ALTERNATES/LANDSCAPE_380/dew.jpg"
+<img src="https://www.jutarnji.hr/incoming/mossadjpg/7332435/ALTERNATES/LANDSCAPE_380/mossad.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/dewjpg/7282555/BINARY/thumbnail/dew.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/mossadjpg/7332435/BINARY/thumbnail/mossad.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1250,12 +1261,20 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> Ranko Suvar / CROPIX
+</span>
+</div>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1279,14 +1298,65 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7282537"
+<div id="content-body-6263871-7331541"
 >
-<p>Ulaganje životne ušteðevine u kuæu za odmor u Hrvatskoj bila je gorka lekcija u životu jednog švedskog para o èijem je iskustvu s hrvatskim pravosuðem prilog nedavno objavila švedska državna televizija u središnjem informativnom dnevniku Aktuellt.</p><p><strong>Christer Rundqvist</strong> (63) iz Bor?sa veæ se 14 godina na hrvatskim sudovima bori za vlasništvo nad kuæom koju je 2003. kupio u Istri. Za kupnju i ureðenje potrošio je dva milijuna kuna, kaže, a na kasnije sudske troškove još toliko. No, još nije sve gotovo. Nedavno je Županijski sud u Puli donio nepravomoænu presudu u njegovu korist. Kada je to saznao, Rundqvist je, kaže, bio na korak od toga da od svega odustane. “Tko zna koliko æe novi proces trajati”, komentirao je za Jutarnji, navodeæi da je njegova agonija u Hrvatskoj poèela još 2004. godine.</p><h5><strong>Ljetovanje</strong></h5><p>Kuæu za odmor odluèili su kupiti 2003. tijekom ljetovanja u Hrvatskoj. Suprotno onome što bi se moglo zakljuèiti, par tvrdi da nije nepromišljeno srljao u kupnju. Svjesni èinjenice da investiraju u stranu zemlju gdje vrijede drugaèija pravila, Rundqvist i njegova supruga angažirali su javnog bilježnika da provjeri je li vlasništvo nad nekretninom uredno i smiju li uopæe kupiti zemljište i kuæu u Hrvatskoj.</p><p>Nakon dobivenog zelenog svjetla kupili su svoju kuæu iz snova blizu Ližnjana. No, nakon nekoliko mjeseci poèeli su problemi. Bivša supruga prethodnog vlasnika Nijemca podigla je sudsku tužbu na sudu u Puli, tvrdeæi da joj pripada polovica prodane kuæe. Rundqvist istièe da je par bio razveden tri godine prije kupnje kuæe te da je njemaèki par svoju imovinu veæ podijelio.</p><h5><strong>Potpuna renovacija</strong></h5><p>No, sud u Puli - a Rundqvist tvrdi bez ijednog dokaza - nakon dugih osam godina presudio je da je tužiteljica u pravu. Za to vrijeme Rundqvistovi su u potpunosti renovirali kuæu koja je kupljena u roh-bau stanju. Bili su, kaže, spremni otkupiti njezin dio kako im investicija ne bi u potpunosti propala. No, sud je takoðer presudio da njezin bivši suprug mora platiti 30.000 eura sudskih troškova.</p><p>Nakon što je on to odbio, ne pojavivši se nijednom u Puli, sud je, kako bi namirio troškove postupka, ponudio drugi dio kuæe na prodaju, ne obaziruæi se na Rundqviste. Na koncu je bivša supruga iz Njemaèke prihvatila drugi dio nekretnine kao kompenzaciju za sudske troškove. Uselila se u kuæu koju su Rundqvisti uredili i promijenila brave.</p><h5><strong>Naknada štete</strong></h5><p>Rundqvist odluku suda da proda drugi dio kuæe smatra suludom. Štoviše, istièe da je sud presudio u korist tužiteljice iako su imali valjan ugovor o kupoprodaji, a ona, tvrdi Rundqvist, nijedan dokaz u svoju korist. Oštro je kritizirao i zaposlenike pulskog suda, komentirajuæi da nikad nije doživio takav manjak poštovanja u ophoðenju prema strankama. “Nikad me nitko nije tako tretirao”, tvrdi Rundqvist.</p><p>Najviše ga je zapanjila duljina sudskog postupka. U Švedskoj bi, kaže, takvo suðenje trajalo jednu, najviše dvije godine. “Èekati tako dugo na završetak suðenja je nehumano. Kako imati povjerenja u takav sustav? To je suludo”, navodi Rundqvist. No, obitelj æe se ipak nastaviti boriti, kaže. “Razmotrit æemo moguænosti koje imamo. Iæi æemo i na Europski sud ako bude potrebno. Doista je strašno da se takve stvari dogaðaju”, poruèio je Rundqvist.</p><p>Sud u Puli potvrdio je da se vodio postupak po Rundqvistovoj tužbi radi proglašenja ovrhe nedopuštenom te da je Županijski sud u Puli prihvatio njegov zahtjev. U veljaèi je donesena nepravomoæna sudska presuda kojom je prihvaæen njegov zahtjev za naknadu štete. Presuda još nije pravomoæna, priopæio je sud.</p>
+<p>Na Županijskom sudu u Velikoj Gorici danas je održano roèište o zahtjevu za izruèenjem 46-godišnjeg državljanina BiH <strong>A.È. </strong>kojeg Tunis sumnjièi za ubojstvo Hamasova struènjaka <strong>Mohammeda Zawahrija</strong> i za terorizam.</p><p>Zawahri je ubijen u prosincu u luèkom tuniskom gradu Sfaxu, a tuniske vlasti odmah su optužile da “strane sile” stoje iza atentata, i pritom oèito mislile na Izrael</p><p>A.È. je doveden na sud pod pojaèanim osiguranjem, stražnju stranu stranu zgrade èuvali su pripadnici interventne policije s dugim cijevima i pancirkama.</p><p>Nakon jednosatne sjednice A.È. je odveden natrag u Remetinec gdje se nalazi od 13. ožujka kada je uhiæen na Plesu. Izvanraspravno vijeæe još uvijek nije donijelo odluku hoæe li ga izruèiti.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kopjpg/7315395" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kopjpg/7315395/ALTERNATES/FREE_380/kop.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kopjpg/7315395/BINARY/thumbnail/kop.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>A. È. je u Tunisu osumnjièen za ubojstvo Hamasova inženjera, struènjaka za dronove Mohammeda Zawahrija (na slici)</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Podsjetimo, A. È. je uhiæen kad je sletio avionom iz Sarajeva na aerodrom “Franjo Tuðman”, gdje je trebao presjesti za Beè. Zadržan je nakon što je službenik dobio upozorenje da je rijeè o èovjeku s Interpolove tjeralice. Potom je sproveden u remetineèki pritvor</p><p>Njegov odvjetnik <strong>Krešimir Škarica</strong> rekao je novinarima nakon roèišta da vijeæe nema nekog vremenskog roka, ali odluku oèekuje danas ili najkasnije sutra. Dodao je da se njegov klijent protivi izruèenju te da se koncepcija njihove obrane prije svega zasniva na tome da njegovom klijentu za ovo djelo za koje ga se sumnjièi u Tunisu prijeti smrtna kazna.</p><p>Rekao je kako prema praksi zemalja EU osumnjièenike ne izruèujemo u zemlje u kojima im prijeti smrtna kazna i muèenje. Najavio je i kako æe od Europskog suda za ljudska prava u Strasbourgu tražiti privremenu mjeru zabrane izruèenja, a sve kako njegov klijent ne bi bio izvrgnut muèenju ili pogubljenju u Tunisu.</p><p> <section>
+<article class="fotogalerije media galleryCall ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Fotogalerije/velika-gorica-pod-opsadom-specijalaca-navodni-mossadov-spijun-doveden-na-sud/7332450/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Fotogalerije/velika-gorica-pod-opsadom-specijalaca-navodni-mossadov-spijun-doveden-na-sud/7332450/">
+<img src="https://www.jutarnji.hr/incoming/camdzic_alem7-080518jpg/7332411/ALTERNATES/LANDSCAPE_380/camdzic_alem7-080518.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/camdzic_alem7-080518jpg/7332411/BINARY/thumbnail/camdzic_alem7-080518.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Velika Gorica, 080518.
+Zupanijski sud.
+Dovodjenje BIH drzavljanina Alema Camdzica, osumnjicenog za ubojstvo Hamassovog inzenjera u Tunisu, na rociste na kojem su odlucivali o njegovom izrucenju.
+Foto: Ranko Suvar / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7282537 p").filter(function () {
+$("#content-body-6263871-7331541 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1295,16 +1365,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7282537").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7331541").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7282537").children().slice(max).remove();
+$("#content-body-6263871-7331541").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7282537").children().get(0);
+var firstChild = $("#content-body-6263871-7331541").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1342,8 +1412,28 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/sudovi" class ="label label-default" >
-sudovi
+<a href="https://www.jutarnji.hr/tag/terorizam" class ="label label-default" >
+terorizam
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Izrael" class ="label label-default" >
+Izrael
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Tunis" class ="label label-default" >
+Tunis
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Hamas" class ="label label-default" >
+Hamas
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Mossad" class ="label label-default" >
+Mossad
 </a>
 </li>
 </ul>
@@ -1354,6 +1444,51 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
+<article class="svijet media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/otkriven-identitet-navodnog-mossadova-placenika-koji-je-uhicen-u-zagrebu-ratovao-je-za-armiju-bih-furao-se-na-chucka-norrisa-ramba-valtera/7323156/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/otkriven-identitet-navodnog-mossadova-placenika-koji-je-uhicen-u-zagrebu-ratovao-je-za-armiju-bih-furao-se-na-chucka-norrisa-ramba-valtera/7323156/">
+OTKRIVEN IDENTITET NAVODNOG MOSSADOVA PLAÆENIKA KOJI JE UHIÆEN U ZAGREBU? 'Ratovao je za Armiju BiH, furao se na Chucka Norrisa, Ramba, Valtera...'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="crna-kronika media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-nove-detalje-bitke-oko-navodnog-mossadovog-ubojice-koji-je-pao-na-zagrebackom-aerodromu-njegovo-hapsenje-iznenadilo-je-i-nase-sluzbe/7320333/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-nove-detalje-bitke-oko-navodnog-mossadovog-ubojice-koji-je-pao-na-zagrebackom-aerodromu-njegovo-hapsenje-iznenadilo-je-i-nase-sluzbe/7320333/">
+OTKRIVAMO NOVE DETALJE BITKE OKO NAVODNOG MOSSADOVOG UBOJICE KOJI JE PAO NA ZAGREBAÈKOM AERODROMU Njegovo hapšenje iznenadilo je i naše službe
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="crna-kronika media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/tajna-dosjea-od-6-kg-detalji-o-osumnjiceniku-za-atentat-na-hamasova-eksperta-za-terorizam-uhicen-na-plesu-trazi-ga-tunis-ali-rh-ga-ne-izrucuje/7315389/" data-widget-title="" data-web-position="box"
+data-widget-position="2">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/tajna-dosjea-od-6-kg-detalji-o-osumnjiceniku-za-atentat-na-hamasova-eksperta-za-terorizam-uhicen-na-plesu-trazi-ga-tunis-ali-rh-ga-ne-izrucuje/7315389/">
+TAJNA DOSJEA OD 6 KG: DETALJI O OSUMNJIÈENIKU ZA ATENTAT NA HAMASOVA EKSPERTA ZA TERORIZAM Uhiæen na Plesu, traži ga Tunis, ali RH ga ne izruèuje
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1369,13 +1504,13 @@ Vezane vijesti
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1387,8 +1522,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1400,13 +1535,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1418,8 +1553,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1431,13 +1566,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1449,8 +1584,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1462,17 +1597,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1480,9 +1615,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1564,7 +1698,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7282537" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7331541" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1610,17 +1744,17 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+KAKO GRADIÆ BLEIBURG ŽIVI UOÈI KOMEMORACIJE? Po prvi put dolaze 'austrijske kobre', a evo što lokalni mještani misle o gostima iz Hrvatske
 </a>
 </h4>
 </div>
@@ -1632,17 +1766,17 @@ VUKOVI OKO NAS
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+I TO JE HRVATSKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada
 </a>
 </h4>
 </div>
@@ -1654,17 +1788,17 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+KRŠENJE JAVNOG REDA I MIRA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+VELIKI ŠOK ZA OSJEÈANKU Sunèala se na vlastitom balkonu, na vrata joj je pokucala policija i zalijepila novèanu kaznu: 'Jako je uznemirila susjeda'
 </a>
 </h4>
 </div>
@@ -1676,17 +1810,17 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 <section>
 <article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+VELIKA INVESTICIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+FOTO: POGLEDAJTE KAKO NAPREDUJU RADOVI NA ÈIOVSKOM MOSTU Snimili smo gradilište jednog od najvažnijih infrastrukturnih projekata u državi iz zraka
 </a>
 </h4>
 </div>
@@ -1724,19 +1858,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1744,8 +1878,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1832,6 +1966,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2121,11 +2260,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2173,14 +2307,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2224,23 +2358,67 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7282537&type=article&title=%c5%a0VE%c4%90ANIN+MISLIO+DA+JE+U+ISTRI+KUPIO+KU%c4%86U+IZ+SNOVA%2c+A+ONDA+JE+KRENULA+AGONIJA+Prisjela+mu+i+Istra+i+ku%c4%87a%2c+ali+ne+odustaje+od+borbe+koja+traje+14+godina&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fsvedanin-mislio-da-je-u-istri-kupio-kucu-iz-snova-a-onda-je-krenula-agonija-prisjela-mu-i-istra-i-kuca-ali-ne-odustaje-od-borbe-koja-traje-14-godina%2f7282537%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7331541&type=article&title=NAVODNI+MOSSADOV+%c5%a0PIJUN+DOVEDEN+NA+SUD+U+V.+GORICI+Zgradu+osiguravali+specijalci+s+dugim+cijevima%2c+jo%c5%a1+uvijek+se+ne+zna+ho%c4%87emo+li+ga+izru%c4%8diti+Tunisu&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fnavodni-mossadov-spijun-doveden-na-sud-u-v-gorici-zgradu-osiguravali-specijalci-s-dugim-cijevima-jos-uvijek-se-ne-zna-hocemo-li-ga-izruciti-tunisu%2f7331541%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7282537&amp;type=article&amp;title=%c5%a0VE%c4%90ANIN+MISLIO+DA+JE+U+ISTRI+KUPIO+KU%c4%86U+IZ+SNOVA%2c+A+ONDA+JE+KRENULA+AGONIJA+Prisjela+mu+i+Istra+i+ku%c4%87a%2c+ali+ne+odustaje+od+borbe+koja+traje+14+godina&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fsvedanin-mislio-da-je-u-istri-kupio-kucu-iz-snova-a-onda-je-krenula-agonija-prisjela-mu-i-istra-i-kuca-ali-ne-odustaje-od-borbe-koja-traje-14-godina%2f7282537%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7331541&amp;type=article&amp;title=NAVODNI+MOSSADOV+%c5%a0PIJUN+DOVEDEN+NA+SUD+U+V.+GORICI+Zgradu+osiguravali+specijalci+s+dugim+cijevima%2c+jo%c5%a1+uvijek+se+ne+zna+ho%c4%87emo+li+ga+izru%c4%8diti+Tunisu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fnavodni-mossadov-spijun-doveden-na-sud-u-v-gorici-zgradu-osiguravali-specijalci-s-dugim-cijevima-jos-uvijek-se-ne-zna-hocemo-li-ga-izruciti-tunisu%2f7331541%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=236659590&title=sudovi&url=tag%3ajltags%40eph.hr%2c2016%3asudovi&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=856339221&title=Mossad&url=tag%3ajltags%40eph.hr%2c2016%3aMossad&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=236659590&amp;title=sudovi&amp;url=tag%3ajltags%40eph.hr%2c2016%3asudovi&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=856339221&amp;title=Mossad&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMossad&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1819696554&title=Hamas&url=tag%3ajltags%40eph.hr%2c2016%3aHamas&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1819696554&amp;title=Hamas&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHamas&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1808017273&title=Tunis&url=tag%3ajltags%40eph.hr%2c2016%3aTunis&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1808017273&amp;title=Tunis&amp;url=tag%3ajltags%40eph.hr%2c2016%3aTunis&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=960744051&title=Izrael&url=tag%3ajltags%40eph.hr%2c2016%3aIzrael&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=960744051&amp;title=Izrael&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIzrael&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1845219567&title=terorizam&url=tag%3ajltags%40eph.hr%2c2016%3aterorizam&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1845219567&amp;title=terorizam&amp;url=tag%3ajltags%40eph.hr%2c2016%3aterorizam&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2293,7 +2471,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/svedanin-mislio-da-je-u-istri-kupio-kucu-iz-snova-a-onda-je-krenula-agonija-prisjela-mu-i-istra-i-kuca-ali-ne-odustaje-od-borbe-koja-traje-14-godina/7282537/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/navodni-mossadov-spijun-doveden-na-sud-u-v-gorici-zgradu-osiguravali-specijalci-s-dugim-cijevima-jos-uvijek-se-ne-zna-hocemo-li-ga-izruciti-tunisu/7331541/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2303,14 +2481,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/svedanin-mislio-da-je-u-istri-kupio-kucu-iz-snova-a-onda-je-krenula-agonija-prisjela-mu-i-istra-i-kuca-ali-ne-odustaje-od-borbe-koja-traje-14-godina/7282537/",
-postId : "7282537",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/navodni-mossadov-spijun-doveden-na-sud-u-v-gorici-zgradu-osiguravali-specijalci-s-dugim-cijevima-jos-uvijek-se-ne-zna-hocemo-li-ga-izruciti-tunisu/7331541/",
+postId : "7331541",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "ŠVEÐANIN MISLIO DA JE U ISTRI KUPIO KUÆU IZ SNOVA, A ONDA JE KRENULA AGONIJA Prisjela mu i Istra i kuæa, ali ne odustaje od borbe koja traje 14 godina",
-pubdate : "2018-04-25 07:18",
-authors : "Antonija Handabaka, Barbara Ban",
+title : "NAVODNI MOSSADOV ŠPIJUN DOVEDEN NA SUD U V. GORICI Zgradu osiguravali specijalci s dugim cijevima, još uvijek se ne zna hoæemo li ga izruèiti Tunisu",
+pubdate : "2018-05-08 12:23",
+authors : "Marin Deškoviæ",
 sections : "Front Page, Vijesti, Hrvatska",
-tags : "sudovi",
+tags : "Mossad, Hamas, Tunis, Izrael, terorizam",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

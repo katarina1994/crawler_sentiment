@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="bicikli, kraðe" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Sveèano æe biti danas u Krašiæu, rodnome mjestu blaženog Alojzija Stepinca, gdje æe se proslaviti 120. obljetnica roðenja ovog hrvatskog blaženika, èiju kanonizaciju oèekuju brojni katolièki vjernici u Hrvatskoj." />
+<meta name="keywords" content="Alojzije Stepinac" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FOTO/VIDEO: PREPOZNAJETE LI OVOG DRSKOG KRADLJIVCA? Ukrao bicikl iz zgrade u zagrebaèkim Utrinama i pozirao nadzornim kamerama - Jutarnji List</title>
+<title>Praneæak Josip: Na dan kad je Stepinac umro puhalo je jako jugo, a naše je mjesto bilo pod opsadom policije - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "Unknown";
+var dfpCountryCode = "FR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Zagreb";
+var dfpCategory = "Hrvatska";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7285018";
-var dfpArticleKeyword = "bicikli";
+var dfpArticle = "7329624";
+var dfpArticleKeyword = "Alojzije Stepinac";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -640,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/zagreb/fotovideo-prepoznajete-li-ovog-drskog-kradljivca-ukrao-bicikl-iz-zgrade-u-zagrebackim-utrinama-i-pozirao-nadzornim-kamerama/7285018/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/zagreb/fotovideo-prepoznajete-li-ovog-drskog-kradljivca-ukrao-bicikl-iz-zgrade-u-zagrebackim-utrinama-i-pozirao-nadzornim-kamerama/7285018/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/pranecak-josip-na-dan-kad-je-stepinac-umro-puhalo-je-jako-jugo-a-nase-je-mjesto-bilo-pod-opsadom-policije/7329624/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/pranecak-josip-na-dan-kad-je-stepinac-umro-puhalo-je-jako-jugo-a-nase-je-mjesto-bilo-pod-opsadom-policije/7329624/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -654,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/kradljivac-biciklajpg/7285015/ALTERNATES/LANDSCAPE_1180/kradljivac%20bicikla.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/jujpg/7329633/ALTERNATES/LANDSCAPE_1180/ju.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/kradljivac-biciklajpg/7285015/ALTERNATES/LANDSCAPE_1180/kradljivac%20bicikla.jpg">
-<meta property="og:title" content="FOTO/VIDEO: PREPOZNAJETE LI OVOG DRSKOG KRADLJIVCA? Ukrao bicikl iz zgrade u zagrebaèkim Utrinama i pozirao nadzornim kamerama" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/jujpg/7329633/ALTERNATES/LANDSCAPE_1180/ju.jpg">
+<meta property="og:title" content="Praneæak Josip: Na dan kad je Stepinac umro puhalo je jako jugo, a naše je mjesto bilo pod opsadom policije" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/zagreb/fotovideo-prepoznajete-li-ovog-drskog-kradljivca-ukrao-bicikl-iz-zgrade-u-zagrebackim-utrinama-i-pozirao-nadzornim-kamerama/7285018/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/pranecak-josip-na-dan-kad-je-stepinac-umro-puhalo-je-jako-jugo-a-nase-je-mjesto-bilo-pod-opsadom-policije/7329624/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Sveèano æe biti danas u Krašiæu, rodnome mjestu blaženog Alojzija Stepinca, gdje æe se proslaviti 120. obljetnica roðenja ovog hrvatskog blaženika, èiju kanonizaciju oèekuju brojni katolièki vjernici u Hrvatskoj." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="FOTO/VIDEO: PREPOZNAJETE LI OVOG DRSKOG KRADLJIVCA? Ukrao bicikl iz zgrade u zagrebaèkim Utrinama i pozirao nadzornim kamerama">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content="Tomislav Mamiæ">
+<meta name="twitter:title" content="Praneæak Josip: Na dan kad je Stepinac umro puhalo je jako jugo, a naše je mjesto bilo pod opsadom policije">
+<meta name="twitter:description" content="Sveèano æe biti danas u Krašiæu, rodnome mjestu blaženog Alojzija Stepinca, gdje æe se proslaviti 120. obljetnica roðenja ovog hrvatskog blaženika, èiju kanonizaciju oèekuju brojni katolièki vjernici u Hrvatskoj.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -691,9 +691,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Zagreb, Vijesti, Front Page",
-pubdate: "2018-04-25T12:28+02:00",
-author: "Silvija Novak",
+data: { section: "Hrvatska, Vijesti, Front Page",
+pubdate: "2018-05-08T23:35+02:00",
+author: "Tomislav Mamiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -860,7 +860,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -875,7 +875,7 @@ Svijet
 Crna kronika
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/zagreb/">
 Zagreb
 </a>
@@ -888,6 +888,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1136,10 +1141,10 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/zagreb/">Zagreb </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1154,7 +1159,7 @@ Svijet
 Crna kronika
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/zagreb/">
 Zagreb
 </a>
@@ -1167,6 +1172,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1206,11 +1216,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-LOPOVI HARAJU
+GODIŠNJICA SMRTI BLAŽENIKA
 </p>
 <h1
 class="title">
-FOTO/VIDEO: PREPOZNAJETE LI OVOG DRSKOG KRADLJIVCA? Ukrao bicikl iz zgrade u zagrebaèkim Utrinama i pozirao nadzornim kamerama
+Praneæak Josip: Na dan kad je Stepinac umro puhalo je jako jugo, a naše je mjesto bilo pod opsadom policije
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1218,7 +1228,7 @@ FOTO/VIDEO: PREPOZNAJETE LI OVOG DRSKOG KRADLJIVCA? Ukrao bicikl iz zgrade u zag
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/tomislav-mamic">Tomislav Mamiæ</a></li>
 </ul>
 </p>
 </li>
@@ -1226,7 +1236,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 12:28
+08.05.2018. u 23:35
 </p>
 </li>
 </ul>
@@ -1238,12 +1248,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/kradljivac-biciklajpg/7285015" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/jujpg/7329633" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/kradljivac-biciklajpg/7285015/ALTERNATES/LANDSCAPE_380/kradljivac%20bicikla.jpg"
+<img src="https://www.jutarnji.hr/incoming/jujpg/7329633/ALTERNATES/LANDSCAPE_380/ju.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/kradljivac-biciklajpg/7285015/BINARY/thumbnail/kradljivac%20bicikla.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/jujpg/7329633/BINARY/thumbnail/ju.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1252,7 +1262,7 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Facebook
+<span> CROPIX
 </span>
 </div>
 </div>
@@ -1288,18 +1298,64 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285018"
+<div id="content-body-6263871-7329624"
 >
-<p>Lijepo vrijeme izmamilo je bicikliste u grad, a zajedno s njima i kradljivce bicikala koji ponovno operiraju ne samo po zagrebaèkim ulicama veæ i po stubištima, zakljuèanim spremištima i garažama.</p><p>Jedan takav drski lopov ukrao je bicikl prije nekoliko dana sa stubišta zgrade u Kombolovoj ulici u Utrinama. Meðutin, nije raèunao na prilièno dobru pokrivenost stubišta nadzornim kamerama.</p><p>O svemu je obaviještena i policija, a vlasnik bicikla, Dorian, snimke je objavio je na svojem Facebook profilu i zamolio za pomoæ.</p><p>U objavi na Facebooku kaže:</p><p>'Pozdrav svima,</p><p>Juèer, 19.04. oko 16 45, mi je nepoznati poèinitelj ukrao bicikl ispred stana na 5. katu zgrade u Kombolovoj ulici u Utrini. Uz post prilažem dvije video snimke iz stepeništa i prizemnog haustora gdje se vidi kako poèinitelj iznosi navedeni bicikl.</p><p>Bicikl je marke Diamondback, sive boje, kuèišta za mijenjanje brzina su bijele boje, na glavnoj osovini pise DB i bijelom bojom isprejano DOKI (ako je lik pametan æe to sredit). Pocinitelj nosi prsluk sa kapuljaèom, crnu trenirku/traperice, i cèni mi se sivo plave Vansice sa zelenim vezicama na nogama. Vidite sve to i sami.</p><p>Molio bih Vas, ako sluèajno vidite ili mislite da ste vidjeli poèinitelja ili bicikl, da mi dojavite. Sutra æe vjerojatno iæi i prijava na policiju.</p><p>Bio bih Vam vrlo zahvalan!'</p><p>
-<section class="social_embed ">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D2024523167870305%26id%3D100009379251691&width=500" width="500" height="793" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<p>Sveèano æe biti danas u Krašiæu, rodnome mjestu blaženog <strong>Alojzija Stepinca</strong>, gdje æe se proslaviti 120. obljetnica roðenja ovog hrvatskog blaženika, èiju kanonizaciju oèekuju brojni katolièki vjernici u Hrvatskoj.</p><p>Sveèanost æe poèeti veæ u 10 sati, kada æe se mnoštvo vjernika okupiti oko Stepinèeve rodne kuæe u Brezariæu, nakon èega æe se u procesiji krenuti prema crkvi Presvetog Trojstva u Krašiæu, gdje æe sveèano euharistijsko slavlje predvoditi varaždinski biskup<strong> Josip Mrzljak</strong>, koji je blaženikov praneæak.</p><p>Praneæak blaženog Alojzija Stepinca je i<strong> Josip Stepinac</strong>, danas 64-godišnjak koji je posebno emotivno vezan za ove dane.</p><h5><strong>Župni dvor</strong></h5><p>Još kao petogodišnjak imao je priliku igrati se ispred starog župnog dvora u kojem je kardinal Stepinac bio u kuænom pritvoru, a u ljeto 1959. godine, samo nekoliko mjeseci prije blaženikove smrti, dobio je priliku za zajednièku fotografiju.</p><p>A taj se susret, prièa Josip, dogodio sasvim sluèajno.</p><p>Naime, njegov ujak tada je u Krašiæu boravio na godišnjem odmoru i jako je želio imati Stepinèevu sliku.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/plojpg/7329669" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/plojpg/7329669/ALTERNATES/FREE_380/plo.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/plojpg/7329669/BINARY/thumbnail/plo.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
 </section>
- </p>
+ </p><p>- Buduæi da tada odrasli nisu smjeli priæi kardinalu, na fotografiranje smo otišli ujakov sin i ja. Bili smo djeèaci. Slikao nas je tadašnji župnik <strong>Josip Vranekoviæ</strong>, a meni je ostalo u sjeæanju da sam na tom snimanju bio jako ukoèen. Valjda sam imao tremu - prisjetio se Josip dok nam pokazuje tu fotografiju.</p><p>Sjetio se i kako su se oni kao djeca èesto igrali ispred župnog dvora i kako bi, kada bi èuo djeèje glasove, iz župnog dvora izašao sam nadbiskup i podijelio djeci bombone.</p><p>- Tako smo po bombone išli i u kasno ljeto 1959. godine. Galamili smo, igrali se oèekujuæi da nadbiskup izaðe i umiri nas bombonima. No, umjesto njega je došla jedna èasna sestra i rekla nam da se smirimo jer je nadbiskup loše i odmara se. Nekoliko mjeseci kasnije je umro - prièa Josip, èija je majka bila jedna od onih osoba od povjerenja blaženog kardinala s obzirom na to da je èesto, izbjegavajuæi policiju, nosila Stepinèevu poštu.</p><h5><strong>Stotine gostiju</strong></h5><p>Sjeæa se i kako je u Krašiæu tih dana bilo jako puno policije koja je “radila u tri smjene” te da je policijska prisutnost poèela slabiti tek nekoliko mjeseci nakon 10. veljaèe 1960., kada je kardinal Stepinac preminuo.</p><p>- Prvo su se s crkve èula zvona, a onda je u našu kuæu došao jedan prijatelj i rekao da je nadbiskup umro. Sjeæam se da je tog dana puhalo jako jugo, da je snijeg poèeo kopnjeti, a za vrijeme ukopnih obreda puhao je jak vjetar i sve je bilo smrznuto. Sjeæam se da je tih dana, kada je moj praujak umro, Krašiæ bio pod opsadom policije - prièa Josip.</p><p>Kad je rijeè o Stepinèevoj kanonizaciji, strpljiv je i uvjeren da oko toga neæe biti nikakvih problema te se nada da æe sve više vjernika uskoro poèeti dolaziti u rodno mjesto blaženog kardinala.</p><p>Za rodnu kuæu nadbiskupove obitelji trenutno se brine <strong>Mira Stepinac</strong>, koja nam kaže da zbog kardinala Brezariæ godišnje posjeti više stotina gostiju.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/poujpg/7329639" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/poujpg/7329639/ALTERNATES/FREE_380/pou.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/poujpg/7329639/BINARY/thumbnail/pou.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><h5><strong>Rodna kuæa</strong></h5><p>Najèešæe dolaze roditelji s djecom, prièa Mira, koje najviše zanima kako je obitelj živjela u to vrijeme, gdje se maleni Alojz igrao te kako je funkcionirala ondašnja zadruga obitelji Stepinac. Ta zadruga imanje je podijelila 1908. godine.</p><p>- Sve u rodnoj kuæi iz onog je doba, pa se uistinu može reæi da se radi o etnografskoj zbirci obitelji Stepinac. Najviše je razgledaju obitelji, a najznatiželjnija su, naravno, djeca - prièa Mira.</p><p>Krašiækog župnika Ivana Vuèaka raduju dogaðaji velikog jubileja. Posebno istièe prvi dan trodnevnice, kada je održan koncert duhovne glazbe za mlade cijelog jastrebarskog kraja. Ipak, veliko finale proslave održat æe se danas, na sam spomendan roðenja blaženog Stepinca.</p><p>- U 10 sati kreæe procesija od rodne kuæe bl. Alojzija Stepinca u Brezariæu do župne crkve i u toj procesiji sudjelovat æe svi, od najmanjih do nositelja vlasti, jer se slavi i Dan opæine. Misu æe predvoditi varaždinski biskup<strong> Josip Mrzljak</strong>, koji je takoðer pranaæek blaženika, a popodnevnu zahvalnu misu u 18.30 <strong>Zlatko Golubiæ</strong>, župnik Župe pohoda Blažene Djevice Marije s Dolca - rekao nam je župnik Vuèak.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285018 p").filter(function () {
+$("#content-body-6263871-7329624 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1308,16 +1364,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285018").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7329624").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285018").children().slice(max).remove();
+$("#content-body-6263871-7329624").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285018").children().get(0);
+var firstChild = $("#content-body-6263871-7329624").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1355,13 +1411,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/kra%C4%91e" class ="label label-default" >
-kraðe
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/bicikli" class ="label label-default" >
-bicikli
+<a href="https://www.jutarnji.hr/tag/Alojzije_Stepinac" class ="label label-default" >
+Alojzije Stepinac
 </a>
 </li>
 </ul>
@@ -1372,30 +1423,16 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="crna-kronika media none">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/zivotni-pad-oca-dvoje-djece-s-borongaja-krao-sam-po-supama-bicikle-pa-ih-za-sitnu-lovu-prodavao-doktoru-kako-bih-si-kupio-heroin/5586587/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/mitropolit-amfilohije-o-stepincu-nema-nikakve-sumnje-da-je-on-bio-covjekoljub-ali-mi-njegovu-kanonizaciju-ne-mozemo-prihvatiti-iz-drugih-razloga/6910191/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/zivotni-pad-oca-dvoje-djece-s-borongaja-krao-sam-po-supama-bicikle-pa-ih-za-sitnu-lovu-prodavao-doktoru-kako-bih-si-kupio-heroin/5586587/">
-ŽIVOTNI PAD OCA DVOJE DJECE S BORONGAJA 'Krao sam po šupama bicikle pa ih za sitnu lovu prodavao Doktoru kako bih si kupio heroin...'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/mitropolit-amfilohije-o-stepincu-nema-nikakve-sumnje-da-je-on-bio-covjekoljub-ali-mi-njegovu-kanonizaciju-ne-mozemo-prihvatiti-iz-drugih-razloga/6910191/">
+MITROPOLIT AMFILOHIJE O STEPINCU 'Nema nikakve sumnje da je on bio èovjekoljub, ali mi njegovu kanonizaciju ne možemo prihvatiti iz drugih razloga'
 </a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="zagreb media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/pogledajte-najglupljeg-kradljivca-bicikala-na-svijetu.-pomozimo-mu-da-postane-i-najpoznatiji/3490139/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/pogledajte-najglupljeg-kradljivca-bicikala-na-svijetu.-pomozimo-mu-da-postane-i-najpoznatiji/3490139/">
-'Pogledajte najglupljeg kradljivca bicikala na svijetu. Pomozimo mu da postane i najpoznatiji' </a>
 </h4>
 </li>
 </ul>
@@ -1416,13 +1453,13 @@ data-widget-position="1">
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1434,8 +1471,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1447,13 +1484,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1465,8 +1502,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1478,13 +1515,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1496,8 +1533,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1509,17 +1546,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1527,9 +1564,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1611,7 +1647,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285018" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7329624" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1655,19 +1691,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zagreb media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/vlasnici-jedite-koliko-hocete-za-fiksnu-cijenu-prihvatljivu-bas-svima-ali-uz-jedan-uvjet-u-zagrebu-otvoren-restoran-s-revolucionarnom-ponudom/7275951/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/vlasnici-jedite-koliko-hocete-za-fiksnu-cijenu-prihvatljivu-bas-svima-ali-uz-jedan-uvjet-u-zagrebu-otvoren-restoran-s-revolucionarnom-ponudom/7275951/">
-'ALL YOU CAN EAT'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/vlasnici-jedite-koliko-hocete-za-fiksnu-cijenu-prihvatljivu-bas-svima-ali-uz-jedan-uvjet-u-zagrebu-otvoren-restoran-s-revolucionarnom-ponudom/7275951/">
-VLASNICI: JEDITE KOLIKO HOÆETE ZA FIKSNU CIJENU PRIHVATLJIVU BAŠ SVIMA, ALI UZ JEDAN UVJET! U Zagrebu otvoren restoran s revolucionarnom ponudom
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+KAKO GRADIÆ BLEIBURG ŽIVI UOÈI KOMEMORACIJE? Po prvi put dolaze 'austrijske kobre', a evo što lokalni mještani misle o gostima iz Hrvatske
 </a>
 </h4>
 </div>
@@ -1677,19 +1713,19 @@ VLASNICI: JEDITE KOLIKO HOÆETE ZA FIKSNU CIJENU PRIHVATLJIVU BAŠ SVIMA, ALI UZ J
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zagreb media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/zagreb-bi-uskoro-mogao-dobiti-park-envera-colakovica-gradska-oporba-zaprepastena-pa-taj-covjek-je-bio-kulturni-atase-ndh-u-zlocinackoj-madarskoj/7277370/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/zagreb-bi-uskoro-mogao-dobiti-park-envera-colakovica-gradska-oporba-zaprepastena-pa-taj-covjek-je-bio-kulturni-atase-ndh-u-zlocinackoj-madarskoj/7277370/">
-NOVI SPORNI PRIJEDLOG
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+I TO JE HRVATSKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/zagreb-bi-uskoro-mogao-dobiti-park-envera-colakovica-gradska-oporba-zaprepastena-pa-taj-covjek-je-bio-kulturni-atase-ndh-u-zlocinackoj-madarskoj/7277370/">
-ZAGREB BI USKORO MOGAO DOBITI PARK ENVERA ÈOLAKOVIÆA Gradska oporba zaprepaštena: 'Pa taj èovjek je bio kulturni ataše NDH u zloèinaèkoj Maðarskoj!'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada
 </a>
 </h4>
 </div>
@@ -1699,19 +1735,19 @@ ZAGREB BI USKORO MOGAO DOBITI PARK ENVERA ÈOLAKOVIÆA Gradska oporba zaprepaštena
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zagreb media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/susjedi-su-tvrdili-da-se-tereza-u-stan-uselila-1995-a-potom-promijenili-iskaz-i-rekli-da-je-majka-ene-begovic-u-stanu-bila-vec-pocetkom-rata/7270239/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/susjedi-su-tvrdili-da-se-tereza-u-stan-uselila-1995-a-potom-promijenili-iskaz-i-rekli-da-je-majka-ene-begovic-u-stanu-bila-vec-pocetkom-rata/7270239/">
-TKO IMA PRAVO BITI U STANU?
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+KRŠENJE JAVNOG REDA I MIRA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/susjedi-su-tvrdili-da-se-tereza-u-stan-uselila-1995-a-potom-promijenili-iskaz-i-rekli-da-je-majka-ene-begovic-u-stanu-bila-vec-pocetkom-rata/7270239/">
-Susjedi su tvrdili da se Tereza u stan uselila 1995., a potom promijenili iskaz i rekli da je majka Ene Begoviæ u stanu bila veæ poèetkom rata
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+VELIKI ŠOK ZA OSJEÈANKU Sunèala se na vlastitom balkonu, na vrata joj je pokucala policija i zalijepila novèanu kaznu: 'Jako je uznemirila susjeda'
 </a>
 </h4>
 </div>
@@ -1721,19 +1757,19 @@ Susjedi su tvrdili da se Tereza u stan uselila 1995., a potom promijenili iskaz 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zagreb media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/zagreb/foto-pobuna-zbog-rusenja-stuba-oko-mestroviceva-paviljona-grad-stavit-cemo-kvalitetniji-kamen-struka-trebali-ste-se-drzati-originala/7283284/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/foto-pobuna-zbog-rusenja-stuba-oko-mestroviceva-paviljona-grad-stavit-cemo-kvalitetniji-kamen-struka-trebali-ste-se-drzati-originala/7283284/">
-KULTURNO DOBRO
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+VELIKA INVESTICIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/foto-pobuna-zbog-rusenja-stuba-oko-mestroviceva-paviljona-grad-stavit-cemo-kvalitetniji-kamen-struka-trebali-ste-se-drzati-originala/7283284/">
-FOTO: POBUNA ZBOG RUŠENJA STUBA OKO MEŠTROVIÆEVA PAVILJONA Grad: 'Stavit æemo kvalitetniji kamen' STRUKA 'Trebali ste se držati originala'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+FOTO: POGLEDAJTE KAKO NAPREDUJU RADOVI NA ÈIOVSKOM MOSTU Snimili smo gradilište jednog od najvažnijih infrastrukturnih projekata u državi iz zraka
 </a>
 </h4>
 </div>
@@ -1771,19 +1807,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1791,8 +1827,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1851,7 +1887,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1866,7 +1902,7 @@ Svijet
 Crna kronika
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/zagreb/">
 Zagreb
 </a>
@@ -1879,6 +1915,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2168,11 +2209,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2220,14 +2256,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2271,34 +2307,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=20&contextPath=1-16-20-&pubId=1&cat=&meta=read-story&objId=7285018&type=article&title=FOTO%2fVIDEO%3a+PREPOZNAJETE+LI+OVOG+DRSKOG+KRADLJIVCA%3f+Ukrao+bicikl+iz+zgrade+u+zagreba%c4%8dkim+Utrinama+i+pozirao+nadzornim+kamerama&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fzagreb%2ffotovideo-prepoznajete-li-ovog-drskog-kradljivca-ukrao-bicikl-iz-zgrade-u-zagrebackim-utrinama-i-pozirao-nadzornim-kamerama%2f7285018%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7329624&type=article&title=Prane%c4%87ak+Josip%3a+Na+dan+kad+je+Stepinac+umro+puhalo+je+jako+jugo%2c+a+na%c5%a1e+je+mjesto+bilo+pod+opsadom+policije&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fpranecak-josip-na-dan-kad-je-stepinac-umro-puhalo-je-jako-jugo-a-nase-je-mjesto-bilo-pod-opsadom-policije%2f7329624%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=20&amp;contextPath=1-16-20-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285018&amp;type=article&amp;title=FOTO%2fVIDEO%3a+PREPOZNAJETE+LI+OVOG+DRSKOG+KRADLJIVCA%3f+Ukrao+bicikl+iz+zgrade+u+zagreba%c4%8dkim+Utrinama+i+pozirao+nadzornim+kamerama&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fzagreb%2ffotovideo-prepoznajete-li-ovog-drskog-kradljivca-ukrao-bicikl-iz-zgrade-u-zagrebackim-utrinama-i-pozirao-nadzornim-kamerama%2f7285018%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7329624&amp;type=article&amp;title=Prane%c4%87ak+Josip%3a+Na+dan+kad+je+Stepinac+umro+puhalo+je+jako+jugo%2c+a+na%c5%a1e+je+mjesto+bilo+pod+opsadom+policije&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fpranecak-josip-na-dan-kad-je-stepinac-umro-puhalo-je-jako-jugo-a-nase-je-mjesto-bilo-pod-opsadom-policije%2f7329624%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&cat=jltags%40eph.hr%2c2016&objId=57565323&title=bicikli&url=tag%3ajltags%40eph.hr%2c2016%3abicikli&rt=1&ctxId=20&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1918993522&title=Alojzije+Stepinac&url=tag%3ajltags%40eph.hr%2c2016%3aAlojzije_Stepinac&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=57565323&amp;title=bicikli&amp;url=tag%3ajltags%40eph.hr%2c2016%3abicikli&amp;rt=1&amp;ctxId=20&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&cat=jltags%40eph.hr%2c2016&objId=26837322&title=kra%c4%91e&url=tag%3ajltags%40eph.hr%2c2016%3akra%25C4%2591e&rt=1&ctxId=20&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-20-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=26837322&amp;title=kra%c4%91e&amp;url=tag%3ajltags%40eph.hr%2c2016%3akra%25C4%2591e&amp;rt=1&amp;ctxId=20&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1918993522&amp;title=Alojzije+Stepinac&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAlojzije_Stepinac&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2351,7 +2376,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/zagreb/fotovideo-prepoznajete-li-ovog-drskog-kradljivca-ukrao-bicikl-iz-zgrade-u-zagrebackim-utrinama-i-pozirao-nadzornim-kamerama/7285018/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/pranecak-josip-na-dan-kad-je-stepinac-umro-puhalo-je-jako-jugo-a-nase-je-mjesto-bilo-pod-opsadom-policije/7329624/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2361,14 +2386,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/zagreb/fotovideo-prepoznajete-li-ovog-drskog-kradljivca-ukrao-bicikl-iz-zgrade-u-zagrebackim-utrinama-i-pozirao-nadzornim-kamerama/7285018/",
-postId : "7285018",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/pranecak-josip-na-dan-kad-je-stepinac-umro-puhalo-je-jako-jugo-a-nase-je-mjesto-bilo-pod-opsadom-policije/7329624/",
+postId : "7329624",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "FOTO/VIDEO: PREPOZNAJETE LI OVOG DRSKOG KRADLJIVCA? Ukrao bicikl iz zgrade u zagrebaèkim Utrinama i pozirao nadzornim kamerama",
-pubdate : "2018-04-25 12:28",
-authors : "Silvija Novak",
-sections : "Front Page, Vijesti, Zagreb",
-tags : "bicikli, kraðe",
+title : "Praneæak Josip: Na dan kad je Stepinac umro puhalo je jako jugo, a naše je mjesto bilo pod opsadom policije",
+pubdate : "2018-05-08 23:35",
+authors : "Tomislav Mamiæ",
+sections : "Hrvatska",
+tags : "Alojzije Stepinac",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,12 +2,19 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Mi volimo pojesti nešto na žlicu i to èesto. Igramo se razlièitim okusima i kombinacijama kojih je bar u ovom sluèaju - bezbroj! Mi vam donosimo sedam njih koji mogu odlièno funkcionirati kao ruèak, a neki i kao veèera! Naši favoriti? definitivno meksièko varivo s meksièkim okruglicama i pileæi osso bucco!" />
-<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Amerièki predsjednik Donald Trump rekao je u utorak francuskom predsjedniku Emanuelu Macronu da æe se SAD povuæi iz iranskog nuklearnog sporazuma, objavio je New York Times. Trump je takoðer rekao da æe Teheranu ponovno uvesti sve sancije koje je Washington zamrznuo prema sporazumu iz 2015. i namentuti mu dodatne gospodarske mjere, dodaje list." />
+<meta name="keywords" content="Donald Trump, iranski sporazum, Emmanuel Macron" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>U JEDNOM LONCU: Ono kad ti se jede nešto na žlicu, a nemaš ideja! E pa ovdje ih je sedam! - Jutarnji List</title>
+<title>TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM &#039;Taj sporazum je katastrofalan i defektan u svojoj srži&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
+<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+</script>
 <section>
 <!-- DFP verzija 11 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
@@ -197,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Prièe";
-var dfpCategoryParent = "Dobra hrana";
-var dfpRos = "dobrahrana-ros";
-var dfpArticle = "7284358";
-var dfpArticleKeyword = "";
+var dfpCategory = "Svijet";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7333917";
+var dfpArticleKeyword = "Donald Trump";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -567,13 +574,6 @@ window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
 </section>
-<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
-<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
-<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
-<script>
-window.Criteo = window.Criteo || {};
-window.Criteo.events = window.Criteo.events || [];
-</script>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -593,7 +593,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<meta property="article:author" content="https://www.facebook.com/dobrahrana.hr" />
+<script>
+var elipsoResizeTimeout;
+function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
+if (!elipsoResizeTimeout) {
+elipsoResizeTimeout = setTimeout(function() {
+elipsoResizeTimeout = null;
+elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
+}, 250);
+}
+}
+function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var elipsoBreakpoint = 0;
+var elipsoBreakpoints = [768, 992, 1200];
+for (i = 0; i < elipsoBreakpoints.length; i++) {
+if (windowWidth >= elipsoBreakpoints[i]) {
+elipsoBreakpoint = elipsoBreakpoints[i];
+}
+}
+var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
+var elipsoIframeWH = elipsoIframeSize.split('x');
+var elipsoIframe = document.getElementById(elipsoIframeId);
+var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
+var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
+if (currentElipsoIframeSrc !== elipsoIframeSrc) {
+elipsoIframe.setAttribute("src", elipsoIframeSrc);
+elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
+elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
+elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
+elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
+}
+}
+</script>
+<style>
+.displaynone-upscore-hack {
+display: none ;
+}
+</style>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -601,8 +638,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/dobrahrana/price/u-jednom-loncu-ono-kad-ti-se-jede-nesto-na-zlicu-a-nemas-ideja-e-pa-ovdje-ih-je-sedam/7284358/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/dobrahrana/price/u-jednom-loncu-ono-kad-ti-se-jede-nesto-na-zlicu-a-nemas-ideja-e-pa-ovdje-ih-je-sedam/7284358/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -615,21 +652,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/dobrahrana/dh-specijali/ledo/istock_98066129_xlarge.jpg/4624520/ALTERNATES/LANDSCAPE_1180/iStock_98066129_XLARGE.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/rts1qggzjpg/7334349/ALTERNATES/LANDSCAPE_1180/RTS1QGGZ.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/dobrahrana/dh-specijali/ledo/istock_98066129_xlarge.jpg/4624520/ALTERNATES/LANDSCAPE_1180/iStock_98066129_XLARGE.jpg">
-<meta property="og:title" content="U JEDNOM LONCU: Ono kad ti se jede nešto na žlicu, a nemaš ideja! E pa ovdje ih je sedam!" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/rts1qggzjpg/7334349/ALTERNATES/LANDSCAPE_1180/RTS1QGGZ.jpg">
+<meta property="og:title" content="TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/dobrahrana/price/u-jednom-loncu-ono-kad-ti-se-jede-nesto-na-zlicu-a-nemas-ideja-e-pa-ovdje-ih-je-sedam/7284358/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Mi volimo pojesti nešto na žlicu i to èesto. Igramo se razlièitim okusima i kombinacijama kojih je bar u ovom sluèaju - bezbroj! Mi vam donosimo sedam njih koji mogu odlièno funkcionirati kao ruèak, a neki i kao veèera! Naši favoriti? definitivno meksièko varivo s meksièkim okruglicama i pileæi osso bucco!" />
+<meta property="og:description" content="Amerièki predsjednik Donald Trump rekao je u utorak francuskom predsjedniku Emanuelu Macronu da æe se SAD povuæi iz iranskog nuklearnog sporazuma, objavio je New York Times. Trump je takoðer rekao da æe Teheranu ponovno uvesti sve sancije koje je Washington zamrznuo prema sporazumu iz 2015. i namentuti mu dodatne gospodarske mjere, dodaje list." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="">
-<meta name="twitter:title" content="U JEDNOM LONCU: Ono kad ti se jede nešto na žlicu, a nemaš ideja! E pa ovdje ih je sedam!">
-<meta name="twitter:description" content="Mi volimo pojesti nešto na žlicu i to èesto. Igramo se razlièitim okusima i kombinacijama kojih je bar u ovom sluèaju - bezbroj! Mi vam donosimo sedam njih koji mogu odlièno funkcionirati kao ruèak, a neki i kao veèera! Naši favoriti? definitivno meksièko varivo s meksièkim okruglicama i pileæi osso bucco!">
+<meta name="twitter:creator" content=" Hina">
+<meta name="twitter:title" content="TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'">
+<meta name="twitter:description" content="Amerièki predsjednik Donald Trump rekao je u utorak francuskom predsjedniku Emanuelu Macronu da æe se SAD povuæi iz iranskog nuklearnog sporazuma, objavio je New York Times. Trump je takoðer rekao da æe Teheranu ponovno uvesti sve sancije koje je Washington zamrznuo prema sporazumu iz 2015. i namentuti mu dodatne gospodarske mjere, dodaje list.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -640,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2442';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -652,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Prièe, Dobra hrana, Front Page",
-pubdate: "2018-04-25T10:44+02:00",
-author: "Vana Babiæ",
+data: { section: "Svijet, Vijesti, Front Page",
+pubdate: "2018-05-08T19:11+02:00",
+author: "Sandra Pudja",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="dobrahrana story">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -705,8 +742,11 @@ $("#related-news-box").remove();
 });
 </script>
 <div class="container">
-<header class="mainHead brandedHead " role="banner">
-<a name="top"></a>
+<header class="mainHead " role="banner">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <script>
 window.fbAsyncInit = function() {
 FB.init({
@@ -724,27 +764,17 @@ js.src = "https://connect.facebook.net/en_US/sdk.js";
 fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<a name="top"></a>
 <div class="row " >
 <div class="col-sm-12 ">
 </div>
 </div>
 <div class="row " >
 <div class="col-sm-12 ">
-<div id="siteHead"
-class=" ">
-<div class="head_date">
-<p class="month">
-<span>25.4.</span>2018.
-</p>
-<p class="day">
-srijeda
-</p>
-</div>
+<div class="col-sm-12 col-lg-8 col-lg-push-2 ">
+<div id="siteHead">
 <span class="logo"><a href="/">JutarnjList</a></span>
+</div>
 </div>
 <nav class="navbar main_nav "
 role="navigation" >
@@ -757,17 +787,65 @@ role="navigation" >
 </button>
 </div>
 <div id="navbar-collapse-1" class="navbar-collapse collapse ">
-<span class="logo suplement "><a href="/">JutarnjList</a></span>
+<ul class=" main nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/">
+Poèetna
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</li>
+<li class="">
+<a href="https://novac.jutarnji.hr" target="">
+Novac.hr
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/video/">
+Video
+</a>
+</li>
+</ul>
 <ul class="nav navbar-nav all_sections">
 <li>
 <a href="#" class="site_search"><span class="text-hide">Pretraži</span></a>
+<a href="https://twitter.com/jutarnjihr" class="twitter_follow"><span class="text-hide">Twitter</span></a>
+<a href="https://www.facebook.com/jutarnji.list/" class="facebook_follow"><span class="text-hide">Facebook</span></a>
+<a class="instagram_follow" href="https://www.instagram.com/jutarnji.hr/"><span class="text-hide">Instagram</span></a>
 </li>
 <li class="dropdown megadropdown ">
-<a href="#" id="menuPane-link-1">
+<a href="/" id="menuPane-link-1">
 Sve rubrike
 <div id="rwd_toggle"><span></span><span></span><span></span><span></span></div>
 </a>
-</li>
 </ul>
 </div>
 <div class="wrap-megadropdown-menu ">
@@ -785,7 +863,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -808,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1044,55 +1127,6 @@ Mozgalice
 </div>
 </div>
 </div>
-<div class="subBranding ">
-<span class="logo"><a href="/dobrahrana">Dobra hrana</a></span>
-</div>
-<div class="subLevelNavbar ">
-<ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/dobrahrana/">
-Naslovnica
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/dobrahrana/recepti/">
-Recepti
-</a>
-</li>
-<li class="active">
-<a href="https://www.jutarnji.hr/dobrahrana/price/">
-Prièe
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/dobrahrana/vodici/">
-Vodièi
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/dobrahrana/dobrisavjeti/">
-Dobri savjeti
-</a>
-</li>
-<li class="">
-<a href="http://www.dobri-restorani.hr/" target="_new">
-Restorani
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/dobrahrana/dh-specijali/ajvar/">
-Ajvar
-</a>
-</li>
-</ul>
-<ul class="nav navbar-nav socialChannels">
-<li>
-<!--<a href="https://twitter.com/dobra_hrana" class="twitter_follow" target="_blank"><span class="text-hide">Twitter</span></a>-->
-<a href="https://www.facebook.com/ovojedobrahrana/" class="facebook_follow" target="_blank"><span class="text-hide">Facebook</span></a>
-<a class="instagram_follow" href="https://www.instagram.com/dobra_hrana/" target="_blank"><span class="text-hide">Instagram</span></a>
-</li>
-</ul>
-</div>
 <div id="searchBox">
 <form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
 <div class="form-group">
@@ -1100,6 +1134,50 @@ Ajvar
 <button type="submit">Submit</button>
 </div>
 </form>
+</div>
+<div class="subLevelNavbar ">
+<ul class="breadcrumb">
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
+</li>
+<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
+</ul>
+<ul class=" sub nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
 </div>
 </nav>
 </div>
@@ -1136,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-DANAS KUHAM
+PRIJELOMNI TRENUTAK
 </p>
 <h1
 class="title">
-U JEDNOM LONCU: Ono kad ti se jede nešto na žlicu, a nemaš ideja! E pa ovdje ih je sedam!
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1148,6 +1226,8 @@ U JEDNOM LONCU: Ono kad ti se jede nešto na žlicu, a nemaš ideja! E pa ovdje ih 
 <p
 class="authors">
 <ul>
+<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a>,</li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1155,44 +1235,47 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 10:44
+08.05.2018. u 19:11
 </p>
 </li>
 </ul>
 </div>
-<section class="lead_image ">
-<section class="ledo media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/dobrahrana/dh-specijali/ledo/istock_98066129_xlarge.jpg/4624520" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/dobrahrana/dh-specijali/ledo/istock_98066129_xlarge.jpg/4624520/ALTERNATES/LANDSCAPE_380/iStock_98066129_XLARGE.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/dobrahrana/dh-specijali/ledo/istock_98066129_xlarge.jpg/4624520/BINARY/thumbnail/iStock_98066129_XLARGE.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Homemade chorba soup with lamb meat on bone, potato, carrots, bay leaf and dried apricots served with basil and tomatoes overhead view"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Getty Images/iStockphoto
-</span>
-</div>
-</div>
-</div>
-</section>
-</section>
 </div>
 </div>
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
+<section class="lead_image ">
+<section class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rts1qggzjpg/7334349" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/rts1qggzjpg/7334349/ALTERNATES/LANDSCAPE_380/RTS1QGGZ.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/rts1qggzjpg/7334349/BINARY/thumbnail/RTS1QGGZ.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="U.S. President Donald Trump arrives to announce his decision whether or not to withdraw from the JCPOA Iran nuclear agreement in the Diplomatic Room of the White House in Washington, U.S., May 8, 2018. REUTERS/Jonathan Ernst - HP1EE581EPKST"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS/Jonathan Ernst
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Donald Trump</h4>
+</div>
+</div>
+</section>
+</section>
 <div class=" ">
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p><strong>Mi volimo pojesti nešto na žlicu i to èesto. Igramo se razlièitim okusima i kombinacijama kojih je bar u ovom sluèaju - bezbroj! Mi vam donosimo sedam njih koji mogu odlièno funkcionirati kao ruèak, a neki i kao veèera! Naši favoriti? definitivno meksièko varivo s meksièkim okruglicama i pileæi osso bucco!</strong></p>
+<p> </p>
 </p>
 </section>
 <section>
@@ -1217,198 +1300,32 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7284358"
+<div id="content-body-6263871-7333917"
 >
-<h3><a href="https://www.jutarnji.hr/dobrahrana/recepti/meksicko-varivo-s-mini-mesnim-okruglicama/7284259/">Meksièko varivo s meksièkim okruglicama</a></h3><p>
-<section>
-<article class="price media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/dobrahrana/price/petric-varivo8-310117jpg/5598575" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/dobrahrana/price/petric-varivo8-310117jpg/5598575/ALTERNATES/FREE_380/petric-varivo8-310117.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/dobrahrana/price/petric-varivo8-310117jpg/5598575/BINARY/thumbnail/petric-varivo8-310117.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 310117.
-Nastasja Petric napravila je zdrava zimska variva za djecu.
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Berislava Picek / Hanza Media
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><h3><a href="https://www.jutarnji.hr/dobrahrana/recepti/corbica-s-tjesteninom-i-povrcem/3581822/">Æorbica s tjesteninom i povræem</a></h3><p>
-<section>
-<article class="dh_image_archive media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/migration_catalog/Dobra_hrana_Image_Archive/corbica-s-tjesteninom-i-povrcem/3532904" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/migration_catalog/Dobra_hrana_Image_Archive/corbica-s-tjesteninom-i-povrcem/3532904/ALTERNATES/FREE_380/%C4%86orbica%20s%20tjesteninom%20i%20povr%C4%87em"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/migration_catalog/Dobra_hrana_Image_Archive/corbica-s-tjesteninom-i-povrcem/3532904/BINARY/thumbnail/%C4%86orbica%20s%20tjesteninom%20i%20povr%C4%87em"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Æorbica s tjesteninom i povræem"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><h3><a href="https://www.jutarnji.hr/dobrahrana/recepti/zelena-juha-s-posiranim-jajetom/3551114/">Zelena juha s poširanim jajetom</a></h3><h3>
-<section>
-<article class="dh_image_archive media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/migration_catalog/Dobra_hrana_Image_Archive/zelena-juha-s-posiranim-jajetom/3532922" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/migration_catalog/Dobra_hrana_Image_Archive/zelena-juha-s-posiranim-jajetom/3532922/ALTERNATES/FREE_380/Zelena%20juha%20s%20po%C5%A1iranim%20jajetom"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/migration_catalog/Dobra_hrana_Image_Archive/zelena-juha-s-posiranim-jajetom/3532922/BINARY/thumbnail/Zelena%20juha%20s%20po%C5%A1iranim%20jajetom"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zelena juha s poširanim jajetom"
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</h3><p>*Ne znate kako poširati jaje? Bacite oko na naš <a href="https://www.jutarnji.hr/dobrahrana/dobrisavjeti/jedini-trik-koji-ce-vam-trebati-pri-posiranju-jaja/4073076/">trik</a>!</p><h3><a href="https://www.jutarnji.hr/dobrahrana/recepti/piletina-zabavnijih-okusa-pileci-osso-bucco/7095243/">Pileæi osso bucco</a></h3><h3>
+<p><strong>&gt;&gt;&gt; NOVO 20:27</strong> Amerièki predsjednik <strong>Donald Trump</strong> u obraæanju naciji iz Bijele kuæe potvrdio je da SAD izlaze iz nuklearnog sporazuma s Iranom te je odmah nakon govora potpisao memorandum kojim vraæa sankcije režimu u Teheranu.</p><p>- Iran je vodeæi globalni sponzor terorizma, oni proizvode projektile, podržavaju teroriste i milicije ukljuèujuæi Hezbolah, Hamas, talibane i al-Qaidu. Tijekom godina, Iran i njegovi jataci bomnbardirali su amerièke ambasade, ubili stotine naših vojnika, oteli, zatvorili i zlostavljali naše graðane, otimali su bogatstvo vlastitom narodu u tu svrhu, a povrh svega su pokušali proizvesti nuklearno oružje, rekao je na poèetku Trump.</p><p>Podsjetio je na sporazum koji je 2015. potpisala prethodna administracija na èelu s predsjednikom Barackom Obamom.</p><p>- U teoriji, sporazum je trebao zaštititi SAD i saveznike od ludosti kao što je iranska nuklearna bomba, rekao je Trump dodajuæi kako je sporazum zapravo Iranu dao više vremena za proizvodnju atomske bombe s obzirom da je osiguravao opstanak teokratskog režima u Teheranu, kojemu su ukinute sankcije, ali 'bez obveze da smanje svoje druge maligne aktivnosti'.</p><p>- Ovaj katastrofalan sporazum teroristièkom režimu je predao milijarde dolara, nešto i u kešu. Sramim se tog sporazuma kao graðanin SAD-a i trebaju ga se sramiti svi graðani SAD-a, rekao je amerièki predsjednik.</p><p>- U samoj srži sporazuma je velika fikcija da ubojiti iranski režim želi samo nuklearni program u mirne svrhe, ali danas imamo definitivan dokaz da je to bila laž. Prošli je tjedan Izrael pokazao da Iran laže i da ima povijest pokušaja proizvodnje nuklearnog oružja. Ovaj sporazum nikada nije smio biti potpisan, nije donio mir i nikada neæe donijeti mir, izjavio je Trump upozoravajuæi da su Iranci nakon ukidanja sankcija krenuli s proizvodnjom projektila.</p><p>- Dozvolim li da ovaj sporazum ostane na snazi, krenut æe regionalna utrka u naoružanju, rekao je i ustvrdio da u ugovor nisu ugraðeni nikakvi mehanizmi za otkrivanje moguæe iranske prevare kao i za kažnjavanje takvog moguæeg postupanja.</p><p>- Sporazum ne ogranièava iranske destabilizirajuæe aktivnosti u regiji ni njegovu podršku terorizmu, dapaèe, njihove su krvave ambicije samo porasle, kazao je.</p><p>Podsjeæajuæi na višemjeseène konzultacije koje je njegova administracija imala sa svojim saveznicima, rekao je da mu je nakon svega postalo jasno da ovim sporazumom ni njegovim nadogradnjama nije moguæe osujetiti iranske nuklearne ambicije.</p><p>- Struktura ovog sporazuma je trula i defektna u svojoj srži, izjavio je i konaèno objavio: - Amerika æe se povuæi iz iranskog sporazuma, a za nekoliko trenutaka potpisat æu memorandum o vraæanju najstrožih sankcija iranskom režimu. Svaka nacija koja im pomogne u nuklearnim ambicijama, takoðer æe se naæi pod sankcijama. Amerika neæe biti talac nuklearne ucjene, neæemo dopustiti da nam prijete uništenjem i da im damo pristup najsmrtonosnijem oružju.</p><p>Zatim je objavio da je u trenutku dok se on obraæa naciji amerièki državni tajnik Mike Pompeo na putu za Sjevernu Koreju kako bi s režimom Kim Jong-una utanaèio detalje njegova sastanka s njim.</p><p>- Nadam se da æe se dogovor sa Sjevernom Korejom postiæi i da æemo uz pomoæ Kine, Južne Koreje i Japana postiæi sigurnu buduænost, rekao je.</p><p>Zatim je najavio da æe sa saveznicima nastaviti raditi na sveobuhvatnom rješenju za obuzdavanje iranske nuklearne prijetnje.</p><p>- U meðuvremenu, moæne sankcije protiv režima stupaju na snagu, a nastave li svojim putem, suoèit æe se s najžešæim posljedicama ikada, zaprijetio je navodeæi da Amerika stoji uz iranski narod za koji tvrdi da je talac diktatorskog režima.</p><p>- Iranski lideri æe, priordno, reæi da odbijaju pregovarati, i to je ok, ja bih vjerojatno rekao isto na njihovom mjestu, ali èinjenica je da æe oni prije ili poslije htjeti postiæi novi i trajan sporazum, a kada budu spremni za razgovore, spreman sam i ja. Velike se stvari mogu dogoditi za Iran i za mir i stabilnost koji svi želimo na Bliskom istoku. Dosta je bilo patnje, neka se prekine odmah, zakljuèio je Trump obraæanje nakon kojega je potpisao memorandum o uvoðenju sankcija.</p><h5 align="center"><strong>-----------------------------</strong></h5><p>Amerièki predsjednik <strong>Donald Trump </strong>rekao je u utorak francuskom predsjedniku <strong>Emanuelu Macronu </strong>da æe se SAD povuæi iz iranskog nuklearnog sporazuma, objavio je New York Times. Trump je takoðer rekao da æe Teheranu ponovno uvesti sve sankcije koje je Washington zamrznuo prema sporazumu iz 2015. i nametnuti mu dodatne gospodarske mjere, dodaje list.</p><p>Dvojica predsjednika telefonski su razgovarala u utorak poslijepodne, nekoliko sati uoèi objave Trumpove odluke o sudbini sporazuma.</p><p>Iz Bijele kuæe su demantirali da je Trump ovo rekao Macronu, a s demantijem se javio i Macronov ured, u kojem tvrde da Trump francuskom kolegi nije dao nikakve naznake o tome što planira reæi u utorak naveèer u vezi povlaèenja iz nuklearnog sporazuma s Iranom.</p><p>Ipak, u meðuvremenu je agencija Associated Press, pozivajuæi se na neimenovane izvore, takoðer objavila da æe Trump Ameriku povuæi iz nuklearnog sporazuma, a i gotovo svi drugi vodeæi amerièki mediji javljaju da su ljudi iz Trumpove administracije vijest o povlaèenju iz sporazuma priopæili kljuènim dužnosnicima u Kongresu.</p><h5><strong>Odluka u 20 sati</strong></h5><p>Trump treba svoju konaènu odluku o povlaèenju ili ostanku u nuklearnom sporazumu s Iranom objaviti iza 20 sati po srednjoeuropskom vremenu kada æe se znati hoæe li njegove stalne kritike ostati na rijeèima ili æe dovesti do zaokreta u amerièkoj diplomaciji i to u jednom od najvažnijih pitanja vanjske politike u njegovom mandatu.</p><p align="center"><strong><em>Ovdje pratite prijenos uživo iz Bijele kuæe:</em></strong></p><p>
 <section>
 <article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/jela_piletina9-270218jpg/7095288" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/article7334229.ece" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/jela_piletina9-270218jpg/7095288/ALTERNATES/FREE_380/jela_piletina9-270218.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/jela_piletina9-270218jpg/7095288/BINARY/thumbnail/jela_piletina9-270218.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 270218. Jela od piletine.
-Foto: Neja Markicevic / CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Neja Markièeviæ / HANZA MEDIA
-</span>
-</div>
+<div class="youtubeWrapper "
+style="width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/05L-BsTVINU"
+frameborder="0"
+width="100%"
+allowfullscreen=""></iframe>
 </div>
 </div>
 </div>
 </article>
 </section>
-</h3><h3><a href="https://www.jutarnji.hr/dobrahrana/recepti/bijelo-varivo-od-slanutka-i-batata/7284274/">Bijelo varivo od slanutka i batata</a></h3><h3>
-<section>
-<article class="price media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/dobrahrana/price/petric-varivo9-310117jpg/5598579" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/dobrahrana/price/petric-varivo9-310117jpg/5598579/ALTERNATES/FREE_380/petric-varivo9-310117.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/dobrahrana/price/petric-varivo9-310117jpg/5598579/BINARY/thumbnail/petric-varivo9-310117.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 310117.
-Nastasja Petric napravila je zdrava zimska variva za djecu.
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Berislava Picek / Hanza Media
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </h3><h3><a href="https://www.jutarnji.hr/dobrahrana/recepti/cuspajz-s-mladim-povrcem-i-prosom/3553682/">Æušpajz s mladim povræem i prosom</a></h3><h3>
-<section>
-<article class="dh_image_archive media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/migration_catalog/Dobra_hrana_Image_Archive/juhe-6/3546215" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/migration_catalog/Dobra_hrana_Image_Archive/juhe-6/3546215/ALTERNATES/FREE_380/juhe%206"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/migration_catalog/Dobra_hrana_Image_Archive/juhe-6/3546215/BINARY/thumbnail/juhe%206"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</h3><h3><a href="https://www.jutarnji.hr/dobrahrana/recepti/ossobucco-varivo-s-povrcem/7284277/">Ossobucco varivo s povræem</a></h3><h3>
-<section>
-<article class="price media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/dobrahrana/price/petric-varivo10-310117jpg/5598567" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/dobrahrana/price/petric-varivo10-310117jpg/5598567/ALTERNATES/FREE_380/petric-varivo10-310117.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/dobrahrana/price/petric-varivo10-310117jpg/5598567/BINARY/thumbnail/petric-varivo10-310117.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Zagreb, 310117.
-Nastasja Petric napravila je zdrava zimska variva za djecu.
-Foto: Berislava Picek/ CROPIX"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Berislava Picek / Hanza Media
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </h3>
+ </p><p>Trump ima službeno rok do subote da odluèi hoæe li ponovno uvesti amerièke sankcije Iranu, ali je odluèio požuriti nekoliko dana.</p><p>U sijeènju, kada se posljednji put odluèivalo o tome, Trump nije obnovio sankcije Iranu, ali je upozorio da je to posljednji put ako se ne ispravi nekoliko &quot;katastrofalnih nedostataka&quot; iz sporazuma.</p><p>Sporazum izmeðu Irana i šest sila (Sjedinjene Države, Francuska, Kina, Njemaèka, Rusija i Velika Britanija) ogranièava iranski program obogaæivanja uranija kako se ne bi mogao upotrijebiti za razvoj atomskog oružja, a zauzvrat su Iranu ublažene meðunarodne sankcije, kojih je veæina ukinuta u sijeènju 2016., piše dpa.</p><p>Europske zemlje predane su oèuvanju sporazuma, ali u želji da privole SAD da ostane u njemu, spremne su razgovarati o proširenju ugovora novim obvezama.</p><p>Rijeè je o èetiri prijedloga: produljiti nadzor iranskih nuklearnih aktivnosti nakon 2025., ukljuèiti u sporazum i nadzor iranskog programa balistièkih projektila, te ogranièiti iransko vojno sudjelovanje u regiji, u ratu u Siriji i Jemenu.</p><p>Otkako je Trump postavio ultimatum u sijeènju, amerièki i europski pregovaraèi sastali su se više puta kako bi probali naæi moguæe kompromise za ostanak sporazuma.</p><h5><strong>Iran spreman za najgori scenarij</strong></h5><p>Visoki iranski dužnosnici rekli su u utorak da Teheran neæe ostati pasivan ako Trump odluèi napustiti sporazum i istaknuli da su spremni za najgori scenarij.</p><p>&quot;Neæe biti u amerièkom interesu ako JCPOA (sporazum s Iranom) propadne zbog njihove ofenzive... Ako Sjedinjene Države zapoènu sukob s Iranom neæemo ostati pasivni&quot;, rekao je <strong>Ali Šamhani</strong>, tajnik vrhovnog vijeæa za nacionalnu sigurnost.</p><p>Zamjenik zapovjednika iranske Revolucionarne garde <strong>Hossein Salami</strong> istaknuo je kako se Iran ne boji amerièkih sankcija ili napada.</p><p>&quot;Naši neprijatelji, ukljuèujuæi Ameriku, cionistièki režim i njihove saveznike u regiji, trebaju znati da je Iran spreman za najgori scenarij i prijetnje&quot;, prenosi Fars Salamijevu izjavu.</p><h5><strong>Europske sile za oèuvanje sporazuma</strong></h5><p>Francuski, britanski, njemaèki i dužnosnici Europske unije i Irana u utorak su raspravljali o sporazumu u Bruxellesu, otkrio je jedan njemaèki dužnosnik.</p><p>&quot;U bliskom smo kontaktu tjednima, posebice s E3 partnerima (Francuska i Velika Britanija), od radne do ministarske razine&quot;.</p><p>&quot;U narednim danima bit æe važno i nastaviti raspravljati sa svim stranama kako bi se izbjegla nekontrolirana eskalacija&quot;, dodao je Nijemac.</p><p>Trump je u utorak poslijepodne o sporazumu telefonski razgovarao s francuskim predsjednikom Emmanuelom Macronom, a istaknuti britanski diplomat koji je htio ostati anoniman rekao je da je London izrazito pesimistièan uoèi objave odluke amerièkog predsjednika.</p><p>&quot;Nažalost smo duboko pesimistièni uoèi Trumpove objave kasnije tijekom dana. No, morat æemo èekati i vidjeti što æe reæi veèeras&quot;.</p><p>&quot;Naš cilj ostaje zadržavanje i održavanje JCPOA-a. Morat æemo prièekati kako bi shvatili koji je plan SAD-a oko našeg zajednièkog cilja prevencije da Iran dobije nuklearno oružje i reakcije na njihovo ponašanje u regiji&quot;.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7284358 p").filter(function () {
+$("#content-body-6263871-7333917 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1417,16 +1334,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7284358").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7333917").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7284358").children().slice(max).remove();
+$("#content-body-6263871-7333917").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7284358").children().get(0);
+var firstChild = $("#content-body-6263871-7333917").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1461,6 +1378,24 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/Emmanuel_Macron" class ="label label-default" >
+Emmanuel Macron
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/iranski_sporazum" class ="label label-default" >
+iranski sporazum
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Donald_Trump" class ="label label-default" >
+Donald Trump
+</a>
+</li>
+</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1468,6 +1403,21 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
+<article class="svijet media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1475,6 +1425,136 @@ Vezane vijesti
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
+<div class="row upscore-magicflow displaynone-upscore-hack " >
+<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
+<section class="upscore_promo1_4 ">
+<div class="row">
+<div class="col-xs-12" data-widget-position="0">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="1">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="2">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="3">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</section>
+</div>
 <div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
 <div id="div-gpt-ad-1459756830165-0">
 <script type='text/javascript'>
@@ -1547,7 +1627,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7284358" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7333917" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1570,28 +1650,40 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </script>
 </div>
 </div>
+<div class="jl-sticky-banner" style="margin-bottom:20px;">
+<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
+<script type="text/javascript">
+Criteo.events.push(function() {
+Criteo.DisplayAcceptableAdIfAdblocked({
+"zoneid": 1197956,
+"containerid": "crt-47675ba0",
+"overrideZoneFloor": false
+});
+});
+</script>
 </div>
 </div>
-<div class="row " >
+</div>
+<div class="row hidden-xs " >
 <div class="col-sm-12 ">
 <div class="emp_block article_most_read sidebar ">
 <h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="price media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/dobrahrana/price/stvaranje-nove-turisticke-adrese-prije-tri-godine-malo-tko-je-imao-zelju-posjetiti-cakovec-a-danas-se-vecere-rasprodaju-u-par-sati/7277025/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/dobrahrana/price/stvaranje-nove-turisticke-adrese-prije-tri-godine-malo-tko-je-imao-zelju-posjetiti-cakovec-a-danas-se-vecere-rasprodaju-u-par-sati/7277025/">
-GASTRONOMSKO BUÐENJE
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+SAMO NEK' SE OKREÆE...
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/dobrahrana/price/stvaranje-nove-turisticke-adrese-prije-tri-godine-malo-tko-je-imao-zelju-posjetiti-cakovec-a-danas-se-vecere-rasprodaju-u-par-sati/7277025/">
-STVARANJE NOVE TURISTIÈKE ADRESE: Prije tri godine malo tko je imao želju posjetiti Èakovec, a danas se veèere rasprodaju u par sati!
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
 </a>
 </h4>
 </div>
@@ -1601,19 +1693,19 @@ STVARANJE NOVE TURISTIÈKE ADRESE: Prije tri godine malo tko je imao želju posjet
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="price media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/dobrahrana/price/vozac-motokrosa-u-poljoprivredi-moja-staza-sada-je-pasnjak-za-skotsko-govedo/7280619/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/dobrahrana/price/vozac-motokrosa-u-poljoprivredi-moja-staza-sada-je-pasnjak-za-skotsko-govedo/7280619/">
-MLADI POLJOPRIVREDNICI
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+NE CVATU IM RUŽE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/dobrahrana/price/vozac-motokrosa-u-poljoprivredi-moja-staza-sada-je-pasnjak-za-skotsko-govedo/7280619/">
-VOZAÈ MOTOKROSA U POLJOPRIVREDI: Moja staza sada je pašnjak za škotsko govedo!
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+RAZOTKRIVENA TUŽNA SVAKODNEVNICA PRVE DAME AMERIKE Objavljeni nepoznati detalji iz života Melanije Trump: 'Cijela situacija je neugodna'
 </a>
 </h4>
 </div>
@@ -1623,19 +1715,19 @@ VOZAÈ MOTOKROSA U POLJOPRIVREDI: Moja staza sada je pašnjak za škotsko govedo!
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="price media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/dobrahrana/price/yum-pastry-shop-sibenska-kapa-kao-kolac-od-cokoladnog-moussea-i-kandirane-narance-u-novoj-slasticarnici/7275201/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/dobrahrana/price/yum-pastry-shop-sibenska-kapa-kao-kolac-od-cokoladnog-moussea-i-kandirane-narance-u-novoj-slasticarnici/7275201/">
-NOVO MJESTO
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+GLOBALNA NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/dobrahrana/price/yum-pastry-shop-sibenska-kapa-kao-kolac-od-cokoladnog-moussea-i-kandirane-narance-u-novoj-slasticarnici/7275201/">
-YUM PASTRY SHOP: Šibenska kapa kao kolaè od èokoladnog moussea i kandirane naranèe u novoj slastièarnici!
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
 </a>
 </h4>
 </div>
@@ -1645,19 +1737,19 @@ YUM PASTRY SHOP: Šibenska kapa kao kolaè od èokoladnog moussea i kandirane naran
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="price media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/dobrahrana/price/jednostavni-a-prefini-recepti-dobre-hrane-sezona-kratkih-rukava-i-ruckova-na-gradskom-balkonu-otvorena/7275534/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/dobrahrana/price/jednostavni-a-prefini-recepti-dobre-hrane-sezona-kratkih-rukava-i-ruckova-na-gradskom-balkonu-otvorena/7275534/">
-ISPROBAJTE NA SLJEDEÆEM DRUŽENJU
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+PRIJELOMNI TRENUTAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/dobrahrana/price/jednostavni-a-prefini-recepti-dobre-hrane-sezona-kratkih-rukava-i-ruckova-na-gradskom-balkonu-otvorena/7275534/">
-JEDNOSTAVNI, A PREFINI RECEPTI DOBRE HRANE: Sezona kratkih rukava i ruèkova na gradskom balkonu - otvorena!
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </a>
 </h4>
 </div>
@@ -1670,23 +1762,64 @@ JEDNOSTAVNI, A PREFINI RECEPTI DOBRE HRANE: Sezona kratkih rukava i ruèkova na g
 </div>
 </div>
 <div class="row " >
-<div class="col-sm-12 ">
-<div class="row titleRow">
-<div class="col-sm-12">
-<h3 class="section_title_alt izdvojeno_alt"><div><span>Iz drugih medija</span></div></h3>
+<div class="col-sm-4 openInNewTab" >
+<section>
+<article class="banner-testing-page media none">
+<div class="teaser "
+data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="http://www.gloria.hr/">
+<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
 </div>
 </div>
+</article>
+</section>
+<article class="fokus-zvjezdane-staze media c3 none">
+<div class="teaser link-block"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+</a>
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title text-small">
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
+</a>
+</h4>
 </div>
 </div>
-<div class="row " >
-<div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/slobodna/?section=gastro" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+</article>
 </div>
-<div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/punkufer/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+<div class="col-sm-4 openInNewTab" >
+<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
 </div>
-<div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+<div class="col-sm-4 openInNewTab" >
+<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
 </div>
 </div>
 <div class="row dfp-no-padding " >
@@ -1739,7 +1872,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1762,6 +1895,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2051,11 +2189,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2103,14 +2236,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2154,12 +2287,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=76&contextPath=1-74-76-&pubId=1&cat=&meta=read-story&objId=7284358&type=article&title=U+JEDNOM+LONCU%3a+Ono+kad+ti+se+jede+ne%c5%a1to+na+%c5%belicu%2c+a+nema%c5%a1+ideja!+E+pa+ovdje+ih+je+sedam!&url=https%3a%2f%2fwww.jutarnji.hr%2fdobrahrana%2fprice%2fu-jednom-loncu-ono-kad-ti-se-jede-nesto-na-zlicu-a-nemas-ideja-e-pa-ovdje-ih-je-sedam%2f7284358%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7333917&type=article&title=TRUMP+U+OBRA%c4%86ANJU+NACIJI+POTVRDIO%3a+AMERIKA+SE+POVLA%c4%8cI+IZ+NUKLEARNOG+SPORAZUMA+S+IRANOM+%26%23039%3bTaj+sporazum+je+katastrofalan+i+defektan+u+svojoj+sr%c5%bei%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ftrump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi%2f7333917%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=76&amp;contextPath=1-74-76-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7284358&amp;type=article&amp;title=U+JEDNOM+LONCU%3a+Ono+kad+ti+se+jede+ne%c5%a1to+na+%c5%belicu%2c+a+nema%c5%a1+ideja!+E+pa+ovdje+ih+je+sedam!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdobrahrana%2fprice%2fu-jednom-loncu-ono-kad-ti-se-jede-nesto-na-zlicu-a-nemas-ideja-e-pa-ovdje-ih-je-sedam%2f7284358%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7333917&amp;type=article&amp;title=TRUMP+U+OBRA%c4%86ANJU+NACIJI+POTVRDIO%3a+AMERIKA+SE+POVLA%c4%8cI+IZ+NUKLEARNOG+SPORAZUMA+S+IRANOM+%26%23039%3bTaj+sporazum+je+katastrofalan+i+defektan+u+svojoj+sr%c5%bei%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ftrump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi%2f7333917%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=262665481&title=Donald+Trump&url=tag%3ajltags%40eph.hr%2c2016%3aDonald_Trump&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=262665481&amp;title=Donald+Trump&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDonald_Trump&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1064956667&title=iranski+sporazum&url=tag%3ajltags%40eph.hr%2c2016%3airanski_sporazum&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1064956667&amp;title=iranski+sporazum&amp;url=tag%3ajltags%40eph.hr%2c2016%3airanski_sporazum&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=870510471&title=Emmanuel+Macron&url=tag%3ajltags%40eph.hr%2c2016%3aEmmanuel_Macron&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=870510471&amp;title=Emmanuel+Macron&amp;url=tag%3ajltags%40eph.hr%2c2016%3aEmmanuel_Macron&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2212,7 +2378,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/dobrahrana/price/u-jednom-loncu-ono-kad-ti-se-jede-nesto-na-zlicu-a-nemas-ideja-e-pa-ovdje-ih-je-sedam/7284358/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2222,14 +2388,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/dobrahrana/price/u-jednom-loncu-ono-kad-ti-se-jede-nesto-na-zlicu-a-nemas-ideja-e-pa-ovdje-ih-je-sedam/7284358/",
-postId : "7284358",
+url : "https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/",
+postId : "7333917",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "U JEDNOM LONCU: Ono kad ti se jede nešto na žlicu, a nemaš ideja! E pa ovdje ih je sedam!",
-pubdate : "2018-04-25 10:44",
-authors : "Vana Babiæ",
-sections : "Front Page, Dobra hrana, Prièe",
-tags : "",
+title : "TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'",
+pubdate : "2018-05-08 19:11",
+authors : "Sandra Pudja",
+sections : "Front Page, Svijet",
+tags : "Donald Trump, iranski sporazum, Emmanuel Macron",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Mad Head Games, majstori igara potrage za skrivenim predmetima (eng. hidden object puzzle adventure, skraæeno - HOPA) iz Srbije, sklopili su dogovor s Wargaming Allianceom, podružnicom bjelorusko-ciparskog studija za izradu video igara Wargaming, autora poznate video igre World of Tanks te æe zajednièkim snagama raditi na novoj, za sada neimenovanoj igri." />
-<meta name="keywords" content="Video igre, Gaming" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="ZAGREB - Ministarstvo kulture u suradnji s Ministarstvom gospodarstva, poduzetništva i obrta objavilo je u ponedjeljak javni poziv za poticanje poduzetništva u kulturnim i kreativnim industrijama za 2018. u èetiri kategorije i u ukupnom iznosu od osam milijuna kuna, a natjeèaj æe biti otvoren 30 dana." />
+<meta name="keywords" content="poticaji, Ministarstvo kulture, Poduzetništvo" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>RENOMIRANA REGIONALNA TVRTKA ZA IZRADU VIDEO IGARA KREÆE U AMBICIOZAN NOVI PROJEKT Mad Head Games se vraæa korijenima, radit æe ‘hardcore’ naslov - Jutarnji List</title>
+<title>POTICANJE PODUZETNIŠTVA U KULTURNIM I KREATIVNIM INDUSTRIJAMA Bespovratnih 8 milijuna kuna za 2018. - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Gaming";
-var dfpCategoryParent = "Kultura";
-var dfpRos = "kultura-ros";
-var dfpArticle = "7283845";
-var dfpArticleKeyword = "Video igre";
+var dfpCategory = "Hrvatska";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7330734";
+var dfpArticleKeyword = "poticaji";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/kultura/gaming/renomirana-regionalna-tvrtka-za-izradu-video-igara-krece-u-ambiciozan-novi-projekt-mad-head-games-se-vraca-korijenima-radit-ce-hardcore-naslov/7283845/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/kultura/gaming/renomirana-regionalna-tvrtka-za-izradu-video-igara-krece-u-ambiciozan-novi-projekt-mad-head-games-se-vraca-korijenima-radit-ce-hardcore-naslov/7283845/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/poticanje-poduzetnistva-u-kulturnim-i-kreativnim-industrijama-bespovratnih-8-milijuna-kuna-za-2018/7330734/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/poticanje-poduzetnistva-u-kulturnim-i-kreativnim-industrijama-bespovratnih-8-milijuna-kuna-za-2018/7330734/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/kultura/gaming/3y9a6960jpg/7283839/ALTERNATES/LANDSCAPE_1180/3Y9A6960.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/noc_knjige7-230418jpg/7330767/ALTERNATES/LANDSCAPE_1180/noc_knjige7-230418.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/kultura/gaming/3y9a6960jpg/7283839/ALTERNATES/LANDSCAPE_1180/3Y9A6960.jpg">
-<meta property="og:title" content="RENOMIRANA REGIONALNA TVRTKA ZA IZRADU VIDEO IGARA KREÆE U AMBICIOZAN NOVI PROJEKT Mad Head Games se vraæa korijenima, radit æe ‘hardcore’ naslov" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/noc_knjige7-230418jpg/7330767/ALTERNATES/LANDSCAPE_1180/noc_knjige7-230418.jpg">
+<meta property="og:title" content="POTICANJE PODUZETNIŠTVA U KULTURNIM I KREATIVNIM INDUSTRIJAMA Bespovratnih 8 milijuna kuna za 2018." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/kultura/gaming/renomirana-regionalna-tvrtka-za-izradu-video-igara-krece-u-ambiciozan-novi-projekt-mad-head-games-se-vraca-korijenima-radit-ce-hardcore-naslov/7283845/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/poticanje-poduzetnistva-u-kulturnim-i-kreativnim-industrijama-bespovratnih-8-milijuna-kuna-za-2018/7330734/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Mad Head Games, majstori igara potrage za skrivenim predmetima (eng. hidden object puzzle adventure, skraæeno - HOPA) iz Srbije, sklopili su dogovor s Wargaming Allianceom, podružnicom bjelorusko-ciparskog studija za izradu video igara Wargaming, autora poznate video igre World of Tanks te æe zajednièkim snagama raditi na novoj, za sada neimenovanoj igri." />
+<meta property="og:description" content="ZAGREB - Ministarstvo kulture u suradnji s Ministarstvom gospodarstva, poduzetništva i obrta objavilo je u ponedjeljak javni poziv za poticanje poduzetništva u kulturnim i kreativnim industrijama za 2018. u èetiri kategorije i u ukupnom iznosu od osam milijuna kuna, a natjeèaj æe biti otvoren 30 dana." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Damjan Rakniæ">
-<meta name="twitter:title" content="RENOMIRANA REGIONALNA TVRTKA ZA IZRADU VIDEO IGARA KREÆE U AMBICIOZAN NOVI PROJEKT Mad Head Games se vraæa korijenima, radit æe ‘hardcore’ naslov">
-<meta name="twitter:description" content="Mad Head Games, majstori igara potrage za skrivenim predmetima (eng. hidden object puzzle adventure, skraæeno - HOPA) iz Srbije, sklopili su dogovor s Wargaming Allianceom, podružnicom bjelorusko-ciparskog studija za izradu video igara Wargaming, autora poznate video igre World of Tanks te æe zajednièkim snagama raditi na novoj, za sada neimenovanoj igri.">
+<meta name="twitter:creator" content=" Hina">
+<meta name="twitter:title" content="POTICANJE PODUZETNIŠTVA U KULTURNIM I KREATIVNIM INDUSTRIJAMA Bespovratnih 8 milijuna kuna za 2018.">
+<meta name="twitter:description" content="ZAGREB - Ministarstvo kulture u suradnji s Ministarstvom gospodarstva, poduzetništva i obrta objavilo je u ponedjeljak javni poziv za poticanje poduzetništva u kulturnim i kreativnim industrijama za 2018. u èetiri kategorije i u ukupnom iznosu od osam milijuna kuna, a natjeèaj æe biti otvoren 30 dana.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2438';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Gaming, Kultura, Front Page",
-pubdate: "2018-04-20T14:00+02:00",
-author: "Damjan Rakniæ",
+data: { section: "Hrvatska, Vijesti, Front Page",
+pubdate: "2018-05-08T10:07+02:00",
+author: "Hina",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="kultura story">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -793,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -813,7 +813,7 @@ Novac.hr
 Life
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/kultura/">
 Kultura
 </a>
@@ -858,7 +858,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1030,7 +1035,7 @@ Arhitektura
 Kazalište
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/kultura/gaming/">
 Gaming
 </a>
@@ -1132,44 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/kultura/">Kultura </a>
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/kultura/gaming/">Gaming </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/art/">
-Art
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
-Film i televizija
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
-Književnost
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/glazba/">
-Glazba
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/arhitektura/">
-Arhitektura
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/kazaliste/">
-Kazalište
-</a>
-</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/kultura/gaming/">
-Gaming
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1209,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-REBOOT DEVELOP 2018
+ÈETIRI PODRUÈJA
 </p>
 <h1
 class="title">
-RENOMIRANA REGIONALNA TVRTKA ZA IZRADU VIDEO IGARA KREÆE U AMBICIOZAN NOVI PROJEKT Mad Head Games se vraæa korijenima, radit æe ‘hardcore’ naslov
+POTICANJE PODUZETNIŠTVA U KULTURNIM I KREATIVNIM INDUSTRIJAMA Bespovratnih 8 milijuna kuna za 2018.
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1221,7 +1226,7 @@ RENOMIRANA REGIONALNA TVRTKA ZA IZRADU VIDEO IGARA KREÆE U AMBICIOZAN NOVI PROJE
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/damjan-raknic">Damjan Rakniæ</a></li>
+<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
 </ul>
 </p>
 </li>
@@ -1229,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-20.04.2018. u 14:00
+08.05.2018. u 10:07
 </p>
 </li>
 </ul>
@@ -1239,28 +1244,32 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="gaming media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/3y9a6960jpg/7283839" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/noc_knjige7-230418jpg/7330767" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/kultura/gaming/3y9a6960jpg/7283839/ALTERNATES/LANDSCAPE_380/3Y9A6960.jpg"
+<img src="https://www.jutarnji.hr/incoming/noc_knjige7-230418jpg/7330767/ALTERNATES/LANDSCAPE_380/noc_knjige7-230418.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/kultura/gaming/3y9a6960jpg/7283839/BINARY/thumbnail/3Y9A6960.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/noc_knjige7-230418jpg/7330767/BINARY/thumbnail/noc_knjige7-230418.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Zagreb, 230418.
+Nacionalna i sveucilisna knjiznica.
+U povodu Medjunarodnog dana knjige i autorskih prava te Dana hrvatske knjige svecano se otvara Noc knjige, manifestacija koja proteklih sedam godina potice citanje i razgovore o vaznosti knjige u suvremenom drustvu. S temom - Buducnost knjige - ovogodisnja Noc knjige odrzava se u tristotinjak gradova i mjesta diljem Hrvatske.
+Na fotografiji: Blazenka Divjak, Nina Obuljen Korzinek.
+Foto: Davor Pongracic / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> MAD HEAD GAMES
+<span> Davor Pongraèiæ / CROPIX
 </span>
 </div>
 </div>
 <div class="picture-caption ">
-<h4>Èlanovi studija za razvoj video igara Mad Head Games</h4>
+<h4>Blaženka Divjak i Nina Obuljen Koržinek</h4>
 </div>
 </div>
 </section>
@@ -1290,14 +1299,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7283845"
+<div id="content-body-6263871-7330734"
 >
-<p>Mad Head Games, majstori igara potrage za skrivenim predmetima (eng. hidden object puzzle adventure, skraæeno - HOPA) iz Srbije, sklopili su dogovor s Wargaming Allianceom, podružnicom bjelorusko-ciparskog studija za izradu video igara Wargaming, autora poznate video igre World of Tanks te æe zajednièkim snagama raditi na novoj, za sada neimenovanoj igri.</p><p>Prema najavama iz Mad Head Gamesa i Wargaming Alliancea, radi se o ambicioznom naslovu koji æe funkcionirati po principu igre-kao-usluga (eng. Games-as-a-Service, skraæeno GaaS) i ta æe nova igra predstavljati prvi ulazak u taj tržišni dio za obje tvrtke.</p><p>Mad Head Games je u ovu poziciju došao tako što se istaknuo izmeðu više od 100 studija za razvoj video igara koji su tijekom 2017. godine svoje projekte prezentirali Wargaming Allianceu. Istovremeno, ovaj projekt predstavlja znaèajan iskorak za srpski studio jer su do sada izdali 36 HOPA igara. </p><p>“Nakon sedam godina koje smo proveli radeæi “casual” video igre (igre koje u pravilu nisu teške te ih veæina igraèa može bez veæih problema igrati, op.a.), odluèili smo se za zaokret koji æe nas vratiti našim korijenima unutar “hardcore” segmenta (hardcore igre obièno su teške i zahtijevaju znaèajan ulog u smislu vremena i igraèkog umijeæa, op.a.) i igrama koje smo igrali dok smo odrastali”, rekao je <strong>Nenad Tomiæ</strong>, direktor studija za izradu video igara Mad Head Games.</p><p>Tomiæ je pojasnio da su se odluèili za GaaS igru jer postoji inherentna nepredvidivost kod izrade i prodaje skupih igara, onih koje na hrvatskom tržištu koštaju više od 400 kuna. “Nema loše dizajnirane igre koja se u svojoj osnovnoj varijanti ne naplaæuje (eng. free-to-play, op.a.). Kasnije, kada igraèi doðu do elemenata koji se naplaæuju, ako taj segment nije dobar, igraèi neæe htjeti platiti nešto što nije dobro i igra æe neminovno propasti”, pojasnio je Tomiæ.</p><p>“Mi na naplaæivanje sadržaja gledamo na sljedeæi naèin. Novac kod nas definira kojim æete putem koraèati kroz igru. Recimo, postoje dva igraèa - osoba s puno novca i malo vremena te osoba s malo novca i puno vremena. Osoba koja želi igrati našu igru, a nema vremena, mi mu možemo omoguæiti da smanji svoj vremenski ulog, ali ne i svoje uživanje. Osoba koja ima puno vremena, a malo novca, takoðer nam je vrijedna buduæi da æe s igrom provesti puno vremena. Takoðer, treba napomenuti, igra neæe nagraðivati trošenje novca tako da æe tim igraèima dati nezasluženu prednost.”</p><p>Wargaming Alliance stalno traži nove i inovativne proizvode iz GaaS tržišnog segmenta i njihov èelnik <strong>Jerry Prochazka</strong> nahvalio je Mad Head Games. “Mad Head Games je jedan od najstrastvenijih i najdinamiènijih studija za razvoj video igara s kojima sam radio”, rekao je Prochazka. “Drago mi je što im mogu poželjeti dobrodošlicu u Alliance.”</p><p>Wargaming Alliance svojim suradnicima nudi svoje znanje u GaaS tržišnom segmentu te æe im to znanje staviti na raspolaganje prilikom izlaska na vrlo zahtjevno tržište video igara. Mad Head Games dobit æe pomoæ s izdavanjem igara, ali i korisnièkom podrškom, marketingom i upravljanjem online zajednica.</p>
+<p><strong>ZAGREB</strong> - Ministarstvo kulture u suradnji s Ministarstvom gospodarstva, poduzetništva i obrta objavilo je u ponedjeljak javni poziv za poticanje poduzetništva u kulturnim i kreativnim industrijama za 2018. u èetiri kategorije i u ukupnom iznosu od osam milijuna kuna, a natjeèaj æe biti otvoren 30 dana.</p><p> </p><p>Bespovratna financijska sredstava za poticanje poduzetništva u kulturnim i kreativnim industrijama u ovoj godini dodijelit æe se u èetiri podruèja - Izvedbene umjetnosti, Književno-nakladnièka i knjižarska djelatnost, Vizualne umjetnosti i Audiovizualne djelatnosti (obuhvaæaju i djelatnost razvoja i proizvodnje videoigara umjetnièkoga i kulturnoga znaèaja.</p><p> </p><h3>Od 20 tisuæa kuna do 250 tisuæa kuna</h3><p> </p><p>Neposredno prije objavljivanja javnoga poziva na mrežnim stranicama Ministarstva kulture i Ministarstva gospodarstva, poduzetništva i obrta, u Ministarstvu kulture održan je briefing za novinare na kojemu su o potankostima toga javnoga poziva govorili ministrica kulture <strong>Nina Obuljen Koržinek</strong>, državni tajnik <strong>Krešimir Partl</strong> i naèelnica Sektora za razvoj kulture i umjetnosti u Upravi za razvoj kulture i umjetnosti i meðunarodnu kulturnu suradnju <strong>Nevena Tudor Perkoviæ</strong>.</p><p> </p><p>Ministrica je izrazila zadovoljstvo što je prošle godine 'oživjela' suradnja s Ministarstvom gospodarstva, poduzetništva i obrta koje je iz ovoga projekta izašlo 2012., a od 2008. do 2012. takoðer je suraðivalo s Ministarstvom kulture na tom tada pilot projektu. U vrijeme prve suradnje dvaju ministarstava javni poziv bio je 'težak' èetiri milijuna kuna, a kada je u njemu bilo samo Ministarstvo kulture za projekt su bila osigurana dva milijuna kuna.</p><p> </p><p>Ove godine æe pak, objasnila je Obuljen Koržinek, osam milijuna kuna biti rasporeðeno tako da æe u prvoj i treæoj kategoriji, odnosno u podruèjima izvedbenih i vizualnih umjetnosti za svako od tih podruèja biti osigurano milijun kuna, a za svako od ostala dva podruèja - književno-nakladnièku i knjižarsku djelatnost te audiovizualne djelatnosti koje obuhvaæaju i djelatnost razvoja i proizvodnje videoigara umjetnièkog i kulturnog znaèaja, po tri milijuna kuna.</p><p> </p><p>Iznosi potpora u podruèjima izvedbenih i vizualnih umjetnosti kretat æe se u iznosu od 20 tisuæa do sto tisuæa kuna, a u podruèjima književno-nakladnièke i knjižarske djelatnosti te audiovizualne djelatnosti koje obuhvaæaju i djelatnost razvoja i proizvodnje videoigara umjetnièkoga i kulturnoga znaèaja od 50 tisuæa kuna do 250 tisuæa kuna.   </p><p> </p><h3>Prošlogodišnja kriza nakladništva &quot;toèka preokreta&quot;</h3><p> </p><p>I dok je samo Ministarstvo kulture bilo u projektu on se ipak svo vrijeme provodio kao pilot projekt, a onda je, podsjetila je ministrica kulture, zbog krize u nakladništvu prošle godine raspisan dodatni natjeèaj u suradnji s Ministarstvom gospodarstva koji smo nazvali PUKNIK (Poduzetništvo u kulturi za nakladnike i knjižare), koji je bio puno detaljnije razraðen i napravljen je iskorak od pilot projekta prema strukturiranijem pozivu, a reakcije nakladnika i knjižara bile su jako dobre.</p><p> </p><p>To je, dodala je ministrica, možda bila i jedna od &quot;toèaka preokreta&quot;, uz još neke mjere, koja je omoguæila da se cijeli sustav ne uruši, i od tada do danas, odnosno do raspisivanja ovoga javnog poziva, anketirali smo pisanim i usmenim putem dotadašnje korisnike, posebice one angažiranije, kako bismo vidjeli možemo li na tragu tog iskoraka koji je prošle godine uèinjen za nakladnike i knjižare, pripremiti jedan bolje organiziran natjeèaj za ovu godinu.</p><p> </p><p>Dobili smo vrlo pozitivne reakcije pa smo tako, rekla je ministrica, krenuli u sustavniji natjeèaj, puno je detaljnije razraðeno i to što &quot;ciljamo&quot; s javnim pozivom, a puno toga smo nauèili i kroz Europski socijalni fond (ESF). Tako smo utvrdili pet glavnih kategorija - zapošljavanje i ukljuèivanje vanjskih suradnika u poslovne procese, otvaranje i opremanje prostora i nabava opreme, promidžba, distribucija i jaèanje poslovnih kapaciteta kroz struèno usavršavanje. Za svaku od tih djelatnosti posebno su pak, rekla je ministrica, istaknuti kriteriji.  </p><p> </p><p>Ministrica je spomenula i širi kontekst, odnosno Strategiju razvoja Hrvatske 2030 na kojoj se poèinje raditi, a trebala bi biti dovršena do sredine iduæe godine. Ta strategija, objasnila je, temelj je i za planiranje sljedeæe financijske perspektive Ministarstva kulture, odnosno da ono, kroz potpore Ministarstva gospodarstva koje su velike, može pronaæi 'nišu' kako bismo razvili ovaj projekt, a naša vizija je da ga do 2021. podignemo na tu razinu da može, na neki naèin, biti kao posebna programska linija definiran i u okviru projekata koji se dodjeljuju poduzetnicima kroz Ministarstvo gospodarstva. </p><p> </p><h3>Kreativne kompetencije kao strateške vrijednosti društva</h3><p> </p><p>Cilj javnoga poziva je potaknuti aktivnosti kako bi se razvili novi poslovni modeli koji æe biti temeljeni na prepoznavanju kreativnih kompetencija kao strateških vrijednosti društva, te potaknuti zapošljavanje unutar navedenih podruèja. Putem Javnoga poziva podržat æe se aktivnosti koje pridonose razvoju i jaèanju kapaciteta i konkurentnosti kulturnih i kreativnih industrija, a poveæavaju i njihovu vidljivost te potièu daljnje umrežavanje.</p><p> </p><p>Na javni poziv mogu se javiti trgovaèka društva i zadruge, obrti, ustanove (kojima osnivaè nije tijelo javne vlasti), umjetnièke organizacije, djelatnosti slobodnih zanimanja (ukljuèujuæi umjetnike koji obavljaju samostalnu djelatnost), novonastali pravni ili fizièki subjekti – j.d.o.o., d.o.o., obrt, umjetnièke organizacije, ustanove, djelatnosti slobodnih zanimanja i zadruge (osim u podruèju književno-nakladnièke djelatnosti).</p><p> </p><p>Novinare je, meðu ostalim, zanimao i kako se provjerava jesu li novci koje se dobe na temelju javnoga poziva, iskorišteni za iskazanu namjenu, a naèelnica Nevena Tudor Perkoviæ istaknula je kako svi dobiveni novci moraju biti utrošeni onako kako je ugovorom predviðeno i to se sustavno prati.</p><p> </p><p>Kako je najavljeno, ugovori koji æe se temeljiti na ovom javnom pozivu, bit æe potpisani do kraja srpnja.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7283845 p").filter(function () {
+$("#content-body-6263871-7330734 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1306,16 +1315,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7283845").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7330734").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7283845").children().slice(max).remove();
+$("#content-body-6263871-7330734").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7283845").children().get(0);
+var firstChild = $("#content-body-6263871-7330734").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1353,13 +1362,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Gaming" class ="label label-default" >
-Gaming
+<a href="https://www.jutarnji.hr/tag/Poduzetni%C5%A1tvo" class ="label label-default" >
+Poduzetništvo
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Video_igre" class ="label label-default" >
-Video igre
+<a href="https://www.jutarnji.hr/tag/Ministarstvo_kulture" class ="label label-default" >
+Ministarstvo kulture
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/poticaji" class ="label label-default" >
+poticaji
 </a>
 </li>
 </ul>
@@ -1370,30 +1384,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="gaming media none">
+<article class="arhitektura media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/arhitektura/16-venecijansko-bijenale-hrvatska-instalacija-prelazi-granice-arhitekture-umjetnosti-robotike-i-modela-kompjutorskog-programiranja/7309453/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/">
-ŠTO HRVATSKIM STVARATELJIMA VIDEO IGARA ZNAÈI KONFERENCIJA REBOOT DEVELOP Moguænost da igru pokažu poznatim dizajnerima neprocjenjiva je
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="gaming media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/kako-pisci-rade-na-videoigrama-interaktivnost-nije-presudna-izazov-je-razmisljati-prostorno-tradicionalne-pripovjedacke-strukture-ne-funkcioniraju/7268568/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/kako-pisci-rade-na-videoigrama-interaktivnost-nije-presudna-izazov-je-razmisljati-prostorno-tradicionalne-pripovjedacke-strukture-ne-funkcioniraju/7268568/">
-KAKO PISCI RADE NA VIDEOIGRAMA Interaktivnost nije presudna, izazov je razmišljati prostorno, tradicionalne pripovjedaèke strukture ne funkcioniraju
+<a href="https://www.jutarnji.hr/kultura/arhitektura/16-venecijansko-bijenale-hrvatska-instalacija-prelazi-granice-arhitekture-umjetnosti-robotike-i-modela-kompjutorskog-programiranja/7309453/">
+16. VENECIJANSKO BIJENALE Hrvatska instalacija prelazi granice arhitekture, umjetnosti, robotike i modela kompjutorskog programiranja
 </a>
 </h4>
 </li>
@@ -1415,13 +1414,13 @@ KAKO PISCI RADE NA VIDEOIGRAMA Interaktivnost nije presudna, izazov je razmišlja
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1433,8 +1432,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1446,13 +1445,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1464,8 +1463,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1477,13 +1476,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1495,8 +1494,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1508,17 +1507,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1526,9 +1525,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1610,7 +1608,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7283845" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7330734" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1654,19 +1652,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="gaming media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/">
-NAJVAŽNIJI GAMING DOGAÐAJ U GODINI
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/">
-ŠTO HRVATSKIM STVARATELJIMA VIDEO IGARA ZNAÈI KONFERENCIJA REBOOT DEVELOP Moguænost da igru pokažu poznatim dizajnerima neprocjenjiva je
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+KAKO GRADIÆ BLEIBURG ŽIVI UOÈI KOMEMORACIJE? Po prvi put dolaze 'austrijske kobre', a evo što lokalni mještani misle o gostima iz Hrvatske
 </a>
 </h4>
 </div>
@@ -1676,19 +1674,19 @@ NAJVAŽNIJI GAMING DOGAÐAJ U GODINI
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="gaming media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/ruska-psiholoska-igra-sa-zavezanim-ocima-zbog-koje-igraci-vriste-od-straha-u-zagrebu-upravo-lansiran-morpheus/7007037/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/gaming/ruska-psiholoska-igra-sa-zavezanim-ocima-zbog-koje-igraci-vriste-od-straha-u-zagrebu-upravo-lansiran-morpheus/7007037/">
-INTERAKTIVNI STRAH I TREPET
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+I TO JE HRVATSKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/ruska-psiholoska-igra-sa-zavezanim-ocima-zbog-koje-igraci-vriste-od-straha-u-zagrebu-upravo-lansiran-morpheus/7007037/">
-RUSKA PSIHOLOŠKA IGRA SA ZAVEZANIM OÈIMA ZBOG KOJE IGRAÈI VRIŠTE OD STRAHA U Zagrebu upravo lansiran Morpheus
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada
 </a>
 </h4>
 </div>
@@ -1698,19 +1696,19 @@ RUSKA PSIHOLOŠKA IGRA SA ZAVEZANIM OÈIMA ZBOG KOJE IGRAÈI VRIŠTE OD STRAHA U Zag
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="gaming media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/videoigra-koja-je-zaradila-vise-od-ijednog-blockbustera-u-povijesti-nakon-cetiri-godine-i-dalje-medu-najprodavanijima/7231986/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/gaming/videoigra-koja-je-zaradila-vise-od-ijednog-blockbustera-u-povijesti-nakon-cetiri-godine-i-dalje-medu-najprodavanijima/7231986/">
-UNOSNA INDUSTRIJA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+KRŠENJE JAVNOG REDA I MIRA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/videoigra-koja-je-zaradila-vise-od-ijednog-blockbustera-u-povijesti-nakon-cetiri-godine-i-dalje-medu-najprodavanijima/7231986/">
-VIDEOIGRA KOJA JE ZARADILA VIŠE OD IJEDNOG BLOCKBUSTERA U POVIJESTI Nakon èetiri godine i dalje meðu najprodavanijima
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+VELIKI ŠOK ZA OSJEÈANKU Sunèala se na vlastitom balkonu, na vrata joj je pokucala policija i zalijepila novèanu kaznu: 'Jako je uznemirila susjeda'
 </a>
 </h4>
 </div>
@@ -1720,19 +1718,19 @@ VIDEOIGRA KOJA JE ZARADILA VIŠE OD IJEDNOG BLOCKBUSTERA U POVIJESTI Nakon èetiri
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="gaming media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/hrvatski-kreatori-video-igara-klasicni-zanr-okrenuli-naglavacke-binx-interactive-je-saljivu-doskocicu-iz-serious-sama-pretvorio-u-zaraznu-pucacinu/6711777/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/gaming/hrvatski-kreatori-video-igara-klasicni-zanr-okrenuli-naglavacke-binx-interactive-je-saljivu-doskocicu-iz-serious-sama-pretvorio-u-zaraznu-pucacinu/6711777/">
-RETRO, ALI MODERNO
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+VELIKA INVESTICIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/hrvatski-kreatori-video-igara-klasicni-zanr-okrenuli-naglavacke-binx-interactive-je-saljivu-doskocicu-iz-serious-sama-pretvorio-u-zaraznu-pucacinu/6711777/">
-HRVATSKI KREATORI VIDEO IGARA KLASIÈNI ŽANR OKRENULI NAGLAVAÈKE Binx Interactive je šaljivu doskoèicu iz Serious Sama pretvorio u zaraznu pucaèinu
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+FOTO: POGLEDAJTE KAKO NAPREDUJU RADOVI NA ÈIOVSKOM MOSTU Snimili smo gradilište jednog od najvažnijih infrastrukturnih projekata u državi iz zraka
 </a>
 </h4>
 </div>
@@ -1770,19 +1768,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1790,8 +1788,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1850,7 +1848,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1878,6 +1876,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2022,7 +2025,7 @@ Arhitektura
 Kazalište
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/kultura/gaming/">
 Gaming
 </a>
@@ -2167,11 +2170,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2219,14 +2217,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2270,34 +2268,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=46&contextPath=1-43-46-&pubId=1&cat=&meta=read-story&objId=7283845&type=article&title=RENOMIRANA+REGIONALNA+TVRTKA+ZA+IZRADU+VIDEO+IGARA+KRE%c4%86E+U+AMBICIOZAN+NOVI+PROJEKT+Mad+Head+Games+se+vra%c4%87a+korijenima%2c+radit+%c4%87e+%e2%80%98hardcore%e2%80%99+naslov&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fgaming%2frenomirana-regionalna-tvrtka-za-izradu-video-igara-krece-u-ambiciozan-novi-projekt-mad-head-games-se-vraca-korijenima-radit-ce-hardcore-naslov%2f7283845%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7330734&type=article&title=POTICANJE+PODUZETNI%c5%a0TVA+U+KULTURNIM+I+KREATIVNIM+INDUSTRIJAMA+Bespovratnih+8+milijuna+kuna+za+2018.&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fpoticanje-poduzetnistva-u-kulturnim-i-kreativnim-industrijama-bespovratnih-8-milijuna-kuna-za-2018%2f7330734%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=46&amp;contextPath=1-43-46-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7283845&amp;type=article&amp;title=RENOMIRANA+REGIONALNA+TVRTKA+ZA+IZRADU+VIDEO+IGARA+KRE%c4%86E+U+AMBICIOZAN+NOVI+PROJEKT+Mad+Head+Games+se+vra%c4%87a+korijenima%2c+radit+%c4%87e+%e2%80%98hardcore%e2%80%99+naslov&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fgaming%2frenomirana-regionalna-tvrtka-za-izradu-video-igara-krece-u-ambiciozan-novi-projekt-mad-head-games-se-vraca-korijenima-radit-ce-hardcore-naslov%2f7283845%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7330734&amp;type=article&amp;title=POTICANJE+PODUZETNI%c5%a0TVA+U+KULTURNIM+I+KREATIVNIM+INDUSTRIJAMA+Bespovratnih+8+milijuna+kuna+za+2018.&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fpoticanje-poduzetnistva-u-kulturnim-i-kreativnim-industrijama-bespovratnih-8-milijuna-kuna-za-2018%2f7330734%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&cat=jltags%40eph.hr%2c2016&objId=2146465115&title=Video+igre&url=tag%3ajltags%40eph.hr%2c2016%3aVideo_igre&rt=1&ctxId=46&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1493975991&title=poticaji&url=tag%3ajltags%40eph.hr%2c2016%3apoticaji&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2146465115&amp;title=Video+igre&amp;url=tag%3ajltags%40eph.hr%2c2016%3aVideo_igre&amp;rt=1&amp;ctxId=46&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1493975991&amp;title=poticaji&amp;url=tag%3ajltags%40eph.hr%2c2016%3apoticaji&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&cat=jltags%40eph.hr%2c2016&objId=1041231371&title=Gaming&url=tag%3ajltags%40eph.hr%2c2016%3aGaming&rt=1&ctxId=46&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=81019520&title=Ministarstvo+kulture&url=tag%3ajltags%40eph.hr%2c2016%3aMinistarstvo_kulture&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1041231371&amp;title=Gaming&amp;url=tag%3ajltags%40eph.hr%2c2016%3aGaming&amp;rt=1&amp;ctxId=46&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=81019520&amp;title=Ministarstvo+kulture&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMinistarstvo_kulture&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=949098623&title=Poduzetni%c5%a1tvo&url=tag%3ajltags%40eph.hr%2c2016%3aPoduzetni%25C5%25A1tvo&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=949098623&amp;title=Poduzetni%c5%a1tvo&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPoduzetni%25C5%25A1tvo&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2350,7 +2359,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/gaming/renomirana-regionalna-tvrtka-za-izradu-video-igara-krece-u-ambiciozan-novi-projekt-mad-head-games-se-vraca-korijenima-radit-ce-hardcore-naslov/7283845/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/poticanje-poduzetnistva-u-kulturnim-i-kreativnim-industrijama-bespovratnih-8-milijuna-kuna-za-2018/7330734/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2360,14 +2369,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/kultura/gaming/renomirana-regionalna-tvrtka-za-izradu-video-igara-krece-u-ambiciozan-novi-projekt-mad-head-games-se-vraca-korijenima-radit-ce-hardcore-naslov/7283845/",
-postId : "7283845",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/poticanje-poduzetnistva-u-kulturnim-i-kreativnim-industrijama-bespovratnih-8-milijuna-kuna-za-2018/7330734/",
+postId : "7330734",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "RENOMIRANA REGIONALNA TVRTKA ZA IZRADU VIDEO IGARA KREÆE U AMBICIOZAN NOVI PROJEKT Mad Head Games se vraæa korijenima, radit æe ‘hardcore’ naslov",
-pubdate : "2018-04-20 14:00",
-authors : "Damjan Rakniæ",
-sections : "Front Page, Kultura, Gaming",
-tags : "Video igre, Gaming",
+title : "POTICANJE PODUZETNIŠTVA U KULTURNIM I KREATIVNIM INDUSTRIJAMA Bespovratnih 8 milijuna kuna za 2018.",
+pubdate : "2018-05-08 10:07",
+authors : "Hina",
+sections : "Front Page, Kultura, Hrvatska",
+tags : "poticaji, Ministarstvo kulture, Poduzetništvo",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

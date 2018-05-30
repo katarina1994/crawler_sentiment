@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Uz prigodno okupljeni Reboot orkestar pod dirigentskom palicom Alona Kaplana i taktove nekih od najpoznatiji kompozicija iz filmskog serijala Ratovi zvijezda u èetvrtak je u hotelu Sheraton Riviera u Dubrovniku otvorena peta po redu konferencija posveæena industriji video igara Reboot Develop." />
-<meta name="keywords" content="Reboot Develop" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Australski Hrvat Charles Billich (84), roðen kao Karlo Biliæ 1934. u Lovranu, koji je poèetkom 50-ih emigrirao u Australiju gdje je postao najskuplji slikar, ovih se dana beskompromisno stavio na stranu najžešæe hrvatske politièke desnice. Dosad je takav politièki stav izrazio tek 2004. slikom Josipa Broza Tita s vampirskim oènjacima, zvijezdom petokrakom na èelu i ogrlicom od lubanja. Sada je prvo 27. travnja u Kostreni na “zabranjenom” koncertu Marka Perkoviæa Thompsona bio specijalni gost na pozornici, zatim je 30. travnja gostovao u TV emisiji “Bujica” Velimira Bujanca, a najavljuje kako 12. svibnja s Bujancem ide na komemoraciju u Bleiburg koja je proteklih godina u velikom dijelu bila obilježena ustaškim obilježjima." />
+<meta name="keywords" content="Charles Billich" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>HRVATSKA ELITNA KONFERENCIJA ZA VIDEO IGRE NAJAVILA ŠIRENJE U KANADU Reboot æe iduæe godine održati èak tri dogaðaja u Hrvatskoj i svijetu - Jutarnji List</title>
+<title>SLIKARSKA IKONA HRVATSKE DESNICE Nevjerojatna životna prièa Charlesa Billicha koji je Tita naslikao s vampirskim oènjacima - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "Unknown";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Tehnologija";
+var dfpCategory = "Životne prièe";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7262526";
-var dfpArticleKeyword = "Reboot Develop";
+var dfpArticle = "7330041";
+var dfpArticleKeyword = "Charles Billich";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/tehnologija/hrvatska-elitna-konferencija-za-video-igre-najavila-sirenje-u-kanadu-reboot-ce-iduce-godine-odrzati-cak-tri-dogadaja-u-hrvatskoj-i-svijetu/7262526/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/tehnologija/hrvatska-elitna-konferencija-za-video-igre-najavila-sirenje-u-kanadu-reboot-ce-iduce-godine-odrzati-cak-tri-dogadaja-u-hrvatskoj-i-svijetu/7262526/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/reboot/7262517/ALTERNATES/LANDSCAPE_1180/reboot" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/billich111jpg/7330032/ALTERNATES/LANDSCAPE_1180/billich111.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/reboot/7262517/ALTERNATES/LANDSCAPE_1180/reboot">
-<meta property="og:title" content="HRVATSKA ELITNA KONFERENCIJA ZA VIDEO IGRE NAJAVILA ŠIRENJE U KANADU Reboot æe iduæe godine održati èak tri dogaðaja u Hrvatskoj i svijetu" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/billich111jpg/7330032/ALTERNATES/LANDSCAPE_1180/billich111.jpg">
+<meta property="og:title" content="SLIKARSKA IKONA HRVATSKE DESNICE Nevjerojatna životna prièa Charlesa Billicha koji je Tita naslikao s vampirskim oènjacima" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/tehnologija/hrvatska-elitna-konferencija-za-video-igre-najavila-sirenje-u-kanadu-reboot-ce-iduce-godine-odrzati-cak-tri-dogadaja-u-hrvatskoj-i-svijetu/7262526/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Uz prigodno okupljeni Reboot orkestar pod dirigentskom palicom Alona Kaplana i taktove nekih od najpoznatiji kompozicija iz filmskog serijala Ratovi zvijezda u èetvrtak je u hotelu Sheraton Riviera u Dubrovniku otvorena peta po redu konferencija posveæena industriji video igara Reboot Develop." />
+<meta property="og:description" content="Australski Hrvat Charles Billich (84), roðen kao Karlo Biliæ 1934. u Lovranu, koji je poèetkom 50-ih emigrirao u Australiju gdje je postao najskuplji slikar, ovih se dana beskompromisno stavio na stranu najžešæe hrvatske politièke desnice. Dosad je takav politièki stav izrazio tek 2004. slikom Josipa Broza Tita s vampirskim oènjacima, zvijezdom petokrakom na èelu i ogrlicom od lubanja. Sada je prvo 27. travnja u Kostreni na “zabranjenom” koncertu Marka Perkoviæa Thompsona bio specijalni gost na pozornici, zatim je 30. travnja gostovao u TV emisiji “Bujica” Velimira Bujanca, a najavljuje kako 12. svibnja s Bujancem ide na komemoraciju u Bleiburg koja je proteklih godina u velikom dijelu bila obilježena ustaškim obilježjima." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Damjan Rakniæ">
-<meta name="twitter:title" content="HRVATSKA ELITNA KONFERENCIJA ZA VIDEO IGRE NAJAVILA ŠIRENJE U KANADU Reboot æe iduæe godine održati èak tri dogaðaja u Hrvatskoj i svijetu">
-<meta name="twitter:description" content="Uz prigodno okupljeni Reboot orkestar pod dirigentskom palicom Alona Kaplana i taktove nekih od najpoznatiji kompozicija iz filmskog serijala Ratovi zvijezda u èetvrtak je u hotelu Sheraton Riviera u Dubrovniku otvorena peta po redu konferencija posveæena industriji video igara Reboot Develop.">
+<meta name="twitter:creator" content="Mark Cigoj">
+<meta name="twitter:title" content="SLIKARSKA IKONA HRVATSKE DESNICE Nevjerojatna životna prièa Charlesa Billicha koji je Tita naslikao s vampirskim oènjacima">
+<meta name="twitter:description" content="Australski Hrvat Charles Billich (84), roðen kao Karlo Biliæ 1934. u Lovranu, koji je poèetkom 50-ih emigrirao u Australiju gdje je postao najskuplji slikar, ovih se dana beskompromisno stavio na stranu najžešæe hrvatske politièke desnice. Dosad je takav politièki stav izrazio tek 2004. slikom Josipa Broza Tita s vampirskim oènjacima, zvijezdom petokrakom na èelu i ogrlicom od lubanja. Sada je prvo 27. travnja u Kostreni na “zabranjenom” koncertu Marka Perkoviæa Thompsona bio specijalni gost na pozornici, zatim je 30. travnja gostovao u TV emisiji “Bujica” Velimira Bujanca, a najavljuje kako 12. svibnja s Bujancem ide na komemoraciju u Bleiburg koja je proteklih godina u velikom dijelu bila obilježena ustaškim obilježjima.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +691,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Tehnologija, Life, Front Page",
-pubdate: "2018-04-19T20:07+02:00",
-author: "Damjan Rakniæ",
+data: { section: "Životne prièe, Life, Front Page",
+pubdate: "2018-05-07T22:30+02:00",
+author: "Mark Cigoj",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -888,6 +890,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -941,7 +948,7 @@ Life
 Obitelj i djeca
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/tehnologija/">
 Tehnologija
 </a>
@@ -966,7 +973,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1134,7 +1141,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/tehnologija/">Tehnologija </a></li>
+<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1142,7 +1149,7 @@ Mozgalice
 Obitelj i djeca
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/tehnologija/">
 Tehnologija
 </a>
@@ -1167,7 +1174,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1229,11 +1236,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-REBOOT DEVELOP 2018
+BESKOMPROMISNO DESNO
 </p>
 <h1
 class="title">
-HRVATSKA ELITNA KONFERENCIJA ZA VIDEO IGRE NAJAVILA ŠIRENJE U KANADU Reboot æe iduæe godine održati èak tri dogaðaja u Hrvatskoj i svijetu
+SLIKARSKA IKONA HRVATSKE DESNICE Nevjerojatna životna prièa Charlesa Billicha koji je Tita naslikao s vampirskim oènjacima
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1248,7 @@ HRVATSKA ELITNA KONFERENCIJA ZA VIDEO IGRE NAJAVILA ŠIRENJE U KANADU Reboot æe i
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/damjan-raknic">Damjan Rakniæ</a></li>
+<li>Mark Cigoj</li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1256,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-19.04.2018. u 20:07
+07.05.2018. u 22:30
 </p>
 </li>
 </ul>
@@ -1261,29 +1268,29 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/reboot/7262517" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/billich111jpg/7330032" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/reboot/7262517/ALTERNATES/LANDSCAPE_380/reboot"
+<img src="https://www.jutarnji.hr/incoming/billich111jpg/7330032/ALTERNATES/LANDSCAPE_380/billich111.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/reboot/7262517/BINARY/thumbnail/reboot"
+data-src-template="https://www.jutarnji.hr/incoming/billich111jpg/7330032/BINARY/thumbnail/billich111.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Processed with VSCO with c8 preset"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> Dino Sertoviæ / Reboot Develop
-</span>
-</div>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1307,14 +1314,174 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7262526"
+<div id="content-body-6263871-7330041"
 >
-<p>Uz prigodno okupljeni Reboot orkestar pod dirigentskom palicom <strong>Alona Kaplana</strong> i taktove nekih od najpoznatiji kompozicija iz filmskog serijala Ratovi zvijezda u èetvrtak je u hotelu Sheraton Riviera u Dubrovniku otvorena peta po redu konferencija posveæena industriji video igara Reboot Develop.</p><p>Blizu 1.500 posjetitelja iz cijelog svijeta, od Sjedinjenih Amerièkih Država i Kanade preko Europe do Japana, na konferenciji æe moæi èuti predavanja 111 predavaèa koji su rasporeðeni u sedam konferencijskih sala. Na predavanjima, panel raspravama i razgovorima struènjaci iz industrije video igara govorit æe o razlièitim aspektima proizvodnje ovih kompleksnih kulturnih proizvoda. Uz to, svi sudionici konferencije koji rade u industriji video igara moæi æe u posebnim prostorima sklapati poslovne dogovore, a svi æe sudionici moæi isprobati igre koje su se prijavile za konferencijsko natjecanje najboljih nezavisnih video igara.</p><p>Izvršni direktor èasopisa Reboot, sajma Reboot InfoGamer i konferencije Reboot Develop <strong>Damir Ðuroviæ</strong> u svom je uvodnom obraæanju okupljenima istaknuo da je iznimno ponosan na raznovrsnost koju Reboot Develop nudi posjetiteljima konferencije. Sudionici konferencije tako æe moæi èuti o poslovnim izazovima i naèinima financiranja svojih projekata, industrijskim trendovima i tehnološkom razvoju video igara, a kreativci æe doznati kako riješiti umjetnièke probleme s kojima se ovaj relativno mlad pripovjedaèki medij svakodnevno susreæe.</p><p>Osim toga Ðuroviæ je istaknuo da se konferencija u samo pet godina uspjela etablirati kao dogaðaj svjetskog glasa. “Ponosni smo na sve što smo sa svojim partnerima postigli, meðutim neæemo ovdje stati”, rekao je i najavio da se doseg Reboot Develop širi.</p><p>“Reboot Develop kakav sada poznajemo postat æe Reboot Develop Blue te æe se i iduæe godine održati u Dubrovniku i to od 11. do 13. travnja u hotelu Sheraton Riviera. Pokreæemo i dva nova brenda - Reboot Develop Red i Reboot Develop Uni. Reboot Develop Red bit æe konferencija po uzoru na dosadašnji Reboot Develop, a njezino prvo izdanje održat æe se na jesen 2019. godine u Kanadi. S druge strane, Reboot Develop Uni bit æe orijentirana više na studente te æe se održati iduæe godine u Dubrovniku za vrijeme Reboot Develop Blue konferencije, samo na drugoj lokaciji”, pojasnio je Ðuroviæ.</p><p>Obeæavši prethodno da æe biti kratak i koncizan, Ðuroviæ je svoje mjesto na pozornici prepustio Alanu Ladavcu iz hrvatskog studija za razvoj video igara Croteam koji je okupljenima rekao da obožavatelji serijala video igara s kultnim Serious Samom u glavnom ulozi više neæe morati ispitivati kada æe izaæi novi, èetvrti nastavak. “Ovog ljeta na sajmu E3 u Los Angelesu službeno æemo najaviti igru Serious Sam 4: Planet Bad Ass, a vama æemo ekskluzivno prikazati kratku najavu”, rekao je Ladavac na što je publika u dvorani gdje se odvijalo otvorenje eruptirala sa zadovoljstvom.</p><p>Najava je bila u klasiènom Serious Sam stilu - puno humora. Sam se na svom motoru vozi cestom kroz prirodu kada najednom prema njemu poène trèati bezglavo èovjekoliko èudovište s bombama umjesto šaka. Sam u sebi svojstvenom stilu eliminira puškom te nastavi voziti kao da se ništa nije dogodilo. Meðutim, kada se kamera odigne s ceste, okupljena publika mogla je vidjeti da je taj neprijatelj bio sam jedan od njih tisuæu koji trèe prema Samu, želeæi ga, pretpostavlja se, ubiti.</p><p>Meðu uzvanicima na ceremoniji otvaranja Reboot Develop konferencije našli su se i državni tajnik <strong>Krešimir Partl</strong> i voditeljica službe za i audiovizualne djelatnosti <strong>Vjera Matkoviæ</strong> koji su u razgovoru za Jutarnji najavili da æe kroz dva tjedna u Hrvatski sabor na prvo èitanje doæi novi zakon o audiovizualnim djelatnostima. “U ovom su zakonu prvi puta definirane video igre kao audiovizualni proizvod te je otvorena moguænost za institucionalno financiranje umjetnièkih i edukativnih igara”, rekao nam je Partl te dodao da je zamišljeno da se video igre financiraju putem Hrvatskog audiovizualnog centra.</p><p>“Dok se na zakonu radilo stalno smo komunicirali s hrvatskim klasterom proizvoðaèa video igara i njihova radna skupina koju su èini <strong>Ante Vrdelja</strong> iz Croteama, <strong>Andrej Kovaèeviæ</strong> iz Exordium Gamesa i Damir Ðuroviæ iz Reboota pomogla nam je pri izradi zakona sa svojim znanjem i iskustvom”, pojasnio je Partl te dodao da oèekuje da æe Sabor poduprijeti novi zakon jer postoji opæi konsenzus da video igre trebaju uæi u skupinu kulturnih proizvoda koji æe se financirati s javnim novcem.</p><p>Matkoviæ je dodala da æe se u svibnju raspisati natjeèaj za financiranje poduzetnièkih aktivnosti u kulturnim i kreativnim industrijama koji su zajednièki pripremili Ministarstvo kulture i Ministarstvo gospodarstva. “Taj æe natjeèaj obuhvatiti i video igre koje imaju kulturne te umjetnièke aspiracije”, dodala je Matkoviæ.</p>
+<p>Australski Hrvat <strong>Charles Billich</strong> (84), roðen kao <strong>Karlo Biliæ</strong> 1934. u Lovranu, koji je poèetkom 50-ih emigrirao u Australiju gdje je postao najskuplji slikar, ovih se dana beskompromisno stavio na stranu najžešæe hrvatske politièke desnice. Dosad je takav politièki stav izrazio tek 2004. slikom <strong>Josipa Broza Tita</strong> s vampirskim oènjacima, zvijezdom petokrakom na èelu i ogrlicom od lubanja. Sada je prvo 27. travnja u Kostreni na “zabranjenom” koncertu<strong> Marka Perkoviæa Thompsona </strong>bio specijalni gost na pozornici, zatim je 30. travnja gostovao u TV emisiji “Bujica” Velimira Bujanca, a najavljuje kako 12. svibnja s Bujancem ide na komemoraciju u Bleiburg koja je proteklih godina u velikom dijelu bila obilježena ustaškim obilježjima.</p><p>- Thompson je moj prijatelj, veæ dugo ga poznajem, prije desetak godina bio sam kod njega u Èavoglavama. On je konzistentno veliki patriot i veliki glas za hrvatsku nacionalnost. On je, u stvari, simbol. Oko njega je zaslužena histerija, a on je baš onaj pravi, koji odluèno upravlja hrvatskim sentimentima, strastima i vjerom. A, ja sam, zapravo, veza izmeðu Hrvatske i dijaspore, jer donekle simboliziram tu bliskost. Trudim se da taj odnos bude sve bolji, da se uklope naše razne vrijednosti, radim za slogu i hrvatsku buduænost - kontroverzni slikar poèinje otkrivati razloge zbog kojih se javno odluèio prikloniti politièkoj desnici.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/josip-broz-tito-of-communist-yugoslavia-by-charles-billich1-mm_ic-1jpg/7322022" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/josip-broz-tito-of-communist-yugoslavia-by-charles-billich1-mm_ic-1jpg/7322022/ALTERNATES/FREE_380/josip-broz-tito-of-communist-yugoslavia-by-charles-billich1-MM_IC-1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/josip-broz-tito-of-communist-yugoslavia-by-charles-billich1-mm_ic-1jpg/7322022/BINARY/thumbnail/josip-broz-tito-of-communist-yugoslavia-by-charles-billich1-MM_IC-1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>Josip Broz Tito oko vrata nosi ogrlicu od lubanja, po uzoru na Kali, hinduistièku božicu tame i smrti</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><h5><strong>Plemenita politika</strong></h5><p>- Hrvatska mora više raditi na svojoj populaciji i na krizi depopulacije. Imam nekoliko ideja o toj temi, ali ispao bih klaun kada bih poèeo o tome teoretizirati. Tu postoje neke pragmatiène vrijednosti koje bismo trebali razmotriti. Bez toga neæe biti buduænosti, jer ako nema populacije, nema ni Hrvatske. Smatram i da napokon treba reæi cijelu istinu o našoj tužnoj prošlosti pod bivšim režimom. Volio bih da se neki isprièaju zbog svih loših stvari koje su napravili u ime komunizma i titoizma, no izgleda da za to nema puno šanse. Imali smo jako loše iskustvo s komunizmom, bila je to velika tragedija koja traje i danas jer se još osjeæaju njegove posljedice. Proživjeli smo dva èina, prvi je bio komunizam i to je bila tragedija, drugi je nova hrvatska država i to je tragikomedija, a zadnji èin još treba ispisati. Bilo bi dobro da to bude sretna komedija - govori Charles Billich i objašnjava kako oni rade na tome da se situacija normalizira i da svatko može živjeti u harmoniji s drugima.</p><p>- Vjerujem u plemenitost hrvatske politièke strukture u prošlosti pa mi je bila jako velika èast upoznati i poèeti suradnju s obitelji Frankopan u Londonu, koji su vezani za britansku kraljevsku obitelj Windsor. Sada radim na portretu doktorice Ingrid Frankopan i njezina muža<strong> Louisa Frankopana,</strong> bio sam zapanjen kad su mi rekli da nemaju obiteljske portrete - prilièno iznenaðujuæe objašnjava svoje politièke kontakte Billich koji je upoznao sve hrvatske predsjednike, a najupeèatljiviji je bio njegov odnos s<strong> Ivom Sanaderom</strong>. Kada je u listopadu 2006. Sanader išao u službeni posjet amerièkom predsjedniku<strong> Georgeu Bushu</strong>, na dar mu je uruèio sliku Monumentalno savezništvo Charlesa Billicha, koji je tada bio s njima.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/bilic8-300418jpg/7322019" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/bilic8-300418jpg/7322019/ALTERNATES/FREE_380/bilic8-300418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/bilic8-300418jpg/7322019/BINARY/thumbnail/bilic8-300418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300418.
+Nova ves.
+Charles Bilich, australski slikar hrvatskog porjekla.
+Foto: Darko Tomas / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>- Uoèi tog lijepog dogaðaja neko vrijeme živio sam u Washingtonu i radio na tom velikom ulju na platnu na kojem sam slikao kolekciju washingtonskih spomenika, a bio je zastupljen i <strong>Grgur Ninski</strong> našeg <strong>Ivana Meštroviæa.</strong> Washington nisam gledao kroz zgrade i arhitekturu, nego sam obratio pozornost i grad prikazao kroz njegove skulpture i umjetnost - objašnjava Billich koji je upoznao i <strong>Zorana Milanoviæa.</strong></p><p>- Zoran Milanoviæ prilikom posjeta Australiji 2014. došao je u moju galeriju i pokazao je ideološku elastiènost, što mi se svidjelo. Mnogo godina prije, poèetkom 90-ih, na mojoj prvoj izložbi u Zagrebu predsjednik Tuðman naredio mi je da se vratim u Hrvatsku. Naravno da sam ga poslušao, no rezultat je bio katastrofalan. Ipak, u Hrvatsku sam dolazio nekoliko puta godišnje, a zadnjih godina sve rjeðe jer mi dinamika života to sve više otežava. Svijet je moja bina i moram svugdje biti prisutan. Zato imam sve manje vremena posvetiti se rodnom kraju, ali i meni najomiljenijem i objektivno najljepšem gradu na svijetu - mom Sydneyju. Sydney je najljepši grad i topografski i geografski i fizièki, ima 220 kilometara obale, a nema što u njemu nema na kulturnom, gastronomskom, enološkom, civilizacijskom planu… - ponovno iznenaðujuæe i pomalo nepovezano govori Billich o odnosu s hrvatskim politièarima, svome domoljublju i ljubavi ne prema rodnom kraju nego prema Sydneyju.</p><p>Karlo Biliæ nakon Drugoga svjetskog rata u Rijeci je završio gimnaziju, upisao je studij ekonomije, poèeo je ilustrirati knjige i èasopise te je postao plesaè u rijeèkoj Operi.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/site-197-croatian-741071jpg/7322025" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/site-197-croatian-741071jpg/7322025/ALTERNATES/FREE_380/site-197-Croatian-741071.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/site-197-croatian-741071jpg/7322025/BINARY/thumbnail/site-197-Croatian-741071.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>Jedan od dva portreta Kolinde Grabar-Kitaroviæ koje umjetnik nikad nije uspio uruèiti predsjednici. Državnici na glavi leži šibenska katedrala sv. Jakova</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>- Moj razlaz s baletom slomio mi je srce, ali da sam ostao baletan, karijera bi mi bila kratkotrajna - kaže Billich, prisjeæajuæi se kako je 1952. za lokalne talijanske novine poèeo pisati o staljinistièkom režimu u Jugoslaviji, zbog èega je pokušao pobjeæi u Italiju. Izdala ga je djevojka s kojom je krenuo u bijeg, a slovenski sud osudio ga je na deset godina zatvora. Iz mariborskog zatvora pušten je nakon dvije godine, 1954., kada je emigrirao u Austriju. Dobio je politièki azil i u Salzburgu je studirao umjetnost, ali je u Austriji proveo samo dvije godine.</p><p>- U Australiju sam došao 1956., u Melbourneu sam krenuo u umjetnièku školu, a da bih zaradio za školarinu, radio sam na psihijatrijskom odjelu, u mrtvaènici, kao taksist, a po narudžbi slikao sam portrete, aktove, akvarele i ulja - prièa australsko-hrvatski slikar koji pamti da je prvu izložbu imao 1983. u Italiji, u Spoletu, a zatim u Milanu, Rimu, Tokiju, Osaki, Los Angelesu, New Yorku, Monte Carlu…</p><h5><strong>Èaša vina i tartufi</strong></h5><p>- Kažu da sam svjetski slikar, a to je titula koju vjerojatno nisam zaslužio, no èinjenica jest da ja svake godine zemaljsku kuglu obiðem dva puta. Sada sam na relaciji Zagreb - Cannes - Monte Carlo - Rim - Sydney - Peking - Los Angeles. U Galeriji 222 u Monte Carlu upravo je postavljena zajednièka izložba mojih slika i skulptura Salvadora Dalija koja æe biti otvorena do rujna. Veæ na poèetku projekta pojavila su se mišljenja da sam ja nasljednik dalijevskog nadrealizma. Ja na to ne gledam tako, ali paše mi. Osjeæam se jako privilegiran da izlažem s tako velikim imenom - govori slikar kojeg mnogi kritièari nazivaju i ekstravagantnim majstorom samopromocije.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/mona-lisa-smilejpg/7322016" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/mona-lisa-smilejpg/7322016/ALTERNATES/FREE_380/Mona-Lisa-Smile.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/mona-lisa-smilejpg/7322016/BINARY/thumbnail/Mona-Lisa-Smile.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>'Mona Lisa Smile' iz nadrealistièkog ciklusa stoji 65 tisuæa dolara</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>- Sada æu u Rimu boraviti nekoliko tjedana i raditi na jako ambicioznom pothvatu - gradoskopiji Rima, a tu se radi o milijunskoj slici. Nekoliko godina intenzivno sam se spremao na ovaj pothvat i svake godine išao sam u Rim da promatram, upijam, apsorbiram… Sada æu sve to staviti na ulje na platnu baš u Rimu jer da slikam u Sydneyju, možda bih izgubio taj emocionalni kontakt. U Los Angelesu upravo se priprema snimanje reality showa u kojem æe važnu ulogu imati moja nova vila i galerija u L.A.-u, o èemu upravo pregovaram s producentima - otkriva poduzetni Billich koji od 1988. u Sydneyju ima veliku galeriju na tri kata, u povijesnoj zgradi iz 1856., a od prošle godine još dvije galerije u Pekingu, veliku od tri tisuæe kvadrata u velikom šoping-centru i manju u malom butik-hotelu Peking.</p><p>- Kupci mojih slika su svi ljudi više platežne moæi. Ima ih i u Hrvatskoj. Moja malenkost zapravo zahtijeva jako malo para u odnosu na neke koji po slici zarade 100 milijuna. Ja još nisam u toj kategoriji, ali nikad se ne zna. Neki slikaju i za pet tisuæa eura. Ja sam negdje izmeðu ta dva ekstrema. Cijena ovisi o mnogo faktora, o tipu motiva, o prirodi promocije… Prosjeèna je cijena moga ulja na platnu, dimenzija metar puta metar, oko 50 tisuæa eura, a grafike su jeftinije. U galerijama imam i digitalne reprodukcije na platnu na kojima naknadno ruèno radim pa je svaka unikat, a vrijede oko 10 tisuæa eura. Glavno je imati za dobru èašu vina i za neki tartuf - kaže Billich, za kojeg hrvatski likovni kritièari veæ više od 20 godina tvrde da je on tek kiè majstor sladunjavih aktova i veduta.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/img-5726-1024x1024jpg/7322013" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/img-5726-1024x1024jpg/7322013/ALTERNATES/FREE_380/IMG-5726-1024x1024.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/img-5726-1024x1024jpg/7322013/BINARY/thumbnail/IMG-5726-1024x1024.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>Akt 'Bollywood Star' stoji 65.000 dolara</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><h5><strong>Racionalan slikar</strong></h5><p>- U svijetu me više-manje ne napadaju, u skladu sam s trendovima, a s medijima imam dobar odnos. Ne znam zašto me veæina hrvatskih likovnih kritièara ne cijeni. To je stvar ukusa, možda im ne šmekam. Ali to me ne brine. A možda su u mojim slikama neke dubine u koje oni ne mogu penetrirati pa im se èini da su te dubine pogrešne. Vjerujem da æe se vremenom takav odnos prema meni promijeniti. Sve ovisi o meni, ne o njima. S druge strane, da nema te kritike, da svaki dan nisam opkoljen kritièarima, ne bih usavršio svoju tehniku i svoju likovnu naraciju, nego bih ostao u svojim slavama. Ja ne slavim, nego se razvijam na nivo koji æe zadovoljiti onog pravog meštra, kritièara i povjesnièara, onog na nebu. On je moj server. Jer, što bih bio da nema tih stimulansa i poruka iz etera, bio bih obièni pitur portreta i aktova. Ja radim portrete i aktove, ali oni su uvijek nadareni neèime, nekim duhom - govori.</p><p>- U slikarstvu dajem poticaj mišljenju i zato moje slike imaju puno sadržaja. U modernom slikarstvu ne obraæa se puno pozornosti na sadržaj. Neki me zbog toga nazivaju tradicionalistom. No, ja ne nogu raditi sliku koja je površna, a u moderni se puno radi o površnosti. Zato sam se udaljio od moderne iako je moj moto - nazad u buduænost. To znaèi da uzimam u obzir naše iskustvo iz prošlosti, dakle uzimam kapital iz prošlosti, da bih ga spojio s èežnjama iz sadašnjosti i da se tako reflektira neki novi jezik iz buduænosti - rijeèi su Charlesa Billicha.</p><p>- Dok slikaš, uvijek moraš biti u kontroli, ne smiješ biti histerièan, nego miran. Ja nisam strastven niti je strastvenost u slikarstvu poželjna, barem ja tako mislim. No, moram prepoznati emocije i znati ih prikazati na logièan naèin kako bi bile prepoznatljive gledatelju i kolekcionaru. Ipak, u svakoj slici mora ostati misterija, tajanstvenost, sloboda interpretacije - govori slikar, za kojeg kažu da slika izuzetno brzo, portret završava za 20-ak minuta.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/fortunate-eight-122x122jpg/7322010" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/fortunate-eight-122x122jpg/7322010/ALTERNATES/FREE_380/Fortunate-Eight-122x122.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/fortunate-eight-122x122jpg/7322010/BINARY/thumbnail/Fortunate-Eight-122x122.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>'Fortunate Eight' iz nadrealistièkog ciklusa</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>- Slikam jako spretno i racionalno - kratko objašnjava Billich, koji je bio službeni slikar kineske i australske kandidature na Olimpijadi, a jedini je dva puta dobio nagradu United States Sport Academy za najboljeg sportskog slikara.</p><p>- To je hrana za ego - komentira Charles Billich, koji je izmeðu ostaloga u karijeri napravio seriju portreta hrvatskih velikana:<strong> Nikole Tesle, Ruðera Boškoviæa, Slavoljuba Penkale, Alojzija Stepinca</strong>… Slikao je i portrete papa Ivana Pavla II. i Benedikta XVI. Èesto slika portrete i aktove bogatih i slavnih, a tako se sprijateljio i s pokojnim osnivaèem Playboya Hughom Hefnerom.</p><p>- Hughova zadnja supruga Crystal Harris ušla je u moj atelier u Sydneyju, bila je jako hot, pomislio sam da je savršen model, a ona mi se skinula, kao da mi je èitala misli. Poslije sam bio na njezinoj i Hughovoj svadbi, a za poklon sam im donio tu sliku njezina akta. Engleska kraljica Elizabeta rekla mi je da obožava moju gotiènost, princ Albert otvorio mi je jednu izložbu u Monte Carlu, papa Wojtyla moju sliku Svetica Mary MacKillop iz 1994. držao je u svojoj privatnoj knjižnici, Juan Antonio Samaranch stalno je posjeæivao moju galeriju i kupovao slike, pozirali su mi princeza <strong>Stephanie od Monaca, Nelson Mandela, Muhamed Ali,</strong> suraðivao sam s modnim dizajnerima Paco Rabanneom i Kenzom koji su mi postali prijatelji… - nabraja samo dio celebrityja s kojima se tijekom karijere upoznao.</p><p>No, o svom rodnom Lovranu u kojem je takoðer imao galeriju ne želi govoriti jer mu je to, kaže, bolna toèka. Naime, u tijeku je sudski postupak izmeðu Billicha i voditeljice njegove galerije koju je bio ovlastio za sve financijske poslove, a kasnije je ustvrdio da je prevaren.</p><p>- Lanjskog ljeta naèelnik Lastova <strong>Leo Katiæ </strong>proglasio me lastovskim knezom i ponudio mi da u jednoj palaèi u gradu otvorim galeriju - kako se ne bismo zadržavali na temi Lovrana, odmah prelazi na pozitivan primjer iz Hrvatske.</p><p>Charles Billich imao je pet brakova i svim svojim ženama slikao je aktove. U prvom braku bio je 18 mjeseci s australskom varijetskom plesaèicom <strong>Lynn Hollins</strong>, kæeri metodistièkog sveæenika. U drugom braku bio je pet godina s irskom tajnicom i s njom ima troje djece, sina<strong> Jonathan</strong>a (56) i kæeri <strong>Jane</strong> (54) i <strong>Elizu</strong> (53), koji žive u Australiji. Nakon 12 godina samoæe i ludovanja u treæi brak ušao je s novinarkom iz Melbournea Suzanom, ali taj brak trajao je doslovno samo nekoliko sati. Èetvrta žena, australska manekenka Helena, došla je nakon èetiri godine, a brak je zbog njezine devetogodišnje kæeri iz prvog braka koja ga je, kako kaže, patološki mrzila, trajao samo nekoliko mjeseci. U Australiji danas živi njegova peta žena, njemaèka galeristica Christa, s kojom se oženio 1986. u Lovranu. Ona je bila vlasnica zlatarnice u Melbourneu.</p><p>- Kupila je pet mojih slika za velik novac pa sam joj ponudio besplatno slikanje portreta, a ona me sljedeæi dan pozvala kod sebe doma. Kako sam poznat i po slikanju aktova, doèekala me gola. I tako je poèelo, Christa je bila seksualno provokativna i to me uzbuðivalo - otkriva Charles o svojoj dugogodišnjoj ženi za koju oni koji ih poznaju tvrde da je tajna njegova svjetskog uspjeha. Ona uglavnom nije izložena javnosti, no u reality showu koji se uskoro poèinje snimati u Los Angelesu s Charlesom æe nastupati i Christa.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7262526 p").filter(function () {
+$("#content-body-6263871-7330041 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1323,16 +1490,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7262526").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7330041").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7262526").children().slice(max).remove();
+$("#content-body-6263871-7330041").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7262526").children().get(0);
+var firstChild = $("#content-body-6263871-7330041").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1370,8 +1537,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Reboot_Develop" class ="label label-default" >
-Reboot Develop
+<a href="https://www.jutarnji.hr/tag/Charles_Billich" class ="label label-default" >
+Charles Billich
 </a>
 </li>
 </ul>
@@ -1382,21 +1549,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="tehnologija media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/tehnologija/sto-muci-e-sportove-u-hrvatskoj-cetiri-kljucna-problema-sprecavaju-ih-da-postignu-svoj-puni-potencijal-za-rjesenje-bi-se-mogli-ugledati-na-nogomet/7243845/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/tehnologija/sto-muci-e-sportove-u-hrvatskoj-cetiri-kljucna-problema-sprecavaju-ih-da-postignu-svoj-puni-potencijal-za-rjesenje-bi-se-mogli-ugledati-na-nogomet/7243845/">
-ŠTO MUÈI E-SPORTOVE U HRVATSKOJ? Èetiri kljuèna problema spreèavaju ih da postignu svoj puni potencijal, za rješenje bi se mogli ugledati na nogomet
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1412,13 +1564,13 @@ data-widget-position="0">
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1430,8 +1582,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1443,13 +1595,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1461,8 +1613,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1474,13 +1626,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1492,8 +1644,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1505,17 +1657,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1523,9 +1675,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1607,7 +1758,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7262526" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7330041" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1651,19 +1802,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="tehnologija media c11a video-jl">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/tehnologija/foto-video-jutarnji-na-predstavljanju-pametnog-telefona-s-najjacom-kamerom-na-svijetu-huawei-snazno-zaigrao-na-kartu-umjetne-inteligencije/7178952/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/tehnologija/foto-video-jutarnji-na-predstavljanju-pametnog-telefona-s-najjacom-kamerom-na-svijetu-huawei-snazno-zaigrao-na-kartu-umjetne-inteligencije/7178952/">
-HUAWEI P20 i P20 Pro
+<a href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/">
+DOMA JE NAJLJEPŠE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/tehnologija/foto-video-jutarnji-na-predstavljanju-pametnog-telefona-s-najjacom-kamerom-na-svijetu-huawei-snazno-zaigrao-na-kartu-umjetne-inteligencije/7178952/">
-FOTO, VIDEO: JUTARNJI NA PREDSTAVLJANJU PAMETNOG TELEFONA S NAJJAÈOM KAMEROM NA SVIJETU Huawei snažno zaigrao na kartu umjetne inteligencije
+<a href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/">
+SLAVONAC SE RAZOÈARAN VRATIO IZ NJEMAÈKE 'Poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca'
 </a>
 </h4>
 </div>
@@ -1673,19 +1824,19 @@ FOTO, VIDEO: JUTARNJI NA PREDSTAVLJANJU PAMETNOG TELEFONA S NAJJAÈOM KAMEROM NA 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="tehnologija media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/tehnologija/obama-trump-je-obicno-gvno-nakon-laznih-vijesti-svijet-ce-preplaviti-i-lazni-videi-pogledajte-kako-izgleda-jedan-koji-je-vec-osvojio-internet/7260210/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/tehnologija/obama-trump-je-obicno-gvno-nakon-laznih-vijesti-svijet-ce-preplaviti-i-lazni-videi-pogledajte-kako-izgleda-jedan-koji-je-vec-osvojio-internet/7260210/">
-DEEPFAKE VIDEO
+<a href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/">
+OPORAVLJA SE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/tehnologija/obama-trump-je-obicno-gvno-nakon-laznih-vijesti-svijet-ce-preplaviti-i-lazni-videi-pogledajte-kako-izgleda-jedan-koji-je-vec-osvojio-internet/7260210/">
-OBAMA: 'TRUMP JE OBIÈNO G*VNO' Nakon lažnih vijesti, svijet æe preplaviti i lažni videi! Pogledajte kako izgleda jedan koji je veæ osvojio internet
+<a href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/">
+'OVO JE ÈUDO, BOŽJE DJELO...' Djeèak se probudio iz kome dan nakon što su doktori od njega odustali, a roditelji dali dozvolu da ga iskljuèe s aparata
 </a>
 </h4>
 </div>
@@ -1695,19 +1846,19 @@ OBAMA: 'TRUMP JE OBIÈNO G*VNO' Nakon lažnih vijesti, svijet æe preplaviti i lažn
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="tehnologija media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/tehnologija/kako-treba-puniti-mobitele-ne-morate-cekati-da-se-baterija-isprazni-nije-dobro-ni-napuniti-je-do-100-posto-ovako-zapravo-trebate-koristiti-punjac/7255746/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/tehnologija/kako-treba-puniti-mobitele-ne-morate-cekati-da-se-baterija-isprazni-nije-dobro-ni-napuniti-je-do-100-posto-ovako-zapravo-trebate-koristiti-punjac/7255746/">
-SAVJETI STRUÈNJAKA
+<a href="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/">
+SMRTNA KAZNA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/tehnologija/kako-treba-puniti-mobitele-ne-morate-cekati-da-se-baterija-isprazni-nije-dobro-ni-napuniti-je-do-100-posto-ovako-zapravo-trebate-koristiti-punjac/7255746/">
-KAKO TREBA PUNITI MOBITELE Ne morate èekati da se baterija isprazni. Nije dobro ni napuniti je do 100 posto. Ovako zapravo trebate koristiti punjaè!
+<a href="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/">
+ISPOVIJEST ŽENE KOJA JE VIDJELA STOTINE SMAKNUÆA 'I danas se sjetim naboranih ruku majke jednog osuðenika kako oèajnièki pritišæu staklo'
 </a>
 </h4>
 </div>
@@ -1717,19 +1868,19 @@ KAKO TREBA PUNITI MOBITELE Ne morate èekati da se baterija isprazni. Nije dobro 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="tehnologija media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/tehnologija/aplikacija-koja-otkriva-sifre-s-njom-se-bilo-tko-moze-prikljuciti-na-vas-wi-fi-saznati-i-vase-lozinke-za-facebook-e-mail-cak-i-internet-bankarstvo/6436186/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/tehnologija/aplikacija-koja-otkriva-sifre-s-njom-se-bilo-tko-moze-prikljuciti-na-vas-wi-fi-saznati-i-vase-lozinke-za-facebook-e-mail-cak-i-internet-bankarstvo/6436186/">
-NOVA OPASNOST
+<a href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/">
+BESKOMPROMISNO DESNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/tehnologija/aplikacija-koja-otkriva-sifre-s-njom-se-bilo-tko-moze-prikljuciti-na-vas-wi-fi-saznati-i-vase-lozinke-za-facebook-e-mail-cak-i-internet-bankarstvo/6436186/">
-APLIKACIJA KOJA OTKRIVA ŠIFRE S njom se bilo tko može prikljuèiti na vaš wi-fi, saznati i vaše lozinke za Facebook, e-mail, èak i internet bankarstvo
+<a href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/">
+SLIKARSKA IKONA HRVATSKE DESNICE Nevjerojatna životna prièa Charlesa Billicha koji je Tita naslikao s vampirskim oènjacima
 </a>
 </h4>
 </div>
@@ -1767,19 +1918,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1787,8 +1938,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1877,6 +2028,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1930,7 +2086,7 @@ Life
 Obitelj i djeca
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/tehnologija/">
 Tehnologija
 </a>
@@ -1955,7 +2111,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -2164,11 +2320,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2216,14 +2367,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2267,23 +2418,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=34&contextPath=1-32-34-&pubId=1&cat=&meta=read-story&objId=7262526&type=article&title=HRVATSKA+ELITNA+KONFERENCIJA+ZA+VIDEO+IGRE+NAJAVILA+%c5%a0IRENJE+U+KANADU+Reboot+%c4%87e+idu%c4%87e+godine+odr%c5%beati+%c4%8dak+tri+doga%c4%91aja+u+Hrvatskoj+i+svijetu&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2ftehnologija%2fhrvatska-elitna-konferencija-za-video-igre-najavila-sirenje-u-kanadu-reboot-ce-iduce-godine-odrzati-cak-tri-dogadaja-u-hrvatskoj-i-svijetu%2f7262526%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7330041&type=article&title=SLIKARSKA+IKONA+HRVATSKE+DESNICE+Nevjerojatna+%c5%beivotna+pri%c4%8da+Charlesa+Billicha+koji+je+Tita+naslikao+s+vampirskim+o%c4%8dnjacima&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fslikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima%2f7330041%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=34&amp;contextPath=1-32-34-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7262526&amp;type=article&amp;title=HRVATSKA+ELITNA+KONFERENCIJA+ZA+VIDEO+IGRE+NAJAVILA+%c5%a0IRENJE+U+KANADU+Reboot+%c4%87e+idu%c4%87e+godine+odr%c5%beati+%c4%8dak+tri+doga%c4%91aja+u+Hrvatskoj+i+svijetu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2ftehnologija%2fhrvatska-elitna-konferencija-za-video-igre-najavila-sirenje-u-kanadu-reboot-ce-iduce-godine-odrzati-cak-tri-dogadaja-u-hrvatskoj-i-svijetu%2f7262526%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7330041&amp;type=article&amp;title=SLIKARSKA+IKONA+HRVATSKE+DESNICE+Nevjerojatna+%c5%beivotna+pri%c4%8da+Charlesa+Billicha+koji+je+Tita+naslikao+s+vampirskim+o%c4%8dnjacima&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fslikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima%2f7330041%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&cat=jltags%40eph.hr%2c2016&objId=2020507031&title=Reboot+Develop&url=tag%3ajltags%40eph.hr%2c2016%3aReboot_Develop&rt=1&ctxId=34&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=79633692&title=Charles+Billich&url=tag%3ajltags%40eph.hr%2c2016%3aCharles_Billich&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2020507031&amp;title=Reboot+Develop&amp;url=tag%3ajltags%40eph.hr%2c2016%3aReboot_Develop&amp;rt=1&amp;ctxId=34&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=79633692&amp;title=Charles+Billich&amp;url=tag%3ajltags%40eph.hr%2c2016%3aCharles_Billich&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2336,7 +2487,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/tehnologija/hrvatska-elitna-konferencija-za-video-igre-najavila-sirenje-u-kanadu-reboot-ce-iduce-godine-odrzati-cak-tri-dogadaja-u-hrvatskoj-i-svijetu/7262526/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2346,14 +2497,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/tehnologija/hrvatska-elitna-konferencija-za-video-igre-najavila-sirenje-u-kanadu-reboot-ce-iduce-godine-odrzati-cak-tri-dogadaja-u-hrvatskoj-i-svijetu/7262526/",
-postId : "7262526",
+url : "https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/",
+postId : "7330041",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "HRVATSKA ELITNA KONFERENCIJA ZA VIDEO IGRE NAJAVILA ŠIRENJE U KANADU Reboot æe iduæe godine održati èak tri dogaðaja u Hrvatskoj i svijetu",
-pubdate : "2018-04-19 20:07",
-authors : "Damjan Rakniæ",
-sections : "Front Page, Life, Tehnologija",
-tags : "Reboot Develop",
+title : "SLIKARSKA IKONA HRVATSKE DESNICE Nevjerojatna životna prièa Charlesa Billicha koji je Tita naslikao s vampirskim oènjacima",
+pubdate : "2018-05-07 22:30",
+authors : "Mark Cigoj",
+sections : "Front Page, Life, Nedjeljni, Životne prièe",
+tags : "Charles Billich",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

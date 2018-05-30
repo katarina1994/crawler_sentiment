@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="ZAGREB - U povodom obilježavanja 20 godina Vojnog ordinarijata u Hrvatskoj papa Franjo primio je u srijedu u Vatikanu izaslanstva Ministarstva unutarnjih poslova, Ministarstva obrane i Ministarstva hrvatskih branitelja koja su predvodili ministri Davor Božinoviæ i Tomo Medved." />
-<meta name="keywords" content="Davor Božinoviæ, Tomo Medved" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Bivši amerièki predsjednik Barack Obama oglasio se u utorak nakon što je njegov nasljednik Donald Trump objavio istupanje SAD-a iz iranskog nuklearnog sporazuma: - Rijeè je o ozbiljnoj pogrešci koja æe narušiti amerièku globalnu vjerodostojnost." />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>BOŽINOVIÆ I MEDVED NA AUDIJENCIJI KOD PAPE Ministar policije se sastao i s predstavnicima vatikanske žandarmerije: &#039;Želimo intenzivirati suradnju&#039; - Jutarnji List</title>
+<title>OBAMA NAKON TRUMPOVOG POTEZA UÈINIO NEŠTO ŠTO BIVŠI AMERIÈKI PREDSJEDNICI NE RADE GOTOVO NIKADA &#039;Ovo je ozbiljna pogreška&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
+var dfpCategory = "Svijet";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7286209";
-var dfpArticleKeyword = "Davor Božinoviæ";
+var dfpArticle = "7334799";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/bozinovic-i-medved-na-audijenciji-kod-pape-ministar-policije-se-sastao-i-s-predstavnicima-vatikanske-zandarmerije-zelimo-intenzivirati-suradnju/7286209/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/bozinovic-i-medved-na-audijenciji-kod-pape-ministar-policije-se-sastao-i-s-predstavnicima-vatikanske-zandarmerije-zelimo-intenzivirati-suradnju/7286209/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/obama-nakon-trumpovog-poteza-ucinio-nesto-sto-bivsi-americki-predsjednici-ne-rade-gotovo-nikada-ovo-je-ozbiljna-pogreska/7334799/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/obama-nakon-trumpovog-poteza-ucinio-nesto-sto-bivsi-americki-predsjednici-ne-rade-gotovo-nikada-ovo-je-ozbiljna-pogreska/7334799/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/papajpg/7286215/ALTERNATES/LANDSCAPE_1180/papa.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/barack-obama/6663576/ALTERNATES/LANDSCAPE_1180/Barack%20Obama" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/papajpg/7286215/ALTERNATES/LANDSCAPE_1180/papa.jpg">
-<meta property="og:title" content="BOŽINOVIÆ I MEDVED NA AUDIJENCIJI KOD PAPE Ministar policije se sastao i s predstavnicima vatikanske žandarmerije: 'Želimo intenzivirati suradnju'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/barack-obama/6663576/ALTERNATES/LANDSCAPE_1180/Barack%20Obama">
+<meta property="og:title" content="OBAMA NAKON TRUMPOVOG POTEZA UÈINIO NEŠTO ŠTO BIVŠI AMERIÈKI PREDSJEDNICI NE RADE GOTOVO NIKADA 'Ovo je ozbiljna pogreška'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/bozinovic-i-medved-na-audijenciji-kod-pape-ministar-policije-se-sastao-i-s-predstavnicima-vatikanske-zandarmerije-zelimo-intenzivirati-suradnju/7286209/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/obama-nakon-trumpovog-poteza-ucinio-nesto-sto-bivsi-americki-predsjednici-ne-rade-gotovo-nikada-ovo-je-ozbiljna-pogreska/7334799/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="ZAGREB - U povodom obilježavanja 20 godina Vojnog ordinarijata u Hrvatskoj papa Franjo primio je u srijedu u Vatikanu izaslanstva Ministarstva unutarnjih poslova, Ministarstva obrane i Ministarstva hrvatskih branitelja koja su predvodili ministri Davor Božinoviæ i Tomo Medved." />
+<meta property="og:description" content="Bivši amerièki predsjednik Barack Obama oglasio se u utorak nakon što je njegov nasljednik Donald Trump objavio istupanje SAD-a iz iranskog nuklearnog sporazuma: - Rijeè je o ozbiljnoj pogrešci koja æe narušiti amerièku globalnu vjerodostojnost." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="BOŽINOVIÆ I MEDVED NA AUDIJENCIJI KOD PAPE Ministar policije se sastao i s predstavnicima vatikanske žandarmerije: 'Želimo intenzivirati suradnju'">
-<meta name="twitter:description" content="ZAGREB - U povodom obilježavanja 20 godina Vojnog ordinarijata u Hrvatskoj papa Franjo primio je u srijedu u Vatikanu izaslanstva Ministarstva unutarnjih poslova, Ministarstva obrane i Ministarstva hrvatskih branitelja koja su predvodili ministri Davor Božinoviæ i Tomo Medved.">
+<meta name="twitter:creator" content="Željko Trkanjec">
+<meta name="twitter:title" content="OBAMA NAKON TRUMPOVOG POTEZA UÈINIO NEŠTO ŠTO BIVŠI AMERIÈKI PREDSJEDNICI NE RADE GOTOVO NIKADA 'Ovo je ozbiljna pogreška'">
+<meta name="twitter:description" content="Bivši amerièki predsjednik Barack Obama oglasio se u utorak nakon što je njegov nasljednik Donald Trump objavio istupanje SAD-a iz iranskog nuklearnog sporazuma: - Rijeè je o ozbiljnoj pogrešci koja æe narušiti amerièku globalnu vjerodostojnost.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-25T16:46+02:00",
-author: "Hina",
+data: { section: "Svijet, Vijesti, Front Page",
+pubdate: "2018-05-08T22:41+02:00",
+author: "Željko Trkanjec",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -858,12 +858,12 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1134,15 +1139,15 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1165,6 +1170,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1204,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-IZASLANSTVO IZ HRVATSKE
+PRESEDAN
 </p>
 <h1
 class="title">
-BOŽINOVIÆ I MEDVED NA AUDIJENCIJI KOD PAPE Ministar policije se sastao i s predstavnicima vatikanske žandarmerije: 'Želimo intenzivirati suradnju'
+OBAMA NAKON TRUMPOVOG POTEZA UÈINIO NEŠTO ŠTO BIVŠI AMERIÈKI PREDSJEDNICI NE RADE GOTOVO NIKADA 'Ovo je ozbiljna pogreška'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1226,7 @@ BOŽINOVIÆ I MEDVED NA AUDIJENCIJI KOD PAPE Ministar policije se sastao i s preds
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
+<li><a href="https://www.jutarnji.hr/autori/zeljko-trkanjec">Željko Trkanjec</a></li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 16:46
+08.05.2018. u 22:41
 </p>
 </li>
 </ul>
@@ -1236,33 +1246,32 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/papajpg/7286215" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/barack-obama/6663576" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/papajpg/7286215/ALTERNATES/LANDSCAPE_380/papa.jpg"
+<img src="https://www.jutarnji.hr/incoming/barack-obama/6663576/ALTERNATES/LANDSCAPE_380/Barack%20Obama"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/papajpg/7286215/BINARY/thumbnail/papa.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/barack-obama/6663576/BINARY/thumbnail/Barack%20Obama"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Former U.S. President Barack Obama speaks at the Bill & Melinda Gates Foundation Goalkeepers event in Manhattan, New York, U.S., September 20, 2017. REUTERS/Elizabeth Shafiroff"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> YOUTUBE/Screenshot
+<span> Elizabeth Shafiroff / REUTERS
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Barack Obama</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1286,23 +1295,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7286209"
+<div id="content-body-6263871-7334799"
 >
-<p>U povodom obilježavanja 20 godina Vojnog ordinarijata u Hrvatskoj papa <strong>Franjo</strong> primio je u srijedu u Vatikanu izaslanstva Ministarstva unutarnjih poslova, Ministarstva obrane i Ministarstva hrvatskih branitelja koja su predvodili ministri <strong>Davor Božinoviæ</strong> i <strong>Tomo Medved.</strong></p><p>- Dragi prijatelji, došli ste u Rim u povodu dvadesete obljetnice osnutka Vojnog ordinarijata u Republici Hrvatskoj. Neka Božji blagoslov bude uvijek nad vama i nad vašim obiteljima, kako biste mogli u povjerenoj vam misiji donositi u društvo nadu i mir, poruèio je papa Franjo hrvatskom izaslanstvu i hodoèasnicima.</p><p>Nakon audijencije u Vatikanu ministar unutarnjih poslova Davor Božinoviæ objavio je na svom Twitteru da je održan prvi sastanak s predstavnicima žandarmerijskih snaga Države Vatikanskoga Grada s ciljem realizacije intenzivnije policijske suradnje koja je do sada postojala samo na razini osiguranja štiæenih osoba.</p><p>- Iz MUP-a smo preporuèili i predstavili hrvatske proizvode za potrebe policije. U cilju unapreðenja suradnje i produbljivanja uzajamnih odnosa dogovoren je skori posjet zapovjednika vatikanske žandarmerije <strong>Domenica Gianija</strong> Hrvatskoj, objavio je Božinoviæ.</p><p>
-<section class="social_embed ">
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDavorBozinovicMUP%2Fvideos%2F835499863312827%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</section>
-</p><p>
-<section class="social_embed ">
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="und" dir="ltr">Prvi sastanak s predstavnicima Žandarmerijskih snaga Države Vatikanskoga Grada s ciljem realizacije intenzivnije policijske suradnje koja je do sada postojala samo na razini osiguranja štiæenih osoba <a href="https://t.co/mKa49UU3ko">pic.twitter.com/mKa49UU3ko</a></p>&mdash; Davor Božinoviæ (@DavorBozinovic) <a href="https://twitter.com/DavorBozinovic/status/989111184933736448?ref_src=twsrc%5Etfw">25 April 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</section>
- </p>
+<p><strong></strong>Bivši amerièki predsjednik <strong>Barack Obama</strong> oglasio se u utorak nakon što je njegov nasljednik <strong>Donald Trump</strong> objavio istupanje SAD-a iz iranskog nuklearnog sporazuma: - Rijeè je o ozbiljnoj pogrešci koja æe narušiti amerièku globalnu vjerodostojnost.</p><p>Bivši amerièki predsjednici u pravilu ne komentiraju odluke svojih nasljednika pa ovo predstavlja presedan. Kojim Obama jasno daje do znanja o koliko je dugoroèno ozbiljnoj politièkoj pogrešci rijeèi.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7286209 p").filter(function () {
+$("#content-body-6263871-7334799 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1311,16 +1311,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7286209").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7334799").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7286209").children().slice(max).remove();
+$("#content-body-6263871-7334799").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7286209").children().get(0);
+var firstChild = $("#content-body-6263871-7334799").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1355,19 +1355,6 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/Tomo_Medved" class ="label label-default" >
-Tomo Medved
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Davor_Bo%C5%BEinovi%C4%87" class ="label label-default" >
-Davor Božinoviæ
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1390,13 +1377,13 @@ Vezane vijesti
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1408,8 +1395,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1421,13 +1408,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1439,8 +1426,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1452,13 +1439,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1470,8 +1457,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1483,17 +1470,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1501,9 +1488,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1585,7 +1571,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7286209" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7334799" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1629,19 +1615,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+SAMO NEK' SE OKREÆE...
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
 </a>
 </h4>
 </div>
@@ -1651,19 +1637,19 @@ VUKOVI OKO NAS
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+NE CVATU IM RUŽE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+RAZOTKRIVENA TUŽNA SVAKODNEVNICA PRVE DAME AMERIKE Objavljeni nepoznati detalji iz života Melanije Trump: 'Cijela situacija je neugodna'
 </a>
 </h4>
 </div>
@@ -1673,19 +1659,19 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+GLOBALNA NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
 </a>
 </h4>
 </div>
@@ -1695,19 +1681,19 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+PRIJELOMNI TRENUTAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </a>
 </h4>
 </div>
@@ -1745,19 +1731,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1765,8 +1751,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1825,12 +1811,12 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1853,6 +1839,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2142,11 +2133,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2194,14 +2180,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2245,34 +2231,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7286209&type=article&title=BO%c5%bdINOVI%c4%86+I+MEDVED+NA+AUDIJENCIJI+KOD+PAPE+Ministar+policije+se+sastao+i+s+predstavnicima+vatikanske+%c5%beandarmerije%3a+%26%23039%3b%c5%bdelimo+intenzivirati+suradnju%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fbozinovic-i-medved-na-audijenciji-kod-pape-ministar-policije-se-sastao-i-s-predstavnicima-vatikanske-zandarmerije-zelimo-intenzivirati-suradnju%2f7286209%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7334799&type=article&title=OBAMA+NAKON+TRUMPOVOG+POTEZA+U%c4%8cINIO+NE%c5%a0TO+%c5%a0TO+BIV%c5%a0I+AMERI%c4%8cKI+PREDSJEDNICI+NE+RADE+GOTOVO+NIKADA+%26%23039%3bOvo+je+ozbiljna+pogre%c5%a1ka%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fobama-nakon-trumpovog-poteza-ucinio-nesto-sto-bivsi-americki-predsjednici-ne-rade-gotovo-nikada-ovo-je-ozbiljna-pogreska%2f7334799%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7286209&amp;type=article&amp;title=BO%c5%bdINOVI%c4%86+I+MEDVED+NA+AUDIJENCIJI+KOD+PAPE+Ministar+policije+se+sastao+i+s+predstavnicima+vatikanske+%c5%beandarmerije%3a+%26%23039%3b%c5%bdelimo+intenzivirati+suradnju%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fbozinovic-i-medved-na-audijenciji-kod-pape-ministar-policije-se-sastao-i-s-predstavnicima-vatikanske-zandarmerije-zelimo-intenzivirati-suradnju%2f7286209%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1786310182&title=Davor+Bo%c5%beinovi%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aDavor_Bo%25C5%25BEinovi%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1786310182&amp;title=Davor+Bo%c5%beinovi%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDavor_Bo%25C5%25BEinovi%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=874076069&title=Tomo+Medved&url=tag%3ajltags%40eph.hr%2c2016%3aTomo_Medved&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=874076069&amp;title=Tomo+Medved&amp;url=tag%3ajltags%40eph.hr%2c2016%3aTomo_Medved&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7334799&amp;type=article&amp;title=OBAMA+NAKON+TRUMPOVOG+POTEZA+U%c4%8cINIO+NE%c5%a0TO+%c5%a0TO+BIV%c5%a0I+AMERI%c4%8cKI+PREDSJEDNICI+NE+RADE+GOTOVO+NIKADA+%26%23039%3bOvo+je+ozbiljna+pogre%c5%a1ka%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fobama-nakon-trumpovog-poteza-ucinio-nesto-sto-bivsi-americki-predsjednici-ne-rade-gotovo-nikada-ovo-je-ozbiljna-pogreska%2f7334799%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2325,7 +2289,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/bozinovic-i-medved-na-audijenciji-kod-pape-ministar-policije-se-sastao-i-s-predstavnicima-vatikanske-zandarmerije-zelimo-intenzivirati-suradnju/7286209/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/obama-nakon-trumpovog-poteza-ucinio-nesto-sto-bivsi-americki-predsjednici-ne-rade-gotovo-nikada-ovo-je-ozbiljna-pogreska/7334799/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2335,14 +2299,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/bozinovic-i-medved-na-audijenciji-kod-pape-ministar-policije-se-sastao-i-s-predstavnicima-vatikanske-zandarmerije-zelimo-intenzivirati-suradnju/7286209/",
-postId : "7286209",
+url : "https://www.jutarnji.hr/vijesti/svijet/obama-nakon-trumpovog-poteza-ucinio-nesto-sto-bivsi-americki-predsjednici-ne-rade-gotovo-nikada-ovo-je-ozbiljna-pogreska/7334799/",
+postId : "7334799",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "BOŽINOVIÆ I MEDVED NA AUDIJENCIJI KOD PAPE Ministar policije se sastao i s predstavnicima vatikanske žandarmerije: 'Želimo intenzivirati suradnju'",
-pubdate : "2018-04-25 16:46",
-authors : "Hina",
-sections : "Front Page, Hrvatska",
-tags : "Davor Božinoviæ, Tomo Medved",
+title : "OBAMA NAKON TRUMPOVOG POTEZA UÈINIO NEŠTO ŠTO BIVŠI AMERIÈKI PREDSJEDNICI NE RADE GOTOVO NIKADA 'Ovo je ozbiljna pogreška'",
+pubdate : "2018-05-08 22:41",
+authors : "Željko Trkanjec",
+sections : "Front Page, Svijet",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

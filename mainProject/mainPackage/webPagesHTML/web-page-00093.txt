@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="zebra, mladunèe, Zoološki vrt grada Zagreba" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Zagrebaèko kazalište lutaka priprema premijeru predstave &#039;Èipolino&#039; u režiji Krešimira Dolenèiæa, koja æe se održati u petak 11. svibnja u 19 sati." />
+<meta name="keywords" content="Zagrebaèko kazalište lutaka, Krešimir Dolenèiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FOTO: ZEBRA SABINA POSTALA JE MAMA! Njezino mladunèe staro je tek dva dana, a posjetiteljima Zoološkoga vrta u Zagrebu veæ oduzima dah i topi srca - Jutarnji List</title>
+<title>ÈIPOLINO U ZAGREBAÈKOM KAZALIŠTU LUTAKA Krešimir Dolenèiæ postavlja politièki klasik za djecu, s voæem i povræem u glavnim ulogama - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Life";
-var dfpCategoryParent = "Front Page";
-var dfpRos = "life-ros";
-var dfpArticle = "7280616";
-var dfpArticleKeyword = "zebra";
+var dfpCategory = "Kazalište";
+var dfpCategoryParent = "Kultura";
+var dfpRos = "kultura-ros";
+var dfpArticle = "7331898";
+var dfpArticleKeyword = "Zagrebaèko kazalište lutaka";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/foto-zebra-sabina-postala-je-mama-njezino-mladunce-staro-je-tek-dva-dana-a-posjetiteljima-zooloskoga-vrta-u-zagrebu-vec-oduzima-dah-i-topi-srca/7280616/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/foto-zebra-sabina-postala-je-mama-njezino-mladunce-staro-je-tek-dva-dana-a-posjetiteljima-zooloskoga-vrta-u-zagrebu-vec-oduzima-dah-i-topi-srca/7280616/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/kultura/kazaliste/cipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama/7331898/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/kultura/kazaliste/cipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama/7331898/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/zebra3/7280538/ALTERNATES/LANDSCAPE_1180/zebra3" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/no7_3090jpg/7331913/ALTERNATES/LANDSCAPE_1180/NO7_3090.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/zebra3/7280538/ALTERNATES/LANDSCAPE_1180/zebra3">
-<meta property="og:title" content="FOTO: ZEBRA SABINA POSTALA JE MAMA! Njezino mladunèe staro je tek dva dana, a posjetiteljima Zoološkoga vrta u Zagrebu veæ oduzima dah i topi srca" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/no7_3090jpg/7331913/ALTERNATES/LANDSCAPE_1180/NO7_3090.jpg">
+<meta property="og:title" content="ÈIPOLINO U ZAGREBAÈKOM KAZALIŠTU LUTAKA Krešimir Dolenèiæ postavlja politièki klasik za djecu, s voæem i povræem u glavnim ulogama" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/foto-zebra-sabina-postala-je-mama-njezino-mladunce-staro-je-tek-dva-dana-a-posjetiteljima-zooloskoga-vrta-u-zagrebu-vec-oduzima-dah-i-topi-srca/7280616/" />
+<meta property="og:url" content="https://www.jutarnji.hr/kultura/kazaliste/cipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama/7331898/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Zagrebaèko kazalište lutaka priprema premijeru predstave 'Èipolino' u režiji Krešimira Dolenèiæa, koja æe se održati u petak 11. svibnja u 19 sati." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="FOTO: ZEBRA SABINA POSTALA JE MAMA! Njezino mladunèe staro je tek dva dana, a posjetiteljima Zoološkoga vrta u Zagrebu veæ oduzima dah i topi srca">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:title" content="ÈIPOLINO U ZAGREBAÈKOM KAZALIŠTU LUTAKA Krešimir Dolenèiæ postavlja politièki klasik za djecu, s voæem i povræem u glavnim ulogama">
+<meta name="twitter:description" content="Zagrebaèko kazalište lutaka priprema premijeru predstave 'Èipolino' u režiji Krešimira Dolenèiæa, koja æe se održati u petak 11. svibnja u 19 sati.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2438';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Life, Front Page",
-pubdate: "2018-04-24T12:39+02:00",
-author: "Ivana Vašareviæ",
+data: { section: "Kazalište, Kultura, Front Page",
+pubdate: "2018-05-08T13:44+02:00",
+author: "Goran Šikiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="life story">
+<body class="kultura story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -731,10 +731,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <script type="text/javascript">
 $(function() {
 if ($("#related-news-box").has("ul").length) {
-if ($("[id^='content-body-'] > p").length < 9) {
+if ($("[id^='content-body-'] > p").length < 0) {
 $("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
 } else {
-$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(9));
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
 }
 } else {
 $("#related-news-box").remove();
@@ -808,12 +808,12 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/">
 Kultura
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1025,7 +1030,7 @@ Glazba
 Arhitektura
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/kazaliste/">
 Kazalište
 </a>
@@ -1132,62 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/life/">Life </a></li>
+<li><a href="https://www.jutarnji.hr/kultura/">Kultura </a>
+</li>
+<li><a href="https://www.jutarnji.hr/kultura/kazaliste/">Kazalište </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
-Obitelj i djeca
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/tehnologija/">
-Tehnologija
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/znanost/">
-Znanost
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/zdravlje/">
-Zdravlje
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/seks-i-veze/">
-Seks i veze
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/putovanja/">
-Putovanja
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zivotne-price/">
-Životne prièe
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/vaumijau/">
-VauMijau
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
-Moda i ljepota
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/astro/">
-Astro
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
-Buduænost zdravstva
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
 </a>
 </li>
 </ul>
@@ -1227,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-PRESLATKO BIÆE
+SUVREMENA PORUKA
 </p>
 <h1
 class="title">
-FOTO: ZEBRA SABINA POSTALA JE MAMA! Njezino mladunèe staro je tek dva dana, a posjetiteljima Zoološkoga vrta u Zagrebu veæ oduzima dah i topi srca
+ÈIPOLINO U ZAGREBAÈKOM KAZALIŠTU LUTAKA Krešimir Dolenèiæ postavlja politièki klasik za djecu, s voæem i povræem u glavnim ulogama
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1247,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 12:39
+08.05.2018. u 13:44
 </p>
 </li>
 </ul>
@@ -1259,12 +1246,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/zebra3/7280538" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/no7_3090jpg/7331913" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/zebra3/7280538/ALTERNATES/LANDSCAPE_380/zebra3"
+<img src="https://www.jutarnji.hr/incoming/no7_3090jpg/7331913/ALTERNATES/LANDSCAPE_380/NO7_3090.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/zebra3/7280538/BINARY/thumbnail/zebra3"
+data-src-template="https://www.jutarnji.hr/incoming/no7_3090jpg/7331913/BINARY/thumbnail/NO7_3090.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1273,9 +1260,12 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Zoološki vrt grada Zagreba
+<span> Ines Novkoviæ
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Prizor iz 'Èipolina'</h4>
 </div>
 </div>
 </section>
@@ -1309,19 +1299,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7280616"
+<div id="content-body-6263871-7331898"
 >
-<p>U nedjelju, na Svjetski dan planeta Zemlje, zebra<strong> Sabina</strong> na svijet je donijela zdravo mladunèe, koje je veæ nakon petnaest minuta uspješno stalo na svoje noge.</p><p>	U meðuvremenu je napravilo i prve korake, a nestabilan hod iz sata u sat postaje sve sigurniji. Za sad u stopu prati majku, što zbog sisanja mlijeka, a što zbog sigurnosti. </p><p>Naime, prvih dana mlado je uz majku, daleko od drugih zebri, kako bi je nauèilo prepoznavati vidom, njuhom i sluhom. Iako tata <strong>Gustav</strong> štiti krdo, mama je prvi red zaštite.</p><p>	Simpatièan mališan podrijetlom iz Afrike još nema prepoznatljiv crnobijeli uzorak. Naime, na bijelom se krznu sad istièu tek smeðe pruge.</p><p>
+<p>Zagrebaèko kazalište lutaka priprema premijeru predstave 'Èipolino' u režiji <strong>Krešimira Dolenèiæa</strong>, koja æe se održati u petak 11. svibnja u 19 sati. </p><p>Roman <em>Èipolino</em> <strong>Giannija Rodarija</strong>, politièka je prièa za djecu, koja je ubrzo nakon objavljivanja 1957. postala klasik. Glavni junaci prièe su voæe i povræe, èime Rodari ublažava težinu politièke alegorije, èini pripovijest pristupaènijom djeci i humornim odmakom podcrtava apsurdnost nepravednih društvenih sustava. U prièi, Èipolino pokušava osloboditi iz zatvora svojega oca, koji je nehotice stao na nogu princu Limunu i pritom se upliæe u šira društvena zbivanja te podiže bunu koja æe dovesti do uspostave pravednijeg društva. </p><p>Ova duhovita i pronicljiva prièa uvodi djecu u svijet politièkog promišljanja, pouèavajuæi ih da ne trebaju trpjeti nepravdu i da se ne treba bojati moænika. Èipolino se svojom politièkom porukom namijenjenom djeci ostaje vrlo suvremen i aktualan sve do danas. Roman je pobudio maštu mnogih umjetnika, koji su ga adaptirali za kazalište, a slavni <strong>Aram Haèaturjan</strong> skladao je i istoimeni balet, praizveden u Ukrajini.</p><p>
 <section>
 <article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/zebra/7280532" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/no7_3127jpg/7331916" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/zebra/7280532/ALTERNATES/FREE_380/zebra"
+<img src="https://www.jutarnji.hr/incoming/no7_3127jpg/7331916/ALTERNATES/FREE_380/NO7_3127.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/zebra/7280532/BINARY/thumbnail/zebra"
+data-src-template="https://www.jutarnji.hr/incoming/no7_3127jpg/7331916/BINARY/thumbnail/NO7_3127.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1330,25 +1320,28 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Zoološki vrt grada Zagreba
+<span> Ines Novkoviæ
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Prizor iz 'Èipolina'</h4>
 </div>
 </div>
 </div>
 </article>
 </section>
-</p><p>
+ </p><p>„Ova prièa èita se kao politièka poèetnica, koja svoju malu publiku uèi kako se ne treba miriti s nepravdom i ukazuje na snagu zajednièkog protesta putem konkretne akcije za koju su potrebni hrabri pojednici. Èipolino kao dijete, mladi luk, nije optereæen cinizmom ni pesimizmom te kao takav tijekom prièe gradi i brani svoje ideale koji bi trebali biti zdravorazumski parametri svakoga društva. Kod Rodarija sve završava uspješnim politièkim prevratom, odnosno revolucijom, ali ova predstava, koja nastaje više desetaka godina nakon predloška, pokušava uspostaviti ravnotežu mirnim putem“, pojašnjava <strong>Ana Tonkoviæ Dolenèiæ</strong>, autorica dramatizacije.</p><p>Nakon velikih uspješnica kao što su Èarobna frula i Zagrebaèki vremeplovci, Krešimir Dolenèiæ vratio se u Zagrebaèko kazalište lutaka s još jednim spektaklom za koji je lutke i scenografiju osmislio <strong>Goran Lelas</strong>, meðunarodno poznat i priznat likovni umjetnik proslavljen na podruèju industrijskog dizajna i likovne umjetnosti te kao ilustrator, modni dizajner i kostimograf.</p><p>
 <section>
 <article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/zebra2/7280535" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/no6_8243jpg/7331910" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/zebra2/7280535/ALTERNATES/FREE_380/zebra2"
+<img src="https://www.jutarnji.hr/incoming/no6_8243jpg/7331910/ALTERNATES/FREE_380/NO6_8243.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/zebra2/7280535/BINARY/thumbnail/zebra2"
+data-src-template="https://www.jutarnji.hr/incoming/no6_8243jpg/7331910/BINARY/thumbnail/NO6_8243.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1357,128 +1350,23 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Zoološki vrt grada Zagreba
+<span> Ines Novkoviæ
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Prizor iz 'Èipolina'</h4>
 </div>
 </div>
 </div>
 </article>
 </section>
-</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/zebra4/7280541" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/zebra4/7280541/ALTERNATES/FREE_380/zebra4"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/zebra4/7280541/BINARY/thumbnail/zebra4"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Zoološki vrt grada Zagreba
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>	- Najmlaði èlan zagrebaèke obitelji zebri u trenu je postao ljubimac djelatnika i posjetitelja Zoološkoga vrta. Ne znamo još kojega je spola. Pretpostavlja se da je ženka, no to æemo sa sigurnošæu utvrditi tek kad se poène odvajati od majke. U ovom razdoblju naš je posao poštivati prirodu - rekao je <strong>Damir Skok</strong>, ravnatelj Zoološkoga vrta grada Zagreba.</p><p>	Gravidnost grantove nizinske zebre traje nešto više od godinu dana, a mladunèe zebre pri okotu ima tridesetak kilograma. Ženka okoti najèešæe jedno mlado svake dvije godine.</p><p>	U Zoološkom vrtu grada Zagreba prošlo je mladunèe zebre na svijet došlo 2015. godine. Tata Gustav ponosan je na svoje potomstvo, a na njegovu obitelj ponosni su i djelatnici Vrta. Naime, prije mladunèeta iz 2015. u Maksimiru nije bilo mladunaca zebre više od deset godina.</p><p>	Pred novim mališanom za nekoliko dana je i novi izazov. Tad æe, naime, poèeti pasti travu.</p><p>	Odrasla jedinka može doseæi težinu od 300 kilograma te duljinu tijela od 246 centimetara.</p><p>	U prirodi zebre žive 20-ak, a u zoološkim vrtovima, gdje su zaštiæene od grabežljivaca poput lavova i hijena, èak i 40-ak godina.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/zebra5/7280544" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/zebra5/7280544/ALTERNATES/FREE_380/zebra5"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/zebra5/7280544/BINARY/thumbnail/zebra5"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Zoološki vrt grada Zagreba
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/zebra7/7280547" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/zebra7/7280547/ALTERNATES/FREE_380/Zebra7"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/zebra7/7280547/BINARY/thumbnail/Zebra7"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Zoološki vrt grada Zagreba
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/zebra8/7280550" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/zebra8/7280550/ALTERNATES/FREE_380/Zebra8"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/zebra8/7280550/BINARY/thumbnail/Zebra8"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Zoološki vrt grada Zagreba
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p>
+ </p><p>U predstavi glume <strong>Dinka Vukoviæ, Jadran Grubišiæ, Andrea Bakoviæ, Marta Bolfan Ugljen, Anðelko Petric, Janko Popoviæ Volariæ, Marina Kostelac, Adam Skendžiæ, Ivan Bošnjak, Branko Smiljaniæ, Mladen Èutura</strong> i <strong>Borna Galinoviæ</strong>, a <strong>Leonard Mišiæ</strong> zadužen je za bubnjarsku pratnju. Lutke, scenografiju i kostime kreirao je Goran Lelas. Skladatelj je <strong>Mario Mirkoviæ</strong>, a oblikovatelj svjetla <strong>Vilim Sever</strong>.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7280616 p").filter(function () {
+$("#content-body-6263871-7331898 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1487,16 +1375,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7280616").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7331898").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7280616").children().slice(max).remove();
+$("#content-body-6263871-7331898").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7280616").children().get(0);
+var firstChild = $("#content-body-6263871-7331898").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1534,18 +1422,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Zoolo%C5%A1ki_vrt_grada_Zagreba" class ="label label-default" >
-Zoološki vrt grada Zagreba
+<a href="https://www.jutarnji.hr/tag/Kre%C5%A1imir_Dolen%C4%8Di%C4%87" class ="label label-default" >
+Krešimir Dolenèiæ
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/mladun%C4%8De" class ="label label-default" >
-mladunèe
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/zebra" class ="label label-default" >
-zebra
+<a href="https://www.jutarnji.hr/tag/Zagreba%C4%8Dko_kazali%C5%A1te_lutaka" class ="label label-default" >
+Zagrebaèko kazalište lutaka
 </a>
 </li>
 </ul>
@@ -1556,15 +1439,31 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="interijeri media none">
+<article class="globus-kultura media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zagrebacki-zooloski-vrt-dobio-novi-sareni-restoran-s-kutkom-za-djecu/5572103/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-kultura/druzina-mladih-vani-je-rat-a-djeca-su-se-zavukla-pod-klavir-i-igraju-se-komentirao-je-krleza-habunek-je-bio-bijesan-a-sto-bi-trebala-raditi/7266132/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/zagrebacki-zooloski-vrt-dobio-novi-sareni-restoran-s-kutkom-za-djecu/5572103/">
-Zagrebaèki Zoološki vrt dobio novi šareni restoran s kutkom za djecu! </a>
+<a href="https://www.jutarnji.hr/globus/Globus-kultura/druzina-mladih-vani-je-rat-a-djeca-su-se-zavukla-pod-klavir-i-igraju-se-komentirao-je-krleza-habunek-je-bio-bijesan-a-sto-bi-trebala-raditi/7266132/">
+DRUŽINA MLADIH 'Vani je rat, a djeca su se zavukla pod klavir i igraju se', komentirao je Krleža. Habunek je bio bijesan: 'A što bi trebala raditi?'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="kazaliste media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/kazaliste/malena-i-klepetan-ljubav-dviju-najpoznatijih-roda-na-svijetu-prvi-put-na-kazalisnim-daskama/7261731/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/malena-i-klepetan-ljubav-dviju-najpoznatijih-roda-na-svijetu-prvi-put-na-kazalisnim-daskama/7261731/">
+MALENA I KLEPETAN Ljubav dviju najpoznatijih roda na svijetu prvi put na kazališnim daskama
+</a>
 </h4>
 </li>
 </ul>
@@ -1585,13 +1484,13 @@ Zagrebaèki Zoološki vrt dobio novi šareni restoran s kutkom za djecu! </a>
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1603,8 +1502,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1616,13 +1515,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1634,8 +1533,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1647,13 +1546,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1665,8 +1564,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1678,17 +1577,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1696,9 +1595,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1780,7 +1678,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7280616" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7331898" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1824,18 +1722,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="kazaliste media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/kazaliste/foto-posljednji-ispracaj-velikog-kazalisnog-redatelja-veliki-broj-glumaca-i-ostalih-kulturnih-djelatnika-na-ispracaju-georgija-para/7333131/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-MUTACIJA GENA </a>
+<a href="https://www.jutarnji.hr/kultura/kazaliste/foto-posljednji-ispracaj-velikog-kazalisnog-redatelja-veliki-broj-glumaca-i-ostalih-kulturnih-djelatnika-na-ispracaju-georgija-para/7333131/">
+VELIKAN SCENE
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'
+<a href="https://www.jutarnji.hr/kultura/kazaliste/foto-posljednji-ispracaj-velikog-kazalisnog-redatelja-veliki-broj-glumaca-i-ostalih-kulturnih-djelatnika-na-ispracaju-georgija-para/7333131/">
+FOTO: POSLJEDNJI ISPRAÆAJ VELIKOG KAZALIŠNOG REDATELJA Veliki broj glumaca i ostalih kulturnih djelatnika na ispraæaju Georgija Para
 </a>
 </h4>
 </div>
@@ -1845,19 +1744,19 @@ MUTACIJA GENA </a>
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="kazaliste media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/kazaliste/osvrt-na-praizvedbu-alphonsine-iva-viskovic-i-natasa-janjic-su-najbolja-strana-predugog-mjuzikla/7327797/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-NE SRAME SE
+<a href="https://www.jutarnji.hr/kultura/kazaliste/osvrt-na-praizvedbu-alphonsine-iva-viskovic-i-natasa-janjic-su-najbolja-strana-predugog-mjuzikla/7327797/">
+KAZALIŠTE KOMEDIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE' Tinejdžerica majci predstavila novog deèka, oca troje djece
+<a href="https://www.jutarnji.hr/kultura/kazaliste/osvrt-na-praizvedbu-alphonsine-iva-viskovic-i-natasa-janjic-su-najbolja-strana-predugog-mjuzikla/7327797/">
+OSVRT NA PRAIZVEDBU 'ALPHONSINE' Iva Viskoviæ i Nataša Janjiæ su najbolja strana predugog mjuzikla
 </a>
 </h4>
 </div>
@@ -1867,18 +1766,19 @@ FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="kazaliste media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/kazaliste/in-memoriam-georgij-paro-odlazak-cinicnog-krlezijanca-i-beckettovskog-buntovnika/7320675/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-DVOSTRUKA SREÆA </a>
+<a href="https://www.jutarnji.hr/kultura/kazaliste/in-memoriam-georgij-paro-odlazak-cinicnog-krlezijanca-i-beckettovskog-buntovnika/7320675/">
+PIŠE DAVOR ŠPIŠIÆ
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...
+<a href="https://www.jutarnji.hr/kultura/kazaliste/in-memoriam-georgij-paro-odlazak-cinicnog-krlezijanca-i-beckettovskog-buntovnika/7320675/">
+IN MEMORIAM: GEORGIJ PARO Odlazak ciniènog krležijanca i beckettovskog buntovnika
 </a>
 </h4>
 </div>
@@ -1888,19 +1788,19 @@ JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene raz
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="kazaliste media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/kazaliste/cipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama/7331898/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-SANDA PANDŽA
+<a href="https://www.jutarnji.hr/kultura/kazaliste/cipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama/7331898/">
+SUVREMENA PORUKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-FILMSKI USPJEH Hrvatica od konobarice bez radne dozvole u Italiji dogurala do zvjezdanog biznisa: Organizirala sam svadbu Toma Cruisea i P. Ecclestone
+<a href="https://www.jutarnji.hr/kultura/kazaliste/cipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama/7331898/">
+ÈIPOLINO U ZAGREBAÈKOM KAZALIŠTU LUTAKA Krešimir Dolenèiæ postavlja politièki klasik za djecu, s voæem i povræem u glavnim ulogama
 </a>
 </h4>
 </div>
@@ -1938,19 +1838,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1958,8 +1858,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -2046,6 +1946,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2185,7 +2090,7 @@ Glazba
 Arhitektura
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/kazaliste/">
 Kazalište
 </a>
@@ -2335,11 +2240,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2387,14 +2287,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2438,45 +2338,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=32&contextPath=1-32-&pubId=1&cat=&meta=read-story&objId=7280616&type=article&title=FOTO%3a+ZEBRA+SABINA+POSTALA+JE+MAMA!+Njezino+mladun%c4%8de+staro+je+tek+dva+dana%2c+a+posjetiteljima+Zoolo%c5%a1koga+vrta+u+Zagrebu+ve%c4%87+oduzima+dah+i+topi+srca&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2ffoto-zebra-sabina-postala-je-mama-njezino-mladunce-staro-je-tek-dva-dana-a-posjetiteljima-zooloskoga-vrta-u-zagrebu-vec-oduzima-dah-i-topi-srca%2f7280616%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=50&contextPath=1-43-50-&pubId=1&cat=&meta=read-story&objId=7331898&type=article&title=%c4%8cIPOLINO+U+ZAGREBA%c4%8cKOM+KAZALI%c5%a0TU+LUTAKA+Kre%c5%a1imir+Dolen%c4%8di%c4%87+postavlja+politi%c4%8dki+klasik+za+djecu%2c+s+vo%c4%87em+i+povr%c4%87em+u+glavnim+ulogama&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fkazaliste%2fcipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama%2f7331898%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=32&amp;contextPath=1-32-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7280616&amp;type=article&amp;title=FOTO%3a+ZEBRA+SABINA+POSTALA+JE+MAMA!+Njezino+mladun%c4%8de+staro+je+tek+dva+dana%2c+a+posjetiteljima+Zoolo%c5%a1koga+vrta+u+Zagrebu+ve%c4%87+oduzima+dah+i+topi+srca&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2ffoto-zebra-sabina-postala-je-mama-njezino-mladunce-staro-je-tek-dva-dana-a-posjetiteljima-zooloskoga-vrta-u-zagrebu-vec-oduzima-dah-i-topi-srca%2f7280616%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=50&amp;contextPath=1-43-50-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7331898&amp;type=article&amp;title=%c4%8cIPOLINO+U+ZAGREBA%c4%8cKOM+KAZALI%c5%a0TU+LUTAKA+Kre%c5%a1imir+Dolen%c4%8di%c4%87+postavlja+politi%c4%8dki+klasik+za+djecu%2c+s+vo%c4%87em+i+povr%c4%87em+u+glavnim+ulogama&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fkazaliste%2fcipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama%2f7331898%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-&cat=jltags%40eph.hr%2c2016&objId=1773411402&title=zebra&url=tag%3ajltags%40eph.hr%2c2016%3azebra&rt=1&ctxId=32&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-50-&cat=jltags%40eph.hr%2c2016&objId=1368293820&title=Zagreba%c4%8dko+kazali%c5%a1te+lutaka&url=tag%3ajltags%40eph.hr%2c2016%3aZagreba%25C4%258Dko_kazali%25C5%25A1te_lutaka&rt=1&ctxId=50&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1773411402&amp;title=zebra&amp;url=tag%3ajltags%40eph.hr%2c2016%3azebra&amp;rt=1&amp;ctxId=32&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-50-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1368293820&amp;title=Zagreba%c4%8dko+kazali%c5%a1te+lutaka&amp;url=tag%3ajltags%40eph.hr%2c2016%3aZagreba%25C4%258Dko_kazali%25C5%25A1te_lutaka&amp;rt=1&amp;ctxId=50&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-&cat=jltags%40eph.hr%2c2016&objId=1841115137&title=mladun%c4%8de&url=tag%3ajltags%40eph.hr%2c2016%3amladun%25C4%258De&rt=1&ctxId=32&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-50-&cat=jltags%40eph.hr%2c2016&objId=1311650030&title=Kre%c5%a1imir+Dolen%c4%8di%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aKre%25C5%25A1imir_Dolen%25C4%258Di%25C4%2587&rt=1&ctxId=50&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1841115137&amp;title=mladun%c4%8de&amp;url=tag%3ajltags%40eph.hr%2c2016%3amladun%25C4%258De&amp;rt=1&amp;ctxId=32&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-&cat=jltags%40eph.hr%2c2016&objId=651956777&title=Zoolo%c5%a1ki+vrt+grada+Zagreba&url=tag%3ajltags%40eph.hr%2c2016%3aZoolo%25C5%25A1ki_vrt_grada_Zagreba&rt=1&ctxId=32&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=651956777&amp;title=Zoolo%c5%a1ki+vrt+grada+Zagreba&amp;url=tag%3ajltags%40eph.hr%2c2016%3aZoolo%25C5%25A1ki_vrt_grada_Zagreba&amp;rt=1&amp;ctxId=32&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-50-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1311650030&amp;title=Kre%c5%a1imir+Dolen%c4%8di%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKre%25C5%25A1imir_Dolen%25C4%258Di%25C4%2587&amp;rt=1&amp;ctxId=50&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2529,7 +2418,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/foto-zebra-sabina-postala-je-mama-njezino-mladunce-staro-je-tek-dva-dana-a-posjetiteljima-zooloskoga-vrta-u-zagrebu-vec-oduzima-dah-i-topi-srca/7280616/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/kazaliste/cipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama/7331898/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2539,14 +2428,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/foto-zebra-sabina-postala-je-mama-njezino-mladunce-staro-je-tek-dva-dana-a-posjetiteljima-zooloskoga-vrta-u-zagrebu-vec-oduzima-dah-i-topi-srca/7280616/",
-postId : "7280616",
+url : "https://www.jutarnji.hr/kultura/kazaliste/cipolino-u-zagrebackom-kazalistu-lutaka-kresimir-dolencic-postavlja-politicki-klasik-za-djecu-s-vocem-i-povrcem-u-glavnim-ulogama/7331898/",
+postId : "7331898",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "FOTO: ZEBRA SABINA POSTALA JE MAMA! Njezino mladunèe staro je tek dva dana, a posjetiteljima Zoološkoga vrta u Zagrebu veæ oduzima dah i topi srca",
-pubdate : "2018-04-24 12:39",
-authors : "Ivana Vašareviæ",
-sections : "Front Page, VauMijau, Life",
-tags : "zebra, mladunèe, Zoološki vrt grada Zagreba",
+title : "ÈIPOLINO U ZAGREBAÈKOM KAZALIŠTU LUTAKA Krešimir Dolenèiæ postavlja politièki klasik za djecu, s voæem i povræem u glavnim ulogama",
+pubdate : "2018-05-08 13:44",
+authors : "Goran Šikiæ",
+sections : "Front Page, Kultura, Kazalište",
+tags : "Zagrebaèko kazalište lutaka, Krešimir Dolenèiæ",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

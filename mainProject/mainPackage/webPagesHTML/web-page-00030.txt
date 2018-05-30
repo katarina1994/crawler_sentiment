@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Veæ se dugi niz godina intervenira u sustav hrvatskog zdravstva mjerama koje se primarno tièu ponude zdravstvenih usluga (poput naèina plaæanja i visine plaæa zdravstvenih djelatnika, volumena usluga, financijskih limita, vlasnièkih odnosa, broja bolnièkih kreveta, itd.). O resursima koji generiraju ponudu zdravstvenih usluga raspravlja se i odluèuje uglavnom bez previše obaziranja na razinu i vrstu potražnje za zdravstvenom skrbi." />
-<meta name="keywords" content="zdravstvo, pacijenti" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<meta name="keywords" content="Prljavo kazalište, Koncert" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Jedini cilj zdravstva je vrijednost za pacijenta - Jutarnji List</title>
+<title>EKSKLUZIVNO NA JUTARNJI.HR Odaberite pjesme koje želite da Prljavci sviraju na koncertu koji æe biti jednako spektakularan kao onaj legendarni na Trgu - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "CN";
+var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Zdravlje";
-var dfpCategoryParent = "Life";
-var dfpRos = "life-ros";
-var dfpArticle = "7213908";
-var dfpArticleKeyword = "zdravstvo";
+var dfpCategory = "Spektakli";
+var dfpCategoryParent = "Front Page";
+var dfpRos = "spektakli-ros";
+var dfpArticle = "7331460";
+var dfpArticleKeyword = "Prljavo kazalište";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,8 +573,6 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
-<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
-<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -640,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/spektakli/ekskluzivno-na-jutarnjihr-odaberite-pjesme-koje-zelite-da-prljavci-sviraju-na-koncertu-koji-ce-biti-jednako-spektakularan-kao-onaj-legendarni-na-trgu/7331460/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/ekskluzivno-na-jutarnjihr-odaberite-pjesme-koje-zelite-da-prljavci-sviraju-na-koncertu-koji-ce-biti-jednako-spektakularan-kao-onaj-legendarni-na-trgu/7331460/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -654,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/177872-226258-zdravstvo_ilustracija3-0210jpg/7187934/ALTERNATES/LANDSCAPE_1180/177872-226258-zdravstvo_ilustracija3-0210.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/prljavo-kazaliste/7331328/ALTERNATES/LANDSCAPE_1180/Prljavo%20kazali%C5%A1te" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/177872-226258-zdravstvo_ilustracija3-0210jpg/7187934/ALTERNATES/LANDSCAPE_1180/177872-226258-zdravstvo_ilustracija3-0210.jpg">
-<meta property="og:title" content="Jedini cilj zdravstva je vrijednost za pacijenta" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/prljavo-kazaliste/7331328/ALTERNATES/LANDSCAPE_1180/Prljavo%20kazali%C5%A1te">
+<meta property="og:title" content="EKSKLUZIVNO NA JUTARNJI.HR Odaberite pjesme koje želite da Prljavci sviraju na koncertu koji æe biti jednako spektakularan kao onaj legendarni na Trgu" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/" />
+<meta property="og:url" content="https://www.jutarnji.hr/spektakli/ekskluzivno-na-jutarnjihr-odaberite-pjesme-koje-zelite-da-prljavci-sviraju-na-koncertu-koji-ce-biti-jednako-spektakularan-kao-onaj-legendarni-na-trgu/7331460/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Veæ se dugi niz godina intervenira u sustav hrvatskog zdravstva mjerama koje se primarno tièu ponude zdravstvenih usluga (poput naèina plaæanja i visine plaæa zdravstvenih djelatnika, volumena usluga, financijskih limita, vlasnièkih odnosa, broja bolnièkih kreveta, itd.). O resursima koji generiraju ponudu zdravstvenih usluga raspravlja se i odluèuje uglavnom bez previše obaziranja na razinu i vrstu potražnje za zdravstvenom skrbi." />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Ana Bobinac">
-<meta name="twitter:title" content="Jedini cilj zdravstva je vrijednost za pacijenta">
-<meta name="twitter:description" content="Veæ se dugi niz godina intervenira u sustav hrvatskog zdravstva mjerama koje se primarno tièu ponude zdravstvenih usluga (poput naèina plaæanja i visine plaæa zdravstvenih djelatnika, volumena usluga, financijskih limita, vlasnièkih odnosa, broja bolnièkih kreveta, itd.). O resursima koji generiraju ponudu zdravstvenih usluga raspravlja se i odluèuje uglavnom bez previše obaziranja na razinu i vrstu potražnje za zdravstvenom skrbi.">
+<meta name="twitter:creator" content="Jutarnji list">
+<meta name="twitter:title" content="EKSKLUZIVNO NA JUTARNJI.HR Odaberite pjesme koje želite da Prljavci sviraju na koncertu koji æe biti jednako spektakularan kao onaj legendarni na Trgu">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -679,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -691,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Zdravlje, Life, Front Page",
-pubdate: "2018-04-07T23:19+02:00",
-author: "Ana Bobinac",
+data: { section: "Spektakli, Front Page",
+pubdate: "2018-05-08T12:38+02:00",
+author: "Jutarnji list",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="life story">
+<body class="spektakli story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -733,10 +731,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <script type="text/javascript">
 $(function() {
 if ($("#related-news-box").has("ul").length) {
-if ($("[id^='content-body-'] > p").length < 0) {
+if ($("[id^='content-body-'] > p").length < 1) {
 $("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
 } else {
-$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(1));
 }
 } else {
 $("#related-news-box").remove();
@@ -810,7 +808,7 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
@@ -820,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -890,6 +888,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -953,7 +956,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1134,64 +1137,37 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/life/">Life </a>
-</li>
-<li><a href="https://www.jutarnji.hr/life/zdravlje/">Zdravlje </a></li>
+<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
-Obitelj i djeca
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/tehnologija/">
-Tehnologija
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/znanost/">
-Znanost
-</a>
-</li>
-<li class="active">
-<a href="https://www.jutarnji.hr/life/zdravlje/">
-Zdravlje
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/seks-i-veze/">
-Seks i veze
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/putovanja/">
-Putovanja
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/zivotne-price/">
-Životne prièe
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/vaumijau/">
-VauMijau
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
-Moda i ljepota
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/astro/">
-Astro
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
-Buduænost zdravstva
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
 </a>
 </li>
 </ul>
@@ -1231,11 +1207,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-BUDUÆNOST ZDRAVSTVA
+STADIONSKI SHOW
 </p>
 <h1
 class="title">
-Jedini cilj zdravstva je vrijednost za pacijenta
+EKSKLUZIVNO NA JUTARNJI.HR Odaberite pjesme koje želite da Prljavci sviraju na koncertu koji æe biti jednako spektakularan kao onaj legendarni na Trgu
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1243,7 +1219,7 @@ Jedini cilj zdravstva je vrijednost za pacijenta
 <p
 class="authors">
 <ul>
-<li>Ana Bobinac</li>
+<li>Jutarnji list</li>
 </ul>
 </p>
 </li>
@@ -1251,7 +1227,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-07.04.2018. u 23:19
+08.05.2018. u 12:38
 </p>
 </li>
 </ul>
@@ -1263,23 +1239,24 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/177872-226258-zdravstvo_ilustracija3-0210jpg/7187934" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/prljavo-kazaliste/7331328" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/177872-226258-zdravstvo_ilustracija3-0210jpg/7187934/ALTERNATES/LANDSCAPE_380/177872-226258-zdravstvo_ilustracija3-0210.jpg"
+<img src="https://www.jutarnji.hr/incoming/prljavo-kazaliste/7331328/ALTERNATES/LANDSCAPE_380/Prljavo%20kazali%C5%A1te"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/177872-226258-zdravstvo_ilustracija3-0210jpg/7187934/BINARY/thumbnail/177872-226258-zdravstvo_ilustracija3-0210.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/prljavo-kazaliste/7331328/BINARY/thumbnail/Prljavo%20kazali%C5%A1te"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="KBC Split.
-Operacija srca u operacijskoj dvorani u KBC Split.
-Foto: Tom Dubravec / CROPIX"
+alt="Osijek, 090218.
+Fanovi iz cijele slavonije zajedno s Prljavim kazalistem u prepunoj dvorani Gradski vrt u Osijeku proslavili su veliki jubilej i 40. rodjendan Prljavaca.
+Na fotografiji: Koncert Prljavog kazalista.
+Foto: Emica Elvedji / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Tom Dubravec / CROPIX
+<span> Emica Elvedji / CROPIX
 </span>
 </div>
 </div>
@@ -1288,6 +1265,10 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1311,14 +1292,25 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7213908"
+<div id="content-body-6263871-7331460"
 >
-<p>Veæ se dugi niz godina intervenira u sustav hrvatskog zdravstva mjerama koje se primarno tièu ponude zdravstvenih usluga (poput naèina plaæanja i visine plaæa zdravstvenih djelatnika, volumena usluga, financijskih limita, vlasnièkih odnosa, broja bolnièkih kreveta, itd.). O resursima koji generiraju ponudu zdravstvenih usluga raspravlja se i odluèuje uglavnom bez previše obaziranja na razinu i vrstu potražnje za zdravstvenom skrbi.</p><p>Nasuprot tome, zdravstveni sustav buduænosti usmjeren je na potražnju za zdravstvenom skrbi i ima jasan cilj - pacijentu stvoriti vrijednost. U skladu s tim jasnim ciljem, sustav organizira i mobilizira svoje resurse kako bi ostvario one zdravstvene ishode koji su dokazano važni pacijentima i to na društveno prihvatljivoj razini troška (što zajedno èini vrijednost). Dodana vrijednost ostvarit æe se onda kada se isti zadani ishod ostvari po relativno manjem društvenom trošku, ili se na istoj razini troška ostvari relativno veæi broj zadanih ishoda važnih pacijentima. </p><p>Da je ishod “važan pacijentima” znaèi da ga oni zaista cijene. Primjerice, nakon lijeèenja pacijentima je važno povratiti višu razinu funkcionalnosti, osjeæati manju bol, ponovno moæi skrbiti za sebe i za djecu, vratiti se na posao, preživjeti još godinu dana, hodati bez pomagala. U primjeru dijabetesa, ishod koji pacijentima stvarno nešto znaèi je ne izgubiti vid ili nogu amputacijom, ne dobiti infarkt ili moždani udar, dok sama razina A1c hemoglobina nije ishod koji pacijenti vrednuju veæ ga vrednuju u mjeri u kojoj A1c hemoglobin doprinosi kvaliteti i duljini trajanja života.</p><p>Reorganizacija rada kljuè je stvaranja veæe vrijednost pacijentima. Što to znaèi? Veæ se dugi niz godina u Hrvatskoj govori o funkcijskom spajanju bolnica ili o koncentriranju kompetencija u pojedinim granama medicine u pojedine bolnice (umjesto da se “sve lijeèi svagdje”). Takve promjene u suštini su promjene u organizaciji naèina rada u zdravstvenom sustavu u Hrvatskoj kojim bi se u fokus stavila kvaliteta ostvarenih ishoda važnih za pacijente te poveæanje uèinkovitosti rada i na taj naèin postiglo smanjenje troškova (dakle, stvorila bi se vrijednost). Naravno, govorimo o stvarnim i suštinskim, a ne o administrativnim ili marginalnim promjenama u organizaciji rada. Staviti natpis “Centar izvrsnosti” ili preseliti djelatnike u istu zgradu ne znaèi da smo reorganizirali naèin rada.</p><p> </p><h2>Visokospecijalizirani struènjaci</h2><p>Jedan od osnovnih alata za ostvarenje veæe vrijednost za pacijente (dakle kvalitetnih ishoda po prihvatljivoj cijeni) u zdravstvu buduænosti je ustanovljavanje integriranih funkcijskih timova koji se bave lijeèenjem pojedinih bolesti ili zdravstvenih tegoba. Takva reorganizacija rada udružuje lijeènika, ne-medicinske struènjake i druge zdravstvene radnike u timove. Profitabilna poduzeæa - Apple, recimo - organizirana su oko zadovoljenja potreba svojih kupaca, na èemu rade timovi dizajnera, matematièara, programera, prodavaèa. </p><p>Apple nije organiziran oko broja svojih zaposlenika, odjela ili zgrada koje posjeduje niti je njihov talac. Tako ni zdravstveni sustav buduænosti nije talac organizacije sustava segmentiranog i fragmentiranog po odjelima ili razinama skrbi veæ se funkcijski organizira oko lijeèenja odreðene bolesti (ili skupina bolesti ili zdravstvenih stanja). Integrirani funkcijski tim koji èine lijeènici i sestre-specijalisti, ali i razlièiti drugi profesionalci (nutricionist, ljekarnik, fizioterapeut, psiholog, itd.) zadužen je za pacijenta kojem pruža svu potrebnu skrb kroz cijeli ciklus lijeèenja i to ne samo primarne bolesti veæ i povezanih komplikacija (poput bolesti bubrega u pacijenata s dijabetesom ili palijativne skrbi kod pacijenata s metastatskim karcinomom). </p><p>Timovi buduænosti ponekad uopæe ne moraju imati lijeènika veæ visokospecijalizirane struènjake-tehnièare, sestre-specijaliste, “paramedikse”. Praæenje zdravih trudnoæa funkcionira u Nizozemskoj na taj naèin - trudnoæu vodi integrirani tim visoko obrazovane primalje i za to specijalizirane medicinske sestre te radiološka tehnièarka koje provode zajednièki protokol, pa specijalist ginekologije u takvom sustavu ima znaèajno više vremena baviti se složenim sluèajevima. U UK, tehnièari specijalizirani za pružanje hitne skrbi (paramediks) rade u kolima hitne pomoæi, a ne lijeènici - lijeènici su “preskupi” za to.</p><p>Integrirani tim ima za cilj ostvariti što bolji zdravstveni ishod za svakog pacijenta sa što je moguæe manje resursa, pri èemu tim kontinuirano mjeri jasno definirane ishode lijeèenja i vlastite procesne indikatore te kontrolira i analizira kvalitetu svog rada temeljem prikupljenih podataka (lakše je mjeriti indikatore kada se bavite jednom vrstom posla nego kada imate puno razlièitih pacijenata s najrazlièitijim tegobama). Èlanovi tima su vrhunski educirani pa mogu - naoružani potrebnim podacima - ustanovljavati i uèinkovitije naèine lijeèenja, definirati nove protokole, inovirati. Integrirani funkcijski tim preuzima odgovornost i za edukaciju pacijenata i njihovih obitelji, za poveæanje angažiranosti pacijenata u borbi s bolešæu, poveæanje adherencije i slièno (što je kljuèno za dobru kvalitetu života kroniènih bolesnika). </p><p>Sve ukupno to dovodi do kvalitetnije skrbi i boljih ishoda za pojedinog pacijenta, na istoj ili èak nižoj ukupnoj razini troškova. Kako? Pa za pružatelja skrbi (bolnicu, npr.), organiziranje rada u integrirane funkcijske timove ostvarit æe za pacijente bolje ishode lijeèenja, što æe privuæi dodatni broj pacijenata (veæi tržišni udjel), što æe omoguæiti više iskustva lijeènicima koji rade u tim timovima i poveæanje njihove struènosti, što æe zauzvrat poveæati prihode bolnici temeljem stvarnog poveæanja produktivnosti rada djelatnika. </p><p> </p><h2>Kako to radi Walmart</h2><p>Tako primjerice Walmart (amerièka tvrtka koja zapošljava 2 milijuna ljudi i koja svojim zaposlenicima pruža zdravstveno osiguranje) od 2012. godine potièe svoje zaposlenike da operacije kralježnice, srca i transplantacije obave u jednoj od samo šest odabranih bolnica u cijelom SAD-u (imajmo na umu da Hrvatska ima 4,5 milijuna stanovnika, SAD ima 325 milijuna i nebrojeno više bolnica). Walmart bolnicama plaæa fiksni dogovoreni iznos za svu operativnu i post-operativnu skrb pacijentu, kao i sve troškove prijevoza, smještaja, hrane i njegovatelja u jednoj od tih šest bolnica (govorimo o najboljim amerièkim bolnicama poput Mayo Clinic, MI). Cilj osiguravatelja je pacijentima pružiti vrhunsku skrb i najbolje ishode lijeèenja jer plaæanje (možda i) niže cijene bolnicama koje u prosjeku imaju lošije ishode lijeèenja dovodi do duljih izostanaka s posla, veæeg broja rehospitalizacija, veæeg broja nepotrebnih zahvata - dakle pružanje skrbi na troškovno-neuèinkovitiji naèin. Lošiji ishodi u konaènici mogu skupo koštati osiguravatelja, zvao se on Walmart ili HZZO.</p><p>I u primarnoj zdravstvenoj zaštiti, posebno u domeni obiteljske medicine, stvaranje integriranih funkcijskih timova je moguæe, a posebno je potrebno u lijeèenju skupina pacijenata s izrazito riziènim ili skupim bolestima. Uzmimo za primjer dijabetes (ali isto vrijedi i primjerice za kardiovaskularne bolesti). Nevjerojatno æe možda zvuèati podatak da u Hrvatskoj na lijeèenje dijabetesa tipa II odlazi 4,6 milijardi kuna što èini 19,8% proraèuna HZZO-a, od èega najviše na troškove lijeèenja komplikacija bolesti (88,1%). Samo Ministarstvo zdravlja u Nacionalnom programu za dijabetes identificiralo je glavne probleme vezane uz lijeèenje dijabetesa u Hrvatskoj, a to su meðu ostalima i nedovoljan fokus na prevenciju i na tretiranje dijabetesa na primarnoj razini, nedovoljnu educiranost obiteljskih lijeènika i nedovoljnu motiviranost lijeènika za mjerenje indikatora kvalitete skrbi i lijeèenja. </p><p>Umjesto dosadašnjeg pristupa, integrirani funkcijski tim æe u zdravstvu buduænosti na odreðenom geografskom podruèju biti orijentiran samo na lijeèenje pacijenata koji boluju od dijabetesa, pružat æe im skrb i koordinaciju kroz sve faze bolesti (koordinacija lijeèenja je znaèajan problem ne samo u Hrvatskoj), rutinski mjeriti ishode i troškove lijeèenja, paziti na adherenciju i ponašanje pacijenata, educirati pacijente, a plaæanje timova bit æe povezano s ishodima lijeèenja (dakle, s vrijednošæu koja se pacijentu stvorila). Timovi æe ukljuèivati, osim visoko educiranog lijeènika, i znaèajno veæi broj sestara-specijalista, nutricionista i ostalih.</p><p> </p><h2>Novi oblici financiranja</h2><p>Zdravstvo buduænosti poznavat æe i inovativne oblike financiranja. Trenutno se pružatelji zdravstvenih usluga u Hrvatskoj financiraju kombinacijama glavarine, limita i plaæanja po usluzi. Glavarina, dakle jedinstven iznos koji lijeènik dobije po glavi pacijenta ili limit, dakle iznos kojeg bolnica dobije, ne motivira pružatelje usluga na poboljšanje kvalitete ili vrijednosti koju stvara pacijentima, a može èak i uzrokovati izbjegavanje lijeèenja nekih “skupih” pacijenta, dok su limiti za lijekove u jednoj mjeri i u kontradikciji s naèinom na koji HZZO ugovara plaæanje lijekova proizvoðaèima. </p><p>S druge strane, plaæanje po usluzi motivira pružatelje usluga na pružanje što veæeg broja usluga, pa bolnice nemaju motiva prebaciti rutinske i jednostavne zahvate ili preglede na niže razine. Za to æe biti potrebni oblici plaæanja koji su direktnije povezani s ishodima lijeèenja, a da u isto vrijeme u sebi sadrže i odreðene financijske limite ili èak i financijsku odgovornost pružatelja skrbi. Zdravstvo buduænosti je fleksibilnije i inovira pa integriranim timovima plaæa za cjelokupni tijek lijeèenja akutnog stanja ili lijeèenje pacijenta s kroniènom bolesti u odreðenom vremenskom periodu (npr. godina dana), pod uvjetom da se strogo postižu zadani ishodi/rezultati.</p><p>Da bi se funkcijsko integriranje realiziralo, bilo na razini primarne, sekundarne ili tercijarne ZZ, morat æe se odrediti opseg skrbi koja se može pružati na troškovno-uèinkovit naèin na odreðenoj razini skrbi, reducirajuæi ili eliminirajuæi one oblike skrbi èijim se pružanjem ne može stvoriti vrijednost za pacijenta na toj veæ na nekoj drugoj razini ili lokaciji. Pružatelji zdravstvene skrbi povijesno su težili pružati sve oblike skrbi svima, u što veæem opsegu. Za klinièke bolnièke centre, s visoko specijaliziranom radnom snagom i skupom opremom, to æe znaèiti smanjivanje opsega usluga ambulantnih pregleda ili rutinskih usluga koje æe se “prebaciti” na pružatelje usluga koji iste usluge mogu obaviti po znatno nižem trošku. </p><p>Manje kompleksne intervencije obavljat æe se izvan klinièkih bolnica kako bi se operacijske sale i visoko struèni lijeènici rasteretili i stvorili prostorni i vremenski uvjeti za obavljanje složenih zadataka u veæem obimu te tako poveæala produktivnost skupe opreme i visokokvalificiranog rada, poveæali tržišni udjeli i izvan granica Hrvatske te stvorili dodatni prihodi. Nebrojena istraživanja pokazuju da volumen, odnosno broj obraðenih pacijenata s istom bolesti ili problemom, pozitivno korelira s ishodima lijeèenja. Više pacijenata znaèi više iskustva za lijeènike što rezultira boljim ishodima lijeèenja za pacijente po nižim troškovima za osiguravatelja. Kao što je to i Walmart prepoznao, i hrvatski pacijenti buduænosti bit æe svjesni da je za njih bolje (i u smislu direktnih i indirektnih troškova te zdravstvenih ishoda) lijeèiti svoj zdravstveni problem dalje od kuæe, a uspješnije, nego ga lijeèiti u bližoj ustanovi pa neuspješnije. </p><p> </p><h2>Najbolje za one koji se mijenjaju</h2><p>U zdravstvenom sustavu kakvog sada imamo, bolnice (èak i KBC-i) primarno služe populaciji koja je u njihovoj neposrednoj blizini i koja im gravitira. Ako se želi znaèajno poveæati kvaliteta ishoda i vrijednost za pacijente u odnosu na postojeæe stanje, pružatelji skrbi s najboljim ishodima u lijeèenju pojedinih bolesti ili tegoba jednostavno æe morati primati još veæi broj takvih pacijenata i svojim izvrsnim rezultatima privuæi pacijente iz udaljenih krajeva (èak i drugih država i tako dati dodatni smisao “zdravstvenom turizmu”). Ipak, postojanje integriranog funkcijskog tima koji vodi lijeèenje na jednoj lokaciji ne iskljuèuje moguænost skrbi za istog pacijenta i na drugim lokacijama. </p><p>Cjelokupni tijek skrbi vodit æe tim smješten na lokaciji A, koji æe za svakog pacijenta utvrditi i upravljati evidence-based protokolom, rasporedom i brinuti o ispunjenju zadataka svih osoba ukljuèenih u proces lijeèenja, ukljuèujuæi i mjerenje ishoda svojeg i tuðeg rada. Ako integrirani tim upravlja i proraèunom za lijeèenje tog pacijenta (što predstavlja jedinstvo motivacije, organizacije i financiranja rada), onda odgovornost za rad i ishode postaje intrinzièna motivacija èlanova tima umjesto da se nameæe i kontrolira izvana. </p><p>Pacijenti æe dolaziti na inicijalnu obradu, složenu operaciju i plan lijeèenja na lokaciju A, a sljedeæa faza oporavka ili lijeèenja te manje složeni zahvati provodit æe se na nekoj drugoj, troškovno-uèinkovitijoj lokaciji (ali i dalje po jedinstvenom protokolu i koordinirano od strane centrale). Èlanovi tima iz centrale redovito odlaze na rotacije na dislocirane lokacije, prateæi svoje pacijente, što omoguæuje svima ukljuèenima da budu dio tima, omoguæuje kontinuirano obrazovanje, ali i mjerljive ishode i reputaciju te tako širenje i tržišnog udjela lokacije B.</p><p>Najveæu korist od ovakve reorganizacije rada imaju, uz pacijente, one organizacije koje se najbrže mijenjaju, i to èak i prije nego se sustav u cjelini poène mijenjati. Te organizacije privlaèe veliki broj pacijenata iz Hrvatske i susjednih zemalja, grade svoju reputaciju, a poveæanjem produktivnosti rada generiraju prihod koji se reinvestira u ljude, u procese, u infrastrukturu, što privlaèi još više pacijenata, i tako zapoèinje zaèarani krug dobrih ishoda za pacijente i boljih uvjeta rada za zaposlenike. Potražnja za zdravstvenom skrbi je velika, i svakim danom sve veæa, a ove inovativne organizacije - iz našeg zdravstvenog sustava buduænosti - prve su to upotrijebile u svoju korist.</p>
+<p>Uoèi velikog spektakla Prljavog kazališta, naših najpoznatijih rokera, koji 40 godina velièanstvene karijere slave 31. svibnja na kultnom zagrebaèkom stadionu u Kranjèeviæevoj, glazbenici su samo na <strong><a href="https://www.jutarnji.hr/" target="_blank">Jutarnji.hr</a></strong> odluèili dati priliku obožavateljima iz cijeloga svijeta da sastave set listu svojih omiljenih hitova.</p><p>Vi izaberite što želite da vam Prljavci odsviraju i 31. svibnja doðite poslušati što je društvo iz Dubrave pripremilo na dosad neviðenoj pozornici svjetskoga zvuka i produkcije, a Jutarnji æe najsretnije povesti i na koncert godine.</p><p>Uz odabrane pjesme, Prljavo kazalište sprema vam i brojna slavljenièka iznenaðenja.</p><p>Ovo æe biti jedan od najveæih koncerata legendarnog benda u njihovu rodnom Zagrebu. Podsjetimo, nastup za pamæenje na Trgu bana Josipa Jelaèiæa Prljavci su imali 17. listopada 1989. godine, kad se u metropoli skupilo nevjerojatnih 250.000 ljudi.</p><p>
+<section class="social_embed ">
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPrljavoKazalisteFanPage%2Fvideos%2F10154934785421324%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+</section>
+</p><p>
+<section class="social_embed ">
+<div class="riddle_target" data-rid-id="151374" data-fg="#1486CD" data-bg="#FFFFFF" style="margin:0 auto;max-width:100%;;" data-auto-scroll="true">
+<script src="https://www.riddle.com/files/js/embed.js"></script>
+<iframe style="width:100%;height:300px;border:1px solid #cfcfcf;" src="https://www.riddle.com/a/151374?" title="Opinion Poll - Koje pjesme želite èuti na koncertu Prljavaca?"><section><h2>Koje pjesme želite èuti na koncertu Prljavaca?</h2></section><section><h2>Ne zovi mama doktora</h2></section><section><h3>Zlatne godine</h3></section><section><h3>Ma kog me Boga za tebe pitaju</h3></section><section><h3>Sve je lako kad si mlad</h3></section><section><h3>Korak od sna</h3></section><section><h3>Heroj ulice</h3></section><section><h3>Široke ulice</h3></section><section><h3>Sve gradske bitange</h3></section><section><h3>Mi plešemo</h3></section><section><h3>Crno bijeli svijet</h3></section><section><h3>Moderna djevojka</h3></section><section><h3>Zagreb</h3></section><section><h3>Subotom uveèe</h3></section><section><h3>Sretno dijete</h3></section><section><h3>Ja sam mladiæ u najboljim godinama</h3></section><section><h3>Televizori</h3></section><section><h3>Lupi petama, reci sve za Hrvatsku</h3></section><section><h3>Kiše jesenje</h3></section><section><h3>Kao ja da poludiš</h3></section><section><h3>Na Badnje veèe</h3></section><section><h3>Oprostio mi Bog, mogla bi i ti</h3></section><section><h3>Zbogom dame, zbogom prijatelji</h3></section><section><h3>Mojoj majci</h3></section><section><h3>Zaustavite zemlju</h3></section><section><h3>Slaži mi</h3></section><section><h3>Marina</h3></section><section><h3>Moj bijeli labude</h3></section><section><h3>Vlakovi</h3></section><section><h3>Uzalud vam trud sviraèi</h3></section><section><h3>Djevojka od milijun dolara</h3></section><section><h3>Možda dogodine</h3></section><section><h3>Previše suza u mom pivu</h3></section><section><h3>Ako tražiš nekoga</h3></section><section><h3>Laku noæ tebi Zagrebe</h3></section><section><h3>Korak po korak</h3></section><section><h3>Iza mojih prozora</h3></section><section><h3>Baš kad nije vrijeme</h3></section><section><h3>S vremena na vrijeme</h3></section><section><h3>Zlatne godine</h3></section><section><h3>Brane srušit æu sve</h3></section></iframe>
+</div>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7213908 p").filter(function () {
+$("#content-body-6263871-7331460 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1327,16 +1319,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7213908").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7331460").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7213908").children().slice(max).remove();
+$("#content-body-6263871-7331460").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7213908").children().get(0);
+var firstChild = $("#content-body-6263871-7331460").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1374,13 +1366,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/pacijenti" class ="label label-default" >
-pacijenti
+<a href="https://www.jutarnji.hr/tag/Koncert" class ="label label-default" >
+Koncert
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/zdravstvo" class ="label label-default" >
-zdravstvo
+<a href="https://www.jutarnji.hr/tag/Prljavo_kazali%C5%A1te" class ="label label-default" >
+Prljavo kazalište
 </a>
 </li>
 </ul>
@@ -1391,15 +1383,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="zdravlje media none">
+<article class="domace-zvijezde media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/nitko-ne-zeli-specijalizaciju-nikad-nakon-rata-nije-bilo-ovako-kriticno-ne-daj-boze-vece-epidemije-nismo-spremni-sve-bi-se-moglo-urusiti/7198656/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/frontmen-prljavog-kazalista-o-koncertu-povodom-velikog-jubileja-nastupamo-na-stadionu-u-kranjcevicevoj-maksimir-nas-je-93-odbio/7263552/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/nitko-ne-zeli-specijalizaciju-nikad-nakon-rata-nije-bilo-ovako-kriticno-ne-daj-boze-vece-epidemije-nismo-spremni-sve-bi-se-moglo-urusiti/7198656/">
-NITKO NE ŽELI SPECIJALIZACIJU, NIKAD NAKON RATA NIJE BILO OVAKO KRITIÈNO 'Ne daj Bože veæe epidemije, nismo spremni, sve bi se moglo urušiti!'
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/frontmen-prljavog-kazalista-o-koncertu-povodom-velikog-jubileja-nastupamo-na-stadionu-u-kranjcevicevoj-maksimir-nas-je-93-odbio/7263552/">
+FRONTMEN PRLJAVOG KAZALIŠTA O KONCERTU POVODOM VELIKOG JUBILEJA 'Nastupamo na stadionu u Kranjèeviæevoj, Maksimir nas je ‘93. odbio'
 </a>
 </h4>
 </li>
@@ -1421,13 +1413,13 @@ NITKO NE ŽELI SPECIJALIZACIJU, NIKAD NAKON RATA NIJE BILO OVAKO KRITIÈNO 'Ne daj
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1439,8 +1431,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1452,13 +1444,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1470,8 +1462,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1483,13 +1475,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1501,8 +1493,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1514,17 +1506,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1532,9 +1524,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1616,7 +1607,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7213908" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7331460" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1660,19 +1651,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zdravlje media c11a none">
+<article class="strane-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/">
-ODLUKA VIJEÆA HZZO-a
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/">
+OBITELJSKA SREÆA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/">
-SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska lista, dodani i lijekovi za multiplu sklerozu i KOPB
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/">
+FOTOEKSKLUZIV: LEGENDARNA TALIJANSKA DIVA U POZNATOM ZAGREBAÈKOM RESTORANU SLAVI DOLAZAK PRVOG UNUKA Slavna pjevaèica punica je najbogatijeg Hrvata
 </a>
 </h4>
 </div>
@@ -1682,19 +1673,19 @@ SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska li
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zdravlje media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/">
-BUDUÆNOST ZDRAVSTVA
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/">
+BLUE CARPET
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/">
-Jedini cilj zdravstva je vrijednost za pacijenta
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/">
+FOTO: FRANKA U ODVAŽNOJ KOMBINACIJI OSTAVILA SVE U LISABONU BEZ DAHA Svi su zamijetili našu predstavnicu na Eurosongu tijekom šetnje plavim tepihom
 </a>
 </h4>
 </div>
@@ -1704,19 +1695,18 @@ Jedini cilj zdravstva je vrijednost za pacijenta
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zdravlje media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/">
-VIŠE SREÆE NEGO PAMETI
-</a>
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/">
+EUROSONG 2018. </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/">
-KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Mislilo se da mu nema pomoæi, no onda je pronaðen antibiotik koji djeluje
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/">
+FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje
 </a>
 </h4>
 </div>
@@ -1726,19 +1716,19 @@ KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Misl
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zdravlje media c11a none">
+<article class="reality media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/reality/muke-maminog-sina-marka-mora-izabrati-izmedu-cetiri-cure-ali-samo-mu-je-jedna-stvar-na-umu-muskarac-takve-ne-prepozna-uvijek-ali-mislim-da-ja-jesam/7329945/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
-KAKO VAM SE ÈINI?
+<a href="https://www.jutarnji.hr/spektakli/reality/muke-maminog-sina-marka-mora-izabrati-izmedu-cetiri-cure-ali-samo-mu-je-jedna-stvar-na-umu-muskarac-takve-ne-prepozna-uvijek-ali-mislim-da-ja-jesam/7329945/">
+'ŽENIM SINA?'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
-NAJNOVIJA DIJETA ZALUDJELA POLA SVIJETA Držite se ovih pravila i dobit æete rezultate ravne liposukciji
+<a href="https://www.jutarnji.hr/spektakli/reality/muke-maminog-sina-marka-mora-izabrati-izmedu-cetiri-cure-ali-samo-mu-je-jedna-stvar-na-umu-muskarac-takve-ne-prepozna-uvijek-ali-mislim-da-ja-jesam/7329945/">
+MUKE MAMINOG SINA MARKA: MORA IZABRATI IZMEÐU ÈETIRI CURE, ALI SAMO MU JE JEDNA STVAR NA UMU Muškarac takve ne prepozna uvijek, ali mislim da ja jesam
 </a>
 </h4>
 </div>
@@ -1776,19 +1766,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1796,8 +1786,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1886,6 +1876,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1949,7 +1944,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -2173,11 +2168,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2225,14 +2215,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2276,34 +2266,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=36&contextPath=1-32-36-&pubId=1&cat=&meta=read-story&objId=7213908&type=article&title=Jedini+cilj+zdravstva+je+vrijednost+za+pacijenta&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fjedini-cilj-zdravstva-je-vrijednost-za-pacijenta%2f7213908%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=51&contextPath=1-51-&pubId=1&cat=&meta=read-story&objId=7331460&type=article&title=EKSKLUZIVNO+NA+JUTARNJI.HR+Odaberite+pjesme+koje+%c5%beelite+da+Prljavci+sviraju+na+koncertu+koji+%c4%87e+biti+jednako+spektakularan+kao+onaj+legendarni+na+Trgu&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fekskluzivno-na-jutarnjihr-odaberite-pjesme-koje-zelite-da-prljavci-sviraju-na-koncertu-koji-ce-biti-jednako-spektakularan-kao-onaj-legendarni-na-trgu%2f7331460%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=36&amp;contextPath=1-32-36-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7213908&amp;type=article&amp;title=Jedini+cilj+zdravstva+je+vrijednost+za+pacijenta&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fjedini-cilj-zdravstva-je-vrijednost-za-pacijenta%2f7213908%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=51&amp;contextPath=1-51-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7331460&amp;type=article&amp;title=EKSKLUZIVNO+NA+JUTARNJI.HR+Odaberite+pjesme+koje+%c5%beelite+da+Prljavci+sviraju+na+koncertu+koji+%c4%87e+biti+jednako+spektakularan+kao+onaj+legendarni+na+Trgu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fekskluzivno-na-jutarnjihr-odaberite-pjesme-koje-zelite-da-prljavci-sviraju-na-koncertu-koji-ce-biti-jednako-spektakularan-kao-onaj-legendarni-na-trgu%2f7331460%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=1944676025&title=zdravstvo&url=tag%3ajltags%40eph.hr%2c2016%3azdravstvo&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&cat=jltags%40eph.hr%2c2016&objId=858015060&title=Prljavo+kazali%c5%a1te&url=tag%3ajltags%40eph.hr%2c2016%3aPrljavo_kazali%25C5%25A1te&rt=1&ctxId=51&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1944676025&amp;title=zdravstvo&amp;url=tag%3ajltags%40eph.hr%2c2016%3azdravstvo&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=858015060&amp;title=Prljavo+kazali%c5%a1te&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPrljavo_kazali%25C5%25A1te&amp;rt=1&amp;ctxId=51&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=2101377729&title=pacijenti&url=tag%3ajltags%40eph.hr%2c2016%3apacijenti&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&cat=jltags%40eph.hr%2c2016&objId=1301566462&title=Koncert&url=tag%3ajltags%40eph.hr%2c2016%3aKoncert&rt=1&ctxId=51&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2101377729&amp;title=pacijenti&amp;url=tag%3ajltags%40eph.hr%2c2016%3apacijenti&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1301566462&amp;title=Koncert&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKoncert&amp;rt=1&amp;ctxId=51&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2356,7 +2346,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/ekskluzivno-na-jutarnjihr-odaberite-pjesme-koje-zelite-da-prljavci-sviraju-na-koncertu-koji-ce-biti-jednako-spektakularan-kao-onaj-legendarni-na-trgu/7331460/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2366,14 +2356,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/",
-postId : "7213908",
+url : "https://www.jutarnji.hr/spektakli/ekskluzivno-na-jutarnjihr-odaberite-pjesme-koje-zelite-da-prljavci-sviraju-na-koncertu-koji-ce-biti-jednako-spektakularan-kao-onaj-legendarni-na-trgu/7331460/",
+postId : "7331460",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Jedini cilj zdravstva je vrijednost za pacijenta",
-pubdate : "2018-04-07 23:19",
-authors : "Ana Bobinac",
-sections : "Buduænost zdravstva, Zdravlje",
-tags : "zdravstvo, pacijenti",
+title : "EKSKLUZIVNO NA JUTARNJI.HR Odaberite pjesme koje želite da Prljavci sviraju na koncertu koji æe biti jednako spektakularan kao onaj legendarni na Trgu",
+pubdate : "2018-05-08 12:38",
+authors : "Jutarnji list",
+sections : "Front Page, Domaæe zvijezde, Spektakli",
+tags : "Prljavo kazalište, Koncert",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

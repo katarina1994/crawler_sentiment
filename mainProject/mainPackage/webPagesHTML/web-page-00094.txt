@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Tri medvjediæa spašena su nakon što su ih mještani jednog sela u Bugarskoj našli kako tumaraju sami na cesti u blizini gorja Rodopi." />
-<meta name="keywords" content="Medvjed, Bugarska, krivolov" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="“Oduvijek, cijeloga života znao si da si osuðen na poraz. To je tako, i tako je bilo oduvijek, Macbethe. Samo ti ne uspijevaš biti drugaèiji od onoga koji su oduvijek bio." />
+<meta name="keywords" content="Književnost i spisateljstvo, William Shakespeare" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa stara tek par mjeseci: &#039;Dobro su, ali nikada više neæe vidjeti majku&#039; - Jutarnji List</title>
+<title>SLAVNI NORVEŠKI PISAC OD SUTRA NA HRVATSKOJ TURNEJI Jo Nesb? predstavlja svoju modernu verziju Shakespeareovog najkrvavijeg djela - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "VauMijau";
-var dfpCategoryParent = "Life";
-var dfpRos = "life-ros";
-var dfpArticle = "7278378";
-var dfpArticleKeyword = "Medvjed";
+var dfpCategory = "Književnost";
+var dfpCategoryParent = "Kultura";
+var dfpRos = "kultura-ros";
+var dfpArticle = "7329252";
+var dfpArticleKeyword = "Književnost i spisateljstvo";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/medvjedi/7278396/ALTERNATES/LANDSCAPE_1180/medvjedi" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/jo-nesbo/7329255/ALTERNATES/LANDSCAPE_1180/jo%20nesbo" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/medvjedi/7278396/ALTERNATES/LANDSCAPE_1180/medvjedi">
-<meta property="og:title" content="FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa stara tek par mjeseci: 'Dobro su, ali nikada više neæe vidjeti majku'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/jo-nesbo/7329255/ALTERNATES/LANDSCAPE_1180/jo%20nesbo">
+<meta property="og:title" content="SLAVNI NORVEŠKI PISAC OD SUTRA NA HRVATSKOJ TURNEJI Jo Nesb? predstavlja svoju modernu verziju Shakespeareovog najkrvavijeg djela" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/" />
+<meta property="og:url" content="https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Tri medvjediæa spašena su nakon što su ih mještani jednog sela u Bugarskoj našli kako tumaraju sami na cesti u blizini gorja Rodopi." />
+<meta property="og:description" content="“Oduvijek, cijeloga života znao si da si osuðen na poraz. To je tako, i tako je bilo oduvijek, Macbethe. Samo ti ne uspijevaš biti drugaèiji od onoga koji su oduvijek bio." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa stara tek par mjeseci: 'Dobro su, ali nikada više neæe vidjeti majku'">
-<meta name="twitter:description" content="Tri medvjediæa spašena su nakon što su ih mještani jednog sela u Bugarskoj našli kako tumaraju sami na cesti u blizini gorja Rodopi.">
+<meta name="twitter:creator" content="Zrinka Korljan">
+<meta name="twitter:title" content="SLAVNI NORVEŠKI PISAC OD SUTRA NA HRVATSKOJ TURNEJI Jo Nesb? predstavlja svoju modernu verziju Shakespeareovog najkrvavijeg djela">
+<meta name="twitter:description" content="“Oduvijek, cijeloga života znao si da si osuðen na poraz. To je tako, i tako je bilo oduvijek, Macbethe. Samo ti ne uspijevaš biti drugaèiji od onoga koji su oduvijek bio.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2438';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "VauMijau, Life, Front Page",
-pubdate: "2018-04-24T00:00+02:00",
-author: "Silvija Novak",
+data: { section: "Književnost, Kultura, Front Page",
+pubdate: "2018-05-08T09:23+02:00",
+author: "Zrinka Korljan",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="life story">
+<body class="kultura story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -808,12 +808,12 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/">
 Kultura
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -971,7 +976,7 @@ Putovanja
 Životne prièe
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/vaumijau/">
 VauMijau
 </a>
@@ -1010,7 +1015,7 @@ Art
 Film i televizija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/knjizevnost/">
 Književnost
 </a>
@@ -1132,64 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/life/">Life </a>
+<li><a href="https://www.jutarnji.hr/kultura/">Kultura </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/vaumijau/">VauMijau </a></li>
+<li><a href="https://www.jutarnji.hr/kultura/knjizevnost/">Književnost </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
-Obitelj i djeca
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/tehnologija/">
-Tehnologija
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/znanost/">
-Znanost
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zdravlje/">
-Zdravlje
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/seks-i-veze/">
-Seks i veze
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/putovanja/">
-Putovanja
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zivotne-price/">
-Životne prièe
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/life/vaumijau/">
-VauMijau
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
-Moda i ljepota
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/astro/">
-Astro
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
-Buduænost zdravstva
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
 </a>
 </li>
 </ul>
@@ -1229,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-SPAŠENI MALIŠANI
+MACBETH
 </p>
 <h1
 class="title">
-FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa stara tek par mjeseci: 'Dobro su, ali nikada više neæe vidjeti majku'
+SLAVNI NORVEŠKI PISAC OD SUTRA NA HRVATSKOJ TURNEJI Jo Nesb? predstavlja svoju modernu verziju Shakespeareovog najkrvavijeg djela
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1226,7 @@ FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa s
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/zrinka-korljan">Zrinka Korljan</a></li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 00:00
+08.05.2018. u 09:23
 </p>
 </li>
 </ul>
@@ -1261,21 +1246,21 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/medvjedi/7278396" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/jo-nesbo/7329255" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/medvjedi/7278396/ALTERNATES/LANDSCAPE_380/medvjedi"
+<img src="https://www.jutarnji.hr/incoming/jo-nesbo/7329255/ALTERNATES/LANDSCAPE_380/jo%20nesbo"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/medvjedi/7278396/BINARY/thumbnail/medvjedi"
+data-src-template="https://www.jutarnji.hr/incoming/jo-nesbo/7329255/BINARY/thumbnail/jo%20nesbo"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="A picture shows three bear cubs who were found by the Bulgarian authorities in the wild and rescued at the Dancing Bears Park near Belitsa, Bulgaria, April 22, 2018. The cubs, who are about 3 months old, will be relocated in the next days to a bear orphan station in Greece. Picture taken April 22, 2018. Hristo Vladev/FOUR PAWS handout via REUTERS REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. NO RESALES. NO ARCHIVES TPX IMAGES OF THE DAY"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> REUTERS
+<span> Getty images
 </span>
 </div>
 </div>
@@ -1284,10 +1269,6 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1311,149 +1292,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7278378"
+<div id="content-body-6263871-7329252"
 >
-<p>Tri medvjediæa spašena su nakon što su ih mještani jednog sela u Bugarskoj našli kako tumaraju sami na cesti u blizini gorja Rodopi.</p><p>Kako u blizini nije bilo njihove majke, alarmirani su službenici ministarstva zaštite okoliša koji su organizirali da se medvjediæe prebaci u sklonište za divlje životinje Èetiri šape u obližnjem gradiæu Belici.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/medvjedi/7278381" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/medvjedi/7278381/ALTERNATES/FREE_380/medvjedi"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/medvjedi/7278381/BINARY/thumbnail/medvjedi"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="A picture shows two of the three bear cubs who were found by the Bulgarian authorities in the wild and rescued at the Dancing Bears Park near Belitsa, Bulgaria, April 22, 2018. The three cubs, who are about 3 months old, will be relocated in the next days to a bear orphan station in Greece. Picture taken April 22, 2018. Hristo Vladev/FOUR PAWS handout via REUTERS REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. NO RESALES. NO ARCHIVES"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> REUTERS
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Veterinari su ih pregledali i ustanovili da su dobrog zdravlja osim što su malo potreseni nakon što su izgubili mamu.</p><p>Dva muška i jedan ženski mladunac stari su oko tri mjeseca, a teže izmeðu dvije i tri kile. Timaritelji u skloništu poèeli su im davati kozje mlijeko i vitamine dok se nastavlja potraga za njihovom majkom.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/medvjedi/7278384" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/medvjedi/7278384/ALTERNATES/FREE_380/medvjedi"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/medvjedi/7278384/BINARY/thumbnail/medvjedi"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="A picture shows two of the three bear cubs who were found by the Bulgarian authorities in the wild and rescued at the Dancing Bears Park near Belitsa, Bulgaria, April 22, 2018. The three cubs, who are about 3 months old, will be relocated in the next days to a bear orphan station in Greece. Picture taken April 22, 2018. Hristo Vladev/FOUR PAWS handout via REUTERS REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. NO RESALES. NO ARCHIVES"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> REUTERS
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>No,<strong> Dimitar Ivanov </strong>iz skloništa Èetiri šape kaže da su šanse da je naðu prilièno male jer u 90 posto sluèajeva kad se pronaðu mladunci, ispostavi se da su majku ubili krivolovci.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/medvjedi/7278390" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/medvjedi/7278390/ALTERNATES/FREE_380/medvjedi"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/medvjedi/7278390/BINARY/thumbnail/medvjedi"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="A picture shows three bear cubs who were found by the Bulgarian authorities in the wild and rescued at the Dancing Bears Park near Belitsa, Bulgaria, April 22, 2018. The cubs, who are about 3 months old, will be relocated in the next days to a bear orphan station in Greece. Picture taken April 22, 2018. Hristo Vladev/FOUR PAWS handout via REUTERS REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. NO RESALES. NO ARCHIVES"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> REUTERS
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Ako njihovu majku doista ne pronaðu, mladunce namjeravaju poslati u utoèište za medvjede Arcturos u susjednoj Grèkoj gdje æe ih pripremiti za povratek u divljinu.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/medvjedi/7278387" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/medvjedi/7278387/ALTERNATES/FREE_380/medvjedi"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/medvjedi/7278387/BINARY/thumbnail/medvjedi"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="A picture shows one of the three bear cubs who were found by the Bulgarian authorities in the wild and rescued at the Dancing Bears Park near Belitsa, Bulgaria, April 22, 2018. The three cubs, who are about 3 months old, will be relocated in the next days to a bear orphan station in Greece. Picture taken April 22, 2018. Hristo Vladev/FOUR PAWS handout via REUTERS REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. NO RESALES. NO ARCHIVES"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> REUTERS
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Prema zaštitarma životinja, u Bugarskoj živi oko 800 smeðih medvjeda što je jedna od najveæih europskih populacija ove zaštiæene vrste.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/medvjedi/7278393" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/medvjedi/7278393/ALTERNATES/FREE_380/medvjedi"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/medvjedi/7278393/BINARY/thumbnail/medvjedi"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="A picture shows a veterinarian examining one of the three bear cubs who were found by the Bulgarian authorities in the wild and rescued at the Dancing Bears Park near Belitsa, Bulgaria, April 22, 2018. The three cubs, who are about 3 months old, will be relocated in the next days to a bear orphan station in Greece. Picture taken April 22, 2018. Hristo Vladev/FOUR PAWS handout via REUTERS REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. NO RESALES. NO ARCHIVES"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> REUTERS
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p>
+<p>“Oduvijek, cijeloga života znao si da si osuðen na poraz. To je tako, i tako je bilo oduvijek, Macbethe. Samo ti ne uspijevaš biti drugaèiji od onoga koji su oduvijek bio. </p><p>Nikad nisi mogao ubiti bespomoænog protivnika. Iako æe te pamtiti kao okrutnijeg od Swena i pokvarenijeg od Kennetha, tvoja æe propast ipak biti tvoja dobrota, tvoj manjak okrutnosti”, proroèke su rijeèi negativca iz novog romana <strong>Joa Nesb?a</strong>, “Macbeth”, koja je nedavno objavio Fokus.</p><p>Ovaj æe krimiæ poznati norveški pisac predstaviti na svojem gostovanju u našoj zemlji (od 8. do 11. svibnja) tijekom kojeg æe posjetiti Zagreb, Zadar i Split.  </p><h2>Kap kiše i galeb </h2><p>Baš kao što ime ovoga romana sugerira, rijeè je o djelu inspiriranom klasikom <strong>Williama Shakespearea.</strong> Na neki je naèin to moderno èitanje djela tog klasika, neobièno djelo u kojem æe sigurno uživati svi oni koji vole takozvanu Škotsku predstavu, najkraæu i najkrvaviju Shakespeareovu tragediju. Sam Nesb? je za svoj roman rekao kako ga doživljava kao triler o borbi za moæ mraènog i paranoidnog uma. Za razliku od knjiga kakve inaèe piše, ova je razlièita i po tome što, zapravo, svi znamo kako æe završiti.</p><p>- Ma, ovo definitivno nije tko-je-to-uèinio prièa. U sluèaju Macbetha, misterija je on sam po sebi. Koja je njegova motivacija? Kako je heroj postao zloèinac i ubojica? - rekao je Nesb? u intervjuu amerièkom National Public Radio.</p><p>Prva dva poglavlja knjige, osim napete radnje koja tek poèinje, zanimljiva su i po tome na koji su naèin pisana: jedno prati kap kiše, koja pada na jedan bezimeni luèki grad u kojem žive ljudi bez nade, a njime upravljaju dvije narko bande: Norveški jahaèi i Hekata. Drugo prati galeba, koji leti nad gradom u kojem je ozloglašenog šefa policije Kennetha nakon 25 godina na toj poziciji naslijedio Duncan. </p><p>U sklopu toga on na mjesto treæeg najmoænijeg èovjeka u policiji dovodi Macbetha, dotadašnjeg zapovjednika specijalaca. Duncan nije korumpiran, nego nastoji provesti èistku u policiji i dovesti sposobne ljude na važne pozicije, kako bi riješili problem droge u gradu. Radnja se zapliæe s ni manje ni više 4,5 tone amfetamina, koje Jahaèi moraju preuzeti. To je njihov najveæi posao u karijeri, no njihova konkurencija time nije zadovoljna. </p><p>Kad se tome doda izopaèena policija, kao i èastohlepni pojedinci spremni žrtvovati svoje kolege u borbi za poziciju, te narkobos koji ima svoju moralnu filozofiju zašto prodaje drogu i smatra da je rijeè o zakonu ponude i potražnje, jasno je kako je rijeè o napetom romanu koji se vrlo brzo èita.</p><h2>Depresivni grad </h2><p>- Moram priznati da nikad u životu nisam napisao nešto bazirano na idejama drugih ljudi. Polovica zabave u poslu pisca je da sam dolaziš do ideja i razvijaš ih. No, onda sam odluèio pokušati, jer je prièa o Macbethu imala veliki utjecaj na moje pisanje, a osim toga, to je vjerojatno prvo klasièno djelo koje sam zaista proèitao - rekao je Nesb? i dodao kako mu je bila zanimljiva ideja da na poèetku romana netko bude predstavljen kao junak, a onda se malo-pomalo, do zadnjih stranica, pretvori u nešto posve suprotno. Pojasnio je kako mu je bilo zanimljivo vidjeti koliko je kao pisac voljan daleko otiæi kako bi pronašao objašnjenje za svog junaka.</p><p>Prièa je prilièno mraèna: radnja se dogaða u depresivnom gradu, koji ne vode politièari, nego šef policije. Njegov spomenik se, na kraju krajeva, nalazi na jednom mostu i, simbolièki, biva uništen kada kamion s drogom probija zaštitnu ogradu i pada u vodu. Taj bezimeni grad je neprijateljsko mjesto u kojem ima vrlo malo mjesta za ljubav, obitelj, moralne vrijednosti. Prièa je zapravo tragedija, èija je radnja smještena u sedamdesete godine. </p><h2>Femme fatale </h2><p>Paralele sa Shakespeareovim djelom su jasno vidljive: iako se ne vodi borba oko kraljevstva, nego mjestu šefa policije, Banquovim duhom možemo smatrati Macbethove halucinacije, a vještice bi u ovom romanu, umjesto èarobnog napitka, mogle spremati drogu. Tu je i femme fatale, crvenokosa vlasnica kasina koja se u knjizi naziva samo “Lady”. Baš kao što Lady Macbeth nagovara svog muža da na spavanju ubije kralja Duncana, slièno se dogaða i ovdje.</p><p>- Kad pišem, uobièajeno je da potrošim oko godinu dana na stvaranje sinopsisa, po kojem onda pišem prièu. No ovoj put je posebnost bila ta da je èovjek zvan William napisao sinopsis za mene. Bilo je, naravno, stvari o kojima sam morao dobro razmisliti i razviti ih. No, drukèiji su zapravo samo detalji i to nisu teške stvari. Komplicirano je stvarati psihologiju likova, posebno onda kad je rijeè o logici koja nam je strana - istaknuo je Nesb?.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7278378 p").filter(function () {
+$("#content-body-6263871-7329252 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1462,16 +1308,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7278378").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7329252").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7278378").children().slice(max).remove();
+$("#content-body-6263871-7329252").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7278378").children().get(0);
+var firstChild = $("#content-body-6263871-7329252").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1509,18 +1355,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/krivolov" class ="label label-default" >
-krivolov
+<a href="https://www.jutarnji.hr/tag/William_Shakespeare" class ="label label-default" >
+William Shakespeare
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Bugarska" class ="label label-default" >
-Bugarska
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/medvjed" class ="label label-default" >
-Medvjed
+<a href="https://www.jutarnji.hr/tag/Knji%C5%BEevnost" class ="label label-default" >
+Književnost i spisateljstvo
 </a>
 </li>
 </ul>
@@ -1531,30 +1372,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="bizarre media none">
+<article class="knjizevnost media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/viral/bizarre/u-sest-mjeseci-jako-je-narastao-berac-gljiva-mislio-da-je-naletio-na-ostavljeno-stene-ali-pola-godine-kasnije-shvatio-je-u-kakvoj-je-zabludi-bio/7146876/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/knjizevnost/slavni-pisac-jo-nesb-predstavlja-u-splitu-na-mediteranskom-festivalu-knjige-svoj-novi-roman/7214409/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/viral/bizarre/u-sest-mjeseci-jako-je-narastao-berac-gljiva-mislio-da-je-naletio-na-ostavljeno-stene-ali-pola-godine-kasnije-shvatio-je-u-kakvoj-je-zabludi-bio/7146876/">
-'U ŠEST MJESECI JAKO JE NARASTAO...' Beraè gljiva mislio da je naletio na ostavljeno štene, ali pola godine kasnije shvatio je u kakvoj je zabludi bio
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="znanost media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/zbog-otapanja-ledenjaka-polarni-medvjedi-sve-su-mrsaviji-manjak-hrane-uslijed-klimatskih-promjena-doveo-je-do-promjena-u-njihovom-metabolizmu/6995766/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/zbog-otapanja-ledenjaka-polarni-medvjedi-sve-su-mrsaviji-manjak-hrane-uslijed-klimatskih-promjena-doveo-je-do-promjena-u-njihovom-metabolizmu/6995766/">
-ZBOG OTAPANJA LEDENJAKA POLARNI MEDVJEDI SVE SU MRŠAVIJI Manjak hrane uslijed klimatskih promjena doveo je do promjena u njihovom metabolizmu
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/slavni-pisac-jo-nesb-predstavlja-u-splitu-na-mediteranskom-festivalu-knjige-svoj-novi-roman/7214409/">
+Slavni pisac Jo Nesb? predstavlja u Splitu na Mediteranskom festivalu knjige svoj novi roman
 </a>
 </h4>
 </li>
@@ -1576,13 +1402,13 @@ ZBOG OTAPANJA LEDENJAKA POLARNI MEDVJEDI SVE SU MRŠAVIJI Manjak hrane uslijed kl
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1594,8 +1420,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1607,13 +1433,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1625,8 +1451,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1638,13 +1464,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1656,8 +1482,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1669,17 +1495,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1687,9 +1513,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1771,7 +1596,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7278378" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7329252" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1815,19 +1640,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="knjizevnost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/">
-SPAŠENI MALIŠANI
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/">
+MACBETH
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/">
-FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa stara tek par mjeseci: 'Dobro su, ali nikada više neæe vidjeti majku'
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/">
+SLAVNI NORVEŠKI PISAC OD SUTRA NA HRVATSKOJ TURNEJI Jo Nesb? predstavlja svoju modernu verziju Shakespeareovog najkrvavijeg djela
 </a>
 </h4>
 </div>
@@ -1837,19 +1662,19 @@ FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa s
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="knjizevnost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/">
-DIRLJIVA VJERNOST
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/">
+DARIO HARJAÈEK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/">
-FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i gotovo slijep ležao je uz nju cijelu noæ, zaradio i odlikovanje
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/">
+PRVI ROMAN OSEBUJNOG KAZALIŠNOG REDATELJA 'U 'Sanjici Lackoviæ' osjeæa se duh grungea i svega onoga što je bio zvuk otpora prema sivoj stvarnosti'
 </a>
 </h4>
 </div>
@@ -1859,19 +1684,19 @@ FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="knjizevnost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/kako-je-pas-postao-jedan-od-najboljih-japanskih-izvoznih-proizvoda-akitu-za-ljubimca-ima-cak-i-putin-japancima-je-ova-pasmina-nacionalno-blago/7271331/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/knjizevnost/prerada-shakespearea-jo-nesb-u-hrvatskoj-od-8-do-11-svibnja-u-okviru-svjetske-promocije-novoga-romana-macbeth/7157025/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/kako-je-pas-postao-jedan-od-najboljih-japanskih-izvoznih-proizvoda-akitu-za-ljubimca-ima-cak-i-putin-japancima-je-ova-pasmina-nacionalno-blago/7271331/">
-SVE POPULARNIJI LJUBIMAC
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/prerada-shakespearea-jo-nesb-u-hrvatskoj-od-8-do-11-svibnja-u-okviru-svjetske-promocije-novoga-romana-macbeth/7157025/">
+GOSTOVANJE U ZAGREBU I ZADRU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/kako-je-pas-postao-jedan-od-najboljih-japanskih-izvoznih-proizvoda-akitu-za-ljubimca-ima-cak-i-putin-japancima-je-ova-pasmina-nacionalno-blago/7271331/">
-KAKO JE PAS POSTAO JEDAN OD NAJBOLJIH JAPANSKIH IZVOZNIH PROIZVODA Akitu za ljubimca ima èak i Putin, Japancima je ova pasmina nacionalno blago
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/prerada-shakespearea-jo-nesb-u-hrvatskoj-od-8-do-11-svibnja-u-okviru-svjetske-promocije-novoga-romana-macbeth/7157025/">
+PRERADA SHAKESPEAREA Jo Nesb? u Hrvatskoj od 8. do 11. svibnja u okviru svjetske promocije novoga romana 'Macbeth'
 </a>
 </h4>
 </div>
@@ -1881,19 +1706,19 @@ KAKO JE PAS POSTAO JEDAN OD NAJBOLJIH JAPANSKIH IZVOZNIH PROIZVODA Akitu za ljub
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="knjizevnost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/biste-li-vi-mogli-raditi-pod-ovakvim-uvjetima-nekad-su-svi-zeljeli-sjediti-za-stolom-uz-prozor-a-sada-to-vise-nitko-ne-moze-podnijeti/7267746/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/knjizevnost/neispricane-price-u-laubi-rajko-grlic-predstavlja-svoju-autobiografsku-prozu-koja-na-jedinstven-nacin-spaja-zivot-i-film/7327725/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/biste-li-vi-mogli-raditi-pod-ovakvim-uvjetima-nekad-su-svi-zeljeli-sjediti-za-stolom-uz-prozor-a-sada-to-vise-nitko-ne-moze-podnijeti/7267746/">
-SVETI GRAL UREDA
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/neispricane-price-u-laubi-rajko-grlic-predstavlja-svoju-autobiografsku-prozu-koja-na-jedinstven-nacin-spaja-zivot-i-film/7327725/">
+PISANI TRAG
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/biste-li-vi-mogli-raditi-pod-ovakvim-uvjetima-nekad-su-svi-zeljeli-sjediti-za-stolom-uz-prozor-a-sada-to-vise-nitko-ne-moze-podnijeti/7267746/">
-BISTE LI VI MOGLI RADITI POD OVAKVIM UVJETIMA? Nekad su svi željeli sjediti za stolom uz prozor, a sada to više nitko ne može podnijeti
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/neispricane-price-u-laubi-rajko-grlic-predstavlja-svoju-autobiografsku-prozu-koja-na-jedinstven-nacin-spaja-zivot-i-film/7327725/">
+NEISPRIÈANE PRIÈE U LAUBI Rajko Grliæ predstavlja svoju autobiografsku prozu koja na jedinstven naèin spaja život i film
 </a>
 </h4>
 </div>
@@ -1931,19 +1756,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1951,8 +1776,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -2041,6 +1866,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -2124,7 +1954,7 @@ Putovanja
 Životne prièe
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/vaumijau/">
 VauMijau
 </a>
@@ -2163,7 +1993,7 @@ Art
 Film i televizija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/knjizevnost/">
 Književnost
 </a>
@@ -2328,11 +2158,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2380,14 +2205,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2431,45 +2256,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=38&contextPath=1-32-38-&pubId=1&cat=&meta=read-story&objId=7278378&type=article&title=FOTO%3a+IZGUBLJENO+SU+TUMARALI+SAMI+PO+CESTI+Mje%c5%a1tani+na%c5%a1li+tri+sme%c4%91a+medvjedi%c4%87a+stara+tek+par+mjeseci%3a+%26%23039%3bDobro+su%2c+ali+nikada+vi%c5%a1e+ne%c4%87e+vidjeti+majku%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fvaumijau%2ffoto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku%2f7278378%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=47&contextPath=1-43-47-&pubId=1&cat=&meta=read-story&objId=7329252&type=article&title=SLAVNI+NORVE%c5%a0KI+PISAC+OD+SUTRA+NA+HRVATSKOJ+TURNEJI+Jo+Nesb%c3%b8+predstavlja+svoju+modernu+verziju+Shakespeareovog+najkrvavijeg+djela&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fknjizevnost%2fslavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela%2f7329252%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=38&amp;contextPath=1-32-38-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7278378&amp;type=article&amp;title=FOTO%3a+IZGUBLJENO+SU+TUMARALI+SAMI+PO+CESTI+Mje%c5%a1tani+na%c5%a1li+tri+sme%c4%91a+medvjedi%c4%87a+stara+tek+par+mjeseci%3a+%26%23039%3bDobro+su%2c+ali+nikada+vi%c5%a1e+ne%c4%87e+vidjeti+majku%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fvaumijau%2ffoto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku%2f7278378%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=47&amp;contextPath=1-43-47-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7329252&amp;type=article&amp;title=SLAVNI+NORVE%c5%a0KI+PISAC+OD+SUTRA+NA+HRVATSKOJ+TURNEJI+Jo+Nesb%c3%b8+predstavlja+svoju+modernu+verziju+Shakespeareovog+najkrvavijeg+djela&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fknjizevnost%2fslavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela%2f7329252%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=1116964239&title=Medvjed&url=tag%3ajltags%40eph.hr%2c2016%3amedvjed&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-47-&cat=jltags%40eph.hr%2c2016&objId=156297932&title=Knji%c5%beevnost+i+spisateljstvo&url=tag%3ajltags%40eph.hr%2c2016%3aKnji%25C5%25BEevnost&rt=1&ctxId=47&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1116964239&amp;title=Medvjed&amp;url=tag%3ajltags%40eph.hr%2c2016%3amedvjed&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-47-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=156297932&amp;title=Knji%c5%beevnost+i+spisateljstvo&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKnji%25C5%25BEevnost&amp;rt=1&amp;ctxId=47&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=714936246&title=Bugarska&url=tag%3ajltags%40eph.hr%2c2016%3aBugarska&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-47-&cat=jltags%40eph.hr%2c2016&objId=789912806&title=William+Shakespeare&url=tag%3ajltags%40eph.hr%2c2016%3aWilliam_Shakespeare&rt=1&ctxId=47&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=714936246&amp;title=Bugarska&amp;url=tag%3ajltags%40eph.hr%2c2016%3aBugarska&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=565144002&title=krivolov&url=tag%3ajltags%40eph.hr%2c2016%3akrivolov&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=565144002&amp;title=krivolov&amp;url=tag%3ajltags%40eph.hr%2c2016%3akrivolov&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-47-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=789912806&amp;title=William+Shakespeare&amp;url=tag%3ajltags%40eph.hr%2c2016%3aWilliam_Shakespeare&amp;rt=1&amp;ctxId=47&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2522,7 +2336,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2532,14 +2346,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/",
-postId : "7278378",
+url : "https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/",
+postId : "7329252",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa stara tek par mjeseci: 'Dobro su, ali nikada više neæe vidjeti majku'",
-pubdate : "2018-04-24 00:00",
-authors : "Silvija Novak",
-sections : "Front Page, Life, VauMijau",
-tags : "Medvjed, Bugarska, krivolov",
+title : "SLAVNI NORVEŠKI PISAC OD SUTRA NA HRVATSKOJ TURNEJI Jo Nesb? predstavlja svoju modernu verziju Shakespeareovog najkrvavijeg djela",
+pubdate : "2018-05-08 09:23",
+authors : "Zrinka Korljan",
+sections : "Front Page, Kultura, Književnost",
+tags : "Književnost i spisateljstvo, William Shakespeare",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

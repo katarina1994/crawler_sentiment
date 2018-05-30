@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Ova kuæa datira iz pedesetih godina prošlog stoljeæa. U to vrijeme još nije bilo ceste pa su ribari svojim brodicama prenosili materijal potreban za gradnju. Smještena je u uvali La Barraca u gradu Alicante di Javea u Španjolskoj i sagraðena je bez pomoæi arhitekta. Jedini savjet koji su imali ribari bilo je iskustvo u gradnji skromnih kuæa steèeno iz naraštaja u naraštaj. Buduæi da se nalazi na plaži, zaštiæena je Zakonom o obalnom podruèju što znaèi da se ništa na njoj ne može mijenjati. Eksterijer stoga èine netaknuti zidovi premazani vapnom i bijelom bojom. Drvena stolarija s griljama štiti kuæu od vruæine i neposredne izloženosti suncu." />
-<meta name="keywords" content="kuæa, kuæa na moru, prirodni materijali, kuæa za odmor" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Rustikalna kuæa koju su sagradili ribari - Jutarnji List</title>
+<title>VIDEO: VLADIMIR PUTIN Mercedes S-klasu zamijenio ruskom limuzinom - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <section>
 <!-- DFP verzija 11 -->
@@ -197,11 +197,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Interijeri";
-var dfpCategoryParent = "Dom&Dizajn";
-var dfpRos = "domidizajn-ros";
-var dfpArticle = "7285720";
-var dfpArticleKeyword = "kuæa";
+var dfpCategory = "Garaža";
+var dfpCategoryParent = "Auto klub";
+var dfpRos = "autoklub-ros";
+var dfpArticle = "7331484";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -593,22 +593,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<meta property="article:author" content="https://www.facebook.com/domidizajn" />
-<meta property="article:publisher" content="https://www.facebook.com/domidizajn" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Domidizajn.hr" />
-<meta name="twitter:site" content="Domidizajn.hr" />
-<style>
-div.overline_uppercase {
-text-transform: uppercase;
-}
-div.overline_lowercase {
-text-transform: lowercase;
-}
-div.overline_capitalize {
-text-transform: capitalize;
-}
-</style>
+<meta property="article:author" content="https://www.facebook.com/autoklub.hr" />
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -616,8 +601,8 @@ text-transform: capitalize;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/domidizajn/interijeri/rustikalna-kuca-koju-su-sagradili-ribari/7285720/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/domidizajn/interijeri/rustikalna-kuca-koju-su-sagradili-ribari/7285720/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/autoklub/garaza/video-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331484/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/autoklub/garaza/video-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331484/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -630,21 +615,21 @@ text-transform: capitalize;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/domidizajn/interijeri/taburetes-de-enea_ampliacionjpg/4583798/ALTERNATES/LANDSCAPE_1180/taburetes-de-enea_ampliacion.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/autoklub/garaza/russia-putin-limousine-1jpg/7331499/ALTERNATES/LANDSCAPE_1180/russia-putin-limousine-1.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/domidizajn/interijeri/taburetes-de-enea_ampliacionjpg/4583798/ALTERNATES/LANDSCAPE_1180/taburetes-de-enea_ampliacion.jpg">
-<meta property="og:title" content="Rustikalna kuæa koju su sagradili ribari" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/autoklub/garaza/russia-putin-limousine-1jpg/7331499/ALTERNATES/LANDSCAPE_1180/russia-putin-limousine-1.jpg">
+<meta property="og:title" content="VIDEO: VLADIMIR PUTIN Mercedes S-klasu zamijenio ruskom limuzinom" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/domidizajn/interijeri/rustikalna-kuca-koju-su-sagradili-ribari/7285720/" />
+<meta property="og:url" content="https://www.jutarnji.hr/autoklub/garaza/video-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331484/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Ova kuæa datira iz pedesetih godina prošlog stoljeæa. U to vrijeme još nije bilo ceste pa su ribari svojim brodicama prenosili materijal potreban za gradnju. Smještena je u uvali La Barraca u gradu Alicante di Javea u Španjolskoj i sagraðena je bez pomoæi arhitekta. Jedini savjet koji su imali ribari bilo je iskustvo u gradnji skromnih kuæa steèeno iz naraštaja u naraštaj. Buduæi da se nalazi na plaži, zaštiæena je Zakonom o obalnom podruèju što znaèi da se ništa na njoj ne može mijenjati. Eksterijer stoga èine netaknuti zidovi premazani vapnom i bijelom bojom. Drvena stolarija s griljama štiti kuæu od vruæine i neposredne izloženosti suncu." />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Dom i dizajn">
-<meta name="twitter:title" content="Rustikalna kuæa koju su sagradili ribari">
-<meta name="twitter:description" content="Ova kuæa datira iz pedesetih godina prošlog stoljeæa. U to vrijeme još nije bilo ceste pa su ribari svojim brodicama prenosili materijal potreban za gradnju. Smještena je u uvali La Barraca u gradu Alicante di Javea u Španjolskoj i sagraðena je bez pomoæi arhitekta. Jedini savjet koji su imali ribari bilo je iskustvo u gradnji skromnih kuæa steèeno iz naraštaja u naraštaj. Buduæi da se nalazi na plaži, zaštiæena je Zakonom o obalnom podruèju što znaèi da se ništa na njoj ne može mijenjati. Eksterijer stoga èine netaknuti zidovi premazani vapnom i bijelom bojom. Drvena stolarija s griljama štiti kuæu od vruæine i neposredne izloženosti suncu.">
+<meta name="twitter:creator" content=" Auto klub">
+<meta name="twitter:title" content="VIDEO: VLADIMIR PUTIN Mercedes S-klasu zamijenio ruskom limuzinom">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -655,7 +640,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2445';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2443';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -667,15 +652,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Interijeri, Dom&Dizajn, Front Page",
-pubdate: "2018-04-25T15:43+02:00",
-author: "Danijela Kovaèeviæ",
+data: { section: "Garaža, Auto klub, Front Page",
+pubdate: "2018-05-08T12:02+02:00",
+author: "Zvonimir Jurèiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="domdizajn story">
+<body class="autoklub story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -753,7 +738,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>25.4.</span>2018.
+<span>09.5.</span>2018.
 </p>
 <p class="day">
 srijeda
@@ -823,6 +808,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1060,50 +1050,64 @@ Mozgalice
 </div>
 </div>
 <div class="subBranding ">
-<span class="logo"><a href="/domidizajn">Dom i dizajn</a></span>
+<span class="logo"><a href="/autoklub">Auto klub</a></span>
 </div>
 <div class="subLevelNavbar ">
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/domidizajn/">
+<a href="https://www.jutarnji.hr/autoklub/">
 Naslovnica
 </a>
 </li>
+<li class="">
+<a href="https://www.jutarnji.hr/autoklub/video-ak/">
+Video
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/autoklub/aktualno/">
+Aktualno
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/autoklub/testovi/">
+Testovi
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/autoklub/rabljeni/">
+Rabljeni
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/autoklub/putopis/">
+Putopis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/autoklub/servis/">
+Servis
+</a>
+</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/">
-Interijeri
+<a href="https://www.jutarnji.hr/autoklub/garaza/">
+Garaža
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/domidizajn/inspiracije/">
-Inspiracije
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/domidizajn/dd-vrt/">
-D&amp;D Vrt
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/domidizajn/savjeti/">
-Savjeti
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/domidizajn/eksterijeri/">
-Eksterijeri
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/domidizajn/dd-specijali/moj-prvi-stan/">
-Moj prvi stan
+<a href="https://www.jutarnji.hr/autoklub/vremeplov/">
+Vremeplov
 </a>
 </li>
 </ul>
 <ul class="nav navbar-nav socialChannels">
 <li>
-<a href="https://www.facebook.com/domidizajn/" class="facebook_follow" target="_blank"><span class="text-hide">Facebook</span></a>
-<a class="instagram_follow" href="https://www.instagram.com/domidizajn/" target="_blank"><span class="text-hide">Instagram</span></a>
+<a class="facebook_follow" href="https://www.facebook.com/autoklub.hr/" target="_blank">
+<span class="text-hide">Facebook</span>
+</a>
+<a class="instagram_follow" href="https://www.instagram.com/autoklub.hr/" target="_blank">
+<span class="text-hide">Instagram</span>
+</a>
 </li>
 </ul>
 </div>
@@ -1149,12 +1153,12 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="col-sm-12 ">
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
-class="overline overline_uppercase">
-KUÆA NA MORU
+class="overline">
+GARAŽA
 </p>
 <h1
 class="title">
-Rustikalna kuæa koju su sagradili ribari
+VIDEO: VLADIMIR PUTIN Mercedes S-klasu zamijenio ruskom limuzinom
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1162,7 +1166,7 @@ Rustikalna kuæa koju su sagradili ribari
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/dom-i-dizajn"> Dom i dizajn</a></li>
+<li><a href="https://www.jutarnji.hr/autori/auto-klub"> Auto klub</a></li>
 </ul>
 </p>
 </li>
@@ -1170,24 +1174,20 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 15:43
+08.05.2018. u 12:02
 </p>
 </li>
 </ul>
 </div>
-</div>
-</div>
-<div class="row article_body jl-scroll-container " >
-<div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="interijeri media ">
+<section class="garaza media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/taburetes-de-enea_ampliacionjpg/4583798" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/garaza/russia-putin-limousine-1jpg/7331499" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/taburetes-de-enea_ampliacionjpg/4583798/ALTERNATES/LANDSCAPE_380/taburetes-de-enea_ampliacion.jpg"
+<img src="https://www.jutarnji.hr/autoklub/garaza/russia-putin-limousine-1jpg/7331499/ALTERNATES/LANDSCAPE_380/russia-putin-limousine-1.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/taburetes-de-enea_ampliacionjpg/4583798/BINARY/thumbnail/taburetes-de-enea_ampliacion.jpg"
+data-src-template="https://www.jutarnji.hr/autoklub/garaza/russia-putin-limousine-1jpg/7331499/BINARY/thumbnail/russia-putin-limousine-1.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1195,10 +1195,18 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
 </div>
 </div>
 </section>
 </section>
+</div>
+</div>
+<div class="row article_body jl-scroll-container " >
+<div class="col-sm-8 " >
 <div class=" ">
 <section class="ci_lead ">
 <p
@@ -1228,317 +1236,22 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285720"
+<div id="content-body-6263871-7331484"
 >
-<p align="justify">Kako izgleda kada ribari sagrade kuæu bez pomoæi arhitekata i dizajnera interijera možete pogledati na fotografijama koje slijede. Kuæa u koju vas vodimo sagraðena je 50-ih godina prošlog stoljeæa u vremenu kada još nisu postajala cesta do uvale La Barraca u gradu Alicante di Javea u Španjolskoj gdje se kuæa nalazi. Jedino znanje i iskustvo o gradnji koje su tamošnji ribari imali temeljilo se na usmenoj predaji i iskustvu u gradnji sliènih jednostavnih kuæa koje se prenosi iz naraštaja u naraštaj. Buduæi da se nalazi na samoj plaži, zaštiæena je Zakonom o obalnom podruèju što znaèi da se ništa na njoj ne sije mijenjati. Izvorni izgled kuæe je saèuvan, kao i originalni zidovi premazani vapnom i bijelom bojom. Kuæa ima  i autentièna vrata i prozore s griljama izraðene od drva i obojene u prepoznatljivu plavu boju koja joj izvrsno pristaje.</p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/carpinteria-azul_ampliacion.jpg/4583762" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/carpinteria-azul_ampliacion.jpg/4583762/ALTERNATES/FREE_380/carpinteria-azul_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/carpinteria-azul_ampliacion.jpg/4583762/BINARY/thumbnail/carpinteria-azul_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
+<p>Vladimir Putin je položio prisegu i zapoèeo novi, èetvrti mandat predsjednika Rusije, a na inauguraciju su ga dovezli u njegovoj produženoj limuzini izraðenoj u Rusiji. Putin je odluèio produženi Mercedes zamijeniti ruskom limuzinom kako bi poslao patriotsku poruku svom narodu. Na kratkom putovanju od svog ureda do Kremlja ovim je automobilom Putin poslao jasnu poruku kako smatra da Rusija ne bi trebala toliko ovisiti o zapadnim zemljama. &quot;Ova limuzine je više &quot;cool&quot; od Trumpove&quot;, komentirali su neki od ljudi koji su došli pogledati inauguraciju, prenose ruske agencije.</p><p>
+<section class="social_embed ">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2u24P7AinDk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </section>
-</p><p align="justify">
-<section>
-<article class="interijeri media ">
+</p><p>Putin je, nezadovoljan S-klasom, odluèio naruèiti limuzinu koja æe biti izraðena u Rusiji. Za razvoj je zaslužan ruski institut NAMI koji se povezao s ruskim proizvoðaèima automobila Sollersom, GAZ-om i KAMAZ-om, a cijeli projekt dobio je naziv &quot;Kortezh&quot;. Automobil izgledom podsjeæa na kombinaciju Bentley Mulsannea, Rolls-Royce modela i Chryslera 300C. Ministar Denis Manturov izjavio je kako æe i ostali njihovi dužnosnici zamijeniti svoja vozila za modele iz programa &quot;Kortezh&quot;, a u planu je i izrada SUV i kombi modela. </p><p> <section>
+<article class="garaza media galleryCall ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/fachada-blanca-y-carpinteria-azul_ampliacion.jpg/4583777" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/fachada-blanca-y-carpinteria-azul_ampliacion.jpg/4583777/ALTERNATES/FREE_380/fachada-blanca-y-carpinteria-azul_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/fachada-blanca-y-carpinteria-azul_ampliacion.jpg/4583777/BINARY/thumbnail/fachada-blanca-y-carpinteria-azul_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">Veliku ulogu u ureðenju ovog interijera odigrale su  boje i premazi, a dominantna kombinacija bijele i plave boje u skladu je s bojom mora koje se vidi kroz prozore. Drvene pletene stolice i prirodni materijali doèaravaju tradicionalno ureðenje kuæa na obali, koje je jednostavno, funkcionalno i izuzetno šarmantno. Divimo se ribarima graditeljima koji su u svojoj jednostavnosti sagradili solidnu kuæu u kojoj duh tradicije još i danas traje.</p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/estanteria-de-madera_ampliacion.jpg/4583771" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/estanteria-de-madera_ampliacion.jpg/4583771/ALTERNATES/FREE_380/estanteria-de-madera_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/estanteria-de-madera_ampliacion.jpg/4583771/BINARY/thumbnail/estanteria-de-madera_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/taburetes-de-enea_ampliacionjpg/4583798" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/taburetes-de-enea_ampliacionjpg/4583798/ALTERNATES/FREE_380/taburetes-de-enea_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/taburetes-de-enea_ampliacionjpg/4583798/BINARY/thumbnail/taburetes-de-enea_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/acabado-en-blanco_ampliacion.jpg/4583756" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/acabado-en-blanco_ampliacion.jpg/4583756/ALTERNATES/FREE_380/acabado-en-blanco_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/acabado-en-blanco_ampliacion.jpg/4583756/BINARY/thumbnail/acabado-en-blanco_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/lampara-de-techo_ampliacion.jpg/4583786" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/lampara-de-techo_ampliacion.jpg/4583786/ALTERNATES/FREE_380/lampara-de-techo_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/lampara-de-techo_ampliacion.jpg/4583786/BINARY/thumbnail/lampara-de-techo_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/imitacion-de-coral_ampliacion.jpg/4583783" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/imitacion-de-coral_ampliacion.jpg/4583783/ALTERNATES/FREE_380/imitacion-de-coral_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/imitacion-de-coral_ampliacion.jpg/4583783/BINARY/thumbnail/imitacion-de-coral_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/detalles-en-fibra_ampliacion.jpg/4583768" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/detalles-en-fibra_ampliacion.jpg/4583768/ALTERNATES/FREE_380/detalles-en-fibra_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/detalles-en-fibra_ampliacion.jpg/4583768/BINARY/thumbnail/detalles-en-fibra_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/foto-y-coral-de-resina_ampliacion.jpg/4583780" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/foto-y-coral-de-resina_ampliacion.jpg/4583780/ALTERNATES/FREE_380/foto-y-coral-de-resina_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/foto-y-coral-de-resina_ampliacion.jpg/4583780/BINARY/thumbnail/foto-y-coral-de-resina_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/repisa-sobre-la-chimenea_ampliacion.jpg/4583792" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/repisa-sobre-la-chimenea_ampliacion.jpg/4583792/ALTERNATES/FREE_380/repisa-sobre-la-chimenea_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/repisa-sobre-la-chimenea_ampliacion.jpg/4583792/BINARY/thumbnail/repisa-sobre-la-chimenea_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/mesilla-de-mimbre_ampliacion.jpg/4583789" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/mesilla-de-mimbre_ampliacion.jpg/4583789/ALTERNATES/FREE_380/mesilla-de-mimbre_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/mesilla-de-mimbre_ampliacion.jpg/4583789/BINARY/thumbnail/mesilla-de-mimbre_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/sombrero-de-paja_ampliacion.jpg/4583795" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/sombrero-de-paja_ampliacion.jpg/4583795/ALTERNATES/FREE_380/sombrero-de-paja_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/sombrero-de-paja_ampliacion.jpg/4583795/BINARY/thumbnail/sombrero-de-paja_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify">
-<section>
-<article class="interijeri media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/caneria-al-a-vista_ampliacion.jpg/4583759" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/caneria-al-a-vista_ampliacion.jpg/4583759/ALTERNATES/FREE_380/caneria-al-a-vista_ampliacion.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/caneria-al-a-vista_ampliacion.jpg/4583759/BINARY/thumbnail/caneria-al-a-vista_ampliacion.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p align="justify"> <section>
-<article class="interijeri media galleryCall ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/rustikalna-kuca-koju-su-sagradili-ribari/7285807/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/garaza/foto-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331508/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/rustikalna-kuca-koju-su-sagradili-ribari/7285807/">
-<img src="https://www.jutarnji.hr/domidizajn/interijeri/carpinteria-azul_ampliacion.jpg/4583762/ALTERNATES/LANDSCAPE_380/carpinteria-azul_ampliacion.jpg"
+<a href="https://www.jutarnji.hr/autoklub/garaza/foto-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331508/">
+<img src="https://www.jutarnji.hr/autoklub/garaza/russia-putin-limoucccsine-1jpg/7331496/ALTERNATES/LANDSCAPE_380/russia-putin-limoucccsine-1.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/carpinteria-azul_ampliacion.jpg/4583762/BINARY/thumbnail/carpinteria-azul_ampliacion.jpg"
+data-src-template="https://www.jutarnji.hr/autoklub/garaza/russia-putin-limoucccsine-1jpg/7331496/BINARY/thumbnail/russia-putin-limoucccsine-1.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1551,12 +1264,12 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </p><p align="justify">Izvor: <a href="http://www.micasarevista.com/" target="_blank">Micasa</a></p>
+</p><p><em>Foto: Reuters</em></p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285720 p").filter(function () {
+$("#content-body-6263871-7331484 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1565,16 +1278,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285720").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7331484").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285720").children().slice(max).remove();
+$("#content-body-6263871-7331484").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285720").children().get(0);
+var firstChild = $("#content-body-6263871-7331484").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1609,29 +1322,6 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/ku%C4%87a_za_odmor" class ="label label-default" >
-kuæa za odmor
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/prirodni_materijali" class ="label label-default" >
-prirodni materijali
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/ku%C4%87a_na_moru" class ="label label-default" >
-kuæa na moru
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/ku%C4%87a" class ="label label-default" >
-kuæa
-</a>
-</li>
-</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1718,7 +1408,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285720" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7331484" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1750,18 +1440,20 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="interijeri media c11a none">
+<article class="garaza media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/spektakularno-dizajnirano-potkrovlje-velicine-36-kvadrata/7279122/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/garaza/video-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331484/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/spektakularno-dizajnirano-potkrovlje-velicine-36-kvadrata/7279122/">
-IZNIMAN PROSTOR </a>
+<a href="https://www.jutarnji.hr/autoklub/garaza/video-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331484/">
+GARAŽA
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/spektakularno-dizajnirano-potkrovlje-velicine-36-kvadrata/7279122/">
-Spektakularno dizajnirano potkrovlje velièine 36 kvadrata </a>
+<a href="https://www.jutarnji.hr/autoklub/garaza/video-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331484/">
+VIDEO: VLADIMIR PUTIN Mercedes S-klasu zamijenio ruskom limuzinom
+</a>
 </h4>
 </div>
 </div>
@@ -1770,19 +1462,19 @@ Spektakularno dizajnirano potkrovlje velièine 36 kvadrata </a>
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="interijeri media c11a none">
+<article class="garaza media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/moderno-potkrovlje-s-jednom-super-idejom/7271400/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/garaza/video-je-li-ovo-cin-ludaka-godine-zavalio-se-u-straznje-sjedalo-pa-gledao-kako-njegova-s-klasa-juri-autocestom/7326036/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderno-potkrovlje-s-jednom-super-idejom/7271400/">
-38 kvadrata s odliènim rješenjem
+<a href="https://www.jutarnji.hr/autoklub/garaza/video-je-li-ovo-cin-ludaka-godine-zavalio-se-u-straznje-sjedalo-pa-gledao-kako-njegova-s-klasa-juri-autocestom/7326036/">
+KAD VJERUJEŠ TEHNOLOGIJI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderno-potkrovlje-s-jednom-super-idejom/7271400/">
-Moderno potkrovlje s jednom super idejom
+<a href="https://www.jutarnji.hr/autoklub/garaza/video-je-li-ovo-cin-ludaka-godine-zavalio-se-u-straznje-sjedalo-pa-gledao-kako-njegova-s-klasa-juri-autocestom/7326036/">
+VIDEO: JE LI OVO ÈIN LUÐAKA GODINE? Zavalio se u stražnje sjedalo pa gledao kako njegova S-klasa juri autocestom!
 </a>
 </h4>
 </div>
@@ -1792,18 +1484,19 @@ Moderno potkrovlje s jednom super idejom
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="interijeri media c11a none">
+<article class="garaza media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/suvremena-kuca-tamnog-procelja-zavrsena-prema-projektu-ureda-arhitektri/6833913/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/garaza/ekskluzivno-iz-monaka-ovako-izgleda-i-zvuci-23-milijuna-eura-vrijedan-apollo-ie-na-f1-stazi/7276881/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/suvremena-kuca-tamnog-procelja-zavrsena-prema-projektu-ureda-arhitektri/6833913/">
-Crna ovca otoka Vira </a>
+<a href="https://www.jutarnji.hr/autoklub/garaza/ekskluzivno-iz-monaka-ovako-izgleda-i-zvuci-23-milijuna-eura-vrijedan-apollo-ie-na-f1-stazi/7276881/">
+VIDEO
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/suvremena-kuca-tamnog-procelja-zavrsena-prema-projektu-ureda-arhitektri/6833913/">
-Suvremena kuæa tamnog proèelja završena prema projektu ureda Arhitektri
+<a href="https://www.jutarnji.hr/autoklub/garaza/ekskluzivno-iz-monaka-ovako-izgleda-i-zvuci-23-milijuna-eura-vrijedan-apollo-ie-na-f1-stazi/7276881/">
+EKSKLUZIVNO IZ MONAKA: Ovako izgleda i zvuèi 2,3 milijuna eura vrijedan Apollo IE na F1 stazi!
 </a>
 </h4>
 </div>
@@ -1813,19 +1506,19 @@ Suvremena kuæa tamnog proèelja završena prema projektu ureda Arhitektri
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="interijeri media c11a none">
+<article class="garaza media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/romantican-splitski-kafic-kojemu-je-vec-s-vrata-tesko-odoljeti/7280316/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/autoklub/garaza/video-ovako-izgleda-ubrzanje-5000-ks-snaznog-devela-sixteena/7288393/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/romantican-splitski-kafic-kojemu-je-vec-s-vrata-tesko-odoljeti/7280316/">
-Odmah iza
+<a href="https://www.jutarnji.hr/autoklub/garaza/video-ovako-izgleda-ubrzanje-5000-ks-snaznog-devela-sixteena/7288393/">
+MOŽE LI PRENIJETI SNAGU NA ASFALT?
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/domidizajn/interijeri/romantican-splitski-kafic-kojemu-je-vec-s-vrata-tesko-odoljeti/7280316/">
-Romantièan splitski kafiæ kojemu je veæ s vrata teško odoljeti
+<a href="https://www.jutarnji.hr/autoklub/garaza/video-ovako-izgleda-ubrzanje-5000-ks-snaznog-devela-sixteena/7288393/">
+VIDEO: Ovako izgleda ubrzanje 5000 KS snažnog Devela Sixteena
 </a>
 </h4>
 </div>
@@ -1848,13 +1541,63 @@ Romantièan splitski kafiæ kojemu je veæ s vrata teško odoljeti
 </div>
 <div class="row " >
 <div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/slobodna/?section=kvadratpomom" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+<section>
+<article class="banner-testing-page media none">
+<div class="teaser "
+data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="http://www.gloria.hr/">
+<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+<article class="fokus-zvjezdane-staze media c3 none">
+<div class="teaser link-block"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+</a>
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title text-small">
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
+</a>
+</h4>
+</div>
+</div>
+</article>
 </div>
 <div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/zadovoljna/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
 </div>
 <div class="col-sm-4 " >
-<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/?section=lifestyle" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
 </div>
 <div class="row dfp-no-padding " >
@@ -1930,6 +1673,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2219,11 +1967,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2271,14 +2014,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2322,56 +2065,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=70&contextPath=1-69-70-&pubId=1&cat=&meta=read-story&objId=7285720&type=article&title=Rustikalna+ku%c4%87a+koju+su+sagradili+ribari&url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2frustikalna-kuca-koju-su-sagradili-ribari%2f7285720%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=67&contextPath=1-62-67-&pubId=1&cat=&meta=read-story&objId=7331484&type=article&title=VIDEO%3a+VLADIMIR+PUTIN+Mercedes+S-klasu+zamijenio+ruskom+limuzinom&url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2fgaraza%2fvideo-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom%2f7331484%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=70&amp;contextPath=1-69-70-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285720&amp;type=article&amp;title=Rustikalna+ku%c4%87a+koju+su+sagradili+ribari&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2frustikalna-kuca-koju-su-sagradili-ribari%2f7285720%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=1580175175&title=ku%c4%87a&url=tag%3ajltags%40eph.hr%2c2016%3aku%25C4%2587a&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1580175175&amp;title=ku%c4%87a&amp;url=tag%3ajltags%40eph.hr%2c2016%3aku%25C4%2587a&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=1086728213&title=ku%c4%87a+na+moru&url=tag%3ajltags%40eph.hr%2c2016%3aku%25C4%2587a_na_moru&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1086728213&amp;title=ku%c4%87a+na+moru&amp;url=tag%3ajltags%40eph.hr%2c2016%3aku%25C4%2587a_na_moru&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=428507612&title=prirodni+materijali&url=tag%3ajltags%40eph.hr%2c2016%3aprirodni_materijali&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=428507612&amp;title=prirodni+materijali&amp;url=tag%3ajltags%40eph.hr%2c2016%3aprirodni_materijali&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=325025761&title=ku%c4%87a+za+odmor&url=tag%3ajltags%40eph.hr%2c2016%3aku%25C4%2587a_za_odmor&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=325025761&amp;title=ku%c4%87a+za+odmor&amp;url=tag%3ajltags%40eph.hr%2c2016%3aku%25C4%2587a_za_odmor&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=67&amp;contextPath=1-62-67-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7331484&amp;type=article&amp;title=VIDEO%3a+VLADIMIR+PUTIN+Mercedes+S-klasu+zamijenio+ruskom+limuzinom&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2fgaraza%2fvideo-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom%2f7331484%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2424,7 +2123,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/domidizajn/interijeri/rustikalna-kuca-koju-su-sagradili-ribari/7285720/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/autoklub/garaza/video-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331484/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2434,14 +2133,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/domidizajn/interijeri/rustikalna-kuca-koju-su-sagradili-ribari/7285720/",
-postId : "7285720",
+url : "https://www.jutarnji.hr/autoklub/garaza/video-vladimir-putin-mercedes-s-klasu-zamijenio-ruskom-limuzinom/7331484/",
+postId : "7331484",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Rustikalna kuæa koju su sagradili ribari",
-pubdate : "2018-04-25 15:43",
-authors : "Danijela Kovaèeviæ",
-sections : "Front Page, Interijeri",
-tags : "kuæa, kuæa na moru, prirodni materijali, kuæa za odmor",
+title : "VIDEO: VLADIMIR PUTIN Mercedes S-klasu zamijenio ruskom limuzinom",
+pubdate : "2018-05-08 12:02",
+authors : "Zvonimir Jurèiæ",
+sections : "Front Page, Auto klub, Garaža",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Ženim sina" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Oliver Begoviæ (40), prvookrivljeni za organiziranje prostitucije u Zagrebu koji je uhiæen prošlog tjedna zajedno s Irom P. (26), u svom kriminalnom dosjeu ima èak 13 kaznenih djela. Istražni sudac Županijskog suda u Zagrebu odredio im je jednomjeseèni pritvor zbog opasnosti od utjecaja na svjedoke, toènije kako ne bi utjecali na 11 djevojaka iz razlièitih krajeva Hrvatske, koje su za njih pružale usluge prostitucije u tri zagrebaèka stana." />
+<meta name="keywords" content="Prostitucija" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FOTO: OSKUDNO ODJEVENA VINKOVÈANKA ŠOKIRALA MAMU MARICU &#039;Odmah pokazuje guzu i cice, mogla je barem èarape obuæi! Takva mi u kuæu neæe uæi&#039; - Jutarnji List</title>
+<title>MJESECIMA SLUŠALI RAZGOVORE DJEVOJAKA I BIVŠIH NOGOMETAŠA Razbijen unosni lanac prostitucije u Zagrebu, osim sportaša klijenti su bili i menadžeri - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "LV";
+var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Reality";
-var dfpCategoryParent = "Spektakli";
-var dfpRos = "spektakli-ros";
-var dfpArticle = "7278864";
-var dfpArticleKeyword = "Ženim sina";
+var dfpCategory = "Crna kronika";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7329702";
+var dfpArticleKeyword = "Prostitucija";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,8 +573,6 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
-<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
-<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -640,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/spektakli/reality/foto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci/7278864/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/reality/foto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci/7278864/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -654,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/josipa3jpg/7278816/ALTERNATES/LANDSCAPE_1180/Josipa3.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/migration_catalog/prostitucija-eskort/339976/ALTERNATES/LANDSCAPE_1180/prostitucija%20eskort" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/josipa3jpg/7278816/ALTERNATES/LANDSCAPE_1180/Josipa3.jpg">
-<meta property="og:title" content="FOTO: OSKUDNO ODJEVENA VINKOVÈANKA ŠOKIRALA MAMU MARICU 'Odmah pokazuje guzu i cice, mogla je barem èarape obuæi! Takva mi u kuæu neæe uæi'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/migration_catalog/prostitucija-eskort/339976/ALTERNATES/LANDSCAPE_1180/prostitucija%20eskort">
+<meta property="og:title" content="MJESECIMA SLUŠALI RAZGOVORE DJEVOJAKA I BIVŠIH NOGOMETAŠA Razbijen unosni lanac prostitucije u Zagrebu, osim sportaša klijenti su bili i menadžeri" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/spektakli/reality/foto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci/7278864/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Oliver Begoviæ (40), prvookrivljeni za organiziranje prostitucije u Zagrebu koji je uhiæen prošlog tjedna zajedno s Irom P. (26), u svom kriminalnom dosjeu ima èak 13 kaznenih djela. Istražni sudac Županijskog suda u Zagrebu odredio im je jednomjeseèni pritvor zbog opasnosti od utjecaja na svjedoke, toènije kako ne bi utjecali na 11 djevojaka iz razlièitih krajeva Hrvatske, koje su za njih pružale usluge prostitucije u tri zagrebaèka stana." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="FOTO: OSKUDNO ODJEVENA VINKOVÈANKA ŠOKIRALA MAMU MARICU 'Odmah pokazuje guzu i cice, mogla je barem èarape obuæi! Takva mi u kuæu neæe uæi'">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content="Hajdi Karakaš Jakubin">
+<meta name="twitter:title" content="MJESECIMA SLUŠALI RAZGOVORE DJEVOJAKA I BIVŠIH NOGOMETAŠA Razbijen unosni lanac prostitucije u Zagrebu, osim sportaša klijenti su bili i menadžeri">
+<meta name="twitter:description" content="Oliver Begoviæ (40), prvookrivljeni za organiziranje prostitucije u Zagrebu koji je uhiæen prošlog tjedna zajedno s Irom P. (26), u svom kriminalnom dosjeu ima èak 13 kaznenih djela. Istražni sudac Županijskog suda u Zagrebu odredio im je jednomjeseèni pritvor zbog opasnosti od utjecaja na svjedoke, toènije kako ne bi utjecali na 11 djevojaka iz razlièitih krajeva Hrvatske, koje su za njih pružale usluge prostitucije u tri zagrebaèka stana.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -679,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -691,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Reality, Spektakli, Front Page",
-pubdate: "2018-04-23T23:46+02:00",
-author: "Vlado Marinoviæ",
+data: { section: "Crna kronika, Vijesti, Front Page",
+pubdate: "2018-05-08T13:38+02:00",
+author: "Hajdi Karakaš Jakubin, Dušan Miljuš",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="spektakli story">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -795,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -820,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -870,7 +868,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -888,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1056,7 +1059,7 @@ Domaæe zvijezde
 Strane zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/reality/">
 Reality
 </a>
@@ -1134,39 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a>
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/spektakli/reality/">Reality </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
-Domaæe zvijezde
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
-Strane zvijezde
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/spektakli/reality/">
-Reality
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/ups/">
-Ups!
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
-Na kavi sa...
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
-Zlatni Studio
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1206,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ŽENIM SINA?
+ŠAROLIKA SEKSI PONUDA
 </p>
 <h1
 class="title">
-FOTO: OSKUDNO ODJEVENA VINKOVÈANKA ŠOKIRALA MAMU MARICU 'Odmah pokazuje guzu i cice, mogla je barem èarape obuæi! Takva mi u kuæu neæe uæi'
+MJESECIMA SLUŠALI RAZGOVORE DJEVOJAKA I BIVŠIH NOGOMETAŠA Razbijen unosni lanac prostitucije u Zagrebu, osim sportaša klijenti su bili i menadžeri
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1218,7 +1226,8 @@ FOTO: OSKUDNO ODJEVENA VINKOVÈANKA ŠOKIRALA MAMU MARICU 'Odmah pokazuje guzu i c
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/hajdi-karakas-jakubin">Hajdi Karakaš Jakubin</a>,</li>
+<li><a href="https://www.jutarnji.hr/autori/dusan-miljus">Dušan Miljuš</a></li>
 </ul>
 </p>
 </li>
@@ -1226,7 +1235,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-23.04.2018. u 23:46
+08.05.2018. u 13:38
 </p>
 </li>
 </ul>
@@ -1236,14 +1245,14 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="ece_incoming media ">
+<section class="migration_catalog media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/josipa3jpg/7278816" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/migration_catalog/prostitucija-eskort/339976" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/josipa3jpg/7278816/ALTERNATES/LANDSCAPE_380/Josipa3.jpg"
+<img src="https://www.jutarnji.hr/migration_catalog/prostitucija-eskort/339976/ALTERNATES/LANDSCAPE_380/prostitucija%20eskort"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/josipa3jpg/7278816/BINARY/thumbnail/Josipa3.jpg"
+data-src-template="https://www.jutarnji.hr/migration_catalog/prostitucija-eskort/339976/BINARY/thumbnail/prostitucija%20eskort"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1251,6 +1260,10 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> Colourbox
+</span>
+</div>
 </div>
 </div>
 </section>
@@ -1284,359 +1297,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7278864"
+<div id="content-body-6263871-7329702"
 >
-<p>U prvoj epizodi showa Nove TV, 'Ženim sina?' gledatelji su upoznali prva dva kandidata, <strong>Marka Sandaliæa</strong> i <strong>Igora Bjeloševiæa</strong>, koji su u potragu za onom pravom krenuli - sa svojim majkama, <strong>Anom</strong> i <strong>Maricom</strong>.</p><p>Kandidati su dolaskom u luksuznu vilu dobili priliku upoznati sedam zanimljivih djevojaka, a nakon održanih spojeva morali su donijeti odluku, kojih šest djevojaka æe krenuti s njima u avanturu života, a koju æe djevojku eliminirati.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/bjelosevici-1jpg/7278783" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/bjelosevici-1jpg/7278783/ALTERNATES/FREE_380/Bjelosevici%20(1).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/bjelosevici-1jpg/7278783/BINARY/thumbnail/Bjelosevici%20(1).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Po dolasku u dvorac, djevojke su najprije imale priliku upoznati - majke. Ana i Marica krenule su u obilazak pažljivo odmjerivši svaku kao potencijalnu djevojku svoga sina. Dok je majka Ana bila nešto suzdržanija, majka Marica nije se libila uputiti par kritika.</p><p>- Ti si odmah sve pokazala na prvu? To baš ne bi bilo.. - poruèila je mladoj Vinkovèanki èija joj se odjevna kombinacija nije svidjela te kasnije obrazložila:</p><p>- Katastrofa! Ovo nije prezentacija! To nije to! Nije me toliko strah jer vjerujem u Igorovu zdravu pamet!</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/djevojke-2jpg/7278837" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/djevojke-2jpg/7278837/ALTERNATES/FREE_380/djevojke%20(2).jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/djevojke-2jpg/7278837/BINARY/thumbnail/djevojke%20(2).jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/djevojke3jpg/7278807" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/djevojke3jpg/7278807/ALTERNATES/FREE_380/Djevojke3.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/djevojke3jpg/7278807/BINARY/thumbnail/Djevojke3.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Nakon što su majke vidjele koje se djevojke natjeèu za naklon njihovih sinova, uslijedili su kratki spojevi tokom kojih su unutar samo nekoliko minuta djevojke pokušale impresionirati svog kandidata za èije se srce natjeèu. Spojevi su bili poprilièno zanimljivi i dinamièni, složili su se kandidati, a najteže od svega bilo im je odabrati koju djevojku æe odmah poslati kuæi.</p><p>Dok je Markov odabir bio ekspresan te je izbacio <strong>Ljljanu</strong>, Igor se poprilièno muèio s odlukom koju djevojku eliminirati. Najprije je odluèio suziti izbor na tri djevojke, <strong>Loredanu</strong>, <strong>Renatu i Dittu</strong>, da bi na koncu odluèio da je Ditta ta koja neæe krenuti s njim u avanturu.</p><p>- Ispala sam jer smatram da kod Igora veliki utjecaj ima mama i to što je ona prokomentirala da imam tek 22 godine i da si još stignem naæi ljubav. Još sam mlada, život ide dalje - kazala je Ditta, dok je Ljljana, izjavila:</p><p>- Najvjerojatnije se prestrašio starije gospoðe. Mami Ani i Marku bih poruèila da kad veæ biraju, da izaberu onu pravu!</p><p>Zanimljiv moment tijekom brzih spojeva, kako za Marka, tako i za majku, bio je ulazak dviju najboljih prijateljica koje su se za svog muškarca iz snova odluèile - natjecati u paru!</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/mama-ana-i-markojpg/7278822" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/mama-ana-i-markojpg/7278822/ALTERNATES/FREE_380/Mama%20Ana%20i%20Marko.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/mama-ana-i-markojpg/7278822/BINARY/thumbnail/Mama%20Ana%20i%20Marko.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>- Marko je ostao zateèen kada je vidio dvije cure, ne jednu, a onda smo mu sve objasnile i mislim da mu se sviða to - zakljuèila je <strong>Marija Folnožiæ</strong>, a prijateljica <strong>Ivana Vidoviæ</strong> je dodala:</p><p>- Kada kažemo da smo 2 u 1, onda to znaèi da smo mi cjelina i da ne možemo jedna bez druge.</p><p>Iako ih je na kraju obje poštedio eliminacije, Marko je najprije posumnjao koliko im je to bio dobar potez s prijavom u paru. Majka Ana, pak, zauzela je drugaèiji stav.</p><p>- Obje djevojke imaju 19 godina. Ja sam to eliminirala što se mene tièe odmah!</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/marija-i-ivanajpg/7278825" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/marija-i-ivanajpg/7278825/ALTERNATES/FREE_380/Marija%20i%20Ivana.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/marija-i-ivanajpg/7278825/BINARY/thumbnail/Marija%20i%20Ivana.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Raèunovotkinju <strong>Martinu Zoriæ</strong>, Marko je osvojio na prvi pogled, a èini se i kako je ona osvojila njegovu majku.</p><p>- Potjeèe iz primorskih krajeva, ona mi se dopala jako. Vrlo je komunikativna. Meni se jako dopala, ali mislim da nije Markov tip, malo je debeljuškasta - zakljuèila je mama.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/sandalici-i-martinajpg/7278831" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/sandalici-i-martinajpg/7278831/ALTERNATES/FREE_380/Sandalici%20i%20Martina.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/sandalici-i-martinajpg/7278831/BINARY/thumbnail/Sandalici%20i%20Martina.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>- Od mene moj partner može oèekivati dane ispunjene smijehom, veseljem, puno motivacije, aktivnosti, ali i intelektualnih razgovora - tvrdi natjecateljica <strong>Nives Gvojiæ</strong>, a hoæe li Marka uspjeti jako zaintrigirati, tek æemo doznati, no jedno je sigurno – prve iskre poèele su frcati veæ na spoju.</p><p>- Nives je maèak! - komentirao je Marko, a mama Ana je dodala:</p><p>- Èini mi se da je dosta autoritativna. Nives se meni dopala. Mislim da je vrlo dominantna. Ne znam kako bi Marko to prihvatio u životu.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/sandalici-i-nivesjpg/7278834" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/sandalici-i-nivesjpg/7278834/ALTERNATES/FREE_380/Sandalici%20i%20Nives.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/sandalici-i-nivesjpg/7278834/BINARY/thumbnail/Sandalici%20i%20Nives.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Za razliku od Nives, koja je kod majke Ane dobila zeleno svjetlo, natjecateljica <strong>Maria Kufla</strong>, koja priznaje kako joj se Marko svidio jer voli uspješne i perspektivne muškarce, ipak nije zadovoljila majèine kriterije.</p><p>- Ja smatram da cura od 18 godina nije za tebe, definitivno! - odrješita je bila mama Ana, a hoæe li joj se Maria uspjeti uvuæi pod kožu i promijeniti mišljenje, ostaje za vidjeti.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/sandalici-i-maria-kjpg/7278828" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/sandalici-i-maria-kjpg/7278828/ALTERNATES/FREE_380/Sandalici%20i%20Maria%20K.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/sandalici-i-maria-kjpg/7278828/BINARY/thumbnail/Sandalici%20i%20Maria%20K.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Posljednja djevojka, <strong>Dragana Mijatoviæ</strong> iz Pule, ostavila je poprilièno zadovoljavajuæi utisak na Marka.</p><p>- Jako jedna divna cura. Više sam za neka nježna stvorenja i imam dojam da ona to jest -  zakljuèio je Marko, a Dragana je primijetila:</p><p>- Marko ne skida oèi sa mene, mama se smješka.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/draganajpg/7278840" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/draganajpg/7278840/ALTERNATES/FREE_380/Dragana.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/draganajpg/7278840/BINARY/thumbnail/Dragana.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Izuzetno zanimljivo bilo je na spojevima kod obitelji Bjeloševiæ, a u potrazi za onom pravom, Igoru se osim majke Marice pridružio i otac <strong>Drago</strong>. Da majka Marica ima samo jedan cilj - oženiti svog sina, dala je do znanja svim djevojkama. Djevojka koja je prva probila led na spojevima bila je Loredana Laæa koja za sebe kaže da je najbitnija stvar koja se u vezi nje treba znati jest da je ona obraæena kršæanka koja služi Isusu, no èini se kako se njezina uvjerenja ne podudaraju s onima mame Marice.</p><p>- Religija joj je na prvom mjestu, a njoj treba i obitelj i brak. Ona može biti zadovoljna i sreæu potražiti negdje drugdje i s nekim drugim. Sebi sliènim - zakljuèila je Marica, kojoj se takoðer nije svidjelo to što je Loredana starija od Igora te što sa svojim godinama još uvijek nema djecu.</p><p>Ušavši u prostoriju, natjecateljica <strong>Hanny Hudeèek</strong> odmah je zaintrigirala Igora, a nakon nekoliko minuta zakljuèili su kako bi se odlièno slagali obzirom da oboje vole motore, motorijade te istu vrstu muzike. Dok su se kod Igora pojavili leptiriæi u trbuhu, majka Marica je ostala zabrinuta:</p><p>- Godine idu, a dok vi sve te hobije obavljate, što æe biti s kuæom, kuhanje, èišæenje, djeca ako doðu?</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/bjelosevici-i-hannyjpg/7278786" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/bjelosevici-i-hannyjpg/7278786/ALTERNATES/FREE_380/Bjelosevici%20i%20Hanny.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/bjelosevici-i-hannyjpg/7278786/BINARY/thumbnail/Bjelosevici%20i%20Hanny.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Ni natjecateljica <strong>Renata Šapina</strong> iz Slavonskog Broda nije na majku ostavila najbolji dojam, a najviše se zaprepastila Renatinim hobijem – trbušnim plesom.</p><p>- Ona bi se uvalila nekome da bi ju mogao netko uzdržavati, a ako muž radi i nema ga doma, kome æe plesati? Susjedima? - priupitao je otac Drago, a majku je zanimalo:</p><p>- S obzirom da si nezaposlena, da li si spremna raditi kuæanske poslove, jer od trbušnog plesa se ne živi! - te je zakljuèila kako njima – trbušni ples „ne treba plesati“.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/bjelosevici-i-renatajpg/7278798" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/bjelosevici-i-renatajpg/7278798/ALTERNATES/FREE_380/Bjelosevici%20i%20Renata.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/bjelosevici-i-renatajpg/7278798/BINARY/thumbnail/Bjelosevici%20i%20Renata.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Za Igorovo srce u natjecanje je krenula i <strong>Maria Rosa Duèiè</strong>, koja se zbog hrvatskih korijena preselila iz Argentine.</p><p>- Da danas, sutra bude moja snaha, ne bi se mogle svaðati, jer se ne razumijemo! - zakljuèila je mama, a tata Drago se nadovezao:</p><p>- Ja mislim da bih se ja najviše smijao i da bih ja najviše uživao u tome.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/bjelosevici-i-maria-rosajpg/7278795" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/bjelosevici-i-maria-rosajpg/7278795/ALTERNATES/FREE_380/Bjelosevici%20i%20Maria%20Rosa.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/bjelosevici-i-maria-rosajpg/7278795/BINARY/thumbnail/Bjelosevici%20i%20Maria%20Rosa.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Od svih djevojaka, èini se kako je Vinkovèanka <strong>Josipa Krajinoviæ,</strong> najviše izbezumila majku Maricu.</p><p>- Meni je tlak ja mislim na plafonu! - bila je majèina prva reakcija, a potom ju je upitala da li smatra da se primjereno obukla za prvi susret s buduæom svekrvom.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/bjelosevici-i-josipajpg/7278789" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/bjelosevici-i-josipajpg/7278789/ALTERNATES/FREE_380/Bjelosevici%20i%20Josipa.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/bjelosevici-i-josipajpg/7278789/BINARY/thumbnail/Bjelosevici%20i%20Josipa.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
-</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/josipa3jpg/7278816" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/josipa3jpg/7278816/ALTERNATES/FREE_380/Josipa3.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/josipa3jpg/7278816/BINARY/thumbnail/Josipa3.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>- Odijelo ne èini èovjeka! - odbrusila joj je, a mama Marica je veæ imala spreman odgovor:</p><p>- Ne, ali se ne mora pokazati na prvom susretu guzica, cice i tako. Kako bi tako gola hodala pred svekrom po kuæi?</p><p>Josipa joj je potom kazala da æe se morati s tim pomiriti ukoliko ju njezin sin odabere, što je još više ražestilo mamu Maricu.</p><p>- Mogla je barem èarape obuæi! To se ne promovira tako! Takva mi u kuæu neæe uæi - zakljuèila je.</p><p>Posljednja djevojka na brzim spojevima, Omišanka <strong>Višnja Marušiæ</strong>, došla je poput šlaga na tortu, a izgleda kako je Igoru pri prvom susretu veæ zaiskrilo u oèima.</p><p>- Možda bi tu i bilo kakve sreæe. Djeluje mi kao zrela djevojka, skladno je došla obuèena - izjavila je mama Marica, tata je dao naslutiti kako mu je ona favorit za buduæu suprugu svoga sina, a nakon spoja Višnja je komentirala:</p><p>- Vidim ono što me ponukalo da želim još.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/bjelosevici-i-visnjajpg/7278801" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/bjelosevici-i-visnjajpg/7278801/ALTERNATES/FREE_380/Bjelosevici%20i%20Visnja.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/bjelosevici-i-visnjajpg/7278801/BINARY/thumbnail/Bjelosevici%20i%20Visnja.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p>
+<p><strong>Oliver Begoviæ </strong>(40), prvookrivljeni za organiziranje prostitucije u Zagrebu koji je uhiæen prošlog tjedna zajedno s<strong> Irom P</strong>. (26), u svom kriminalnom dosjeu ima èak 13 kaznenih djela. Istražni sudac Županijskog suda u Zagrebu odredio im je jednomjeseèni pritvor zbog opasnosti od utjecaja na svjedoke, toènije kako ne bi utjecali na 11 djevojaka iz razlièitih krajeva Hrvatske, koje su za njih pružale usluge prostitucije u tri zagrebaèka stana. </p><p>Svojim uslugama masaže s happy endom i drugom šarolikom seksi ponudom djevojke su Begoviæu i njegovoj partnerici, prema sumnjama tužiteljstva, priskrbile oko 360 tisuæa kuna. Klijenti su bili bivši nogometaši, mladi menadžeri i nekolicina taksista. Policija je svodnika i prostitutke u razgovorima s klijentima navodno snimala mjesecima.</p><h2>Oglasi u novinama </h2><p>Kroz tri unajmljena stana, od kojih je jedan bio u novozagrebaèkom naselju Središæe, a drugi u Folnegoviæevom, prošlo je više od 800 klijenata koji su, ovisno o svojim željama i potrebama, tijekom 300-tinjak vruæih susreta, plaæali “turu” od 200 pa sve do 800 kuna. </p><p>Najmlaða maserka imala je tek napunjenih 20 godina, a najstarija je bila dvostruko starija. Oglasi kojima su mamili na opuštajuæe masaže s druge strane zakona bili su itekako uoèeni u moru internetskih ponuda u oglasima pod rubrikama ponuda poslova - usluge masaže. </p><p>Najjeftinija masaža s happy endom za pola sata koštala je 200 kuna, a 300 kuna cijeli sat. Ne bi li uslišili želje ama baš svakog klijenta, pružale su i posebniju uslugu èetveroruène masaže bez popusta, a za koju je trebalo izdvojiti za puni sat 800 kuna, dok je pola sata stajalo upola manje. </p><p>Naravno, uz “ruèni rad” djevojke su pružale i spolne odnose te uslugu “body to body.”</p><h2>Hitna istraga </h2><p>Kako doznajemo, zaradu “tešku” oko 360 tisuæa kuna uprihodili su od 20. studenoga 2017. do 3. svibnja ove godine, a prilikom “vrbovanja” djevojaka dvoje osumnjièenih svodnika im je obeæavalo mjeseènu “plaæu” od najmanje 5000 kuna.</p><p>Temeljem sudskog naloga u pretresu domova i vozila oduzeto je devet mobitela, osam telefonskih kartica raznih teleoperatera, dva laptopa, ali i veæa kolièina razne papirne korespondencije. S obzirom na to da je tužiteljstvo predložilo da se hitno ispitaju neke od podvoðenih djevojaka, nego æe u utorak poèeti s ispitivanjem. “Najstariji zanat” dvojac je oglašavao na internetu i u tiskanim medijima. </p><p>Policija i tužiteljstvo nisu priopæili na koji su naèin otkrili spomenuti dvojac, no nije iskljuèeno da je to bilo jer su im oglasi postali uèestali i upadljivi, a policija ih prati.</p><h2>Lažne kune</h2><p>Oliveru Begoviæu sudilo se još 2012. godine, a teretilo ga se da je zajedno s tada maloljetnim N. K., po ranijem dogovoru, tijekom prosinca 2007. godine od nepoznate osobe nabavio neutvrðenu kolièinu krivotvorenog novca. </p><p>Rijeè je bila o novèanicama u apoenima od 200 kuna, sve istog serijskog broja te da je tim novèanicama kupovao raznu robu u trgovinama na podruèju Benkovca, Pridrage, Vrane i Vodica iako je znao da su krivotvorene.</p><p>Begoviæ je tada uhiæen nakon što su ga benkovaèki policajci zaustavili u Renaultu Cliju i u autu mu našli lažne novèanice.  </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7278864 p").filter(function () {
+$("#content-body-6263871-7329702 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1645,16 +1313,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7278864").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7329702").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7278864").children().slice(max).remove();
+$("#content-body-6263871-7329702").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7278864").children().get(0);
+var firstChild = $("#content-body-6263871-7329702").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1692,8 +1360,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/%C5%BDenim_sina" class ="label label-default" >
-Ženim sina
+<a href="https://www.jutarnji.hr/tag/Prostitucija" class ="label label-default" >
+Prostitucija
 </a>
 </li>
 </ul>
@@ -1704,6 +1372,21 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
+<article class="crna-kronika media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/obrat-u-slucaju-velikog-seks-skandala-svodnik-ozenio-curu-koja-se-za-novac-seksala-s-nizom-uglednih-poduzetnika-sa-sjevera-hrvatske/7286788/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/obrat-u-slucaju-velikog-seks-skandala-svodnik-ozenio-curu-koja-se-za-novac-seksala-s-nizom-uglednih-poduzetnika-sa-sjevera-hrvatske/7286788/">
+OBRAT U SLUÈAJU VELIKOG SEKS SKANDALA Svodnik oženio curu koja se za novac seksala s nizom uglednih poduzetnika sa sjevera Hrvatske
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1719,13 +1402,13 @@ Vezane vijesti
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1737,8 +1420,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1750,13 +1433,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1768,8 +1451,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1781,13 +1464,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1799,8 +1482,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1812,17 +1495,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1830,9 +1513,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1914,7 +1596,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7278864" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7329702" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1958,19 +1640,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="reality media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/reality/foto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci/7278864/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/reality/foto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci/7278864/">
-ŽENIM SINA?
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/">
+ŠAROLIKA SEKSI PONUDA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/reality/foto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci/7278864/">
-FOTO: OSKUDNO ODJEVENA VINKOVÈANKA ŠOKIRALA MAMU MARICU 'Odmah pokazuje guzu i cice, mogla je barem èarape obuæi! Takva mi u kuæu neæe uæi'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/">
+MJESECIMA SLUŠALI RAZGOVORE DJEVOJAKA I BIVŠIH NOGOMETAŠA Razbijen unosni lanac prostitucije u Zagrebu, osim sportaša klijenti su bili i menadžeri
 </a>
 </h4>
 </div>
@@ -1980,19 +1662,19 @@ FOTO: OSKUDNO ODJEVENA VINKOVÈANKA ŠOKIRALA MAMU MARICU 'Odmah pokazuje guzu i c
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="reality media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/reality/sok-u-agrorealityju-neobuzdana-nikolina-pred-zaprepastenim-suparnicama-pocela-ljubiti-josipa-a-zasto-smo-mi-ovdje-ajde-priznaj-mu-gdje-si-bila/7278738/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/reality/sok-u-agrorealityju-neobuzdana-nikolina-pred-zaprepastenim-suparnicama-pocela-ljubiti-josipa-a-zasto-smo-mi-ovdje-ajde-priznaj-mu-gdje-si-bila/7278738/">
-LJUBAV JE NA SELU
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/">
+ODLUKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/reality/sok-u-agrorealityju-neobuzdana-nikolina-pred-zaprepastenim-suparnicama-pocela-ljubiti-josipa-a-zasto-smo-mi-ovdje-ajde-priznaj-mu-gdje-si-bila/7278738/">
-ŠOK U AGROREALITYJU: NEOBUZDANA NIKOLINA PRED ZAPREPAŠTENIM SUPARNICAMA POÈELA LJUBITI JOSIPA 'A zašto smo mi ovdje?! Ajde, priznaj mu gdje si bila!'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/">
+SRUŠENA OSLOBAÐAJUÆA PRESUDA HORVATINÈIÆU: SINKOPA NIJE DOKAZANA Zakljuèak suda da su ubijeni Talijani suodgovorni za nesreæu odbaèen kao iracionalan
 </a>
 </h4>
 </div>
@@ -2002,19 +1684,20 @@ LJUBAV JE NA SELU
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="reality media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/reality/nevjerojatna-zivotna-prica-dalmatinke-koja-ljubav-trazi-na-selu-ne-samo-da-me-prevario-to-je-radio-godinama-a-onda-sam-saznala-i-da-je-gay/7274265/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/reality/nevjerojatna-zivotna-prica-dalmatinke-koja-ljubav-trazi-na-selu-ne-samo-da-me-prevario-to-je-radio-godinama-a-onda-sam-saznala-i-da-je-gay/7274265/">
-BILA JE MLADA I NAIVNA
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/">
+DEGUTANTNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/reality/nevjerojatna-zivotna-prica-dalmatinke-koja-ljubav-trazi-na-selu-ne-samo-da-me-prevario-to-je-radio-godinama-a-onda-sam-saznala-i-da-je-gay/7274265/">
-NEVJEROJATNA ŽIVOTNA PRIÈA DALMATINKE KOJA LJUBAV TRAŽI NA SELU 'Ne samo da me prevario, to je radio godinama, a onda sam saznala i da je - gay!' </a>
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/">
+OTKRIVENO STRAVIÈNO ZLOSTAVLJANJE NA INTERNETU: Djevojèicu iz Dubrovnika koja je izgubila oba roditelja vršnjaci zasuli odvratnim porukama
+</a>
 </h4>
 </div>
 </div>
@@ -2023,19 +1706,19 @@ NEVJEROJATNA ŽIVOTNA PRIÈA DALMATINKE KOJA LJUBAV TRAŽI NA SELU 'Ne samo da me p
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="reality media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/reality/video-umirovljenica-sokirala-ziri-i-publiku-supertalenta-nevjerojatnom-izvedbom-klasika-acdc-ja-mislim-da-mogu-pobijediti/7280958/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/reality/video-umirovljenica-sokirala-ziri-i-publiku-supertalenta-nevjerojatnom-izvedbom-klasika-acdc-ja-mislim-da-mogu-pobijediti/7280958/">
-ROKERICA OD MALIH NOGU
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/">
+NAORUŽAN DO ZUBA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/reality/video-umirovljenica-sokirala-ziri-i-publiku-supertalenta-nevjerojatnom-izvedbom-klasika-acdc-ja-mislim-da-mogu-pobijediti/7280958/">
-VIDEO: UMIROVLJENICA ŠOKIRALA ŽIRI I PUBLIKU SUPERTALENTA NEVJEROJATNOM IZVEDBOM KLASIKA AC/DC-ja 'Mislim da mogu pobijediti!'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/">
+KAKO JE POMAHNITALI NASILNIK ZATOÈIO CIJELO BARANJSKO SELO: Svako malo pucao, policajci u panici bježali: U jednom je trenu specijalac viknuo - BOMBA!
 </a>
 </h4>
 </div>
@@ -2073,19 +1756,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -2093,8 +1776,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -2163,7 +1846,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -2181,6 +1864,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2349,7 +2037,7 @@ Domaæe zvijezde
 Strane zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/reality/">
 Reality
 </a>
@@ -2470,11 +2158,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2522,14 +2205,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/scena/sve-sto-vas-je-ikad-zanimalo-o-westworldu-jednoj-od-najboljih-i-najgledanijih-serija-koje-mozete-pratiti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524572048profimedia-0305220521.jpg?v=1524572100" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>STIGLA JE DRUGA SEZONA/Sve što vas je ikad zanimalo o &#039;Westworldu&#039;, jednoj od najboljih i najgledanijih serija koje možete pratiti</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2573,23 +2256,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=54&contextPath=1-51-54-&pubId=1&cat=&meta=read-story&objId=7278864&type=article&title=FOTO%3a+OSKUDNO+ODJEVENA+VINKOV%c4%8cANKA+%c5%a0OKIRALA+MAMU+MARICU+%26%23039%3bOdmah+pokazuje+guzu+i+cice%2c+mogla+je+barem+%c4%8darape+obu%c4%87i!+Takva+mi+u+ku%c4%87u+ne%c4%87e+u%c4%87i%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2freality%2ffoto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci%2f7278864%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7329702&type=article&title=MJESECIMA+SLU%c5%a0ALI+RAZGOVORE+DJEVOJAKA+I+BIV%c5%a0IH+NOGOMETA%c5%a0A+Razbijen+unosni+lanac+prostitucije+u+Zagrebu%2c+osim+sporta%c5%a1a+klijenti+su+bili+i+menad%c5%beeri&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fmjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri%2f7329702%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=54&amp;contextPath=1-51-54-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7278864&amp;type=article&amp;title=FOTO%3a+OSKUDNO+ODJEVENA+VINKOV%c4%8cANKA+%c5%a0OKIRALA+MAMU+MARICU+%26%23039%3bOdmah+pokazuje+guzu+i+cice%2c+mogla+je+barem+%c4%8darape+obu%c4%87i!+Takva+mi+u+ku%c4%87u+ne%c4%87e+u%c4%87i%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2freality%2ffoto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci%2f7278864%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7329702&amp;type=article&amp;title=MJESECIMA+SLU%c5%a0ALI+RAZGOVORE+DJEVOJAKA+I+BIV%c5%a0IH+NOGOMETA%c5%a0A+Razbijen+unosni+lanac+prostitucije+u+Zagrebu%2c+osim+sporta%c5%a1a+klijenti+su+bili+i+menad%c5%beeri&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fmjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri%2f7329702%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-54-&cat=jltags%40eph.hr%2c2016&objId=1380993061&title=%c5%bdenim+sina&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BDenim_sina&rt=1&ctxId=54&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=644120641&title=Prostitucija&url=tag%3ajltags%40eph.hr%2c2016%3aProstitucija&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-54-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1380993061&amp;title=%c5%bdenim+sina&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BDenim_sina&amp;rt=1&amp;ctxId=54&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=644120641&amp;title=Prostitucija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aProstitucija&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2642,7 +2325,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/reality/foto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci/7278864/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2652,14 +2335,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/spektakli/reality/foto-oskudno-odjevena-vinkovcanka-sokirala-mamu-maricu-odmah-pokazuje-guzu-i-cice-mogla-je-barem-carape-obuci-takva-mi-u-kucu-nece-uci/7278864/",
-postId : "7278864",
+url : "https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/",
+postId : "7329702",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "FOTO: OSKUDNO ODJEVENA VINKOVÈANKA ŠOKIRALA MAMU MARICU 'Odmah pokazuje guzu i cice, mogla je barem èarape obuæi! Takva mi u kuæu neæe uæi'",
-pubdate : "2018-04-23 23:46",
-authors : "Vlado Marinoviæ",
-sections : "Front Page, Spektakli, Reality",
-tags : "Ženim sina",
+title : "MJESECIMA SLUŠALI RAZGOVORE DJEVOJAKA I BIVŠIH NOGOMETAŠA Razbijen unosni lanac prostitucije u Zagrebu, osim sportaša klijenti su bili i menadžeri",
+pubdate : "2018-05-08 13:38",
+authors : "Hajdi Karakaš Jakubin, Dušan Miljuš",
+sections : "Front Page, Vijesti, Crna kronika",
+tags : "Prostitucija",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

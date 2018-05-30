@@ -9,7 +9,7 @@ Created on 15. ozu 2018.
 
 from flask import Flask, render_template, json, request, Response
 from flask_mysqldb import MySQL
-import mainPackage.crawlAndSentiment as cs
+import mainPackage.systemLogic as sl
 
 
 allDataFromDB = []
@@ -77,10 +77,26 @@ def autocomplete():
 @app.route('/startCrawlerSentiment')
 def startCrawlerSentiment():
     print ("Hello")
-    cs.runCrawlAndSentiment()
+    #sl.runCrawl()
+    sl.runAnalizeSentiment()
     print ("DONE")
     return "nothing"
 
+
+@app.route('/startFindAll')
+def startFindAll():
+    print ("Hello find all")
+    sl.runFindPersonAppearanceInArticle()
+    print ("DONE find all")
+    return "nothing"
+
+
+@app.route('/startPosNegWords')
+def startPosNegWords():
+    print ("Hello pos neg words")
+    sl.rungetsentimentAnalysisFromPosAndNegWords()
+    print ("DONE pos neg words")
+    return "nothing"
 
 
 @app.route('/showPolitics', methods=['GET', 'POST'])
@@ -100,6 +116,8 @@ def showPolitics():
         #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
         stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
 
+        stmnt4 = "SELECT * from personinfo WHERE personinfo.personId = %s"
+
 
         search = request.form['showPolitics']
 
@@ -109,12 +127,21 @@ def showPolitics():
             #print (r[0],r[1],r[2])
         records = cursor.fetchall()
         if(records):
+            personID = records[0][0]
+            cursor.execute(stmnt4, (personID,))
+            conn.commit()
+            records = cursor.fetchall()
             return render_template('politika.html', records=records) 
         else:
             cursor.execute(stmnt2, (search,"Politika"))
             conn.commit()
             records = cursor.fetchall()
             if(records):
+                personID = records[0][0]
+                cursor.execute(stmnt4, (personID,))
+                conn.commit()
+                records = cursor.fetchall()
+                print (records)
                 return render_template('politika.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
@@ -123,12 +150,28 @@ def showPolitics():
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Politika"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('politika.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('politika.html', records=records)
+                    else:
+                        return render_template('politika.html', records=records)
                 elif(len(bothNameSurname) == 3):
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "Politika"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('politika.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('politika.html', records=records)
+                    else:
+                        return render_template('politika.html', records=records)
     return render_template('politika.html')
 
 
@@ -150,6 +193,8 @@ def showMusic():
         #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
         stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
 
+        stmnt4 = "SELECT * from personinfo WHERE personinfo.personId = %s"
+
 
         search = request.form['showMusic']
 
@@ -159,12 +204,20 @@ def showMusic():
             #print (r[0],r[1],r[2])
         records = cursor.fetchall()
         if(records):
+            personID = records[0][0]
+            cursor.execute(stmnt4, (personID,))
+            conn.commit()
+            records = cursor.fetchall()
             return render_template('glazba.html', records=records) 
         else:
             cursor.execute(stmnt2, (search,"Glazba"))
             conn.commit()
             records = cursor.fetchall()
             if(records):
+                personID = records[0][0]
+                cursor.execute(stmnt4, (personID,))
+                conn.commit()
+                records = cursor.fetchall()
                 return render_template('glazba.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
@@ -173,12 +226,28 @@ def showMusic():
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Glazba"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('glazba.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('glazba.html', records=records)
+                    else:
+                        return render_template('glazba.html', records=records)
                 elif(len(bothNameSurname) == 3):
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "Glazba"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('glazba.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('glazba.html', records=records)
+                    else:
+                        return render_template('glazba.html', records=records)
     return render_template('glazba.html')
 
 
@@ -200,6 +269,7 @@ def showSport():
         #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
         stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
 
+        stmnt4 = "SELECT * from personinfo WHERE personinfo.personId = %s"
 
 
         search = request.form['showSport']
@@ -210,12 +280,20 @@ def showSport():
             #print (r[0],r[1],r[2])
         records = cursor.fetchall()
         if (records):
+            personID = records[0][0]
+            cursor.execute(stmnt4, (personID,))
+            conn.commit()
+            records = cursor.fetchall()
             return render_template('sport.html', records=records) 
         else:
             cursor.execute(stmnt2, all_searches)
             conn.commit()
             records = cursor.fetchall()
             if(records):
+                personID = records[0][0]
+                cursor.execute(stmnt4, (personID,))
+                conn.commit()
+                records = cursor.fetchall()
                 return render_template('sport.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
@@ -223,12 +301,28 @@ def showSport():
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Sport"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('sport.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('sport.html', records=records)
+                    else:
+                        return render_template('sport.html', records=records)
                 elif(len(bothNameSurname) == 3):
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "Sport"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('sport.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('sport.html', records=records)
+                    else:
+                        return render_template('sport.html', records=records)
     return render_template('sport.html')
 
 
@@ -250,6 +344,7 @@ def showTheatre():
         #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
         stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
 
+        stmnt4 = "SELECT * from personinfo WHERE personinfo.personId = %s"
 
 
         search = request.form['showTheatre']
@@ -260,12 +355,20 @@ def showTheatre():
             #print (r[0],r[1],r[2])
         records = cursor.fetchall()
         if(records):
+            personID = records[0][0]
+            cursor.execute(stmnt4, (personID,))
+            conn.commit()
+            records = cursor.fetchall()
             return render_template('kazaliste.html', records=records) 
         else:
             cursor.execute(stmnt2, all_searches)
             conn.commit()
             records = cursor.fetchall()
             if(records):
+                personID = records[0][0]
+                cursor.execute(stmnt4, (personID,))
+                conn.commit()
+                records = cursor.fetchall()
                 return render_template('kazaliste.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
@@ -273,12 +376,28 @@ def showTheatre():
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Kazalište"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('kazaliste.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('kazaliste.html', records=records)
+                    else:
+                        return render_template('kazaliste.html', records=records)
                 elif(len(bothNameSurname) == 3):
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "Kazalište"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('kazaliste.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('kazaliste.html', records=records)
+                    else:
+                        return render_template('kazaliste.html', records=records)
     return render_template('kazaliste.html')
 
 
@@ -299,6 +418,7 @@ def showTV():
         #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
         stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
 
+        stmnt4 = "SELECT * from personinfo WHERE personinfo.personId = %s"
 
 
         search = request.form['showTV']
@@ -309,12 +429,20 @@ def showTV():
             #print (r[0],r[1],r[2])
         records = cursor.fetchall()
         if(records):
+            personID = records[0][0]
+            cursor.execute(stmnt4, (personID,))
+            conn.commit()
+            records = cursor.fetchall()
             return render_template('tv.html', records=records) 
         else:
             cursor.execute(stmnt2, all_searches)
             conn.commit()
             records = cursor.fetchall()
             if(records):
+                personID = records[0][0]
+                cursor.execute(stmnt4, (personID,))
+                conn.commit()
+                records = cursor.fetchall()
                 return render_template('tv.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
@@ -322,12 +450,28 @@ def showTV():
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "TV"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('tv.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('tv.html', records=records)
+                    else:
+                        return render_template('tv.html', records=records)
                 elif(len(bothNameSurname) == 3):
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "TV"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('tv.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('tv.html', records=records)
+                    else:
+                        return render_template('tv.html', records=records)
     return render_template('tv.html')
 
 
@@ -348,6 +492,7 @@ def showBusiness():
         #stmnt3 = "SELECT person.*, tag.* FROM person person, tag tag WHERE person.id = tag.personId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
         stmnt3 = "SELECT person.*, tag.*, persontag.* FROM person person, tag tag, persontag persontag WHERE person.id = persontag.personId and tag.id = persontag.tagId and person.personName = %s and person.personSurname = %s and tag.tagName = %s"
 
+        stmnt4 = "SELECT * from personinfo WHERE personinfo.personId = %s"
 
 
         search = request.form['showBusiness']
@@ -358,12 +503,20 @@ def showBusiness():
             #print (r[0],r[1],r[2])
         records = cursor.fetchall()
         if(records):
+            personID = records[0][0]
+            cursor.execute(stmnt4, (personID,))
+            conn.commit()
+            records = cursor.fetchall()
             return render_template('poduzetnistvo.html', records=records) 
         else:
             cursor.execute(stmnt2, all_searches)
             conn.commit()
             records = cursor.fetchall()
             if(records):
+                personID = records[0][0]
+                cursor.execute(stmnt4, (personID,))
+                conn.commit()
+                records = cursor.fetchall()
                 return render_template('poduzetnistvo.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
@@ -371,10 +524,28 @@ def showBusiness():
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Poduzetništvo"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('poduzetnistvo.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('poduzetnistvo.html', records=records)
+                    else:
+                        return render_template('poduzetnistvo.html', records=records)
                 elif(len(bothNameSurname) == 3):
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1] + " " + bothNameSurname[2]), "Poduzetništvo"))
                     conn.commit()
                     records = cursor.fetchall()
-                    return render_template('poduzetnistvo.html', records=records)
+                    if(records):
+                        personID = records[0][0]
+                        cursor.execute(stmnt4, (personID,))
+                        conn.commit()
+                        records = cursor.fetchall()
+                        print (records)
+                        return render_template('poduzetnistvo.html', records=records)
+                    else:
+                        return render_template('poduzetnistvo.html', records=records)
     return render_template('poduzetnistvo.html')
+
+

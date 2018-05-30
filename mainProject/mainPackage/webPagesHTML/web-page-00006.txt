@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Cristina Cifuentes, premijerka pokrajine Madrid, ponudila je ostavku nakon što je njezina politièka karijera uzdrmana dvama skandalima." />
-<meta name="keywords" content="Madrid, kraða" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Ukinuta je oslobaðajuæa presuda Tomi Horvatinèiæu (71) i sudit æe mu se ponovo pred potpuno izmijenjenim vijeæem. Odluka je to vijeæa zadarskog Županijskog suda (predsjedao je sudac Hrvoje Viskoviæ koji je i glasnogovornik suda, a èlanovi su bili Marijan Bitanga, predsjednik kaznenog odjela tog suda i sutkinja Dijana Grancariæ) koje je u svom obrazloženju meðu ostalim navelo da je sutkinja Maja Šupe koja je u listopadu prošle godine opet poèinila bitne povrede kaznenog postupka jer su razlozi za oslobaðajuæu presudu u znatnoj mjeri proturjeèni zbog èega ju nisu mogli ni preispitivati, a posebno je proturjeèna sutkinja bila kad je prihvatila sinkopu odnosno privremeni gubitak svijesti kao razlog zbog kojeg je Horvatinèiæa oslobodila krivnje za srmt supružnika Salpietro." />
+<meta name="keywords" content="Tomislav Horvatinèiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>VIDEO: PAD MOÆNE POLITIÈARKE Prvo su je optužili da je lažirala diplomu, a onda je procurila snimka koja ju je uništila: &#039;Odlazim uzdignute glave&#039; - Jutarnji List</title>
+<title>SRUŠENA OSLOBAÐAJUÆA PRESUDA HORVATINÈIÆU: SINKOPA NIJE DOKAZANA Zakljuèak suda da su ubijeni Talijani suodgovorni za nesreæu odbaèen kao iracionalan - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "DE";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Svijet";
+var dfpCategory = "Crna kronika";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7285585";
-var dfpArticleKeyword = "Madrid";
+var dfpArticle = "7333965";
+var dfpArticleKeyword = "Tomislav Horvatinèiæ";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/video-pad-mocne-politicarke-prvo-su-je-optuzili-da-je-lazirala-diplomu-a-onda-je-procurila-snimka-koja-ju-je-unistila-odlazim-uzdignute-glave/7285585/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/video-pad-mocne-politicarke-prvo-su-je-optuzili-da-je-lazirala-diplomu-a-onda-je-procurila-snimka-koja-ju-je-unistila-odlazim-uzdignute-glave/7285585/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/madridjpg/7285609/ALTERNATES/LANDSCAPE_1180/madrid.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/horvatincic/7233276/ALTERNATES/LANDSCAPE_1180/horvatin%C4%8Di%C4%87" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/madridjpg/7285609/ALTERNATES/LANDSCAPE_1180/madrid.jpg">
-<meta property="og:title" content="VIDEO: PAD MOÆNE POLITIÈARKE Prvo su je optužili da je lažirala diplomu, a onda je procurila snimka koja ju je uništila: 'Odlazim uzdignute glave'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/horvatincic/7233276/ALTERNATES/LANDSCAPE_1180/horvatin%C4%8Di%C4%87">
+<meta property="og:title" content="SRUŠENA OSLOBAÐAJUÆA PRESUDA HORVATINÈIÆU: SINKOPA NIJE DOKAZANA Zakljuèak suda da su ubijeni Talijani suodgovorni za nesreæu odbaèen kao iracionalan" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/video-pad-mocne-politicarke-prvo-su-je-optuzili-da-je-lazirala-diplomu-a-onda-je-procurila-snimka-koja-ju-je-unistila-odlazim-uzdignute-glave/7285585/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Cristina Cifuentes, premijerka pokrajine Madrid, ponudila je ostavku nakon što je njezina politièka karijera uzdrmana dvama skandalima." />
+<meta property="og:description" content="Ukinuta je oslobaðajuæa presuda Tomi Horvatinèiæu (71) i sudit æe mu se ponovo pred potpuno izmijenjenim vijeæem. Odluka je to vijeæa zadarskog Županijskog suda (predsjedao je sudac Hrvoje Viskoviæ koji je i glasnogovornik suda, a èlanovi su bili Marijan Bitanga, predsjednik kaznenog odjela tog suda i sutkinja Dijana Grancariæ) koje je u svom obrazloženju meðu ostalim navelo da je sutkinja Maja Šupe koja je u listopadu prošle godine opet poèinila bitne povrede kaznenog postupka jer su razlozi za oslobaðajuæu presudu u znatnoj mjeri proturjeèni zbog èega ju nisu mogli ni preispitivati, a posebno je proturjeèna sutkinja bila kad je prihvatila sinkopu odnosno privremeni gubitak svijesti kao razlog zbog kojeg je Horvatinèiæa oslobodila krivnje za srmt supružnika Salpietro." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="VIDEO: PAD MOÆNE POLITIÈARKE Prvo su je optužili da je lažirala diplomu, a onda je procurila snimka koja ju je uništila: 'Odlazim uzdignute glave'">
-<meta name="twitter:description" content="Cristina Cifuentes, premijerka pokrajine Madrid, ponudila je ostavku nakon što je njezina politièka karijera uzdrmana dvama skandalima.">
+<meta name="twitter:creator" content="Dušan Miljuš">
+<meta name="twitter:title" content="SRUŠENA OSLOBAÐAJUÆA PRESUDA HORVATINÈIÆU: SINKOPA NIJE DOKAZANA Zakljuèak suda da su ubijeni Talijani suodgovorni za nesreæu odbaèen kao iracionalan">
+<meta name="twitter:description" content="Ukinuta je oslobaðajuæa presuda Tomi Horvatinèiæu (71) i sudit æe mu se ponovo pred potpuno izmijenjenim vijeæem. Odluka je to vijeæa zadarskog Županijskog suda (predsjedao je sudac Hrvoje Viskoviæ koji je i glasnogovornik suda, a èlanovi su bili Marijan Bitanga, predsjednik kaznenog odjela tog suda i sutkinja Dijana Grancariæ) koje je u svom obrazloženju meðu ostalim navelo da je sutkinja Maja Šupe koja je u listopadu prošle godine opet poèinila bitne povrede kaznenog postupka jer su razlozi za oslobaðajuæu presudu u znatnoj mjeri proturjeèni zbog èega ju nisu mogli ni preispitivati, a posebno je proturjeèna sutkinja bila kad je prihvatila sinkopu odnosno privremeni gubitak svijesti kao razlog zbog kojeg je Horvatinèiæa oslobodila krivnje za srmt supružnika Salpietro.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +691,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Svijet, Vijesti, Front Page",
-pubdate: "2018-04-25T14:53+02:00",
-author: "Aleksandra Vladiæ",
+data: { section: "Crna kronika, Vijesti, Front Page",
+pubdate: "2018-05-08T18:34+02:00",
+author: "Dušan Miljuš",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -863,12 +865,12 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -886,6 +888,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1134,7 +1141,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1142,12 +1149,12 @@ Mozgalice
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1165,6 +1172,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1204,11 +1216,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-PONUDILA OSTAVKU
+ODLUKA
 </p>
 <h1
 class="title">
-VIDEO: PAD MOÆNE POLITIÈARKE Prvo su je optužili da je lažirala diplomu, a onda je procurila snimka koja ju je uništila: 'Odlazim uzdignute glave'
+SRUŠENA OSLOBAÐAJUÆA PRESUDA HORVATINÈIÆU: SINKOPA NIJE DOKAZANA Zakljuèak suda da su ubijeni Talijani suodgovorni za nesreæu odbaèen kao iracionalan
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1228,7 @@ VIDEO: PAD MOÆNE POLITIÈARKE Prvo su je optužili da je lažirala diplomu, a onda 
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/dusan-miljus">Dušan Miljuš</a></li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1236,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 14:53
+08.05.2018. u 18:34
 </p>
 </li>
 </ul>
@@ -1236,21 +1248,24 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/madridjpg/7285609" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/horvatincic/7233276" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/madridjpg/7285609/ALTERNATES/LANDSCAPE_380/madrid.jpg"
+<img src="https://www.jutarnji.hr/incoming/horvatincic/7233276/ALTERNATES/LANDSCAPE_380/horvatin%C4%8Di%C4%87"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/madridjpg/7285609/BINARY/thumbnail/madrid.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/horvatincic/7233276/BINARY/thumbnail/horvatin%C4%8Di%C4%87"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Zadar, 110418.
+Danas je na Zupanijskom sudu u Zadru zapoceo zalbeni postupak u slucaju Tomislava Horvatincica za pomorku nesrecu iz 2011. godine
+Na fotografiji: Tomislav Horvatincic.
+Foto: Luka Gerlanc / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Screenshot/YouTube
+<span> Luka Gerlanc
 </span>
 </div>
 </div>
@@ -1286,91 +1301,21 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285585"
+<div id="content-body-6263871-7333965"
 >
-<p><strong>Cristina Cifuentes</strong>, premijerka pokrajine Madrid, ponudila je ostavku nakon što je njezina politièka karijera uzdrmana dvama skandalima.</p><p>Najprije su je optužili da je lažirala sveuèilišnu diplomu, a potom je procurio video koji sugerira da je ukrala dvije boèice kreme protiv starenja u supermarketu.</p><p>Naime, procurila je video snimka iz 2011. godine koja prikazuje Cristinu Cifuentes kako predaje artikle zaštitaru supermarketa. Navodno je ukrala dvije boèice kreme protiv starenja.</p><p>Snimka je nastala 4. svibnja 2011. godine, a duæan se nalazi vrlo blizu Skupštine Madrida, a Cifuentes je u to vrijeme bila zamjenica predsjednika Skupštine.</p><p>Izvori bliski zastupnici Popularne stranke tvrde da je doista rijeè o njoj na snimci, a policijski izvori tvrde da se kraða dogodila, no da ne postoji policijsko izvješæe  o tome.</p><p>
+<p>Ukinuta je oslobaðajuæa presuda <strong>Tomi Horvatinèiæu</strong> (71) i sudit æe mu se ponovo pred potpuno izmijenjenim vijeæem. Odluka je to vijeæa zadarskog Županijskog suda (predsjedao je sudac <strong>Hrvoje Viskoviæ</strong> koji je i glasnogovornik suda, a èlanovi su bili <strong>Marijan Bitanga</strong>, predsjednik kaznenog odjela tog suda i sutkinja <strong>Dijana Grancariæ</strong>) koje je u svom obrazloženju meðu ostalim navelo da je sutkinja <strong>Maja Šupe</strong> koja je u listopadu prošle godine opet poèinila bitne povrede kaznenog postupka jer su razlozi za oslobaðajuæu presudu u znatnoj mjeri proturjeèni zbog èega ju nisu mogli ni preispitivati, a posebno je proturjeèna sutkinja bila kad je prihvatila sinkopu odnosno privremeni gubitak svijesti kao razlog zbog kojeg je Horvatinèiæa oslobodila krivnje za smrt supružnika Salpietro.</p><p>Podsjeæamo, pomorska nesreæa dogodila 6. kolovoza 2011. godine kada je Horvatinèiæ gliserom Santa Marina, na kojoj je bio sa svojom partnericom <strong>Anicom Ðerða</strong> u akvatoriju nedaleko od Primoštena u punoj brzini, sa 26,3 èvora, udario u jedrilicu Santa Piacenza i usmrtio supružnike <strong>Francesca</strong> i <strong>Marinellu Salpietro</strong> iz Padove.</p><p>Ocjenjujuæi oslobaðajuæu presudu šibenske sutkinje Maje Šupe iz listopada prošle godine zadarski suci zakljuèili je prvostupanjski sud samo na temelju Horvatinèiæeve obrane i iskaza Anice Ðerðe, te iskaza još nekih svjedoka i vještaka zakljuèio da je on mogao imati sinkopu. &quot;Štoviše, svjedok <strong>Stjepo Asiæ</strong>, skiper i zaposlenik trgovaèkog društva optuženika Horvatinèiæa, na izrièito pitanje je ponovio dio svjedoèenja po kojem mu je optuženik Horvatinèiæ kazao da mu je otkazao na upravljaèki sustav na brodu. Osim što se ne referira na ovaj dio svjedoèenja i time èini spomenutu bitnu povredu odredaba kaznenog postupka, ovako utvrðena povreda nužno se reflektira i na utvrðenje èinjeniènog stanja kritiènog dogaðaja. Prvostupanjski sud ne analizira svjedoèi iskaz <strong>Borisa Seljanovskog</strong>, naèelnika Odjela inspekcijskih poslova i inspektora Luèke kapetanije Šibenik koji je obavio razgovor s Horvatinèiæem i koji je meðu ostalim pitao Horvatinèiæa &quot;je li u stanju odgovarati na pitanja&quot; na što je dao potvrdan odgovor&quot;, navodi se meðu ostalim u obrazloženju presude. Spomenuo je i da je &quot;Tomo Horvatinèiæ dva dana nakon nesreæe, 8. kolovoza bio u ordinaciji lijeènika Opæe medicine <strong>Željka Baranoviæa</strong> kojem je opisao svoje zdravstveno stanje, ukljuèujuæi i dijagnoze i tretmane dijagnosticiranih oboljenja, pri èemu nije ništa rekao o dijagnozi vazovagalne sinkope. Štoviše &quot;na pitanje ima li još zdravstvenih tegoba rekao je da je to sve (lijeènièka svjedodžba na listu 297 spisa) navodi se na 7. stranici rješenja o ukidanju presude.</p><p>Suci zadarskog suda ocijenili su da je bitna povreda kaznenog postupka bilo i izdvajanje skice nesreæe koju je Horvatinèiæ napravio neposredno nakon nesreæe koju su izdvojili kao nezakonit dokaz.</p><p>&quot;Prvostupanjski sud je rješenje o izdvajanju skice nesreæe donio bez obrazloženja i ne dopuštajuæi posebnu žalbu protiv tog rješenja, pri èemu razlozi za tu odluku nisu izloženi niti u prvostupanjskoj presudi koja je bila ukinuta. Takvim postupanjem prvostupanjski sud je nepravilno primijenio odredbe ZKP-a koje reguliraju materiju nezakonitih dokaza&quot;; navode zadarski suci. Pritom napominju kako je &quot;èinjenica kapaciteta optuženika Tomislava Horvatinèiæa da saèini skicu i sadržaj potonje s tim u vezi, predstavlja bitnu èinjenicu glede utvrðenja stanja njegove svijesti u kritiènom trenutku&quot;.</p><p>Sud se osvrnuo i na tehnièki dio same nesreæe. Na gotovo cijeloj stranici analizirane su putanje obaju plovila i kako je to tumaèio prvostupanjski sud. Po ocjeni zadarskog suda nedvojbeno je utvrðeno da talijanska jedrilica nije bila odgovorna za nesreæu. Nesporno je vještaèenjem ustanovljeno da je Horvatinèiæ skrenuvši udesno poduzeo zakašnjelu, ali i pogrešnu radnju izbjegavanja udara u talijansku jedrilicu na svega 8,7 sekundi prije udara.</p><p>Prihvaæena je i žalba tužitelja u dijelu u kojem tvrde da je zakljuèak šibenskog suda 'o nekakvom doprinosu ošteæenika Salpietra ovoj nesreæi (...) iracionalan i nepravedan'.</p><p>I opet zbog bitnih povreda odredaba kaznenog postupka nisu razmatrani neki argumenti tužitelja vezani uz same èinjenice o nesreæi. U ponovljenom postupku, potpuno novo vijeæe morat æe otkloniti sve bitne povrede odredaba ZKP-a i donijeti zakonitu presudu. Pritom æe se zakonito odluèivati o izdvajanju nezakonitih dokaza i ponovo provesti sve raspoložive dokaze. U ponovljenom postupku morat æe i sve sporne èinjenice utvrditi &quot;savjesnom i brižljivom analizom svakog dokaza...Uz to æe se posebna pozornost obratiti na pravilnost i zakonitost pribavljanja i izvoðenja dokaza, poglavito u aspektu dokazivanja vještaèenjem i kod eventualnih odstupanja svjedoka od ranijih iskaza&quot; zakljuèuju svoju odluku suci zadarskog suda.</p><p>Dakle, novo vijeæe morat æe uèiniti sve ono što je prijašnje na èelu s Majom Šupe, koja je imala niz primjedbi na izvještavanje medija o svom radu, nije uèinilo, ili je uèinilo protuzakonito zbog èega joj je veæ drugi puta pala presuda Horvatinèiæu zbog bitnih povreda zakona. Treæu priliku više neæe imati.</p><p> <div class="e4-sub-article ">
 <section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/cristinajpg/7285582" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/cristinajpg/7285582/ALTERNATES/FREE_380/cristina.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/cristinajpg/7285582/BINARY/thumbnail/cristina.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Cristina Cifuentes
-President of Porugal Marcelo Rebelo de Sousa visit to Spain - 16 Apr 2018, Image: 368729520, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, TEMP Rex Features"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, TEMP Rex Features
-</span>
+<div>
+<h5><strong>Horvatinèiæev odvjetnik vijest doznao èitajuæi Jutarnji</strong></h5><p>&quot;Ne mogu ništa komentirati o srušenoj oslobaðajuæoj presudi jer ništa više ne znam od onog što je objavio Jutarnji list. Nisam dobio još nikakve službene dokumente, a vjerojatno æu ih dobiti sutra&quot;, rekao je <strong>Branko Bajica</strong>, odvjetnik Tomislava Horvatinèiæa. <em>(Hina)</em></p>
 </div>
-</div>
-</div>
-</div>
-</article>
 </section>
-</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/leticijajpg/7286137" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/leticijajpg/7286137/ALTERNATES/FREE_380/leticija.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/leticijajpg/7286137/BINARY/thumbnail/leticija.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="The kings of Spain, Felipe VI and Letizia, attend the delivery of Cervantes Award to the writer of Nicaragua Sergio Ramirez, in University of Alcala de Henares. (Photo: Jose L. Cuesta/261/Cordon Press).
-Cristina Cifuentes, president of Community of Madrid.
-Cordon Press, Image: 369405892, License: Rights-managed, Restrictions: Produccion propia, Model Release: no, Credit line: Profimedia, Cordon Press"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, Cordon Press
-</span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Kralj Felipe VI i kraljica Letizia sa Cristinom Cifuentes</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Prije samo nekoliko tjedana Cifuentes je punila novinske stupce zbog još jednog skandala. Utvrðene su nepravilnosti vezano za njezinu diplomu na Sveuèilištu Kralj Juan Carlos koju je dobila 2012. godine. Navodno nikada nije bila na predavanjima niti je pristupila ispitnim rokovima, pa je dovedeno u sumnju je li uopæe napisala diplomski rad i obranila ga pred komisijom.</p><p>Tada se isprièala svima koji se mogu osjeæati ugroženima zbog povlaštenih uvjeta koje je imala prilikom studiranja prava.</p><p>Govoreæi danas na izvanrednoj konferenciji za novinare, Cifuentes je rekla kako je odluku o ostavci donijela u dogovoru sa svojom strankom.</p><p>- U životu morate javni interes staviti iznad osobnoga, rekla je Cifuntes pokušavši pritom umanjiti znaèaj snimke rekavši da je žrtva kampanje uznemiravanja i rušenja ugleda.</p><p>- Odlazim uzdignute glave, ali u ustima mi ostaje gorak okus, rekla je Cifuentes.</p><p> <section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/article7285612.ece" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="youtubeWrapper "
-style="width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/jpigXiSXIa8"
-frameborder="0"
-width="100%"
-allowfullscreen=""></iframe>
-</div>
-</div>
-</div>
-</article>
-</section>
  </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285585 p").filter(function () {
+$("#content-body-6263871-7333965 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1379,16 +1324,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285585").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7333965").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285585").children().slice(max).remove();
+$("#content-body-6263871-7333965").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285585").children().get(0);
+var firstChild = $("#content-body-6263871-7333965").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1426,13 +1371,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/kra%C4%91a" class ="label label-default" >
-kraða
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Madrid" class ="label label-default" >
-Madrid
+<a href="https://www.jutarnji.hr/tag/Tomislav_Horvatin%C4%8Di%C4%87" class ="label label-default" >
+Tomislav Horvatinèiæ
 </a>
 </li>
 </ul>
@@ -1443,6 +1383,21 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
+<article class="hrvatska media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/rasplet-pravosudne-sage-o-tomislavu-horvatincicu-donesena-je-pravomocna-presuda-o-sinkopi-ali-jos-se-ne-zna-kakva/7320006/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/rasplet-pravosudne-sage-o-tomislavu-horvatincicu-donesena-je-pravomocna-presuda-o-sinkopi-ali-jos-se-ne-zna-kakva/7320006/">
+RASPLET PRAVOSUDNE SAGE O TOMISLAVU HORVATINÈIÆU Donesena je pravomoæna presuda o 'sinkopi', ali još se ne zna kakva
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1458,13 +1413,13 @@ Vezane vijesti
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1476,8 +1431,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1489,13 +1444,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1507,8 +1462,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1520,13 +1475,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1538,8 +1493,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1551,17 +1506,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1569,9 +1524,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1653,7 +1607,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285585" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7333965" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1697,19 +1651,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/">
-POZADINA STRAŠNOG ZLOÈINA
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/">
+ŠAROLIKA SEKSI PONUDA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/">
-ŠTO SE ZNA O NAPADAÈU IZ TORONTA? Istražitelji zavirili u povijest èovjeka koji je usred bijela dana ubio 10 ljudi i tek sada im ništa nije jasno
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/">
+MJESECIMA SLUŠALI RAZGOVORE DJEVOJAKA I BIVŠIH NOGOMETAŠA Razbijen unosni lanac prostitucije u Zagrebu, osim sportaša klijenti su bili i menadžeri
 </a>
 </h4>
 </div>
@@ -1719,19 +1673,19 @@ POZADINA STRAŠNOG ZLOÈINA
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/">
-ŠOKANTNO UHIÆENJE
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/">
+ODLUKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/">
-POLICAJCI SKOÈILI NA DJEVOJKU I POBRINULI SE DA CIJELI RESTORAN VIDI NJEZINE GRUDI Snimka izazvala val negodovanja u Americi: 'Gušiš me!'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/">
+SRUŠENA OSLOBAÐAJUÆA PRESUDA HORVATINÈIÆU: SINKOPA NIJE DOKAZANA Zakljuèak suda da su ubijeni Talijani suodgovorni za nesreæu odbaèen kao iracionalan
 </a>
 </h4>
 </div>
@@ -1741,19 +1695,19 @@ POLICAJCI SKOÈILI NA DJEVOJKU I POBRINULI SE DA CIJELI RESTORAN VIDI NJEZINE GRU
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/">
-SAM U KUÆI UŽIVO
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/">
+DEGUTANTNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/">
-'IDEM U ŠKOLU. ÆAO!' Djeèak (12) nakon rasprave s roditeljima odluèio preuzeti stvar u svoje ruke, pronašli ga u turistièkom raju na drugom kontinentu
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/">
+OTKRIVENO STRAVIÈNO ZLOSTAVLJANJE NA INTERNETU: Djevojèicu iz Dubrovnika koja je izgubila oba roditelja vršnjaci zasuli odvratnim porukama
 </a>
 </h4>
 </div>
@@ -1763,19 +1717,19 @@ SAM U KUÆI UŽIVO
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/">
-NAPAD U KANADI
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/">
+NAORUŽAN DO ZUBA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/">
-KRVOPROLIÆE U SREDIŠTU TORONTA, VOZAÈ KOMBIJEM JURIO ULICOM I GAZIO SVE PRED SOBOM, POKOSIO DESETKE PJEŠAKA Najmanje 10 mrtvih, veæi broj ranjenih
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/">
+KAKO JE POMAHNITALI NASILNIK ZATOÈIO CIJELO BARANJSKO SELO: Svako malo pucao, policajci u panici bježali: U jednom je trenu specijalac viknuo - BOMBA!
 </a>
 </h4>
 </div>
@@ -1813,19 +1767,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1833,8 +1787,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1898,12 +1852,12 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1921,6 +1875,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2210,11 +2169,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2262,14 +2216,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2313,34 +2267,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7285585&type=article&title=VIDEO%3a+PAD+MO%c4%86NE+POLITI%c4%8cARKE+Prvo+su+je+optu%c5%beili+da+je+la%c5%beirala+diplomu%2c+a+onda+je+procurila+snimka+koja+ju+je+uni%c5%a1tila%3a+%26%23039%3bOdlazim+uzdignute+glave%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fvideo-pad-mocne-politicarke-prvo-su-je-optuzili-da-je-lazirala-diplomu-a-onda-je-procurila-snimka-koja-ju-je-unistila-odlazim-uzdignute-glave%2f7285585%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7333965&type=article&title=SRU%c5%a0ENA+OSLOBA%c4%90AJU%c4%86A+PRESUDA+HORVATIN%c4%8cI%c4%86U%3a+SINKOPA+NIJE+DOKAZANA+Zaklju%c4%8dak+suda+da+su+ubijeni+Talijani+suodgovorni+za+nesre%c4%87u+odba%c4%8den+kao+iracionalan&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fsrusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan%2f7333965%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285585&amp;type=article&amp;title=VIDEO%3a+PAD+MO%c4%86NE+POLITI%c4%8cARKE+Prvo+su+je+optu%c5%beili+da+je+la%c5%beirala+diplomu%2c+a+onda+je+procurila+snimka+koja+ju+je+uni%c5%a1tila%3a+%26%23039%3bOdlazim+uzdignute+glave%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fvideo-pad-mocne-politicarke-prvo-su-je-optuzili-da-je-lazirala-diplomu-a-onda-je-procurila-snimka-koja-ju-je-unistila-odlazim-uzdignute-glave%2f7285585%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7333965&amp;type=article&amp;title=SRU%c5%a0ENA+OSLOBA%c4%90AJU%c4%86A+PRESUDA+HORVATIN%c4%8cI%c4%86U%3a+SINKOPA+NIJE+DOKAZANA+Zaklju%c4%8dak+suda+da+su+ubijeni+Talijani+suodgovorni+za+nesre%c4%87u+odba%c4%8den+kao+iracionalan&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fsrusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan%2f7333965%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=869716093&title=Madrid&url=tag%3ajltags%40eph.hr%2c2016%3aMadrid&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1569386373&title=Tomislav+Horvatin%c4%8di%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aTomislav_Horvatin%25C4%258Di%25C4%2587&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=869716093&amp;title=Madrid&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMadrid&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=26837318&title=kra%c4%91a&url=tag%3ajltags%40eph.hr%2c2016%3akra%25C4%2591a&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=26837318&amp;title=kra%c4%91a&amp;url=tag%3ajltags%40eph.hr%2c2016%3akra%25C4%2591a&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1569386373&amp;title=Tomislav+Horvatin%c4%8di%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aTomislav_Horvatin%25C4%258Di%25C4%2587&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2393,7 +2336,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/video-pad-mocne-politicarke-prvo-su-je-optuzili-da-je-lazirala-diplomu-a-onda-je-procurila-snimka-koja-ju-je-unistila-odlazim-uzdignute-glave/7285585/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2403,14 +2346,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/svijet/video-pad-mocne-politicarke-prvo-su-je-optuzili-da-je-lazirala-diplomu-a-onda-je-procurila-snimka-koja-ju-je-unistila-odlazim-uzdignute-glave/7285585/",
-postId : "7285585",
+url : "https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/",
+postId : "7333965",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "VIDEO: PAD MOÆNE POLITIÈARKE Prvo su je optužili da je lažirala diplomu, a onda je procurila snimka koja ju je uništila: 'Odlazim uzdignute glave'",
-pubdate : "2018-04-25 14:53",
-authors : "Aleksandra Vladiæ",
-sections : "Front Page, Svijet",
-tags : "Madrid, kraða",
+title : "SRUŠENA OSLOBAÐAJUÆA PRESUDA HORVATINÈIÆU: SINKOPA NIJE DOKAZANA Zakljuèak suda da su ubijeni Talijani suodgovorni za nesreæu odbaèen kao iracionalan",
+pubdate : "2018-05-08 18:34",
+authors : "Dušan Miljuš",
+sections : "Front Page, Crna kronika",
+tags : "Tomislav Horvatinèiæ",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

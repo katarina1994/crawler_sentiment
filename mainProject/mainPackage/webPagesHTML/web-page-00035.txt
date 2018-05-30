@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="gljive, psihostimulansi, depresija" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="" />
+<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>SUNCE, MORE, PALME I - ÈAROBNE GLJIVE! Otvoreno odmaralište za kojim su glavu izgubile žene diljem svijeta: &#039;Zašto nisam ovo probala prije 20 godina?&#039; - Jutarnji List</title>
+<title>Erupcija vulkana na Havajima - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -41,174 +41,76 @@ dfpMobileMaxWidth = 960;
 dfpStickyMinWidth = 1024;
 dfpStickyUnitHeightLimit = 600;
 dfpStickyColumnHeightLimit = 680;
-dfpLazyUnitOffset = 3000;
+dfpLazyUnitOffset = 1000;
 dfpUnitRefresh = 15000;
 doClickTracking = false;
 dfpAdSlots = {};
 dfpLazyLoad = [];
 dfpUnits = {
-"cla" : {
-"div-gpt-ad-1459756830165-0" : {
-"slot" : "aside1",
-"unit" : "300x600",
-"size" : [[300, 600], [300, 1], [300, 1050], [300, 601], [300, 250]],
-"sizeType" : "aside",
-"container" : "jl-banner-wrapper-1",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "634"},
-"appnexus": {"placementId": "12512215"},
-"criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"},
-"openx": {"unit": "539865163"}
-},
-},
-"div-gpt-ad-1459756830165-1" : {
-"slot" : "aside2",
-"unit" : "300x602",
-"size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
-"sizeType" : "aside",
-"container" : "jl-banner-wrapper-2",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "634"},
-"appnexus": {"placementId": "12512215"},
-"criteo": {"zoneId": "1103263"},
-"sovrn": {"tagid": "518900"},
-"openx": {"unit": "539865163"}
-},
-},
-"div-gpt-ad-1459756830165-2" : {
-"slot" : "billboard",
-"unit" : "bb_nav",
-"size" : [[1180, 150], [1180, 500], [970, 500], [970, 1000], [970, 90], [300, 100], [300, 150], [320, 100], [320, 50], [1180, 250], [300, 50], [1, 3], [970, 250], [970, 251]],
+"fot" : {
+"div-gpt-ad-1504618478356-0" : {
+"slot" : "gallery1",
+"unit" : "pos1",
+"size" : [[300, 250], [970, 90], [970, 250], [320, 100], [2, 1]],
 "sizeType" : "pagebreak",
-"container" : "jl-billboard-nav-wrapper",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : false
-},
-"div-gpt-ad-1462358187814-0" : {
-"slot" : "billboardbot",
-"unit" : "bb_bot",
-"size" : [[300, 250], [320, 100], [320, 50], [1180, 250], [970, 250], [970, 90], [1, 7]],
-"sizeType" : "pagebreak",
-"container" : "jl-billboard-bot-wrapper",
+"container" : "dfp-gallery-1",
 "lazyLoad" : true,
-"mobile" : true,
 "deviceType" : "all",
-"loaded" : false,
-"prebid" : false
+"loaded" : false
 },
-"div-gpt-ad-1459756830165-7" : {
-"slot" : "inarticle1",
-"unit" : "ia_1",
-"size" : [[300, 50], [320, 50], [320, 100], [300, 150], [760, 250], [760, 500], [320, 480], [600, 250], [570, 250], [728, 90], [300, 100], [2, 1], [300, 250], [300, 605]],
+"div-gpt-ad-1504618478356-1" : {
+"slot" : "gallery2",
+"unit" : "pos2",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 2]],
 "sizeType" : "pagebreak",
-"container" : "jl-inarticle-wrapper-1",
-"lazyLoad" : false,
-"mobile" : true,
-"deviceType" : "all",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "1024"},
-"appnexus": {"placementId": "12512211"},
-"criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"},
-"openx": {"unit": "539865166"}
-},
-"prebidConfigMobile" : {
-"connectad": {"placementId": "637"},
-"appnexus": {"placementId": "12512220"},
-"criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"},
-"openx": {"unit": "539865168"}
-},
-},
-"div-gpt-ad-1459756830165-8" : {
-"slot" : "inarticle2",
-"unit" : "ia_2",
-"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [300, 100], [300, 150], [2, 2], [300, 250]],
-"sizeType" : "pagebreak",
-"container" : "jl-inarticle-wrapper-2",
-"lazyLoad" : false,
-"mobile" : true,
-"deviceType" : "all",
-"loaded" : false,
-"prebid" : true,
-"prebidConfig" : {
-"connectad": {"placementId": "1024"},
-"appnexus": {"placementId": "12512211"},
-"criteo": {"zoneId": "1103264"},
-"sovrn": {"tagid": "518901"},
-"openx": {"unit": "539865166"}
-},
-"prebidConfigMobile" : {
-"connectad": {"placementId": "637"},
-"appnexus": {"placementId": "12512220"},
-"criteo": {"zoneId": "1103262"},
-"sovrn": {"tagid": "518899"},
-"openx": {"unit": "539865168"}
-},
-},
-"div-gpt-ad-1459756830165-9" : {
-"slot" : "inarticle3",
-"unit" : "ia_3",
-"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [2, 3], [300, 100], [300, 150], [300, 250]],
-"sizeType" : "pagebreak",
-"container" : "jl-inarticle-wrapper-3",
+"container" : "dfp-gallery-2",
 "lazyLoad" : true,
-"mobile" : true,
 "deviceType" : "all",
-"loaded" : false,
-"prebid" : false
+"loaded" : false
 },
-"div-gpt-ad-1459756830165-6" : {
-"slot" : "float",
-"unit" : "float",
-"size" : [1, 1],
-"sizeType" : "outofpage",
-"container" : "jl-floater-wrapper",
-"lazyLoad" : false,
-"mobile" : true,
+"div-gpt-ad-1504618478356-2" : {
+"slot" : "gallery3",
+"unit" : "pos3",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 3]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-3",
+"lazyLoad" : true,
 "deviceType" : "all",
-"loaded" : false,
-"prebid" : false
+"loaded" : false
 },
-"div-gpt-ad-1459756830165-10" : {
-"slot" : "wallpaper",
-"unit" : "wp",
-"size" : "",
-"sizeType" : "outofpage",
-"container" : "jl-wallpaper-wrapper",
-"lazyLoad" : false,
-"mobile" : false,
-"deviceType" : "desktop",
-"loaded" : false,
-"prebid" : false
+"div-gpt-ad-1504618478356-3" : {
+"slot" : "gallery4",
+"unit" : "pos4",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 4]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-4",
+"lazyLoad" : true,
+"deviceType" : "all",
+"loaded" : false
+},
+"div-gpt-ad-1504618478356-4" : {
+"slot" : "gallery5",
+"unit" : "pos5",
+"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 5]],
+"sizeType" : "pagebreak",
+"container" : "dfp-gallery-5",
+"lazyLoad" : true,
+"deviceType" : "all",
+"loaded" : false
 },
 }
 };
 var dfpCountryCode = "HR";
-var dfpCurrentPageType = "cla";
+var dfpCurrentPageType = "fot";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Životne prièe";
-var dfpCategoryParent = "Life";
-var dfpRos = "life-ros";
-var dfpArticle = "7284229";
-var dfpArticleKeyword = "gljive";
+dfpGalleryImgNum = parseInt("12") - 1;
+dfpGalleryUnitNum = Math.floor(dfpGalleryImgNum / 5);
+var dfpCategory = "Fotogalerije";
+var dfpCategoryParent = "Front Page";
+var dfpRos = "naslovnica";
+var dfpArticle = "7325676";
+var dfpArticleKeyword = "";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -593,44 +495,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<script>
-var elipsoResizeTimeout;
-function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
-if (!elipsoResizeTimeout) {
-elipsoResizeTimeout = setTimeout(function() {
-elipsoResizeTimeout = null;
-elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
-}, 250);
-}
-}
-function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
-var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-var elipsoBreakpoint = 0;
-var elipsoBreakpoints = [768, 992, 1200];
-for (i = 0; i < elipsoBreakpoints.length; i++) {
-if (windowWidth >= elipsoBreakpoints[i]) {
-elipsoBreakpoint = elipsoBreakpoints[i];
-}
-}
-var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
-var elipsoIframeWH = elipsoIframeSize.split('x');
-var elipsoIframe = document.getElementById(elipsoIframeId);
-var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
-var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
-if (currentElipsoIframeSrc !== elipsoIframeSrc) {
-elipsoIframe.setAttribute("src", elipsoIframeSrc);
-elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
-elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
-elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
-elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
-}
-}
-</script>
-<style>
-.displaynone-upscore-hack {
-display: none ;
-}
-</style>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -638,8 +502,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/sunce-more-palme-i-carobne-gljive-otvoreno-odmaraliste-za-kojim-su-glavu-izgubile-zene-diljem-svijeta-zasto-nisam-ovo-probala-prije-20-godina/7284229/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/sunce-more-palme-i-carobne-gljive-otvoreno-odmaraliste-za-kojim-su-glavu-izgubile-zene-diljem-svijeta-zasto-nisam-ovo-probala-prije-20-godina/7284229/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/Fotogalerije/erupcija-vulkana-na-havajima/7325676/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/Fotogalerije/erupcija-vulkana-na-havajima/7325676/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +516,17 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/lude-gljive-zenajpg/7284280/ALTERNATES/LANDSCAPE_1180/lude%20gljive%20%C5%BEena.jpg" />
-<meta property="og:image:width" content="1180" />
-<meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/lude-gljive-zenajpg/7284280/ALTERNATES/LANDSCAPE_1180/lude%20gljive%20%C5%BEena.jpg">
-<meta property="og:title" content="SUNCE, MORE, PALME I - ÈAROBNE GLJIVE! Otvoreno odmaralište za kojim su glavu izgubile žene diljem svijeta: 'Zašto nisam ovo probala prije 20 godina?'" />
+<meta property="og:title" content="Erupcija vulkana na Havajima" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/sunce-more-palme-i-carobne-gljive-otvoreno-odmaraliste-za-kojim-su-glavu-izgubile-zene-diljem-svijeta-zasto-nisam-ovo-probala-prije-20-godina/7284229/" />
+<meta property="og:url" content="https://www.jutarnji.hr/Fotogalerije/erupcija-vulkana-na-havajima/7325676/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Nakon što je prošlog tjedna eruptirao vulkan Kilauea, a otoèje uzdrmao i niz potresa, otrovni plinovi i lava i dalje predstavljaju opasnost stanovnicima, a iz te amerièke savezne države i dalje pristižu dramatiène fotografije." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="SUNCE, MORE, PALME I - ÈAROBNE GLJIVE! Otvoreno odmaralište za kojim su glavu izgubile žene diljem svijeta: 'Zašto nisam ovo probala prije 20 godina?'">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:title" content="Erupcija vulkana na Havajima">
+<meta name="twitter:description" content="Nakon što je prošlog tjedna eruptirao vulkan Kilauea, a otoèje uzdrmao i niz potresa, otrovni plinovi i lava i dalje predstavljaju opasnost stanovnicima, a iz te amerièke savezne države i dalje pristižu dramatiène fotografije.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +537,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2433';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +549,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Životne prièe, Life, Front Page",
-pubdate: "2018-04-25T10:32+02:00",
-author: "Silvija Novak",
+data: { section: "Fotogalerije, Front Page",
+pubdate: "2018-05-07T09:04+02:00",
+author: "Dražen Arapoviæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="life story">
+<body class=" gallery">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -743,32 +603,11 @@ $("#related-news-box").remove();
 </script>
 <div class="container">
 <header class="mainHead " role="banner">
+<a name="top"></a>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<script>
-window.fbAsyncInit = function() {
-FB.init({
-appId : '156538244364753',
-xfbml : true,
-version : 'v2.10'
-});
-FB.AppEvents.logPageView();
-};
-(function(d, s, id){
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) {return;}
-js = d.createElement(s); js.id = id;
-js.src = "https://connect.facebook.net/en_US/sdk.js";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
-<a name="top"></a>
-<div class="row " >
-<div class="col-sm-12 ">
-</div>
-</div>
 <div class="row " >
 <div class="col-sm-12 ">
 <div class="col-sm-12 col-lg-8 col-lg-push-2 ">
@@ -778,7 +617,6 @@ fjs.parentNode.insertBefore(js, fjs);
 </div>
 <nav class="navbar main_nav "
 role="navigation" >
-<a href="#" class="mSiteSearch"><span class="text-hide">Pretraži</span></a>
 <div class="navbar-header">
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
 <span class="icon-bar"></span>
@@ -808,7 +646,7 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
@@ -886,6 +724,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -966,7 +809,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1122,118 +965,42 @@ Mozgalice
 </div>
 </div>
 </div>
-<div id="searchBox">
-<form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
-<div class="form-group">
-<input type="text" name="q" class="form-control" placeholder="Pretraži Jutarnji.hr" value="" />
-<button type="submit">Submit</button>
-</div>
-</form>
-</div>
-<div class="subLevelNavbar ">
-<ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/life/">Life </a>
-</li>
-<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
-</ul>
-<ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
-Obitelj i djeca
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/tehnologija/">
-Tehnologija
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/znanost/">
-Znanost
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zdravlje/">
-Zdravlje
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/seks-i-veze/">
-Seks i veze
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/putovanja/">
-Putovanja
-</a>
-</li>
-<li class="active">
-<a href="https://www.jutarnji.hr/life/zivotne-price/">
-Životne prièe
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/vaumijau/">
-VauMijau
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
-Moda i ljepota
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/astro/">
-Astro
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
-Buduænost zdravstva
-</a>
-</li>
-</ul>
-</div>
 </nav>
 </div>
 </div>
 </header>
 <section role="main">
-<div class="row dfp-no-padding " >
+<div class="row articleWrapper articleGalleryWrapper skin-6 " >
 <div class="col-sm-12 ">
-<section>
-<div id="jl-billboard-nav-wrapper" class="jl-billboard-nav">
-<div id="div-gpt-ad-1459756830165-2">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-2"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-2");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
+<div class=" ">
+<section class="lead_image ">
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-05t113028z_2003779946_rc1e18c32ff0_rtrmadp_3_hawaii-volcanojpg/7325658" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/2018-05-05t113028z_2003779946_rc1e18c32ff0_rtrmadp_3_hawaii-volcanojpg/7325658/ALTERNATES/WIDE_380/2018-05-05T113028Z_2003779946_RC1E18C32FF0_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="WIDE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-05t113028z_2003779946_rc1e18c32ff0_rtrmadp_3_hawaii-volcanojpg/7325658/BINARY/thumbnail/2018-05-05T113028Z_2003779946_RC1E18C32FF0_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Lava emerges from the ground after Kilauea Volcano erupted, on Hawaii's Big Island May 3, 2018, in this still image taken from video obtained from social media. Picture taken May 3, 208. Jeremiah Osuna/via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. NO RESALES. NO ARCHIVES. MANDATORY CREDIT."
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
 </div>
 </div>
+</div>
+</article>
 </section>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
-<p
-class="overline">
-OSLOBAÐAJUÆE ISKUSTVO
-</p>
+<div class="header ahgh col-sm-12 col-md-10 col-md-push-1 ">
 <h1
 class="title">
-SUNCE, MORE, PALME I - ÈAROBNE GLJIVE! Otvoreno odmaralište za kojim su glavu izgubile žene diljem svijeta: 'Zašto nisam ovo probala prije 20 godina?'
+Erupcija vulkana na Havajima
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1249,621 +1016,218 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 10:32
+07.05.2018. u 09:04
 </p>
 </li>
 </ul>
 </div>
 </div>
 </div>
-<div class="row article_body jl-scroll-container " >
-<div class="col-sm-8 " >
-<section class="lead_image ">
-<section class="ece_incoming media ">
+<section>
+<article class="ece_incoming listBox media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/lude-gljive-zenajpg/7284280" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-06t132345z_299217785_rc1f50b1e590_rtrmadp_3_hawaii-volcanojpg/7325670" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/lude-gljive-zenajpg/7284280/ALTERNATES/LANDSCAPE_380/lude%20gljive%20%C5%BEena.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/lude-gljive-zenajpg/7284280/BINARY/thumbnail/lude%20gljive%20%C5%BEena.jpg"
+<div class="gallery-sidebar">
+<span class="gallery__index">1</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-06t132345z_299217785_rc1f50b1e590_rtrmadp_3_hawaii-volcanojpg/7325670/ALTERNATES/FREE_380/2018-05-06T132345Z_299217785_RC1F50B1E590_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-06t132345z_299217785_rc1f50b1e590_rtrmadp_3_hawaii-volcanojpg/7325670/BINARY/thumbnail/2018-05-06T132345Z_299217785_RC1F50B1E590_RTRMADP_3_HAWAII-VOLCANO.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="A new fissure spraying lava fountains as high as about 230 feet (70 m), according to United States Geological Survey, is shown from Luana Street in Leilani Estates subdivision on Kilauea Volcano's lower East Rift Zone in Hawaii, U.S., May 5, 2018. Photo taken May 5, 2018. US Geological Survey/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY."
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Pixabay / Facebook
+<span> REUTERS
 </span>
 </div>
 </div>
-</div>
-</section>
-</section>
-<div class=" ">
-<section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
+<ul class="list-inline meta">
+<li>
+<p class="leadtext ">
+Nakon što je prošlog tjedna eruptirao vulkan Kilauea, a otoèje uzdrmao i niz potresa, otrovni plinovi i lava i dalje predstavljaju opasnost stanovnicima, a iz te amerièke savezne države i dalje pristižu dramatiène fotografije.
 </p>
-</section>
-<section>
-<div id="jl-inarticle-wrapper-1" class="jl-inarticle">
-<div id="div-gpt-ad-1459756830165-7">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-7"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-7");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</section>
-<section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7284229"
->
-<p>Rana je veèer na Jamajci i ja sjedim na podu prekriženih nogu u prostoriji s još 20 drugih žena u dobi izmeðu 25 i 75 godina, govori za <a href="https://www.independent.co.uk/travel/americas/jamaica-magic-mushroom-retreat-women-mycomeditations-treasure-beach-montego-bay-a8319816.html" target="_blank">Independent</a> <strong>Tarn Rodgers Johns</strong>. </p><p>Svaka ima pokraj sebe bocu vode; neke imaju i slušalice, èepiæe za uši ili jastuk. Sjedimo ispod strukture obojane tropskim bojama: zelenom, ružièastom, ljubièastom. Vani pada topla tropska kiša. Gledam kapi kako klize niz palmino lišæe i kapaju na betonski pod dok jedna žena u visokom stupnju trudnoæe razgovara sa svima, pita ih kako su i imaju li veæ iskustva s onim što æemo svi probati. </p><p>Neki od nas sjede na podlogama za jogu, no nismo na satu joge. Nalazim se u jedinom odmaralištu za žene u kojem se konzumiraju èarobne gljive, <a href="http://www.mycomeditations.com/" target="_blank">MycoMeditations</a>, a naša voditeljica je iskusna istraživaèica psihodeliènih gljiva <strong>Katherine Maclean</strong>.</p><p>Prošlo je veæ 50 godina od 'ljeta ljubavi', a o psihodelicima se opet ozbiljno razgovara. Znanstvenici Kraljevskog koledža u Londonu su 2017. otkrili da psilocibin, aktivni sastojak èarobnih gljiva, ima potencijal da 'resetira', mozak ljudi koji pate od depresije. Jedna druga studija, koju je provela Katherine, otkrila je da psilocibin èini ljude kreativnijima te otvorenijima za nova iskustva i izražavanje osjeæaja. MycoMeditations je namijenjen svima koji pate od depresije, tjeskobe ili traume, kao i onima koji ne pate od nièega. No nismo došli radi 'partijanja'. Svi smo ovdje jer želimo istražiti razna pitanja vezana za naš privatni ili poslovni život.</p><p> <section class="social_embed ">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMycoMeditations%2Fposts%2F1530629730396261%3A0&width=500" width="500" height="634" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-</section>
- </p><p>MycoMeditations se nalaze u Treasure Beachu, mirnijem dijelu otoka na kojem nema toliko turista i koji je poznat po 'backpackerima' i boemima. To je tri sata vožnje od aerodroma u zaljevu Montego u ruralnom podruèju sa šarenim kuæama, trošnim restoranima i veselim štandovima s voæem.</p><p>Osnivaè MycoMeditationsa, Amerikanac <strong>Eric Osborne</strong>, prvi je puta došao na Jamajku prije 15 godina i stekao mnoga poznanstva u tom kraju. Gosti odsjedaju u hotelu Taino Cove, no za vrijeme seansi s gljivama i tijekom obroka naši su domaæini <strong>Doreen</strong> i njezina obitelj. Preko tjedna uživamo u domaæoj hrani: riži, grahu, ribi i svježem soku od guave.</p><p>Prekrasno je ovdje, naravno. No postoji jedan drugi, praktièniji razlog zašto se seanse održavaju baš na Jamajci. MycoMeditations omoguæuje ljudima da dožive djelovanje èarobnih gljiva u sigurnom i, najvažnije, legalnom okruženju.</p><p>Ovo je prvi put da su gošæe iskljuèivo žene.</p><p>'Pokret <em>#metoo</em> pokazao je koliko je u našem društvu seksualno uznemiravanje èesta pojava', kaže Maclean. 'Željeli smo stvoriti mjesto koje je vrlo sigurno za žene, posebno one koje pate od nekih trauma i strahova s kojima bi se željele suoèiti što im možda ne bi bilo ugodno da su ovdje i muškarci.'</p><p> <section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/article7284178.ece" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="youtubeWrapper "
-style="width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/hzAAJjCcFis"
-frameborder="0"
-width="100%"
-allowfullscreen=""></iframe>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Tijekom tjedan dana imat æemo tri seanse s èarobnim gljivama od kojih æe svaka trajati približno èetiri do šest sati. Struènjaci kažu da od uzimanja èarobnih gljiva nema fizièkih posljedica. Ni iako nekoliko ljudi ima doktorat, meðu njima nema niti jednom lijeènika.  Meðu šest voditelja (koji nisu pod utjecajem gljiva) je i <strong>Rosalind Watts</strong>, klinièka psihologinja na Kraljevskom koledžu u Londonu koja je bila dio tima koji je istraživao psilocibin i depresiju. Oni su ovdje kao struèna podrška i utjeha i kao osiguranje da nitko neæe odlutati.</p><p>Gljive se uzgajaju u blizini, suše se i melju u fini prah koji se potom stavlja u kapsule. Nakon što sam uzela svoju dozu, legla sam da se opustim. Nakon otprilike 40 minuta, moja osjetila su poèela osjeæati blagu promjenu. Oèi su mi zatvorene, a zvuk cvrèaka, žaba i vjetra poèinju stvarati prekrasnu melodiju.</p><p>Dišem duboko, a opor miris vlažne zemlje ispunjava mi pluæa. Za poèetak, iskustvo se doima veoma zabavnim. Obuzimaju me valovi smijeha i osjeæam se vrckavo i veselo. Razni oblici plešu mi pred oèima, no iznenada, bez ikakve najave, poèinjem plakati.</p><p>Sklupèala sam se na svojoj podlozi i osjeæala se kao uplašeno dijete. Curi mi nos i prožima me oèaj. Usred svega toga, poèinje mi biti jasno da je tjeskoba koju osjeæam u svakodnevnom životu uzrokovana strahom – uglavnom strahom od buduænosti – kao da odrasla osoba u meni traga za djetetom i govori mu da je u redu bojati se.</p><p>Nakon otprilike èetiri sata, djelovanje gljiva popušta i osjeæam da je vrijeme da se vratim u stvarni svijet. Neki od nas premještaju se do logorske vatre kako bi s drugima podijelili svoje iskustvo. Jedna žena kaže kako je osjetila da svemir od nje zahtijeva univerzalnu ljubav te je shvatila da ako doista želi napraviti mjesta za tu ljubav, mora iza sebe ostaviti tugu zbog sve lošijeg zdravstvenom stanja svoje majke i muža kako bi ih mogla u potpunosti voljeti.</p><p> <section class="social_embed ">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMycoMeditations%2Fposts%2F1492050170920884%3A0&width=500" width="500" height="613" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-</section>
- </p><p>Osim toga, kako bi iskusila univerzalnu ljubav, odluèila je napustiti dvije osobine koje su je definirale: suosjeæanje i brigu.</p><p>'Shvatila sam da se pretjeranom brigom za svoje bolesne voljene zapravo na neki naèin štitim od osjeæaja gubitka i boli. To je kao kad šepate da biste zaštitili bolesnu nogu. To izoblièuje moje tijelo i spreèava me da se doista povežem s njima.'</p><p>Kroz tjedan sam doznala i što se dogaða izvan seansi s gljivama te da je taj dio jednako važan kao i same seanse. Integracija – proces dijeljenja iskustva s drugima i razmatranje kako se to novo iskustvo može uklopiti u svakodnevni život – zapravo je kljuèan dio.</p><p>'To je poput putovanja na mjesec – svi zaborave da nije dovoljno samo otiæi onamo, veæ se i sigurno vratiti', kaže jedna od voditeljica, <strong>Eileen Hall</strong>.</p><p>Izmeðu seansi je uvijek dan odmora i integracije. Svi dobivaju šansu da odu na masažu ili posjete slap u blizini. Oèekivani, svi su voljni razgovarati o svojem iskustvu. Osim tih neformalnih razgovora, postoje i posebni sastanci namijenjeni dijeljenju iskustva s grupom. Postoji opæenito mišljenje da iskustvo s gljivama 'odèepljuje' emotivne blokade koje neki od nas nose godinama.</p><p>'Zašto nisam ovo probala prije 20 godina?', kaže jedna žena tijekom veèere nakon èega se prolomio gromoglasni aplauz.</p><p>Posljednje veèeri u Treasure Beachu ponovno smo zapalili logorsku vatru. Mjesec je skoro pun i veèer se èini otvorenom i živom. Stojimo u krugu i svatko od nas u vatru baca papir na kojem je napisano što žele ostaviti iza sebe. Neki ljudi èitaju pjesme naglas. I ja sam na papir napisala pojam kojeg se želim riješiti. Papir sam bacila u vatru i gledala kako plamen guta na njemu ispisanu rijeè 'strah'.</p>
-</div>
-<script type="text/javascript" language="javascript">
-$(document).ready(function () {
-// Removing empty paragraphs first
-$("#content-body-6263871-7284229 p").filter(function () {
-var html = $.trim($(this).html());
-if (html == '' || html == '&nbsp;')
-return true;
-}).remove();
-// Taking a subset of paragraphs using offset and maximum
-var offset = 1;
-var max = -1;
-if (offset > 1) {
-$("#content-body-6263871-7284229").children().slice(0, offset - 1).remove();
-}
-if (max > -1) {
-$("#content-body-6263871-7284229").children().slice(max).remove();
-}
-// Show dateline field at the beginning of the first paragraph
-var showDateline = true;
-var datelineStr = "";
-if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7284229").children().get(0);
-if ("P" == firstChild.nodeName.toUpperCase()) {
-$(firstChild).prepend("<span>" + datelineStr + " - </span>");
-}
-else {
-$(firstChild).before("<span>" + datelineStr + "</span>");
-}
-}
-});
-</script>
-</section>
-<section>
-<div id="inArticleBanner">
-<div id="jl-inarticle-wrapper-2" class="jl-inarticle-wrapper">
-<div id="jl-inarticle-2" class="jl-inarticle">
-<!-- /11425286/jl_cla_ia_2 -->
-<div id='div-gpt-ad-1459756830165-8'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459756830165-8'); });
-</script>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript">
-$(function() {
-if ($("[id^='content-body-'] > p").length < 3) {
-$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
-} else {
-$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 - 1));
-}
-});
-</script>
-</section>
-<div class="tags ">
-<span>Tagovi</span>
-<ul class="list-inline">
-<li>
-<a href="https://www.jutarnji.hr/tag/depresija" class ="label label-default" >
-depresija
-</a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/psihostimulansi" class ="label label-default" >
-psihostimulansi
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/gljive" class ="label label-default" >
-gljive
-</a>
-</li>
-</ul>
-</div>
-<div id="related-news-box"
-class="rel_art_ib ">
-<h3>
-Vezane vijesti
-</h3>
-<section>
-<article class="znanost media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/magicne-gljive-protiv-depresije-psihodelicna-sredstva-mogla-bi-biti-lijek-za-alkoholizam-ptsp-i-depresiju/7069221/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/magicne-gljive-protiv-depresije-psihodelicna-sredstva-mogla-bi-biti-lijek-za-alkoholizam-ptsp-i-depresiju/7069221/">
-MAGIÈNE GLJIVE PROTIV DEPRESIJE Psihodelièna sredstva mogla bi biti lijek za alkoholizam, PTSP i depresiju
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="zdravlje media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/carobnim-gljivama-protiv-depresije-sigurno-je-i-ucinkovito-a-rezultati-su-zapanjujuci/4058787/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/carobnim-gljivama-protiv-depresije-sigurno-je-i-ucinkovito-a-rezultati-su-zapanjujuci/4058787/">
-'Èarobnim' gljivama protiv depresije: Sigurno je i uèinkovito, a rezultati su zapanjujuæi!
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-</section>
-</div>
+<div class="share ">
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div style="text-align:center;" class="addthis_responsive_sharing"></div>
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-06t132345z_299217785_rc1f50b1e590_rtrmadp_3_hawaii-volcanojpg/7325670/BINARY/original/2018-05-06T132345Z_299217785_RC1F50B1E590_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-06T132345Z_299217785_RC1F50B1E590_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-06t132345z_299217785_rc1f50b1e590_rtrmadp_3_hawaii-volcanojpg/7325670/BINARY/original/2018-05-06T132345Z_299217785_RC1F50B1E590_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
 </div>
+</li>
+</ul>
 </div>
-<div class="col-sm-4 jl-banner-column" >
-<div class="row upscore-magicflow displaynone-upscore-hack " >
-<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
-<section class="upscore_promo1_4 ">
-<div class="row">
-<div class="col-xs-12" data-widget-position="0">
+</article>
+</section>
 <section>
-<article class="promo media c13 skin-2 none">
+<article class="ece_incoming listBox media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-06t053548z_1627579821_rc1809b24aa0_rtrmadp_3_hawaii-volcanojpg/7325667" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
+<div class="gallery-sidebar">
+<span class="gallery__index">2</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
 </div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="1">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="2">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="3">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-</div>
-</section>
-</div>
-<div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
-<div id="div-gpt-ad-1459756830165-0">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-0"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-0");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div class="row titleRow">
-<div class="col-sm-12">
-<h3 class="section_title_alt izdvojeno_alt"><div><span>Izdvajamo</span></div></h3>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div id="midasWidget__302"></div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-12 ">
-<div id="midasWidget__301"></div>
-</div>
-</div>
-<div class="row jl-scroll-container " >
-<div class="col-sm-8 " >
-<div class="row " >
-<div class="col-sm-12 ">
-<div id="midas" class="center-block" style="width:100%; max-width:600px;">
-<div id="midasWidget__72"></div>
-<script async src="https://cdn.midas-network.com/Widget/IndexAsync/1?portalWidgetId=72&portalWidgetId=301&portalWidgetId=302" type="text/javascript"></script>
-</div>
-</div>
-<section>
-<div id="jl-inarticle-wrapper-3" class="jl-inarticle">
-<div id="div-gpt-ad-1459756830165-9">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-9"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-9");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</section>
-</div>
-<div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7284229" data-colorscheme="light" data-numposts="5"></div>
-</div>
-</div>
-<div class="col-sm-4 jl-banner-column" >
-<div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
-<div id="div-gpt-ad-1459756830165-1">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-1"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0.00;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1459756830165-1");
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-<div class="jl-sticky-banner" style="margin-bottom:20px;">
-<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
-<script type="text/javascript">
-Criteo.events.push(function() {
-Criteo.DisplayAcceptableAdIfAdblocked({
-"zoneid": 1197956,
-"containerid": "crt-47675ba0",
-"overrideZoneFloor": false
-});
-});
-</script>
-</div>
-</div>
-</div>
-<div class="row hidden-xs " >
-<div class="col-sm-12 ">
-<div class="emp_block article_most_read sidebar ">
-<h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
-<div class="row">
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
-<section>
-<article class="zivotne-price media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-MUTACIJA GENA </a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
-<section>
-<article class="zivotne-price media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-NE SRAME SE
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE' Tinejdžerica majci predstavila novog deèka, oca troje djece
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
-<section>
-<article class="zivotne-price media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-DVOSTRUKA SREÆA </a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
-<section>
-<article class="zivotne-price media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-SANDA PANDŽA
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-FILMSKI USPJEH Hrvatica od konobarice bez radne dozvole u Italiji dogurala do zvjezdanog biznisa: Organizirala sam svadbu Toma Cruisea i P. Ecclestone
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="row " >
-<div class="col-sm-4 openInNewTab" >
-<section>
-<article class="banner-testing-page media none">
-<div class="teaser "
-data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="http://www.gloria.hr/">
-<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
+<img src="https://www.jutarnji.hr/incoming/2018-05-06t053548z_1627579821_rc1809b24aa0_rtrmadp_3_hawaii-volcanojpg/7325667/ALTERNATES/FREE_380/2018-05-06T053548Z_1627579821_RC1809B24AA0_RTRMADP_3_HAWAII-VOLCANO.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-06t053548z_1627579821_rc1809b24aa0_rtrmadp_3_hawaii-volcanojpg/7325667/BINARY/thumbnail/2018-05-06T053548Z_1627579821_RC1809B24AA0_RTRMADP_3_HAWAII-VOLCANO.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Lava advances along a street near a fissure in Leilani Estates, on Kilauea Volcano's lower East Rift Zone, Hawaii, the U.S., May 5, 2018. U.S. Geological Survey/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. IT IS DISTRIBUTED, EXACTLY AS RECEIVED BY REUTERS, AS A SERVICE TO CLIENTS TPX IMAGES OF THE DAY"
 title=""
 class="media-object adaptive lazy "
 />
-</a>
+<div class="picture-author">
+<span> REUTERS
+</span>
 </div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-06t053548z_1627579821_rc1809b24aa0_rtrmadp_3_hawaii-volcanojpg/7325667/BINARY/original/2018-05-06T053548Z_1627579821_RC1809B24AA0_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-06T053548Z_1627579821_RC1809B24AA0_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-06t053548z_1627579821_rc1809b24aa0_rtrmadp_3_hawaii-volcanojpg/7325667/BINARY/original/2018-05-06T053548Z_1627579821_RC1809B24AA0_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
+</div>
+</li>
+</ul>
 </div>
 </article>
 </section>
-<article class="fokus-zvjezdane-staze media c3 none">
-<div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-06t033207z_1777926087_rc180d70e9b0_rtrmadp_3_hawaii-volcanojpg/7325664" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-</a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+<div class="gallery-sidebar">
+<span class="gallery__index">3</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-06t033207z_1777926087_rc180d70e9b0_rtrmadp_3_hawaii-volcanojpg/7325664/ALTERNATES/FREE_380/2018-05-06T033207Z_1777926087_RC180D70E9B0_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-06t033207z_1777926087_rc180d70e9b0_rtrmadp_3_hawaii-volcanojpg/7325664/BINARY/thumbnail/2018-05-06T033207Z_1777926087_RC180D70E9B0_RTRMADP_3_HAWAII-VOLCANO.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="A crack opens up on Pohoiki Road, Lava near Leilani Estates, on Kilauea Volcano's lower East Rift Zone, Hawaii, the U.S., May 5, 2018. U.S. Geological Survey/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. IT IS DISTRIBUTED, EXACTLY AS RECEIVED BY REUTERS, AS A SERVICE TO CLIENTS"
 title=""
 class="media-object adaptive lazy "
 />
-</a>
+<div class="picture-author">
+<span> REUTERS
+</span>
 </div>
-<div class="media-body">
-<h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
-</a>
-</h4>
 </div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-06t033207z_1777926087_rc180d70e9b0_rtrmadp_3_hawaii-volcanojpg/7325664/BINARY/original/2018-05-06T033207Z_1777926087_RC180D70E9B0_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-06T033207Z_1777926087_RC180D70E9B0_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-06t033207z_1777926087_rc180d70e9b0_rtrmadp_3_hawaii-volcanojpg/7325664/BINARY/original/2018-05-06T033207Z_1777926087_RC180D70E9B0_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
+</div>
+</li>
+</ul>
 </div>
 </article>
-</div>
-<div class="col-sm-4 openInNewTab" >
-<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
-</div>
-<div class="col-sm-4 openInNewTab" >
-<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
-</div>
-</div>
-<div class="row dfp-no-padding " >
-<div class="col-sm-12 ">
+</section>
 <section>
-<div id="jl-billboard-bot-wrapper" class="jl-billboard-bot">
-<div id="div-gpt-ad-1462358187814-0">
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-04t185008z_1047835879_rc1ade0e9b30_rtrmadp_3_hawaii-volcanojpg/7325646" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">4</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-04t185008z_1047835879_rc1ade0e9b30_rtrmadp_3_hawaii-volcanojpg/7325646/ALTERNATES/FREE_380/2018-05-04T185008Z_1047835879_RC1ADE0E9B30_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-04t185008z_1047835879_rc1ade0e9b30_rtrmadp_3_hawaii-volcanojpg/7325646/BINARY/thumbnail/2018-05-04T185008Z_1047835879_RC1ADE0E9B30_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="The Kilauea Volcano is seen in this aerial image after the volcano erupted following a series of earthquakes over the last couple of days, in Hawaii, U.S. on May 3, 2018. Picture taken on May 3, 2018. USGS/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY."
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-04t185008z_1047835879_rc1ade0e9b30_rtrmadp_3_hawaii-volcanojpg/7325646/BINARY/original/2018-05-04T185008Z_1047835879_RC1ADE0E9B30_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-04T185008Z_1047835879_RC1ADE0E9B30_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-04t185008z_1047835879_rc1ade0e9b30_rtrmadp_3_hawaii-volcanojpg/7325646/BINARY/original/2018-05-04T185008Z_1047835879_RC1ADE0E9B30_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-06t033206z_366955949_rc1fd3c1d7d0_rtrmadp_3_hawaii-volcanojpg/7325661" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">5</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-06t033206z_366955949_rc1fd3c1d7d0_rtrmadp_3_hawaii-volcanojpg/7325661/ALTERNATES/FREE_380/2018-05-06T033206Z_366955949_RC1FD3C1D7D0_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-06t033206z_366955949_rc1fd3c1d7d0_rtrmadp_3_hawaii-volcanojpg/7325661/BINARY/thumbnail/2018-05-06T033206Z_366955949_RC1FD3C1D7D0_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Lava advances along a street near a fissure in Leilani Estates, on Kilauea Volcano's lower East Rift Zone, Hawaii, the U.S., May 5, 2018. U.S. Geological Survey/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. IT IS DISTRIBUTED, EXACTLY AS RECEIVED BY REUTERS, AS A SERVICE TO CLIENTS"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-06t033206z_366955949_rc1fd3c1d7d0_rtrmadp_3_hawaii-volcanojpg/7325661/BINARY/original/2018-05-06T033206Z_366955949_RC1FD3C1D7D0_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-06T033206Z_366955949_RC1FD3C1D7D0_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-06t033206z_366955949_rc1fd3c1d7d0_rtrmadp_3_hawaii-volcanojpg/7325661/BINARY/original/2018-05-06T033206Z_366955949_RC1FD3C1D7D0_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-1" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-0">
 <script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1462358187814-0"];
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-0'];
 if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
 googletag.cmd.push(function() {
-var refreshTime = 0;
-var slot = dfpUnitData['slot'];
-googletag.display("div-gpt-ad-1462358187814-0");
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-0');
 if (refreshTime > 0) {
 setInterval(function() {
 googletag.pubads().refresh([ dfpAdSlots[slot] ]);
@@ -1874,8 +1238,261 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </script>
 </div>
 </div>
-</section>
 </div>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcanojpg/7325655" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">6</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcanojpg/7325655/ALTERNATES/FREE_380/2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcanojpg/7325655/BINARY/thumbnail/2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A fissure on Leilani and Kaupili Streets in the Leilani Estates subdivision caused by an eruption of the Kilauea Volcano is shown following a series of earthquakes, in Hawaii, U.S. on May 4, 2018. Picture taken on May 4, 2018. USGS/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. THIS PICTURE WAS PROCESSED BY REUTERS TO ENHANCE QUALITY. AN UNPROCESSED VERSION HAS BEEN PROVIDED SEPARATELY"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcanojpg/7325655/BINARY/original/2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcanojpg/7325655/BINARY/original/2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcano1jpg/7325652" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">7</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcano1jpg/7325652/ALTERNATES/FREE_380/2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO(1).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcano1jpg/7325652/BINARY/thumbnail/2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO(1).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A fissure on Leilani and Kaupili Streets in the Leilani Estates subdivision caused by an eruption of the Kilauea Volcano is shown following a series of earthquakes, in Hawaii, U.S. on May 4, 2018. Picture taken on May 4, 2018. USGS/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. THIS PICTURE WAS PROCESSED BY REUTERS TO ENHANCE QUALITY. AN UNPROCESSED VERSION HAS BEEN PROVIDED SEPARATELY"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcano1jpg/7325652/BINARY/original/2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO(1).jpg" data-title="2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO(1).jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-05t012151z_830209083_rc1c6bc7fb60_rtrmadp_3_hawaii-volcano1jpg/7325652/BINARY/original/2018-05-05T012151Z_830209083_RC1C6BC7FB60_RTRMADP_3_HAWAII-VOLCANO(1).jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-04t185209z_1066909687_rc1e6164ea00_rtrmadp_3_hawaii-volcanojpg/7325649" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">8</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-04t185209z_1066909687_rc1e6164ea00_rtrmadp_3_hawaii-volcanojpg/7325649/ALTERNATES/FREE_380/2018-05-04T185209Z_1066909687_RC1E6164EA00_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-04t185209z_1066909687_rc1e6164ea00_rtrmadp_3_hawaii-volcanojpg/7325649/BINARY/thumbnail/2018-05-04T185209Z_1066909687_RC1E6164EA00_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="The Kilauea Volcano fissure that formed on the west flank of the Pu'u 'O'o cone (line of white steam) is seen in this aerial image after the volcano erupted following a series of earthquakes over the last couple of days, in Hawaii, U.S. on May 3, 2018. Picture taken on May 3, 2018. USGS/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY."
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-04t185209z_1066909687_rc1e6164ea00_rtrmadp_3_hawaii-volcanojpg/7325649/BINARY/original/2018-05-04T185209Z_1066909687_RC1E6164EA00_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-04T185209Z_1066909687_RC1E6164EA00_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-04t185209z_1066909687_rc1e6164ea00_rtrmadp_3_hawaii-volcanojpg/7325649/BINARY/original/2018-05-04T185209Z_1066909687_RC1E6164EA00_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-04t154703z_1791627407_rc1de4545b00_rtrmadp_3_hawaii-volcanojpg/7325643" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">9</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-04t154703z_1791627407_rc1de4545b00_rtrmadp_3_hawaii-volcanojpg/7325643/ALTERNATES/FREE_380/2018-05-04T154703Z_1791627407_RC1DE4545B00_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-04t154703z_1791627407_rc1de4545b00_rtrmadp_3_hawaii-volcanojpg/7325643/BINARY/thumbnail/2018-05-04T154703Z_1791627407_RC1DE4545B00_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="A plume of ash rises from Kilauea Volcano, one of five on the island, after a series of earthquakes over the last couple of days, in Hawaii, U.S. on May 3, 2018. Picture taken on May 3, 2018. USGS/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY."
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-04t154703z_1791627407_rc1de4545b00_rtrmadp_3_hawaii-volcanojpg/7325643/BINARY/original/2018-05-04T154703Z_1791627407_RC1DE4545B00_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-04T154703Z_1791627407_RC1DE4545B00_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-04t154703z_1791627407_rc1de4545b00_rtrmadp_3_hawaii-volcanojpg/7325643/BINARY/original/2018-05-04T154703Z_1791627407_RC1DE4545B00_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-04t043747z_1179989697_rc168c425fd0_rtrmadp_3_hawaii-volcanojpg/7325640" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">10</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-04t043747z_1179989697_rc168c425fd0_rtrmadp_3_hawaii-volcanojpg/7325640/ALTERNATES/FREE_380/2018-05-04T043747Z_1179989697_RC168C425FD0_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-04t043747z_1179989697_rc168c425fd0_rtrmadp_3_hawaii-volcanojpg/7325640/BINARY/thumbnail/2018-05-04T043747Z_1179989697_RC168C425FD0_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="An ash cloud rises above Kilauea Volcano after it erupted, on Hawaii's Big Island May 3, 2018, in this photo obtained from social media. MANDATORY CREDIT. Janice Wei/via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. NO RESALES. NO ARCHIVES MANDATORY CREDIT."
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-04t043747z_1179989697_rc168c425fd0_rtrmadp_3_hawaii-volcanojpg/7325640/BINARY/original/2018-05-04T043747Z_1179989697_RC168C425FD0_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-04T043747Z_1179989697_RC168C425FD0_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-04t043747z_1179989697_rc168c425fd0_rtrmadp_3_hawaii-volcanojpg/7325640/BINARY/original/2018-05-04T043747Z_1179989697_RC168C425FD0_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+<div class="dfp-gallery-unit">
+<div id="dfp-gallery-2" class="dfp-unit">
+<div id="div-gpt-ad-1504618478356-1">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-1'];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-1');
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</section>
+<section>
+<article class="ece_incoming listBox media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/2018-05-04t043746z_49771111_rc17d4fd7710_rtrmadp_3_hawaii-volcanojpg/7325637" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<div class="gallery-sidebar">
+<span class="gallery__index">11</span>
+<span class="gallery__progress-separator">/</span>
+<span class="gallery__count">11</span>
+</div>
+<img src="https://www.jutarnji.hr/incoming/2018-05-04t043746z_49771111_rc17d4fd7710_rtrmadp_3_hawaii-volcanojpg/7325637/ALTERNATES/FREE_380/2018-05-04T043746Z_49771111_RC17D4FD7710_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/2018-05-04t043746z_49771111_rc17d4fd7710_rtrmadp_3_hawaii-volcanojpg/7325637/BINARY/thumbnail/2018-05-04T043746Z_49771111_RC17D4FD7710_RTRMADP_3_HAWAII-VOLCANO.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="An ash cloud rises above Kilauea Volcano after it erupted, on Hawaii's Big Island May 3, 2018, in this photo obtained from social media. MANDATORY CREDIT. Janice Wei/via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. NO RESALES. NO ARCHIVES MANDATORY CREDIT."
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<ul class="list-inline meta">
+<li>
+</li>
+<li>
+<div class="share ">
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/2018-05-04t043746z_49771111_rc17d4fd7710_rtrmadp_3_hawaii-volcanojpg/7325637/BINARY/original/2018-05-04T043746Z_49771111_RC17D4FD7710_RTRMADP_3_HAWAII-VOLCANO.jpg" data-title="2018-05-04T043746Z_49771111_RC17D4FD7710_RTRMADP_3_HAWAII-VOLCANO.jpg" data-media="https://www.jutarnji.hr/incoming/2018-05-04t043746z_49771111_rc17d4fd7710_rtrmadp_3_hawaii-volcanojpg/7325637/BINARY/original/2018-05-04T043746Z_49771111_RC17D4FD7710_RTRMADP_3_HAWAII-VOLCANO.jpg"></div>
+</div>
+</li>
+</ul>
+</div>
+</article>
+</section>
 </div>
 </section>
 </div>
@@ -1925,6 +1542,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2005,7 +1627,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -2214,148 +1836,26 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
 </div>
 </div>
 </footer>
-<script>
-function fbCommentGA() {
-FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'Facebook Comment', 'Posted', window.location.href, 1);
-});
-}
-window.onload = fbCommentGA;
-</script>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
 <script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
-<div id="jl-floater-wrapper" class="jl-floater-wrapper">
-<div id="jl-float" class="jl-floater">
-<!-- /11425286/jl_floater -->
-<div id='div-gpt-ad-1459756830165-6'>
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-6"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-6'); });
-}
-</script>
-</div>
-</div>
-</div>
-<div id="jl-wallpaper-wrapper" class="jl-wallpaper-wrapper">
-<div id="jl-wallpaper" class="jl-wallpaper">
-<!-- /11425286/jl_wp -->
-<div id='div-gpt-ad-1459756830165-10'>
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-10"];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-10'); });
-}
-</script>
-</div> </div>
-</div>
-<div class="hidden-xs ">
-<div id="side-article-widget" class="side-article-widget" style="display: none;">
-<div class="clearfix">
-<div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
-<div class="side-article clearfix">
-<div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
-</div>
-<div class="pull-right side-article-text-wrapper">
-<div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
-<hr class="side-article-hr" />
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="pull-right side-control-column">
-<div class="side-control">
-<a href="#" class="side-button" data-status="open">&#9658;</a>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript">
-$(document).ready(function () {
-$('#side-article-widget a.side-button').click(function (event) {
-event.preventDefault();
-var status = $(this).attr('data-status');
-if (status === 'open') {
-$('.side-article-column').fadeOut('fast');
-$(this).attr('data-status', 'close');
-$(this).html('&#9664;');
-} else {
-$('.side-article-column').fadeIn('fast');
-$(this).attr('data-status', 'open');
-$(this).html('&#9658;');
-}
-});
-$(window).scroll(function (event) {
-var turnOnHeight = 1500;
-var scrolled = $(window).scrollTop();
-if (scrolled > turnOnHeight) {
-$('#side-article-widget').fadeIn('fast');
-} else {
-$('#side-article-widget').fadeOut('fast');
-}
-});
-});
-</script>
-</div>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7284229&type=article&title=SUNCE%2c+MORE%2c+PALME+I+-+%c4%8cAROBNE+GLJIVE!+Otvoreno+odmarali%c5%a1te+za+kojim+su+glavu+izgubile+%c5%beene+diljem+svijeta%3a+%26%23039%3bZa%c5%a1to+nisam+ovo+probala+prije+20+godina%3f%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fsunce-more-palme-i-carobne-gljive-otvoreno-odmaraliste-za-kojim-su-glavu-izgubile-zene-diljem-svijeta-zasto-nisam-ovo-probala-prije-20-godina%2f7284229%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=227&contextPath=1-227-&pubId=1&cat=&meta=read-gallery&objId=7325676&type=article&title=Erupcija+vulkana+na+Havajima&url=https%3a%2f%2fwww.jutarnji.hr%2fFotogalerije%2ferupcija-vulkana-na-havajima%2f7325676%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7284229&amp;type=article&amp;title=SUNCE%2c+MORE%2c+PALME+I+-+%c4%8cAROBNE+GLJIVE!+Otvoreno+odmarali%c5%a1te+za+kojim+su+glavu+izgubile+%c5%beene+diljem+svijeta%3a+%26%23039%3bZa%c5%a1to+nisam+ovo+probala+prije+20+godina%3f%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fsunce-more-palme-i-carobne-gljive-otvoreno-odmaraliste-za-kojim-su-glavu-izgubile-zene-diljem-svijeta-zasto-nisam-ovo-probala-prije-20-godina%2f7284229%2f" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=115028935&title=gljive&url=tag%3ajltags%40eph.hr%2c2016%3agljive&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=115028935&amp;title=gljive&amp;url=tag%3ajltags%40eph.hr%2c2016%3agljive&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=1625545308&title=psihostimulansi&url=tag%3ajltags%40eph.hr%2c2016%3apsihostimulansi&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1625545308&amp;title=psihostimulansi&amp;url=tag%3ajltags%40eph.hr%2c2016%3apsihostimulansi&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=396595777&title=depresija&url=tag%3ajltags%40eph.hr%2c2016%3adepresija&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=396595777&amp;title=depresija&amp;url=tag%3ajltags%40eph.hr%2c2016%3adepresija&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=227&amp;contextPath=1-227-&amp;pubId=1&amp;cat=&amp;meta=read-gallery&amp;objId=7325676&amp;type=article&amp;title=Erupcija+vulkana+na+Havajima&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fFotogalerije%2ferupcija-vulkana-na-havajima%2f7325676%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2408,7 +1908,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/sunce-more-palme-i-carobne-gljive-otvoreno-odmaraliste-za-kojim-su-glavu-izgubile-zene-diljem-svijeta-zasto-nisam-ovo-probala-prije-20-godina/7284229/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/Fotogalerije/erupcija-vulkana-na-havajima/7325676/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2418,14 +1918,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zivotne-price/sunce-more-palme-i-carobne-gljive-otvoreno-odmaraliste-za-kojim-su-glavu-izgubile-zene-diljem-svijeta-zasto-nisam-ovo-probala-prije-20-godina/7284229/",
-postId : "7284229",
+url : "https://www.jutarnji.hr/Fotogalerije/erupcija-vulkana-na-havajima/7325676/",
+postId : "7325676",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "SUNCE, MORE, PALME I - ÈAROBNE GLJIVE! Otvoreno odmaralište za kojim su glavu izgubile žene diljem svijeta: 'Zašto nisam ovo probala prije 20 godina?'",
-pubdate : "2018-04-25 10:32",
-authors : "Silvija Novak",
-sections : "Front Page, Life, Životne prièe",
-tags : "gljive, psihostimulansi, depresija",
+title : "Erupcija vulkana na Havajima",
+pubdate : "2018-05-07 09:04",
+authors : "Dražen Arapoviæ",
+sections : "Front Page, Fotogalerije",
+tags : "",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Sjedinjene Amerièke Države, Francuska, Brigitte Macron, Emmanuel Macron, Melania Trump, Donald Trump" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="13-godišnjak iz Alabame probudio se iz kome samo dan nakon što su njegovi roditelji potpisali dokumente o darivanju njegovih organa, piše BBC." />
+<meta name="keywords" content="koma" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>BRIGITTE MACRON I MELANIA TRUMP ODUŠEVILE HALJINAMA NA DRŽAVNOJ VEÈERI Predsjednik SAD-a nahvalio suprugu: &#039;Ona je nevjerojatna amerièka prva dama!&#039; - Jutarnji List</title>
+<title>&#039;OVO JE ÈUDO, BOŽJE DJELO...&#039; Djeèak se probudio iz kome dan nakon što su doktori od njega odustali, a roditelji dali dozvolu da ga iskljuèe s aparata - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "BA";
+var dfpCountryCode = "Unknown";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Moda i ljepota";
+var dfpCategory = "Životne prièe";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7283800";
-var dfpArticleKeyword = "Sjedinjene Amerièke Države";
+var dfpArticle = "7329981";
+var dfpArticleKeyword = "koma";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -640,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/moda-i-ljepota/brigitte-macron-i-melania-trump-odusevile-haljinama-na-drzavnoj-veceri-predsjednik-sad-a-nahvalio-suprugu-ona-je-nevjerojatna-americka-prva-dama/7283800/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/moda-i-ljepota/brigitte-macron-i-melania-trump-odusevile-haljinama-na-drzavnoj-veceri-predsjednik-sad-a-nahvalio-suprugu-ona-je-nevjerojatna-americka-prva-dama/7283800/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -654,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743/ALTERNATES/LANDSCAPE_1180/7.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/trentonmckinleyjpg/7329978/ALTERNATES/LANDSCAPE_1180/trentonmckinley.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743/ALTERNATES/LANDSCAPE_1180/7.jpg">
-<meta property="og:title" content="BRIGITTE MACRON I MELANIA TRUMP ODUŠEVILE HALJINAMA NA DRŽAVNOJ VEÈERI Predsjednik SAD-a nahvalio suprugu: 'Ona je nevjerojatna amerièka prva dama!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/trentonmckinleyjpg/7329978/ALTERNATES/LANDSCAPE_1180/trentonmckinley.jpg">
+<meta property="og:title" content="'OVO JE ÈUDO, BOŽJE DJELO...' Djeèak se probudio iz kome dan nakon što su doktori od njega odustali, a roditelji dali dozvolu da ga iskljuèe s aparata" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/moda-i-ljepota/brigitte-macron-i-melania-trump-odusevile-haljinama-na-drzavnoj-veceri-predsjednik-sad-a-nahvalio-suprugu-ona-je-nevjerojatna-americka-prva-dama/7283800/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="13-godišnjak iz Alabame probudio se iz kome samo dan nakon što su njegovi roditelji potpisali dokumente o darivanju njegovih organa, piše BBC." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="BRIGITTE MACRON I MELANIA TRUMP ODUŠEVILE HALJINAMA NA DRŽAVNOJ VEÈERI Predsjednik SAD-a nahvalio suprugu: 'Ona je nevjerojatna amerièka prva dama!'">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="'OVO JE ÈUDO, BOŽJE DJELO...' Djeèak se probudio iz kome dan nakon što su doktori od njega odustali, a roditelji dali dozvolu da ga iskljuèe s aparata">
+<meta name="twitter:description" content="13-godišnjak iz Alabame probudio se iz kome samo dan nakon što su njegovi roditelji potpisali dokumente o darivanju njegovih organa, piše BBC.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -691,9 +691,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Moda i ljepota, Life, Front Page",
-pubdate: "2018-04-25T10:42+02:00",
-author: "Hina",
+data: { section: "Životne prièe, Life, Front Page",
+pubdate: "2018-05-07T23:50+02:00",
+author: "Silvija Novak",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -890,6 +890,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -968,7 +973,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -978,7 +983,7 @@ Putovanja
 VauMijau
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
 Moda i ljepota
 </a>
@@ -1136,7 +1141,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/moda-i-ljepota/">Moda i ljepota </a></li>
+<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1169,7 +1174,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1179,7 +1184,7 @@ Putovanja
 VauMijau
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
 Moda i ljepota
 </a>
@@ -1231,11 +1236,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-POSJET MACRONOVIH SAD-u
+OPORAVLJA SE
 </p>
 <h1
 class="title">
-BRIGITTE MACRON I MELANIA TRUMP ODUŠEVILE HALJINAMA NA DRŽAVNOJ VEÈERI Predsjednik SAD-a nahvalio suprugu: 'Ona je nevjerojatna amerièka prva dama!'
+'OVO JE ÈUDO, BOŽJE DJELO...' Djeèak se probudio iz kome dan nakon što su doktori od njega odustali, a roditelji dali dozvolu da ga iskljuèe s aparata
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1243,7 +1248,7 @@ BRIGITTE MACRON I MELANIA TRUMP ODUŠEVILE HALJINAMA NA DRŽAVNOJ VEÈERI Predsjedn
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1251,7 +1256,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 10:42
+07.05.2018. u 23:50
 </p>
 </li>
 </ul>
@@ -1261,28 +1266,25 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="moda-i-ljepota media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/trentonmckinleyjpg/7329978" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743/ALTERNATES/LANDSCAPE_380/7.jpg"
+<img src="https://www.jutarnji.hr/incoming/trentonmckinleyjpg/7329978/ALTERNATES/LANDSCAPE_380/trentonmckinley.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743/BINARY/thumbnail/7.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/trentonmckinleyjpg/7329978/BINARY/thumbnail/trentonmckinley.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="U.S. President Donald Trump, first lady Melania Trump, French President Emmanuel Macron and his wife Brigitte Macron attend a State Dinner at the White House in Washington, U.S. April 24, 2018. REUTERS/ - RC18BC841980"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Carlos Barria / REUTERS
+<span> Facebook
 </span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Trumpovi i Macronovi stižu na državnu veèeru u Bijeloj kuæi</h4>
 </div>
 </div>
 </section>
@@ -1316,36 +1318,41 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7283800"
+<div id="content-body-6263871-7329981"
 >
-<p>Prva dame SAD-a i Francuske ispunile su oèekivanja modnih kritièara kad su se pojavile na državnoj veèeri u Washingtonu prva u svjetlucavoj srebrno-crnoj haljini francuske kuæe Chanel a druga u bež haljini sa zlatnim geometrijskim aplikacijama Louis Vuittona.</p><p>Haljina <strong>Melanije Trump</strong> bila je rukom oslikana u srebrno, slojevita s našivenim kristalima i sparena sa srebrnim cipelama dok je <strong>Brigitte Macron</strong> odabrala dugaèku haljinu sa zlatnim brokatnim linijama na rukavima i oko vratnog izreza i zlatne cipele.  </p><p> <section>
-<article class="moda-i-ljepota media galleryCall ">
+<p>13-godišnjak iz Alabame probudio se iz kome samo dan nakon što su njegovi roditelji potpisali dokumente o darivanju njegovih organa, piše <strong><a href="http://www.bbc.com/news/world-us-canada-44032831" target="_blank">BBC</a></strong>.</p><p><strong>Trenton McKinley</strong> pretrpio je strašnu ozljedu glave kad su seu ožujku  prevrnula kolica za teret na kojima se vozio. Lubanja mu je pukla na èak sedam mjesta, podvrgnut je brojnim operacijama, zatajili su mu bubrezi, a doživio je i srèani udar.</p><p>Lijeènici su rekli roditeljima da se djeèak neæe oporaviti te da njegovi organi odgovaraju petero druge djece koja èekaju transplantaciju.</p><p>No, dan prije nego je trebao biti iskljuèen s aparata, a neposredno nakon što su roditelji veæ potpisali papir s odobrenjem za iskljuèenje i transplantaciju organa, Trenton je poèeo pokazivati znakove svijesti.</p><p>Njegova majka,<strong> Jennifer Reindl</strong>, rekla je da je umro na operacijskom stolu nakon èega su ga oživljavali èak 15 minuta te da su joj lijeènici nakon toga rekli da više nikada neæe biti isti.</p><p>Oèajni roditelji napokon su odluèili donirati njegove organe kako bi barem na taj naèin osigurati da njihov sin i dalje živi.</p><p>- Zbog te odluke ostavili su Trentona na aparatima još nekoliko dana kako bi saèuvali organe. No, tada se on poèeo buditi. Konaèni test njegovih moždanih funkcija bio je zakazan za iduæi dan, no umjesto moždane smrti, testovi su pokazali aktivnost, rekla je gospoða Reindl.</p><p>Trenton sada prolazi kroz naporan proces oporavka te æe trebati još niz operacija kako bi mu se sanirala razbijena lubanja.</p><p>Ipak, veæ je uspio progovoriti, ustati i napraviti nekoliko koraka.</p><p>- Sjeæam se da sam udario u beton, da su kolica zatim pala na mene i nakon toga se više ne sjeæam nièega, rekao je hrabri djeèak.</p><p>- Poèeo je i èitati, rješava i zadatke iz matematike. Sve je ovo jedno veliko èudo, rekla je njegova majka.</p><p>- Dok sam bio u komi, mislio sam da sam na nebu. Bio sam na velikom polju i samo hodao ravno. Ovo je božje djelo, nema drugog objašnjenja, izjavio je djeèak.</p><p>
+<section>
+<article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/trumpovi-organizirali-prvu-drzavnu-veceru/7283779/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/_101210832_trentonmckinley2jpg/7330014" data-widget-title="" data-web-position="box"
 data-widget-position="0">
+<div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/trumpovi-organizirali-prvu-drzavnu-veceru/7283779/">
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/1jpg/7283722/ALTERNATES/LANDSCAPE_380/1.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/1jpg/7283722/BINARY/thumbnail/1.jpg"
+<img src="https://www.jutarnji.hr/incoming/_101210832_trentonmckinley2jpg/7330014/ALTERNATES/FREE_380/_101210832_trentonmckinley2.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/_101210832_trentonmckinley2jpg/7330014/BINARY/thumbnail/_101210832_trentonmckinley2.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="United States President Donald Trump and first lady wait to welcome French President Emmanuel Macron and his wife Brigitte for a State Dinner at the White House in Washington, U.S., April 24, 2018. REUTERS/ - RC1C1C8B7B30"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
-</a>
+<div class="picture-author">
+<span> Facebook
+</span>
+</div>
+</div>
 </div>
 </div>
 </article>
 </section>
- </p><p>Prema Bijeloj kuæi prva amerièka dama je u planiranju svoje prve državne veèere za 123 uzvanika držala èvrsto sve konce u rukama.</p><p>U zdravici amerièki predsjednik Donald Trump opisao je suprugu kao &quot;naprosto nevjerojatnu amerièku prvu damu&quot; i zahvalio joj na naporima oko atmosfere koju æe svatko pamtiti.</p><p>Dvorana u kojoj je održana veèera bila je u bež i zlatnim tonovima s bijelo-zelenim cvjetnim aranžmanima na stolu dok je prostor ispred dvorane bio ukrašen cvjetovima trešanja u crnim vazama.</p>
+ </p><p>Pokrenuta je i <strong><a href="https://www.gofundme.com/helping-trenton-mckinley" target="_blank">GoFundMe kampanja</a></strong> putem koje se skupljaju i sredstva za Trentonovo lijeèenje.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7283800 p").filter(function () {
+$("#content-body-6263871-7329981 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1354,16 +1361,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7283800").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7329981").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7283800").children().slice(max).remove();
+$("#content-body-6263871-7329981").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7283800").children().get(0);
+var firstChild = $("#content-body-6263871-7329981").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1401,33 +1408,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Donald_Trump" class ="label label-default" >
-Donald Trump
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Melania_Trump" class ="label label-default" >
-Melania Trump
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Emmanuel_Macron" class ="label label-default" >
-Emmanuel Macron
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Brigitte_Macron" class ="label label-default" >
-Brigitte Macron
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Francuska" class ="label label-default" >
-Francuska
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Sjedinjene_Ameri%C4%8Dke_Dr%C5%BEave" class ="label label-default" >
-Sjedinjene Amerièke Države
+<a href="https://www.jutarnji.hr/tag/koma" class ="label label-default" >
+koma
 </a>
 </li>
 </ul>
@@ -1438,45 +1420,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="strane-zvijezde media none">
+<article class="zivotne-price media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/melania-ledeno-ignorirala-pokusaj-njeznosti-donalda-trumpa-malim-je-prstom-suptilno-pokusao-dohvatiti-ruku-supruge-ona-se-nije-ni-pomaknula/7283458/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/marku-je-u-samo-60-dana-tijelo-potpuno-otkazalo-ponovno-je-ucio-pisati-i-trcati-a-onda-se-popeo-na-triglav-ovo-je-nasa-prica/7201746/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/melania-ledeno-ignorirala-pokusaj-njeznosti-donalda-trumpa-malim-je-prstom-suptilno-pokusao-dohvatiti-ruku-supruge-ona-se-nije-ni-pomaknula/7283458/">
-MELANIA LEDENO IGNORIRALA POKUŠAJ NJEŽNOSTI DONALDA TRUMPA Malim je prstom, suptilno, pokušao dohvatiti ruku supruge, ona se nije ni pomaknula...
+<a href="https://www.jutarnji.hr/life/zivotne-price/marku-je-u-samo-60-dana-tijelo-potpuno-otkazalo-ponovno-je-ucio-pisati-i-trcati-a-onda-se-popeo-na-triglav-ovo-je-nasa-prica/7201746/">
+'Marku je u samo 60 dana tijelo potpuno otkazalo. Ponovno je uèio pisati i trèati. A onda se popeo na Triglav. Ovo je naša prièa'
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="svijet media none">
+<article class="zivotne-price media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-posprdno-i-prezirno-o-nuklearnom-sporazumu-koji-je-s-iranom-ispregovarao-obama-taj-dogovor-je-uzasan-potpuno-bezuman/7282957/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-bila-svjesna-da-su-je-stavili-u-komu-bila-sam-zatocenik-vlastitog-tijela-i-nocnih-mora-iz-kojih-se-nisam-mogla-prenuti/6993717/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/trump-posprdno-i-prezirno-o-nuklearnom-sporazumu-koji-je-s-iranom-ispregovarao-obama-taj-dogovor-je-uzasan-potpuno-bezuman/7282957/">
-TRUMP POSPRDNO I PREZIRNO O NUKLEARNOM SPORAZUMU KOJI JE S IRANOM ISPREGOVARAO OBAMA 'Taj dogovor je užasan, potpuno bezuman'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="svijet media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/razoruzao-ga-je-poljupcem-pogledajte-kako-je-izgledao-susret-trumpa-i-macrona-te-sto-su-odjenule-prve-dame-francuske-i-sad-a/7279620/" data-widget-title="" data-web-position="box"
-data-widget-position="2">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/razoruzao-ga-je-poljupcem-pogledajte-kako-je-izgledao-susret-trumpa-i-macrona-te-sto-su-odjenule-prve-dame-francuske-i-sad-a/7279620/">
-'RAZORUŽAO GA JE POLJUPCEM' Pogledajte kako je izgledao susret Trumpa i Macrona te što su odjenule prve dame Francuske i SAD-a
+<a href="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-bila-svjesna-da-su-je-stavili-u-komu-bila-sam-zatocenik-vlastitog-tijela-i-nocnih-mora-iz-kojih-se-nisam-mogla-prenuti/6993717/">
+ISPOVIJEST ŽENE KOJA JE BILA SVJESNA DA SU JE STAVILI U KOMU 'Bila sam zatoèenik vlastitog tijela i noænih mora iz kojih se nisam mogla prenuti...'
 </a>
 </h4>
 </li>
@@ -1498,13 +1465,13 @@ data-widget-position="2">
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1516,8 +1483,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1529,13 +1496,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1547,8 +1514,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1560,13 +1527,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1578,8 +1545,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1591,17 +1558,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1609,9 +1576,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1693,7 +1659,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7283800" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7329981" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1737,19 +1703,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="moda-i-ljepota media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/modna-revija-odusevila-prolaznike-u-centru-metropole-ecija-ivusic-nives-ivana-sundov-maja-cvjetkovic-odjenule-duchess-haljine-i-prosetale-spicom/7278687/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/modna-revija-odusevila-prolaznike-u-centru-metropole-ecija-ivusic-nives-ivana-sundov-maja-cvjetkovic-odjenule-duchess-haljine-i-prosetale-spicom/7278687/">
-STREET STYLE
+<a href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/">
+DOMA JE NAJLJEPŠE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/modna-revija-odusevila-prolaznike-u-centru-metropole-ecija-ivusic-nives-ivana-sundov-maja-cvjetkovic-odjenule-duchess-haljine-i-prosetale-spicom/7278687/">
-MODNA REVIJA ODUŠEVILA PROLAZNIKE U CENTRU METROPOLE Ecija Ivušiæ, Nives, Ivana Šundov, Maja Cvjetkoviæ odjenule Duchess haljine i prošetale špicom
+<a href="https://www.jutarnji.hr/life/zivotne-price/slavonac-se-razocaran-vratio-iz-njemacke-poslodavci-ti-indirektno-porucuju-da-nikad-neces-biti-u-rangu-nijemaca/7331442/">
+SLAVONAC SE RAZOÈARAN VRATIO IZ NJEMAÈKE 'Poslodavci ti indirektno poruèuju da nikad neæeš biti u rangu Nijemaca'
 </a>
 </h4>
 </div>
@@ -1759,19 +1725,19 @@ MODNA REVIJA ODUŠEVILA PROLAZNIKE U CENTRU METROPOLE Ecija Ivušiæ, Nives, Ivana 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="moda-i-ljepota media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/foto-lijepa-slavonka-na-instagramu-pokazuje-zasto-je-nova-miss-universe-ostala-sam-bez-daha-onog-trena-kad-su-me-proglasili-pobjednicom/7274577/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/foto-lijepa-slavonka-na-instagramu-pokazuje-zasto-je-nova-miss-universe-ostala-sam-bez-daha-onog-trena-kad-su-me-proglasili-pobjednicom/7274577/">
-OSVOJILA ŽIRI I PUBLIKU
+<a href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/">
+OPORAVLJA SE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/foto-lijepa-slavonka-na-instagramu-pokazuje-zasto-je-nova-miss-universe-ostala-sam-bez-daha-onog-trena-kad-su-me-proglasili-pobjednicom/7274577/">
-FOTO: LIJEPA SLAVONKA NA INSTAGRAMU POKAZUJE ZAŠTO JE NOVA MISS UNIVERSE 'Ostala sam bez daha onog trena kad su me proglasili pobjednicom'
+<a href="https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/">
+'OVO JE ÈUDO, BOŽJE DJELO...' Djeèak se probudio iz kome dan nakon što su doktori od njega odustali, a roditelji dali dozvolu da ga iskljuèe s aparata
 </a>
 </h4>
 </div>
@@ -1781,19 +1747,19 @@ FOTO: LIJEPA SLAVONKA NA INSTAGRAMU POKAZUJE ZAŠTO JE NOVA MISS UNIVERSE 'Ostala
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="moda-i-ljepota media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/foto-victorijina-andelica-zaustavila-promet-u-new-yorku-prekrasna-adriana-lima-glupirala-se-na-krovu-taksija-pa-zabavila-sve-oko-sebe/7276524/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/foto-victorijina-andelica-zaustavila-promet-u-new-yorku-prekrasna-adriana-lima-glupirala-se-na-krovu-taksija-pa-zabavila-sve-oko-sebe/7276524/">
-SEKSI SNIMANJE
+<a href="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/">
+SMRTNA KAZNA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/foto-victorijina-andelica-zaustavila-promet-u-new-yorku-prekrasna-adriana-lima-glupirala-se-na-krovu-taksija-pa-zabavila-sve-oko-sebe/7276524/">
-FOTO: VICTORIJINA ANÐELICA ZAUSTAVILA PROMET U NEW YORKU Prekrasna Adriana Lima glupirala se na krovu taksija pa zabavila sve oko sebe
+<a href="https://www.jutarnji.hr/life/zivotne-price/ispovijest-zene-koja-je-vidjela-stotine-smaknuca-i-danas-se-sjetim-naboranih-ruku-majke-jednog-osudenika-kako-ocajnicki-pritiscu-staklo/7329249/">
+ISPOVIJEST ŽENE KOJA JE VIDJELA STOTINE SMAKNUÆA 'I danas se sjetim naboranih ruku majke jednog osuðenika kako oèajnièki pritišæu staklo'
 </a>
 </h4>
 </div>
@@ -1803,19 +1769,19 @@ FOTO: VICTORIJINA ANÐELICA ZAUSTAVILA PROMET U NEW YORKU Prekrasna Adriana Lima 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="moda-i-ljepota media c11a none">
+<article class="zivotne-price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/niste-zadovoljni-svojom-kupovinom-istrazili-smo-kako-i-kada-mozete-vratiti-proizvod-u-trgovinu/4652102/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/niste-zadovoljni-svojom-kupovinom-istrazili-smo-kako-i-kada-mozete-vratiti-proizvod-u-trgovinu/4652102/">
-LIKE.HR
+<a href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/">
+BESKOMPROMISNO DESNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/niste-zadovoljni-svojom-kupovinom-istrazili-smo-kako-i-kada-mozete-vratiti-proizvod-u-trgovinu/4652102/">
-NISTE ZADOVOLJNI SVOJOM KUPOVINOM? Istražili smo kako i kada možete vratiti proizvod u trgovinu
+<a href="https://www.jutarnji.hr/life/zivotne-price/slikarska-ikona-hrvatske-desnice-nevjerojatna-zivotna-prica-charlesa-billicha-koji-je-tita-naslikao-s-vampirskim-ocnjacima/7330041/">
+SLIKARSKA IKONA HRVATSKE DESNICE Nevjerojatna životna prièa Charlesa Billicha koji je Tita naslikao s vampirskim oènjacima
 </a>
 </h4>
 </div>
@@ -1853,19 +1819,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1873,8 +1839,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1963,6 +1929,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -2041,7 +2012,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -2051,7 +2022,7 @@ Putovanja
 VauMijau
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
 Moda i ljepota
 </a>
@@ -2250,11 +2221,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2302,14 +2268,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2353,78 +2319,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=35&contextPath=1-32-35-&pubId=1&cat=&meta=read-story&objId=7283800&type=article&title=BRIGITTE+MACRON+I+MELANIA+TRUMP+ODU%c5%a0EVILE+HALJINAMA+NA+DR%c5%bdAVNOJ+VE%c4%8cERI+Predsjednik+SAD-a+nahvalio+suprugu%3a+%26%23039%3bOna+je+nevjerojatna+ameri%c4%8dka+prva+dama!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fmoda-i-ljepota%2fbrigitte-macron-i-melania-trump-odusevile-haljinama-na-drzavnoj-veceri-predsjednik-sad-a-nahvalio-suprugu-ona-je-nevjerojatna-americka-prva-dama%2f7283800%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7329981&type=article&title=%26%23039%3bOVO+JE+%c4%8cUDO%2c+BO%c5%bdJE+DJELO...%26%23039%3b+Dje%c4%8dak+se+probudio+iz+kome+dan+nakon+%c5%a1to+su+doktori+od+njega+odustali%2c+a+roditelji+dali+dozvolu+da+ga+isklju%c4%8de+s+aparata&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata%2f7329981%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=35&amp;contextPath=1-32-35-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7283800&amp;type=article&amp;title=BRIGITTE+MACRON+I+MELANIA+TRUMP+ODU%c5%a0EVILE+HALJINAMA+NA+DR%c5%bdAVNOJ+VE%c4%8cERI+Predsjednik+SAD-a+nahvalio+suprugu%3a+%26%23039%3bOna+je+nevjerojatna+ameri%c4%8dka+prva+dama!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fmoda-i-ljepota%2fbrigitte-macron-i-melania-trump-odusevile-haljinama-na-drzavnoj-veceri-predsjednik-sad-a-nahvalio-suprugu-ona-je-nevjerojatna-americka-prva-dama%2f7283800%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7329981&amp;type=article&amp;title=%26%23039%3bOVO+JE+%c4%8cUDO%2c+BO%c5%bdJE+DJELO...%26%23039%3b+Dje%c4%8dak+se+probudio+iz+kome+dan+nakon+%c5%a1to+su+doktori+od+njega+odustali%2c+a+roditelji+dali+dozvolu+da+ga+isklju%c4%8de+s+aparata&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata%2f7329981%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&cat=jltags%40eph.hr%2c2016&objId=751509525&title=Sjedinjene+Ameri%c4%8dke+Dr%c5%beave&url=tag%3ajltags%40eph.hr%2c2016%3aSjedinjene_Ameri%25C4%258Dke_Dr%25C5%25BEave&rt=1&ctxId=35&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=1896102494&title=koma&url=tag%3ajltags%40eph.hr%2c2016%3akoma&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=751509525&amp;title=Sjedinjene+Ameri%c4%8dke+Dr%c5%beave&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSjedinjene_Ameri%25C4%258Dke_Dr%25C5%25BEave&amp;rt=1&amp;ctxId=35&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&cat=jltags%40eph.hr%2c2016&objId=1369786610&title=Francuska&url=tag%3ajltags%40eph.hr%2c2016%3aFrancuska&rt=1&ctxId=35&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1369786610&amp;title=Francuska&amp;url=tag%3ajltags%40eph.hr%2c2016%3aFrancuska&amp;rt=1&amp;ctxId=35&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&cat=jltags%40eph.hr%2c2016&objId=2310361&title=Brigitte+Macron&url=tag%3ajltags%40eph.hr%2c2016%3aBrigitte_Macron&rt=1&ctxId=35&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2310361&amp;title=Brigitte+Macron&amp;url=tag%3ajltags%40eph.hr%2c2016%3aBrigitte_Macron&amp;rt=1&amp;ctxId=35&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&cat=jltags%40eph.hr%2c2016&objId=870510471&title=Emmanuel+Macron&url=tag%3ajltags%40eph.hr%2c2016%3aEmmanuel_Macron&rt=1&ctxId=35&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=870510471&amp;title=Emmanuel+Macron&amp;url=tag%3ajltags%40eph.hr%2c2016%3aEmmanuel_Macron&amp;rt=1&amp;ctxId=35&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&cat=jltags%40eph.hr%2c2016&objId=1755489500&title=Melania+Trump&url=tag%3ajltags%40eph.hr%2c2016%3aMelania_Trump&rt=1&ctxId=35&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1755489500&amp;title=Melania+Trump&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMelania_Trump&amp;rt=1&amp;ctxId=35&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&cat=jltags%40eph.hr%2c2016&objId=262665481&title=Donald+Trump&url=tag%3ajltags%40eph.hr%2c2016%3aDonald_Trump&rt=1&ctxId=35&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-35-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=262665481&amp;title=Donald+Trump&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDonald_Trump&amp;rt=1&amp;ctxId=35&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1896102494&amp;title=koma&amp;url=tag%3ajltags%40eph.hr%2c2016%3akoma&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2477,7 +2388,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/moda-i-ljepota/brigitte-macron-i-melania-trump-odusevile-haljinama-na-drzavnoj-veceri-predsjednik-sad-a-nahvalio-suprugu-ona-je-nevjerojatna-americka-prva-dama/7283800/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2487,14 +2398,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/moda-i-ljepota/brigitte-macron-i-melania-trump-odusevile-haljinama-na-drzavnoj-veceri-predsjednik-sad-a-nahvalio-suprugu-ona-je-nevjerojatna-americka-prva-dama/7283800/",
-postId : "7283800",
+url : "https://www.jutarnji.hr/life/zivotne-price/ovo-je-cudo-bozje-djelo-djecak-se-probudio-iz-kome-dan-nakon-sto-su-doktori-od-njega-odustali-a-roditelji-dali-dozvolu-da-ga-iskljuce-s-aparata/7329981/",
+postId : "7329981",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "BRIGITTE MACRON I MELANIA TRUMP ODUŠEVILE HALJINAMA NA DRŽAVNOJ VEÈERI Predsjednik SAD-a nahvalio suprugu: 'Ona je nevjerojatna amerièka prva dama!'",
-pubdate : "2018-04-25 10:42",
-authors : "Hina",
-sections : "Front Page, Life, Moda i ljepota",
-tags : "Sjedinjene Amerièke Države, Francuska, Brigitte Macron, Emmanuel Macron, Melania Trump, Donald Trump",
+title : "'OVO JE ÈUDO, BOŽJE DJELO...' Djeèak se probudio iz kome dan nakon što su doktori od njega odustali, a roditelji dali dozvolu da ga iskljuèe s aparata",
+pubdate : "2018-05-07 23:50",
+authors : "Silvija Novak",
+sections : "Front Page, Life, Životne prièe",
+tags : "koma",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

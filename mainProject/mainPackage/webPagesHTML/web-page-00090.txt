@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Kada pitate Marija Markovinu koja je klapa prema njegovu mišljenju najbolja, neæe vam direktno odgovoriti, ali æe jasno dati do znanja naèinom kojim govori, s punim respektom, da je to legendarna postava klape Trogir s pokojnim tenorom Vinkom Cocom. Izdvaja i prvu postavu te legendarne klape. Ipak se neæe libiti reæi da je, što se tièe voditelja klapa, njegov favorit pokojni profesor Nikola Buble. Dakle, klapa Trogir je, prema njegovu mišljenju, i u prvoj i u drugoj postavi jedinstvena." />
-<meta name="keywords" content="Glazba" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="U nedjelju, na Svjetski dan planeta Zemlje, na svijet je donijela zdravo mladunèe koje je veæ nakon petnaest minuta uspješno stalo na svoje noge." />
+<meta name="keywords" content="zebra, Zoološki vrt grada Zagreba" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Svira nekoliko instrumenata, pjeva, vodi tri klape, osvajao je Omiški festival. Uspješan je glazbenik, slijep od roðenja: Ovo je njegova životna prièa - Jutarnji List</title>
+<title>ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "CN";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Životne prièe";
+var dfpCategory = "VauMijau";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7270503";
-var dfpArticleKeyword = "Glazba";
+var dfpArticle = "7280775";
+var dfpArticleKeyword = "zebra";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/svira-nekoliko-instrumenata-pjeva-vodi-tri-klape-osvajao-je-omiski-festival-uspjesan-je-glazbenik-slijep-od-rodenja-ovo-je-njegova-zivotna-prica/7270503/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/svira-nekoliko-instrumenata-pjeva-vodi-tri-klape-osvajao-je-omiski-festival-uspjesan-je-glazbenik-slijep-od-rodenja-ovo-je-njegova-zivotna-prica/7270503/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/po2jpg/7270515/ALTERNATES/LANDSCAPE_1180/po2.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745/ALTERNATES/LANDSCAPE_1180/Zebra_1.JPG" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/po2jpg/7270515/ALTERNATES/LANDSCAPE_1180/po2.jpg">
-<meta property="og:title" content="Svira nekoliko instrumenata, pjeva, vodi tri klape, osvajao je Omiški festival. Uspješan je glazbenik, slijep od roðenja: Ovo je njegova životna prièa" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745/ALTERNATES/LANDSCAPE_1180/Zebra_1.JPG">
+<meta property="og:title" content="ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/svira-nekoliko-instrumenata-pjeva-vodi-tri-klape-osvajao-je-omiski-festival-uspjesan-je-glazbenik-slijep-od-rodenja-ovo-je-njegova-zivotna-prica/7270503/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Kada pitate Marija Markovinu koja je klapa prema njegovu mišljenju najbolja, neæe vam direktno odgovoriti, ali æe jasno dati do znanja naèinom kojim govori, s punim respektom, da je to legendarna postava klape Trogir s pokojnim tenorom Vinkom Cocom. Izdvaja i prvu postavu te legendarne klape. Ipak se neæe libiti reæi da je, što se tièe voditelja klapa, njegov favorit pokojni profesor Nikola Buble. Dakle, klapa Trogir je, prema njegovu mišljenju, i u prvoj i u drugoj postavi jedinstvena." />
+<meta property="og:description" content="U nedjelju, na Svjetski dan planeta Zemlje, na svijet je donijela zdravo mladunèe koje je veæ nakon petnaest minuta uspješno stalo na svoje noge." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Jozo Vrdoljak/Privredni vjesnik">
-<meta name="twitter:title" content="Svira nekoliko instrumenata, pjeva, vodi tri klape, osvajao je Omiški festival. Uspješan je glazbenik, slijep od roðenja: Ovo je njegova životna prièa">
-<meta name="twitter:description" content="Kada pitate Marija Markovinu koja je klapa prema njegovu mišljenju najbolja, neæe vam direktno odgovoriti, ali æe jasno dati do znanja naèinom kojim govori, s punim respektom, da je to legendarna postava klape Trogir s pokojnim tenorom Vinkom Cocom. Izdvaja i prvu postavu te legendarne klape. Ipak se neæe libiti reæi da je, što se tièe voditelja klapa, njegov favorit pokojni profesor Nikola Buble. Dakle, klapa Trogir je, prema njegovu mišljenju, i u prvoj i u drugoj postavi jedinstvena.">
+<meta name="twitter:creator" content="Gordana Vukres">
+<meta name="twitter:title" content="ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah">
+<meta name="twitter:description" content="U nedjelju, na Svjetski dan planeta Zemlje, na svijet je donijela zdravo mladunèe koje je veæ nakon petnaest minuta uspješno stalo na svoje noge.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +691,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Životne prièe, Life, Front Page",
-pubdate: "2018-04-23T23:30+02:00",
-author: "Jozo Vrdoljak/Privredni vjesnik",
+data: { section: "VauMijau, Life, Front Page",
+pubdate: "2018-04-24T13:01+02:00",
+author: "Gordana Vukres",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -888,6 +890,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -966,12 +973,12 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/vaumijau/">
 VauMijau
 </a>
@@ -1134,7 +1141,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
+<li><a href="https://www.jutarnji.hr/life/vaumijau/">VauMijau </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1167,12 +1174,12 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/vaumijau/">
 VauMijau
 </a>
@@ -1229,11 +1236,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-MARIO MARKOVINA
+PRINOVA U ZAGREBAÈKOM ZOO-U
 </p>
 <h1
 class="title">
-Svira nekoliko instrumenata, pjeva, vodi tri klape, osvajao je Omiški festival. Uspješan je glazbenik, slijep od roðenja: Ovo je njegova životna prièa
+ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1248,7 @@ Svira nekoliko instrumenata, pjeva, vodi tri klape, osvajao je Omiški festival. 
 <p
 class="authors">
 <ul>
-<li>Jozo Vrdoljak/Privredni vjesnik</li>
+<li><a href="https://www.jutarnji.hr/incoming/gordana-vukres">Gordana Vukres</a></li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1256,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-23.04.2018. u 23:30
+24.04.2018. u 13:01
 </p>
 </li>
 </ul>
@@ -1259,14 +1266,14 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="ece_incoming media ">
+<section class="kucni-ljubimci media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/po2jpg/7270515" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/po2jpg/7270515/ALTERNATES/LANDSCAPE_380/po2.jpg"
+<img src="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745/ALTERNATES/LANDSCAPE_380/Zebra_1.JPG"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/po2jpg/7270515/BINARY/thumbnail/po2.jpg"
+data-src-template="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745/BINARY/thumbnail/Zebra_1.JPG"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1274,10 +1281,6 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> Paun Paunoviæ / CROPIX
-</span>
-</div>
 </div>
 </div>
 </section>
@@ -1286,7 +1289,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p> </p>
+<p><strong>U nedjelju, na Svjetski dan planeta Zemlje, zebra Sabina na svijet je donijela zdravo mladunèe koje je veæ nakon petnaest minuta uspješno stalo na svoje noge.</strong></p>
 </p>
 </section>
 <section>
@@ -1311,14 +1314,60 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7270503"
+<div id="content-body-6263871-7280775"
 >
-<p>Kada pitate <strong>Marija Markovinu</strong> koja je klapa prema njegovu mišljenju najbolja, neæe vam direktno odgovoriti, ali æe jasno dati do znanja naèinom kojim govori, s punim respektom, da je to legendarna postava klape Trogir s pokojnim tenorom<strong> Vinkom Cocom</strong>. Izdvaja i prvu postavu te legendarne klape. Ipak se neæe libiti reæi da je, što se tièe voditelja klapa, njegov favorit pokojni profesor <strong>Nikola Buble</strong>. Dakle, klapa Trogir je, prema njegovu mišljenju, i u prvoj i u drugoj postavi jedinstvena.</p><p>Mario Markovina trenutaèno profesionalno vodi tri klape. Voditelj je muške klape Krunik iz Solina te ženskih klapa Stivanja iz Trogira i Mindula iz Okruga. Dosad je, otkriva, vodio ukupno 17 klapa. Kao voditelj ženske klape Korijandul iz Zagreba èetiri je puta osvajao Omiški festival klapa. Na Omiškom festivalu nastupa od 2002. godine, bilo kao klapski pjevaè, bilo kao voditelj. Mario Markovina bio je i znanstveni novak na splitskoj Umjetnièkoj akademiji u Splitu te je èak upisao magisterij etnologije i kulturne antropologije u Ljubljani, ali ga nije još dovršio.</p><p> </p><p>“Želim se praktièno baviti glazbom, to me više privlaèi nego teoretski i znanstveni rad”, istièe Mario Markovina, koji je i studijski glazbenik, a stalno nastupa po raznim dogaðajima i zabavama.</p><p>I to samo po sebi ne bi ništa bilo neobièno da Mario Markovina nije od roðenja slijep. Unatoè tom hendikepu, uspio je diplomirati povijest i filozofiju na zagrebaèkom Filozofskom fakultetu. I ne samo to, tijekom studija u Zagrebu i tri godine rada u Dubrovniku funkcionirao je samostalno, bez posebne pomoæi. Ipak, najviše mu nedostaje to što ne može voziti. Zato kaže da æe, èim se na tržištu pojavi prvi automobil bez vozaèa koji najavljuju, on biti kupac. I, dodaje u šali, ako ga proizvede <strong>Mate Rimac</strong>, 20 godina æe besplatno nastupiti na svim proslavama njegove tvrtke.</p><h5><strong>Harmonika za èetvrti roðendan</strong></h5><p>Mariju Markovini sada je 38 godina, a kada je išao u redoviti trogirski vrtiæ, roditelji su ga usporedo vozili i u glazbeni vrtiæ u Split. Istièe da je majci <strong>Višnji</strong> i ocu <strong>Danku</strong> zahvalan što je išao u redovni vrtiæ i školu jer su se potpuno posvetili njemu.</p><p>“Uložili su puno truda. Usporedo s vrtiæem išlo je i opismenjavanje brajicom. Morao sam kao i ostala djeca nauèiti pisati prije škole. Bez obzira na to što neki tvrde kako to nije nužno, svjedoci smo da dijete koje ne nauèi pisati prije škole ima problema. A ja sam negdje u treæoj godini života nauèio plivati, a u šestoj voziti bicikl. U pratnji oca vozio sam ga trogirskim ulicama, a zajedno smo znali biciklirati do Slatina”, prisjeæa se Mario Markovina.</p><p>Spletom sretnih okolnosti Markovina je poèeo na vrijeme uèiti pisati. Kaže da je imao sreæe jer mu je majka radila u Splitskoj banci s kolegicom èiji je svekar <strong>Mario Bavèeviæ</strong> bio direktor jedne škole u Sarajevu u koju su išli slabovidni uèenici, a koji se vratio kao umirovljenik u Split.</p><p>“On je moje roditelje povezao sa Savezom slijepih u Splitu i ja sam tako postao prvi uèenik kojeg je <strong>Tonèica Kaliliæ</strong>, tada se prezivala <strong>Obilinoviæ</strong>, opismenila za Brailleovo pismo. Da nje nije bilo, tko zna kojim bi smjerom išao moj život. Nauèio sam pisati prije polaska u školu. A onda je bilo inicijativa da se upišem školu ‘Vinko Bek’ u Zagrebu, ali se ta škola, ne znam zbog èega, nije svidjela mojim roditeljima. Uèinili su sve da idem u redovnu školu, a sretna okolnost je bila što je naša susjeda <strong>Marija Miliša </strong>bila uèiteljica. Rekla je mojim roditeljima da æe pokušati. Tako da sam pohaðao redovnu školu u Trogiru. Kod nje sam završio prva èetiri razreda”, prisjeæa se Mario Markovina. Potom je sve krenulo normalnim slijedom. Pohaðao je redovnu školu i usporedo glazbenu. Glazba je Marija oduvijek zanimala.</p><p>“Kako nam je kuæni prijatelj bio jedan harmonikaš, još kao jako mali s posebnom pozornošæu slušao sam kako svira. Vidjelo se da sam bio zainteresiran i onda su mi, na njegov prijedlog, kupili harmoniku. Za èetvrti roðendan dobio sam na poklon jednu malu harmoniku. Poslije sam, tijekom osmogodišnjeg školovanja, išao na satove harmonike kod profesora<strong> Vlade Antoliæa</strong>. On je bio profesor na Umjetnièkoj akademiji u Splitu i vodio je trogirsku limenu glazbu. Upravo me on i potaknuo da upišem glazbenu školu. Usporedo sam, dakle. završio i osnovnu školu i glazbenu školu. Potom sam pohaðao trogirsku gimnaziju i srednju glazbenu školu u Splitu”, otkriva nam Mario.</p><h5><strong>Silom prilika - tenor</strong></h5><p>Mario Markovina za sebe kaže da nije baš bio uredan student jer je studirao sedam i pol godina. Diplomirao je filozofiju i povijest.</p><p>“Živio sam u našem stanu na Jarunu u kojem je sa mnom živjela i moja sestra. Meðutim, ja sam samostalno funkcionirao. Sestra se nije morala brinuti oko mog fakulteta. Iako sam malo dulje studirao, roditelji mi od treæe godine nisu morali slati niti kune, jer sam nastupao i bavio se glazbom. Nastupao sam najprije po zagrebaèkim klubovima, a potom posvuda. Glazbenu akademiju sam upisao, ali je nisam pohaðao, jer nisam bio spreman za to”, kaže Mario Markovina.</p><p>Pred završetak studija 2005. godine odselio se u Dubrovnik, gdje je živio tri godine. Vodio je nekoliko klapa, a u poznatoj klapi Subrenum je svirao i pjevao. U jednoj klapi koju je vodio pjevala je i njegova sadašnja supruga <strong>Livija</strong>, akademska slikarica. Imaju dva sina. Jedan sin je predškolac, a drugome je godina i pol. Kaže da nije primijetio da ih pretjerano zanima glazba. Više su, kaže, okrenuti mobitelima i raèunalima.</p><p>Prvi instrument koji je nauèio svirati bila je harmonika. Na harmonici je završio osnovnu i srednju školu. U srednjoj školi imao je obvezno uèenje klavira, tako da svira klavijature. U šestom razredu osnovne posudio je gitaru od prijatelja i nauèio je svirati. Malo poslije je došla mandolina, a u srednjoj školi Mario je s prijateljima imao bend u kojem je svirao bubnjeve i udaraljke. U srednjoj glazbenoj školi postojala je moguænost posuditi jedan instrument, tako da je on posudio saksofon i nauèio ga svirati.</p><p>“Dok su se drugi igrali loptom, ja sam uèio svirati razne instrumente. U poznatoj klapi poèeo sam pjevati 1996. godine, i sada nastupam s nizom klapa”, kaže Mario Markovina.</p><p>Mario Markovina èesto nastupa u Zagrebu i najèešæe putuje autobusom.</p><p>“Prvi æu kupiti automobil koji sam vozi. Jer mi treba. Naravno, uvjet je da bude siguran”, kaže.</p><p>Tvrdi da je u svemu ovome najvažnije shvatiti da su slijepi ljudi isti kao i ostali. “I nas ima razlièitih. Ima radišnih i manje radišnih. Ne može nas se sve staviti u istu ladicu. Ja bih sebe svrstao meðu kampanjce. Moj je izazov bio postati normalan èovjek - ništa više ni manje od toga ne bi me zadovoljilo niti ispunilo. To mi je bio prioritet i mislim da sam u tome uspio”, smatra Mario.</p><p>Markovina kaže da je važno educirati ljude kako se ponašati prema slijepima. “Moj je savjet da se prema nama odnosite potpuno normalno. Isto tako, i nas slabovidne i slijepe treba educirati da se ponašamo normalno. Proputovao sam s klapama èitav svijet, ali nikad mi se nije dogodilo da me je netko svjesno ili namjerno povrijedio, niti sam imao negativnih iskustava da me je netko htio prevariti. Neki moji prijatelji imali su loših iskustava, ja nisam. Ljudi vam uvijek žele pomoæi, ali nekada ne znaju kako. I samo im treba reæi što vam treba i biti normalan”, pojašnjava Mario. Zgoda je oko njega bilo dosta. Neke je, kaže, i sam inicirao. Jednom ga je klapa zaboravila na pozornici u Cankarjevu domu u Ljubljani.</p><p>“Završio je koncert klape Subrenum u kojoj sam nastupao, a oni su bili otišli. I ja sam ostao na pozornici sam i smješkao se. Naravno, ubrzo sam èuo korake. Vratili su se trkom po mene, i to ne jedan nego svi”, kroz smijeh se prisjeæa te zgode Mario.</p><p>Kaže da s klapom u svemu sudjeluje. “Najbolje se osjeæam kada sam bariton i mislim da sam prirodno bariton, ali sam sada silom prilika prvi tenor u klapi. Zato što mogu pjevati prvog tenora, ta me uloga èesto dopadne jer tenora uvijek nedostaje. Mi se u klapama znamo našaliti da prvi tenor u klapi nije glas, nego dijagnoza. Meðutim, neke klape postoje i po 50 godina. Pokojni legendarni voditelj klapa Nikola Buble znao je reæi da je pjevanje peta stvar u klapi. Po mojem mišljenju, dobar klapski pjevaè je onaj tko prvi doðe u gostionicu, a zadnji ode”, kroz smijeh dodaje Markovina naglašavajuæi važnost druženja u klapama.</p><p>A što se tièe ugostitelja, Markovina je svjestan da se ugostiteljima uvijek i ne isplati imati dobru klapu jer im gosti dugo ostanu sjediti nakon veèere. Ali, naravno, svi ugostitelji ne gledaju to na taj naèin. Neki zaista vole klape.</p><h5><strong>Što je prava pisma</strong></h5><p>Markovina kaže da je problem klapa generalno u tome što se nije raspravilo što je to stvarno dalmatinska klapa. Jesu li to klape koje pjevaju u troglasu a cappella, ili su to one koje nastupaju na Omiškom festivalu, ili su to sada neki sastavi koji više ne ispunjavaju osnovna pravila klapskog pjevanja. Ipak, kaže da postoje neki normativi koje mora sadržavati klapska pjesma.</p><p>“Naravno da imamo modernije i tradicionalnije klape, ali se sve ne može zvati klapom”, kaže on. Zato Mario Markovina podržava reakciju organizatora Omiškog festivala klapa predsjednici RH oko dodjele priznanja klapi Intrade, jer to nije, kaže, izvorna klapska pjesma.</p><p>“U poèetnoj verziji klapskog pjevanja nije bilo èetveroglasje, nego troglasje. Nakon pojave gramofona dodan je taj èetvrti glas da bi se upotpunila funkcija baritona, tako da danas sve klape uglavnom pjevaju èetveroglasno. Klapska pjesma se razvija i nije normalno da ostane na razini od prije sto godina. Da bi klapa mogla funkcionirati, mora imati najmanje pet èlanova. Znaèi, minimalno prvi i drugi tenor, bariton i dva basa. Bariton povezuje basove i tenore. Bariton vam doðe kao vezni igraè u nogometu.”</p><p>U zadnjih petnaestak godina jako je puno, po Marijevu mišljenju, napredovalo žensko klapsko pjevanje. “Ženske klape više ne pjevaju toliko visoko kao prije. A da se primijetiti i to da su ljudi koji pišu za ženske klape èak i inovativniji nego kada pišu za muške klape. Te pjesme pišu isti ljudi. Žensko klapsko pjevanje polako pronalazi svoje mjesto. A nije više rijetkost da ženske klape i pobjeðuju muške na natjecanjima”, smatra naš sugovornik.</p><p>Mješovitih klapa nema baš puno, ali ih još ipak ima. “Bilo je puno uspješnih mješovitih klapa. Recimo klapa Puntari s <strong>Terezijom Kusanoviæ</strong>, koja je sada prvakinja splitske Opere, napravila je velike stvari. Ima i danas odliènih mješovitih klapa, poput klape Versi iz Splita. Ipak, Puntarima nitko nije bio ravan”, smatra Markovina.</p><h5><strong>Živim normalno</strong></h5><p>Klapa Cambi je, kaže Mario, puno pridonijela popularizaciji klapskog pjevanja, ali je, po njemu, ipak najkvalitetnije obrade pjesama napravila klapa Trogir s voditeljem Nikolom Bublom. “Meni su obrade ‘Pisma æali’, ‘Bodulske balade’, ‘Kapetanove žene’, ‘Galeb i ja’ bolje od originala. Što se tièe aranžmana, profesor Buble je, po meni, bio nedostižan”, napominje Mario Markovina.</p><p>U posljednje vrijeme Mario Markovina èesto nastupa s dugogodišnjim prijateljem <strong>Ivom Raièem</strong> i <strong>Matom Grgatom</strong>, kojem predviða veliku karijeru. Ima za to sve predispozicije, ali, napominje, sve ovisi samo o njemu.</p><p>Mario Markovina nedavno je imao èast biti predavaè na skupu ženskih klapa u Daruvaru, što mu je ostalo u posebnom sjeæanju.</p><p>“Bilo je nas pet voditelja klapa i tu se vidjelo koliko je napredovalo žensko klapsko pjevanje. Mene je ugodno iznenadio jedan novinarski prilog gdje se govorilo o nas pet voditelja klapa, a nije se nijednom spomenula moja sljepoæa. Ne zato što bih se ja toga stidio, nego jer sam se uvjerio da sam nešto napravio u životu i da živim normalno. Spominjao se samo rad, i ništa više”, zakljuèuje Mario Markovina.</p>
+<p>U meðuvremenu je napravilo i prve korake, a nestabilan hod iz sata u sat postaje sve sigurniji. Za sada u stopu <strong>prati majku</strong> što zbog sisanja mlijeka, a što zbog sigurnosti. Naime, prvih dana mlado je uz majku daleko od drugih zebri kako bi ju nauèilo <strong>prepoznavati vidom</strong>, <strong>njuhom</strong> i <strong>sluhom</strong>. Iako tata <strong>Gustav</strong> štiti krdo, mama je prvi red zaštite.</p><p>Simpatièan mališan, podrijetlom iz Afrike, još nema prepoznatljiv <strong>crno-bijeli uzorak</strong>. Naime, na bijelom se krznu sada istièu smeðe pruge.</p><p>
+<section>
+<article class="kucni-ljubimci media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/life/vaumijau/zebra_4jpg/7280754" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/life/vaumijau/zebra_4jpg/7280754/ALTERNATES/FREE_380/Zebra_4.JPG"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/life/vaumijau/zebra_4jpg/7280754/BINARY/thumbnail/Zebra_4.JPG"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p><em>&quot;Najmlaði èlan zagrebaèke obitelji zebri u trenu je postao ljubimac djelatnika i posjetitelja Zoološkog vrta. Ne znamo još kojeg je spola. Pretpostavlja se da je ženka, no sa sigurnošæu æemo to utvrditi tek kada se poène odvajati od majke. U ovom razdoblju naš je posao poštivati prirodu&quot;</em>, kazao je <strong>Damir Skok</strong>, ravnatelj <strong>Zoološkog vrta grada Zagreba</strong>.</p><p><strong>Gravidnost</strong> grantove nizinske zebre traje nešto <strong>više od godinu dana</strong>, a mladunèe zebre pri okotu ima <strong>tridesetak kilograma</strong>. Ženka okoti najèešæe jedno mlado svake dvije godine.</p><p>U Zoološkom vrtu grada Zagreba prošlo je mladunèe zebre na svijet došlo 2015. godine. Tata Gustav ponosan je na svoje potomstvo, a na njegovu obitelj ponosni su i djelatnici Vrta. Naime, prije mladunèeta iz 2015. godine u Maksimiru nije bilo mladunaca zebre više od deset godina.</p><p>
+<section>
+<article class="kucni-ljubimci media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/life/vaumijau/zebra_5jpg/7280757" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/life/vaumijau/zebra_5jpg/7280757/ALTERNATES/FREE_380/Zebra_5.JPG"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/life/vaumijau/zebra_5jpg/7280757/BINARY/thumbnail/Zebra_5.JPG"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Pred novim mališanom za nekoliko je dana novi izazov. Tada æe poèeti <strong>pasti travu</strong>. Odrasla jedinka može doseæi težinu od <strong>tristo kilograma</strong> te duljinu tijela od <strong>246 centimetara</strong>. U prirodi zebre žive dvadesetak, a u zoološkim vrtovima gdje su zaštiæene od grabežljivaca poput lavova i hijena, èak <strong>èetrdesetak godina</strong>.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7270503 p").filter(function () {
+$("#content-body-6263871-7280775 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1327,16 +1376,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7270503").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7280775").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7270503").children().slice(max).remove();
+$("#content-body-6263871-7280775").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7270503").children().get(0);
+var firstChild = $("#content-body-6263871-7280775").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1374,8 +1423,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Glazba" class ="label label-default" >
-Glazba
+<a href="https://www.jutarnji.hr/tag/Zoolo%C5%A1ki_vrt_grada_Zagreba" class ="label label-default" >
+Zoološki vrt grada Zagreba
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/zebra" class ="label label-default" >
+zebra
 </a>
 </li>
 </ul>
@@ -1386,21 +1440,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/brojni-voditelji-poznatih-klapa-pobunili-se-zbog-nagrade-koju-su-dobili-intrade-oni-ne-zasluzuju-to-odlikovanje-lazno-se-predstavljaju/6842805/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/brojni-voditelji-poznatih-klapa-pobunili-se-zbog-nagrade-koju-su-dobili-intrade-oni-ne-zasluzuju-to-odlikovanje-lazno-se-predstavljaju/6842805/">
-BROJNI VODITELJI POZNATIH KLAPA POBUNILI SE ZBOG NAGRADE KOJU SU DOBILI INTRADE 'Oni ne zaslužuju to odlikovanje, lažno se predstavljaju!'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1416,13 +1455,13 @@ BROJNI VODITELJI POZNATIH KLAPA POBUNILI SE ZBOG NAGRADE KOJU SU DOBILI INTRADE 
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1434,8 +1473,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1447,13 +1486,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1465,8 +1504,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1478,13 +1517,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1496,8 +1535,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1509,17 +1548,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1527,9 +1566,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1611,7 +1649,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7270503" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7280775" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1655,18 +1693,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="kucni-ljubimci media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/vaumijau/prva-dama-brazila-bez-razmisljanja-spasila-psa-iz-ledenog-jezera-skocila-je-odjevena-u-vodu-agent-koji-je-odbio-pomoci-vise-nije-u-sluzbi/7331244/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-MUTACIJA GENA </a>
+<a href="https://www.jutarnji.hr/life/vaumijau/prva-dama-brazila-bez-razmisljanja-spasila-psa-iz-ledenog-jezera-skocila-je-odjevena-u-vodu-agent-koji-je-odbio-pomoci-vise-nije-u-sluzbi/7331244/">
+PREDSJEDNIÈKI MILJENIK
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'
+<a href="https://www.jutarnji.hr/life/vaumijau/prva-dama-brazila-bez-razmisljanja-spasila-psa-iz-ledenog-jezera-skocila-je-odjevena-u-vodu-agent-koji-je-odbio-pomoci-vise-nije-u-sluzbi/7331244/">
+PRVA DAMA BRAZILA BEZ RAZMIŠLJANJA SPASILA PSA IZ LEDENOG JEZERA Skoèila je odjevena u vodu; agent koji je odbio pomoæi, više nije u službi...
 </a>
 </h4>
 </div>
@@ -1676,19 +1715,19 @@ MUTACIJA GENA </a>
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="kucni-ljubimci media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/vaumijau/posast-protiv-koje-se-hrvatska-ne-bori-mungos-s-otoka-presao-na-kopno-ugrozene-su-brojne-vrste/6181281/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-NE SRAME SE
+<a href="https://www.jutarnji.hr/life/vaumijau/posast-protiv-koje-se-hrvatska-ne-bori-mungos-s-otoka-presao-na-kopno-ugrozene-su-brojne-vrste/6181281/">
+NAJGORA PROGNOZA - NAJREALNIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE' Tinejdžerica majci predstavila novog deèka, oca troje djece
+<a href="https://www.jutarnji.hr/life/vaumijau/posast-protiv-koje-se-hrvatska-ne-bori-mungos-s-otoka-presao-na-kopno-ugrozene-su-brojne-vrste/6181281/">
+POŠAST PROTIV KOJE SE HRVATSKA NE BORI Mungos s otoka prešao na kopno, ugrožene su brojne vrste
 </a>
 </h4>
 </div>
@@ -1698,18 +1737,19 @@ FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="kucni-ljubimci media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/vaumijau/krenuo-je-na-sljeme-i-snimio-ovo-poznati-hrvatski-umjetnik-naletio-na-poskoka-evo-sto-trebate-uciniti-ako-se-to-dogodi-i-vama/5864427/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-DVOSTRUKA SREÆA </a>
+<a href="https://www.jutarnji.hr/life/vaumijau/krenuo-je-na-sljeme-i-snimio-ovo-poznati-hrvatski-umjetnik-naletio-na-poskoka-evo-sto-trebate-uciniti-ako-se-to-dogodi-i-vama/5864427/">
+OBRUŠIO SE NA ZAGAÐIVAÈE PRIRODE
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...
+<a href="https://www.jutarnji.hr/life/vaumijau/krenuo-je-na-sljeme-i-snimio-ovo-poznati-hrvatski-umjetnik-naletio-na-poskoka-evo-sto-trebate-uciniti-ako-se-to-dogodi-i-vama/5864427/">
+KRENUO JE NA SLJEME I SNIMIO OVO! POZNATI HRVATSKI UMJETNIK NALETIO NA POSKOKA Evo što trebate uèiniti ako se to dogodi i vama...
 </a>
 </h4>
 </div>
@@ -1719,19 +1759,19 @@ JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene raz
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="kucni-ljubimci media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/vaumijau/drage-i-korisne-zivotinjice-kad-u-dvoristu-imate-jeza-mozete-mirno-spavati-a-evo-i-zasto/4432035/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-SANDA PANDŽA
+<a href="https://www.jutarnji.hr/life/vaumijau/drage-i-korisne-zivotinjice-kad-u-dvoristu-imate-jeza-mozete-mirno-spavati-a-evo-i-zasto/4432035/">
+ÈESTE ŽRTVE U PROMETU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-FILMSKI USPJEH Hrvatica od konobarice bez radne dozvole u Italiji dogurala do zvjezdanog biznisa: Organizirala sam svadbu Toma Cruisea i P. Ecclestone
+<a href="https://www.jutarnji.hr/life/vaumijau/drage-i-korisne-zivotinjice-kad-u-dvoristu-imate-jeza-mozete-mirno-spavati-a-evo-i-zasto/4432035/">
+DRAGE I KORISNE ŽIVOTINJICE Kad u dvorištu imate ježa, možete mirno spavati, a evo i zašto
 </a>
 </h4>
 </div>
@@ -1769,19 +1809,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1789,8 +1829,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1879,6 +1919,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1957,12 +2002,12 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/vaumijau/">
 VauMijau
 </a>
@@ -2166,11 +2211,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2218,14 +2258,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2269,23 +2309,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7270503&type=article&title=Svira+nekoliko+instrumenata%2c+pjeva%2c+vodi+tri+klape%2c+osvajao+je+Omi%c5%a1ki+festival.+Uspje%c5%a1an+je+glazbenik%2c+slijep+od+ro%c4%91enja%3a+Ovo+je+njegova+%c5%beivotna+pri%c4%8da&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fsvira-nekoliko-instrumenata-pjeva-vodi-tri-klape-osvajao-je-omiski-festival-uspjesan-je-glazbenik-slijep-od-rodenja-ovo-je-njegova-zivotna-prica%2f7270503%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=38&contextPath=1-32-38-&pubId=1&cat=&meta=read-story&objId=7280775&type=article&title=ZEBRA+SABINA+POSTALA+JE+MAMA+Mala+zebra+posjetiteljima+Zoolo%c5%a1kog+vrta+oduzima+dah&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fvaumijau%2fzebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah%2f7280775%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7270503&amp;type=article&amp;title=Svira+nekoliko+instrumenata%2c+pjeva%2c+vodi+tri+klape%2c+osvajao+je+Omi%c5%a1ki+festival.+Uspje%c5%a1an+je+glazbenik%2c+slijep+od+ro%c4%91enja%3a+Ovo+je+njegova+%c5%beivotna+pri%c4%8da&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fsvira-nekoliko-instrumenata-pjeva-vodi-tri-klape-osvajao-je-omiski-festival-uspjesan-je-glazbenik-slijep-od-rodenja-ovo-je-njegova-zivotna-prica%2f7270503%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=38&amp;contextPath=1-32-38-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7280775&amp;type=article&amp;title=ZEBRA+SABINA+POSTALA+JE+MAMA+Mala+zebra+posjetiteljima+Zoolo%c5%a1kog+vrta+oduzima+dah&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fvaumijau%2fzebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah%2f7280775%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=1031414173&title=Glazba&url=tag%3ajltags%40eph.hr%2c2016%3aGlazba&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=1773411402&title=zebra&url=tag%3ajltags%40eph.hr%2c2016%3azebra&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1031414173&amp;title=Glazba&amp;url=tag%3ajltags%40eph.hr%2c2016%3aGlazba&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1773411402&amp;title=zebra&amp;url=tag%3ajltags%40eph.hr%2c2016%3azebra&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=651956777&title=Zoolo%c5%a1ki+vrt+grada+Zagreba&url=tag%3ajltags%40eph.hr%2c2016%3aZoolo%25C5%25A1ki_vrt_grada_Zagreba&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=651956777&amp;title=Zoolo%c5%a1ki+vrt+grada+Zagreba&amp;url=tag%3ajltags%40eph.hr%2c2016%3aZoolo%25C5%25A1ki_vrt_grada_Zagreba&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2338,7 +2389,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/svira-nekoliko-instrumenata-pjeva-vodi-tri-klape-osvajao-je-omiski-festival-uspjesan-je-glazbenik-slijep-od-rodenja-ovo-je-njegova-zivotna-prica/7270503/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2348,14 +2399,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zivotne-price/svira-nekoliko-instrumenata-pjeva-vodi-tri-klape-osvajao-je-omiski-festival-uspjesan-je-glazbenik-slijep-od-rodenja-ovo-je-njegova-zivotna-prica/7270503/",
-postId : "7270503",
+url : "https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/",
+postId : "7280775",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Svira nekoliko instrumenata, pjeva, vodi tri klape, osvajao je Omiški festival. Uspješan je glazbenik, slijep od roðenja: Ovo je njegova životna prièa",
-pubdate : "2018-04-23 23:30",
-authors : "Jozo Vrdoljak/Privredni vjesnik",
-sections : "Front Page, Životne prièe",
-tags : "Glazba",
+title : "ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah",
+pubdate : "2018-04-24 13:01",
+authors : "Gordana Vukres",
+sections : "VauMijau",
+tags : "zebra, Zoološki vrt grada Zagreba",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

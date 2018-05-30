@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Kad je njezina majka primila poruku od lijeènika, Yuna Lee je imala dvije godine. Patila je od zastrašujuæih napada, neutješno je plakala, nije mogla govoriti, hodati ili stajati, piše New York Times." />
-<meta name="keywords" content="genetske bolesti, poremeæaj" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<meta name="keywords" content="kožna bolest, Indija" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>&#039;Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora&#039; - Jutarnji List</title>
+<title>ZOVU JE &#039;DJEVOJÈICA ZMIJA&#039; Tužna prièa o tinejdžerici koja je zbog strašne bolesti prisiljena živjeti u osami: &#039;Što sam zgriješila da ovako patim?&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Životne prièe";
+var dfpCategory = "Zdravlje";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7278201";
-var dfpArticleKeyword = "genetske bolesti";
+var dfpArticle = "7311909";
+var dfpArticleKeyword = "kožna bolest";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/beba-dijete/6676566/ALTERNATES/LANDSCAPE_1180/beba,%20dijete" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/profimedia-0370243501jpg/7312008/ALTERNATES/LANDSCAPE_1180/profimedia-0370243501.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/beba-dijete/6676566/ALTERNATES/LANDSCAPE_1180/beba,%20dijete">
-<meta property="og:title" content="'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/profimedia-0370243501jpg/7312008/ALTERNATES/LANDSCAPE_1180/profimedia-0370243501.jpg">
+<meta property="og:title" content="ZOVU JE 'DJEVOJÈICA ZMIJA' Tužna prièa o tinejdžerici koja je zbog strašne bolesti prisiljena živjeti u osami: 'Što sam zgriješila da ovako patim?'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Kad je njezina majka primila poruku od lijeènika, Yuna Lee je imala dvije godine. Patila je od zastrašujuæih napada, neutješno je plakala, nije mogla govoriti, hodati ili stajati, piše New York Times." />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'">
-<meta name="twitter:description" content="Kad je njezina majka primila poruku od lijeènika, Yuna Lee je imala dvije godine. Patila je od zastrašujuæih napada, neutješno je plakala, nije mogla govoriti, hodati ili stajati, piše New York Times.">
+<meta name="twitter:title" content="ZOVU JE 'DJEVOJÈICA ZMIJA' Tužna prièa o tinejdžerici koja je zbog strašne bolesti prisiljena živjeti u osami: 'Što sam zgriješila da ovako patim?'">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Životne prièe, Life, Front Page",
-pubdate: "2018-04-24T00:00+02:00",
-author: "Silvija Novak",
+data: { section: "Zdravlje, Life, Front Page",
+pubdate: "2018-05-03T23:00+02:00",
+author: "Sanja Žordiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -888,6 +888,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -951,7 +956,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -966,7 +971,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1134,7 +1139,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/zivotne-price/">Životne prièe </a></li>
+<li><a href="https://www.jutarnji.hr/life/zdravlje/">Zdravlje </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1152,7 +1157,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1167,7 +1172,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -1229,10 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-MUTACIJA GENA </p>
+SKUPLJA ZA LIJEÈENJE
+</p>
 <h1
 class="title">
-'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'
+ZOVU JE 'DJEVOJÈICA ZMIJA' Tužna prièa o tinejdžerici koja je zbog strašne bolesti prisiljena živjeti u osami: 'Što sam zgriješila da ovako patim?'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1248,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 00:00
+03.05.2018. u 23:00
 </p>
 </li>
 </ul>
@@ -1260,21 +1266,21 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/beba-dijete/6676566" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/profimedia-0370243501jpg/7312008" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/beba-dijete/6676566/ALTERNATES/LANDSCAPE_380/beba,%20dijete"
+<img src="https://www.jutarnji.hr/incoming/profimedia-0370243501jpg/7312008/ALTERNATES/LANDSCAPE_380/profimedia-0370243501.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/beba-dijete/6676566/BINARY/thumbnail/beba,%20dijete"
+data-src-template="https://www.jutarnji.hr/incoming/profimedia-0370243501jpg/7312008/BINARY/thumbnail/profimedia-0370243501.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="newborn baby in hospital, Image: 159770601, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Alamy"
+alt="THIS TRAGIC teenager, known locally as Snake Girl, is forced to live in isolation after being stricken with a condition that causes her skin to bleed upon contact with sunlight. Images show the 13-year-old girl posing for the camera as she bashfully displays the skin disorder which is aggravated when she goes into the sun. In a short clip the girl explained the affect sunlight has on her skin while also recalling the problems she faced at school. Her parents are raising money in a desperate bid to treat her condition. Vedika Gupta, from Indore, India, suffers from Ichthyosis, a genetic disorder that affects just one in 200,000 people. The condition has confined her to her room and forced her to lead a life of isolation. Sujanya Das / Newslions / mediadrumworld.com, Image: 370243501, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Media Drum World"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Ilustracija / Profimedia, Alamy
+<span> Profimedia, Media Drum World
 </span>
 </div>
 </div>
@@ -1283,6 +1289,10 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1306,14 +1316,95 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7278201"
+<div id="content-body-6263871-7311909"
 >
-<p>Kad je njezina majka primila poruku od lijeènika, <strong>Yuna Lee </strong>je imala dvije godine. Patila je od zastrašujuæih napada, neutješno je plakala, nije mogla govoriti, hodati ili stajati, piše <strong><a href="https://www.nytimes.com/2018/04/23/health/genes-mutation-foxg1-brain.html?smid=tw-nytimesscience&amp;smtyp=cur" target="_blank">New York Times</a></strong>.</p><p>- Zašto toliko pati?, zdvajala je njezina majka <strong>Soo-Kyung Lee</strong>.<strong> </strong>Skeniranje mozga, genetski testovi i neurološke pretrage nisu ponudile odgovor. No, kad je lijeènik poslao poruku u kojoj sugerira<strong> </strong>da Yuna možda ima mutaciju na genu FOXG1, Soo-Kyung se smrznula.</p><p>- Odmah sam znala što je to, rekla je.</p><p>Skoro nitko na svijetu ne bi znao o èemu je rijeè. No, Soo-Kyung je specijalist za genetiku mozga. Zapravo prava zvijezda u svojem podruèju, kaže <strong>Robert Riddle</strong>, ravnatelj odjela za neurogenetiku na amerièkom Nacionalnom institutu za neurološke poremeæaje. Soo-Kyung veæ godinama radi s tzv. FOX genima.</p><p>- Znala sam da je FOXG1 gen kljuèan za razvoj mozga, rekla je.</p><p>Takoðer je znala i koliko su štetne mutacije na tom genu, koliko su rijetke i da nisu nasljedne veæ do njih spontano dolazi tijekom trudnoæe. Na svijetu tek 300 ljudi ima FOXG1 sindrom, a vjerojatnost da æe baš njezinoj kæeri biti dijagnosticiran taj poremeæaj nevjerojatno je mala.</p><p>- To je doista nevjerojatna prièa. Znanstvenica koja radi na neèemu što æe pomoæi èovjeèanstvu, a na kraju se ispostavi da je ta bolest direktno pogodila njezinu kæer, kaže doktor Riddle.</p><p>Iznenada su se Soo-Kyung (42) i njezin muž <strong>Jae Lee </strong>(57), oboje genetièari porijeklom iz Koreje, od hladnih znanstvenika pretvorili u roditelje pacijenta u oèajnièkoj potrazi za odgovorima.</p><p>Odjednom su se našli okruženi tek nedavno identificiranim genetskim muracijama, novonastalim dijagnozama i odgovorima koja samo nude nova pitanja.</p><p>- Nova istraživanja otkrivaju da se svake godine u svijetu rodi oko 400.000 djece s neurološkim smetnjama uzrokovanih nasumiènim mutacijama gena, kaže <strong>Matthew Hurles</strong>, genetièar s Wellcome Trust Sanger instituta. Kako sekvencioniranje gena postaje sve dostupnije, sve više djece dobiva specifiènu dijagnozu poput FOXG1 sindroma.</p><p>Zbog novih otkriæa, lijeènici æe moæi sprijeèiti dodatna ošteæenja mozga.</p><p>- Prije su se svi takvi poremeæaji trpali pod autizam ili nešto slièno. No, sada se mijenja naèin na koji lijeènici gledaju na takve bolesti, kaže doktor <strong>Joseph Gleeson</strong>, genetièar sa Sveuèilišta Kalifornija u San Diegu.</p><h5><strong>Majka i znanstvenica</strong></h5><p>Balansirajuæi izmeðu uloge majke i znanstvenice, Soo-Kyung nastavlja istraživati poremeæaj svoje kæeri.</p><p>- Naš je cilj pronaæi bolji tretman za pacijente s FOXG1 sindromom, kaže Soo-Kyung. No, njezin cilj svako dana je pomoæi Yuni da malo po malo napreduje.</p><p>- Yuna je slatka osmogodišnja djevojèica koja još uvijek nosi pelene. Kognitivno, ona je na razini 18-mjeseènog djeteta, kaže Yunin otac Jae.</p><p>Veliki uspjeh bi bio da osposobe Yunu da im signalizira kad joj je pelena mokra ili da može sama stati na noge držeæi se za zid a da ne padne baš istog trenutka.</p><p>- Njezin mozak je jako ošteæen. Možemo li ikako spasiti barem nešto od njezinih vještina?, kroz suze se pita Soo-Kyung.</p><p>Kad je Yuna roðena u sijeènju 2010. godine u Houstonu u Teksasu, jako je sniježilo. Zato je i dobila ime Yuna, što na korejskom znaèi 'snijeg'.</p><p>- Kad je roðena, bila je savršeno normalna. Šalili smo se razmišljajuæi o tome što æe doæi kasnije. Yunina majka je jako pametna, pa smo pomislili kako æe i Yuna sigurno mijenjati svijet nabolje, kaže Jae.</p><p>No, stvari su se ubrzo poèele mijenjati. Yuna nije reagirala na zvukove, muèila se da proguta mlijeko, a i ono što je progutala, ubrzo bi povratila. Izgledala je kao da je pothranjena.</p><p>Lijeènik je rekao da ne napreduje dovoljno. Nakon toga su poèeli i napadaji radi kojih je èesto bila na hitnoj. Toliko je silno plakala da je Soo-Kyung morala uvjeravati susjede da je ne zlostavljaju.</p><p>- Što sam napravila krivo? Jesam li pojela nešto što nisam smjela u trudnoæi? Jesam li bila pod previše stresa?, Soo-Kyung se muèila pitanjima.</p><h5><strong>Ugledni doktor Barkovich</strong></h5><p>Nedugo nakon Yuninog drugog roðendana, Soo-Kyung je otputovala na jednu konferenciju u Washington gdje je upoznala doktora <strong>Davida Rowithca</strong>, cijenjenog neonatologa i neuroznanstvenika sa Sveuèilišta Cambridge.</p><p>- Opisala mi je simptome svoje kæeri, a ja sam ponudio da æu poslati skenove Yuninog mozga vodeæem struènjaku za neuroradiologiju, doktoru <strong>Jimu Barkovichu</strong>, porijeklom iz Hrvatske.</p><p>On je otkrio vrlo neobièan uzorak u Yuninom mozgu kakav nije vidio veæ desetljeæima. Yunin cerebralni korteks (kora velikog mozga) imao je jako mnogo bijele tvari, što je znaèilo da moždane stanice odumiru, a komunikacija izmeðu polutki mozga bila je vrlo slaba.</p><p>Pretražujuæi znanstvenu literaturu, našao je moguæi odgovor. Yuna je imala mutaciju na genu FOXG1.</p><p>- Taj gen je kljuèan za razvoj mozga. Jedan od najvažnijih, rekao je ekspert upravo za taj poremeæaj, doktor <strong>William Dobyns</strong>, pedijatar i neurolog sa Sveuèilišta Washington.</p><p>FOXG1 gen osigurava nacrt za protein koji je poslije odgovoran za aktiviranje i deaktiviranje gena. On pomaže u tri vrlo važna stupnja razvoja mozga: razgranièava donji i gornji dio, podešava broj proizvedenih stanica i priprema organizaciju èitavog korteksa.</p><h5><strong>Nevjerojatno otkriæe</strong></h5><p>Kad je doktor Barkovich poslao email u kojem je sugerirao da Yuna ima mutaciju gena FOXG1, Soo-Kyung je to odbacila kao posve nevjerojatno. U to nije povjerovao ni Yunin neurolog jer se takvo što èinilo posve nemoguæim.</p><p>Da odbaci svaku sumnju, Soo-Kyung je odluèila sama sekvencionirati Yunin genom za što je tražila posebnu dozvolu fakulteta s obzirom da se u njezinom laboratoriju radilo samo na genomu miševa, a ne ljudi.</p><p>Baš u to vrijeme, ponovno je zatrudnjela što je bilo opravdanje da se analiza gena ipak obavi kako bi se iskljuèila moguænost da i drugo dijete ima takvu zastrašujuæu mutaciju.</p><p>Kad su stigli rezultati, Soo-Kyung ih je u nevjerici nekoliko puta provjeravala nadajuæi se da su u laboratoriju pogriješili. Doista, Yuni je nedostajao jedan nuklotid, broj 256 u aminokiselini jedne kopije gena FOXG1 koji ima 489 aminokiselina.</p><p>Kako se radilo o sluèajnoj, a ne nasljednoj mutaciji, drugo dijete nije bilo ugroženo. No, položaj mutacije u DNK lancu Yuni je dao manji nefunkcionalan mozak. Jedna jedina mutacija onesposobila je èitav gen.</p><p>Hodnik Yunine osnovne škole je istovremeno i igralište i minsko polje kojim prolazi ili u kolicima ili pomoæu hodalice i uvijek u društvu posebne asistentice <strong>Audrey</strong> koja pazi da Yuna ne zgrabi kaput ili knjige od kojeg drugog uèenika.</p><h5><strong>Brod koji se ljulja</strong></h5><p>I Soo-Kyung se muèi jer je zbog stresa oboljela. Godine 2016. joj je dijagnosticirana infekcija živca koji povezuje uho i mozak zbog èega je tjednima bila u krevetu i muèila se stajati na vlastitim nogama.</p><p>- Stalno se osjeæam kao da sam na brodu koji se ljulja, opisala je svoje stanje.</p><p>Njezina vlastita nemoæ pomogla joj je da shvati kroz što prolazi Yuna.</p><p>Iako je vrlo motivirana nastaviti istraživanje kæerine bolesti, zbog vlastitog zdravstvenog stanja to joj je izuzetno teško. Ne može gledati u ekran kompjutora više od 25 minuta, može èitati jedino kroz žuti filter te svakodnevno mora izvoditi vizualne vježbe pomoæu papira zalijepljenih na zidu svog ureda.</p><p>Baš kao i Yuna, i Soo-Kyung je trebala fizikalnu i govornu terapiju. Psihijatar joj je propisao antidepresive. Umjesto da i dalje spava u Yuninoj sobi, poèela je spavati na madracu u dnevnoj sobi koju je jedinu mogla potpuno zamraèiti. Lijeènici su joj rekli da se možda nikada neæe u potpunosti oporaviti.</p><p>Prije nego je Yuna roðena, Soo-Kyung je radila s miševima koji su imali mutaciju FOXG1 gena i kojima se zbog toga nisu razvili mozgovi. Slièno je bilo i s ljudima. Soo-Kyung i Jae spremali su se prouèavati kako toèno FOXG1 utjeèe na razvoj mozga, kad je došla Yuna.</p><p>Nastavili su svoje istraživanje i otkrili kako toèno ošteæena kopija FOXG1 narušava komunikaciju izmeðu polutki mozga. No, mnoge tajne i dalje su neotkrivene, primjerice zašto razlièiti pacijenti s naizgled istom mutacijom gena imaju tako razlièite simptome.</p><h5><strong>Genska terapija</strong></h5><p>S obzirom da Yuna ima jedan funkcionalan i jedan nefunkcionalan FOXG1 gen, Soo-Kyung se pita može li genska terapija potaknuti aktivnost u ovom dobrom genu. S obzirom da je taj gen tako kljuèan za razvoj mozga, nije vjerojatno da se mozak može ponovno izgraditi. No, neke bi se stvari ipak mogle popraviti.</p><p>Kad je Yuna navršila 6 godina, Soo-Kyung je zadrijemala s njom u krevetu, a kad se probudila, vidjela je nešto nevjerojatno: Yuna je sjedila kraj nje na krevetu. Yuna to nikad nije mogla iako tu vještinu svladaju i šestomjeseèna djeca.</p><p>- Sjeæam se da nam je fizioterapeut jednom rekao da tretmani nemaju smisla jer Yuna uopæe ne napreduje, no ipak smo nastavili, prisjeæa se Soo-Kyung. No, Yuna je ipak nauèila sjediti.</p><p>Struènjaci kažu kako se zapravo jako malo zna o novootkrivenim neurološkim poremeæajima i koja su stvarna ogranièenja te djece. No, Soo-Kyung i Jae Lee vjeruju da Yuna ipak može ostvariti neki napredak ako ostanu uporni. Njihov sljedeæi cilj je da Yunu osposobe da im da do znanja ako je gladna, ako joj je neudobno ili ako hoæe nešto.</p><p>Zasad nema pomaka jer Yuna, èini se, na razumije što od nje žele niti èemu služi gumb pritiskom na koji bi mogla signalizirati da nešto želi. No, Leejevi ne odustaju.</p><p>Pokušali su koristiti i detektor pogleda koji bi pratio Yunine pokrete oèiju i prema njima otkrivao što djevojèica želi, no ni to u poèeku nije funkcioniralo. Ali pomak se ipak dogodio kad je Yuna uspjela zadržati pogled na jednoj toèki tri sekunde. Leejevi se nadaju da æe s vremenom Yuna nauèiti komunicirati pogledom.</p><p>Yunina asistentica pomaže joj u svemu: u hranjenju, mijenjanju pelena i svemu ostalom.</p><p>- Imamo dobre i loše dane. No, Yuna je poèela prepoznavati fraze kao što su 'pronaðimo vrata od knjižnice', a nedavno je sama prinijela maramicu nosu i poljubila mi ruku. Bilo je to baš namjerno i prvi put, rekla je.</p><h5><strong>Brat je èuva</strong></h5><p>Sa svojih 18 kila, Yuna je tek 4 kilograma lakša od svojeg petogodišnjeg brata <strong>Joona</strong>. No, on veæ sad brine o svojoj sestri i štiti je. Yuna je nedavno nauèila odgurivati se nogama u svojoj hodalici tako da nije potpuno nepokretna. Kad se vrati s posla gdje prouèava mozgove miševa, Soon-Kyung igra se sa svojom djecom na tepihu u dnevnoj sobi. Yuna se smije kad joj tata Jae svira gitaru.</p><p>Yunina mama prije je rijetko govorila o svojoj kæeri jer se bojala da možda uskoro više neæe biti s njima. No, Yuna je u meðuvremenu ostvarila veliki napredak pa sada radi stvari za koje su mnogi rekli da nikad neæe moæi.</p>
+<p>Tinejdžerica <strong>Vedika Gupta</strong>, okrutno prozvana 'djevojèicom zmijom', prisiljena je živjeti u osami zbog svog stanja zbog kojeg njezina koža krvari kada je izložena sunèevoj svjetlosti.</p><p>Ova 13-godišnjakinja iz Indije pati od genetskog poremeæaja pod nazivom ihtioza, koji ju je prikovao za njezinu spavaæu sobu.</p><p>- Sve što mogu jest gledati kako se moji vršnjaci igraju i uživaju u svom životu. Èesto se pitam zašto me Bog tako kaznio. Što sam zgriješila da ovako patim?</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/profimedia-0370243429jpg/7312002" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/profimedia-0370243429jpg/7312002/ALTERNATES/FREE_380/profimedia-0370243429.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/profimedia-0370243429jpg/7312002/BINARY/thumbnail/profimedia-0370243429.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="THIS TRAGIC teenager, known locally as Snake Girl, is forced to live in isolation after being stricken with a condition that causes her skin to bleed upon contact with sunlight. Images show the 13-year-old girl posing for the camera as she bashfully displays the skin disorder which is aggravated when she goes into the sun. In a short clip the girl explained the affect sunlight has on her skin while also recalling the problems she faced at school. Her parents are raising money in a desperate bid to treat her condition. Vedika Gupta, from Indore, India, suffers from Ichthyosis, a genetic disorder that affects just one in 200,000 people. The condition has confined her to her room and forced her to lead a life of isolation. Sujanya Das / Newslions / mediadrumworld.com, Image: 370243429, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Media Drum World"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Profimedia, Media Drum World
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Nakon što je posjetila nekolicinu lijeènika koji nisu uspjeli olakšati njezinu patnju, Vedika je ostala osuðena na obiène losione za tijelo koji spreèavaju sušenje njezine kože.</p><p>No, nedavno su èuli za tretman koji je izlijeèio jednog bolesnika te je njezina obitelj odluèila progovoriti javno o Vedikinoj bolesti kako bi prikupila novac za istu terapiju.</p><p>- Ne mogu izaæi na sunce. Svaki put kad kroèim van, zadobijem opekline. Moja koža se guli, a ponekad i krvari.</p><p>Stoga Vedika provodi vrijeme uèeæi, slikajuæi i gledajuæi televiziju sama u kuæi.</p><p>Njezina sestra <strong>Sunidhi </strong>(20) pati od istog poremeæaja te je takoðer postala povuèena; odbija zabave i druženja zbog straha što æe drugi reæi kad je vide.</p><p>- Moja starija kæi koja ima isti kožni poremeæaj stalno je zatvorena u sobi. Sada je odrasla žena svjesna svog izgleda i izbjegava kontakt s ljudima te izlazak pred kameru - kazala je njihova majka<strong> Madhuri Gupta</strong> (45).</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/profimedia-0370243446jpg/7312005" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/profimedia-0370243446jpg/7312005/ALTERNATES/FREE_380/profimedia-0370243446.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/profimedia-0370243446jpg/7312005/BINARY/thumbnail/profimedia-0370243446.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="THIS TRAGIC teenager, known locally as Snake Girl, is forced to live in isolation after being stricken with a condition that causes her skin to bleed upon contact with sunlight. Images show the 13-year-old girl posing for the camera as she bashfully displays the skin disorder which is aggravated when she goes into the sun. In a short clip the girl explained the affect sunlight has on her skin while also recalling the problems she faced at school. Her parents are raising money in a desperate bid to treat her condition. Vedika Gupta, from Indore, India, suffers from Ichthyosis, a genetic disorder that affects just one in 200,000 people. The condition has confined her to her room and forced her to lead a life of isolation. Sujanya Das / Newslions / mediadrumworld.com, Image: 370243446, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Media Drum World"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Profimedia, Media Drum World
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Nakon što ih konvencionalna medicina nije uspjela izlijeèiti, pokušali su s homeopatijom, što je samo pogoršalo stanje.</p><p>- Postalo je tako loše da su se djevojke stalno èešale, a iz pukotina kože je krvarilo.</p><p>Sada se nadaju da æe skupiti novac za lijek koji je izlijeèio <strong>Shalini Yadav</strong>, takoðer iz Indije.</p><p>- Odveli su je u Španjolsku i tamo su je lijeèili. Reèeno nam je da su doktori dali formulu za lijek indijskoj farmaceutskoj kompaniji i da bi on trebao biti dostupan i u Indiji. Samo želim da se moje kæeri više ne pate. Kod kuæe im ugaðam koliko mogu, no vani je patnja s kojom se suoèavaju, i ne mogu ništa po tom pitanju.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/profimedia-0370243569jpg/7312011" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/profimedia-0370243569jpg/7312011/ALTERNATES/FREE_380/profimedia-0370243569.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/profimedia-0370243569jpg/7312011/BINARY/thumbnail/profimedia-0370243569.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="THIS TRAGIC teenager, known locally as Snake Girl, is forced to live in isolation after being stricken with a condition that causes her skin to bleed upon contact with sunlight. Images show the 13-year-old girl posing for the camera as she bashfully displays the skin disorder which is aggravated when she goes into the sun. In a short clip the girl explained the affect sunlight has on her skin while also recalling the problems she faced at school. Her parents are raising money in a desperate bid to treat her condition. Vedika Gupta, from Indore, India, suffers from Ichthyosis, a genetic disorder that affects just one in 200,000 people. The condition has confined her to her room and forced her to lead a life of isolation. Sujanya Das / Newslions / mediadrumworld.com, Image: 370243569, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Media Drum World"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Profimedia, Media Drum World
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>- Ako dobijem pomoæ kao Shalini, moæi æu voditi dostojanstven život. Ako postoji tretman koji æe stanje moje kože poboljšati i za 50 posto, moje samopouzdanje bi naraslo, kaže Vedika.</p><p>Vedikin otac kazao je da je tretman jako skup i da nema novaca da ga sami plate.</p><p>- Molim sve dobre duše da ako mogu pomognu u lijeèenju mojih kæeri - apelirao je.</p><p>Kako donirati novac saznajte <strong><a href="https://milaap.org/fundraisers/snake-skin-girl">ovdje</a></strong>.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7278201 p").filter(function () {
+$("#content-body-6263871-7311909 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1322,16 +1413,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7278201").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7311909").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7278201").children().slice(max).remove();
+$("#content-body-6263871-7311909").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7278201").children().get(0);
+var firstChild = $("#content-body-6263871-7311909").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1369,13 +1460,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/poreme%C4%87aj" class ="label label-default" >
-poremeæaj
+<a href="https://www.jutarnji.hr/tag/Indija" class ="label label-default" >
+Indija
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/genetske_bolesti" class ="label label-default" >
-genetske bolesti
+<a href="https://www.jutarnji.hr/tag/ko%C5%BEna_bolest" class ="label label-default" >
+kožna bolest
 </a>
 </li>
 </ul>
@@ -1386,36 +1477,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="znanost media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/po-prvi-put-u-europi-znanstvenici-ce-genetski-modificirati-ljude-osobe-koje-boluju-od-anemije-i-umora-trebale-bi-opet-postati-potpuno-zdrave/7247376/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/po-prvi-put-u-europi-znanstvenici-ce-genetski-modificirati-ljude-osobe-koje-boluju-od-anemije-i-umora-trebale-bi-opet-postati-potpuno-zdrave/7247376/">
-PO PRVI PUT U EUROPI ZNANSTVENICI ÆE GENETSKI MODIFICIRATI LJUDE Osobe koje boluju od anemije i umora trebale bi opet postati potpuno zdrave
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="obitelj-i-djeca media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/island-je-drzava-s-najmanje-djece-rodene-s-downim-sindromom-abortus-za-nas-nije-ubojstvo-tako-sprecavamo-patnju-za-dijete-i-obitelj/6467599/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/island-je-drzava-s-najmanje-djece-rodene-s-downim-sindromom-abortus-za-nas-nije-ubojstvo-tako-sprecavamo-patnju-za-dijete-i-obitelj/6467599/">
-ISLAND JE DRŽAVA S NAJMANJE DJECE ROÐENE S DOWNIM SINDROMOM 'Abortus za nas nije ubojstvo, tako spreèavamo patnju za dijete i obitelj'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1431,13 +1492,13 @@ ISLAND JE DRŽAVA S NAJMANJE DJECE ROÐENE S DOWNIM SINDROMOM 'Abortus za nas nije
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1449,8 +1510,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1462,13 +1523,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1480,8 +1541,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1493,13 +1554,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1511,8 +1572,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1524,17 +1585,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1542,9 +1603,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1626,7 +1686,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7278201" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7311909" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1670,18 +1730,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-MUTACIJA GENA </a>
+<a href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/">
+INTERVJU SA SUZY WENGEL
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/">
-'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'
+<a href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/">
+AUTORICA NOVE HIT-DIJETE KOJA JE ZALUDJELA SVIJET Ovo je najjednostavniji naèin prehrane na planetu, kolièinu mjerite šakama, zabranjene hrane - nema!
 </a>
 </h4>
 </div>
@@ -1691,19 +1752,19 @@ MUTACIJA GENA </a>
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-NE SRAME SE
+<a href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/">
+PREKOBROJNI KRALJEŽAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-nogirala-sam-svog-17-godisnjeg-vrsnjaka-zbog-frajera-starijeg-od-mog-tate-tinejdzerica-majci-predstavila-novog-decka-oca-troje-djece/7278435/">
-FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE' Tinejdžerica majci predstavila novog deèka, oca troje djece
+<a href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/">
+U ZAGREBU USPJEŠNO IZVEDENA ZAHTJEVNA, RIZIÈNA I RIJETKA ORTOPEDSKA OPERACIJA Matija je imao deformaciju kralježnice, ali sada je potpuno izlijeèen
 </a>
 </h4>
 </div>
@@ -1713,18 +1774,19 @@ FOTO: 'NOGIRALA SAM SVOG 17-GODIŠNJEG VRŠNJAKA ZBOG FRAJERA STARIJEG OD MOG TATE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-DVOSTRUKA SREÆA </a>
+<a href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/">
+SKUPLJA ZA LIJEÈENJE
+</a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/jedan-od-najbogatijih-hrvata-postao-otac-blizanki-nakon-razvoda-od-prve-zene-razmisljao-je-o-suicidu-a-onda-je-otisao-na-ples-sa-zvijezdama/7281363/">
-JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene razmišljao je o suicidu, a onda je otišao na 'Ples sa zvijezdama'...
+<a href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/">
+ZOVU JE 'DJEVOJÈICA ZMIJA' Tužna prièa o tinejdžerici koja je zbog strašne bolesti prisiljena živjeti u osami: 'Što sam zgriješila da ovako patim?'
 </a>
 </h4>
 </div>
@@ -1734,19 +1796,19 @@ JEDAN OD NAJBOGATIJIH HRVATA POSTAO OTAC BLIZANKI Nakon razvoda od prve žene raz
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zivotne-price media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-SANDA PANDŽA
+<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
+KAKO VAM SE ÈINI?
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/filmski-uspjeh-hrvatica-od-konobarice-bez-radne-dozvole-u-italiji-dogurala-do-zvjezdanog-biznisa-organizirala-sam-svadbu-toma-cruisea-i-p-ecclestone/7273395/">
-FILMSKI USPJEH Hrvatica od konobarice bez radne dozvole u Italiji dogurala do zvjezdanog biznisa: Organizirala sam svadbu Toma Cruisea i P. Ecclestone
+<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
+NAJNOVIJA DIJETA ZALUDJELA POLA SVIJETA Držite se ovih pravila i dobit æete rezultate ravne liposukciji
 </a>
 </h4>
 </div>
@@ -1784,19 +1846,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1804,8 +1866,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1894,6 +1956,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1957,7 +2024,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1972,7 +2039,7 @@ Seks i veze
 Putovanja
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zivotne-price/">
 Životne prièe
 </a>
@@ -2181,11 +2248,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2233,14 +2295,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2284,34 +2346,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=42&contextPath=1-32-42-&pubId=1&cat=&meta=read-story&objId=7278201&type=article&title=%26%23039%3bGodinama+sam+prou%c4%8davala+taj+izrazito+rijedak+poreme%c4%87aj%2c+a+onda+sam+se+smrznula+kad+mi+je+stigao+email+uglednog+hrvatskog+doktora%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fgodinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora%2f7278201%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=36&contextPath=1-32-36-&pubId=1&cat=&meta=read-story&objId=7311909&type=article&title=ZOVU+JE+%26%23039%3bDJEVOJ%c4%8cICA+ZMIJA%26%23039%3b+Tu%c5%bena+pri%c4%8da+o+tinejd%c5%beerici+koja+je+zbog+stra%c5%a1ne+bolesti+prisiljena+%c5%beivjeti+u+osami%3a+%26%23039%3b%c5%a0to+sam+zgrije%c5%a1ila+da+ovako+patim%3f%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fzovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim%2f7311909%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=42&amp;contextPath=1-32-42-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7278201&amp;type=article&amp;title=%26%23039%3bGodinama+sam+prou%c4%8davala+taj+izrazito+rijedak+poreme%c4%87aj%2c+a+onda+sam+se+smrznula+kad+mi+je+stigao+email+uglednog+hrvatskog+doktora%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzivotne-price%2fgodinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora%2f7278201%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=36&amp;contextPath=1-32-36-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7311909&amp;type=article&amp;title=ZOVU+JE+%26%23039%3bDJEVOJ%c4%8cICA+ZMIJA%26%23039%3b+Tu%c5%bena+pri%c4%8da+o+tinejd%c5%beerici+koja+je+zbog+stra%c5%a1ne+bolesti+prisiljena+%c5%beivjeti+u+osami%3a+%26%23039%3b%c5%a0to+sam+zgrije%c5%a1ila+da+ovako+patim%3f%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fzovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim%2f7311909%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=274528055&title=genetske+bolesti&url=tag%3ajltags%40eph.hr%2c2016%3agenetske_bolesti&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=778497714&title=ko%c5%bena+bolest&url=tag%3ajltags%40eph.hr%2c2016%3ako%25C5%25BEna_bolest&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=274528055&amp;title=genetske+bolesti&amp;url=tag%3ajltags%40eph.hr%2c2016%3agenetske_bolesti&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=778497714&amp;title=ko%c5%bena+bolest&amp;url=tag%3ajltags%40eph.hr%2c2016%3ako%25C5%25BEna_bolest&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&cat=jltags%40eph.hr%2c2016&objId=1278267847&title=poreme%c4%87aj&url=tag%3ajltags%40eph.hr%2c2016%3aporeme%25C4%2587aj&rt=1&ctxId=42&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=972235545&title=Indija&url=tag%3ajltags%40eph.hr%2c2016%3aIndija&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-42-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1278267847&amp;title=poreme%c4%87aj&amp;url=tag%3ajltags%40eph.hr%2c2016%3aporeme%25C4%2587aj&amp;rt=1&amp;ctxId=42&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=972235545&amp;title=Indija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIndija&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2364,7 +2426,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2374,14 +2436,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zivotne-price/godinama-sam-proucavala-taj-izrazito-rijedak-poremecaj-a-onda-sam-se-smrznula-kad-mi-je-stigao-email-uglednog-hrvatskog-doktora/7278201/",
-postId : "7278201",
+url : "https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/",
+postId : "7311909",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "'Godinama sam prouèavala taj izrazito rijedak poremeæaj, a onda sam se smrznula kad mi je stigao email uglednog hrvatskog doktora'",
-pubdate : "2018-04-24 00:00",
-authors : "Silvija Novak",
-sections : "Front Page, Life, Životne prièe",
-tags : "genetske bolesti, poremeæaj",
+title : "ZOVU JE 'DJEVOJÈICA ZMIJA' Tužna prièa o tinejdžerici koja je zbog strašne bolesti prisiljena živjeti u osami: 'Što sam zgriješila da ovako patim?'",
+pubdate : "2018-05-03 23:00",
+authors : "Sanja Žordiæ",
+sections : "Front Page, Life, Zdravlje",
+tags : "kožna bolest, Indija",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

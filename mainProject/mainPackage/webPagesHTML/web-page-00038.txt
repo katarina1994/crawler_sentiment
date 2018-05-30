@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="" />
-<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Gotovo 200 tisuæa ljudi iz Bosne i Hercegovine okupila je Facebook skupina pod nazivom &#034;Pravda za Davida&#034;, a svi oni jedinstveni su u ocjeni da režim Milorada Dodika prikriva èinjenice o ubojstvu 21-godišnjeg mladiæa, koji je pod sumnjivim okolnostima nedavno pronaðen mrtav u Banjoj Luci, dok ovaj sluèaj sve više prerasta u najveæi izazov za vlast predsjednika Republike Srpske Milorada Dodika." />
+<meta name="keywords" content="David Dragièeviæ, Milorad Dodik, Republika Srpska, Bosna i Hercegovina" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Trumpovi organizirali prvu državnu veèeru - Jutarnji List</title>
+<title>MISTERIOZNA SMRT MLADIÆA (21) TRESE DODIKOVU VLAST Otac tvrdi: &#039;Moj sin je ubijen, policija pokušava zaštititi poèinitelja!&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -41,76 +41,174 @@ dfpMobileMaxWidth = 960;
 dfpStickyMinWidth = 1024;
 dfpStickyUnitHeightLimit = 600;
 dfpStickyColumnHeightLimit = 680;
-dfpLazyUnitOffset = 1000;
+dfpLazyUnitOffset = 3000;
 dfpUnitRefresh = 15000;
 doClickTracking = false;
 dfpAdSlots = {};
 dfpLazyLoad = [];
 dfpUnits = {
-"fot" : {
-"div-gpt-ad-1504618478356-0" : {
-"slot" : "gallery1",
-"unit" : "pos1",
-"size" : [[300, 250], [970, 90], [970, 250], [320, 100], [2, 1]],
-"sizeType" : "pagebreak",
-"container" : "dfp-gallery-1",
-"lazyLoad" : true,
-"deviceType" : "all",
-"loaded" : false
+"cla" : {
+"div-gpt-ad-1459756830165-0" : {
+"slot" : "aside1",
+"unit" : "300x600",
+"size" : [[300, 600], [300, 1], [300, 1050], [300, 601], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-1",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
 },
-"div-gpt-ad-1504618478356-1" : {
-"slot" : "gallery2",
-"unit" : "pos2",
-"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 2]],
-"sizeType" : "pagebreak",
-"container" : "dfp-gallery-2",
-"lazyLoad" : true,
-"deviceType" : "all",
-"loaded" : false
 },
-"div-gpt-ad-1504618478356-2" : {
-"slot" : "gallery3",
-"unit" : "pos3",
-"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 3]],
-"sizeType" : "pagebreak",
-"container" : "dfp-gallery-3",
-"lazyLoad" : true,
-"deviceType" : "all",
-"loaded" : false
+"div-gpt-ad-1459756830165-1" : {
+"slot" : "aside2",
+"unit" : "300x602",
+"size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-2",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
 },
-"div-gpt-ad-1504618478356-3" : {
-"slot" : "gallery4",
-"unit" : "pos4",
-"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 4]],
-"sizeType" : "pagebreak",
-"container" : "dfp-gallery-4",
-"lazyLoad" : true,
-"deviceType" : "all",
-"loaded" : false
 },
-"div-gpt-ad-1504618478356-4" : {
-"slot" : "gallery5",
-"unit" : "pos5",
-"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 5]],
+"div-gpt-ad-1459756830165-2" : {
+"slot" : "billboard",
+"unit" : "bb_nav",
+"size" : [[1180, 150], [1180, 500], [970, 500], [970, 1000], [970, 90], [300, 100], [300, 150], [320, 100], [320, 50], [1180, 250], [300, 50], [1, 3], [970, 250], [970, 251]],
 "sizeType" : "pagebreak",
-"container" : "dfp-gallery-5",
+"container" : "jl-billboard-nav-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1462358187814-0" : {
+"slot" : "billboardbot",
+"unit" : "bb_bot",
+"size" : [[300, 250], [320, 100], [320, 50], [1180, 250], [970, 250], [970, 90], [1, 7]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-bot-wrapper",
 "lazyLoad" : true,
+"mobile" : true,
 "deviceType" : "all",
-"loaded" : false
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-7" : {
+"slot" : "inarticle1",
+"unit" : "ia_1",
+"size" : [[300, 50], [320, 50], [320, 100], [300, 150], [760, 250], [760, 500], [320, 480], [600, 250], [570, 250], [728, 90], [300, 100], [2, 1], [300, 250], [300, 605]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-1",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-8" : {
+"slot" : "inarticle2",
+"unit" : "ia_2",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [300, 100], [300, 150], [2, 2], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-2",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-9" : {
+"slot" : "inarticle3",
+"unit" : "ia_3",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [2, 3], [300, 100], [300, 150], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-3",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-6" : {
+"slot" : "float",
+"unit" : "float",
+"size" : [1, 1],
+"sizeType" : "outofpage",
+"container" : "jl-floater-wrapper",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-10" : {
+"slot" : "wallpaper",
+"unit" : "wp",
+"size" : "",
+"sizeType" : "outofpage",
+"container" : "jl-wallpaper-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
 },
 }
 };
 var dfpCountryCode = "HR";
-var dfpCurrentPageType = "fot";
+var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-dfpGalleryImgNum = parseInt("10") - 1;
-dfpGalleryUnitNum = Math.floor(dfpGalleryImgNum / 5);
-var dfpCategory = "Moda i ljepota";
-var dfpCategoryParent = "Life";
-var dfpRos = "life-ros";
-var dfpArticle = "7283779";
-var dfpArticleKeyword = "";
+var dfpCategory = "Svijet";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7331988";
+var dfpArticleKeyword = "David Dragièeviæ";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -495,6 +593,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
+<script>
+var elipsoResizeTimeout;
+function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
+if (!elipsoResizeTimeout) {
+elipsoResizeTimeout = setTimeout(function() {
+elipsoResizeTimeout = null;
+elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
+}, 250);
+}
+}
+function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var elipsoBreakpoint = 0;
+var elipsoBreakpoints = [768, 992, 1200];
+for (i = 0; i < elipsoBreakpoints.length; i++) {
+if (windowWidth >= elipsoBreakpoints[i]) {
+elipsoBreakpoint = elipsoBreakpoints[i];
+}
+}
+var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
+var elipsoIframeWH = elipsoIframeSize.split('x');
+var elipsoIframe = document.getElementById(elipsoIframeId);
+var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
+var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
+if (currentElipsoIframeSrc !== elipsoIframeSrc) {
+elipsoIframe.setAttribute("src", elipsoIframeSrc);
+elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
+elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
+elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
+elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
+}
+}
+</script>
+<style>
+.displaynone-upscore-hack {
+display: none ;
+}
+</style>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -502,8 +638,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/moda-i-ljepota/trumpovi-organizirali-prvu-drzavnu-veceru/7283779/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/moda-i-ljepota/trumpovi-organizirali-prvu-drzavnu-veceru/7283779/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/misteriozna-smrt-mladica-21-trese-dodikovu-vlast-otac-tvrdi-moj-sin-je-ubijen-policija-pokusava-zastititi-pocinitelja/7331988/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/misteriozna-smrt-mladica-21-trese-dodikovu-vlast-otac-tvrdi-moj-sin-je-ubijen-policija-pokusava-zastititi-pocinitelja/7331988/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -516,17 +652,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:title" content="Trumpovi organizirali prvu državnu veèeru" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/david-velikajpg/7332534/ALTERNATES/LANDSCAPE_1180/david-velika.jpg" />
+<meta property="og:image:width" content="1180" />
+<meta property="og:image:height" content="700" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/david-velikajpg/7332534/ALTERNATES/LANDSCAPE_1180/david-velika.jpg">
+<meta property="og:title" content="MISTERIOZNA SMRT MLADIÆA (21) TRESE DODIKOVU VLAST Otac tvrdi: 'Moj sin je ubijen, policija pokušava zaštititi poèinitelja!'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/moda-i-ljepota/trumpovi-organizirali-prvu-drzavnu-veceru/7283779/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/misteriozna-smrt-mladica-21-trese-dodikovu-vlast-otac-tvrdi-moj-sin-je-ubijen-policija-pokusava-zastititi-pocinitelja/7331988/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Gotovo 200 tisuæa ljudi iz Bosne i Hercegovine okupila je Facebook skupina pod nazivom "Pravda za Davida", a svi oni jedinstveni su u ocjeni da režim Milorada Dodika prikriva èinjenice o ubojstvu 21-godišnjeg mladiæa, koji je pod sumnjivim okolnostima nedavno pronaðen mrtav u Banjoj Luci, dok ovaj sluèaj sve više prerasta u najveæi izazov za vlast predsjednika Republike Srpske Milorada Dodika." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Damjan Rakniæ">
-<meta name="twitter:title" content="Trumpovi organizirali prvu državnu veèeru">
-<meta name="twitter:description" content="">
+<meta name="twitter:creator" content=" Hina">
+<meta name="twitter:title" content="MISTERIOZNA SMRT MLADIÆA (21) TRESE DODIKOVU VLAST Otac tvrdi: 'Moj sin je ubijen, policija pokušava zaštititi poèinitelja!'">
+<meta name="twitter:description" content="Gotovo 200 tisuæa ljudi iz Bosne i Hercegovine okupila je Facebook skupina pod nazivom "Pravda za Davida", a svi oni jedinstveni su u ocjeni da režim Milorada Dodika prikriva èinjenice o ubojstvu 21-godišnjeg mladiæa, koji je pod sumnjivim okolnostima nedavno pronaðen mrtav u Banjoj Luci, dok ovaj sluèaj sve više prerasta u najveæi izazov za vlast predsjednika Republike Srpske Milorada Dodika.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -537,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -549,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Moda i ljepota, Life, Front Page",
-pubdate: "2018-04-25T08:49+02:00",
-author: "Damjan Rakniæ",
+data: { section: "Svijet, Vijesti, Front Page",
+pubdate: "2018-05-08T14:44+02:00",
+author: "Hina",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="life gallery">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -603,11 +743,32 @@ $("#related-news-box").remove();
 </script>
 <div class="container">
 <header class="mainHead " role="banner">
-<a name="top"></a>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId : '156538244364753',
+xfbml : true,
+version : 'v2.10'
+});
+FB.AppEvents.logPageView();
+};
+(function(d, s, id){
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<a name="top"></a>
+<div class="row " >
+<div class="col-sm-12 ">
+</div>
+</div>
 <div class="row " >
 <div class="col-sm-12 ">
 <div class="col-sm-12 col-lg-8 col-lg-push-2 ">
@@ -617,6 +778,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 <nav class="navbar main_nav "
 role="navigation" >
+<a href="#" class="mSiteSearch"><span class="text-hide">Pretraži</span></a>
 <div class="navbar-header">
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
 <span class="icon-bar"></span>
@@ -631,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -646,7 +808,7 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
@@ -701,7 +863,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -724,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -814,7 +981,7 @@ Putovanja
 VauMijau
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
 Moda i ljepota
 </a>
@@ -960,66 +1127,54 @@ Mozgalice
 </div>
 </div>
 </div>
+<div id="searchBox">
+<form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Pretraži Jutarnji.hr" value="" />
+<button type="submit">Submit</button>
+</div>
+</form>
+</div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/life/">Life </a>
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/moda-i-ljepota/">Moda i ljepota </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
-Obitelj i djeca
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/tehnologija/">
-Tehnologija
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/znanost/">
-Znanost
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zdravlje/">
-Zdravlje
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/seks-i-veze/">
-Seks i veze
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/putovanja/">
-Putovanja
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zivotne-price/">
-Životne prièe
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/vaumijau/">
-VauMijau
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
-Moda i ljepota
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/astro/">
-Astro
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
-Buduænost zdravstva
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1028,43 +1183,42 @@ Buduænost zdravstva
 </div>
 </div>
 </header>
-<section class="row">
-<section class=" col-sm-8" role="main">
-<div class="row articleWrapper articleGalleryWrapper skin-6 " >
+<section role="main">
+<div class="row dfp-no-padding " >
 <div class="col-sm-12 ">
-<div class=" ">
-<section class="lead_image ">
-<article class="moda-i-ljepota media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/1jpg/7283722" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/1jpg/7283722/ALTERNATES/WIDE_380/1.jpg"
-data-variant="WIDE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/1jpg/7283722/BINARY/thumbnail/1.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="United States President Donald Trump and first lady wait to welcome French President Emmanuel Macron and his wife Brigitte for a State Dinner at the White House in Washington, U.S., April 24, 2018. REUTERS/ - RC1C1C8B7B30"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Brian Snyder / REUTERS
-</span>
+<section>
+<div id="jl-billboard-nav-wrapper" class="jl-billboard-nav">
+<div id="div-gpt-ad-1459756830165-2">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-2"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-2");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
 </div>
 </div>
-</div>
-</article>
 </section>
-<div class="header ahgh col-sm-12 col-md-10 col-md-push-1 ">
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-POSJET MACRONOVIH SAD-u
+PROSVJEDI U BOSNI
 </p>
 <h1
 class="title">
-Trumpovi organizirali prvu državnu veèeru
+MISTERIOZNA SMRT MLADIÆA (21) TRESE DODIKOVU VLAST Otac tvrdi: 'Moj sin je ubijen, policija pokušava zaštititi poèinitelja!'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1072,7 +1226,7 @@ Trumpovi organizirali prvu državnu veèeru
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/damjan-raknic">Damjan Rakniæ</a></li>
+<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
 </ul>
 </p>
 </li>
@@ -1080,215 +1234,502 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 08:49
+08.05.2018. u 14:44
 </p>
 </li>
 </ul>
 </div>
 </div>
 </div>
-<section>
-<article class="moda-i-ljepota listBox media ">
+<div class="row article_body jl-scroll-container " >
+<div class="col-sm-8 " >
+<section class="lead_image ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/2jpg/7283728" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/david-velikajpg/7332534" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">1</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">9</span>
-</div>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/2jpg/7283728/ALTERNATES/FREE_380/2.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/2jpg/7283728/BINARY/thumbnail/2.jpg"
+<img src="https://www.jutarnji.hr/incoming/david-velikajpg/7332534/ALTERNATES/LANDSCAPE_380/david-velika.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/david-velikajpg/7332534/BINARY/thumbnail/david-velika.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="United States President Donald Trump and first lady Melania Trump welcome French President Emmanuel Macron and his wife Brigitte for a State Dinner at the White House in Washington, U.S., April 24, 2018. REUTERS/ - RC1E1AC26A60"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Brian Snyder / REUTERS
+<span> Facebook 'Pravda za Davida'
 </span>
 </div>
 </div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/life/moda-i-ljepota/2jpg/7283728/BINARY/original/2.jpg" data-title="2.jpg" data-media="https://www.jutarnji.hr/life/moda-i-ljepota/2jpg/7283728/BINARY/original/2.jpg"></div>
 </div>
-</li>
-</ul>
-</div>
-</article>
+</section>
+</section>
+<div class=" ">
+<section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
-<article class="moda-i-ljepota listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/3jpg/7283731" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">2</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">9</span>
-</div>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/3jpg/7283731/ALTERNATES/FREE_380/3.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/3jpg/7283731/BINARY/thumbnail/3.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="United States President and first lady welcome French President Emmanuel Macron and his wife Brigitte for a State Dinner at the White House in Washington, U.S., April 24, 2018. REUTERS/ - RC14AD510210"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Brian Snyder / REUTERS
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/life/moda-i-ljepota/3jpg/7283731/BINARY/original/3.jpg" data-title="3.jpg" data-media="https://www.jutarnji.hr/life/moda-i-ljepota/3jpg/7283731/BINARY/original/3.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-<section>
-<article class="moda-i-ljepota listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/4jpg/7283734" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">3</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">9</span>
-</div>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/4jpg/7283734/ALTERNATES/FREE_380/4.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/4jpg/7283734/BINARY/thumbnail/4.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="United States President Donald Trump and first lady Melania Trump welcome French President Emmanuel Macron and his wife Brigitte for a State Dinner at the White House in Washington, U.S., April 24, 2018. REUTERS/ - RC1DC0236080"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Brian Snyder / REUTERS
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/life/moda-i-ljepota/4jpg/7283734/BINARY/original/4.jpg" data-title="4.jpg" data-media="https://www.jutarnji.hr/life/moda-i-ljepota/4jpg/7283734/BINARY/original/4.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-<section>
-<article class="moda-i-ljepota listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/5jpg/7283737" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">4</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">9</span>
-</div>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/5jpg/7283737/ALTERNATES/FREE_380/5.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/5jpg/7283737/BINARY/thumbnail/5.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="United States President Donald Trump and first lady Melania Trump welcome French President Emmanuel Macron and his wife Brigitte for a State Dinner at the White House in Washington, U.S., April 24, 2018. REUTERS/ - RC19DC2F8AB0"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Brian Snyder / REUTERS
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/life/moda-i-ljepota/5jpg/7283737/BINARY/original/5.jpg" data-title="5.jpg" data-media="https://www.jutarnji.hr/life/moda-i-ljepota/5jpg/7283737/BINARY/original/5.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-<section>
-<article class="moda-i-ljepota listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/6jpg/7283740" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">5</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">9</span>
-</div>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/6jpg/7283740/ALTERNATES/FREE_380/6.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/6jpg/7283740/BINARY/thumbnail/6.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="United States President Donald Trump and first lady Melania Trump welcome French President Emmanuel Macron and his wife Brigitte for a State Dinner at the White House in Washington, U.S., April 24, 2018. REUTERS/ - RC131AFC5BA0"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Brian Snyder / REUTERS
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/life/moda-i-ljepota/6jpg/7283740/BINARY/original/6.jpg" data-title="6.jpg" data-media="https://www.jutarnji.hr/life/moda-i-ljepota/6jpg/7283740/BINARY/original/6.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-<div class="dfp-gallery-unit">
-<div id="dfp-gallery-1" class="dfp-unit">
-<div id="div-gpt-ad-1504618478356-0">
+<div id="jl-inarticle-wrapper-1" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-7">
 <script type='text/javascript'>
-var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-0'];
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-7"];
 if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
 googletag.cmd.push(function() {
-var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-0');
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-7");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+<section id="CImaincontent" class="ci_body ">
+<div id="content-body-6263871-7331988"
+>
+<p>Gotovo 200 tisuæa ljudi iz Bosne i Hercegovine okupila je Facebook skupina pod nazivom &quot;Pravda za Davida&quot;, a svi oni jedinstveni su u ocjeni da režim <strong>Milorada Dodika</strong> prikriva èinjenice o ubojstvu 21-godišnjeg mladiæa, koji je pod sumnjivim okolnostima nedavno pronaðen mrtav u Banjoj Luci, dok ovaj sluèaj sve više prerasta u najveæi izazov za vlast predsjednika Republike Srpske <strong>Milorada Dodika</strong>. </p><p>Sve je poèelo kao borba èlanova obitelji za istinu o okolnostima tragedije koja se dogodila prije nešto više od mjesec dana, no sluèaj postupno sve više postaje povod velike predizborne politièke borbe izmeðu aktualne vlasti u Republici Srpskoj te oporbe i graðana, nezadovoljnih policijom, pravosuðem ali i politikom, te se pretvara se u najveæi izazov za Dodikovu višegodišnju autokratsku vladavinu.</p><p>U koritu Vrbasa u Banjoj Luci 24. ožujka pronaðeno je tijelo mladiæa <strong>Davida Dragièeviæa</strong>, èiji su nestanak èlanovi obitelji prijavili 18. ožujka. Policija je nakon dva dana objavila kako je rijeè o utapljanju odnosno o &quot;sluèajnoj smrti,&quot; a prema policijskoj rekonstrukciji Dragièeviæ se te noæi navodno potukao u jednom kafiæu te potom provalio u jednu kuæu, ukrao raèunalo i novac te potom pod nerazjašnjenim okolnostima završio mrtav u rijeci.</p><p>Naèelnik odjela za teški kriminalitet MUP-a RS <strong>Darko Iliæ</strong> ustvrdio je kako u Dragièeviæevoj smrti nema elemenata kaznenog djela te kako je rijeè o nesretnom sluèaju.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/david_dragicevic45-260418jpg/7299019" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/david_dragicevic45-260418jpg/7299019/ALTERNATES/FREE_380/david_dragicevic45-260418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/david_dragicevic45-260418jpg/7299019/BINARY/thumbnail/david_dragicevic45-260418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Banja Luka, 260418.
+U Banjoj Luci svaki dan u 18 sati odrzava se prosvjed gradjana zbog misteriozne smrti 21-godisnjeg Davida Dragicevica, Banjolucanina koji je preminuo pod nepoznatim okolnostima prije mjesec dana.
+Na fotografiji: Otac ubijenog Davida Davor Dragicevic na prosvjedu.
+Foto: Robert Fajt / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Robert Fajt / CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4> Otac ubijenog Davida Davor Dragièeviæ </h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Obitelj Davida Dragièeviæa odmah je posumnjala u policijske navode, a naknadno se ispostavilo kako je na mladiæevom tijelu zapravo pronaðen niz teških fizièkih ozljeda, što je potvrdio i patolog <strong>Željko Karan</strong> koji je obavio obdukciju tijela. Po njegovim rijeèima radi se o ozljedama nastalim &quot;tupom mehanièkom silom&quot;, koje mogu biti rezultat sukoba s jednom ili više osoba.</p><p>Otac Darko stoga je kazao kako vjeruje da je njegov sin zapravo ubijen te da netko, ukljuèujuæi policiju, pokušava zaštiti poèinitelja ili poènitelje tog zloèina. Zatražio je novu istragu, a ona je i otvorena, ukljuèujuæi novu obdukciju koju je proveo patolog doveden iz Beograda, no policija je i nakon toga ostala pri prvobitnoj tvrdnji.</p><p>“Zakljuèak je da nema elemenata kaznenog djela. David nije ubijen i pretuèen tako da su povrede izazvale smrt, a to je potvrdio i beogradski patolog”, kazao je ministar unutarnjih oslova RS Dragan Lukaè.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/david_dragicevic20-260418jpg/7332351" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/david_dragicevic20-260418jpg/7332351/ALTERNATES/FREE_380/david_dragicevic20-260418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/david_dragicevic20-260418jpg/7332351/BINARY/thumbnail/david_dragicevic20-260418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Banja Luka, 260418.
+U Banjoj Luci svaki dan u 18 sati odrzava se prosvjed gradjana zbog misteriozne smrti 21-godisnjeg Davida Dragicevica, Banjolucanina koji je preminuo pod nepoznatim okolnostima prije mjesec dana.
+Na fotografiji: Prosvjed Banjolucana u centru grada.
+Foto: Robert Fajt / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Robert Fajt / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Ispostavilo se ipak kako u prvobitnoj istrazi ipak nije sve bilo savršeno pa su tako potvrðeni propusti policajaca koji su obavili oèevid u kuæi iz koje je David Dragièeviæ navodno ukrao prijenosno raèunalo i novac. Zbog toga su smijenjeni zapovjednik policijske postaje i njegov zamjenik.</p><p>No obitelj ne misli da je to dovoljno i ne odustaje od zahtjeva za utvrðivanjem istine te poziva sve Davidove prijatelje na prosvjedna okupljanja na središnjem banjoluèkom Trgu krajine. Od kraja ožujka tamo se svake veèeri okupljaju na stotine onih koji vjeruju kako je David ubijen i traže uèinkovitu i neovisnu istragu.</p><p>Okupljanjima se u jednom trenutku pridružio i Dodik tvrdeæi kako i on želi da se utvrdi puna istina. Nakon toga meðu prosvjednike poèinju dolaziti i èelnici oporbe poput predsjednika Partije demokratskog progresa (PDP) <strong>Branislava Borenoviæa</strong> i èlana vodstva Srpske demokratske stranke (SDS) i ministra sigurnosti BiH <strong>Dragana Mektiæa</strong>, koji takoðer pružaju potporu obitelji Dragièeviæ.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/david_dragicevic22-260418jpg/7332354" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/david_dragicevic22-260418jpg/7332354/ALTERNATES/FREE_380/david_dragicevic22-260418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/david_dragicevic22-260418jpg/7332354/BINARY/thumbnail/david_dragicevic22-260418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Banja Luka, 260418.
+U Banjoj Luci svaki dan u 18 sati odrzava se prosvjed gradjana zbog misteriozne smrti 21-godisnjeg Davida Dragicevica, Banjolucanina koji je preminuo pod nepoznatim okolnostima prije mjesec dana.
+Na fotografiji: Prosvjed Banjolucana u centru grada.
+Foto: Robert Fajt / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Robert Fajt / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Dodik ubrzo prepoznaje opasnost u stalnim prosvjedima u središtu Banje Luke i verbalno se sukobljava s ocem ubijenog mladiæa koji je poruèio kako vlast krije Davidove ubojice te kako neæe odustati od borbe da tu tvrdnju i dokaže. </p><p>&quot;Ja sam obitelji stradalog mladiæa dao sve što su tražili. Bio sam kuæi kad se saznalo za smrt Davida Dragièeviæa, bio sam na sahrani, primio sam ih na sastanak u svoj ured, bio sam i na prosvjedima ali naprosto vidim da je ta politizacija prevršila mjeru i da to traganje za istinom poprima sve više politièki znaèaj, ne krivicom obitelji nego krivnjom oporbe&quot;, izjavio je Dodik.</p><p>Pozvao je i da se prekine s manifestacijama &quot;po ulicama&quot; te da se istraga prepusti &quot;institucijama&quot;.</p><p>Ubrzo nakon toga stigla je i prijetnja Davoru Dragièeviæu iz MUP-a RS kako æe protiv njega podnijeti kaznenu prijavu jer bez dokaza iznosi optužbe na raèun policije.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/david_dragicevic26-260418jpg/7332357" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/david_dragicevic26-260418jpg/7332357/ALTERNATES/FREE_380/david_dragicevic26-260418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/david_dragicevic26-260418jpg/7332357/BINARY/thumbnail/david_dragicevic26-260418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Banja Luka, 260418.
+U Banjoj Luci svaki dan u 18 sati odrzava se prosvjed gradjana zbog misteriozne smrti 21-godisnjeg Davida Dragicevica, Banjolucanina koji je preminuo pod nepoznatim okolnostima prije mjesec dana.
+Na fotografiji: Otac ubijenog Davida Davor Dragicevic na prosvjedu.
+Foto: Robert Fajt / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Robert Fajt / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Ministar sigurnosti BiH Mektiæ je pak poruèio obitelji Dragièeviæ da istraju u svojim zahtjevima da se utvrdi istina i obeæao je svaku vrstu potpore. &quot;U okupljanju naroda oni (vlast RS) vide politièku prijetnju iako je samo u pitanju rješavanje problema smrti jednog banjoluèkog mladiæa za kojega se pretpostavlja da je i sam vrh MUP-a RS uvuèen u èitav taj dogaðaj ili je znaèajno dao doprinos da se ne rasvijetli ovaj sluèaj&quot;, izjavio je Mektiæ. Poruèio je i kako æe SDS poduzeti sve da zaštiti narod ukoliko policija silom pokuša onemoguæiti nastavak prosvjeda. </p><p>Dodik je odgovorio sugestijom kako je u pozadini svega obavještajna urota. Obrazložio je to konstatacijom kako su upravo izjave poput Mektiæeve dokaz da se prosvjedima upravlja iz oporbe, ali i iz Federacije BiH, optuživši medije u tome entitetu da neprestano podgrijavaju ovu temu. &quot;Oni upravljaju tim procesima i zlorabe prosvjede&quot;, ustvrdio je Dodik.</p><p>Darko Dragièeviæ je poruèio kako ga nikakve prijetnje neæe zastrašiti pa ni optužbe da prosvjeduje u interesu oporbe.</p><p>&quot;Milorad (Dodik) je svojom izjavom (u ovo) uvukao politiku. Odsad æemo i mi tako&quot;, najavio je otac ubijenog studenta elektrotehnike.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/david_dragicevic36-260418jpg/7332360" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/david_dragicevic36-260418jpg/7332360/ALTERNATES/FREE_380/david_dragicevic36-260418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/david_dragicevic36-260418jpg/7332360/BINARY/thumbnail/david_dragicevic36-260418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Banja Luka, 260418.
+U Banjoj Luci svaki dan u 18 sati odrzava se prosvjed gradjana zbog misteriozne smrti 21-godisnjeg Davida Dragicevica, Banjolucanina koji je preminuo pod nepoznatim okolnostima prije mjesec dana.
+Na fotografiji: Prosvjed Banjolucana u centru grada.
+Foto: Robert Fajt / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Robert Fajt / CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>O sluèaju Davida Dragièeviæa bi na posebnoj sjednici 10. svibnja trebala raspravljati Narodna skupština Republike Srpske, a otac Darko je potvrdio kako æe i on tamo istupiti i obrazložiti svoje tvrdnje kako je rijeè o planiranom ubojstvu te kako raspolaže imenima šest do sedam odgovornih.</p><p>Komentirajuæi cijeli sluèaj sudac Suda BiH <strong>Branko Periæ </strong>je, u kolumni koju su objavile banjoluèke &quot;Nezavisne novine&quot;, upozorio kako su i ministar policije Lukaè i Dodik pogrešno shvatili svoju ulogu petljajuæi se u ono što im nije posao. Pokazalo se kako ni jedan ni drugi ne razumiju ulogu pravosuða odnosno tužiteljstva èija je zadaæa voditi istragu pa su se kompromitirali i sada zbog toga plaæaju cijenu.</p><p>&quot;Mogao je predsjednik (Dodik) pretpostaviti da uplitanje u konkretan sluèaj smrti postaje presedan koji æe tražiti da se i ubuduæe miješa u svaki slièan sluèaj ili da æe se osnovano postavljati pitanje zašto se baš umiješao u ovaj sluèaj. Državnièka mudrost ne traži rijeèi i olako povlaèenje poteza, nego razum. Nije slatkorjeèiva prièa uvijek saveznik, pogotovo ne u vrijeme izborne kampanje. U njoj blijede i najveæe mudrosti&quot;, zakljuèio je sudac Suda BiH Periæ.</p><p>
+<section>
+<article class="globus-politika media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/banja-luka-prosvjed25-14051jpg/7067052" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/globus/Globus-politika/banja-luka-prosvjed25-14051jpg/7067052/ALTERNATES/FREE_380/banja-luka-prosvjed25-14051.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/globus/Globus-politika/banja-luka-prosvjed25-14051jpg/7067052/BINARY/thumbnail/banja-luka-prosvjed25-14051.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Robert Fajt / HANZA MEDIA
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Milorad Dodik</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p>
+</div>
+<script type="text/javascript" language="javascript">
+$(document).ready(function () {
+// Removing empty paragraphs first
+$("#content-body-6263871-7331988 p").filter(function () {
+var html = $.trim($(this).html());
+if (html == '' || html == '&nbsp;')
+return true;
+}).remove();
+// Taking a subset of paragraphs using offset and maximum
+var offset = 1;
+var max = -1;
+if (offset > 1) {
+$("#content-body-6263871-7331988").children().slice(0, offset - 1).remove();
+}
+if (max > -1) {
+$("#content-body-6263871-7331988").children().slice(max).remove();
+}
+// Show dateline field at the beginning of the first paragraph
+var showDateline = true;
+var datelineStr = "";
+if (offset <= 1 && showDateline == true && datelineStr != "") {
+var firstChild = $("#content-body-6263871-7331988").children().get(0);
+if ("P" == firstChild.nodeName.toUpperCase()) {
+$(firstChild).prepend("<span>" + datelineStr + " - </span>");
+}
+else {
+$(firstChild).before("<span>" + datelineStr + "</span>");
+}
+}
+});
+</script>
+</section>
+<section>
+<div id="inArticleBanner">
+<div id="jl-inarticle-wrapper-2" class="jl-inarticle-wrapper">
+<div id="jl-inarticle-2" class="jl-inarticle">
+<!-- /11425286/jl_cla_ia_2 -->
+<div id='div-gpt-ad-1459756830165-8'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459756830165-8'); });
+</script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+if ($("[id^='content-body-'] > p").length < 3) {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 - 1));
+}
+});
+</script>
+</section>
+<div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/Bosna_i_Hercegovina" class ="label label-default" >
+Bosna i Hercegovina
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Republika_Srpska" class ="label label-default" >
+Republika Srpska
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Milorad_Dodik" class ="label label-default" >
+Milorad Dodik
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/David_Dragi%C4%8Devi%C4%87" class ="label label-default" >
+David Dragièeviæ
+</a>
+</li>
+</ul>
+</div>
+<div id="related-news-box"
+class="rel_art_ib ">
+<h3>
+Vezane vijesti
+</h3>
+<section>
+<article class="svijet media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/jutarnji-u-uzavrelom-gradu-trazi-se-pravda-za-davida-policija-kaze-da-je-drogiran-opljackao-kucu-pao-u-kanal-i-utopio-se-ali-u-to-nitko-ne-vjeruje/7299037/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/jutarnji-u-uzavrelom-gradu-trazi-se-pravda-za-davida-policija-kaze-da-je-drogiran-opljackao-kucu-pao-u-kanal-i-utopio-se-ali-u-to-nitko-ne-vjeruje/7299037/">
+JUTARNJI U UZAVRELOM GRADU: TRAŽI SE PRAVDA ZA DAVIDA Policija kaže da je drogiran opljaèkao kuæu, pao u kanal i utopio se, ali u to nitko ne vjeruje
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+</section>
+</div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div style="text-align:center;" class="addthis_responsive_sharing"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div class="row upscore-magicflow displaynone-upscore-hack " >
+<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
+<section class="upscore_promo1_4 ">
+<div class="row">
+<div class="col-xs-12" data-widget-position="0">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="1">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="2">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="3">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</section>
+</div>
+<div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-0");
 if (refreshTime > 0) {
 setInterval(function() {
 googletag.pubads().refresh([ dfpAdSlots[slot] ]);
@@ -1300,165 +1741,278 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </div>
 </div>
-</section>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Izdvajamo</span></div></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__302"></div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__301"></div>
+</div>
+</div>
+<div class="row jl-scroll-container " >
+<div class="col-sm-8 " >
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midas" class="center-block" style="width:100%; max-width:600px;">
+<div id="midasWidget__72"></div>
+<script async src="https://cdn.midas-network.com/Widget/IndexAsync/1?portalWidgetId=72&portalWidgetId=301&portalWidgetId=302" type="text/javascript"></script>
+</div>
+</div>
 <section>
-<article class="moda-i-ljepota listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">6</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">9</span>
-</div>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743/ALTERNATES/FREE_380/7.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743/BINARY/thumbnail/7.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="U.S. President Donald Trump, first lady Melania Trump, French President Emmanuel Macron and his wife Brigitte Macron attend a State Dinner at the White House in Washington, U.S. April 24, 2018. REUTERS/ - RC18BC841980"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Carlos Barria / REUTERS
-</span>
+<div id="jl-inarticle-wrapper-3" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-9">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-9"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-9");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
 </div>
 </div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743/BINARY/original/7.jpg" data-title="7.jpg" data-media="https://www.jutarnji.hr/life/moda-i-ljepota/7jpg/7283743/BINARY/original/7.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
 </section>
+</div>
+<div class="separator alt ">
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7331988" data-colorscheme="light" data-numposts="5"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-1">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-1"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0.00;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-1");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+<div class="jl-sticky-banner" style="margin-bottom:20px;">
+<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
+<script type="text/javascript">
+Criteo.events.push(function() {
+Criteo.DisplayAcceptableAdIfAdblocked({
+"zoneid": 1197956,
+"containerid": "crt-47675ba0",
+"overrideZoneFloor": false
+});
+});
+</script>
+</div>
+</div>
+</div>
+<div class="row hidden-xs " >
+<div class="col-sm-12 ">
+<div class="emp_block article_most_read sidebar ">
+<h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
+<div class="row">
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="moda-i-ljepota listBox media ">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/8jpg/7283746" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">7</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">9</span>
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+SAMO NEK' SE OKREÆE...
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
+</a>
+</h4>
 </div>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/8jpg/7283746/ALTERNATES/FREE_380/8.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/8jpg/7283746/BINARY/thumbnail/8.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="French President Emmanuel Macron and his wife Brigitte Macron attend a State Dinner hosted by U.S. President Donald Trump and first lady Melania Trump at the White House in Washington, U.S., April 24, 2018. REUTERS/ - RC1B9A2C84B0"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Carlos Barria / REUTERS
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/life/moda-i-ljepota/8jpg/7283746/BINARY/original/8.jpg" data-title="8.jpg" data-media="https://www.jutarnji.hr/life/moda-i-ljepota/8jpg/7283746/BINARY/original/8.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-<section>
-<article class="moda-i-ljepota listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/9jpg/7283749" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">8</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">9</span>
-</div>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/9jpg/7283749/ALTERNATES/FREE_380/9.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/9jpg/7283749/BINARY/thumbnail/9.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="U.S. President Donald Trump toasts French President Emmanuel Macron (not pictured) during a State Dinner at the White House in Washington, U.S. April 24, 2018. REUTERS/ - RC19F2AC50B0"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Carlos Barria / REUTERS
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/life/moda-i-ljepota/9jpg/7283749/BINARY/original/9.jpg" data-title="9.jpg" data-media="https://www.jutarnji.hr/life/moda-i-ljepota/9jpg/7283749/BINARY/original/9.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-<section>
-<article class="moda-i-ljepota listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/moda-i-ljepota/10jpg/7283725" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">9</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">9</span>
-</div>
-<img src="https://www.jutarnji.hr/life/moda-i-ljepota/10jpg/7283725/ALTERNATES/FREE_380/10.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/moda-i-ljepota/10jpg/7283725/BINARY/thumbnail/10.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="French President toasts U.S. President during a State Dinner at the White House in Washington, U.S. April 24, 2018. REUTERS/ - RC17FDA421C0"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Carlos Barria / REUTERS
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/life/moda-i-ljepota/10jpg/7283725/BINARY/original/10.jpg" data-title="10.jpg" data-media="https://www.jutarnji.hr/life/moda-i-ljepota/10jpg/7283725/BINARY/original/10.jpg"></div>
-</div>
-</li>
-</ul>
 </div>
 </article>
 </section>
 </div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
+<section>
+<article class="svijet media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+NE CVATU IM RUŽE
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+RAZOTKRIVENA TUŽNA SVAKODNEVNICA PRVE DAME AMERIKE Objavljeni nepoznati detalji iz života Melanije Trump: 'Cijela situacija je neugodna'
+</a>
+</h4>
+</div>
+</div>
+</article>
 </section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
+<section>
+<article class="svijet media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+GLOBALNA NAPETOST
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
+<section>
+<article class="svijet media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+PRIJELOMNI TRENUTAK
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-4 openInNewTab" >
+<section>
+<article class="banner-testing-page media none">
+<div class="teaser "
+data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="http://www.gloria.hr/">
+<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+<article class="fokus-zvjezdane-staze media c3 none">
+<div class="teaser link-block"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+</a>
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title text-small">
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
+</a>
+</h4>
+</div>
+</div>
+</article>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
+</div>
+</div>
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-bot-wrapper" class="jl-billboard-bot">
+<div id="div-gpt-ad-1462358187814-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1462358187814-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1462358187814-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
 </section>
 </div>
 <footer class="siteFoot ">
@@ -1484,7 +2038,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1507,6 +2061,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1597,7 +2156,7 @@ Putovanja
 VauMijau
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
 Moda i ljepota
 </a>
@@ -1796,31 +2355,154 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
 </div>
 </div>
 </footer>
+<script>
+function fbCommentGA() {
+FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'Facebook Comment', 'Posted', window.location.href, 1);
+});
+}
+window.onload = fbCommentGA;
+</script>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
 <script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
+<div id="jl-floater-wrapper" class="jl-floater-wrapper">
+<div id="jl-float" class="jl-floater">
+<!-- /11425286/jl_floater -->
+<div id='div-gpt-ad-1459756830165-6'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-6"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-6'); });
+}
+</script>
+</div>
+</div>
+</div>
+<div id="jl-wallpaper-wrapper" class="jl-wallpaper-wrapper">
+<div id="jl-wallpaper" class="jl-wallpaper">
+<!-- /11425286/jl_wp -->
+<div id='div-gpt-ad-1459756830165-10'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-10"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-10'); });
+}
+</script>
+</div> </div>
+</div>
+<div class="hidden-xs ">
+<div id="side-article-widget" class="side-article-widget" style="display: none;">
+<div class="clearfix">
+<div class="pull-left side-article-column">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<div class="side-article clearfix">
+<div class="pull-left side-article-image">
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
+</div>
+<div class="pull-right side-article-text-wrapper">
+<div class="side-article-text">
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
+<hr class="side-article-hr" />
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="pull-right side-control-column">
+<div class="side-control">
+<a href="#" class="side-button" data-status="open">&#9658;</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+$('#side-article-widget a.side-button').click(function (event) {
+event.preventDefault();
+var status = $(this).attr('data-status');
+if (status === 'open') {
+$('.side-article-column').fadeOut('fast');
+$(this).attr('data-status', 'close');
+$(this).html('&#9664;');
+} else {
+$('.side-article-column').fadeIn('fast');
+$(this).attr('data-status', 'open');
+$(this).html('&#9658;');
+}
+});
+$(window).scroll(function (event) {
+var turnOnHeight = 1500;
+var scrolled = $(window).scrollTop();
+if (scrolled > turnOnHeight) {
+$('#side-article-widget').fadeIn('fast');
+} else {
+$('#side-article-widget').fadeOut('fast');
+}
+});
+});
+</script>
+</div>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=35&contextPath=1-32-35-&pubId=1&cat=&meta=read-gallery&objId=7283779&type=article&title=Trumpovi+organizirali+prvu+dr%c5%beavnu+ve%c4%8deru&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fmoda-i-ljepota%2ftrumpovi-organizirali-prvu-drzavnu-veceru%2f7283779%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7331988&type=article&title=MISTERIOZNA+SMRT+MLADI%c4%86A+(21)+TRESE+DODIKOVU+VLAST+Otac+tvrdi%3a+%26%23039%3bMoj+sin+je+ubijen%2c+policija+poku%c5%a1ava+za%c5%a1tititi+po%c4%8dinitelja!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fmisteriozna-smrt-mladica-21-trese-dodikovu-vlast-otac-tvrdi-moj-sin-je-ubijen-policija-pokusava-zastititi-pocinitelja%2f7331988%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=35&amp;contextPath=1-32-35-&amp;pubId=1&amp;cat=&amp;meta=read-gallery&amp;objId=7283779&amp;type=article&amp;title=Trumpovi+organizirali+prvu+dr%c5%beavnu+ve%c4%8deru&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fmoda-i-ljepota%2ftrumpovi-organizirali-prvu-drzavnu-veceru%2f7283779%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7331988&amp;type=article&amp;title=MISTERIOZNA+SMRT+MLADI%c4%86A+(21)+TRESE+DODIKOVU+VLAST+Otac+tvrdi%3a+%26%23039%3bMoj+sin+je+ubijen%2c+policija+poku%c5%a1ava+za%c5%a1tititi+po%c4%8dinitelja!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fmisteriozna-smrt-mladica-21-trese-dodikovu-vlast-otac-tvrdi-moj-sin-je-ubijen-policija-pokusava-zastititi-pocinitelja%2f7331988%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=888046375&title=David+Dragi%c4%8devi%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aDavid_Dragi%25C4%258Devi%25C4%2587&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=888046375&amp;title=David+Dragi%c4%8devi%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDavid_Dragi%25C4%258Devi%25C4%2587&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1040182878&title=Milorad+Dodik&url=tag%3ajltags%40eph.hr%2c2016%3aMilorad_Dodik&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1040182878&amp;title=Milorad+Dodik&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMilorad_Dodik&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=826045856&title=Republika+Srpska&url=tag%3ajltags%40eph.hr%2c2016%3aRepublika_Srpska&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=826045856&amp;title=Republika+Srpska&amp;url=tag%3ajltags%40eph.hr%2c2016%3aRepublika_Srpska&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=654458215&title=Bosna+i+Hercegovina&url=tag%3ajltags%40eph.hr%2c2016%3aBosna_i_Hercegovina&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=654458215&amp;title=Bosna+i+Hercegovina&amp;url=tag%3ajltags%40eph.hr%2c2016%3aBosna_i_Hercegovina&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -1873,7 +2555,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/moda-i-ljepota/trumpovi-organizirali-prvu-drzavnu-veceru/7283779/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/misteriozna-smrt-mladica-21-trese-dodikovu-vlast-otac-tvrdi-moj-sin-je-ubijen-policija-pokusava-zastititi-pocinitelja/7331988/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -1883,14 +2565,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/moda-i-ljepota/trumpovi-organizirali-prvu-drzavnu-veceru/7283779/",
-postId : "7283779",
+url : "https://www.jutarnji.hr/vijesti/svijet/misteriozna-smrt-mladica-21-trese-dodikovu-vlast-otac-tvrdi-moj-sin-je-ubijen-policija-pokusava-zastititi-pocinitelja/7331988/",
+postId : "7331988",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Trumpovi organizirali prvu državnu veèeru",
-pubdate : "2018-04-25 08:49",
-authors : "Damjan Rakniæ",
-sections : "Front Page, Moda i ljepota",
-tags : "",
+title : "MISTERIOZNA SMRT MLADIÆA (21) TRESE DODIKOVU VLAST Otac tvrdi: 'Moj sin je ubijen, policija pokušava zaštititi poèinitelja!'",
+pubdate : "2018-05-08 14:44",
+authors : "Hina",
+sections : "Front Page, Vijesti, Svijet",
+tags : "David Dragièeviæ, Milorad Dodik, Republika Srpska, Bosna i Hercegovina",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

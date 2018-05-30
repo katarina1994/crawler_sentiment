@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="JUTARNJI DOZNAJE DETALJE LOVA NA LJUBOMORNOG SUPRUGA KOJI JE UŽETOM ZADAVIO SUPRUGU Policajci pronašli monstruma kako bezbrižno spava u šumarku, nakon što je spalio kuæu na bunaru je ostavio oproštajnu poruku koja ledi krv u žilama, otkrivamo što u njoj piše!" />
-<meta name="keywords" content="ubojstvo, Lipik" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<meta name="keywords" content="Dan pobjede nad fašizmom, Partizani, Globus" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Policajci pronašli monstruma koji je ubio suprugu kako bezbrižno spava, nakon zloèina na bunaru je ostavio oproštajnu poruku koja ledi krv u žilama - Jutarnji List</title>
+<title>DAN POBJEDE Zašto ga se Hrvatska srami?; BIO JE UTORAK, 8. SVIBNJA, KAO I DANAS Velika fotogalerija: Evo kako je izgledao ulazak partizana u Zagreb! - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "IE";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Crna kronika";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7285906";
-var dfpArticleKeyword = "ubojstvo";
+var dfpCategory = "Politika";
+var dfpCategoryParent = "Globus";
+var dfpRos = "globus-ros";
+var dfpArticle = "7332711";
+var dfpArticleKeyword = "Dan pobjede nad fašizmom";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/policajci-pronasli-monstruma-koji-je-ubio-suprugu-kako-bezbrizno-spava-nakon-zlocina-na-bunaru-je-ostavio-oprostajnu-poruku-koja-ledi-krv-u-zilama/7285906/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/policajci-pronasli-monstruma-koji-je-ubio-suprugu-kako-bezbrizno-spava-nakon-zlocina-na-bunaru-je-ostavio-oprostajnu-poruku-koja-ledi-krv-u-zilama/7285906/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-politika/dan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb/7332711/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-politika/dan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb/7332711/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/lipikjpg/7285912/ALTERNATES/LANDSCAPE_1180/lipik.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/globus/Globus-politika/zadnja-stranicajpg/7331976/ALTERNATES/LANDSCAPE_1180/Zadnja-Stranica.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/lipikjpg/7285912/ALTERNATES/LANDSCAPE_1180/lipik.jpg">
-<meta property="og:title" content="Policajci pronašli monstruma koji je ubio suprugu kako bezbrižno spava, nakon zloèina na bunaru je ostavio oproštajnu poruku koja ledi krv u žilama" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/globus/Globus-politika/zadnja-stranicajpg/7331976/ALTERNATES/LANDSCAPE_1180/Zadnja-Stranica.jpg">
+<meta property="og:title" content="DAN POBJEDE Zašto ga se Hrvatska srami?; BIO JE UTORAK, 8. SVIBNJA, KAO I DANAS Velika fotogalerija: Evo kako je izgledao ulazak partizana u Zagreb!" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/policajci-pronasli-monstruma-koji-je-ubio-suprugu-kako-bezbrizno-spava-nakon-zlocina-na-bunaru-je-ostavio-oprostajnu-poruku-koja-ledi-krv-u-zilama/7285906/" />
+<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-politika/dan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb/7332711/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="JUTARNJI DOZNAJE DETALJE LOVA NA LJUBOMORNOG SUPRUGA KOJI JE UŽETOM ZADAVIO SUPRUGU Policajci pronašli monstruma kako bezbrižno spava u šumarku, nakon što je spalio kuæu na bunaru je ostavio oproštajnu poruku koja ledi krv u žilama, otkrivamo što u njoj piše!" />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Hajdi Karakaš Jakubin">
-<meta name="twitter:title" content="Policajci pronašli monstruma koji je ubio suprugu kako bezbrižno spava, nakon zloèina na bunaru je ostavio oproštajnu poruku koja ledi krv u žilama">
-<meta name="twitter:description" content="JUTARNJI DOZNAJE DETALJE LOVA NA LJUBOMORNOG SUPRUGA KOJI JE UŽETOM ZADAVIO SUPRUGU Policajci pronašli monstruma kako bezbrižno spava u šumarku, nakon što je spalio kuæu na bunaru je ostavio oproštajnu poruku koja ledi krv u žilama, otkrivamo što u njoj piše!">
+<meta name="twitter:creator" content="Tvrtko Jakovina">
+<meta name="twitter:title" content="DAN POBJEDE Zašto ga se Hrvatska srami?; BIO JE UTORAK, 8. SVIBNJA, KAO I DANAS Velika fotogalerija: Evo kako je izgledao ulazak partizana u Zagreb!">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +679,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2447';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +691,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Crna kronika, Vijesti, Front Page",
-pubdate: "2018-04-25T15:21+02:00",
-author: "Hajdi Karakaš Jakubin, Željko Petrušiæ, Dijana Kovaèiæ",
+data: { section: "Politika, Globus, Front Page",
+pubdate: "2018-05-08T17:24+02:00",
+author: "Tvrtko Jakovina, Boris Orešiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="globus story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -742,11 +744,7 @@ $("#related-news-box").remove();
 });
 </script>
 <div class="container">
-<header class="mainHead " role="banner">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<header class="mainHead brandedHead " role="banner">
 <script>
 window.fbAsyncInit = function() {
 FB.init({
@@ -765,16 +763,27 @@ fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
 <a name="top"></a>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div class="row " >
 <div class="col-sm-12 ">
 </div>
 </div>
 <div class="row " >
 <div class="col-sm-12 ">
-<div class="col-sm-12 col-lg-8 col-lg-push-2 ">
-<div id="siteHead">
+<div id="siteHead"
+class=" ">
+<div class="head_date">
+<p class="month">
+<span>09.5.</span>2018.
+</p>
+<p class="day">
+srijeda
+</p>
+</div>
 <span class="logo"><a href="/">JutarnjList</a></span>
-</div>
 </div>
 <nav class="navbar main_nav "
 role="navigation" >
@@ -787,65 +796,17 @@ role="navigation" >
 </button>
 </div>
 <div id="navbar-collapse-1" class="navbar-collapse collapse ">
-<ul class=" main nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/">
-Poèetna
-</a>
-</li>
-<li class="active">
-<a href="https://www.jutarnji.hr/vijesti/">
-Vijesti
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/sport/">
-Sport
-</a>
-</li>
-<li class="">
-<a href="https://novac.jutarnji.hr" target="">
-Novac.hr
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/">
-Life
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/">
-Kultura
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/spektakli/">
-Spektakli
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/viral/">
-Viral
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/video/">
-Video
-</a>
-</li>
-</ul>
+<span class="logo suplement "><a href="/">JutarnjList</a></span>
 <ul class="nav navbar-nav all_sections">
 <li>
 <a href="#" class="site_search"><span class="text-hide">Pretraži</span></a>
-<a href="https://twitter.com/jutarnjihr" class="twitter_follow"><span class="text-hide">Twitter</span></a>
-<a href="https://www.facebook.com/jutarnji.list/" class="facebook_follow"><span class="text-hide">Facebook</span></a>
-<a class="instagram_follow" href="https://www.instagram.com/jutarnji.hr/"><span class="text-hide">Instagram</span></a>
 </li>
 <li class="dropdown megadropdown ">
-<a href="/" id="menuPane-link-1">
+<a href="#" id="menuPane-link-1">
 Sve rubrike
 <div id="rwd_toggle"><span></span><span></span><span></span><span></span></div>
 </a>
+</li>
 </ul>
 </div>
 <div class="wrap-megadropdown-menu ">
@@ -868,7 +829,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -886,6 +847,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1122,6 +1088,50 @@ Mozgalice
 </div>
 </div>
 </div>
+<div class="subBranding ">
+<span class="logo"><a href="/globus">Globus</a></span>
+</div>
+<div class="subLevelNavbar ">
+<ul class=" sub nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/globus/">
+Naslovnica
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/globus/Globus-politika/">
+Politika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-biznis/">
+Biznis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/">
+Život
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-kultura/">
+Kultura
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav socialChannels">
+<li>
+<a class="facebook_follow" href="https://www.facebook.com/globus.hr/">
+<span class="text-hide">Facebook</span>
+</a>
+</li>
+</ul>
+</div>
 <div id="searchBox">
 <form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
 <div class="form-group">
@@ -1129,45 +1139,6 @@ Mozgalice
 <button type="submit">Submit</button>
 </div>
 </form>
-</div>
-<div class="subLevelNavbar ">
-<ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
-</li>
-<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
-</ul>
-<ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
-</a>
-</li>
-<li class="active">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
-</a>
-</li>
-<li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
-</a>
-</li>
-</ul>
 </div>
 </nav>
 </div>
@@ -1204,11 +1175,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ZLOÈIN KRAJ LIPIKA
+OBLJETNICA OSLOBOÐENJA
 </p>
 <h1
 class="title">
-Policajci pronašli monstruma koji je ubio suprugu kako bezbrižno spava, nakon zloèina na bunaru je ostavio oproštajnu poruku koja ledi krv u žilama
+DAN POBJEDE Zašto ga se Hrvatska srami?; BIO JE UTORAK, 8. SVIBNJA, KAO I DANAS Velika fotogalerija: Evo kako je izgledao ulazak partizana u Zagreb!
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,9 +1187,8 @@ Policajci pronašli monstruma koji je ubio suprugu kako bezbrižno spava, nakon zl
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hajdi-karakas-jakubin">Hajdi Karakaš Jakubin</a>,</li>
-<li><a href="https://www.jutarnji.hr/autori/zeljko-petrusic">Željko Petrušiæ</a>,</li>
-<li><a href="https://www.jutarnji.hr/autori/dijana-kovacic">Dijana Kovaèiæ</a></li>
+<li>Tvrtko Jakovina,</li>
+<li>Boris Orešiæ</li>
 </ul>
 </p>
 </li>
@@ -1226,7 +1196,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 15:21
+08.05.2018. u 17:24
 </p>
 </li>
 </ul>
@@ -1236,14 +1206,14 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="ece_incoming media ">
+<section class="globus-politika media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/lipikjpg/7285912" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/zadnja-stranicajpg/7331976" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/lipikjpg/7285912/ALTERNATES/LANDSCAPE_380/lipik.jpg"
+<img src="https://www.jutarnji.hr/globus/Globus-politika/zadnja-stranicajpg/7331976/ALTERNATES/LANDSCAPE_380/Zadnja-Stranica.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/lipikjpg/7285912/BINARY/thumbnail/lipik.jpg"
+data-src-template="https://www.jutarnji.hr/globus/Globus-politika/zadnja-stranicajpg/7331976/BINARY/thumbnail/Zadnja-Stranica.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1251,10 +1221,9 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> Danijel Soldo / Hanza Media
-</span>
 </div>
+<div class="picture-caption ">
+<h4>U narodnooslobodilaèkom pokretu sudjelovalo je od 1941. do 1945. oko 50.000 graðana Zagreba, od 300.000 koliko ih je pred poèetak Drugog svjetskog rata živjelo u Zagrebu. Više od 16.000 graðana poginulo je u Zagrebu, u zatvorima i logorima, odnosno kao borci partizanskih jedinica. Zagreb je dao 89 narodnih heroja. Na fotografiji: Štab Udarne brigade 'Braæa Radiæ' na èelu Desetog korpusa ulazi u Zagreb 9. svibnja 1945.</h4>
 </div>
 </div>
 </section>
@@ -1288,14 +1257,60 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285906"
+<div id="content-body-6263871-7332711"
 >
-<p><strong>Željko L. (54)</strong>, koji je u utorak oko 13 sati užetom zadavio suprugu <strong>Mariju</strong> (49) u Marinu Selu kod Lipika te potom zapalio dio kuæe i na bunaru ostavio oproštajnu poruku, pronaðen je predveèer u šumarku kako bezbrižno spava.</p><p>Kad su ga policajci trgnuli iz sna, nije se opirao. Uhitili su ga i odveli u policijsku postaju gdje mu je izmjereno više od dva promila alkohola u krvi.</p><p>Motiv? Dugogodišnji sukob i nesuglasice izmeðu supružnika, praæene Željkovom ljubomorom. A njegova oproštajna poruka na bunaru &quot;Posljednja želja da smo zajedno u grobu&quot; ledi krv u žilama.</p><p>To su informacije koje su Jutarnjem listu potvrðene iz više izvora, a mještani Marina Sela još uvijek ne mogu vjerovati da se u njihovu mirnom kraju dogodio ovakav stravièan zloèin.</p>
+<p>“Dan pobjede. Kako da je proslave oni hrvatski revolucionari što izniješe na svojim pleæima NOB i revoluciju? U Hrvatskoj je partizanska pobjeda bila najtemeljitija, a rezultati?“</p><p>Autoru ovog dnevnièkog zapisa od 9. svibnja 1973., <strong>dr. Franji Tuðmanu</strong>, moglo bi se iz 2018. godine odgovoriti ovako: Sabor Republike Hrvatske ne samo da se srami Dana pobjede, srami se i bitaka na Neretvi i Sutjesci, gdje su poginule tisuæe Hrvata koji sudjelovaše u NOB-u. Ustaški pozdrav “Za dom spremni” politièke su elite gotovo pa posve legalizirale u Republici Hrvatskoj. Štoviše, ploèa s pozdravom “ZDS” bila je mjesecima i u Jasenovcu, pa zato sada veæ tri godine Vlada sama, bez predstavnika žrtava, komemorira datum proboja iz logora.</p><p>Da je Dan pobjede nešto èega se treba sramiti, nešto što treba prešuæivati, dok je pozdrav “ZDS” dobar, misle i neki akademici, misle i sudovi, misle gradonaèelnici i politièari; nije o njegovoj upotrebi sigurna ni predsjednica Republike Hrvatske. Da je sve moguæe, pa i da istina odjednom treba biti laž, nikome iz 1973. ne bi trebalo biti neobièno. I tada je bilo tako, samo što je boja i smjer bio drugi.</p><p>Zanimljivo je jedino da nakon izlaska iz pritvora u Petrinjskoj Franjo Tuðman u osami svoje vile 1973. piše ovakve rijeèi. Kasnije, kada je bio u moguænosti neke stvari usmjeriti, mnogo je toga zanemario. Zaboravljene su te vrijednosti onda kada je imao vlast i kada je trasirao politiku što danas sponzorira komemoracije na Bleiburgu koje ne izgledaju kao poklon žrtvi, politiku koja se Dana pobjede i svih spomenika podignutih u slavu izginulih desetaka tisuæa ljudi srami.</p><p>Danas se èini još važnijim pitati što je ostalo od Dana pobjede i u kakvu se to društvu Hrvati žele kretati. Kao da je danas manje važno da je postojao mali narod èije su mase, zajedno sa Srbima u Hrvatskoj, pohrlile u borbu i zemlju u kojoj je dio stanovništva bio uz <strong>Hitlera</strong> preveli na stranu pobjednika. O novoj zemlji koja se stvarala u ratu od Visa do Beograda pregovarali su <strong>Tito</strong> i <strong>Ivan Šubašiæ</strong>, predsjednici dviju vlada koje su se u ožujku 1945. spojile u jednu.</p><p>Šteta što general Franjo Tuðman misli koje je imao u puno težim vremenima nije jasnije iskazivao poslije, kada je mogao usmjeravati vrijednosti i drukèije urediti da “hrvatski revolucionari što izniješe na svojim pleæima Narodnooslobodilaèku borbu i revoluciju” ne budu zaboravljeni, da se ne dogaða da ih Sabor ignorira, mediji prešuæuju, a da se meðunarodna zajednica zgraža nad onim u što su se Hrvati pretvorili.</p><p>
+<section>
+<article class="globus-politika media galleryCall ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/oslobodenje-zagreba/7332684/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/globus/Globus-politika/oslobodenje-zagreba/7332684/">
+<img src="https://www.jutarnji.hr/globus/Globus-politika/10-saba_rh-ulazjpg/7332000/ALTERNATES/LANDSCAPE_380/10-SABA_RH-Ulaz.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/globus/Globus-politika/10-saba_rh-ulazjpg/7332000/BINARY/thumbnail/10-SABA_RH-Ulaz.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Zaborav Dana pobjede u Hrvatskoj 2018. jedinstven je i dugo æe trebati objašnjavati buduæim generacijama što se to uèinilo zemlji koja je trebala na svome ratnom uspjehu graditi buduænost u društvu najboljih i najbogatijih, biti zemlja koja je lako svima mogla biti primjer, a ne zemlja kojoj drugi daju lekcije. Trebat æe objasniti da je jedna generacija uèinila sve da se izbriše spojnica s najsnažnijim državama svijeta, sa svojim NATO-saveznicama.</p><p>U stalnom postavu Muzeja Grada Zagreba (MGZ), koji pokriva graðu od prapovijesnog vremena do današnjih dana, osloboðenju grada od fašizma posveæene su svega tri fotografije koje je snimio <strong>Milan Paviæ</strong>. Prva s potpisom “Ulazak partizana u Zagreb 8. svibnja 1945 godine” prikazuje kolonu partizana kako prolazi praznim Trgom bana Jelaèiæa, a uz nju stoji i objašnjenje: “Poslijepodne 8. svibnja 1945. godine u Zagreb su prve ušle postrojbe II. Armije kreæuæi se potpuno pustim ulicama i trgovima”. Na drugoj fotografiji je središte grada 9. svibnja 1945. uz potpis – “smjena vlasti otpoèela je postavljanjem petokrakih zvijezda”. Treæa slika smještena u samom kutu iste prostorije gotovo iza vrata prikazuje potpuno prazan Trg bana Jelaèiæa poslijepodne 8. svibnja neposredno prije ulaska partizana. Uz nju se navodi kako je Milan Paviæ kao fotograf ilegalac snimao Zagreb posljednjih dana NDH.</p><p>Hrvatski povijesni muzej, pak, koji uz MGZ jedini u glavnom gradu ima graðu posveæenu osloboðenju od fašizma koje cijela civilizirana Europa obilježava 9. svibnja, tom je dogaðaju posvetio samo jedan jedini eskponat na izložbi “Nedostupna baština” koja se trenutno tamo jedina može razgledati. Rijeè je o crnobijeloj fotografiji uz koju stoji potpis “Trg bana Jelaèiæa 8. svibnja 1945. u 15 sati i deset minuta”.</p><p>Muzejska savjetnica u Hrvatskom povijesnom muzeju i predsjednica Upravnog vijeæa Spomen podruèja Jasenovac, povjesnièarka <strong>Nataša Mataušiæ</strong> istièe kako osim Memorijalnog muzeja Jasenovac, memorijala “Batinska bitka” u Batini, muzeja “Lipa pamti” u Istri te odnedavno Muzeja osloboðenja Dalmacije u Šibeniku, u Hrvatskoj ne djeluje niti jedan muzej koji bi se iskljuèivo bavio temom Drugog svjetskog rata i razdoblja socijalizma:</p><p>- Nažalost, klima u hrvatskom društvu nije zrela za tako nešto, dodaje Nataša Mataušiæ: “Mi se oèito sramimo antifašizma jer slava blijedi, a traume rastu. Do prije nekoliko godina se slavio Dan pobjede, a sada se sve više i više udaljavamo od antifašizma i tonemo u nacionalizam. A stvarno se nemamo èega sramiti.”</p><h5><strong><em>Cijeli èlanak možete proèitati u tiskanome izdanju novoga broja Globusa</em></strong></h5><p><em>
+<section>
+<article class="globus-politika media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/naslovnica-globusa/7331964" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/globus/Globus-politika/naslovnica-globusa/7331964/ALTERNATES/FREE_380/Naslovnica%20Globusa"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/globus/Globus-politika/naslovnica-globusa/7331964/BINARY/thumbnail/Naslovnica%20Globusa"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </em></p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285906 p").filter(function () {
+$("#content-body-6263871-7332711 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1304,16 +1319,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285906").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7332711").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285906").children().slice(max).remove();
+$("#content-body-6263871-7332711").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285906").children().get(0);
+var firstChild = $("#content-body-6263871-7332711").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1351,13 +1366,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Lipik" class ="label label-default" >
-Lipik
+<a href="https://www.jutarnji.hr/tag/Globus" class ="label label-default" >
+Globus
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/ubojstvo" class ="label label-default" >
-ubojstvo
+<a href="https://www.jutarnji.hr/tag/Partizani" class ="label label-default" >
+Partizani
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Dan_pobjede_nad_fa%C5%A1izmom" class ="label label-default" >
+Dan pobjede nad fašizmom
 </a>
 </li>
 </ul>
@@ -1368,36 +1388,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="crna-kronika media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/">
-Nakon potjere uhiæen osumnjièeni ubojica majke sedmero djece, njezin ljubomorni muž: 'Mama je mrtva. Ne, nije se ugušila od dima. Ona je zadavljena!'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="crna-kronika media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/ljubomorni-muz-u-obiteljskoj-kuci-likvidirao-zenu-pa-je-zapalio-tragedija-kod-lipika-policija-u-izgorjeloj-kuci-nasla-les-traze-moguceg-ubojicu/7282069/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/ljubomorni-muz-u-obiteljskoj-kuci-likvidirao-zenu-pa-je-zapalio-tragedija-kod-lipika-policija-u-izgorjeloj-kuci-nasla-les-traze-moguceg-ubojicu/7282069/">
-LJUBOMORNI MUŽ U OBITELJSKOJ KUÆI LIKVIDIRAO ŽENU PA JE ZAPALIO? Tragedija kod Lipika: Policija u izgorjeloj kuæi našla leš, traže moguæeg ubojicu
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1405,137 +1395,6 @@ LJUBOMORNI MUŽ U OBITELJSKOJ KUÆI LIKVIDIRAO ŽENU PA JE ZAPALIO? Tragedija kod L
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
-<div class="row upscore-magicflow displaynone-upscore-hack " >
-<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
-<section class="upscore_promo1_4 ">
-<div class="row">
-<div class="col-xs-12" data-widget-position="0">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="1">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="2">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-xs-12" data-widget-position="3">
-<section>
-<article class="promo media c13 skin-2 none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-</div>
-</section>
-</div>
 <div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
 <div id="div-gpt-ad-1459756830165-0">
 <script type='text/javascript'>
@@ -1608,7 +1467,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285906" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7332711" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1631,40 +1490,28 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </script>
 </div>
 </div>
-<div class="jl-sticky-banner" style="margin-bottom:20px;">
-<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
-<script type="text/javascript">
-Criteo.events.push(function() {
-Criteo.DisplayAcceptableAdIfAdblocked({
-"zoneid": 1197956,
-"containerid": "crt-47675ba0",
-"overrideZoneFloor": false
-});
-});
-</script>
 </div>
 </div>
-</div>
-<div class="row hidden-xs " >
+<div class="row " >
 <div class="col-sm-12 ">
 <div class="emp_block article_most_read sidebar ">
 <h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/dan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb/7332711/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/">
-TRAGEDIJA ZA TRAGEDIJOM
+<a href="https://www.jutarnji.hr/globus/Globus-politika/dan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb/7332711/">
+OBLJETNICA OSLOBOÐENJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/">
-PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE Usred vožnje navodno tipkao SMS poruku, jedan djeèak (14) leži u komi
+<a href="https://www.jutarnji.hr/globus/Globus-politika/dan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb/7332711/">
+DAN POBJEDE Zašto ga se Hrvatska srami?; BIO JE UTORAK, 8. SVIBNJA, KAO I DANAS Velika fotogalerija: Evo kako je izgledao ulazak partizana u Zagreb!
 </a>
 </h4>
 </div>
@@ -1674,19 +1521,19 @@ PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/globusov-specijalni-izvjestaj-bleiburg-2018-ustase-raus-velika-austrijska-kampanja-zaustavite-najveci-neonacisticki-skup-u-europi/7297615/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/">
-HOROR U MARINOM SELU
+<a href="https://www.jutarnji.hr/globus/Globus-politika/globusov-specijalni-izvjestaj-bleiburg-2018-ustase-raus-velika-austrijska-kampanja-zaustavite-najveci-neonacisticki-skup-u-europi/7297615/">
+ANTIFAŠISTIÈKI ANTIBLEIBURG
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/">
-Nakon potjere uhiæen osumnjièeni ubojica majke sedmero djece, njezin ljubomorni muž: 'Mama je mrtva. Ne, nije se ugušila od dima. Ona je zadavljena!'
+<a href="https://www.jutarnji.hr/globus/Globus-politika/globusov-specijalni-izvjestaj-bleiburg-2018-ustase-raus-velika-austrijska-kampanja-zaustavite-najveci-neonacisticki-skup-u-europi/7297615/">
+GLOBUSOV SPECIJALNI IZVJEŠTAJ: BLEIBURG 2018. - USTAŠE, RAUS! Velika austrijska kampanja: 'Zaustavite najveæi neonacistièki skup u Europi!'
 </a>
 </h4>
 </div>
@@ -1696,19 +1543,19 @@ Nakon potjere uhiæen osumnjièeni ubojica majke sedmero djece, njezin ljubomorni 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/globus-otkriva-najnoviji-sukob-zagreba-i-beograda-izazvao-nervozu-medu-europskim-duznosnicima-zvonili-telefoni-u-kabinetima-sada-bi-bilo-dosta/7310298/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/">
-BLUDNE RADNJE
+<a href="https://www.jutarnji.hr/globus/Globus-politika/globus-otkriva-najnoviji-sukob-zagreba-i-beograda-izazvao-nervozu-medu-europskim-duznosnicima-zvonili-telefoni-u-kabinetima-sada-bi-bilo-dosta/7310298/">
+TRZAVICE U ODNOSIMA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/">
-MUÈAN SLUÈAJ O KOJEM BRUJI CIJELI SPLIT Poznati nogometni trener optužen za spolno iskorištavanje djeèaka, ljubio ga, dirao, noæu zasipao SMS-ovima
+<a href="https://www.jutarnji.hr/globus/Globus-politika/globus-otkriva-najnoviji-sukob-zagreba-i-beograda-izazvao-nervozu-medu-europskim-duznosnicima-zvonili-telefoni-u-kabinetima-sada-bi-bilo-dosta/7310298/">
+GLOBUS OTKRIVA: NAJNOVIJI SUKOB ZAGREBA I BEOGRADA IZAZVAO NERVOZU MEÐU EUROPSKIM DUŽNOSNICIMA Zvonili telefoni u kabinetima: 'Sada bi bilo dosta!'
 </a>
 </h4>
 </div>
@@ -1718,19 +1565,19 @@ MUÈAN SLUÈAJ O KOJEM BRUJI CIJELI SPLIT Poznati nogometni trener optužen za spol
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="globus-politika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/globus/Globus-politika/dva-stoljeca-mislioca-iz-triera-karl-marx-sigurno-je-da-ja-nisam-marksist/7319625/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/">
-STRAŠNA TRAGEDIJA U SMREÈJU
+<a href="https://www.jutarnji.hr/globus/Globus-politika/dva-stoljeca-mislioca-iz-triera-karl-marx-sigurno-je-da-ja-nisam-marksist/7319625/">
+INOSLAV BEŠKER PIŠE U GLOBUSU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/">
-FOTO: POŽAR PROGUTAO POLA SELA U GORSKOM KOTARU Dvije obitelji u suzama gledale kako im vatra u svega 15 minuta odnosi ono što su gradili cijeli život
+<a href="https://www.jutarnji.hr/globus/Globus-politika/dva-stoljeca-mislioca-iz-triera-karl-marx-sigurno-je-da-ja-nisam-marksist/7319625/">
+DVA STOLJEÆA MISLIOCA IZ TRIERA Karl Marx 'Sigurno je da ja nisam marksist'
 </a>
 </h4>
 </div>
@@ -1738,6 +1585,15 @@ FOTO: POŽAR PROGUTAO POLA SELA U GORSKOM KOTARU Dvije obitelji u suzama gledale 
 </article>
 </section>
 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Iz drugih medija</span></div></h3>
 </div>
 </div>
 </div>
@@ -1768,19 +1624,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1788,8 +1644,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1858,7 +1714,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1876,6 +1732,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2165,11 +2026,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2217,14 +2073,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2268,34 +2124,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7285906&type=article&title=Policajci+prona%c5%a1li+monstruma+koji+je+ubio+suprugu+kako+bezbri%c5%beno+spava%2c+nakon+zlo%c4%8dina+na+bunaru+je+ostavio+opro%c5%a1tajnu+poruku+koja+ledi+krv+u+%c5%beilama&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fpolicajci-pronasli-monstruma-koji-je-ubio-suprugu-kako-bezbrizno-spava-nakon-zlocina-na-bunaru-je-ostavio-oprostajnu-poruku-koja-ledi-krv-u-zilama%2f7285906%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=159&contextPath=1-85-159-&pubId=1&cat=&meta=read-story&objId=7332711&type=article&title=DAN+POBJEDE+Za%c5%a1to+ga+se+Hrvatska+srami%3f%3b+BIO+JE+UTORAK%2c+8.+SVIBNJA%2c+KAO+I+DANAS+Velika+fotogalerija%3a+Evo+kako+je+izgledao+ulazak+partizana+u+Zagreb!&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fdan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb%2f7332711%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285906&amp;type=article&amp;title=Policajci+prona%c5%a1li+monstruma+koji+je+ubio+suprugu+kako+bezbri%c5%beno+spava%2c+nakon+zlo%c4%8dina+na+bunaru+je+ostavio+opro%c5%a1tajnu+poruku+koja+ledi+krv+u+%c5%beilama&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fpolicajci-pronasli-monstruma-koji-je-ubio-suprugu-kako-bezbrizno-spava-nakon-zlocina-na-bunaru-je-ostavio-oprostajnu-poruku-koja-ledi-krv-u-zilama%2f7285906%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=159&amp;contextPath=1-85-159-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7332711&amp;type=article&amp;title=DAN+POBJEDE+Za%c5%a1to+ga+se+Hrvatska+srami%3f%3b+BIO+JE+UTORAK%2c+8.+SVIBNJA%2c+KAO+I+DANAS+Velika+fotogalerija%3a+Evo+kako+je+izgledao+ulazak+partizana+u+Zagreb!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fdan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb%2f7332711%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1471247128&title=ubojstvo&url=tag%3ajltags%40eph.hr%2c2016%3aubojstvo&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=280641995&title=Dan+pobjede+nad+fa%c5%a1izmom&url=tag%3ajltags%40eph.hr%2c2016%3aDan_pobjede_nad_fa%25C5%25A1izmom&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1471247128&amp;title=ubojstvo&amp;url=tag%3ajltags%40eph.hr%2c2016%3aubojstvo&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=280641995&amp;title=Dan+pobjede+nad+fa%c5%a1izmom&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDan_pobjede_nad_fa%25C5%25A1izmom&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=1815761019&title=Lipik&url=tag%3ajltags%40eph.hr%2c2016%3aLipik&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=552641800&title=Partizani&url=tag%3ajltags%40eph.hr%2c2016%3aPartizani&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1815761019&amp;title=Lipik&amp;url=tag%3ajltags%40eph.hr%2c2016%3aLipik&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=552641800&amp;title=Partizani&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPartizani&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=1031019556&title=Globus&url=tag%3ajltags%40eph.hr%2c2016%3aGlobus&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1031019556&amp;title=Globus&amp;url=tag%3ajltags%40eph.hr%2c2016%3aGlobus&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2348,7 +2215,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/policajci-pronasli-monstruma-koji-je-ubio-suprugu-kako-bezbrizno-spava-nakon-zlocina-na-bunaru-je-ostavio-oprostajnu-poruku-koja-ledi-krv-u-zilama/7285906/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-politika/dan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb/7332711/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2358,14 +2225,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/crna-kronika/policajci-pronasli-monstruma-koji-je-ubio-suprugu-kako-bezbrizno-spava-nakon-zlocina-na-bunaru-je-ostavio-oprostajnu-poruku-koja-ledi-krv-u-zilama/7285906/",
-postId : "7285906",
+url : "https://www.jutarnji.hr/globus/Globus-politika/dan-pobjede-zasto-ga-se-hrvatska-srami-bio-je-utorak-8-svibnja-kao-i-danas-velika-fotogalerija-evo-kako-je-izgledao-ulazak-partizana-u-zagreb/7332711/",
+postId : "7332711",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Policajci pronašli monstruma koji je ubio suprugu kako bezbrižno spava, nakon zloèina na bunaru je ostavio oproštajnu poruku koja ledi krv u žilama",
-pubdate : "2018-04-25 15:21",
-authors : "Hajdi Karakaš Jakubin, Željko Petrušiæ, Dijana Kovaèiæ",
-sections : "Front Page, Crna kronika",
-tags : "ubojstvo, Lipik",
+title : "DAN POBJEDE Zašto ga se Hrvatska srami?; BIO JE UTORAK, 8. SVIBNJA, KAO I DANAS Velika fotogalerija: Evo kako je izgledao ulazak partizana u Zagreb!",
+pubdate : "2018-05-08 17:24",
+authors : "Tvrtko Jakovina, Boris Orešiæ",
+sections : "Front Page, Politika",
+tags : "Dan pobjede nad fašizmom, Partizani, Globus",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -19,7 +19,31 @@
           });
         });
 	</script>
+	
+	<script type=text/javascript>
+        $(function() {
+          $('a#testFindAll').bind('click', function() {
+            $.getJSON('/startFindAll',
+                function(data) {
+              //do nothing
+            });
+            return false;
+          });
+        });
+	</script>
 
+	
+	<script type=text/javascript>
+        $(function() {
+          $('a#testPosNegWords').bind('click', function() {
+            $.getJSON('/startPosNegWords',
+                function(data) {
+              //do nothing
+            });
+            return false;
+          });
+        });
+	</script>
 	
 </head>
 
@@ -29,12 +53,24 @@
 			<h1><a href="/" id="logoLink">Profili javnih osoba</a></h1>
 		</div>
 		<div id="content">
-			<div>
-    			<h3>Crawlanje i analiza zadnjih 100 clanaka</h3>
-        		<form>
-            		<a href=# id=test><button class='btn btn-default'>Crawl</button></a>
-        		</form>
-			</div>
+				<div id="logo">
+    				<h3>Crawlanje, analiza i spremanje podataka 100 clanaka</h3>
+        			<form>
+            			<a href=# id=test><button class='btn btn-default'>Crawl</button></a>
+        			</form>
+				</div>
+				<div id="logo">
+    				<h3>Pronalazak svih osoba koje se spominju u clanku</h3>
+        			<form>
+            			<a href=# id=testFindAll><button class='btn btn-default'>FindAll</button></a>
+        			</form>
+				</div>
+				<div id="logo">
+    				<h3>Ocjena sentimenta na temelju sentimenta rijeci</h3>
+        			<form>
+            			<a href=# id=testPosNegWords><button class='btn btn-default'>PosNegWords</button></a>
+        			</form>
+				</div>
 				<div id="nav">
 					<ul>
 						<li><a href="showPolitics">Politika</a></li>

@@ -3,6 +3,7 @@
 	<name>mySpider</name>
 	<comment></comment>
 	<projects>
+		<project>textCroatianStemmer</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

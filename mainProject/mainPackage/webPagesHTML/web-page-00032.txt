@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="strane zvijezde, Ariel Winter, Levi Meaden" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Jedan od najuspješnijih hrvatskih glazbenika u svijetu, pijanist Maksim Mrvica nakon tri godine vraæa se pred svoju omiljenu publiku rodnoga kraja, na jedinstvenu ljetnu pozornicu tvrðave sv. Mihovila u Šibeniku. Publika æe 14. srpnja u Šibeniku moæi uživati u jedinstvenom nastupu našeg klavirskog virtuoza koji dolazi u pratnji svojeg benda s kojim dijeli velike svjetske pozornice." />
+<meta name="keywords" content="Maksim Mrvica, Šibenik" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FOTO: SKRIVALA SE OD KAMERA, ALI NJEZINO LICE BAŠ NIKOGA NIJE ZANIMALO Seksipilna glumica na sebe stavila najkraæu haljinicu ikada - Jutarnji List</title>
+<title>MAKSIM MRVICA PONOVNO NA NAJLJEPŠOJ POZORNICI JADRANA Pijanist svjetskog ugleda nakon tri godine vraæa se u svoj Šibenik na tvrðavu sv. Mihovila - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Strane zvijezde";
-var dfpCategoryParent = "Spektakli";
-var dfpRos = "spektakli-ros";
-var dfpArticle = "7284316";
-var dfpArticleKeyword = "strane zvijezde";
+var dfpCategory = "Glazba";
+var dfpCategoryParent = "Kultura";
+var dfpRos = "kultura-ros";
+var dfpArticle = "7333944";
+var dfpArticleKeyword = "Maksim Mrvica";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-skrivala-se-od-kamera-ali-njezino-lice-bas-nikoga-nije-zanimalo-seksipilna-glumica-na-sebe-stavila-najkracu-haljinicu-ikada/7284316/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-skrivala-se-od-kamera-ali-njezino-lice-bas-nikoga-nije-zanimalo-seksipilna-glumica-na-sebe-stavila-najkracu-haljinicu-ikada/7284316/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/ariel-winter-i-levi-meaden/7284292/ALTERNATES/LANDSCAPE_1180/Ariel%20Winter%20i%20Levi%20Meaden" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/maksim2jpg/7333956/ALTERNATES/LANDSCAPE_1180/maksim2.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/ariel-winter-i-levi-meaden/7284292/ALTERNATES/LANDSCAPE_1180/Ariel%20Winter%20i%20Levi%20Meaden">
-<meta property="og:title" content="FOTO: SKRIVALA SE OD KAMERA, ALI NJEZINO LICE BAŠ NIKOGA NIJE ZANIMALO Seksipilna glumica na sebe stavila najkraæu haljinicu ikada" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/maksim2jpg/7333956/ALTERNATES/LANDSCAPE_1180/maksim2.jpg">
+<meta property="og:title" content="MAKSIM MRVICA PONOVNO NA NAJLJEPŠOJ POZORNICI JADRANA Pijanist svjetskog ugleda nakon tri godine vraæa se u svoj Šibenik na tvrðavu sv. Mihovila" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-skrivala-se-od-kamera-ali-njezino-lice-bas-nikoga-nije-zanimalo-seksipilna-glumica-na-sebe-stavila-najkracu-haljinicu-ikada/7284316/" />
+<meta property="og:url" content="https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Jedan od najuspješnijih hrvatskih glazbenika u svijetu, pijanist Maksim Mrvica nakon tri godine vraæa se pred svoju omiljenu publiku rodnoga kraja, na jedinstvenu ljetnu pozornicu tvrðave sv. Mihovila u Šibeniku. Publika æe 14. srpnja u Šibeniku moæi uživati u jedinstvenom nastupu našeg klavirskog virtuoza koji dolazi u pratnji svojeg benda s kojim dijeli velike svjetske pozornice." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="FOTO: SKRIVALA SE OD KAMERA, ALI NJEZINO LICE BAŠ NIKOGA NIJE ZANIMALO Seksipilna glumica na sebe stavila najkraæu haljinicu ikada">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:title" content="MAKSIM MRVICA PONOVNO NA NAJLJEPŠOJ POZORNICI JADRANA Pijanist svjetskog ugleda nakon tri godine vraæa se u svoj Šibenik na tvrðavu sv. Mihovila">
+<meta name="twitter:description" content="Jedan od najuspješnijih hrvatskih glazbenika u svijetu, pijanist Maksim Mrvica nakon tri godine vraæa se pred svoju omiljenu publiku rodnoga kraja, na jedinstvenu ljetnu pozornicu tvrðave sv. Mihovila u Šibeniku. Publika æe 14. srpnja u Šibeniku moæi uživati u jedinstvenom nastupu našeg klavirskog virtuoza koji dolazi u pratnji svojeg benda s kojim dijeli velike svjetske pozornice.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2438';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Strane zvijezde, Spektakli, Front Page",
-pubdate: "2018-04-25T10:40+02:00",
-author: "Ana Soriæ",
+data: { section: "Glazba, Kultura, Front Page",
+pubdate: "2018-05-08T18:37+02:00",
+author: "Silvija Novak",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="spektakli story">
+<body class="kultura story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -813,12 +813,12 @@ Novac.hr
 Life
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/">
 Kultura
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1015,7 +1020,7 @@ Film i televizija
 Književnost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/glazba/">
 Glazba
 </a>
@@ -1049,7 +1054,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -1132,39 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a>
+<li><a href="https://www.jutarnji.hr/kultura/">Kultura </a>
 </li>
-<li><a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">Strane zvijezde </a></li>
+<li><a href="https://www.jutarnji.hr/kultura/glazba/">Glazba </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
-Domaæe zvijezde
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
-Strane zvijezde
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/reality/">
-Reality
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/ups/">
-Ups!
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
-Na kavi sa...
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
-Zlatni Studio
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
 </a>
 </li>
 </ul>
@@ -1204,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ATRAKTIVNA 'ŠTREBERICA'
+GLAZBENI SPEKTAKL
 </p>
 <h1
 class="title">
-FOTO: SKRIVALA SE OD KAMERA, ALI NJEZINO LICE BAŠ NIKOGA NIJE ZANIMALO Seksipilna glumica na sebe stavila najkraæu haljinicu ikada
+MAKSIM MRVICA PONOVNO NA NAJLJEPŠOJ POZORNICI JADRANA Pijanist svjetskog ugleda nakon tri godine vraæa se u svoj Šibenik na tvrðavu sv. Mihovila
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1224,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 10:40
+08.05.2018. u 18:37
 </p>
 </li>
 </ul>
@@ -1236,12 +1246,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/ariel-winter-i-levi-meaden/7284292" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/maksim2jpg/7333956" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/ariel-winter-i-levi-meaden/7284292/ALTERNATES/LANDSCAPE_380/Ariel%20Winter%20i%20Levi%20Meaden"
+<img src="https://www.jutarnji.hr/incoming/maksim2jpg/7333956/ALTERNATES/LANDSCAPE_380/maksim2.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/ariel-winter-i-levi-meaden/7284292/BINARY/thumbnail/Ariel%20Winter%20i%20Levi%20Meaden"
+data-src-template="https://www.jutarnji.hr/incoming/maksim2jpg/7333956/BINARY/thumbnail/maksim2.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1249,10 +1259,6 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> Profimedia, AKM-GSI
-</span>
-</div>
 </div>
 </div>
 </section>
@@ -1286,38 +1292,95 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7284316"
+<div id="content-body-6263871-7333944"
 >
-<p>Jedna od zvijezda serije ‘Moderna obitelj’, <strong>Ariel Winter</strong>, skrivala je lice od fotoreportera dok je šetala Los Angelesom s deèkom <strong>Levijem Meadenom</strong>. Meðutim, vjetar je nenadano podignuo njezinu ultra kratku haljinicu pa je kamerama na koncu pokazala previše.</p><p>20-godišnja Ariel izašla je u šoping s Levijem (30), naizgled posve ležerno odjevena. Zelena mini haljina jedva je držala njezin bujni dekolte, a lepršavi obrub nije izdržao vjetar koji je na trenutke puhao pa joj je otkrio stražnjicu. Outfit je upotpunila malom torbicom potpisa Céline koja u online prodaji stoji 17.500 kuna (2.900 dolara).</p><p>Ariel je prošle godine za ženski portal <strong><a href="http://www.refinery29.com/2017/05/156417/ariel-winter-body-confidence-interview?bucketed=true" target="_blank">Refinery29</a></strong> rekla da uopæe ne osjeti razliku u godinama i da joj nije jasno zašto se drugi oko toga uzbuðuju: ‘Ja sam sretna i što god ljudi žele reæi, neka kažu. Ne razumijem zašto bi netko uopæe komentirao našu situaciju. Kod mnogih parova je velika razlika u godinama, neki žive zajedno, neki ne, ali glavno da su sretni. Ja sam jako sretna s našim dogovorom, super nam je.’</p><p><strong><em>U galeriji pogledajte Ariel u šetnji:</em></strong></p><p> <section>
-<article class="strane-zvijezde media galleryCall ">
+<p>Jedan od najuspješnijih hrvatskih glazbenika u svijetu, pijanist <strong>Maksim Mrvica</strong> nakon tri godine vraæa se pred svoju omiljenu publiku rodnoga kraja, na jedinstvenu ljetnu pozornicu tvrðave sv. Mihovila u Šibeniku.<br><br>Publika æe 14. srpnja u Šibeniku moæi uživati u jedinstvenom nastupu našeg klavirskog virtuoza koji dolazi u pratnji svojeg benda s kojim dijeli velike svjetske pozornice.</p><p>Koncert na tvrðavi sv. Mihovila dio je Maksimove velike turneje kojom ujedno predstavlja svoj novi album New Silk Road, a sadrži više od 50 koncerata.</p><p>
+<section>
+<article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/ariel-winter-u-ultra-kratkoj-haljinici-pokazala-previse/7284265/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/maksim1jpg/7333953" data-widget-title="" data-web-position="box"
 data-widget-position="0">
+<div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ariel-winter-u-ultra-kratkoj-haljinici-pokazala-previse/7284265/">
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369598521jpg/7284052/ALTERNATES/LANDSCAPE_380/profimedia-0369598521.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369598521jpg/7284052/BINARY/thumbnail/profimedia-0369598521.jpg"
+<img src="https://www.jutarnji.hr/incoming/maksim1jpg/7333953/ALTERNATES/FREE_380/maksim1.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/maksim1jpg/7333953/BINARY/thumbnail/maksim1.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Los Angeles, CA - 20-year-old actress Ariel Winter looked simply adorable wearing a green romper while out getting some shopping done with boyfriend Levi Meaden. Ariel Winter looked red hot as she stepped out for a LaPalme Magazine party on Saturday night in an all-red ensemble that featured a lace negligee crop top — and couldn’t help but call herself a “spicy mami” in an Instagram photo. The 20-year-old Modern Family actress is known for her daring looks, which include plunging necklines and an exposed midriff. But despite criticism from a number of online trolls, the star continues to dress as she pleases, having explained on numerous occasions that she wears what makes her feel good. For the celebration of the magazine’s cover on Saturday, a pair of silky red pants and a matching lace bralette apparently did just that. “Spicy mami hot tamale,” Winter captioned a photo of herself on Instagram, showing off her half-updo and a pair of standout silver hoops. Many in the comments agree that the young star looks incredible, while others have mixed opinions about the shared pic. “Sometimes showing less is more,” one person wrote. “You don’t need to show so much skin. You have the looks and confidence to be more conservative.” Another commenter had an opinion about the self-congratulatory caption, writing, “Someone’s supposed to write that caption for you, it’s not the same coming from you.” However, Winter’s fans were quick to come to her defense and echo her own sentiments about dressing how she wants. “She can wear what she wants as long as she’s comfortable with how she looks, that’s all that matters.” Another commenter noted, “Clothes don’t make the woman.”
-Pictured: Ariel Winter, Levi Meaden
-BACKGRID USA 24 APRIL 2018, Image: 369598521, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
-</a>
+<div class="picture-author">
+<span> Promo
+</span>
+</div>
+</div>
 </div>
 </div>
 </article>
 </section>
- </p><p>‘Moram reæi da je on najnevjerojatnija osoba koju sam upoznala i sretna sam što smo zajedno. Uvijek mi dijeli komplimente i zbog njega se osjeæam posebno i predivno’, dodala je.</p><p>Nakon što je navršila 18 godina, poèela je zaraðivati šesteroznamenkastu svotu po epizodi. Serija ‘Moderna obitelj’ emitira se od 2009., a iduæe æe godine emitirati desetu, posljednju sezonu. </p>
+</p><p>Turneja je poèela u travnju s koncertom u Pragu, a nastavlja se kroz cijelu godinu sve do poznatih dvorana kao što su Sydney Opera House, Seoul Arts Center, Great Hall of the People u Pekingu i mnogih drugih.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/maksim3jpg/7333959" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/maksim3jpg/7333959/ALTERNATES/FREE_380/maksim3.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/maksim3jpg/7333959/BINARY/thumbnail/maksim3.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Promo
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>'Iznad mora ispod zvijezda', kako glasi slogan za savršeni ambijent ove pozornice, bit æe neprocjenjivo èuti i vidjeti Maksima kako izvodi svoja najpoznatija crossover djela te premijernu izvedbu poznatog baleta Nutcracker, Gnossienne od Satiea, All Of Me od Johna Legenda, Clocks od Coldplay i drugih predivnih kompozicija sa svojeg posljednjeg albuma.<br>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/maksim4jpg/7333962" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/maksim4jpg/7333962/ALTERNATES/FREE_380/maksim4.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/maksim4jpg/7333962/BINARY/thumbnail/maksim4.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Promo
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+<br>Ogranièeni broj od 1000 ulaznica u prodaji je od 8. svibnja preko sustava Entrio, po cijeni od 190, 225, 265 i 290 kn.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7284316 p").filter(function () {
+$("#content-body-6263871-7333944 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1326,16 +1389,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7284316").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7333944").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7284316").children().slice(max).remove();
+$("#content-body-6263871-7333944").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7284316").children().get(0);
+var firstChild = $("#content-body-6263871-7333944").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1373,18 +1436,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Levi_Meaden" class ="label label-default" >
-Levi Meaden
+<a href="https://www.jutarnji.hr/tag/%C5%A0ibenik" class ="label label-default" >
+Šibenik
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Ariel_Winter" class ="label label-default" >
-Ariel Winter
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/strane_zvijezde" class ="label label-default" >
-strane zvijezde
+<a href="https://www.jutarnji.hr/tag/Maksim_Mrvica" class ="label label-default" >
+Maksim Mrvica
 </a>
 </li>
 </ul>
@@ -1395,15 +1453,31 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="spektakli media none">
+<article class="glazba media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/kad-tako-besramno-pokazujes-grudi-pozivas-muskarce-da-ih-diraju-novinar-popljuvao-mladu-glumicu-zbog-izbora-odjece-ona-mu-brutalno-spustila/6945294/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/glavna-zvijezda-aftershowa-na-tvrdavi-sv-mihovil-ikona-svjetske-scene-elektronicke-glazbe-nastupa-uz-kruder-dorfmeistera-u-sibeniku/7229595/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/kad-tako-besramno-pokazujes-grudi-pozivas-muskarce-da-ih-diraju-novinar-popljuvao-mladu-glumicu-zbog-izbora-odjece-ona-mu-brutalno-spustila/6945294/">
-'KAD TAKO BESRAMNO POKAZUJEŠ GRUDI, POZIVAŠ MUŠKARCE DA IH DIRAJU' Novinar popljuvao mladu glumicu zbog izbora odjeæe, ona mu brutalno 'spustila' </a>
+<a href="https://www.jutarnji.hr/kultura/glazba/glavna-zvijezda-aftershowa-na-tvrdavi-sv-mihovil-ikona-svjetske-scene-elektronicke-glazbe-nastupa-uz-kruder-dorfmeistera-u-sibeniku/7229595/">
+GLAVNA ZVIJEZDA AFTERSHOWA NA TVRÐAVI SV. MIHOVIL Ikona svjetske scene elektronièke glazbe nastupa uz Kruder & Dorfmeistera u Šibeniku
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="arhitektura media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/arhitektura/foto-nasljednik-jurja-dalmatinca-mijenja-vizure-najvecih-dalmatinskih-gradova-ovo-su-veliki-projekti-koji-ce-preporoditi-split-zadar-i-sibenik/5257415/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/foto-nasljednik-jurja-dalmatinca-mijenja-vizure-najvecih-dalmatinskih-gradova-ovo-su-veliki-projekti-koji-ce-preporoditi-split-zadar-i-sibenik/5257415/">
+FOTO: NASLJEDNIK JURJA DALMATINCA MIJENJA VIZURE NAJVEÆIH DALMATINSKIH GRADOVA 'Ovo su veliki projekti koji æe preporoditi Split, Zadar i Šibenik!'
+</a>
 </h4>
 </li>
 </ul>
@@ -1424,13 +1498,13 @@ data-widget-position="0">
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1442,8 +1516,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1455,13 +1529,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1473,8 +1547,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1486,13 +1560,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1504,8 +1578,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1517,17 +1591,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1535,9 +1609,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1619,7 +1692,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7284316" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7333944" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1663,19 +1736,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="glazba media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-prevruce-cak-i-za-miami-slavni-dj-na-plazi-nije-htio-skinuti-ni-majicu-ali-zato-je-njegova-prelijepa-supruga-pokazala-i-previse/7281462/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/kawasaki-3p-usred-tjedna-slavi-25-godina-i-dalje-smo-spremni-na-gazu-zakasniti-zbog-dobrih-kremsnita/7329225/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-prevruce-cak-i-za-miami-slavni-dj-na-plazi-nije-htio-skinuti-ni-majicu-ali-zato-je-njegova-prelijepa-supruga-pokazala-i-previse/7281462/">
-KAO OD MAJKE ROÐENA
+<a href="https://www.jutarnji.hr/kultura/glazba/kawasaki-3p-usred-tjedna-slavi-25-godina-i-dalje-smo-spremni-na-gazu-zakasniti-zbog-dobrih-kremsnita/7329225/">
+TRIPANJE NA SCENI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-prevruce-cak-i-za-miami-slavni-dj-na-plazi-nije-htio-skinuti-ni-majicu-ali-zato-je-njegova-prelijepa-supruga-pokazala-i-previse/7281462/">
-FOTO: PREVRUÆE ÈAK I ZA MIAMI! Slavni DJ na plaži nije htio skinuti ni majicu, ali zato je njegova prelijepa supruga pokazala i previše
+<a href="https://www.jutarnji.hr/kultura/glazba/kawasaki-3p-usred-tjedna-slavi-25-godina-i-dalje-smo-spremni-na-gazu-zakasniti-zbog-dobrih-kremsnita/7329225/">
+KAWASAKI 3P USRED TJEDNA SLAVI 25 GODINA 'I dalje smo spremni na gažu zakasniti zbog dobrih kremšnita'
 </a>
 </h4>
 </div>
@@ -1685,19 +1758,19 @@ FOTO: PREVRUÆE ÈAK I ZA MIAMI! Slavni DJ na plaži nije htio skinuti ni majicu, a
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="glazba media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/potresni-detalji-iz-zivota-prerano-preminulog-dj-a-na-dan-je-zaradivao-250000-dolara-prije-par-mjeseci-otkrio-nastavim-li-nastupati-umrijet-cu/7282339/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/potresni-detalji-iz-zivota-prerano-preminulog-dj-a-na-dan-je-zaradivao-250000-dolara-prije-par-mjeseci-otkrio-nastavim-li-nastupati-umrijet-cu/7282339/">
-AVICII
+<a href="https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/">
+GLAZBENI SPEKTAKL
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/potresni-detalji-iz-zivota-prerano-preminulog-dj-a-na-dan-je-zaradivao-250000-dolara-prije-par-mjeseci-otkrio-nastavim-li-nastupati-umrijet-cu/7282339/">
-POTRESNI DETALJI IZ ŽIVOTA PRERANO PREMINULOG DJ-a Na dan je zaraðivao 250.000 dolara, prije par mjeseci otkrio: 'Nastavim li nastupati, umrijet æu'
+<a href="https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/">
+MAKSIM MRVICA PONOVNO NA NAJLJEPŠOJ POZORNICI JADRANA Pijanist svjetskog ugleda nakon tri godine vraæa se u svoj Šibenik na tvrðavu sv. Mihovila
 </a>
 </h4>
 </div>
@@ -1707,20 +1780,19 @@ POTRESNI DETALJI IZ ŽIVOTA PRERANO PREMINULOG DJ-a Na dan je zaraðivao 250.000 d
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="glazba media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/zivot-ugledne-arhitektice-u-samo-mjesec-dana-okrenuo-se-naglavacke-zatelebala-se-u-brada-pitta-ali-nije-racunala-sto-ce-joj-nova-ljubav-donijeti/7275996/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/sve-je-spremno-za-drugi-sea-star-donosimo-vam-46-najvaznijih-brojki-i-cinjenica-o-spektakularnom-festivalu-u-umagu/7317087/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/zivot-ugledne-arhitektice-u-samo-mjesec-dana-okrenuo-se-naglavacke-zatelebala-se-u-brada-pitta-ali-nije-racunala-sto-ce-joj-nova-ljubav-donijeti/7275996/">
-NERI OXMAN
+<a href="https://www.jutarnji.hr/kultura/glazba/sve-je-spremno-za-drugi-sea-star-donosimo-vam-46-najvaznijih-brojki-i-cinjenica-o-spektakularnom-festivalu-u-umagu/7317087/">
+LANI JE DOŠLO 50 TISUÆA LJUDI!
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/zivot-ugledne-arhitektice-u-samo-mjesec-dana-okrenuo-se-naglavacke-zatelebala-se-u-brada-pitta-ali-nije-racunala-sto-ce-joj-nova-ljubav-donijeti/7275996/">
-ŽIVOT UGLEDNE ARHITEKTICE U SAMO MJESEC DANA OKRENUO SE NAGLAVAÈKE 'Zatelebala se u Brada Pitta, ali nije raèunala što æe joj nova ljubav donijeti'
-</a>
+<a href="https://www.jutarnji.hr/kultura/glazba/sve-je-spremno-za-drugi-sea-star-donosimo-vam-46-najvaznijih-brojki-i-cinjenica-o-spektakularnom-festivalu-u-umagu/7317087/">
+SVE JE SPREMNO ZA DRUGI SEA STAR Donosimo vam 46 najvažnijih brojki i èinjenica o spektakularnom festivalu u Umagu </a>
 </h4>
 </div>
 </div>
@@ -1729,19 +1801,19 @@ NERI OXMAN
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="glazba media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/">
-INTERVJU ZA JUTARNJI
+<a href="https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/">
+SUPERUHO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/">
-EKSKLUZIVNO: IVANA TRUMP ISKRENO I OTVORENO O BIVŠEM MUŽU I PRVOJ DAMI AMERIKE 'S Melanijom sam dobra, ali ne bih joj voljela biti u koži...'
+<a href="https://www.jutarnji.hr/kultura/glazba/yo-la-tengo-u-jedinstvu-povratak-kultnih-indie-rockera-koji-su-snimili-temu-za-simpsone-i-glumili-velvet-underground-u-filmu/7330923/">
+YO LA TENGO U JEDINSTVU Povratak kultnih indie rockera koji su snimili temu za Simpsone i glumili Velvet Underground u filmu
 </a>
 </h4>
 </div>
@@ -1779,19 +1851,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1799,8 +1871,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1889,6 +1961,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -2016,7 +2093,7 @@ Film i televizija
 Književnost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/glazba/">
 Glazba
 </a>
@@ -2050,7 +2127,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -2176,11 +2253,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2228,14 +2300,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/scena/sve-sto-vas-je-ikad-zanimalo-o-westworldu-jednoj-od-najboljih-i-najgledanijih-serija-koje-mozete-pratiti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524572048profimedia-0305220521.jpg?v=1524572100" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>STIGLA JE DRUGA SEZONA/Sve što vas je ikad zanimalo o &#039;Westworldu&#039;, jednoj od najboljih i najgledanijih serija koje možete pratiti</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2279,45 +2351,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=53&contextPath=1-51-53-&pubId=1&cat=&meta=read-story&objId=7284316&type=article&title=FOTO%3a+SKRIVALA+SE+OD+KAMERA%2c+ALI+NJEZINO+LICE+BA%c5%a0+NIKOGA+NIJE+ZANIMALO+Seksipilna+glumica+na+sebe+stavila+najkra%c4%87u+haljinicu+ikada&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2ffoto-skrivala-se-od-kamera-ali-njezino-lice-bas-nikoga-nije-zanimalo-seksipilna-glumica-na-sebe-stavila-najkracu-haljinicu-ikada%2f7284316%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=45&contextPath=1-43-45-&pubId=1&cat=&meta=read-story&objId=7333944&type=article&title=MAKSIM+MRVICA+PONOVNO+NA+NAJLJEP%c5%a0OJ+POZORNICI+JADRANA+Pijanist+svjetskog+ugleda+nakon+tri+godine+vra%c4%87a+se+u+svoj+%c5%a0ibenik+na+tvr%c4%91avu+sv.+Mihovila&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fglazba%2fmaksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila%2f7333944%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=53&amp;contextPath=1-51-53-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7284316&amp;type=article&amp;title=FOTO%3a+SKRIVALA+SE+OD+KAMERA%2c+ALI+NJEZINO+LICE+BA%c5%a0+NIKOGA+NIJE+ZANIMALO+Seksipilna+glumica+na+sebe+stavila+najkra%c4%87u+haljinicu+ikada&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2ffoto-skrivala-se-od-kamera-ali-njezino-lice-bas-nikoga-nije-zanimalo-seksipilna-glumica-na-sebe-stavila-najkracu-haljinicu-ikada%2f7284316%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=45&amp;contextPath=1-43-45-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7333944&amp;type=article&amp;title=MAKSIM+MRVICA+PONOVNO+NA+NAJLJEP%c5%a0OJ+POZORNICI+JADRANA+Pijanist+svjetskog+ugleda+nakon+tri+godine+vra%c4%87a+se+u+svoj+%c5%a0ibenik+na+tvr%c4%91avu+sv.+Mihovila&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fglazba%2fmaksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila%2f7333944%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&cat=jltags%40eph.hr%2c2016&objId=268783739&title=strane+zvijezde&url=tag%3ajltags%40eph.hr%2c2016%3astrane_zvijezde&rt=1&ctxId=53&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&cat=jltags%40eph.hr%2c2016&objId=1143947813&title=Maksim+Mrvica&url=tag%3ajltags%40eph.hr%2c2016%3aMaksim_Mrvica&rt=1&ctxId=45&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=268783739&amp;title=strane+zvijezde&amp;url=tag%3ajltags%40eph.hr%2c2016%3astrane_zvijezde&amp;rt=1&amp;ctxId=53&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1143947813&amp;title=Maksim+Mrvica&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMaksim_Mrvica&amp;rt=1&amp;ctxId=45&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&cat=jltags%40eph.hr%2c2016&objId=244573099&title=Ariel+Winter&url=tag%3ajltags%40eph.hr%2c2016%3aAriel_Winter&rt=1&ctxId=53&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&cat=jltags%40eph.hr%2c2016&objId=643514407&title=%c5%a0ibenik&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25A0ibenik&rt=1&ctxId=45&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=244573099&amp;title=Ariel+Winter&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAriel_Winter&amp;rt=1&amp;ctxId=53&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&cat=jltags%40eph.hr%2c2016&objId=1627512903&title=Levi+Meaden&url=tag%3ajltags%40eph.hr%2c2016%3aLevi_Meaden&rt=1&ctxId=53&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1627512903&amp;title=Levi+Meaden&amp;url=tag%3ajltags%40eph.hr%2c2016%3aLevi_Meaden&amp;rt=1&amp;ctxId=53&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-45-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=643514407&amp;title=%c5%a0ibenik&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25A0ibenik&amp;rt=1&amp;ctxId=45&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2370,7 +2431,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-skrivala-se-od-kamera-ali-njezino-lice-bas-nikoga-nije-zanimalo-seksipilna-glumica-na-sebe-stavila-najkracu-haljinicu-ikada/7284316/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2380,14 +2441,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-skrivala-se-od-kamera-ali-njezino-lice-bas-nikoga-nije-zanimalo-seksipilna-glumica-na-sebe-stavila-najkracu-haljinicu-ikada/7284316/",
-postId : "7284316",
+url : "https://www.jutarnji.hr/kultura/glazba/maksim-mrvica-ponovno-na-najljepsoj-pozornici-jadrana-pijanist-svjetskog-ugleda-nakon-tri-godine-vraca-se-u-svoj-sibenik-na-tvrdavu-sv-mihovila/7333944/",
+postId : "7333944",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "FOTO: SKRIVALA SE OD KAMERA, ALI NJEZINO LICE BAŠ NIKOGA NIJE ZANIMALO Seksipilna glumica na sebe stavila najkraæu haljinicu ikada",
-pubdate : "2018-04-25 10:40",
-authors : "Ana Soriæ",
-sections : "Front Page, Spektakli, Strane zvijezde",
-tags : "strane zvijezde, Ariel Winter, Levi Meaden",
+title : "MAKSIM MRVICA PONOVNO NA NAJLJEPŠOJ POZORNICI JADRANA Pijanist svjetskog ugleda nakon tri godine vraæa se u svoj Šibenik na tvrðavu sv. Mihovila",
+pubdate : "2018-05-08 18:37",
+authors : "Silvija Novak",
+sections : "Front Page, Glazba",
+tags : "Maksim Mrvica, Šibenik",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

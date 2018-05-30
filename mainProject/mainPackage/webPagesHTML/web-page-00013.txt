@@ -3,10 +3,10 @@
 >
 <head>
 <meta name="description" content=" " />
-<meta name="keywords" content="Kim Kardashian" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="keywords" content="Croatia Airlines" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>KIM KARDASHIAN IZNENADILA GOLIM FOTOGRAFIJAMA Reality zvijezda imala je svoj plan, ali ovakvu reakciju obožavatelja nije oèekivala: &#039;Vulgarna si!&#039; - Jutarnji List</title>
+<title>AGONIJA PUTNIKA NA LETU CROATIA AIRLINESA IZ ZAGREBA ZA BRAÈ &#039;Putovali smo gotovo 20 sati, moji u Bolu su veæ mislili da nam se avion srušio&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Strane zvijezde";
-var dfpCategoryParent = "Spektakli";
-var dfpRos = "spektakli-ros";
-var dfpArticle = "7285252";
-var dfpArticleKeyword = "Kim Kardashian";
+var dfpCategory = "Hrvatska";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7334442";
+var dfpArticleKeyword = "Croatia Airlines";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-iznenadila-golim-fotografijama-reality-zvijezda-imala-je-svoj-plan-ali-ovakvu-reakciju-obozavatelja-nije-ocekivala-vulgarna-si/7285252/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-iznenadila-golim-fotografijama-reality-zvijezda-imala-je-svoj-plan-ali-ovakvu-reakciju-obozavatelja-nije-ocekivala-vulgarna-si/7285252/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/agonija-putnika-na-letu-croatia-airlinesa-iz-zagreba-za-brac-putovali-smo-gotovo-20-sati-moji-u-bolu-su-vec-mislili-da-nam-se-avion-srusio/7334442/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/agonija-putnika-na-letu-croatia-airlinesa-iz-zagreba-za-brac-putovali-smo-gotovo-20-sati-moji-u-bolu-su-vec-mislili-da-nam-se-avion-srusio/7334442/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,20 +652,20 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-west/4928573/ALTERNATES/LANDSCAPE_1180/Kim%20Kardashian%20West" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/bbimagehandlerashxjpg/7334448/ALTERNATES/LANDSCAPE_1180/bbimagehandler.ashx.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-west/4928573/ALTERNATES/LANDSCAPE_1180/Kim%20Kardashian%20West">
-<meta property="og:title" content="KIM KARDASHIAN IZNENADILA GOLIM FOTOGRAFIJAMA Reality zvijezda imala je svoj plan, ali ovakvu reakciju obožavatelja nije oèekivala: 'Vulgarna si!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/bbimagehandlerashxjpg/7334448/ALTERNATES/LANDSCAPE_1180/bbimagehandler.ashx.jpg">
+<meta property="og:title" content="AGONIJA PUTNIKA NA LETU CROATIA AIRLINESA IZ ZAGREBA ZA BRAÈ 'Putovali smo gotovo 20 sati, moji u Bolu su veæ mislili da nam se avion srušio'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-iznenadila-golim-fotografijama-reality-zvijezda-imala-je-svoj-plan-ali-ovakvu-reakciju-obozavatelja-nije-ocekivala-vulgarna-si/7285252/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/agonija-putnika-na-letu-croatia-airlinesa-iz-zagreba-za-brac-putovali-smo-gotovo-20-sati-moji-u-bolu-su-vec-mislili-da-nam-se-avion-srusio/7334442/" />
 <meta property="og:site_name" content="jutarnji.hr" />
 <meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Damjan Rakniæ">
-<meta name="twitter:title" content="KIM KARDASHIAN IZNENADILA GOLIM FOTOGRAFIJAMA Reality zvijezda imala je svoj plan, ali ovakvu reakciju obožavatelja nije oèekivala: 'Vulgarna si!'">
+<meta name="twitter:creator" content="Marijo Kavain/SD">
+<meta name="twitter:title" content="AGONIJA PUTNIKA NA LETU CROATIA AIRLINESA IZ ZAGREBA ZA BRAÈ 'Putovali smo gotovo 20 sati, moji u Bolu su veæ mislili da nam se avion srušio'">
 <meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Strane zvijezde, Spektakli, Front Page",
-pubdate: "2018-04-25T15:31+02:00",
-author: "Damjan Rakniæ",
+data: { section: "Hrvatska, Vijesti, Front Page",
+pubdate: "2018-05-08T21:49+02:00",
+author: "Marijo Kavain/SD",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="spektakli story">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -793,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -818,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -858,7 +858,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1049,7 +1054,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -1132,39 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a>
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">Strane zvijezde </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
-Domaæe zvijezde
-</a>
-</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
-Strane zvijezde
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/reality/">
-Reality
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/ups/">
-Ups!
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
-Na kavi sa...
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
-Zlatni Studio
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1204,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-MAJSTORICA PROMOCIJE
+PROBLEMI S DASHOM
 </p>
 <h1
 class="title">
-KIM KARDASHIAN IZNENADILA GOLIM FOTOGRAFIJAMA Reality zvijezda imala je svoj plan, ali ovakvu reakciju obožavatelja nije oèekivala: 'Vulgarna si!'
+AGONIJA PUTNIKA NA LETU CROATIA AIRLINESA IZ ZAGREBA ZA BRAÈ 'Putovali smo gotovo 20 sati, moji u Bolu su veæ mislili da nam se avion srušio'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1226,7 @@ KIM KARDASHIAN IZNENADILA GOLIM FOTOGRAFIJAMA Reality zvijezda imala je svoj pla
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/damjan-raknic">Damjan Rakniæ</a></li>
+<li>Marijo Kavain/SD</li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 15:31
+08.05.2018. u 21:49
 </p>
 </li>
 </ul>
@@ -1234,25 +1244,28 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="strane-zvijezde media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-west/4928573" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/bbimagehandlerashxjpg/7334448" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-west/4928573/ALTERNATES/LANDSCAPE_380/Kim%20Kardashian%20West"
+<img src="https://www.jutarnji.hr/incoming/bbimagehandlerashxjpg/7334448/ALTERNATES/LANDSCAPE_380/bbimagehandler.ashx.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-west/4928573/BINARY/thumbnail/Kim%20Kardashian%20West"
+data-src-template="https://www.jutarnji.hr/incoming/bbimagehandlerashxjpg/7334448/BINARY/thumbnail/bbimagehandler.ashx.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Kim Kardashian West poses as she arrives for the 20th Annual Webby Awards in Manhattan, New York, U.S., May 16, 2016. REUTERS/ - RTSEKYV"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Mike Segar / REUTERS
+<span> Nikola Viliæ/ Arhiv /Hanza Media
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Zraèna luka na Braèu</h4>
 </div>
 </div>
 </section>
@@ -1286,29 +1299,22 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285252"
+<div id="content-body-6263871-7334442"
 >
-<p>Zvijezda reality televizije <strong>Kim Kardashian</strong> (37) na društvenim je mrežama podijelila fotografije svog golog tijela kako bi promovirala svoj novi KKW parfem, piše <a href="https://www.standard.co.uk/showbiz/celebrity-news/gross-kim-kardashian-shocks-fans-with-full-frontal-naked-instagram-posts-a3822791.html" target="_blank">Evening Standard</a>. </p><p>Kardashian je na svojem Instagram profilu objavila fotografiju u kojoj je rukom prekrila svoje grudi i fotografiju svog tijela tijekom procesa stvaranja kalupa boèice u kojoj æe se parfem kasnije prodavati.</p><p> <section class="social_embed ">
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bh9Mu22F1Ru/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.48803827751196% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Bh9Mu22F1Ru/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">KKW BODY 4.30 by Vanessa Beecroft #KKWFRAGRANCE</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/kimkardashian/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Kim Kardashian West</a> (@kimkardashian) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-24T14:17:11+00:00">Apr 24, 2018 at 7:17am PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+<p>U pravu agoniju pretvorilo se putovanje iz Zagreba na Braè putnicima &quot;Croatia Airlinesa&quot; na letu OU 640, 5. svibnja, s polaskom u 11.40 iz Zagreba.</p><p>Na Braè su naime, vjerovali ili ne, stigli tek iduæi dan, a prevalili su trostruku udaljenost izmeðu glavnog grada i otoka.</p><p>Kako je <strong><a href="https://slobodnadalmacija.hr/novosti/hrvatska/clanak/id/545370/drama-u-zrakoplovu-croatia-airlinesa-putnici-od-zagreba-do-braca-putovali-20-sati-39toliki-strah-i-paniku-ne-mogu-niti-opisati-na-bolu-su-mislili-da-se-avion-srusio39" target="_blank">Slobodnoj Dalmaciji</a></strong> isprièao <strong>Aris Marineliæ</strong>, koji je na Braè putovao s trogodišnjom kæerkom, drama je poèela neposredno pred ciljem. S razglasa u zrakoplovu Dash èule su se reèenice koje vjerojatno predstavljaju pravi horor svakome tko je ikada putovao avionom.</p><p>Nama putnicima su iznad Trogira javili da je avion u malim nevoljama, odnosno da imaju sitni kvar, te da moramo sletjeti u Split. Onako isprepadani, ostavljeni smo da èekamo oko sat vremena bez ikakvih informacija oko nastavka putovanja – zapoèinje prièu Marineliæ.</p><h5>Indikator kvara</h5><p>Da je znao što se sprema, sasvim sigurno bi se zahvalio i krenuo prema trajektnoj luci, no nakon sat vremena èekanja, reèeno im je da je sve u redu i da nastavljaju putovanje kao što je planirano.</p><p>Nakon sat vremena èekanja, bez ikakvog obraæanja i objašnjenja, dobili smo obavijest da se vratimo u isti avion koji æe nas prevesti do braèkog aerodroma. Ušli smo u shuttle koji nas je doveo do aviona – prièa dalje Marineliæ.</p><p>Tu poèinje još zanimljiviji dio putovanja. Na zrakoplovu je, kaže Marineliæ, izvršena provjera rada motora još dok su putnici bili u shuttleu odmah pored aviona.</p><p>Od siline zraène struje mislili smo da æe se autobus prevrnuti. Bez ponuðenih opcija, putnici su se ukrcali i obavijestili svoje bližnje da su uskoro na Braèu. A meðu putnicima je bilo i onih s malom djecom, kao i starijih ljudi, primjerice jedan gospodin iz Luksemburga ili jedna gospoða koja je bez ikakvih problema s prijevozom stigla iz Australije.</p><p>Nimalo lijepa reklama za turizam, reklo bi se, nastavila se novim iznenaðenjima.</p><p>Èim smo poletjeli, opet se upalio indikator kvara, i avion je, eto, umjesto na Braè, ili barem Split, krenuo za Zagreb! Navodno, na Braè (zraèna luka iznad Bola op.a) nije mogao sletjeti zato što je u to vrijeme bilo slijetanje zrakoplova iz Ljubljane. Odluka da se vratimo svi u Zagreb navodno je donesena, kako nam je reèeno, u Zagrebu, jer je popravak zrakoplova jeftiniji ako se vrati u Zagreb, umjesto da sve šalju u Split.</p><p>Istraumatizirani i isprepadani putnici su tako iskrcani u Zagreb, gdje ih nitko od predstavnika kompanije nije doèekao niti im ponudio bilo kakvo pojašnjenje. Službenici na šalterima su im ponudili alternativnu opciju: let posljednjim letom za Split ili smještaj u hotelu i povratak dan kasnije. Ni po muke da i taj kasniji let nije – kasnio.</p><p>Umjesto u 22.20, avion je poletio u 22.50, tako da ljudi nisu imali nikakve šanse uhvatiti zadnji trajekt za otok koji iz Splita polazi u ponoæ. Buduæi da je prvi iduæi trajekt iz Splita za Braè u 6.30, putnici su najranije u Supetar mogli doæi oko 7.05. To znaèi da su na letu Zagreb - Braè proveli gotovo 20 sati. Ili, precizno, 19 sati i 25 minuta.</p><p>Ja sam odustao od leta i krenuo sam sutradan autobusom, a i to putovanje se pretvorilo u dramu. Mahniti vozaè autobusa je krenuo preko Maslenièkog mosta iako je bilo upozorenje za udare vjetra, vozio je kao luðak dvostruko brže od dozvoljene brzine...</p><h5>Tužba zbog straha</h5><p>Da ne spominjem da su svi koji su nas èekali na braèkom aerodromu, kojima nismo mogli javiti da se umjesto za Braè vraæamo u Zagreb, bili uvjereni da se avion srušio i da smo svi poginuli. Toliki strah i paniku ne mogu niti opisati, i sigurno &quot;alternativna rješenja&quot; koja su nam ponudili sve to ne mogu izbrisati. Ja znam da æu podnijeti tužbu zbog pretrpljenog straha i stresa, a znam da su drugo najavili i drugi putnici – kazao je Marineliæ.</p><p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<h5>Croatia Airlines: Putnici su dobili svu pripadajuæu skrb</h5><p>Nije bilo nikakvog sigurnosnog rizika za putnike, poruèuju iz CA, a putnicima koji su zakasnili na trajekt osigurano je noæenje u Trogiru i prijevoz do trajektne luke:</p><p>- U subotu 5. svibnja tijekom redovitog leta OU640 Zagreb – Braè došlo je do indikacije tehnièkog kvara na zrakoplovu Dash 8 - Q400. Zrakoplov je preventivno preusmjeren u ZL Split u kojoj, za razliku od ZL Braè, kompanija ima vlastitu tehnièku podršku, odnosno bolje moguænosti obavljanja tehnièkog pregleda i otklanjanja eventualnih kvarova. Zrakoplov je nakon tehnièkog pregleda u ZL Split i sigurnosne provjere rada motora vraæen u redoviti promet te je s putnicima ponovno poletio prema Braèu. Meðutim, i tijekom tog leta došlo je do iste indikacije tehnièkog kvara pa je zrakoplov, u skladu s kompanijskim sigurnosnim procedurama, preventivno preusmjeren u tehnièku bazu tvrtke u MZL Zagreb. Naglašavamo da navedene indikacije nisu predstavljale nikakav sigurnosni rizik za putnike i posadu. Naprotiv, preusmjeravanja zrakoplova obavljena su u skladu sa sigurnosnim politikom tvrtke i s ciljem da se zadrži najviša razina sigurnosti letenja. Takoðer, provjera rada motora u ZL Split takoðer je obavljena prema sigurnosnim standardima i nije predstavljala nikakav rizik za putnike, koji su tom prigodom bili u autobusu na stajanci.</p><p>Putnicima s leta OU640 pružena je sva pripadajuæa skrb u skladu s odredbama Europske regulative u vezi s poremeæajima u planiranom putovanju - nakon dolaska u Zagreb dobili su osvježenje (refreshment), a deset putnika iste je veèeri (prvim raspoloživim letom) prevezeno u Split, osiguran im je i prijevoz iz zraène luke do hotela u Trogiru, te sljedeæeg jutra prijevoz od hotela do trajektne luke, sve o trošku tvrtke.</p><p>Croatia Airlines isprièava se svim putnicima s leta OU640 zbog poremeæaja u planiranom putovanju. (SD)</p>
+</div>
 </section>
- </p><p> <section class="social_embed ">
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bh98em9l9Tk/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Bh98em9l9Tk/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">We took a mold of my body and made it a perfume bottle. @kkwfragrance</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/kimkardashian/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Kim Kardashian West</a> (@kimkardashian) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-24T21:14:23+00:00">Apr 24, 2018 at 2:14pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
-</section>
- </p><p>Nadalje, Kardashian je na Instagram profilu parfema KKW objavila fotografiju svog stomaka, bokova i strateški skrivenih genitalija, fotografiju svog trupa tijekom procesa stvaranja kalupa te fotografiju u kojoj je rukom prekrila svoje grudi.</p><p> <section class="social_embed ">
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bh9YjMlln33/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:40.324074074074076% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Bh9YjMlln33/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#KKWBODY, KKW FRAGRANCE’S NEWEST PERFUME, IS COMING SOON ON 04.30</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/kkwfragrance/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> KKW FRAGRANCE</a> (@kkwfragrance) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-24T16:00:27+00:00">Apr 24, 2018 at 9:00am PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
-</section>
- </p><p> <section class="social_embed ">
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bh9tmw-l4cC/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Bh9tmw-l4cC/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#KKWBODY, KKW FRAGRANCE’S NEWEST PERFUME, IS COMING SOON ON 04.30</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/kkwfragrance/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> KKW FRAGRANCE</a> (@kkwfragrance) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-24T19:04:26+00:00">Apr 24, 2018 at 12:04pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
-</section>
- </p><p> <section class="social_embed ">
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bh-B_HMlMsl/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.4537037037037% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Bh-B_HMlMsl/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#KKWBODY, KKW FRAGRANCE’S NEWEST PERFUME, IS COMING SOON ON 04.30</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/kkwfragrance/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> KKW FRAGRANCE</a> (@kkwfragrance) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-24T22:02:31+00:00">Apr 24, 2018 at 3:02pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
-</section>
- </p><p>Premda su navikli na to da Kardashian s vremena na vrijeme na društvenim mrežama objavljuje ovakve fotografije, ova najnovija tura nije naišla na odobravanje obožavatelja reality zvijezde.</p><p>Neki su fotografije etiketirali kao vulgarne, mnogi su je prozvali narcisom dok su je drugi potaknuli da se obuèe.</p><p>&quot;Kao majka, èak i da imam slavu i novac jer, da, imam tijelo, nikada ne bih objavila ovo sra*e. Bože moj, poštuj se i èuvaj to za oèi svog supruga i samo njegove. Odlièna stvar za ostaviti svojoj djeci. Oh, pogledajte, eno majka je opet gola&quot;, komenitrala je jedna korisnica.</p><p>&quot;O svašta, ženo obuci se... Nisi trebala objaviti fotografiju sebe gole samo da bi prodala parfem. Moj Bože&quot;, komentirao je drugi korisnik.</p><p>Drugi su je korisnici optužili da pokušava okupirati medijski prostor koji su ovih dana kontrolirale Beyonce i Rihanna zahvaljujuæi nastupima na glazbenom festivalu Coachella i lansiranju kolekcije donjeg rublja Savage X Fenty.</p><p>Meðutim, bilo je onih koji su je branili. &quot;Prestanite je izvrgavati ruglu zbog njezinog tijela. Svi ste vi mrzitelji zapravo njezini obožavatelji! Ako vas toliko vrijeða, gubite se sa stranice! Kim gori&quot;, napisao je jedan korisnik.</p><p>Parfem Kim Kardashian imena KKW na tržište izlazi 30. travnja. Reality zvijezda tvrdi da miriš poput zlata. </p>
+</div>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285252 p").filter(function () {
+$("#content-body-6263871-7334442 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1317,16 +1323,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285252").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7334442").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285252").children().slice(max).remove();
+$("#content-body-6263871-7334442").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285252").children().get(0);
+var firstChild = $("#content-body-6263871-7334442").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1364,8 +1370,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Kim_Kardashian" class ="label label-default" >
-Kim Kardashian
+<a href="https://www.jutarnji.hr/tag/Croatia_Airlines" class ="label label-default" >
+Croatia Airlines
 </a>
 </li>
 </ul>
@@ -1376,30 +1382,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="strane-zvijezde media none">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-skrivala-se-od-kamera-ali-njezino-lice-bas-nikoga-nije-zanimalo-seksipilna-glumica-na-sebe-stavila-najkracu-haljinicu-ikada/7284316/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/piloti-stjuardese-i-mehanicari-c-airlinesa-usred-ljeta-mogli-bi-u-strajk-sindikati-tvrde-da-firma-propada-uprava-se-ne-slaze-poziva-na-pregovore/7315329/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-skrivala-se-od-kamera-ali-njezino-lice-bas-nikoga-nije-zanimalo-seksipilna-glumica-na-sebe-stavila-najkracu-haljinicu-ikada/7284316/">
-FOTO: SKRIVALA SE OD KAMERA, ALI NJEZINO LICE BAŠ NIKOGA NIJE ZANIMALO Seksipilna glumica na sebe stavila najkraæu haljinicu ikada
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/piloti-stjuardese-i-mehanicari-c-airlinesa-usred-ljeta-mogli-bi-u-strajk-sindikati-tvrde-da-firma-propada-uprava-se-ne-slaze-poziva-na-pregovore/7315329/">
+PILOTI, STJUARDESE I MEHANIÈARI C. AIRLINESA USRED LJETA MOGLI BI U ŠTRAJK Sindikati tvrde da firma propada, Uprava se ne slaže, poziva na pregovore
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="spektakli media none">
+<article class="hrvatska media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/foto-zgodna-mama-svoju-kolekciju-kupacih-kostima-reklamira-sama-prelijepa-andelica-candice-u-novom-seksi-editorijalu-pokazala-sve-svoje-adute/7281762/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/croatia-airlines-sindikati-ce-se-do-kraja-tjedna-ocitovati-o-nastavku-kolektivnih-pregovora/7333992/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/foto-zgodna-mama-svoju-kolekciju-kupacih-kostima-reklamira-sama-prelijepa-andelica-candice-u-novom-seksi-editorijalu-pokazala-sve-svoje-adute/7281762/">
-FOTO: ZGODNA MAMA SVOJU KOLEKCIJU KUPAÆIH KOSTIMA REKLAMIRA - SAMA Prelijepa anðelica Candice u novom seksi editorijalu pokazala sve svoje adute
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/croatia-airlines-sindikati-ce-se-do-kraja-tjedna-ocitovati-o-nastavku-kolektivnih-pregovora/7333992/">
+Croatia Airlines: Sindikati æe se do kraja tjedna oèitovati o nastavku kolektivnih pregovora
 </a>
 </h4>
 </li>
@@ -1421,13 +1427,13 @@ FOTO: ZGODNA MAMA SVOJU KOLEKCIJU KUPAÆIH KOSTIMA REKLAMIRA - SAMA Prelijepa anð
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1439,8 +1445,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1452,13 +1458,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1470,8 +1476,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1483,13 +1489,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1501,8 +1507,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1514,17 +1520,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1532,9 +1538,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1616,7 +1621,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285252" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7334442" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1660,19 +1665,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-prevruce-cak-i-za-miami-slavni-dj-na-plazi-nije-htio-skinuti-ni-majicu-ali-zato-je-njegova-prelijepa-supruga-pokazala-i-previse/7281462/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-prevruce-cak-i-za-miami-slavni-dj-na-plazi-nije-htio-skinuti-ni-majicu-ali-zato-je-njegova-prelijepa-supruga-pokazala-i-previse/7281462/">
-KAO OD MAJKE ROÐENA
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/foto-prevruce-cak-i-za-miami-slavni-dj-na-plazi-nije-htio-skinuti-ni-majicu-ali-zato-je-njegova-prelijepa-supruga-pokazala-i-previse/7281462/">
-FOTO: PREVRUÆE ÈAK I ZA MIAMI! Slavni DJ na plaži nije htio skinuti ni majicu, ali zato je njegova prelijepa supruga pokazala i previše
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+KAKO GRADIÆ BLEIBURG ŽIVI UOÈI KOMEMORACIJE? Po prvi put dolaze 'austrijske kobre', a evo što lokalni mještani misle o gostima iz Hrvatske
 </a>
 </h4>
 </div>
@@ -1682,19 +1687,19 @@ FOTO: PREVRUÆE ÈAK I ZA MIAMI! Slavni DJ na plaži nije htio skinuti ni majicu, a
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/potresni-detalji-iz-zivota-prerano-preminulog-dj-a-na-dan-je-zaradivao-250000-dolara-prije-par-mjeseci-otkrio-nastavim-li-nastupati-umrijet-cu/7282339/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/potresni-detalji-iz-zivota-prerano-preminulog-dj-a-na-dan-je-zaradivao-250000-dolara-prije-par-mjeseci-otkrio-nastavim-li-nastupati-umrijet-cu/7282339/">
-AVICII
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+I TO JE HRVATSKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/potresni-detalji-iz-zivota-prerano-preminulog-dj-a-na-dan-je-zaradivao-250000-dolara-prije-par-mjeseci-otkrio-nastavim-li-nastupati-umrijet-cu/7282339/">
-POTRESNI DETALJI IZ ŽIVOTA PRERANO PREMINULOG DJ-a Na dan je zaraðivao 250.000 dolara, prije par mjeseci otkrio: 'Nastavim li nastupati, umrijet æu'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada
 </a>
 </h4>
 </div>
@@ -1704,19 +1709,19 @@ POTRESNI DETALJI IZ ŽIVOTA PRERANO PREMINULOG DJ-a Na dan je zaraðivao 250.000 d
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/zivot-ugledne-arhitektice-u-samo-mjesec-dana-okrenuo-se-naglavacke-zatelebala-se-u-brada-pitta-ali-nije-racunala-sto-ce-joj-nova-ljubav-donijeti/7275996/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/zivot-ugledne-arhitektice-u-samo-mjesec-dana-okrenuo-se-naglavacke-zatelebala-se-u-brada-pitta-ali-nije-racunala-sto-ce-joj-nova-ljubav-donijeti/7275996/">
-NERI OXMAN
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+KRŠENJE JAVNOG REDA I MIRA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/zivot-ugledne-arhitektice-u-samo-mjesec-dana-okrenuo-se-naglavacke-zatelebala-se-u-brada-pitta-ali-nije-racunala-sto-ce-joj-nova-ljubav-donijeti/7275996/">
-ŽIVOT UGLEDNE ARHITEKTICE U SAMO MJESEC DANA OKRENUO SE NAGLAVAÈKE 'Zatelebala se u Brada Pitta, ali nije raèunala što æe joj nova ljubav donijeti'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+VELIKI ŠOK ZA OSJEÈANKU Sunèala se na vlastitom balkonu, na vrata joj je pokucala policija i zalijepila novèanu kaznu: 'Jako je uznemirila susjeda'
 </a>
 </h4>
 </div>
@@ -1726,19 +1731,19 @@ NERI OXMAN
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="strane-zvijezde media c11a none">
+<article class="hrvatska media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/">
-INTERVJU ZA JUTARNJI
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+VELIKA INVESTICIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ekskluzivno-ivana-trump-iskreno-i-otvoreno-o-bivsem-muzu-i-prvoj-dami-amerike-s-melanijom-sam-dobra-ali-ne-bih-joj-voljela-biti-u-kozi/7273497/">
-EKSKLUZIVNO: IVANA TRUMP ISKRENO I OTVORENO O BIVŠEM MUŽU I PRVOJ DAMI AMERIKE 'S Melanijom sam dobra, ali ne bih joj voljela biti u koži...'
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+FOTO: POGLEDAJTE KAKO NAPREDUJU RADOVI NA ÈIOVSKOM MOSTU Snimili smo gradilište jednog od najvažnijih infrastrukturnih projekata u državi iz zraka
 </a>
 </h4>
 </div>
@@ -1776,19 +1781,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1796,8 +1801,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1856,7 +1861,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1884,6 +1889,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2047,7 +2057,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -2173,11 +2183,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2225,14 +2230,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/scena/sve-sto-vas-je-ikad-zanimalo-o-westworldu-jednoj-od-najboljih-i-najgledanijih-serija-koje-mozete-pratiti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524572048profimedia-0305220521.jpg?v=1524572100" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>STIGLA JE DRUGA SEZONA/Sve što vas je ikad zanimalo o &#039;Westworldu&#039;, jednoj od najboljih i najgledanijih serija koje možete pratiti</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2276,23 +2281,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=53&contextPath=1-51-53-&pubId=1&cat=&meta=read-story&objId=7285252&type=article&title=KIM+KARDASHIAN+IZNENADILA+GOLIM+FOTOGRAFIJAMA+Reality+zvijezda+imala+je+svoj+plan%2c+ali+ovakvu+reakciju+obo%c5%beavatelja+nije+o%c4%8dekivala%3a+%26%23039%3bVulgarna+si!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2fkim-kardashian-iznenadila-golim-fotografijama-reality-zvijezda-imala-je-svoj-plan-ali-ovakvu-reakciju-obozavatelja-nije-ocekivala-vulgarna-si%2f7285252%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7334442&type=article&title=AGONIJA+PUTNIKA+NA+LETU+CROATIA+AIRLINESA+IZ+ZAGREBA+ZA+BRA%c4%8c+%26%23039%3bPutovali+smo+gotovo+20+sati%2c+moji+u+Bolu+su+ve%c4%87+mislili+da+nam+se+avion+sru%c5%a1io%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fagonija-putnika-na-letu-croatia-airlinesa-iz-zagreba-za-brac-putovali-smo-gotovo-20-sati-moji-u-bolu-su-vec-mislili-da-nam-se-avion-srusio%2f7334442%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=53&amp;contextPath=1-51-53-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285252&amp;type=article&amp;title=KIM+KARDASHIAN+IZNENADILA+GOLIM+FOTOGRAFIJAMA+Reality+zvijezda+imala+je+svoj+plan%2c+ali+ovakvu+reakciju+obo%c5%beavatelja+nije+o%c4%8dekivala%3a+%26%23039%3bVulgarna+si!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2fkim-kardashian-iznenadila-golim-fotografijama-reality-zvijezda-imala-je-svoj-plan-ali-ovakvu-reakciju-obozavatelja-nije-ocekivala-vulgarna-si%2f7285252%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7334442&amp;type=article&amp;title=AGONIJA+PUTNIKA+NA+LETU+CROATIA+AIRLINESA+IZ+ZAGREBA+ZA+BRA%c4%8c+%26%23039%3bPutovali+smo+gotovo+20+sati%2c+moji+u+Bolu+su+ve%c4%87+mislili+da+nam+se+avion+sru%c5%a1io%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fagonija-putnika-na-letu-croatia-airlinesa-iz-zagreba-za-brac-putovali-smo-gotovo-20-sati-moji-u-bolu-su-vec-mislili-da-nam-se-avion-srusio%2f7334442%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&cat=jltags%40eph.hr%2c2016&objId=184370814&title=Kim+Kardashian&url=tag%3ajltags%40eph.hr%2c2016%3aKim_Kardashian&rt=1&ctxId=53&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2056225937&title=Croatia+Airlines&url=tag%3ajltags%40eph.hr%2c2016%3aCroatia_Airlines&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=184370814&amp;title=Kim+Kardashian&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKim_Kardashian&amp;rt=1&amp;ctxId=53&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2056225937&amp;title=Croatia+Airlines&amp;url=tag%3ajltags%40eph.hr%2c2016%3aCroatia_Airlines&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2345,7 +2350,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-iznenadila-golim-fotografijama-reality-zvijezda-imala-je-svoj-plan-ali-ovakvu-reakciju-obozavatelja-nije-ocekivala-vulgarna-si/7285252/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/agonija-putnika-na-letu-croatia-airlinesa-iz-zagreba-za-brac-putovali-smo-gotovo-20-sati-moji-u-bolu-su-vec-mislili-da-nam-se-avion-srusio/7334442/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2355,14 +2360,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/spektakli/strane-zvijezde/kim-kardashian-iznenadila-golim-fotografijama-reality-zvijezda-imala-je-svoj-plan-ali-ovakvu-reakciju-obozavatelja-nije-ocekivala-vulgarna-si/7285252/",
-postId : "7285252",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/agonija-putnika-na-letu-croatia-airlinesa-iz-zagreba-za-brac-putovali-smo-gotovo-20-sati-moji-u-bolu-su-vec-mislili-da-nam-se-avion-srusio/7334442/",
+postId : "7334442",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "KIM KARDASHIAN IZNENADILA GOLIM FOTOGRAFIJAMA Reality zvijezda imala je svoj plan, ali ovakvu reakciju obožavatelja nije oèekivala: 'Vulgarna si!'",
-pubdate : "2018-04-25 15:31",
-authors : "Damjan Rakniæ",
-sections : "Front Page, Strane zvijezde",
-tags : "Kim Kardashian",
+title : "AGONIJA PUTNIKA NA LETU CROATIA AIRLINESA IZ ZAGREBA ZA BRAÈ 'Putovali smo gotovo 20 sati, moji u Bolu su veæ mislili da nam se avion srušio'",
+pubdate : "2018-05-08 21:49",
+authors : "Marijo Kavain/SD",
+sections : "Front Page, Hrvatska",
+tags : "Croatia Airlines",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

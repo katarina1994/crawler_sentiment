@@ -2,19 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Zdravko Mamiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Adaptaciju dvoetažnog prostranog stana na istoku Zagreba radio je dizajnerski studio Dizviz. Finalni rezultat oduševio je zadovoljne vlasnike Ivu i Domagoja, a nas podsjetio na popularne loftove u New Yorku" />
+<meta name="keywords" content="industrijski stil, dvoetažni stan, adaptacija stana, dizajnerski studio Dizviz, dizajnerica interijera Vedrana Škaliæ, dizajner interijera Ivica Mamiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>ZDRAVKO MAMIÆ U VELIKOM INTERVJUU GLOBUSU &#039;Nisam kriv, ali ako budem morao u zatvor, napravit æu isto što i general Praljak!&#039; - Jutarnji List</title>
+<title>VIDEO: Industrijski štih potkrovlja u Dubravi - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
-<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
-<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
-<script>
-window.Criteo = window.Criteo || {};
-window.Criteo.events = window.Criteo.events || [];
-</script>
 <section>
 <!-- DFP verzija 11 -->
 <script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
@@ -200,15 +193,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "Unknown";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Politika";
-var dfpCategoryParent = "Globus";
-var dfpRos = "globus-ros";
-var dfpArticle = "7281198";
-var dfpArticleKeyword = "Zdravko Mamiæ";
+var dfpCategory = "Interijeri";
+var dfpCategoryParent = "Dom&Dizajn";
+var dfpRos = "domidizajn-ros";
+var dfpArticle = "7325133";
+var dfpArticleKeyword = "industrijski stil";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,7 +566,16 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
+<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
+<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+</script>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -593,42 +595,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<script>
-var elipsoResizeTimeout;
-function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
-if (!elipsoResizeTimeout) {
-elipsoResizeTimeout = setTimeout(function() {
-elipsoResizeTimeout = null;
-elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
-}, 250);
-}
-}
-function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
-var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-var elipsoBreakpoint = 0;
-var elipsoBreakpoints = [768, 992, 1200];
-for (i = 0; i < elipsoBreakpoints.length; i++) {
-if (windowWidth >= elipsoBreakpoints[i]) {
-elipsoBreakpoint = elipsoBreakpoints[i];
-}
-}
-var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
-var elipsoIframeWH = elipsoIframeSize.split('x');
-var elipsoIframe = document.getElementById(elipsoIframeId);
-var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
-var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
-if (currentElipsoIframeSrc !== elipsoIframeSrc) {
-elipsoIframe.setAttribute("src", elipsoIframeSrc);
-elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
-elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
-elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
-elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
-}
-}
-</script>
+<meta property="article:author" content="https://www.facebook.com/domidizajn" />
+<meta property="article:publisher" content="https://www.facebook.com/domidizajn" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Domidizajn.hr" />
+<meta name="twitter:site" content="Domidizajn.hr" />
 <style>
-.displaynone-upscore-hack {
-display: none ;
+div.overline_uppercase {
+text-transform: uppercase;
+}
+div.overline_lowercase {
+text-transform: lowercase;
+}
+div.overline_capitalize {
+text-transform: capitalize;
 }
 </style>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
@@ -638,8 +618,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-politika/zdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak/7281198/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-politika/zdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak/7281198/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/domidizajn/interijeri/video-industrijski-stih-potkrovlja-u-dubravi/7325133/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/domidizajn/interijeri/video-industrijski-stih-potkrovlja-u-dubravi/7325133/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +632,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/mamic/7281228/ALTERNATES/LANDSCAPE_1180/mami%C4%87" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/stan3-300318jpg/7325148/ALTERNATES/LANDSCAPE_1180/stan3-300318.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/mamic/7281228/ALTERNATES/LANDSCAPE_1180/mami%C4%87">
-<meta property="og:title" content="ZDRAVKO MAMIÆ U VELIKOM INTERVJUU GLOBUSU 'Nisam kriv, ali ako budem morao u zatvor, napravit æu isto što i general Praljak!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/stan3-300318jpg/7325148/ALTERNATES/LANDSCAPE_1180/stan3-300318.jpg">
+<meta property="og:title" content="VIDEO: Industrijski štih potkrovlja u Dubravi" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-politika/zdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak/7281198/" />
+<meta property="og:url" content="https://www.jutarnji.hr/domidizajn/interijeri/video-industrijski-stih-potkrovlja-u-dubravi/7325133/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Adaptaciju dvoetažnog prostranog stana na istoku Zagreba radio je dizajnerski studio Dizviz. Finalni rezultat oduševio je zadovoljne vlasnike Ivu i Domagoja, a nas podsjetio na popularne loftove u New Yorku" />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Zdravko Milinoviæ">
-<meta name="twitter:title" content="ZDRAVKO MAMIÆ U VELIKOM INTERVJUU GLOBUSU 'Nisam kriv, ali ako budem morao u zatvor, napravit æu isto što i general Praljak!'">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content="Danijela Kovaèeviæ">
+<meta name="twitter:title" content="VIDEO: Industrijski štih potkrovlja u Dubravi">
+<meta name="twitter:description" content="Adaptaciju dvoetažnog prostranog stana na istoku Zagreba radio je dizajnerski studio Dizviz. Finalni rezultat oduševio je zadovoljne vlasnike Ivu i Domagoja, a nas podsjetio na popularne loftove u New Yorku">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +657,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2447';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2445';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +669,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Politika, Globus, Front Page",
-pubdate: "2018-04-24T15:30+02:00",
-author: "Zdravko Milinoviæ",
+data: { section: "Interijeri, Dom&Dizajn, Front Page",
+pubdate: "2018-05-08T22:27+02:00",
+author: "Danijela Kovaèeviæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="globus story">
+<body class="domdizajn story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -743,6 +723,7 @@ $("#related-news-box").remove();
 </script>
 <div class="container">
 <header class="mainHead brandedHead " role="banner">
+<a name="top"></a>
 <script>
 window.fbAsyncInit = function() {
 FB.init({
@@ -760,7 +741,6 @@ js.src = "https://connect.facebook.net/en_US/sdk.js";
 fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 </script>
-<a name="top"></a>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -775,7 +755,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>25.4.</span>2018.
+<span>09.5.</span>2018.
 </p>
 <p class="day">
 srijeda
@@ -845,6 +825,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1082,46 +1067,45 @@ Mozgalice
 </div>
 </div>
 <div class="subBranding ">
-<span class="logo"><a href="/globus">Globus</a></span>
+<span class="logo"><a href="/domidizajn">Dom i dizajn</a></span>
 </div>
 <div class="subLevelNavbar ">
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/globus/">
+<a href="https://www.jutarnji.hr/domidizajn/">
 Naslovnica
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/">
-Politika
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/">
+Interijeri
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/globus/Globus-biznis/">
-Biznis
+<a href="https://www.jutarnji.hr/domidizajn/inspiracije/">
+Inspiracije
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/globus/Globus-svijet/">
-Svijet
+<a href="https://www.jutarnji.hr/domidizajn/dd-vrt/">
+D&amp;D Vrt
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/globus/Globus-zivot/">
-Život
+<a href="https://www.jutarnji.hr/domidizajn/savjeti/">
+Savjeti
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/globus/Globus-kultura/">
-Kultura
+<a href="https://www.jutarnji.hr/domidizajn/eksterijeri/">
+Eksterijeri
 </a>
 </li>
 </ul>
 <ul class="nav navbar-nav socialChannels">
 <li>
-<a class="facebook_follow" href="https://www.facebook.com/globus.hr/">
-<span class="text-hide">Facebook</span>
-</a>
+<a href="https://www.facebook.com/domidizajn/" class="facebook_follow" target="_blank"><span class="text-hide">Facebook</span></a>
+<a class="instagram_follow" href="https://www.instagram.com/domidizajn/" target="_blank"><span class="text-hide">Instagram</span></a>
 </li>
 </ul>
 </div>
@@ -1167,12 +1151,12 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="col-sm-12 ">
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
-class="overline">
-'MOJA NAJTEŽA BITKA ZA DINAMO'
+class="overline overline_uppercase">
+STAN MJESECA
 </p>
 <h1
 class="title">
-ZDRAVKO MAMIÆ U VELIKOM INTERVJUU GLOBUSU 'Nisam kriv, ali ako budem morao u zatvor, napravit æu isto što i general Praljak!'
+VIDEO: Industrijski štih potkrovlja u Dubravi
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1180,7 +1164,7 @@ ZDRAVKO MAMIÆ U VELIKOM INTERVJUU GLOBUSU 'Nisam kriv, ali ako budem morao u zat
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/zdravko-milinovic">Zdravko Milinoviæ</a></li>
+<li><a href="https://www.jutarnji.hr/autori/danijela-kovacevic">Danijela Kovaèeviæ</a></li>
 </ul>
 </p>
 </li>
@@ -1188,7 +1172,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 15:30
+08.05.2018. u 22:27
 </p>
 </li>
 </ul>
@@ -1200,27 +1184,22 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/mamic/7281228" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/stan3-300318jpg/7325148" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/mamic/7281228/ALTERNATES/LANDSCAPE_380/mami%C4%87"
+<img src="https://www.jutarnji.hr/incoming/stan3-300318jpg/7325148/ALTERNATES/LANDSCAPE_380/stan3-300318.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/mamic/7281228/BINARY/thumbnail/mami%C4%87"
+data-src-template="https://www.jutarnji.hr/incoming/stan3-300318jpg/7325148/BINARY/thumbnail/stan3-300318.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 240314.
-Stadion Maksimir.
-Tomislav Svetina direktor GNK Dinamo i Zdravko Mamic odrzali konferenciju za medije na temu organizacije utakmice Hajduk - Dinamo.
-Na fotografiji: Zdravko Mamic.
-Foto: Damir Krajac / CROPIX"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> Damir Krajaè / CROPIX
-</span>
-</div>
 </div>
 </div>
 </section>
@@ -1229,7 +1208,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p> </p>
+<p align="justify"><u><strong>Adaptaciju dvoetažnog prostranog stana na istoku Zagreba radio je dizajnerski studio Dizviz. Finalni rezultat oduševio je zadovoljne vlasnike, a nas podsjetio na popularne loftove u New Yorku</strong></u></p>
 </p>
 </section>
 <section>
@@ -1254,23 +1233,37 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7281198"
+<div id="content-body-6263871-7325133"
 >
-<p>«Nisam kriv. Meni su izmislili ta djela za koja mi sude. I još ta izmišljena djela žele dokazati nezakonitim radnjama. To je zastrašujuæe. Ja nemam druge opcije nego boriti se na sudu. Ali, kad bih morao iæi u zatvor, ja bih napravio isto što i general <strong>Praljak</strong>. Ja sam vjernik i katolik, i to je u mojoj vjeri nedopustivo. Ali kad sam vidio što je napravio on, bio sam inspiriran i ja bih bez ikakve grižnje savjesti to isto napravio. Nikad u životu ne bih ušao u hrvatski zatvor nevin», kaže <strong>Zdravko Mamiæ</strong> u velikome intervjuu Globusu, u kojem potanko iznosi svoj pogled na kompliciranu sudsku dramu u kojoj se našao na optuženièkoj klupi.</p><p>Dugogodišnji stvarni èovjek broj 1 kluba u Maksimiru, glavni operativac, sada u funkciji savjetnika Uprave, kojemu se na Županijskom sudu u Osijeku sudi po Uskokovoj optužnici da je zajedno s bratom <strong>Zoranom</strong>, <strong>Damirom Vrbanoviæem</strong> i <strong>Milanom Pernarom</strong> oštetio GNK Dinamo za 115,8 milijuna kuna, a državu za 12,2 milijuna, uvjeren je da æe svi procesi što se vode protiv njega biti zaustavljeni.</p><p>«Milijardu posto siguran sam u to. Ti su procesi veæ davno morali biti prekinuti jer ih provodi i potpisuje neovlašteni tužitelj, neovlaštena osoba. Siguran sam da æu dobiti u svim procesima koji se protiv mene vode, ili u Osijeku, ili na Vrhovnom, ili na Ustavnom sudu, pa èak možda i na europskim sudovima u Strasbourgu ili Luksemburgu», govori Mamiæ.</p><p>Iako nimalo ne sumnja u konaèni uspjeh svoje pravosudne bitke, muèe ga, kaže, odreðeni strahovi: «Ali da mi nije svejedno, nije. I sada kad s vama razgovaram, tresem se kao Banjaluka 1968. kad je bio potres. Stanje spisa je za mene savršeno, ali svjedoci smo niza nezakonitosti još od poèetka istrage. Zbog toga se ja osobno bojim jer ne vjerujem u sve pravosudne institucije u Hrvatskoj.»</p><p>Na pitanje kako komentira odlazak <strong>Dinka Cvitana</strong> s dužnosti glavnoga državnog odvjetnika Mamiæ odgovara: «Želim vjerovati da æe s njegovim odlaskom situacija za mene postati bolja zato što je on osobno bio motiviran za moj progon. Ja to znam i za to imam dokaze, ali se, nažalost, njima ne mogu poslužiti. On je moju glavu obeæao bivšoj Vladi. Ja sam politièki procesuirana osoba.»</p><p><strong>Kakva je buduænost Dinama, ima li Mamiæ plan B za klub?</strong></p><p>«Najbolji plan B za Dinamo jest nastavak zapoèete privatizacije i dolazak nekih novih vlasnika koji æe voditi klub bez mene, bez optereæenja mojim prisustvom i mojim istragama», kaže Mamiæ.</p><p><strong>Namjerava li sudjelovati u privatizaciji?</strong></p><p>«Ne namjeravam jer, i da mi nije blokirana imovina, ja nemam ta sredstva. Ni ja ni cijela moja obitelj u ovom trenutku nemamo jednu lipu na raspolaganju.»</p><p>U intervjuu Zdravko Mamiæ govori i o procesuiranju <strong>Luke Modriæa</strong> za lažno svjedoèenje, o naèinu podjele transfera nakon prodaje igraèa, o tome zašto se boji iæi u Dalmaciju, o bratu <strong>Zoranu</strong> koji se nakon živèanog sloma oporavio i postigao veliki uspjeh u Ujedinjenim Arapskim Emiratima...</p><h2><em>Cijeli intervju možete proèitati u tiskanom izdanju novoga broja Globusa:</em></h2><h2><em>
+<p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<p><strong>INFO: stan u potkrovlju na dvije etaže od 165 kvadrata<br>LOKACIJA:</strong> Zagreb<br><strong>PROJEKT:</strong> <a href="http://www.dizviz.hr" target="_blank">dizajnerski studio Dizviz</a><br><strong>VLASNICI:</strong> mladi braèni par </p>
+</div>
+</section>
+</div>
+ </p><p align="justify">Projekt adaptacije potkrovlja na dvije etaže u industrijskom stilu s potpisom dizajnerskog studija Dizviz uz lijepu selekciju tekstura, materijala i namještaja. Nas nije ostavio ravnodušnim! Dovoljan je bio jedan pogled i veæ sljedeæi trenutak znala sam da je rijeè o iznimnom prostoru. To je to! Potkrovlje sa svim karakteristikama pravog industrijskog lofta postoji i u Zagrebu. Kakva divota! Puno hrastovo drvo, cigla, metal, betonski premazi... Može li bolje? Sama èinjenica da se nalazim u obiteljskoj kuæi u naselju Dubrava, a ne u New Yorku, jednostavno me oduševila.</p><p>POGLEDAJTE VIDEO!</p><p> <section class="social_embed ">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVfT4zYlLFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</section>
+ </p><p align="justify">U posjet sam došla s fotografkinjom Berislavom Picek na poziv dizajnerice interijera Vedrane Škaliæ koja nas je to jutro veselo doèekala ispred posve obiène kuæe u kojoj je smješten ovaj izniman stan. Ulazimo u dvorište i malim puteljkom iza kuæe, koji vodi do vrta, dolazimo do stana. Na vratima nas doèekuju simpatièni mladi vlasnici, opušteni i spremni na razgovor. Kao da se oduvijek poznajemo, uvode nas u svoje novoureðeno potkrovlje. Ulazimo u prostor i veæ sljedeæi trenutak hodam po galeriji s Berislavom, podjednako oduševljenom, koja vadi stativ i priprema sve za prvi kadar.</p><p align="justify">Interijer se proteže na dvije etaže i ima 165 èetvornih metara, a sastoji se od tri spavaæe sobe, zajednièkog otvorenog prostora dnevnog boravka s blagovaonicom i kuhinjom, dvije kupaonice, pomoænog WC-a i galerijskog prostora.</p><p>
 <section>
 <article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/mamicjpg/7281183" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/stan1-300318jpg/7325139" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/mamicjpg/7281183/ALTERNATES/FREE_380/mamic.jpg"
+<img src="https://www.jutarnji.hr/incoming/stan1-300318jpg/7325139/ALTERNATES/FREE_380/stan1-300318.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/mamicjpg/7281183/BINARY/thumbnail/mamic.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/stan1-300318jpg/7325139/BINARY/thumbnail/stan1-300318.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1279,12 +1272,731 @@ class="media-object adaptive lazy "
 </div>
 </article>
 </section>
- </em></h2>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan2-300318-1jpg/7325142" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan2-300318-1jpg/7325142/ALTERNATES/FREE_380/stan2-300318%20(1).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan2-300318-1jpg/7325142/BINARY/thumbnail/stan2-300318%20(1).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<p>Na galerijski prostor dolazi se stepenicama napravljenim po narudžbi od metalne konstrukcije i s gazištima koja su izvedena od punog hrastova drva</p>
+</div>
+</section>
+</div>
+ </p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan4-300318jpg/7325151" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan4-300318jpg/7325151/ALTERNATES/FREE_380/stan4-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan4-300318jpg/7325151/BINARY/thumbnail/stan4-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p align="justify">Vlasnici su veæ dugo željeli stan koji æe biti ureðen, baš po njihovu guštu, u industrijskom stilu. Na preporuku prijatelja odluèili su angažirati dizajnere interijera i vlasnike dizajnerskog studija Dizviz (Dizajn i vizualizacija d.o.o.), Ivicu Mamiæa i Vedranu Škaliæ, koji su tijekom cijelog projekta imali potpuno odrješite ruke, a inspiraciju za ureðenje su pronašli u industrijskim loftovima iz prošlog stoljeæa.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan8-300318jpg/7325163" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan8-300318jpg/7325163/ALTERNATES/FREE_380/stan8-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan8-300318jpg/7325163/BINARY/thumbnail/stan8-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan9-300318jpg/7325166" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan9-300318jpg/7325166/ALTERNATES/FREE_380/stan9-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan9-300318jpg/7325166/BINARY/thumbnail/stan9-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<p>Kuhinja s ukladama je tamnosivo-plave boje u kontrastu s betonskom plohom i razigranom keramikom u obliku heksagona. Tu se još nalaze i police te vinski hladnjak</p>
+</div>
+</section>
+</div>
+ </p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan5-300318jpg/7325154" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan5-300318jpg/7325154/ALTERNATES/FREE_380/stan5-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan5-300318jpg/7325154/BINARY/thumbnail/stan5-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">- U komunikaciji s klijentima istražili smo njihove sadašnje navike i želje te buduæu viziju zajednièkog života. Tako smo ostvarili funkcionalan i ugodan prostor koji se može dograðivati. U prostoru se radila potpuna adaptacija, od uklanjanja starih pregradnih zidova, starog dimnjaka i podizanja krovne kuæice na galeriji do potpune zamjene stare stolarije i ugradnje novih podova i podnog grijanja - prièa mi Vedrana te dodaje kako su neutralni tonovi, s pokojim koloritnim akcentom, usklaðeni s teksturama i tonovima sirovih materijala koji prevladavaju.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan10-300318jpg/7325169" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan10-300318jpg/7325169/ALTERNATES/FREE_380/stan10-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan10-300318jpg/7325169/BINARY/thumbnail/stan10-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan39-300318jpg/7325253" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan39-300318jpg/7325253/ALTERNATES/FREE_380/stan39-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan39-300318jpg/7325253/BINARY/thumbnail/stan39-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>Dizajnerica interijera Vedrana Škaliæ iz studia Dizviz</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<p>Interijer se sastoji od tri spavaæe sobe, zajednièkog otvorenog prostora koji obuhvaæa dnevni boravak s blagovaonicom i kuhinju, zatim od dvije kupaonice, pomoænog WC-a i galerijskog prostora</p>
+</div>
+</section>
+</div>
+ </p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan11-300318jpg/7325172" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan11-300318jpg/7325172/ALTERNATES/FREE_380/stan11-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan11-300318jpg/7325172/BINARY/thumbnail/stan11-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan12-300318jpg/7325175" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan12-300318jpg/7325175/ALTERNATES/FREE_380/stan12-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan12-300318jpg/7325175/BINARY/thumbnail/stan12-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">U zajednièkom otvorenom prostoru nalaze se velika kutna garnitura, TV s oplatom od punog drva hrasta, viseæe ladice i klub stoliæi. Kuhinja s ukladama je tamnosivo-plave boje u kontrastu s betonskom kuhinjskom plohom i razigranom keramikom u obliku heksagona.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan13-300318jpg/7325178" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan13-300318jpg/7325178/ALTERNATES/FREE_380/stan13-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan13-300318jpg/7325178/BINARY/thumbnail/stan13-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan14-300318jpg/7325181" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan14-300318jpg/7325181/ALTERNATES/FREE_380/stan14-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan14-300318jpg/7325181/BINARY/thumbnail/stan14-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">- Iskoristili smo prednju plohu kuhinjskog pulta za drvene police i vinski hladnjak. U sredini se nalazi blagovaonski stol i kamin. Prozori i velike staklene stijene su slobodni od zavjesa i pružaju puno prirodnog svjetla te poveæavaju osjeæaj velièine prostora.</p><p align="justify">- Na galerijski prostor se dolazi stepenicama napravljenim od metalne konstrukcije s gazištima od punog hrastova drva. Kompletna nosiva konstrukcija galerije sa stepenicama je osmišljena i raðena prema narudžbi. LED rasvjetom smo naglasili stepenice i zid od stare cigle. Iznad njih se nalaze stara metalna vrata koja su nabavljena na otpadu i koja su se svojim stilom u potpunosti uklopila u prostor. Kroz njih se ulazi u spremište u najnižem galerijskom prostoru. Tako smo u potpunosti iskoristili inaèe nedostupan najniži dio galerija - objašnjava Vedrana.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan26-300318jpg/7325217" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan26-300318jpg/7325217/ALTERNATES/FREE_380/stan26-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan26-300318jpg/7325217/BINARY/thumbnail/stan26-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan28-300318jpg/7325220" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan28-300318jpg/7325220/ALTERNATES/FREE_380/stan28-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan28-300318jpg/7325220/BINARY/thumbnail/stan28-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan29-300318jpg/7325223" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan29-300318jpg/7325223/ALTERNATES/FREE_380/stan29-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan29-300318jpg/7325223/BINARY/thumbnail/stan29-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan30-300318jpg/7325226" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan30-300318jpg/7325226/ALTERNATES/FREE_380/stan30-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan30-300318jpg/7325226/BINARY/thumbnail/stan30-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan37-300318jpg/7325247" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan37-300318jpg/7325247/ALTERNATES/FREE_380/stan37-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan37-300318jpg/7325247/BINARY/thumbnail/stan37-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>U potkrovlju se nalaze &quot;chill out zona&quot; za slušanje glazbe i prekrasna polica s ormarima na kojoj su izložene stvari i uspomene iz zajednièkog života vlasnika.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan32-300318jpg/7325232" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan32-300318jpg/7325232/ALTERNATES/FREE_380/stan32-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan32-300318jpg/7325232/BINARY/thumbnail/stan32-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">Do police se dolazi preko mosta koji spaja galerijski prostor u funkcionalnu cjelinu, a ujedno je i glavna znaèajka prostora. Drvene grede, koje nose krovnu konstrukciju, ostavili su vidljive te tako dodatno pridonijeli toplini ukupnog dojma.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan16-300318jpg/7325187" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan16-300318jpg/7325187/ALTERNATES/FREE_380/stan16-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan16-300318jpg/7325187/BINARY/thumbnail/stan16-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">- U glavnoj spavaæoj sobi odluèili smo se za svjetlije tonove s naglascima od drva kako bi djelovala prozraèno i ugodno. Ugradbeni ormari u potpunosti iskorištavaju prostor ispod kosine stropa. Zidove u djeèjoj sobi dekorirali smo veselom i šarenom tapetom koja cijeli prostor èini zaigranim. Zahtjev za glavnu kupaonicu u prizemlju bio je da ima i tuš i kadu. Odluèili smo se za keramiku koja imitira kamen i drvni dekor te smo tako unijeli eleganciju i toplinu - kaže Vedrana.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan53-300318jpg/7325295" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan53-300318jpg/7325295/ALTERNATES/FREE_380/stan53-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan53-300318jpg/7325295/BINARY/thumbnail/stan53-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<p>Svjetliji tonovi prevladavaju u glavnoj spavaæoj sobi koja je prozraèna i ugodna, a ugradbeni ormari u potpunosti pametno iskorištavaju prostor ispod kosina stropa</p>
+</div>
+</section>
+</div>
+ </p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan54-300318jpg/7325298" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan54-300318jpg/7325298/ALTERNATES/FREE_380/stan54-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan54-300318jpg/7325298/BINARY/thumbnail/stan54-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<p>Intimniji dio stana èine roditeljska spavaæa i djeèja soba u kojoj se istièe šarena tapeta te kupaonica koja ima tuš i kadu</p>
+</div>
+</section>
+</div>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan41-300318jpg/7325262" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan41-300318jpg/7325262/ALTERNATES/FREE_380/stan41-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan41-300318jpg/7325262/BINARY/thumbnail/stan41-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan42-300318jpg/7325265" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan42-300318jpg/7325265/ALTERNATES/FREE_380/stan42-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan42-300318jpg/7325265/BINARY/thumbnail/stan42-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p align="justify">U suradnji s izvoðaèima veæina namještaja i rasvjete - od kuhinje, kupaonskog namještaja i polica na galeriji do ormara u sobama - projektirana je posebno za ovaj prostor. Radni stol, stol za glazbu i klub-stoliæe su napravili u Dizviz studiju, dok je metalne, ruèno raðene lampe izradila tvrtka Arte Ferrum, a namještaj po narudžbi Peti treæi i Danijel interijeri.</p><p align="justify">Izvoðaèi ostalih radova bili su Peti treæi, a za betonski premaz na kuhinjskoj plohi zaslužna je tvrtka Terra sol. Sve industrijske detalje u prostoru vlasnici su kupili u zagrebaèkoj trgovini Gnijezdo. Najkompleksniji i najzahtjevniji dio ureðenja bila je metalna konstrukcija galerije, mosta i stepenica, koje je vrhunski izvela ekipa iz Monter strojarske montaže.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan45-300318jpg/7325271" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan45-300318jpg/7325271/ALTERNATES/FREE_380/stan45-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan45-300318jpg/7325271/BINARY/thumbnail/stan45-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan46-300318jpg/7325274" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan46-300318jpg/7325274/ALTERNATES/FREE_380/stan46-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan46-300318jpg/7325274/BINARY/thumbnail/stan46-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/stan47-300318jpg/7325277" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/stan47-300318jpg/7325277/ALTERNATES/FREE_380/stan47-300318.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/stan47-300318jpg/7325277/BINARY/thumbnail/stan47-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>- Kompletno ureðenje trajalo je dvije godine i bio je to dugotrajan i zahtjevan projekt, ali smo rezultatom svi izuzetno zadovoljni - zakljuèuje Vedrana.</p><p>
+<section>
+<article class="interijeri media galleryCall ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/industrijski-stih-potkrovlja-u-dubravi/7325301/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/industrijski-stih-potkrovlja-u-dubravi/7325301/">
+<img src="https://www.jutarnji.hr/incoming/stan1-300318jpg/7325139/ALTERNATES/LANDSCAPE_380/stan1-300318.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/stan1-300318jpg/7325139/BINARY/thumbnail/stan1-300318.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zagreb, 300318.
+Arhitektica Vedrana Skalic iz studia Dizviz projektirala je i osmislila stan u visokom potkrovlju na dvije etaze za mladi bracni par.
+Stan je u industrijskom stilu i cijelim prostorom dominira metalno stubiste s mostom i galerijom.
+Foto: Berislava Picek/ CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Foto: Berislava Picek/Hanza Media</p><p>Video: Jura Cukar/Hanza Media</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7281198 p").filter(function () {
+$("#content-body-6263871-7325133 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1293,16 +2005,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7281198").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7325133").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7281198").children().slice(max).remove();
+$("#content-body-6263871-7325133").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7281198").children().get(0);
+var firstChild = $("#content-body-6263871-7325133").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1340,8 +2052,33 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Zdravko_Mami%C4%87" class ="label label-default" >
-Zdravko Mamiæ
+<a href="https://www.jutarnji.hr/tag/dizajner_interijera_Ivica_Mami%C4%87" class ="label label-default" >
+dizajner interijera Ivica Mamiæ
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/dizajnerica_interijera_Vedrana_%C5%A0kali%C4%87" class ="label label-default" >
+dizajnerica interijera Vedrana Škaliæ
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/dizajnerski_studio_Dizviz" class ="label label-default" >
+dizajnerski studio Dizviz
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/adaptacija_stana" class ="label label-default" >
+adaptacija stana
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/dvoeta%C5%BEni_stan" class ="label label-default" >
+dvoetažni stan
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/industrijski_stil" class ="label label-default" >
+industrijski stil
 </a>
 </li>
 </ul>
@@ -1352,21 +2089,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/iznimno-nervozni-mamic-iznio-zestoke-optuzbe-o-odnosu-uskok-a-i-sudaca-prije-pocetka-rocista-obrusio-se-i-na-covjeka-koji-ga-je-fotografirao/7255236/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/iznimno-nervozni-mamic-iznio-zestoke-optuzbe-o-odnosu-uskok-a-i-sudaca-prije-pocetka-rocista-obrusio-se-i-na-covjeka-koji-ga-je-fotografirao/7255236/">
-IZNIMNO NERVOZNI MAMIÆ IZNIO ŽESTOKE OPTUŽBE O ODNOSU USKOK-a I SUDACA Prije poèetka roèišta obrušio se i na èovjeka koji ga je fotografirao...
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1446,7 +2168,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7281198" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7325133" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1478,19 +2200,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="globus-politika media c11a none">
+<article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-politika/zdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak/7281198/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/napokon-je-gotov-moj-prvi-stan/7324836/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/zdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak/7281198/">
-'MOJA NAJTEŽA BITKA ZA DINAMO'
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/napokon-je-gotov-moj-prvi-stan/7324836/">
+STAN OD 39 KVADRATA U PREÈKOM
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/zdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak/7281198/">
-ZDRAVKO MAMIÆ U VELIKOM INTERVJUU GLOBUSU 'Nisam kriv, ali ako budem morao u zatvor, napravit æu isto što i general Praljak!'
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/napokon-je-gotov-moj-prvi-stan/7324836/">
+Napokon je gotov. Moj prvi stan!
 </a>
 </h4>
 </div>
@@ -1500,19 +2222,19 @@ ZDRAVKO MAMIÆ U VELIKOM INTERVJUU GLOBUSU 'Nisam kriv, ali ako budem morao u zat
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="globus-politika media c11a none">
+<article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-politika/nasa-je-zemlja-idealna-destinacija-za-zivot-u-trecoj-dobi-moze-li-vlada-izraditi-plan-za-prihvat-100-tisuca-imucnih-europskih-umirovljenika/7281180/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/kamena-kuca-na-otoku-ugljanu-dalmatinska-ljepotica-koja-nije-izgubila-svoj-tradicionalni-sarm/4410339/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/nasa-je-zemlja-idealna-destinacija-za-zivot-u-trecoj-dobi-moze-li-vlada-izraditi-plan-za-prihvat-100-tisuca-imucnih-europskih-umirovljenika/7281180/">
-PIŠE IVICA RELKOVIÆ
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/kamena-kuca-na-otoku-ugljanu-dalmatinska-ljepotica-koja-nije-izgubila-svoj-tradicionalni-sarm/4410339/">
+U POSJETU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/nasa-je-zemlja-idealna-destinacija-za-zivot-u-trecoj-dobi-moze-li-vlada-izraditi-plan-za-prihvat-100-tisuca-imucnih-europskih-umirovljenika/7281180/">
-Naša je zemlja idealna destinacija za život u treæoj dobi. Može li Vlada izraditi plan za prihvat 100 tisuæa imuænih europskih umirovljenika?
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/kamena-kuca-na-otoku-ugljanu-dalmatinska-ljepotica-koja-nije-izgubila-svoj-tradicionalni-sarm/4410339/">
+KAMENA KUÆA NA OTOKU UGLJANU Dalmatinska ljepotica koja nije izgubila svoj tradicionalni šarm
 </a>
 </h4>
 </div>
@@ -1522,19 +2244,19 @@ Naša je zemlja idealna destinacija za život u treæoj dobi. Može li Vlada izradit
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="globus-politika media c11a none">
+<article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-politika/ponovno-preuzimanje-ina-e-losa-je-ideja-ne-vidim-otkud-novac-za-to-ali-jos-je-veci-problem-sam-cin-preuzimanja-95-posto-vlasnistva-kompanije/7267680/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/moderno-prizemljeu-zagrebackoj-cetvrti-savica/7325364/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/ponovno-preuzimanje-ina-e-losa-je-ideja-ne-vidim-otkud-novac-za-to-ali-jos-je-veci-problem-sam-cin-preuzimanja-95-posto-vlasnistva-kompanije/7267680/">
-DOMAGOJ IVAN MILOŠEVIÆ
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderno-prizemljeu-zagrebackoj-cetvrti-savica/7325364/">
+STVARA ILUZIJU SUTERENA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/ponovno-preuzimanje-ina-e-losa-je-ideja-ne-vidim-otkud-novac-za-to-ali-jos-je-veci-problem-sam-cin-preuzimanja-95-posto-vlasnistva-kompanije/7267680/">
-Ponovno preuzimanje INA-e loša je ideja. Ne vidim otkud novac za to, ali još je veæi problem sam èin preuzimanja 95 posto vlasništva kompanije
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderno-prizemljeu-zagrebackoj-cetvrti-savica/7325364/">
+Moderno prizemlje u zagrebaèkoj èetvrti Savica
 </a>
 </h4>
 </div>
@@ -1544,19 +2266,19 @@ Ponovno preuzimanje INA-e loša je ideja. Ne vidim otkud novac za to, ali još je 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="globus-politika media c11a none">
+<article class="interijeri media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/globus/Globus-politika/izbjeglicki-mars-kroz-minska-polja-globus-u-najvecoj-koloniji-ilegalnih-migranata-na-novoj-balkanskoj-ruti-preplavili-su-gradic-na-samoj-granici-s-rh/7244415/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/dvosobni-apartman-s-pogledom-na-kornate/7309900/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/izbjeglicki-mars-kroz-minska-polja-globus-u-najvecoj-koloniji-ilegalnih-migranata-na-novoj-balkanskoj-ruti-preplavili-su-gradic-na-samoj-granici-s-rh/7244415/">
-REPORTAŽA
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/dvosobni-apartman-s-pogledom-na-kornate/7309900/">
+TRIBUNJ
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/globus/Globus-politika/izbjeglicki-mars-kroz-minska-polja-globus-u-najvecoj-koloniji-ilegalnih-migranata-na-novoj-balkanskoj-ruti-preplavili-su-gradic-na-samoj-granici-s-rh/7244415/">
-IZBJEGLIÈKI MARŠ KROZ MINSKA POLJA: GLOBUS U NAJVEÆOJ KOLONIJI ILEGALNIH MIGRANATA NA NOVOJ BALKANSKOJ RUTI Preplavili su gradiæ na samoj granici s RH
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/dvosobni-apartman-s-pogledom-na-kornate/7309900/">
+Dvosobni apartman s pogledom na Kornate
 </a>
 </h4>
 </div>
@@ -1578,64 +2300,14 @@ IZBJEGLIÈKI MARŠ KROZ MINSKA POLJA: GLOBUS U NAJVEÆOJ KOLONIJI ILEGALNIH MIGRANA
 </div>
 </div>
 <div class="row " >
-<div class="col-sm-4 openInNewTab" >
-<section>
-<article class="banner-testing-page media none">
-<div class="teaser "
-data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="http://www.gloria.hr/">
-<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
+<div class="col-sm-4 " >
+<iframe src="https://widgets.jutarnji.hr/vanjski/slobodna/?section=kvadratpomom" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
+<div class="col-sm-4 " >
+<iframe src="https://widgets.jutarnji.hr/vanjski/zadovoljna/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
-</article>
-</section>
-<article class="fokus-zvjezdane-staze media c3 none">
-<div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-</a>
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
-</a>
-</h4>
-</div>
-</div>
-</article>
-</div>
-<div class="col-sm-4 openInNewTab" >
-<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
-</div>
-<div class="col-sm-4 openInNewTab" >
-<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
+<div class="col-sm-4 " >
+<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/?section=lifestyle" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
 </div>
 <div class="row dfp-no-padding " >
@@ -1711,6 +2383,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2000,11 +2677,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2052,14 +2724,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2103,23 +2775,78 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=159&contextPath=1-85-159-&pubId=1&cat=&meta=read-story&objId=7281198&type=article&title=ZDRAVKO+MAMI%c4%86+U+VELIKOM+INTERVJUU+GLOBUSU+%26%23039%3bNisam+kriv%2c+ali+ako+budem+morao+u+zatvor%2c+napravit+%c4%87u+isto+%c5%a1to+i+general+Praljak!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fzdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak%2f7281198%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=70&contextPath=1-69-70-&pubId=1&cat=&meta=read-story&objId=7325133&type=article&title=VIDEO%3a+Industrijski+%c5%a1tih+potkrovlja+u+Dubravi&url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fvideo-industrijski-stih-potkrovlja-u-dubravi%2f7325133%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=159&amp;contextPath=1-85-159-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7281198&amp;type=article&amp;title=ZDRAVKO+MAMI%c4%86+U+VELIKOM+INTERVJUU+GLOBUSU+%26%23039%3bNisam+kriv%2c+ali+ako+budem+morao+u+zatvor%2c+napravit+%c4%87u+isto+%c5%a1to+i+general+Praljak!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-politika%2fzdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak%2f7281198%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=70&amp;contextPath=1-69-70-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7325133&amp;type=article&amp;title=VIDEO%3a+Industrijski+%c5%a1tih+potkrovlja+u+Dubravi&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fvideo-industrijski-stih-potkrovlja-u-dubravi%2f7325133%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&cat=jltags%40eph.hr%2c2016&objId=1345960610&title=Zdravko+Mami%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aZdravko_Mami%25C4%2587&rt=1&ctxId=159&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=1953043262&title=industrijski+stil&url=tag%3ajltags%40eph.hr%2c2016%3aindustrijski_stil&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-159-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1345960610&amp;title=Zdravko+Mami%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aZdravko_Mami%25C4%2587&amp;rt=1&amp;ctxId=159&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1953043262&amp;title=industrijski+stil&amp;url=tag%3ajltags%40eph.hr%2c2016%3aindustrijski_stil&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=1538115676&title=dvoeta%c5%beni+stan&url=tag%3ajltags%40eph.hr%2c2016%3advoeta%25C5%25BEni_stan&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1538115676&amp;title=dvoeta%c5%beni+stan&amp;url=tag%3ajltags%40eph.hr%2c2016%3advoeta%25C5%25BEni_stan&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=1844944938&title=adaptacija+stana&url=tag%3ajltags%40eph.hr%2c2016%3aadaptacija_stana&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1844944938&amp;title=adaptacija+stana&amp;url=tag%3ajltags%40eph.hr%2c2016%3aadaptacija_stana&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=133234720&title=dizajnerski+studio+Dizviz&url=tag%3ajltags%40eph.hr%2c2016%3adizajnerski_studio_Dizviz&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=133234720&amp;title=dizajnerski+studio+Dizviz&amp;url=tag%3ajltags%40eph.hr%2c2016%3adizajnerski_studio_Dizviz&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=823869193&title=dizajnerica+interijera+Vedrana+%c5%a0kali%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3adizajnerica_interijera_Vedrana_%25C5%25A0kali%25C4%2587&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=823869193&amp;title=dizajnerica+interijera+Vedrana+%c5%a0kali%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3adizajnerica_interijera_Vedrana_%25C5%25A0kali%25C4%2587&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=563158799&title=dizajner+interijera+Ivica+Mami%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3adizajner_interijera_Ivica_Mami%25C4%2587&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=563158799&amp;title=dizajner+interijera+Ivica+Mami%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3adizajner_interijera_Ivica_Mami%25C4%2587&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2172,7 +2899,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-politika/zdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak/7281198/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/domidizajn/interijeri/video-industrijski-stih-potkrovlja-u-dubravi/7325133/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2182,14 +2909,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/globus/Globus-politika/zdravko-mamic-u-velikom-intervjuu-globusu-nisam-kriv-ali-ako-budem-morao-u-zatvor-napravit-cu-isto-sto-i-general-praljak/7281198/",
-postId : "7281198",
+url : "https://www.jutarnji.hr/domidizajn/interijeri/video-industrijski-stih-potkrovlja-u-dubravi/7325133/",
+postId : "7325133",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "ZDRAVKO MAMIÆ U VELIKOM INTERVJUU GLOBUSU 'Nisam kriv, ali ako budem morao u zatvor, napravit æu isto što i general Praljak!'",
-pubdate : "2018-04-24 15:30",
-authors : "Zdravko Milinoviæ",
-sections : "Front Page, Globus, Politika",
-tags : "Zdravko Mamiæ",
+title : "VIDEO: Industrijski štih potkrovlja u Dubravi",
+pubdate : "2018-05-08 22:27",
+authors : "Danijela Kovaèeviæ",
+sections : "Front Page, Interijeri",
+tags : "industrijski stil, dvoetažni stan, adaptacija stana, dizajnerski studio Dizviz, dizajnerica interijera Vedrana Škaliæ, dizajner interijera Ivica Mamiæ",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

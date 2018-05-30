@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="U nedjelju, na Svjetski dan planeta Zemlje, na svijet je donijela zdravo mladunèe koje je veæ nakon petnaest minuta uspješno stalo na svoje noge." />
-<meta name="keywords" content="zebra, Zoološki vrt grada Zagreba" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Kad ste osjetili poriv pisca?" />
+<meta name="keywords" content="Dario Harjaèek" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah - Jutarnji List</title>
+<title>PRVI ROMAN OSEBUJNOG KAZALIŠNOG REDATELJA &#039;U &#039;Sanjici Lackoviæ&#039; osjeæa se duh grungea i svega onoga što je bio zvuk otpora prema sivoj stvarnosti&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "VauMijau";
-var dfpCategoryParent = "Life";
-var dfpRos = "life-ros";
-var dfpArticle = "7280775";
-var dfpArticleKeyword = "zebra";
+var dfpCategory = "Književnost";
+var dfpCategoryParent = "Kultura";
+var dfpRos = "kultura-ros";
+var dfpArticle = "7328127";
+var dfpArticleKeyword = "Dario Harjaèek";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745/ALTERNATES/LANDSCAPE_1180/Zebra_1.JPG" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/harjacek_zkm-100513jpg/7328166/ALTERNATES/LANDSCAPE_1180/harjacek_zkm-100513.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745/ALTERNATES/LANDSCAPE_1180/Zebra_1.JPG">
-<meta property="og:title" content="ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/harjacek_zkm-100513jpg/7328166/ALTERNATES/LANDSCAPE_1180/harjacek_zkm-100513.jpg">
+<meta property="og:title" content="PRVI ROMAN OSEBUJNOG KAZALIŠNOG REDATELJA 'U 'Sanjici Lackoviæ' osjeæa se duh grungea i svega onoga što je bio zvuk otpora prema sivoj stvarnosti'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/" />
+<meta property="og:url" content="https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="U nedjelju, na Svjetski dan planeta Zemlje, na svijet je donijela zdravo mladunèe koje je veæ nakon petnaest minuta uspješno stalo na svoje noge." />
+<meta property="og:description" content="Kad ste osjetili poriv pisca?" />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Gordana Vukres">
-<meta name="twitter:title" content="ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah">
-<meta name="twitter:description" content="U nedjelju, na Svjetski dan planeta Zemlje, na svijet je donijela zdravo mladunèe koje je veæ nakon petnaest minuta uspješno stalo na svoje noge.">
+<meta name="twitter:creator" content="Davor Špišiæ">
+<meta name="twitter:title" content="PRVI ROMAN OSEBUJNOG KAZALIŠNOG REDATELJA 'U 'Sanjici Lackoviæ' osjeæa se duh grungea i svega onoga što je bio zvuk otpora prema sivoj stvarnosti'">
+<meta name="twitter:description" content="Kad ste osjetili poriv pisca?">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2438';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "VauMijau, Life, Front Page",
-pubdate: "2018-04-24T13:01+02:00",
-author: "Gordana Vukres",
+data: { section: "Književnost, Kultura, Front Page",
+pubdate: "2018-05-08T14:36+02:00",
+author: "Davor Špišiæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="life story">
+<body class="kultura story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -808,12 +808,12 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/">
 Kultura
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -971,7 +976,7 @@ Putovanja
 Životne prièe
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/vaumijau/">
 VauMijau
 </a>
@@ -1010,7 +1015,7 @@ Art
 Film i televizija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/knjizevnost/">
 Književnost
 </a>
@@ -1132,64 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/life/">Life </a>
+<li><a href="https://www.jutarnji.hr/kultura/">Kultura </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/vaumijau/">VauMijau </a></li>
+<li><a href="https://www.jutarnji.hr/kultura/knjizevnost/">Književnost </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
-Obitelj i djeca
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/tehnologija/">
-Tehnologija
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/znanost/">
-Znanost
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zdravlje/">
-Zdravlje
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/seks-i-veze/">
-Seks i veze
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/putovanja/">
-Putovanja
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/life/zivotne-price/">
-Životne prièe
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/life/vaumijau/">
-VauMijau
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
-Moda i ljepota
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/life/astro/">
-Astro
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
-Buduænost zdravstva
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
 </a>
 </li>
 </ul>
@@ -1229,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-PRINOVA U ZAGREBAÈKOM ZOO-U
+DARIO HARJAÈEK
 </p>
 <h1
 class="title">
-ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah
+PRVI ROMAN OSEBUJNOG KAZALIŠNOG REDATELJA 'U 'Sanjici Lackoviæ' osjeæa se duh grungea i svega onoga što je bio zvuk otpora prema sivoj stvarnosti'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1226,7 @@ ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima da
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/incoming/gordana-vukres">Gordana Vukres</a></li>
+<li>Davor Špišiæ</li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 13:01
+08.05.2018. u 14:36
 </p>
 </li>
 </ul>
@@ -1259,31 +1244,34 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="kucni-ljubimci media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/harjacek_zkm-100513jpg/7328166" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745/ALTERNATES/LANDSCAPE_380/Zebra_1.JPG"
+<img src="https://www.jutarnji.hr/incoming/harjacek_zkm-100513jpg/7328166/ALTERNATES/LANDSCAPE_380/harjacek_zkm-100513.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/life/vaumijau/zebra_1jpg/7280745/BINARY/thumbnail/Zebra_1.JPG"
+data-src-template="https://www.jutarnji.hr/incoming/harjacek_zkm-100513jpg/7328166/BINARY/thumbnail/harjacek_zkm-100513.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Zagreb, 100513.
+Gajeva.
+Dario Harjacek, redatelj predstave "Alan Ford" u ZKM-u.
+Foto: Ranko Suvar / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
+<div class="picture-author">
+<span> Ranko Šuvar / CROPIX
+</span>
+</div>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p><strong>U nedjelju, na Svjetski dan planeta Zemlje, zebra Sabina na svijet je donijela zdravo mladunèe koje je veæ nakon petnaest minuta uspješno stalo na svoje noge.</strong></p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1307,60 +1295,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7280775"
+<div id="content-body-6263871-7328127"
 >
-<p>U meðuvremenu je napravilo i prve korake, a nestabilan hod iz sata u sat postaje sve sigurniji. Za sada u stopu <strong>prati majku</strong> što zbog sisanja mlijeka, a što zbog sigurnosti. Naime, prvih dana mlado je uz majku daleko od drugih zebri kako bi ju nauèilo <strong>prepoznavati vidom</strong>, <strong>njuhom</strong> i <strong>sluhom</strong>. Iako tata <strong>Gustav</strong> štiti krdo, mama je prvi red zaštite.</p><p>Simpatièan mališan, podrijetlom iz Afrike, još nema prepoznatljiv <strong>crno-bijeli uzorak</strong>. Naime, na bijelom se krznu sada istièu smeðe pruge.</p><p>
-<section>
-<article class="kucni-ljubimci media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/zebra_4jpg/7280754" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/life/vaumijau/zebra_4jpg/7280754/ALTERNATES/FREE_380/Zebra_4.JPG"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/vaumijau/zebra_4jpg/7280754/BINARY/thumbnail/Zebra_4.JPG"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p><em>&quot;Najmlaði èlan zagrebaèke obitelji zebri u trenu je postao ljubimac djelatnika i posjetitelja Zoološkog vrta. Ne znamo još kojeg je spola. Pretpostavlja se da je ženka, no sa sigurnošæu æemo to utvrditi tek kada se poène odvajati od majke. U ovom razdoblju naš je posao poštivati prirodu&quot;</em>, kazao je <strong>Damir Skok</strong>, ravnatelj <strong>Zoološkog vrta grada Zagreba</strong>.</p><p><strong>Gravidnost</strong> grantove nizinske zebre traje nešto <strong>više od godinu dana</strong>, a mladunèe zebre pri okotu ima <strong>tridesetak kilograma</strong>. Ženka okoti najèešæe jedno mlado svake dvije godine.</p><p>U Zoološkom vrtu grada Zagreba prošlo je mladunèe zebre na svijet došlo 2015. godine. Tata Gustav ponosan je na svoje potomstvo, a na njegovu obitelj ponosni su i djelatnici Vrta. Naime, prije mladunèeta iz 2015. godine u Maksimiru nije bilo mladunaca zebre više od deset godina.</p><p>
-<section>
-<article class="kucni-ljubimci media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/zebra_5jpg/7280757" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/life/vaumijau/zebra_5jpg/7280757/ALTERNATES/FREE_380/Zebra_5.JPG"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/life/vaumijau/zebra_5jpg/7280757/BINARY/thumbnail/Zebra_5.JPG"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Pred novim mališanom za nekoliko je dana novi izazov. Tada æe poèeti <strong>pasti travu</strong>. Odrasla jedinka može doseæi težinu od <strong>tristo kilograma</strong> te duljinu tijela od <strong>246 centimetara</strong>. U prirodi zebre žive dvadesetak, a u zoološkim vrtovima gdje su zaštiæene od grabežljivaca poput lavova i hijena, èak <strong>èetrdesetak godina</strong>.</p>
+<p><strong>Kad ste osjetili poriv pisca?</strong></p><p>- U jednom intervjuu <strong>Miloš Forman</strong> podijelio je redatelje na one èije je djelo omaž omiljenim autorima te one koji nešto žele reæi. Za svoj rad oduvijek smatram kako se opirao tome da bude dio neke “scene”. Èini mi se da sam osamljenik, fokusiran uglavnom na ono što želim reæi. U tom smislu izlazak svog romana ne tumaèim kao ulazak na “književnu scenu” veæ produbljivanje onih tematskih polja koja su i dosad bila moja temeljna preokupacija. U tome važnu ulogu igraju rijeèi identitet, podrijetlo, karakter onoga što tijekom života nosimo kao zadanu ulogu - bilo da je to klasna, rodna, socijalna, nacionalna uloga. Nikad se nisam poistovjeæivao s tim ulogama, uvijek sam pokušavao razbiti stereotipni obrazac identiteta. To mi se vraæa kao bumerang danas kada sebe vidim dijelom jedne klasne prièe. Pisanje je za mene postalo nekom vrstom klasnog “outanja”. Odrastajuæi u poprilièno okrutnom okruženju varaždinskog “naselja iza tvornice tekstila”, kako ga od milja zovem u romanu, shvatio sam kako mi je literatura jedini spas od stvarnosti u koju se nisam uklapao.</p><p><strong> Kao da je Ian Curtis pozvao Bergmana i Krležu na kokainske draftove, tako meni zarazno djeluje “Sanjica”. Jesam li u pravu?</strong></p><p>- Zajednièki nazivnik spomenuta tri autora vjerojatno bi stao u rijeè melankolija – èin transformiranja vlastite tuge u jedno gotovo poluerotièno stanje. Da, ima tu neka veza. Kokain bi svakako pridonio iskrenom vjerovanju u tu iluziju. <strong>Krleža</strong> je definitivno pisac moje mladosti. Krležina centralna tema u velikim proznim djelima uvijek je bila otpor pojedinca prema ideji kolektiva kao i otpor kolektiva prema ideji pojedinca. No moji likovi nemaju tu krležinu narcistièku dimenziju. Oni su pokolebani. Slomila ih je obitelj, ta kolijevka moralnosti i stabilnosti. U tom smislu Bergman mi je svakako puno bliži. <strong>Bergman</strong> me nauèio kako od psihologije stvarati glazbu, kako sentimentalne krajobraze transponirati u èvrste melodijske i ritmièke linije. <strong>Ian Curtis</strong> upravo je i sam to èinio. U “Sanjici Lackoviæ” osjeæa se duh punka, punk-rocka, grungea, svega onoga što je tijekom mojih formativnih godina bio zvuk otpora prema sivoj stvarnosti grada koji je izjedala tranzicija. Devedesete su za mene bile godine kad je samo vrisak èovjeka mogao držati budnim. Ja sam taj vrisak prepoznavao u rock’n’rollu. Smatram da je rock’n’roll prva velika, važna kultura iznikla “od ispod”.</p><p><strong>Nova država se poèetkom devedesetih stvara a za to vrijeme Petar Krešimir, jedan od glavnih protagonista romana, provodi osobnu seksualnu revoluciju. Pobogu, zar u bespuæima povijesne zbiljnosti?</strong></p><p>- Osim revolucije, i konzervativizam je od onih prasica koje jedu vlastitu djecu. Jedna od tri osnovne linije romana bavi se oživljenom praksom stvaranja vrlog novog svijeta na zasadama tradicionalnog života. Vezano uz klasna pitanja, zanimalo me podrijetlo ideje konzervativne revolucije u našem društvu. Centralno mjesto u provedbi širenja konzervativnih ideja ne zauzima neki tamo apstraktni narod, pa èak ni crkva, za koju smatram da je daleko manje moæna nego što se to èini. Konzervativizam se širi iz redova visoke buržoazije. Radi se o skupini kojoj je prijašnji režim u prvom redu oduzeo ekonomsku nadmoæ...</p><p><strong>Roman je i nastajao baš u vrijeme velike konzervativne ofenzive...</strong></p><p>-Da. Konzervativizam sam po sebi predstavlja povratak na klasno strukturirano društvo – društvo u kojem se vrlo jasno zna tko je gospodar, a tko sluga, društvo u kojem kanonski moral definira iskljuèivo jedna klasa. Dok taj svijet mirno egzistira u svojem “mauzoleju slavne prošlosti”, sve se još nekako drži na nogama. No kad se i najmanji impuls živosti zavuèe u taj osušeni svijet, odjednom na svjetlo izlazi svo licemjerje. Igrao sam se motivom seksualnosti, kao uljezom u aseksualni svijet malograðanštine. Osloboðena seksualnost jedan je od odraza osloboðenog duha. Za mnoge ljude to je prostor velikih konflikata. Ponajviše onih unutarnjih. Preskakanje debelih zidova krivice. Nisam želio stvoriti karikaturu katolicizma veæ sam htio pisati o fenomenu vremena u kojem katolicizam živi vlastitu karikaturu.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7280775 p").filter(function () {
+$("#content-body-6263871-7328127 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1369,16 +1311,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7280775").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7328127").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7280775").children().slice(max).remove();
+$("#content-body-6263871-7328127").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7280775").children().get(0);
+var firstChild = $("#content-body-6263871-7328127").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1416,13 +1358,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Zoolo%C5%A1ki_vrt_grada_Zagreba" class ="label label-default" >
-Zoološki vrt grada Zagreba
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/zebra" class ="label label-default" >
-zebra
+<a href="https://www.jutarnji.hr/tag/Dario_Harja%C4%8Dek" class ="label label-default" >
+Dario Harjaèek
 </a>
 </li>
 </ul>
@@ -1433,6 +1370,21 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
+<article class="globus-kultura media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-kultura/moja-emma-bovary-bila-je-cohenova-marianne-elisa-day-nicka-cavea-i-bowieva-kineskinja/4481456/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/globus/Globus-kultura/moja-emma-bovary-bila-je-cohenova-marianne-elisa-day-nicka-cavea-i-bowieva-kineskinja/4481456/">
+'Moja Emma Bovary bila je Cohenova Marianne, Elisa Day Nicka Cavea i Bowieva Kineskinja'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1448,13 +1400,13 @@ Vezane vijesti
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1466,8 +1418,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1479,13 +1431,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1497,8 +1449,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1510,13 +1462,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1528,8 +1480,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1541,17 +1493,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1559,9 +1511,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1643,7 +1594,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7280775" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7328127" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1687,19 +1638,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="knjizevnost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/">
-SPAŠENI MALIŠANI
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/">
+MACBETH
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-izgubljeno-su-tumarali-sami-po-cesti-mjestani-nasli-tri-smeda-medvjedica-stara-tek-par-mjeseci-dobro-su-ali-nikada-vise-nece-vidjeti-majku/7278378/">
-FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa stara tek par mjeseci: 'Dobro su, ali nikada više neæe vidjeti majku'
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/slavni-norveski-pisac-od-sutra-na-hrvatskoj-turneji-jo-nesb-predstavlja-svoju-modernu-verziju-shakespeareovog-najkrvavijeg-djela/7329252/">
+SLAVNI NORVEŠKI PISAC OD SUTRA NA HRVATSKOJ TURNEJI Jo Nesb? predstavlja svoju modernu verziju Shakespeareovog najkrvavijeg djela
 </a>
 </h4>
 </div>
@@ -1709,19 +1660,19 @@ FOTO: IZGUBLJENO SU TUMARALI SAMI PO CESTI Mještani našli tri smeða medvjediæa s
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="knjizevnost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/">
-DIRLJIVA VJERNOST
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/">
+DARIO HARJAÈEK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/foto-djevojcica-3-prezivjela-u-divljini-samo-zahvaljujuci-starom-psu-nagluh-i-gotovo-slijep-lezao-je-uz-nju-cijelu-noc-zaradio-i-odlikovanje/7275420/">
-FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i gotovo slijep ležao je uz nju cijelu noæ, zaradio i odlikovanje
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/">
+PRVI ROMAN OSEBUJNOG KAZALIŠNOG REDATELJA 'U 'Sanjici Lackoviæ' osjeæa se duh grungea i svega onoga što je bio zvuk otpora prema sivoj stvarnosti'
 </a>
 </h4>
 </div>
@@ -1731,19 +1682,19 @@ FOTO: DJEVOJÈICA (3) PREŽIVJELA U DIVLJINI SAMO ZAHVALJUJUÆI STAROM PSU Nagluh i
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="knjizevnost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/kako-je-pas-postao-jedan-od-najboljih-japanskih-izvoznih-proizvoda-akitu-za-ljubimca-ima-cak-i-putin-japancima-je-ova-pasmina-nacionalno-blago/7271331/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/knjizevnost/prerada-shakespearea-jo-nesb-u-hrvatskoj-od-8-do-11-svibnja-u-okviru-svjetske-promocije-novoga-romana-macbeth/7157025/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/kako-je-pas-postao-jedan-od-najboljih-japanskih-izvoznih-proizvoda-akitu-za-ljubimca-ima-cak-i-putin-japancima-je-ova-pasmina-nacionalno-blago/7271331/">
-SVE POPULARNIJI LJUBIMAC
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/prerada-shakespearea-jo-nesb-u-hrvatskoj-od-8-do-11-svibnja-u-okviru-svjetske-promocije-novoga-romana-macbeth/7157025/">
+GOSTOVANJE U ZAGREBU I ZADRU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/kako-je-pas-postao-jedan-od-najboljih-japanskih-izvoznih-proizvoda-akitu-za-ljubimca-ima-cak-i-putin-japancima-je-ova-pasmina-nacionalno-blago/7271331/">
-KAKO JE PAS POSTAO JEDAN OD NAJBOLJIH JAPANSKIH IZVOZNIH PROIZVODA Akitu za ljubimca ima èak i Putin, Japancima je ova pasmina nacionalno blago
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/prerada-shakespearea-jo-nesb-u-hrvatskoj-od-8-do-11-svibnja-u-okviru-svjetske-promocije-novoga-romana-macbeth/7157025/">
+PRERADA SHAKESPEAREA Jo Nesb? u Hrvatskoj od 8. do 11. svibnja u okviru svjetske promocije novoga romana 'Macbeth'
 </a>
 </h4>
 </div>
@@ -1753,19 +1704,19 @@ KAKO JE PAS POSTAO JEDAN OD NAJBOLJIH JAPANSKIH IZVOZNIH PROIZVODA Akitu za ljub
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="kucni-ljubimci media c11a none">
+<article class="knjizevnost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/vaumijau/biste-li-vi-mogli-raditi-pod-ovakvim-uvjetima-nekad-su-svi-zeljeli-sjediti-za-stolom-uz-prozor-a-sada-to-vise-nitko-ne-moze-podnijeti/7267746/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/knjizevnost/neispricane-price-u-laubi-rajko-grlic-predstavlja-svoju-autobiografsku-prozu-koja-na-jedinstven-nacin-spaja-zivot-i-film/7327725/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/vaumijau/biste-li-vi-mogli-raditi-pod-ovakvim-uvjetima-nekad-su-svi-zeljeli-sjediti-za-stolom-uz-prozor-a-sada-to-vise-nitko-ne-moze-podnijeti/7267746/">
-SVETI GRAL UREDA
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/neispricane-price-u-laubi-rajko-grlic-predstavlja-svoju-autobiografsku-prozu-koja-na-jedinstven-nacin-spaja-zivot-i-film/7327725/">
+PISANI TRAG
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/vaumijau/biste-li-vi-mogli-raditi-pod-ovakvim-uvjetima-nekad-su-svi-zeljeli-sjediti-za-stolom-uz-prozor-a-sada-to-vise-nitko-ne-moze-podnijeti/7267746/">
-BISTE LI VI MOGLI RADITI POD OVAKVIM UVJETIMA? Nekad su svi željeli sjediti za stolom uz prozor, a sada to više nitko ne može podnijeti
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/neispricane-price-u-laubi-rajko-grlic-predstavlja-svoju-autobiografsku-prozu-koja-na-jedinstven-nacin-spaja-zivot-i-film/7327725/">
+NEISPRIÈANE PRIÈE U LAUBI Rajko Grliæ predstavlja svoju autobiografsku prozu koja na jedinstven naèin spaja život i film
 </a>
 </h4>
 </div>
@@ -1803,19 +1754,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1823,8 +1774,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1913,6 +1864,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1996,7 +1952,7 @@ Putovanja
 Životne prièe
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/vaumijau/">
 VauMijau
 </a>
@@ -2035,7 +1991,7 @@ Art
 Film i televizija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/kultura/knjizevnost/">
 Književnost
 </a>
@@ -2200,11 +2156,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2252,14 +2203,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2303,34 +2254,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=38&contextPath=1-32-38-&pubId=1&cat=&meta=read-story&objId=7280775&type=article&title=ZEBRA+SABINA+POSTALA+JE+MAMA+Mala+zebra+posjetiteljima+Zoolo%c5%a1kog+vrta+oduzima+dah&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fvaumijau%2fzebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah%2f7280775%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=47&contextPath=1-43-47-&pubId=1&cat=&meta=read-story&objId=7328127&type=article&title=PRVI+ROMAN+OSEBUJNOG+KAZALI%c5%a0NOG+REDATELJA+%26%23039%3bU+%26%23039%3bSanjici+Lackovi%c4%87%26%23039%3b+osje%c4%87a+se+duh+grungea+i+svega+onoga+%c5%a1to+je+bio+zvuk+otpora+prema+sivoj+stvarnosti%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fknjizevnost%2fprvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti%2f7328127%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=38&amp;contextPath=1-32-38-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7280775&amp;type=article&amp;title=ZEBRA+SABINA+POSTALA+JE+MAMA+Mala+zebra+posjetiteljima+Zoolo%c5%a1kog+vrta+oduzima+dah&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fvaumijau%2fzebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah%2f7280775%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=47&amp;contextPath=1-43-47-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7328127&amp;type=article&amp;title=PRVI+ROMAN+OSEBUJNOG+KAZALI%c5%a0NOG+REDATELJA+%26%23039%3bU+%26%23039%3bSanjici+Lackovi%c4%87%26%23039%3b+osje%c4%87a+se+duh+grungea+i+svega+onoga+%c5%a1to+je+bio+zvuk+otpora+prema+sivoj+stvarnosti%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fknjizevnost%2fprvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti%2f7328127%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=1773411402&title=zebra&url=tag%3ajltags%40eph.hr%2c2016%3azebra&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-47-&cat=jltags%40eph.hr%2c2016&objId=107608157&title=Dario+Harja%c4%8dek&url=tag%3ajltags%40eph.hr%2c2016%3aDario_Harja%25C4%258Dek&rt=1&ctxId=47&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1773411402&amp;title=zebra&amp;url=tag%3ajltags%40eph.hr%2c2016%3azebra&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&cat=jltags%40eph.hr%2c2016&objId=651956777&title=Zoolo%c5%a1ki+vrt+grada+Zagreba&url=tag%3ajltags%40eph.hr%2c2016%3aZoolo%25C5%25A1ki_vrt_grada_Zagreba&rt=1&ctxId=38&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-38-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=651956777&amp;title=Zoolo%c5%a1ki+vrt+grada+Zagreba&amp;url=tag%3ajltags%40eph.hr%2c2016%3aZoolo%25C5%25A1ki_vrt_grada_Zagreba&amp;rt=1&amp;ctxId=38&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-47-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=107608157&amp;title=Dario+Harja%c4%8dek&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDario_Harja%25C4%258Dek&amp;rt=1&amp;ctxId=47&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2383,7 +2323,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2393,14 +2333,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/vaumijau/zebra-sabina-postala-je-mama-mala-zebra-posjetiteljima-zooloskog-vrta-oduzima-dah/7280775/",
-postId : "7280775",
+url : "https://www.jutarnji.hr/kultura/knjizevnost/prvi-roman-osebujnog-kazalisnog-redatelja-u-sanjici-lackovic-osjeca-se-duh-grungea-i-svega-onoga-sto-je-bio-zvuk-otpora-prema-sivoj-stvarnosti/7328127/",
+postId : "7328127",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "ZEBRA SABINA POSTALA JE MAMA Mala zebra posjetiteljima Zoološkog vrta oduzima dah",
-pubdate : "2018-04-24 13:01",
-authors : "Gordana Vukres",
-sections : "VauMijau",
-tags : "zebra, Zoološki vrt grada Zagreba",
+title : "PRVI ROMAN OSEBUJNOG KAZALIŠNOG REDATELJA 'U 'Sanjici Lackoviæ' osjeæa se duh grungea i svega onoga što je bio zvuk otpora prema sivoj stvarnosti'",
+pubdate : "2018-05-08 14:36",
+authors : "Davor Špišiæ",
+sections : "Front Page, Kultura, Književnost",
+tags : "Dario Harjaèek",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

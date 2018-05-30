@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Oskarovac Quentin Tarantino zagolicao je u ponedjeljak maštu okupljenih na otvaranju konferencije CinemaCon u Las Vegasu, rekavši da bi zvijezde njegova iduæeg filma Leonardo DiCaprio i Brad Pitt mogli steæi kultni status poput još jednog slavnog muškog filmskog para, Paula Newmana i Roberta Redforda." />
-<meta name="keywords" content="Quentin Tarantino, Brad Pitt, Leonardo DiCaprio" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Godine 1978. trosatna povijesna drama Ermanna Olmija “Drvo za klompe” snažno se izdvojila u službenom programu Cannesa, meðutim, sumnjalo se da može izboriti Zlatnu palmu, jer su Talijani sezonu ranije takoðer trijumfirali, braæa Taviani s filmom “Ja sam Bog otac”." />
+<meta name="keywords" content="film, smrt, In memoriam" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>TARANTINO OBEÆAVA DiCaprio i Pitt buduæi postat æe kultni filmski par - Jutarnji List</title>
+<title>Odlazak kultnog talijanskog filmaša èiji je film &#039;Drvo za klompe&#039; presudno utjecao na hrvatske redatelje - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "US";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
 var dfpCategory = "Film i televizija";
 var dfpCategoryParent = "Kultura";
 var dfpRos = "kultura-ros";
-var dfpArticle = "7283452";
-var dfpArticleKeyword = "Quentin Tarantino";
+var dfpArticle = "7329270";
+var dfpArticleKeyword = "film";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/kultura/film-i-tv/tarantino-obecava-dicaprio-i-pitt-buduci-postat-ce-kultni-filmski-par/7283452/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/kultura/film-i-tv/tarantino-obecava-dicaprio-i-pitt-buduci-postat-ce-kultni-filmski-par/7283452/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/kultura/film-i-tv/odlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje/7329270/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/kultura/film-i-tv/odlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje/7329270/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/kultura/film-i-tv/untitled-1jpg/7083177/ALTERNATES/LANDSCAPE_1180/Untitled-1.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/olmi/7329273/ALTERNATES/LANDSCAPE_1180/olmi" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/kultura/film-i-tv/untitled-1jpg/7083177/ALTERNATES/LANDSCAPE_1180/Untitled-1.jpg">
-<meta property="og:title" content="TARANTINO OBEÆAVA DiCaprio i Pitt buduæi postat æe kultni filmski par" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/olmi/7329273/ALTERNATES/LANDSCAPE_1180/olmi">
+<meta property="og:title" content="Odlazak kultnog talijanskog filmaša èiji je film 'Drvo za klompe' presudno utjecao na hrvatske redatelje" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/kultura/film-i-tv/tarantino-obecava-dicaprio-i-pitt-buduci-postat-ce-kultni-filmski-par/7283452/" />
+<meta property="og:url" content="https://www.jutarnji.hr/kultura/film-i-tv/odlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje/7329270/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Oskarovac Quentin Tarantino zagolicao je u ponedjeljak maštu okupljenih na otvaranju konferencije CinemaCon u Las Vegasu, rekavši da bi zvijezde njegova iduæeg filma Leonardo DiCaprio i Brad Pitt mogli steæi kultni status poput još jednog slavnog muškog filmskog para, Paula Newmana i Roberta Redforda." />
+<meta property="og:description" content="Godine 1978. trosatna povijesna drama Ermanna Olmija “Drvo za klompe” snažno se izdvojila u službenom programu Cannesa, meðutim, sumnjalo se da može izboriti Zlatnu palmu, jer su Talijani sezonu ranije takoðer trijumfirali, braæa Taviani s filmom “Ja sam Bog otac”." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="TARANTINO OBEÆAVA DiCaprio i Pitt buduæi postat æe kultni filmski par">
-<meta name="twitter:description" content="Oskarovac Quentin Tarantino zagolicao je u ponedjeljak maštu okupljenih na otvaranju konferencije CinemaCon u Las Vegasu, rekavši da bi zvijezde njegova iduæeg filma Leonardo DiCaprio i Brad Pitt mogli steæi kultni status poput još jednog slavnog muškog filmskog para, Paula Newmana i Roberta Redforda.">
+<meta name="twitter:creator" content="Nenad Polimac">
+<meta name="twitter:title" content="Odlazak kultnog talijanskog filmaša èiji je film 'Drvo za klompe' presudno utjecao na hrvatske redatelje">
+<meta name="twitter:description" content="Godine 1978. trosatna povijesna drama Ermanna Olmija “Drvo za klompe” snažno se izdvojila u službenom programu Cannesa, meðutim, sumnjalo se da može izboriti Zlatnu palmu, jer su Talijani sezonu ranije takoðer trijumfirali, braæa Taviani s filmom “Ja sam Bog otac”.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -690,8 +692,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Film i televizija, Kultura, Front Page",
-pubdate: "2018-04-24T23:20+02:00",
-author: "Hina",
+pubdate: "2018-05-08T09:23+02:00",
+author: "Nenad Polimac",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -886,6 +888,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1209,11 +1216,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-NOVI FILM
+IN MEMORIAM ERMANNO OLMI
 </p>
 <h1
 class="title">
-TARANTINO OBEÆAVA DiCaprio i Pitt buduæi postat æe kultni filmski par
+Odlazak kultnog talijanskog filmaša èiji je film 'Drvo za klompe' presudno utjecao na hrvatske redatelje
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1221,7 +1228,7 @@ TARANTINO OBEÆAVA DiCaprio i Pitt buduæi postat æe kultni filmski par
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
+<li>Nenad Polimac</li>
 </ul>
 </p>
 </li>
@@ -1229,7 +1236,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 23:20
+08.05.2018. u 09:23
 </p>
 </li>
 </ul>
@@ -1239,14 +1246,14 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="film-i-tv media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/untitled-1jpg/7083177" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/olmi/7329273" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/kultura/film-i-tv/untitled-1jpg/7083177/ALTERNATES/LANDSCAPE_380/Untitled-1.jpg"
+<img src="https://www.jutarnji.hr/incoming/olmi/7329273/ALTERNATES/LANDSCAPE_380/olmi"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/kultura/film-i-tv/untitled-1jpg/7083177/BINARY/thumbnail/Untitled-1.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/olmi/7329273/BINARY/thumbnail/olmi"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1255,12 +1262,9 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Mark Blinch, Mario Anzuoni / REUTERS
+<span> Getty images
 </span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Leonardo DiCaprio, Brad Pitt</h4>
 </div>
 </div>
 </section>
@@ -1290,14 +1294,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7283452"
+<div id="content-body-6263871-7329270"
 >
-<p>Oskarovac <strong>Quentin Tarantino </strong>zagolicao je u ponedjeljak maštu okupljenih na otvaranju konferencije CinemaCon u Las Vegasu, rekavši da bi zvijezde njegova iduæeg filma <strong>Leonardo DiCaprio</strong> i <strong>Brad Pitt</strong> mogli steæi kultni status poput još jednog slavnog muškog filmskog para, <strong>Paula Newmana</strong> i <strong>Roberta Redforda</strong>.</p><p>&quot;Bilo jednom u Hollywoodu&quot;, koji æe se snimati ove a prikazati iduæe godine, govori o ubojstvima što ih je poèinila &quot;obitelj Manson&quot;.</p><p>Sekta koju je vodio <strong>Charles Manson</strong> šezdesetih je godina u SAD-u ubila nekoliko ljudi, ukljuèujuæi glumicu <strong>Sharon Tate</strong>, suprugu <strong>Romana Polanskog</strong>, dok je bila trudna.</p><p>Tarantino (55) je rekao da æe njegov deveti film biti nasilan i mraèan kao &quot;Pakleni šund&quot; iz 1994.</p><p>&quot;Sony i ja æemo okupiti najuzbudljiviji i najmraèniji glumaèki par još od Paula Newmana i Roberta Redforda&quot;, rekao je redatelj &quot;Reservoir Doga&quot; i &quot;Nemilosrdnih gadova&quot; u hotelu Caesar Palace gdje se održava konferencija.</p><p>Paul Newman, koji je umro 2008. glumio je s Robertom Redfordom (81) u filmu &quot;The Scam&quot; iz 1973., a kultni status stekli su ranije filmom &quot;Butch Cassidy and the Sundance Kid&quot; iz 1969.</p>
+<p>Godine 1978. trosatna povijesna drama <strong>Ermanna Olmija</strong> “Drvo za klompe” snažno se izdvojila u službenom programu Cannesa, meðutim, sumnjalo se da može izboriti Zlatnu palmu, jer su Talijani sezonu ranije takoðer trijumfirali, braæa <strong>Taviani </strong>s filmom “Ja sam Bog otac”. </p><p>Ipak, takvo ostvarenje je bilo nemoguæe zaobiæi, a nije smetalo ni što je snimljeno na 16mm vrpci i što su amerièki kritièari u njemu detektirali natruhe marksizma i antiklerikalizma. Impresivna evokacija seljaèkog života u Lombardiji na prijelazu 19. u 20. stoljeæe plijenila je sporim opojnim stilom, nije smetalo ni što u njoj nije bilo posebnih dramskih akcenata (osim u završnici) ni profesionalnih glumaca. </p><h2>Rad za televiziju </h2><p>Film je presudno utjecao i na naše redatelje: teško da bi “Izgubljeni zavièaj” <strong>Ante Babaje</strong> izgledao tako impresivno da nije bilo “Drveta za klompe”.</p><p>Olmi je tih godina uživao solidnu reputaciju, ali nije pripadao redateljskim zvijezdama. Roðen 1931. u Bergamu, školovao se na Akademiji za dramsku umjetnost u Milanu i pedesetih godina nizao dokumentarce koje su talijanski kritièari iznimno cijenili, uostalom kao i njegov prvi dugi igrani film “Vrijeme je stalo” (1959.). </p><p>Meðunarodnu reputaciju stekao je s dva naredna filma “Zaposlenje” (1961.), nagraðenim u Veneciji, i “Vjerenici” (1963.), nagraðenim u Cannesu, meðutim, hvalili su ga prvenstveno filmski znalci, respektirajuæi njegovu želju da se kloni etiketa. Na primjedbu da su spomenuta dva ostvarenja moderni izdanci neorealizma, on je prigovorio da su pripadnici tog vala, za razliku od njega, i suviše èesto koristili profesionalne glumce i klonili se politièkog angažmana.</p><p>Mogao se veæ tada ukljuèiti u maticu talijanske kinematografije, ali je radije snimao za televiziju i uz igrane usporedno radio i dokumentarne filmove. </p><p>Tu i tamo bi napravio ponešto uistinu zapaženo (“Okolnost” iz 1973.), no tek ga je “Drvo za klompe” katapultiralo u prvu ligu talijanskih redatelja. I dalje je ostao skroman, televizija mu je bila podjednako važna kao i film, ali je znao iskoristiti svoj novi status i režirao 1983. za RAI trosatnu biblijsku dramu “Camminacammina”: napravio je i dužu èetverosatnu verziju, ali se ta danas smatra izgubljenom.</p><h2>Aktivan do kraja </h2><p>Festivali su ga i dalje favorizirali, satira “Neka živi gospoða!” (1987.) dobila je Srebrnog lava u Veneciji, a “Legenda o svetom pijancu” (1988.) Zlatnog lava. </p><p>U potonjem je prekršio neka od svojih dotadašnjih pravila, radio je po poznatom književnom predlošku (istoimeni roman <strong>Josepha Rotha</strong>) i koristio profesionalne glumce, predvoðene Nizozemcem <strong>Rutgerom Hauerom</strong>. Poslije je opet uronio u televiziju, zabljesnuo kostimiranom povijesnom dramom “Profesionalni vojnik” (2001.), realiziranom u Bugarskoj te sudjelovao u triptihu “Karte”, gdje su mu koredatelji bili <strong>Abbas Kiarostami</strong> i <strong>Ken Loach</strong>. </p><p>Bio je aktivan do poznih godina, posljednji film snimio je lani, a umro je u ponedjeljak u bolnici u Asiagu, gdje se oporavljao veæ nekoliko dana. Imao je 86 godina. </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7283452 p").filter(function () {
+$("#content-body-6263871-7329270 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1306,16 +1310,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7283452").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7329270").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7283452").children().slice(max).remove();
+$("#content-body-6263871-7329270").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7283452").children().get(0);
+var firstChild = $("#content-body-6263871-7329270").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1353,18 +1357,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Leonardo_DiCaprio" class ="label label-default" >
-Leonardo DiCaprio
+<a href="https://www.jutarnji.hr/tag/in_memoriam" class ="label label-default" >
+In memoriam
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Brad_Pitt" class ="label label-default" >
-Brad Pitt
+<a href="https://www.jutarnji.hr/tag/smrt" class ="label label-default" >
+smrt
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Quentin_Tarantino" class ="label label-default" >
-Quentin Tarantino
+<a href="https://www.jutarnji.hr/tag/film" class ="label label-default" >
+film
 </a>
 </li>
 </ul>
@@ -1377,28 +1381,13 @@ Vezane vijesti
 <section>
 <article class="film-i-tv media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/leonardo-dicaprio-i-brad-pitt-glumit-ce-u-novom-tarantinovom-filmu-dicaprio-ce-glumiti-bivsu-filmsku-zvijezdu-a-pitt-njegova-dvojnika-kaskadera/7083189/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/milos-forman-jedini-veliki-autor-komunisticke-istocnoeuropske-kinematografije-koji-je-doista-uspio-u-hollywoodu/7244007/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/leonardo-dicaprio-i-brad-pitt-glumit-ce-u-novom-tarantinovom-filmu-dicaprio-ce-glumiti-bivsu-filmsku-zvijezdu-a-pitt-njegova-dvojnika-kaskadera/7083189/">
-LEONARDO DICAPRIO I BRAD PITT GLUMIT ÆE U NOVOM TARANTINOVOM FILMU DiCaprio æe glumiti bivšu filmsku zvijezdu, a Pitt njegova dvojnika kaskadera
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="spektakli media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/spektakli/video-noge-su-mi-bile-zaglavljene-mislila-sam-da-vise-nikad-necu-hodati-uma-otkrila-detelje-nesrece-na-setu-oglasio-se-i-quentin-tarantino/7005444/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/spektakli/video-noge-su-mi-bile-zaglavljene-mislila-sam-da-vise-nikad-necu-hodati-uma-otkrila-detelje-nesrece-na-setu-oglasio-se-i-quentin-tarantino/7005444/">
-VIDEO: 'NOGE SU MI BILE ZAGLAVLJENE, MISLILA SAM DA VIŠE NIKAD NEÆU HODATI' Uma otkrila detelje nesreæe na setu, oglasio se i Quentin Tarantino
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/milos-forman-jedini-veliki-autor-komunisticke-istocnoeuropske-kinematografije-koji-je-doista-uspio-u-hollywoodu/7244007/">
+MILOŠ FORMAN Jedini veliki autor komunistièke istoènoeuropske kinematografije koji je doista uspio u Hollywoodu
 </a>
 </h4>
 </li>
@@ -1420,13 +1409,13 @@ VIDEO: 'NOGE SU MI BILE ZAGLAVLJENE, MISLILA SAM DA VIŠE NIKAD NEÆU HODATI' Uma 
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1438,8 +1427,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1451,13 +1440,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1469,8 +1458,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1482,13 +1471,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1500,8 +1489,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1513,17 +1502,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1531,9 +1520,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1615,7 +1603,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7283452" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7329270" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1659,72 +1647,6 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="film-i-tv media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/video-zena-koja-je-promijenila-sustav-kako-je-jedna-majka-bolesnog-djeteta-uspjela-dokazati-da-zdravlje-nije-milostinja/7280433/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/video-zena-koja-je-promijenila-sustav-kako-je-jedna-majka-bolesnog-djeteta-uspjela-dokazati-da-zdravlje-nije-milostinja/7280433/">
-RE:VIZIJA
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/video-zena-koja-je-promijenila-sustav-kako-je-jedna-majka-bolesnog-djeteta-uspjela-dokazati-da-zdravlje-nije-milostinja/7280433/">
-VIDEO: ŽENA KOJA JE PROMIJENILA SUSTAV Kako je jedna majka bolesnog djeteta uspjela dokazati da zdravlje nije milostinja!
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
-<section>
-<article class="film-i-tv media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/tko-je-ubio-chrisa-njegovo-mrtvo-tijelo-pronadeno-je-blizu-osijeka-prema-sluzbenoj-verziji-ubili-su-ga-cetnici-metkom-u-glavu/7270110/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/tko-je-ubio-chrisa-njegovo-mrtvo-tijelo-pronadeno-je-blizu-osijeka-prema-sluzbenoj-verziji-ubili-su-ga-cetnici-metkom-u-glavu/7270110/">
-ŠVICARAC U BORBI ZA HRVATSKU
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/tko-je-ubio-chrisa-njegovo-mrtvo-tijelo-pronadeno-je-blizu-osijeka-prema-sluzbenoj-verziji-ubili-su-ga-cetnici-metkom-u-glavu/7270110/">
-TKO JE UBIO CHRISA? Njegovo mrtvo tijelo pronaðeno je blizu Osijeka. Prema službenoj verziji, ubili su ga èetnici metkom u glavu...
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
-<section>
-<article class="film-i-tv media c11a none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/svom-suprugu-ivici-vidovicu-gordana-gadzic-podigla-je-dostojan-spomenik/7267260/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/svom-suprugu-ivici-vidovicu-gordana-gadzic-podigla-je-dostojan-spomenik/7267260/">
-MONOGRAFIJA POSVEÆENA GLUMCU
-</a>
-</p>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/svom-suprugu-ivici-vidovicu-gordana-gadzic-podigla-je-dostojan-spomenik/7267260/">
-Svom suprugu Ivici Vidoviæu Gordana Gadžiæ podigla je dostojan spomenik
-</a>
-</h4>
-</div>
-</div>
-</article>
-</section>
-</div>
-<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
-<section>
 <article class="film-i-tv media c11a video-jl">
 <div class="teaser "
 data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/svi-su-poludjeli-za-novim-horor-filmom-uz-koji-je-nemoguce-u-kinu-jesti-kokice-napetost-je-tolika-da-sam-osjecao-da-je-cijelo-kino-u-opasnosti/7224033/" data-widget-title="" data-web-position="box"
@@ -1738,6 +1660,72 @@ data-widget-position="0">
 <h4 class="title ">
 <a href="https://www.jutarnji.hr/kultura/film-i-tv/svi-su-poludjeli-za-novim-horor-filmom-uz-koji-je-nemoguce-u-kinu-jesti-kokice-napetost-je-tolika-da-sam-osjecao-da-je-cijelo-kino-u-opasnosti/7224033/">
 SVI SU POLUDJELI ZA NOVIM HOROR FILMOM UZ KOJI JE NEMOGUÆE U KINU JESTI KOKICE 'Napetost je tolika da sam osjeæao da je cijelo kino u opasnosti'
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
+<section>
+<article class="film-i-tv media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/velika-guzva-u-laubi-zbog-neispricanih-prica-rajka-grlica-istaknuti-filmski-reziser-predstavio-svoju-prvu-knjigu-evo-tko-je-sve-bio-na-svecanosti/7334670/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/velika-guzva-u-laubi-zbog-neispricanih-prica-rajka-grlica-istaknuti-filmski-reziser-predstavio-svoju-prvu-knjigu-evo-tko-je-sve-bio-na-svecanosti/7334670/">
+'30 GODINA BILJEŠKARENJA'
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/velika-guzva-u-laubi-zbog-neispricanih-prica-rajka-grlica-istaknuti-filmski-reziser-predstavio-svoju-prvu-knjigu-evo-tko-je-sve-bio-na-svecanosti/7334670/">
+VELIKA GUŽVA U LAUBI ZBOG 'NEISPRIÈANIH PRIÈA' RAJKA GRLIÆA Istaknuti filmski režiser predstavio svoju prvu knjigu, evo tko je sve bio na sveèanosti
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
+<section>
+<article class="film-i-tv media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/odlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje/7329270/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/odlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje/7329270/">
+IN MEMORIAM ERMANNO OLMI
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/odlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje/7329270/">
+Odlazak kultnog talijanskog filmaša èiji je film 'Drvo za klompe' presudno utjecao na hrvatske redatelje
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
+<section>
+<article class="film-i-tv media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/film-i-tv/festival-neopisive-kulturne-moci-ovogodisnja-canneska-konkurencija-izgleda-neocekivano-zanimljivo/7319682/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/festival-neopisive-kulturne-moci-ovogodisnja-canneska-konkurencija-izgleda-neocekivano-zanimljivo/7319682/">
+NAJVAŽNIJI FILMSKI FESTIVAL
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/festival-neopisive-kulturne-moci-ovogodisnja-canneska-konkurencija-izgleda-neocekivano-zanimljivo/7319682/">
+FESTIVAL NEOPISIVE KULTURNE MOÆI Ovogodišnja canneska konkurencija izgleda neoèekivano zanimljivo
 </a>
 </h4>
 </div>
@@ -1775,19 +1763,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1795,8 +1783,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1883,6 +1871,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2172,11 +2165,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2224,14 +2212,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2275,45 +2263,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=44&contextPath=1-43-44-&pubId=1&cat=&meta=read-story&objId=7283452&type=article&title=TARANTINO+OBE%c4%86AVA+DiCaprio+i+Pitt+budu%c4%87i+postat+%c4%87e+kultni+filmski+par&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2ffilm-i-tv%2ftarantino-obecava-dicaprio-i-pitt-buduci-postat-ce-kultni-filmski-par%2f7283452%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=44&contextPath=1-43-44-&pubId=1&cat=&meta=read-story&objId=7329270&type=article&title=Odlazak+kultnog+talijanskog+filma%c5%a1a+%c4%8diji+je+film+%26%23039%3bDrvo+za+klompe%26%23039%3b+presudno+utjecao+na+hrvatske+redatelje&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2ffilm-i-tv%2fodlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje%2f7329270%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=44&amp;contextPath=1-43-44-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7283452&amp;type=article&amp;title=TARANTINO+OBE%c4%86AVA+DiCaprio+i+Pitt+budu%c4%87i+postat+%c4%87e+kultni+filmski+par&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2ffilm-i-tv%2ftarantino-obecava-dicaprio-i-pitt-buduci-postat-ce-kultni-filmski-par%2f7283452%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=44&amp;contextPath=1-43-44-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7329270&amp;type=article&amp;title=Odlazak+kultnog+talijanskog+filma%c5%a1a+%c4%8diji+je+film+%26%23039%3bDrvo+za+klompe%26%23039%3b+presudno+utjecao+na+hrvatske+redatelje&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2ffilm-i-tv%2fodlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje%2f7329270%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&cat=jltags%40eph.hr%2c2016&objId=1366672549&title=Quentin+Tarantino&url=tag%3ajltags%40eph.hr%2c2016%3aQuentin_Tarantino&rt=1&ctxId=44&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&cat=jltags%40eph.hr%2c2016&objId=1895947754&title=film&url=tag%3ajltags%40eph.hr%2c2016%3afilm&rt=1&ctxId=44&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1366672549&amp;title=Quentin+Tarantino&amp;url=tag%3ajltags%40eph.hr%2c2016%3aQuentin_Tarantino&amp;rt=1&amp;ctxId=44&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1895947754&amp;title=film&amp;url=tag%3ajltags%40eph.hr%2c2016%3afilm&amp;rt=1&amp;ctxId=44&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&cat=jltags%40eph.hr%2c2016&objId=1273966773&title=Brad+Pitt&url=tag%3ajltags%40eph.hr%2c2016%3aBrad_Pitt&rt=1&ctxId=44&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&cat=jltags%40eph.hr%2c2016&objId=1896339074&title=smrt&url=tag%3ajltags%40eph.hr%2c2016%3asmrt&rt=1&ctxId=44&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1273966773&amp;title=Brad+Pitt&amp;url=tag%3ajltags%40eph.hr%2c2016%3aBrad_Pitt&amp;rt=1&amp;ctxId=44&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1896339074&amp;title=smrt&amp;url=tag%3ajltags%40eph.hr%2c2016%3asmrt&amp;rt=1&amp;ctxId=44&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&cat=jltags%40eph.hr%2c2016&objId=1221429146&title=Leonardo+DiCaprio&url=tag%3ajltags%40eph.hr%2c2016%3aLeonardo_DiCaprio&rt=1&ctxId=44&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&cat=jltags%40eph.hr%2c2016&objId=1754070105&title=In+memoriam&url=tag%3ajltags%40eph.hr%2c2016%3ain_memoriam&rt=1&ctxId=44&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1221429146&amp;title=Leonardo+DiCaprio&amp;url=tag%3ajltags%40eph.hr%2c2016%3aLeonardo_DiCaprio&amp;rt=1&amp;ctxId=44&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-44-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1754070105&amp;title=In+memoriam&amp;url=tag%3ajltags%40eph.hr%2c2016%3ain_memoriam&amp;rt=1&amp;ctxId=44&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2366,7 +2354,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/film-i-tv/tarantino-obecava-dicaprio-i-pitt-buduci-postat-ce-kultni-filmski-par/7283452/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/film-i-tv/odlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje/7329270/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2376,14 +2364,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/kultura/film-i-tv/tarantino-obecava-dicaprio-i-pitt-buduci-postat-ce-kultni-filmski-par/7283452/",
-postId : "7283452",
+url : "https://www.jutarnji.hr/kultura/film-i-tv/odlazak-kultnog-talijanskog-filmasa-ciji-je-film-drvo-za-klompe-presudno-utjecao-na-hrvatske-redatelje/7329270/",
+postId : "7329270",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "TARANTINO OBEÆAVA DiCaprio i Pitt buduæi postat æe kultni filmski par",
-pubdate : "2018-04-24 23:20",
-authors : "Hina",
-sections : "Front Page, Kultura, Film i televizija",
-tags : "Quentin Tarantino, Brad Pitt, Leonardo DiCaprio",
+title : "Odlazak kultnog talijanskog filmaša èiji je film 'Drvo za klompe' presudno utjecao na hrvatske redatelje",
+pubdate : "2018-05-08 09:23",
+authors : "Nenad Polimac",
+sections : "Kultura, Film i televizija",
+tags : "film, smrt, In memoriam",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

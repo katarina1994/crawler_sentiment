@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Radovan Vujèiæ (62), zvani Mravac, koji je nedavno izišao iz pritvora zbog ubojstva sina Sanjina, skrivio je u nedjelju tešku prometnu nesreæu u kojoj je najteže stradao njegov 14-godišnji unuk, Sanjinov sin." />
-<link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Najjednostavnija dijeta na svijetu, tako mediji diljem planeta tepaju najnovijoj hit-dijeti koju je sama osmislila, pa onda i isprobala danska autorica Suzy Wengel. Njezina hit-knjiga “The Scandi Sense Diet” i zdrav život i pravilnu prehranu mjeri - šakama." />
+<meta name="keywords" content="Dijeta" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE Usred vožnje navodno tipkao SMS poruku, jedan djeèak (14) leži u komi - Jutarnji List</title>
+<title>AUTORICA NOVE HIT-DIJETE KOJA JE ZALUDJELA SVIJET Ovo je najjednostavniji naèin prehrane na planetu, kolièinu mjerite šakama, zabranjene hrane - nema! - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "HR";
+var dfpCountryCode = "AU";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Crna kronika";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7278210";
-var dfpArticleKeyword = "";
+var dfpCategory = "Zdravlje";
+var dfpCategoryParent = "Life";
+var dfpRos = "life-ros";
+var dfpArticle = "7324500";
+var dfpArticleKeyword = "Dijeta";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,6 +573,8 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
+<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
+<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -638,8 +640,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +654,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/q1q1jpg/7278219/ALTERNATES/LANDSCAPE_1180/q1q1.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/27877683_378598685952544_5014113093874089984_njpg/7324503/ALTERNATES/LANDSCAPE_1180/27877683_378598685952544_5014113093874089984_n.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/q1q1jpg/7278219/ALTERNATES/LANDSCAPE_1180/q1q1.jpg">
-<meta property="og:title" content="PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE Usred vožnje navodno tipkao SMS poruku, jedan djeèak (14) leži u komi" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/27877683_378598685952544_5014113093874089984_njpg/7324503/ALTERNATES/LANDSCAPE_1180/27877683_378598685952544_5014113093874089984_n.jpg">
+<meta property="og:title" content="AUTORICA NOVE HIT-DIJETE KOJA JE ZALUDJELA SVIJET Ovo je najjednostavniji naèin prehrane na planetu, kolièinu mjerite šakama, zabranjene hrane - nema!" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Radovan Vujèiæ (62), zvani Mravac, koji je nedavno izišao iz pritvora zbog ubojstva sina Sanjina, skrivio je u nedjelju tešku prometnu nesreæu u kojoj je najteže stradao njegov 14-godišnji unuk, Sanjinov sin." />
+<meta property="og:description" content="Najjednostavnija dijeta na svijetu, tako mediji diljem planeta tepaju najnovijoj hit-dijeti koju je sama osmislila, pa onda i isprobala danska autorica Suzy Wengel. Njezina hit-knjiga “The Scandi Sense Diet” i zdrav život i pravilnu prehranu mjeri - šakama." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Goranka Jureško">
-<meta name="twitter:title" content="PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE Usred vožnje navodno tipkao SMS poruku, jedan djeèak (14) leži u komi">
-<meta name="twitter:description" content="Radovan Vujèiæ (62), zvani Mravac, koji je nedavno izišao iz pritvora zbog ubojstva sina Sanjina, skrivio je u nedjelju tešku prometnu nesreæu u kojoj je najteže stradao njegov 14-godišnji unuk, Sanjinov sin.">
+<meta name="twitter:creator" content="Tena Šarèeviæ">
+<meta name="twitter:title" content="AUTORICA NOVE HIT-DIJETE KOJA JE ZALUDJELA SVIJET Ovo je najjednostavniji naèin prehrane na planetu, kolièinu mjerite šakama, zabranjene hrane - nema!">
+<meta name="twitter:description" content="Najjednostavnija dijeta na svijetu, tako mediji diljem planeta tepaju najnovijoj hit-dijeti koju je sama osmislila, pa onda i isprobala danska autorica Suzy Wengel. Njezina hit-knjiga “The Scandi Sense Diet” i zdrav život i pravilnu prehranu mjeri - šakama.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +679,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +691,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Crna kronika, Vijesti, Front Page",
-pubdate: "2018-04-24T07:17+02:00",
-author: "Goranka Jureško, Dušan Miljuš, Ivana Krniæ",
+data: { section: "Zdravlje, Life, Front Page",
+pubdate: "2018-05-07T23:42+02:00",
+author: "Tena Šarèeviæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="life story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -793,7 +795,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -808,7 +810,7 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
@@ -868,7 +870,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -886,6 +888,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -951,7 +958,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1132,39 +1139,64 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
+<li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
+<li><a href="https://www.jutarnji.hr/life/zdravlje/">Zdravlje </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
 </a>
 </li>
 <li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
 </a>
 </li>
 </ul>
@@ -1204,11 +1236,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-TRAGEDIJA ZA TRAGEDIJOM
+INTERVJU SA SUZY WENGEL
 </p>
 <h1
 class="title">
-PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE Usred vožnje navodno tipkao SMS poruku, jedan djeèak (14) leži u komi
+AUTORICA NOVE HIT-DIJETE KOJA JE ZALUDJELA SVIJET Ovo je najjednostavniji naèin prehrane na planetu, kolièinu mjerite šakama, zabranjene hrane - nema!
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,9 +1248,7 @@ PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE 
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/goranka-juresko">Goranka Jureško</a>,</li>
-<li><a href="https://www.jutarnji.hr/autori/dusan-miljus">Dušan Miljuš</a>,</li>
-<li><a href="https://www.jutarnji.hr/autori/ivana-krnic">Ivana Krniæ</a></li>
+<li>Tena Šarèeviæ</li>
 </ul>
 </p>
 </li>
@@ -1226,7 +1256,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 07:17
+07.05.2018. u 23:42
 </p>
 </li>
 </ul>
@@ -1238,12 +1268,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/q1q1jpg/7278219" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/27877683_378598685952544_5014113093874089984_njpg/7324503" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/q1q1jpg/7278219/ALTERNATES/LANDSCAPE_380/q1q1.jpg"
+<img src="https://www.jutarnji.hr/incoming/27877683_378598685952544_5014113093874089984_njpg/7324503/ALTERNATES/LANDSCAPE_380/27877683_378598685952544_5014113093874089984_n.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/q1q1jpg/7278219/BINARY/thumbnail/q1q1.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/27877683_378598685952544_5014113093874089984_njpg/7324503/BINARY/thumbnail/27877683_378598685952544_5014113093874089984_n.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1252,7 +1282,7 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> www.zvono.eu
+<span> Instagram
 </span>
 </div>
 </div>
@@ -1288,13 +1318,16 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7278210"
+<div id="content-body-6263871-7324500"
 >
-<p><strong>Radovan Vujèiæ </strong>(62), zvani Mravac, koji je nedavno izišao iz pritvora zbog ubojstva sina <strong>Sanjina</strong>, skrivio je u nedjelju tešku prometnu nesreæu u kojoj je najteže stradao njegov 14-godišnji unuk, Sanjinov sin.</p><p>Njegovo je stanje iznimno teško i lijeènici u KBC-u Zagreb bore se za njegov život.</p><h5><strong>Prijava</strong></h5><p>Drugi teško ozlijeðeni vršnjak, koji je u Klinici za djeèje bolesti u Klaiæevoj, zadobio je komplicirani prijelom nadlaktiène kosti i prijelom zgloba kuka. Djeèak nije vitalno ozlijeðen i nije u životnoj opasnosti, no ima teške tjelesne ozljede koje æe zahtijevati dulji oporavak. Prema priopæenju PU bjelovarsko bilogorske, 62-godišnji vozaè u nedjelju oko 18.45 sati upravljao je BMW-om bjelovarskih oznaka nenaseljenim dijelom kolnika iz Severina u smjeru Patkovca.</p><p>Zbog držanja vozila na nedovoljnoj udaljenosti od desnog ruba kolnika, desnim kotaèima vozila zahvatio je bankinu i sletio u putni jarak, gdje je prednjim krajem udario u betonski most poljskog puta, preokrenuo se i zaustavilo na desnom boènom kraju. Teško su ozlijeðena dvojica 14-godišnjih putnika koji su nakon pružene lijeènièke pomoæi u bjelovarskoj Opæoj bolnici prevezeni u Zagreb na daljnje lijeèenje. Dvojica putnika iz vozila, 16-godišnjak i 14-godišnjak, te vozaè, lakše su ozlijeðeni. Protiv 62-godišnjeg vozaèa slijedi kaznena prijava Opæinskom državnom odvjetništvu u Bjelovaru.</p><h5><strong>Bili na kupanju</strong></h5><p>Djeèaci su taj dan bili na kupanju u Daruvarskim toplicama, a Vujèiæ ih je vraæao kuæi. Kako smo neslužbeno doznali, on je u vožnji pisao SMS poruku, ali je zabranio djeèacima koji su bili s njim u autu da išta od toga kažu policiji. Policija tek treba obaviti razgovor sa sudionicima nesreæe. Zdravstveno stanje 14-godišnjeg unuka koji leži u komi na Rebru tijekom juèerašnjeg dana bilo je kritièno. Kako smo takoðer neslužbeno doznali, djeèaci koji su sjedili na stražnjim sjedalima nisu bili vezani sigurnosnim pojasevima.</p><h5><strong>Samoobrana</strong></h5><p>Da tragedija bude veæa, jedan od dvojice unuka igrao se u dvorištu kuæe kad je 12. veljaèe ove godine ubijen njegov otac Sanjin Vujèiæ (40), zvani Juda, vozaè bjelovarske Hitne pomoæi u obiteljskoj kuæi u Vinkoviæevu naselju u Bjelovaru.</p><p>Sanjin je taj dan došao posjetiti djecu koja su nakon razvoda ostala živjeti s majkom u obiteljskoj kuæi njegovih roditelja. U jednom trenutku došlo je do sukoba izmeðu oca i sina, a prema rijeèima Radovana Vujèiæa, sin je nasrnuo na njega, nakon èega ga je on ubio hicem iz pištolja u glavu. Nakon toga je pozvao policiju i na ispitivanju priznao da je ubio sina. Bio je priveden istražnom sucu koji mu je odredio pritvor, ali nakon što su ispitani svi svjedoci, Radovan Vujèiæ nedavno je pušten iz pritvora da se brani sa slobode.</p><p>Otac i sin gadno su se posvaðali u studenome prošle godine kad je Radovan bio redar na jednoj nogometnoj utakmici. Na kraju utakmice lokalnog NK Bjelovar u 3. hrvatskoj nogometnoj ligi, susreo se sa sinom s kojim se posvaðao i potukao. Navodno je otac u jednom trenutku sina napao nožem skakavcem, ali se sin obranio i brutalno prebio oca.</p><p>Buduæi da je otac na sina potegnuo nož, Sanjin se obranio i, prema rijeèima svjedoka, tako istukao oca da je on od posljedica doživio infarkt te su ga prevezli u Zagreb. Intervenirala je policija, a podnesena je i kaznena prijava protiv oca i sina.</p><p>Od studenoga prošle godine do ponedjeljka predveèer 12. veljaèe otac i sin nisu se sreli i on nije dolazio u roditeljsku kuæu u bjelovarskoj Ulici Josipa Pupaèiæa 24. U vrijeme ubojstva Sanjin Vujèiæ bio je na bolovanju, na kojem je bio još od incidenta s ocem u studenome.</p><h5><strong>Prijetio ženi</strong></h5><p>Juèer smo dobili na telefon suprugu Radovana Vujèiæa, <strong>Slavicu</strong>, koja nije željela komentirati nesreæu koju je skrivio njezin suprug i u kojoj joj je teško stradao unuk. Radovan Vujèiæ sina je ubio iz pištolja koji je legalno posjedovao, a Sanjin Vujèiæ ubijen je u oèevoj kuæi, gdje je imao zabranu približavanja zbog navodnih prijetnji supruzi.</p><p>Sanjinov 14-godišnji sin koji je teško nastradao u prometnoj nesreæi ove nedjelje bio je, kažu poznavatelji nogometnih prilika u Bjelovaru, jedan od najperspektivnijih mladih nogometaša NK Bjelovar, ali i u regiji. Njegove prijatelje i vršnjake teško je pogodila tragedija.</p><p>
-<div class="e4-sub-article ">
+<p>Najjednostavnija dijeta na svijetu, tako mediji diljem planeta tepaju najnovijoj hit-dijeti koju je sama osmislila, pa onda i isprobala danska autorica <strong>Suzy Wengel.</strong> Njezina hit-knjiga “The Scandi Sense Diet” i zdrav život i pravilnu prehranu mjeri - šakama.</p><p>Svaki obrok, savjetuje ona, trebao bi sadržavati šaku ugljikohidrata ili voæa, šaku proteina i jednu do dvije šake povræa (osim krumpira). Ne postoji zabranjena hrana, ne mjere se kalorije, hrana se ne važe, a èak je dopušteno povremeno pijuckati vino.</p><p>Wengel je tako u kratkom roku postala zaslužna što se svjetska fascinacija danskim naèinom života, ureðenja doma, naèinom odgoja djece i specifiènog otvorenog, ali istovremeno rezerviranog svjetonazora, širi i na naèin prehrane.</p><p>Znanstvenica i vlasnica biotehnološke kompanije <strong>Ribo Task,</strong> 39-godišnja Dankinja bavi se prouèavanjem ljudske RNA, a i sama je cijeli život vodila bitku s prekomjernim kilogramima.</p><p>- Sjeæam se kad sam u dobi od otprilike 24 godine postala svjesna da moje prehrambene navike postaju sve ekscesivnije te da to vjerojatno nije normalno. Ali skrivala sam svoje prejedanje i sramila se. Danas znam da je to bio sindrom ‘binge’ jedenja. Bila sam psihièki i fizièki ovisna o hrani - posebno o fast foodu. Moj um je bio koncentriran na hranu 24 sata u danu, sedam dana u tjednu - objasnila je S. Wengel u ekskluzivnom razgovoru za Jutarnji list.</p><p>
+<section class="social_embed ">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BhwZxw3jPCv/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BhwZxw3jPCv/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Objavu dijeli Suzy Wengel (@senseslankmedfornuft)</a> <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-19T15:01:03+00:00">Tra 19, 2018 u 8:01 PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+</section>
+ </p><h5>Novi životni stil</h5><p>Kako kaže, raspoloženje joj je u to vrijeme ovisilo o tome je li joj odreðena hrana u tom trenutku dostupna ili ne.</p><p>- Jela sam jer sam bila usamljena i nesretna. Nisam bila svjesna koliko su veliki moji problemi sve dok nisam došla u tridesete i shvatila da doista ne želim živjeti na taj naèin - govori znanstvenica koja je odustala od ekspresnih rješenja problema, koja su veæinom donosila samo jojo efekt, i poèela iz korijena mijenjati životni stil nakon roðenja drugog sina. Èitala je desetke znanstvenih istraživanja o dijetama i ispitala što sve zajednièko imaju najuspješnije.</p><p>- Nisam htjela mjerenje kalorija. Htjela sam nešto jednostavno što æe upaliti. Nakon istraživanja, isplanirala sam kako æu implementirati svoje nove navike. To je kasnije pretvoreno u ‘Scandi Sense’. Rijeè je o stvaranju strukturiranih navika jedenja koje su utemeljene na pravoj potrebi za hranom. Trebalo mi je oko devet mjeseci da izgubim kilograme, ali su mi trebale tri godine da poènem jesti pravilno prema svojoj intuiciji. Danas je to prirodan dio mog naèina jedenja - kaže Wengel.</p><h5>Bez filozofije</h5><p>Njezina knjiga na prehranu pokušava gledati logièki i zdravorazumski, bez suvišne filozofije koja dovodi do komplikacija, a potom i do gubitka motivacije za uravnoteženim unosom hrane. Upravo iz toga razloga ovakav se naèin prehrane naziva “najjednostavnijom dijetom na svijetu”.</p><p>Kada je rijeè o drugim posebnim pravilima u dijeti, ima ih, ali prilièno malo. Poželjno je da se ne jede više od tri (velike) žlice masti na dan. Toj kategoriji pripadaju, na primjer, avokado, majoneza, bademi, maslac, šlag i slièno. Kolièina, naravno, ipak ovisi o tome o kojoj je toèno hrani rijeè (ne može se usporeðivati avokado i majoneza), ali princip je jasan - ne treba pretjerivati. Preporuka je da se izbjegavaju alternativna mlijeka, a da se obièno mlijeko, jogurt i drugi mlijeèni proizvodi ne jedu i ne piju u kolièini više od 300 mililitara na dan. Èaj i kava nisu ogranièeni, a savjet je da se u danu u kojem se konzumira alkohol ukloni odreðena kolièina ugljikohidrata iz obroka, a pojaèa doza povræa. Još jedna vrlo važna preporuka je da se u svakom sluèaju proba izbjeæi prejedanje, no, ako i pokleknete, veæ na iduæem obroku pokušajte se vratiti u stari ritam.</p><h5>Previše ambicija</h5><p>- Ljudi imaju tendenciju da postanu previše ambiciozni kad poèinju dijetu. Mogu si zabraniti odreðenu hranu i postaviti stanje uma na vrlo restriktivnu razinu. Ali kad shvate da ne mogu tako živjeti, odustanu, potencijalno èak još više jedu i debljaju se. Brojni ljudi poènu vježbati toliko jako da se ozlijede - upozorava struènjakinja i nastavlja da i o prehrani treba razmišljati na naèin da je manje više.</p><p>- Šetnja parkom i promjena vašeg trenutaènog naèina prehrane je dovoljna. Ne trebate si ništa zabraniti, samo dobro balansirati. Jednostavno je, a opet teško. Ali s pravim alatima se može. Jedna danska antropologinja i istraživaèica rekla je da se Scandi Sense dijeta bavi teškim stvarima na jednostavan naèin - kaže Suzy Wengel.</p><p>Ona vjeruje da je kljuèni sastojak svakog obroka upravo zdrav razum koji je, smatra, ljudima koji nemaju problema s težinom prirodno uroðen - na primjer, logièno je da æete, ako u jednom obroku pretjerate sa slatkim, u drugome sasvim izbaciti šeæere. Stvar je, kaže, u balansu.</p><p>- Danas mogu otiæi u hotel i uzeti malo pakiranje Nutelle, namazati ga na tost i doista uživati u njemu. Prije bih ju jela direktno iz staklenke žlicom - i to mi je bila samo mala užina. Mislim da danas to ne bih uspjela napraviti a da ne povratim - objašnjava.</p><p>Procjenjuje da obroci koji se pripreme na naèin koji ona preporuèuje rezultiraju unosom oko 1500 kalorija na dan i tvrdi da prosjeèna osoba može izgubiti nešto manje od jednog kilograma na tjedan.</p><p>Njezin inovativan naèin prehrane postao je najprije veliki hit u Danskoj, a potom i u svijetu. Recepte i ideje za njih moguæe je pronaæi posvuda na internetu, pa tako, na primjer, samo na Instagramu pod hashtagom #sensekost ima gotovo 45.000 fotografija, a Facebook grupa u kojoj se okupljaju pobornici takvog naèina prehrane skupila je 127.000 èlanova. Wengel nije oèekivala da æe prièa koja je poèela od njezina osobnog primjera poprimiti svjetske razmjere. - Da, bila sam jako iznenaðena što se ovo proširilo svijetom u ogromnim razmjerima. Vrlo mi je drago što Scandi Sense pomaže ljudima da steknu zdravije prehrambene navike i postignu mir izmeðu hrane, tijela i uma. Ljudi u Facebook zajednicama motiviraju jedni druge. Èak i brojni nutricionisti koriste moju formulu, a ja to svima dopuštam besplatno - objašnjava Wengel.</p><p> <div class="e4-sub-article ">
 <section>
 <div>
-<h5><strong>Samo 17 posto putnika na stražnjim sjedalima koristi pojas</strong></h5><p>Samo 17 posto putnika u vozilima koja imaju ugraðene sigurnosne pojaseve na stražnjim sjedalima i koristi pojas, obznanila je na konferenciji Jutarnjeg lista “Sigurnost cestovnog prometa” prometna policija.</p><p>Prednje sigurnosne pojaseve koristi èak 97 posto vozaèa i korištenje prednjih sigurnosnih pojaseva kao i motoristièke kacige postalo je sada veæ uobièajeno.</p><p>Meðutim, kako su naglasili predstavnici policije, ali i prometni struènjaci, kod vozaèa ali i putnika još uvijek je niska svijest o potrebi vezivanja pojaseva na stražnjim sjedalima, a upravo se zbog nekorištenja sigurnosnih pojaseva na stražnjim sjedalima dogaðaju smrtna stradavanja, ali i teške ozljede koje bi se mogle sprijeèiti da su putnici na zadnjim sjedalima koristili pojas.</p><p>Iako još uvijek policiji nije poznato jesu li i u ovoj nesreæi djeèaci koji su sjedili na stražnjem dijelu BMW-a bili vezani, sama èinjenica o stanju vozila nakon nesreæe kao i o prevrtanju vozila svjedoèi da bi korištenjem pojaseva možda bile ublažene iznimno teške ozljede jednog od putnika.</p><p>Inaèe, poznata je èinjenica da najveæa opasnost koja prijeti putnicima prilikom prevrtanja je ispadanje iz vozila.  (<em>D. Miljuš</em>)</p>
+<h5><strong>Jedan dan sa skandi dijetom</strong></h5><p><strong>Povræe</strong></p><p>1 - 2 šake - otprilike 100 - 250 grama</p><p><strong>Proteini</strong></p><p>3 šake - otprilike 100 - 200 grama</p><p>Namirnice: meso, perad, riba, sir niskog postotka masnoæe (maksimalno 17%), mahunarke</p><p>1 šaka = 2 - 3 jaja</p><p><strong>Škrob i/ili voæe</strong></p><p>4 šake</p><p>kruh</p><p>tjestenina</p><p>riža</p><p>krumpir</p><p>muesli (manje od 13 g)</p><p>voæe/bobièasto voæe</p><p><strong>Cijeli obrok</strong></p><p>100 ml zobene kaše ili 1 voæka ili 1 kriška kruha</p><p>* Ova šaka škroba/voæa može biti zamijenjena</p><p>1/2 proteina s više povræa</p><p><strong>Masti</strong></p><p>1 - 3 èajne žlièice po jelu - otprilike 8 - 10 g po žlièici</p><p>kokosovo ulje</p><p>maslinovo ulje</p><p>maslac</p><p>majoneza</p><p>orasi</p><p>pesto</p><p>tamna èokolada od minimalno 70%</p><p>punomasni sir (od 18% na više)</p><p>3 žlièice = polovica velikog avokada</p><p>300 ml mlijeènih proizvoda po danu</p><p>Sve do 3,5% masti</p><p>Maksimalno 5 g šeæera na 100 g</p><p><strong>PO IZBORU</strong></p><p>2 èajne žlièice mlijeènog preljeva po obroku (sve do 8% masti)</p>
 </div>
 </section>
 </div>
@@ -1303,7 +1336,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7278210 p").filter(function () {
+$("#content-body-6263871-7324500 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1312,16 +1345,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7278210").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7324500").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7278210").children().slice(max).remove();
+$("#content-body-6263871-7324500").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7278210").children().get(0);
+var firstChild = $("#content-body-6263871-7324500").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1356,6 +1389,14 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 </script>
 </section>
 <div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/dijeta" class ="label label-default" >
+Dijeta
+</a>
+</li>
+</ul>
 </div>
 <div id="related-news-box"
 class="rel_art_ib ">
@@ -1363,30 +1404,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="crna-kronika media none">
+<article class="zdravlje media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/u-prometnoj-nesreci-ozlijedeno-cetvero-djece-vozac-udario-u-betonski-most-i-okrenuo-se/7274958/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/u-prometnoj-nesreci-ozlijedeno-cetvero-djece-vozac-udario-u-betonski-most-i-okrenuo-se/7274958/">
-U PROMETNOJ NESREÆI OZLIJEÐENO ÈETVERO DJECE Vozaè udario u betonski most i okrenuo se
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="crna-kronika media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/sin-je-rekao-da-ce-prvo-ubiti-nas-a-onda-sebe-i-krenuo-na-oca-nozem-otac-mu-je-pucao-u-glavu-bio-je-na-mjestu-mrtav-da-ga-je-bar-pogodio-u-nogu/7030675/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/sin-je-rekao-da-ce-prvo-ubiti-nas-a-onda-sebe-i-krenuo-na-oca-nozem-otac-mu-je-pucao-u-glavu-bio-je-na-mjestu-mrtav-da-ga-je-bar-pogodio-u-nogu/7030675/">
-Sin je rekao da æe prvo ubiti nas, a onda sebe i krenuo na oca nožem. Otac mu je pucao u glavu. Bio je na mjestu mrtav. Da ga je bar pogodio u nogu...
+<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
+NAJNOVIJA DIJETA ZALUDJELA POLA SVIJETA Držite se ovih pravila i dobit æete rezultate ravne liposukciji
 </a>
 </h4>
 </li>
@@ -1408,13 +1434,13 @@ Sin je rekao da æe prvo ubiti nas, a onda sebe i krenuo na oca nožem. Otac mu je
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1426,8 +1452,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1439,13 +1465,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1457,8 +1483,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1470,13 +1496,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1488,8 +1514,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1501,17 +1527,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1519,9 +1545,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1603,7 +1628,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7278210" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7324500" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1647,19 +1672,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/">
-TRAGEDIJA ZA TRAGEDIJOM
+<a href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/">
+INTERVJU SA SUZY WENGEL
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/">
-PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE Usred vožnje navodno tipkao SMS poruku, jedan djeèak (14) leži u komi
+<a href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/">
+AUTORICA NOVE HIT-DIJETE KOJA JE ZALUDJELA SVIJET Ovo je najjednostavniji naèin prehrane na planetu, kolièinu mjerite šakama, zabranjene hrane - nema!
 </a>
 </h4>
 </div>
@@ -1669,19 +1694,19 @@ PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/">
-HOROR U MARINOM SELU
+<a href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/">
+PREKOBROJNI KRALJEŽAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/">
-Nakon potjere uhiæen osumnjièeni ubojica majke sedmero djece, njezin ljubomorni muž: 'Mama je mrtva. Ne, nije se ugušila od dima. Ona je zadavljena!'
+<a href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/">
+U ZAGREBU USPJEŠNO IZVEDENA ZAHTJEVNA, RIZIÈNA I RIJETKA ORTOPEDSKA OPERACIJA Matija je imao deformaciju kralježnice, ali sada je potpuno izlijeèen
 </a>
 </h4>
 </div>
@@ -1691,19 +1716,19 @@ Nakon potjere uhiæen osumnjièeni ubojica majke sedmero djece, njezin ljubomorni 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/">
-BLUDNE RADNJE
+<a href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/">
+SKUPLJA ZA LIJEÈENJE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/">
-MUÈAN SLUÈAJ O KOJEM BRUJI CIJELI SPLIT Poznati nogometni trener optužen za spolno iskorištavanje djeèaka, ljubio ga, dirao, noæu zasipao SMS-ovima
+<a href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/">
+ZOVU JE 'DJEVOJÈICA ZMIJA' Tužna prièa o tinejdžerici koja je zbog strašne bolesti prisiljena živjeti u osami: 'Što sam zgriješila da ovako patim?'
 </a>
 </h4>
 </div>
@@ -1713,19 +1738,19 @@ MUÈAN SLUÈAJ O KOJEM BRUJI CIJELI SPLIT Poznati nogometni trener optužen za spol
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/">
-STRAŠNA TRAGEDIJA U SMREÈJU
+<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
+KAKO VAM SE ÈINI?
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/">
-FOTO: POŽAR PROGUTAO POLA SELA U GORSKOM KOTARU Dvije obitelji u suzama gledale kako im vatra u svega 15 minuta odnosi ono što su gradili cijeli život
+<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
+NAJNOVIJA DIJETA ZALUDJELA POLA SVIJETA Držite se ovih pravila i dobit æete rezultate ravne liposukciji
 </a>
 </h4>
 </div>
@@ -1763,19 +1788,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1783,8 +1808,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1853,7 +1878,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1871,6 +1896,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1936,7 +1966,7 @@ Tehnologija
 Znanost
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -2160,11 +2190,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2212,14 +2237,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/gradonacelnik-zelio-pokazati-kako-je-radisan-pa-napravio-najgoru-fotomontazu-ikada-zafrkancija-na-njegov-racun-ne-prestaje?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524656819radovi.jpg?v=1524656908" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>MODNI MAÈAK ZA NJEGA JE BEBA/Gradonaèelnik želio pokazati kako je radišan pa napravio najgoru fotomontažu ikada, zafrkancija na njegov raèun ne prestaje</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2263,12 +2288,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7278210&type=article&title=PRIJE+DVA+MJESECA+UBIO+SINA%2c+A+SADA+SKRIVIO+NESRE%c4%86U+I+U+SMRT+GOTOVO+ODVEO+UNUKE+Usred+vo%c5%benje+navodno+tipkao+SMS+poruku%2c+jedan+dje%c4%8dak+(14)+le%c5%bei+u+komi&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fprije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi%2f7278210%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=36&contextPath=1-32-36-&pubId=1&cat=&meta=read-story&objId=7324500&type=article&title=AUTORICA+NOVE+HIT-DIJETE+KOJA+JE+ZALUDJELA+SVIJET+Ovo+je+najjednostavniji+na%c4%8din+prehrane+na+planetu%2c+koli%c4%8dinu+mjerite+%c5%a1akama%2c+zabranjene+hrane+-+nema!&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fautorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema%2f7324500%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7278210&amp;type=article&amp;title=PRIJE+DVA+MJESECA+UBIO+SINA%2c+A+SADA+SKRIVIO+NESRE%c4%86U+I+U+SMRT+GOTOVO+ODVEO+UNUKE+Usred+vo%c5%benje+navodno+tipkao+SMS+poruku%2c+jedan+dje%c4%8dak+(14)+le%c5%bei+u+komi&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fprije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi%2f7278210%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=36&amp;contextPath=1-32-36-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7324500&amp;type=article&amp;title=AUTORICA+NOVE+HIT-DIJETE+KOJA+JE+ZALUDJELA+SVIJET+Ovo+je+najjednostavniji+na%c4%8din+prehrane+na+planetu%2c+koli%c4%8dinu+mjerite+%c5%a1akama%2c+zabranjene+hrane+-+nema!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fautorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema%2f7324500%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=203690861&title=Dijeta&url=tag%3ajltags%40eph.hr%2c2016%3adijeta&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=203690861&amp;title=Dijeta&amp;url=tag%3ajltags%40eph.hr%2c2016%3adijeta&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2321,7 +2357,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2331,14 +2367,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/",
-postId : "7278210",
+url : "https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/",
+postId : "7324500",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE Usred vožnje navodno tipkao SMS poruku, jedan djeèak (14) leži u komi",
-pubdate : "2018-04-24 07:17",
-authors : "Goranka Jureško, Dušan Miljuš, Ivana Krniæ",
-sections : "Front Page, Vijesti, Crna kronika",
-tags : "",
+title : "AUTORICA NOVE HIT-DIJETE KOJA JE ZALUDJELA SVIJET Ovo je najjednostavniji naèin prehrane na planetu, kolièinu mjerite šakama, zabranjene hrane - nema!",
+pubdate : "2018-05-07 23:42",
+authors : "Tena Šarèeviæ",
+sections : "Front Page, Life, Zdravlje",
+tags : "Dijeta",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

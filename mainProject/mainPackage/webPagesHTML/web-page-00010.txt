@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Mercedesu je kinesko tržište vrlo bitno (kao uostalom svim ostalim proizvoðaèima) pa je tako danas na salonu Auto china 2018. u Pekingu ekskluzivno za kinesko tržište predstavio A- klasu L Sedan koja æe silaziti s traka joint venture pogona Daimler – BAIC Motor." />
-<meta name="keywords" content="Mercedes A-klasa, mercedes, fotogalerija, Kina, aktualno" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Roštiljanje je veæ odavno prestalo biti samo stvar izbora, veæ je postalo svojevrsni ritual u kojemu se odaje najsvetija poèast dobrom komadu mesa." />
+<meta name="keywords" content="burgeri, svinjetina, junetina, janjetina, puretina, roštilj, umaci" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>FOTO: MERCEDES PREDSTAVIO A-KLASU L Sedan koju veæ nazivaju Baby CLS, ali samo za kinesko tržište - Jutarnji List</title>
+<title>KAKO DO SAVRŠENOG BURGERA: Omjeri i vrste mesa, domaæa peciva, savjeti i zanimljivi umaci zbog kojih morate zasukati rukave! - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <section>
 <!-- DFP verzija 11 -->
@@ -197,11 +197,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Aktualno";
-var dfpCategoryParent = "Auto klub";
-var dfpRos = "autoklub-ros";
-var dfpArticle = "7281639";
-var dfpArticleKeyword = "Mercedes A-klasa";
+var dfpCategory = "Prièe";
+var dfpCategoryParent = "Dobra hrana";
+var dfpRos = "dobrahrana-ros";
+var dfpArticle = "7313304";
+var dfpArticleKeyword = "burgeri";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -593,7 +593,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
-<meta property="article:author" content="https://www.facebook.com/autoklub.hr" />
+<meta property="article:author" content="https://www.facebook.com/dobrahrana.hr" />
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -601,8 +601,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste/7281639/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste/7281639/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -615,21 +615,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/autoklub/aktualno/18c0323_1101jpg/7285114/ALTERNATES/LANDSCAPE_1180/18C0323_110(1).jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/burgeri_jarun04272018032jpg/7313178/ALTERNATES/LANDSCAPE_1180/burgeri_jarun04272018032.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/autoklub/aktualno/18c0323_1101jpg/7285114/ALTERNATES/LANDSCAPE_1180/18C0323_110(1).jpg">
-<meta property="og:title" content="FOTO: MERCEDES PREDSTAVIO A-KLASU L Sedan koju veæ nazivaju Baby CLS, ali samo za kinesko tržište" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/burgeri_jarun04272018032jpg/7313178/ALTERNATES/LANDSCAPE_1180/burgeri_jarun04272018032.jpg">
+<meta property="og:title" content="KAKO DO SAVRŠENOG BURGERA: Omjeri i vrste mesa, domaæa peciva, savjeti i zanimljivi umaci zbog kojih morate zasukati rukave!" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste/7281639/" />
+<meta property="og:url" content="https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Mercedesu je kinesko tržište vrlo bitno (kao uostalom svim ostalim proizvoðaèima) pa je tako danas na salonu Auto china 2018. u Pekingu ekskluzivno za kinesko tržište predstavio A- klasu L Sedan koja æe silaziti s traka joint venture pogona Daimler – BAIC Motor." />
+<meta property="og:description" content="Roštiljanje je veæ odavno prestalo biti samo stvar izbora, veæ je postalo svojevrsni ritual u kojemu se odaje najsvetija poèast dobrom komadu mesa." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Zvonimir Jurèiæ">
-<meta name="twitter:title" content="FOTO: MERCEDES PREDSTAVIO A-KLASU L Sedan koju veæ nazivaju Baby CLS, ali samo za kinesko tržište">
-<meta name="twitter:description" content="Mercedesu je kinesko tržište vrlo bitno (kao uostalom svim ostalim proizvoðaèima) pa je tako danas na salonu Auto china 2018. u Pekingu ekskluzivno za kinesko tržište predstavio A- klasu L Sedan koja æe silaziti s traka joint venture pogona Daimler – BAIC Motor.">
+<meta name="twitter:creator" content="Anita Šariæ">
+<meta name="twitter:title" content="KAKO DO SAVRŠENOG BURGERA: Omjeri i vrste mesa, domaæa peciva, savjeti i zanimljivi umaci zbog kojih morate zasukati rukave!">
+<meta name="twitter:description" content="Roštiljanje je veæ odavno prestalo biti samo stvar izbora, veæ je postalo svojevrsni ritual u kojemu se odaje najsvetija poèast dobrom komadu mesa.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -640,7 +640,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2443';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2442';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -652,15 +652,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Aktualno, Auto klub, Front Page",
-pubdate: "2018-04-24T15:54+02:00",
-author: "Zvonimir Jurèiæ",
+data: { section: "Prièe, Dobra hrana, Front Page",
+pubdate: "2018-05-08T07:36+02:00",
+author: "Anita Šariæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="autoklub story">
+<body class="dobrahrana story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -738,7 +738,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 class=" ">
 <div class="head_date">
 <p class="month">
-<span>25.4.</span>2018.
+<span>09.5.</span>2018.
 </p>
 <p class="day">
 srijeda
@@ -808,6 +808,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1045,64 +1050,51 @@ Mozgalice
 </div>
 </div>
 <div class="subBranding ">
-<span class="logo"><a href="/autoklub">Auto klub</a></span>
+<span class="logo"><a href="/dobrahrana">Dobra hrana</a></span>
 </div>
 <div class="subLevelNavbar ">
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/">
+<a href="https://www.jutarnji.hr/dobrahrana/">
 Naslovnica
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/video-ak/">
-Video
+<a href="https://www.jutarnji.hr/dobrahrana/recepti/">
+Recepti
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/">
-Aktualno
+<a href="https://www.jutarnji.hr/dobrahrana/price/">
+Prièe
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/testovi/">
-Testovi
+<a href="https://www.jutarnji.hr/dobrahrana/vodici/">
+Vodièi
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/rabljeni/">
-Rabljeni
+<a href="https://www.jutarnji.hr/dobrahrana/dobrisavjeti/">
+Dobri savjeti
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/putopis/">
-Putopis
+<a href="http://www.dobri-restorani.hr/" target="_new">
+Restorani
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/autoklub/servis/">
-Servis
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/autoklub/garaza/">
-Garaža
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/autoklub/vremeplov/">
-Vremeplov
+<a href="https://www.jutarnji.hr/dobrahrana/dh-specijali/ajvar/">
+Ajvar
 </a>
 </li>
 </ul>
 <ul class="nav navbar-nav socialChannels">
 <li>
-<a class="facebook_follow" href="https://www.facebook.com/autoklub.hr/" target="_blank">
-<span class="text-hide">Facebook</span>
-</a>
-<a class="instagram_follow" href="https://www.instagram.com/autoklub.hr/" target="_blank">
-<span class="text-hide">Instagram</span>
-</a>
+<!--<a href="https://twitter.com/dobra_hrana" class="twitter_follow" target="_blank"><span class="text-hide">Twitter</span></a>-->
+<a href="https://www.facebook.com/ovojedobrahrana/" class="facebook_follow" target="_blank"><span class="text-hide">Facebook</span></a>
+<a class="instagram_follow" href="https://www.instagram.com/dobra_hrana/" target="_blank"><span class="text-hide">Instagram</span></a>
 </li>
 </ul>
 </div>
@@ -1149,11 +1141,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-AUTO CHINA 2018.
+JEDU NAM SE SOÈNI BURGERI
 </p>
 <h1
 class="title">
-FOTO: MERCEDES PREDSTAVIO A-KLASU L Sedan koju veæ nazivaju Baby CLS, ali samo za kinesko tržište
+KAKO DO SAVRŠENOG BURGERA: Omjeri i vrste mesa, domaæa peciva, savjeti i zanimljivi umaci zbog kojih morate zasukati rukave!
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1161,7 +1153,7 @@ FOTO: MERCEDES PREDSTAVIO A-KLASU L Sedan koju veæ nazivaju Baby CLS, ali samo z
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/zvonimir-jurcic">Zvonimir Jurèiæ</a></li>
+<li><a href="https://www.jutarnji.hr/autori/anita-saric">Anita Šariæ</a></li>
 </ul>
 </p>
 </li>
@@ -1169,29 +1161,31 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 15:54
+08.05.2018. u 07:36
 </p>
 </li>
 </ul>
 </div>
 <section class="lead_image ">
-<section class="aktualno media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/18c0323_1101jpg/7285114" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018032jpg/7313178" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/autoklub/aktualno/18c0323_1101jpg/7285114/ALTERNATES/LANDSCAPE_380/18C0323_110(1).jpg"
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018032jpg/7313178/ALTERNATES/LANDSCAPE_380/burgeri_jarun04272018032.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/18c0323_1101jpg/7285114/BINARY/thumbnail/18C0323_110(1).jpg"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018032jpg/7313178/BINARY/thumbnail/burgeri_jarun04272018032.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Am Vortag der Auto China 2018 präsentiert Mercedes-Benz die A-Klasse L Limousine, die in China für China produziert wird. Hubertus Troska, Mitglied des Vorstands der Daimler AG, verantwortlich für Greater China. On the eve of Auto China 2018, Mercedes-Benz have presented the A-Class L Sedan, made in China for China. Hubertus Troska, Member of the Board of Daimler AG, responsible for Greater China."
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Daimler AG
+<span> Mario Kuèera
 </span>
 </div>
 </div>
@@ -1206,7 +1200,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p><strong>Mercedesu je kinesko tržište vrlo bitno (kao uostalom svim ostalim proizvoðaèima) pa je tako danas na salonu Auto china 2018. u Pekingu ekskluzivno za kinesko tržište predstavio A- klasu L Sedan koja æe silaziti s traka joint venture pogona Daimler – BAIC Motor.</strong></p>
+<p><strong>Roštiljanje je veæ odavno prestalo biti samo stvar izbora, veæ je postalo svojevrsni ritual u kojemu se odaje najsvetija poèast dobrom komadu mesa.</strong></p>
 </p>
 </section>
 <section>
@@ -1231,36 +1225,710 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7281639"
+<div id="content-body-6263871-7313304"
 >
-<p>Mercedes navodi kako A-klasa L Sedan nudi inovativne sustave za sigurnost i pomoæ u vožnji preuzete direktno iz S-klase kao i napredni <strong>MBUX sustav </strong>predstavljen u kompaktnoj A-klasi, koja prepoznaje glasovne naredbe prirodnog govora koje su u vozilo aplicirane na nekoliko kineskih dijalekata ukljuèujuæi kantonski i seèuanski. Po pitanju izgleda A-klasa L Sedan dijeli najnovije smjernice aktualnog Mercedes dizajna, a operacija dodavanja stražnjeg kraja izvedena je po našem sudu vrlo uspješno. </p><p> <section>
-<article class="aktualno media galleryCall ">
+<p><strong>Pripremili: Nenad Kralj i Pantelija Pekiæ</strong></p><p>A ima li omiljenije poslastice s grilla od dobrog burgera? Ako pitate pripadnike naših redova, jednoglasno æe vam potvrditi da pljeskavica sljubljena sa svježim umacima i domaæim pecivom osvaja zlatnu medalju kad su delicije s roštilja u pitanju. Nije da nam je potreban poseban povod, ali dobrano smo zakoraèili u proljeæe, a nismo organizirali druženje na otvorenom.</p><p>
+<section>
+<article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-sada-nazivaju-baby-cls-om/7281705/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018029jpg/7313172" data-widget-title="" data-web-position="box"
 data-widget-position="0">
+<div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-sada-nazivaju-baby-cls-om/7281705/">
-<img src="https://www.jutarnji.hr/autoklub/aktualno/18c0323_1111jpg/7285117/ALTERNATES/LANDSCAPE_380/18C0323_111(1).jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/autoklub/aktualno/18c0323_1111jpg/7285117/BINARY/thumbnail/18C0323_111(1).jpg"
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018029jpg/7313172/ALTERNATES/FREE_380/burgeri_jarun04272018029.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018029jpg/7313172/BINARY/thumbnail/burgeri_jarun04272018029.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Am Vortag der Auto China 2018 präsentiert Mercedes-Benz die A-Klasse L Limousine, die in China für China produziert wird. Nicholas Speeks, Dieter Zetsche, Hubertus Troska. On the eve of Auto China 2018, Mercedes-Benz have presented the A-Class L Sedan, made in China for China. Nicholas Speeks, Dieter Zetsche, Hubertus Troska."
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
 title=""
 class="media-object adaptive lazy "
 />
-</a>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
 </div>
 </div>
 </article>
 </section>
- </p><p><em>Foto: Daimler AG</em></p><p>Kinezima æe se nuditi dva paketa opreme - standardnu te Sport izvedba koja dolazi s karakteristiènim ispupèenjima na poklopcu motora, naplacima <strong>od 19 cola</strong> te uz doplatu ekskluzivnom Rose zlatnom bojom. unutrašnjost je identièna onoj u kompaktnoj A-klasi zajedno s velikim digitalnim ekranom i &quot;turbina&quot; otvorima ventilacije koje se mogu osvijetliti <strong>s èak 64 boje</strong>. Najvažnija novost kod A-klase L Sedan jest 60 mm <strong>dulji meðuosovinski razmak (2789) mm</strong> u odnosu na kompaktnu A-klasu što donosi više prostora za koljena putnika na stražnjoj klupi pa je i ukupna dužina vozila porasla na 4609 mm dok prtljažnik raspolaže s 420 litara korisnog prostora. Ispod prednjeg poklopca prvo æe se ugraðivati <strong>1,33-litreni èetverocilindraši od 136 KS i 163 KS</strong>, a kasnije se oèekuje i dvolitreni benzinac od 190 KS. Svi motori su upareni iskljuèivo sa 7G-DCT mjenjaèem s dvije spojke. Premda nije potvrðeno, Mercedes æe vjerojatno u drugoj polovici godine za ostatak svijeta predstaviti A-klasu Sedan sa standardnim meðuosovinskim razmakom.</p>
+ </p><p>To smo sada ispravili! Nenad Kralj i Pantelija Pekiæ iz Gastronomada su bili zaduženi za pripremu mesa, nezaobilazne umake i peciva, a uredništvo Dobre hrane za osvježavajuæe napitke i šarene salate.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018026jpg/7313163" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018026jpg/7313163/ALTERNATES/FREE_380/burgeri_jarun04272018026.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018026jpg/7313163/BINARY/thumbnail/burgeri_jarun04272018026.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018027jpg/7313166" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018027jpg/7313166/ALTERNATES/FREE_380/burgeri_jarun04272018027.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018027jpg/7313166/BINARY/thumbnail/burgeri_jarun04272018027.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018015jpg/7313130" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018015jpg/7313130/ALTERNATES/FREE_380/burgeri_jarun04272018015.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018015jpg/7313130/BINARY/thumbnail/burgeri_jarun04272018015.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018014jpg/7313127" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018014jpg/7313127/ALTERNATES/FREE_380/burgeri_jarun04272018014.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018014jpg/7313127/BINARY/thumbnail/burgeri_jarun04272018014.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Odluèili smo raditi pet burgera; juneæi, svinjski, pureæi, janjeæi i posljednji koji je trebao biti božanstvena ''mutacija'' ove èetiri vrste mesa. Što je na koncu i postao! Nakon vješto naložene vatre, spretno smo se bacili na formiranje pljeskavica. Neupitno je da je tajna svakog dobrog burgera, naravno, i dobro meso.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018024jpg/7313157" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018024jpg/7313157/ALTERNATES/FREE_380/burgeri_jarun04272018024.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018024jpg/7313157/BINARY/thumbnail/burgeri_jarun04272018024.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018021jpg/7313148" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018021jpg/7313148/ALTERNATES/FREE_380/burgeri_jarun04272018021.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018021jpg/7313148/BINARY/thumbnail/burgeri_jarun04272018021.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018022jpg/7313151" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018022jpg/7313151/ALTERNATES/FREE_380/burgeri_jarun04272018022.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018022jpg/7313151/BINARY/thumbnail/burgeri_jarun04272018022.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Prilikom kupovine mesa u lokalnoj mesnici obratite pozornost na nekoliko stvari. Prvo, nemojte kupovati gotove mljevene smjese, iz jednostavnog razloga, ne znate što se u njima nalazi.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018020jpg/7313145" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018020jpg/7313145/ALTERNATES/FREE_380/burgeri_jarun04272018020.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018020jpg/7313145/BINARY/thumbnail/burgeri_jarun04272018020.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018006jpg/7313106" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018006jpg/7313106/ALTERNATES/FREE_380/burgeri_jarun04272018006.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018006jpg/7313106/BINARY/thumbnail/burgeri_jarun04272018006.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018010jpg/7313115" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018010jpg/7313115/ALTERNATES/FREE_380/burgeri_jarun04272018010.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018010jpg/7313115/BINARY/thumbnail/burgeri_jarun04272018010.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>U burgerima koje smo mi radili smo koristili dijelove kao što su pleæka i vrat, a za pureæi smo odabrali zabatak s kožom. Burgeri bez umaka nikako nisu potpuni, a deèki su se potrudili napraviti pravu malu gozbu. Svježi guacamole za pureæi burger, aioli i BBQ umak za burger od svinjetine, klasièni hambi umak je savršeno nadopunio juneæi burger za špekom, a umak od jogurta i mente je ljubio janjetinu.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018011jpg/7313118" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018011jpg/7313118/ALTERNATES/FREE_380/burgeri_jarun04272018011.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018011jpg/7313118/BINARY/thumbnail/burgeri_jarun04272018011.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018003jpg/7313097" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018003jpg/7313097/ALTERNATES/FREE_380/burgeri_jarun04272018003.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018003jpg/7313097/BINARY/thumbnail/burgeri_jarun04272018003.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018005jpg/7313103" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018005jpg/7313103/ALTERNATES/FREE_380/burgeri_jarun04272018005.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018005jpg/7313103/BINARY/thumbnail/burgeri_jarun04272018005.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Preostalo nam je samo zasukati rukave i uživati u ovim gurmanskim remek djelima èije æete recepte, nadamo se, i vi isprobati na svom sljedeæem druženju na otvorenom.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018006jpg/7313106" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018006jpg/7313106/ALTERNATES/FREE_380/burgeri_jarun04272018006.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018006jpg/7313106/BINARY/thumbnail/burgeri_jarun04272018006.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018008jpg/7313091" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018008jpg/7313091/ALTERNATES/FREE_380/burgeri_jarun04272018008.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018008jpg/7313091/BINARY/thumbnail/burgeri_jarun04272018008.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018001jpg/7313088" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018001jpg/7313088/ALTERNATES/FREE_380/burgeri_jarun04272018001.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018001jpg/7313088/BINARY/thumbnail/burgeri_jarun04272018001.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><h2>SAVJETI ZA NAJBOLJE BURGERE!</h2><table><tr><td><ul><li><strong>Kod mljevenog mesa udio loja u mesu mora biti minimalno 15 posto.</strong></li><li><strong>Meso neka bude mljeveno dva puta.</strong></li><li><strong>Sol i papar mesu dodajte neposredno prije peèenja ili nakon peèenja.</strong></li><li><strong>U samo meso nemojte dodavati nikakve dodatne sastojke osim soli i papra.</strong></li><li><strong>Kod formiranja mesa za burgere oblikujte kugle težine otprilike 180 grama.</strong></li><li><strong>Prije samog peèenja meso neka bude sobne temperature.</strong></li><li><strong>Debljina mesa neka bude minimalno 1 centimetar.</strong></li></ul></td></tr></table><p> </p><h2><a href="https://www.jutarnji.hr/dobrahrana/recepti/sto-je-rostilj-bez-burgera-peciva-za-burgere/7313082/">Peciva za burger</a></h2><h2>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018023jpg/7313154" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018023jpg/7313154/ALTERNATES/FREE_380/burgeri_jarun04272018023.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018023jpg/7313154/BINARY/thumbnail/burgeri_jarun04272018023.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </h2><h2><a href="https://www.jutarnji.hr/dobrahrana/recepti/sto-je-rostilj-bez-burgera-pureci-burger/7313067/">Pureæi burger</a></h2><h2>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018019jpg/7313142" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018019jpg/7313142/ALTERNATES/FREE_380/burgeri_jarun04272018019.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018019jpg/7313142/BINARY/thumbnail/burgeri_jarun04272018019.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </h2><h2><a href="https://www.jutarnji.hr/dobrahrana/recepti/sto-je-rostilj-bez-burgera-juneci-burger-sa-spekom/7313073/">Juneæi burger sa špekom</a></h2><h2>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018017jpg/7313136" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018017jpg/7313136/ALTERNATES/FREE_380/burgeri_jarun04272018017.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018017jpg/7313136/BINARY/thumbnail/burgeri_jarun04272018017.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </h2><h2><a href="https://www.jutarnji.hr/dobrahrana/recepti/sto-je-rostilj-bez-burgera-triple-burger/7313076/">Triple burger</a></h2><h2>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018030jpg/7313175" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018030jpg/7313175/ALTERNATES/FREE_380/burgeri_jarun04272018030.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018030jpg/7313175/BINARY/thumbnail/burgeri_jarun04272018030.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </h2><h2><a href="https://www.jutarnji.hr/dobrahrana/recepti/sto-je-rostilj-bez-burgera-janjeci-burger/7313070/">Janjeæi burger</a></h2><h2>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018025jpg/7313160" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018025jpg/7313160/ALTERNATES/FREE_380/burgeri_jarun04272018025.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018025jpg/7313160/BINARY/thumbnail/burgeri_jarun04272018025.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </h2><h2><a href="https://www.jutarnji.hr/dobrahrana/recepti/sto-je-rostilj-bez-burgera-burger-od-svinjetine/7313064/">Burger od svinjetine</a></h2><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018018jpg/7313139" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018018jpg/7313139/ALTERNATES/FREE_380/burgeri_jarun04272018018.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018018jpg/7313139/BINARY/thumbnail/burgeri_jarun04272018018.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><h2><a href="https://www.jutarnji.hr/dobrahrana/recepti/sto-je-rostilj-bez-burgera-cheeseburger/7313079/">Cheeseburger</a></h2><h2>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/burgeri_jarun04272018016jpg/7313133" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/burgeri_jarun04272018016jpg/7313133/ALTERNATES/FREE_380/burgeri_jarun04272018016.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/burgeri_jarun04272018016jpg/7313133/BINARY/thumbnail/burgeri_jarun04272018016.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Jarun Zagreb 27042018
+BURGERI
+Foto Mario Kucera"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Mario Kuèera
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</h2><h2>Recepte za najpopularnije umake, priloge i savršena domaæa peciva saznajte u <a href="https://www.jutarnji.hr/dobrahrana/dh-specijali/burgeri/">našem specijalu</a>!</h2>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7281639 p").filter(function () {
+$("#content-body-6263871-7313304 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1269,16 +1937,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7281639").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7313304").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7281639").children().slice(max).remove();
+$("#content-body-6263871-7313304").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7281639").children().get(0);
+var firstChild = $("#content-body-6263871-7313304").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1316,28 +1984,38 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/aktualno" class ="label label-default" >
-aktualno
+<a href="https://www.jutarnji.hr/tag/umaci" class ="label label-default" >
+umaci
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Kina" class ="label label-default" >
-Kina
+<a href="https://www.jutarnji.hr/tag/ro%C5%A1tilj" class ="label label-default" >
+roštilj
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/fotogalerija" class ="label label-default" >
-fotogalerija
+<a href="https://www.jutarnji.hr/tag/puretina" class ="label label-default" >
+puretina
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/mercedes" class ="label label-default" >
-mercedes
+<a href="https://www.jutarnji.hr/tag/janjetina" class ="label label-default" >
+janjetina
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Mercedes_A-klasa" class ="label label-default" >
-Mercedes A-klasa
+<a href="https://www.jutarnji.hr/tag/junetina" class ="label label-default" >
+junetina
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/svinjetina-1" class ="label label-default" >
+svinjetina
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/burgeri" class ="label label-default" >
+burgeri
 </a>
 </li>
 </ul>
@@ -1348,35 +2026,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="aktualno media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-mercedes-a-klase-udobniji-prostraniji-i-pakleno-inteligentniji-kompakt-u-prodaji-od-238250-kuna-za-model-a180d/7277742/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-mercedes-a-klase-udobniji-prostraniji-i-pakleno-inteligentniji-kompakt-u-prodaji-od-238250-kuna-za-model-a180d/7277742/">
-VOZILI SMO MERCEDES A-KLASE! Udobniji, prostraniji i pakleno inteligentniji kompakt u prodaji od 238.250 kuna za model A180d
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="garaza media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/garaza/kaos-u-monaku-policija-napokon-uspjela-stati-na-kraj-obijesnim-bogatasima-zaplijenjeni-deseci-superautomobila-evo-i-zasto/7278948/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/garaza/kaos-u-monaku-policija-napokon-uspjela-stati-na-kraj-obijesnim-bogatasima-zaplijenjeni-deseci-superautomobila-evo-i-zasto/7278948/">
-KAOS U MONAKU Policija napokon uspjela stati na kraj obijesnim bogatašima! Zaplijenjeni deseci superautomobila, evo i zašto! </a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1456,7 +2105,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7281639" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7313304" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1488,19 +2137,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="aktualno media c11a none">
+<article class="price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/bez-njega-nema-voznje-na-struju-crno-zlato-buducnosti-je-bijelo-litij-za-baterije-vec-mijenja-geopoliticku-sliku-svijeta/7262265/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/ispeci-mami-tortu-donosimo-vam-pet-recepata-ovih-genijalnih-torti/7326120/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/bez-njega-nema-voznje-na-struju-crno-zlato-buducnosti-je-bijelo-litij-za-baterije-vec-mijenja-geopoliticku-sliku-svijeta/7262265/">
-STRATEŠKI METAL BUDUÆNOSTI
+<a href="https://www.jutarnji.hr/dobrahrana/price/ispeci-mami-tortu-donosimo-vam-pet-recepata-ovih-genijalnih-torti/7326120/">
+DAJ MI NEŠ SLATKO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/bez-njega-nema-voznje-na-struju-crno-zlato-buducnosti-je-bijelo-litij-za-baterije-vec-mijenja-geopoliticku-sliku-svijeta/7262265/">
-BEZ NJEGA NEMA VOŽNJE NA STRUJU: CRNO ZLATO BUDUÆNOSTI JE BIJELO! Litij za baterije veæ mijenja geopolitièku sliku svijeta!
+<a href="https://www.jutarnji.hr/dobrahrana/price/ispeci-mami-tortu-donosimo-vam-pet-recepata-ovih-genijalnih-torti/7326120/">
+ISPECI MAMI TORTU: Donosimo vam pet recepata ovih genijalnih torti!
 </a>
 </h4>
 </div>
@@ -1510,19 +2159,19 @@ BEZ NJEGA NEMA VOŽNJE NA STRUJU: CRNO ZLATO BUDUÆNOSTI JE BIJELO! Litij za bater
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="aktualno media c11a none">
+<article class="price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-mercedes-a-klase-udobniji-prostraniji-i-pakleno-inteligentniji-kompakt-u-prodaji-od-238250-kuna-za-model-a180d/7277742/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-mercedes-a-klase-udobniji-prostraniji-i-pakleno-inteligentniji-kompakt-u-prodaji-od-238250-kuna-za-model-a180d/7277742/">
-ZVIJEZDA KLASE
+<a href="https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/">
+JEDU NAM SE SOÈNI BURGERI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/vozili-smo-mercedes-a-klase-udobniji-prostraniji-i-pakleno-inteligentniji-kompakt-u-prodaji-od-238250-kuna-za-model-a180d/7277742/">
-VOZILI SMO MERCEDES A-KLASE! Udobniji, prostraniji i pakleno inteligentniji kompakt u prodaji od 238.250 kuna za model A180d
+<a href="https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/">
+KAKO DO SAVRŠENOG BURGERA: Omjeri i vrste mesa, domaæa peciva, savjeti i zanimljivi umaci zbog kojih morate zasukati rukave!
 </a>
 </h4>
 </div>
@@ -1532,19 +2181,19 @@ VOZILI SMO MERCEDES A-KLASE! Udobniji, prostraniji i pakleno inteligentniji komp
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="aktualno media c11a none">
+<article class="price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste/7281639/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste/7281639/">
-AUTO CHINA 2018.
+<a href="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/">
+DOBRA HRANA U BERBI SMRÈAKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste/7281639/">
-FOTO: MERCEDES PREDSTAVIO A-KLASU L Sedan koju veæ nazivaju Baby CLS, ali samo za kinesko tržište
+<a href="https://www.jutarnji.hr/dobrahrana/price/priroda-od-koje-zastaje-dah-spektakularne-fotografije-berbe-smrcaka-na-velebitu-s-akademskim-slikarom/4057431/">
+PRIRODA OD KOJE ZASTAJE DAH: Spektakularne fotografije berbe smrèaka na Velebitu s akademskim slikarom!
 </a>
 </h4>
 </div>
@@ -1554,19 +2203,19 @@ FOTO: MERCEDES PREDSTAVIO A-KLASU L Sedan koju veæ nazivaju Baby CLS, ali samo z
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="aktualno media c11a none">
+<article class="price media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/autoklub/aktualno/gotovo-14000-citatelja-naseg-portala-odlucilo-upoznajte-najatraktivniju-hostesu-zagreb-auto-showa-2018/7253163/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/dobrahrana/price/tehnologija-u-gastronomiji-sous-vide-u-pecnici-i-rucak-skuhan-tri-puta-brze/7288255/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/gotovo-14000-citatelja-naseg-portala-odlucilo-upoznajte-najatraktivniju-hostesu-zagreb-auto-showa-2018/7253163/">
-GUSTO DO KRAJA
+<a href="https://www.jutarnji.hr/dobrahrana/price/tehnologija-u-gastronomiji-sous-vide-u-pecnici-i-rucak-skuhan-tri-puta-brze/7288255/">
+POSTANI STRUÈNJAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/autoklub/aktualno/gotovo-14000-citatelja-naseg-portala-odlucilo-upoznajte-najatraktivniju-hostesu-zagreb-auto-showa-2018/7253163/">
-GOTOVO 14.000 ÈITATELJA NAŠEG PORTALA ODLUÈILO! Upoznajte najatraktivniju hostesu Zagreb Auto Showa 2018.!
+<a href="https://www.jutarnji.hr/dobrahrana/price/tehnologija-u-gastronomiji-sous-vide-u-pecnici-i-rucak-skuhan-tri-puta-brze/7288255/">
+TEHNOLOGIJA U GASTRONOMIJI: Sous vide u peænici i ruèak skuhan tri puta brže!
 </a>
 </h4>
 </div>
@@ -1589,60 +2238,10 @@ GOTOVO 14.000 ÈITATELJA NAŠEG PORTALA ODLUÈILO! Upoznajte najatraktivniju hostes
 </div>
 <div class="row " >
 <div class="col-sm-4 " >
-<section>
-<article class="banner-testing-page media none">
-<div class="teaser "
-data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<a href="http://www.gloria.hr/">
-<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-</div>
-</article>
-</section>
-<article class="fokus-zvjezdane-staze media c3 none">
-<div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-</a>
-<div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
-data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</a>
-</div>
-<div class="media-body">
-<h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
-</a>
-</h4>
-</div>
-</div>
-</article>
+<iframe src="https://widgets.jutarnji.hr/vanjski/slobodna/?section=gastro" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
 <div class="col-sm-4 " >
-<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src="https://widgets.jutarnji.hr/vanjski/punkufer/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
 <div class="col-sm-4 " >
 <iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
@@ -1721,6 +2320,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2010,11 +2614,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2062,14 +2661,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2113,67 +2712,89 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=63&contextPath=1-62-63-&pubId=1&cat=&meta=read-story&objId=7281639&type=article&title=FOTO%3a+MERCEDES+PREDSTAVIO+A-KLASU+L+Sedan+koju+ve%c4%87+nazivaju+Baby+CLS%2c+ali+samo+za+kinesko+tr%c5%bei%c5%a1te&url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2faktualno%2ffoto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste%2f7281639%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=76&contextPath=1-74-76-&pubId=1&cat=&meta=read-story&objId=7313304&type=article&title=KAKO+DO+SAVR%c5%a0ENOG+BURGERA%3a+Omjeri+i+vrste+mesa%2c+doma%c4%87a+peciva%2c+savjeti+i+zanimljivi+umaci+zbog+kojih+morate+zasukati+rukave!&url=https%3a%2f%2fwww.jutarnji.hr%2fdobrahrana%2fprice%2fkako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave%2f7313304%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=63&amp;contextPath=1-62-63-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7281639&amp;type=article&amp;title=FOTO%3a+MERCEDES+PREDSTAVIO+A-KLASU+L+Sedan+koju+ve%c4%87+nazivaju+Baby+CLS%2c+ali+samo+za+kinesko+tr%c5%bei%c5%a1te&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fautoklub%2faktualno%2ffoto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste%2f7281639%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=76&amp;contextPath=1-74-76-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7313304&amp;type=article&amp;title=KAKO+DO+SAVR%c5%a0ENOG+BURGERA%3a+Omjeri+i+vrste+mesa%2c+doma%c4%87a+peciva%2c+savjeti+i+zanimljivi+umaci+zbog+kojih+morate+zasukati+rukave!&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdobrahrana%2fprice%2fkako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave%2f7313304%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=992272257&title=Mercedes+A-klasa&url=tag%3ajltags%40eph.hr%2c2016%3aMercedes_A-klasa&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&cat=jltags%40eph.hr%2c2016&objId=414902788&title=burgeri&url=tag%3ajltags%40eph.hr%2c2016%3aburgeri&rt=1&ctxId=76&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=992272257&amp;title=Mercedes+A-klasa&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMercedes_A-klasa&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=414902788&amp;title=burgeri&amp;url=tag%3ajltags%40eph.hr%2c2016%3aburgeri&amp;rt=1&amp;ctxId=76&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=212672956&title=mercedes&url=tag%3ajltags%40eph.hr%2c2016%3amercedes&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&cat=jltags%40eph.hr%2c2016&objId=1201657931&title=svinjetina&url=tag%3ajltags%40eph.hr%2c2016%3asvinjetina-1&rt=1&ctxId=76&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=212672956&amp;title=mercedes&amp;url=tag%3ajltags%40eph.hr%2c2016%3amercedes&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1201657931&amp;title=svinjetina&amp;url=tag%3ajltags%40eph.hr%2c2016%3asvinjetina-1&amp;rt=1&amp;ctxId=76&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=1013746283&title=fotogalerija&url=tag%3ajltags%40eph.hr%2c2016%3afotogalerija&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&cat=jltags%40eph.hr%2c2016&objId=482148624&title=junetina&url=tag%3ajltags%40eph.hr%2c2016%3ajunetina&rt=1&ctxId=76&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1013746283&amp;title=fotogalerija&amp;url=tag%3ajltags%40eph.hr%2c2016%3afotogalerija&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=482148624&amp;title=junetina&amp;url=tag%3ajltags%40eph.hr%2c2016%3ajunetina&amp;rt=1&amp;ctxId=76&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=1895143447&title=Kina&url=tag%3ajltags%40eph.hr%2c2016%3aKina&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&cat=jltags%40eph.hr%2c2016&objId=1258261930&title=janjetina&url=tag%3ajltags%40eph.hr%2c2016%3ajanjetina&rt=1&ctxId=76&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1895143447&amp;title=Kina&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKina&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1258261930&amp;title=janjetina&amp;url=tag%3ajltags%40eph.hr%2c2016%3ajanjetina&amp;rt=1&amp;ctxId=76&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&cat=jltags%40eph.hr%2c2016&objId=1877610685&title=aktualno&url=tag%3ajltags%40eph.hr%2c2016%3aaktualno&rt=1&ctxId=63&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&cat=jltags%40eph.hr%2c2016&objId=1831374650&title=puretina&url=tag%3ajltags%40eph.hr%2c2016%3apuretina&rt=1&ctxId=76&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-62-63-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1877610685&amp;title=aktualno&amp;url=tag%3ajltags%40eph.hr%2c2016%3aaktualno&amp;rt=1&amp;ctxId=63&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1831374650&amp;title=puretina&amp;url=tag%3ajltags%40eph.hr%2c2016%3apuretina&amp;rt=1&amp;ctxId=76&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&cat=jltags%40eph.hr%2c2016&objId=1104779404&title=ro%c5%a1tilj&url=tag%3ajltags%40eph.hr%2c2016%3aro%25C5%25A1tilj&rt=1&ctxId=76&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1104779404&amp;title=ro%c5%a1tilj&amp;url=tag%3ajltags%40eph.hr%2c2016%3aro%25C5%25A1tilj&amp;rt=1&amp;ctxId=76&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&cat=jltags%40eph.hr%2c2016&objId=1777792097&title=umaci&url=tag%3ajltags%40eph.hr%2c2016%3aumaci&rt=1&ctxId=76&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-74-76-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1777792097&amp;title=umaci&amp;url=tag%3ajltags%40eph.hr%2c2016%3aumaci&amp;rt=1&amp;ctxId=76&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2226,7 +2847,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste/7281639/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2236,14 +2857,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/autoklub/aktualno/foto-mercedes-predstavio-a-klasu-l-sedan-koju-vec-nazivaju-baby-cls-ali-samo-za-kinesko-trziste/7281639/",
-postId : "7281639",
+url : "https://www.jutarnji.hr/dobrahrana/price/kako-do-savrsenog-burgera-omjeri-i-vrste-mesa-domaca-peciva-savjeti-i-zanimljivi-umaci-zbog-kojih-morate-zasukati-rukave/7313304/",
+postId : "7313304",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "FOTO: MERCEDES PREDSTAVIO A-KLASU L Sedan koju veæ nazivaju Baby CLS, ali samo za kinesko tržište",
-pubdate : "2018-04-24 15:54",
-authors : "Zvonimir Jurèiæ",
-sections : "Front Page, Auto klub, Aktualno",
-tags : "Mercedes A-klasa, mercedes, fotogalerija, Kina, aktualno",
+title : "KAKO DO SAVRŠENOG BURGERA: Omjeri i vrste mesa, domaæa peciva, savjeti i zanimljivi umaci zbog kojih morate zasukati rukave!",
+pubdate : "2018-05-08 07:36",
+authors : "Anita Šariæ",
+sections : "Front Page, Dobra hrana, Burgeri, Prièe",
+tags : "burgeri, svinjetina, junetina, janjetina, puretina, roštilj, umaci",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

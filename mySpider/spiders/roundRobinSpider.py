@@ -12,7 +12,7 @@ Created on 17. pro 2017.
 
 import urllib
 import codecs
-import spiders.linkParser as linkParser
+import spiders.handlerURL as handURL
 from random import randint
 import re
 
@@ -24,6 +24,7 @@ class RoundRobinSpider():
     #             domain - domain of web page to be crawled
     #             f_all - file for writing all crawled links
     # return: NONE
+    # FIX ME !!!!!!!!!!!!!!!!!
     def roundRobinSpider(self, pagesToVisit, domains, regexExpressions, howManyPagesToCrawl, fAll, numberVisited): 
         
         try:
@@ -43,14 +44,14 @@ class RoundRobinSpider():
                 url = pagesToVisit[number]
                 
                 #call parser
-                parser = linkParser.LinkParser()
-                print("URL: " + url)
-                data, links = parser.getLinks(url)
+                handler = handURL.handlerURL()
+                #print("URL: " + url)
+                data, links = handler.getURLs(url)
                 
                 for regexExpr in regexExpressions:
                     #print (data)
                     if re.match(regexExpr, url, flags=0):
-                        print("URL that crawler found as target: " + url)
+                        #print("URL that crawler found as target: " + url)
                         fAll.write(url + "\n")
                         f = codecs.open("webPagesHTML/web-page-%05d.txt" % numberVisited, 'w', encoding='Windows-1250')
                         f.write(data.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))

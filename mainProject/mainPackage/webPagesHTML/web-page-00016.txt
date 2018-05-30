@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Brojnost je sigurno mnogo veæa nego što tvrde struène službe Ministarstva. Smatramo da je u Hrvatskoj oko 450 vukova, zaštitari kažu 160, a to je velika razlika. Mi smo njihov broj utvrðivali svakodnevnim praæenjem, tijekom èitave godine, tragova i lešina, viðanjem živih jedinki i fotozamkama, kaže Josip Malnar, predsjednik Lovaèkog saveza Primorsko-goranske županije" />
-<meta name="keywords" content="Životinje" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Glazbena diva svekrva je najbogatijeg Hrvata Davora Lukšiæa. Njezina kæi uskoro æe roditi" />
+<meta name="keywords" content="Davor Lukšiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>&#039;Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih&#039; - Jutarnji List</title>
+<title>FOTOEKSKLUZIV: LEGENDARNA TALIJANSKA DIVA U POZNATOM ZAGREBAÈKOM RESTORANU SLAVI DOLAZAK PRVOG UNUKA Slavna pjevaèica punica je najbogatijeg Hrvata - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7270479";
-var dfpArticleKeyword = "Životinje";
+var dfpCategory = "Strane zvijezde";
+var dfpCategoryParent = "Spektakli";
+var dfpRos = "spektakli-ros";
+var dfpArticle = "7329771";
+var dfpArticleKeyword = "Davor Lukšiæ";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/sheepjpg/7279083/ALTERNATES/LANDSCAPE_1180/sheep.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/uztjpg/7329777/ALTERNATES/LANDSCAPE_1180/uzt.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/sheepjpg/7279083/ALTERNATES/LANDSCAPE_1180/sheep.jpg">
-<meta property="og:title" content="'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/uztjpg/7329777/ALTERNATES/LANDSCAPE_1180/uzt.jpg">
+<meta property="og:title" content="FOTOEKSKLUZIV: LEGENDARNA TALIJANSKA DIVA U POZNATOM ZAGREBAÈKOM RESTORANU SLAVI DOLAZAK PRVOG UNUKA Slavna pjevaèica punica je najbogatijeg Hrvata" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" />
+<meta property="og:url" content="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Brojnost je sigurno mnogo veæa nego što tvrde struène službe Ministarstva. Smatramo da je u Hrvatskoj oko 450 vukova, zaštitari kažu 160, a to je velika razlika. Mi smo njihov broj utvrðivali svakodnevnim praæenjem, tijekom èitave godine, tragova i lešina, viðanjem živih jedinki i fotozamkama, kaže Josip Malnar, predsjednik Lovaèkog saveza Primorsko-goranske županije" />
+<meta property="og:description" content="Glazbena diva svekrva je najbogatijeg Hrvata Davora Lukšiæa. Njezina kæi uskoro æe roditi" />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Mario Pušiæ">
-<meta name="twitter:title" content="'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'">
-<meta name="twitter:description" content="Brojnost je sigurno mnogo veæa nego što tvrde struène službe Ministarstva. Smatramo da je u Hrvatskoj oko 450 vukova, zaštitari kažu 160, a to je velika razlika. Mi smo njihov broj utvrðivali svakodnevnim praæenjem, tijekom èitave godine, tragova i lešina, viðanjem živih jedinki i fotozamkama, kaže Josip Malnar, predsjednik Lovaèkog saveza Primorsko-goranske županije">
+<meta name="twitter:creator" content="Jutarnji list">
+<meta name="twitter:title" content="FOTOEKSKLUZIV: LEGENDARNA TALIJANSKA DIVA U POZNATOM ZAGREBAÈKOM RESTORANU SLAVI DOLAZAK PRVOG UNUKA Slavna pjevaèica punica je najbogatijeg Hrvata">
+<meta name="twitter:description" content="Glazbena diva svekrva je najbogatijeg Hrvata Davora Lukšiæa. Njezina kæi uskoro æe roditi">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-24T00:00+02:00",
-author: "Mario Pušiæ",
+data: { section: "Strane zvijezde, Spektakli, Front Page",
+pubdate: "2018-05-08T10:10+02:00",
+author: "Jutarnji list",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="spektakli story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -793,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -818,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -858,7 +858,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1049,7 +1054,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -1132,39 +1137,39 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
+<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+<li><a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">Strane zvijezde </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
-</a>
-</li>
-<li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
 </a>
 </li>
 </ul>
@@ -1204,11 +1209,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-VUKOVI OKO NAS
+OBITELJSKA SREÆA
 </p>
 <h1
 class="title">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+FOTOEKSKLUZIV: LEGENDARNA TALIJANSKA DIVA U POZNATOM ZAGREBAÈKOM RESTORANU SLAVI DOLAZAK PRVOG UNUKA Slavna pjevaèica punica je najbogatijeg Hrvata
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1221,7 @@ class="title">
 <p
 class="authors">
 <ul>
-<li>Mario Pušiæ</li>
+<li>Jutarnji list</li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1229,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 00:00
+08.05.2018. u 10:10
 </p>
 </li>
 </ul>
@@ -1236,12 +1241,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/sheepjpg/7279083" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/uztjpg/7329777" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/sheepjpg/7279083/ALTERNATES/LANDSCAPE_380/sheep.jpg"
+<img src="https://www.jutarnji.hr/incoming/uztjpg/7329777/ALTERNATES/LANDSCAPE_380/uzt.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sheepjpg/7279083/BINARY/thumbnail/sheep.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/uztjpg/7329777/BINARY/thumbnail/uzt.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1250,12 +1255,12 @@ title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Robert Fajt / CROPIX, privatni album
+<span> Jutarnji list
 </span>
 </div>
 </div>
 <div class="picture-caption ">
-<h4>Stipo Guèanin</h4>
+<h4>Romina Power (desno)</h4>
 </div>
 </div>
 </section>
@@ -1264,7 +1269,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p><em><strong>Brojnost je sigurno mnogo veæa nego što tvrde struène službe Ministarstva. Smatramo da je u Hrvatskoj oko 450 vukova, zaštitari kažu 160, a to je velika razlika. Mi smo njihov broj utvrðivali svakodnevnim praæenjem, tijekom èitave godine, tragova i lešina, viðanjem živih jedinki i fotozamkama, kaže Josip Malnar, predsjednik Lovaèkog saveza Primorsko-goranske županije</strong></em></p>
+<p><strong> </strong></p>
 </p>
 </section>
 <section>
@@ -1289,19 +1294,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7270479"
+<div id="content-body-6263871-7329771"
 >
-<p>Svakoga dana vukovi u Hrvatskoj èetiri puta napadnu stada i ubiju osam grla, uglavnom ovaca, koza, goveda. U posljednjih osam godina Ministarstvo zaštite okoliša evidentiralo je èak 11.557 takvih napada te strogo zaštiæene zvijeri na domaæe životinje. Za 22.859 stradalih jedinki u tom periodu, poljoprivrednicima je država isplatila gotovo 9,5 milijuna kuna odšteta. Pretpostavlja se da vukovi usmrte još toliko jedinki divljaèi po šumama, što lovci smatraju direktnom štetom lovaèkim društvima za koja ne mogu ishoditi obešteæenje.</p><p>Oni su izraèunali da se broj vukova tijekom posljednjih nekoliko godina udvostruèio i iznosi 450 jedinki te traže hitan “zahvat u populaciju”, odnosno odstrel. S druge strane, iz Hrvatske agencije za okoliš i prirodu, koja se bavi njihovom zaštitom, za tako nešto ne žele niti èuti veæ pet godina jer prema njihovim podacima, koji su potpuno opreèni, od 2010. godine, kada su zabilježili prosjeèan broj na godišnjoj razini od 230 jedinki, on se do 2015. smanjio za više od 70 te sada iznosi oko 150 i gotovo da ulazi u “crveno”.</p><p>Braæa <strong>Perica</strong> i <strong>Stipo Guèanin</strong> vlasnici su OPG-a koji se bavi uzgojem ovaca na Krbavskom polju, a stado im broji oko 1000 grla. Krajem prošle godine u dva napada ubijeno im je gotovo 300 životinja, u prvom koji se dogodio krajem listopada 211, a mjesec kasnije 77 ovaca. Ni u jednom sluèaju nisu pronaðeni tragovi vuèjih šapa, u drugom sluèaju dokazi da su im u tor upali vukovi bile su vratne razderotine na životinjama, pa su uspjeli ishoditi odštetu od 53.000 kuna. No, u prvom sluèaju ni takvih dokaza nije bilo, pa štetu koja je veæa od 200.000 kuna moraju snositi sami. Oni su uvjereni da se i u tom sluèaju moralo raditi o vukovima, jer im ovce nije imao tko drugi napasti.</p><p>
+<p>U išèekivanju roðenja prvog djeteta najbogatijeg Hrvata, vlasnika lanca hotela i potomka najbogatije obitelji u Èileu, <strong>Davora Lukšiæa</strong> i njegove supruge<strong> Cristel Carrisi</strong>, u nedjelju su se u poznatom zagrebaèkom restoranu Okrugljak okupili slavni èlanovi obje strane obitelji.</p><p>Tako su za istim stolom, uz buduæe roditelje, Davora i Cristel, sjedili njezina majka, poznata talijanska pjevaèica svjetske slave <strong>Romina Power,</strong> ali i Davorov otac <strong>Andrónico Luksic Craig</strong>, èileanski poduzetnik hrvatskog porijekla, jedan od najbogatijih biznismena na svijetu, èije se bogatstvo mjeri u milijardama dolara. Naime, Andronico mlaði, vlasnik Grupe Luksic, koji je na Forbesovoj listi 2017. godine bio na visokom 83. mjestu, nije èesto viðen u Hrvatskoj, no oèito roðenje unuka prigoda je kojoj nije mogao odoljeti.</p><p>
 <section>
-<article class="ece_incoming media ">
+<article class="strane-zvijezde media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/ayay3jpg/7270494" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/luksicijpg/7330875" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/ayay3jpg/7270494/ALTERNATES/FREE_380/ayay3.jpg"
+<img src="https://www.jutarnji.hr/spektakli/strane-zvijezde/luksicijpg/7330875/ALTERNATES/FREE_380/luksici.jpg"
 data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/ayay3jpg/7270494/BINARY/thumbnail/ayay3.jpg"
+data-src-template="https://www.jutarnji.hr/spektakli/strane-zvijezde/luksicijpg/7330875/BINARY/thumbnail/luksici.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1310,62 +1315,19 @@ title=""
 class="media-object adaptive lazy "
 />
 </div>
-</div>
-</div>
-</article>
-</section>
- </p><h5><strong>Isti scenarij, manja šteta</strong></h5><p>- U tom prvom napadu samo je 12 ovaca bilo rašèupano, a ostale su se pogušile. Uveèer, bilo je oko 23 sata, došao sam ih obiæi. Neobièno mi je bilo što su se sve povukle u štalu, iako vole biti vani u ograðenom prostoru. Kada sam ušao unutra, imao sam što i vidjeti, bile su jedna na drugoj, možda i 15 takvih redova naslaganih. Ove donje su se pogušile, ja sam ih izvlaèio, tako i spasio jedno 15 komada, ali veæini nisam mogao pomoæi - otkriva nam Stipo Guèanin i dodaje da je kobne noæi osvijetlio i u mraku vidio vuèje oèi, no to, dakako, nije bio dovoljan dokaz da bi se priznao njihov odštetni zahtjev.</p><p>Slièan scenarij dogodio se i poslije, samo što je šteta bila malo manja. Nekoliko godina ranije u brdu iznad Udbine stradalo im je 90 komada, od toga ostatke 40 ovaca nikad nisu pronašli. Šteta se po jednoj ovci cijeni na 100 eura, no po jednoj godini ona, kaže Stipo, daje janje vrijedno jednako toliko eura, a još toliko dobiju za njezino mlijeko. Kako bi obnovili stado, ostavit æe svu žensku janjad te ih još prikupiti.</p><p>Braæa Guèanin smatraju da vukova ima više nego što bi trebalo, da èopori koji ih napadaju dolaze i iz susjedne BiH, a oni im se nalaze na ruti s jednog na drugo brdo iznad Krbavskog polja. Jedna od mjera koje æe oni poduzeti jest nabava pasa tornjaka. Imali su ih i prije, no prije deset godina u Jošanima se dogodio napad napuštenih tornjaka na staricu, pa su se pod lupom policije našli i oni stoèari koji su vodili brigu o svojim psima. Stoga nisu obnavljali pseæi èopor.</p><p><strong>Josip Malnar</strong>, predsjednik Lovaèkog saveza Primorsko-goranske županije, za nacionalni savez kojem je dopredsjednik dobio je zadatak utvrditi broj jedinki vuka, s obzirom na to da u službene brojeve državnih institucija lovci ne vjeruju.</p><p>- Brojnost je sigurno mnogo veæa nego što tvrde struène službe Ministarstva. Držimo da je u Hrvatskoj oko 450 vukova, a zaštitari kažu 160, a to je velika razlika. Mi smo broj utvrðivali svakodnevnim praæenjem, tijekom cijele godine, tragova i lešina, viðanjem živih jedinki i fotozamkama. Osim u Gorskom kotaru, po svim južnim županijama, od Like do Dubrovnika, pojavljuje se u Karlovaèkoj i Sisaèko-moslavaèkoj, èak i u Istarskoj županiji imamo jedan èopor koji je zajednièki sa Slovenijom. Ako uzmete da jednom vuku treba od tri do pet kilograma mesa dnevno za preživljavanje, izraèunajte koji je to ekvivalent u divljaèi ili u stoci. Za divljaè se, nažalost, ne dobiva nikakva odšteta pa možemo govoriti o velikoj gospodarskoj šteti - kaže lovac Josip Malnar.</p><p>Napominje da lovci nisu protiv zaštite vuka, ali “razumnu, a ne deklariranu, jer je ovako kruta zaštita najveæi problem za oèuvanje neke vrste”.</p><p>- Razmišlja li netko o zaštiti životinja, onda su to lovci. 60-ih godina oko Vrbovskog lovci su zaštitili vuka jer je brojnost bila vrlo mala, tako da ne stoji da su lovci ti koji vrše pritisak. Zanimljivo je da smo dio Europske unije, a u Sloveniji, primjerice, normalno gospodare te je na razini države dopušten odstrel 10 jedinki. Nedavno su uz našu granicu odstrijelili dva komada u jednom lovu, a u Bosni da i ne govorim, može ga svatko svugdje i svaèim. Mi smo neka èudna tampon-zona - kaže Malnar.</p><p>On smatra da se problem može riješiti jedino da Ministarstvo donese odluku da se na podruèjima županija gdje je vuk stalno prisutan odreðen broj izluèi iz lovišta, dodajuæi da je taj model nekad bio na snazi i on je zadovoljavao lovce. Samo u Gorskom kotaru, uvjeren je, živi 49 vukova, a tamo se hrani uglavnom srneæom divljaèi, odnosno jelenima te mladom divljom svinjom.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/ayay2jpg/7270491" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/ayay2jpg/7270491/ALTERNATES/FREE_380/ayay2.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/ayay2jpg/7270491/BINARY/thumbnail/ayay2.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
+<div class="picture-caption ">
+<h4>Davor Lukšiæ i supruga Cristel Carrisi</h4>
 </div>
 </div>
 </div>
 </article>
 </section>
- </p><h5><strong>Mora se iæi u hitan odstrel</strong></h5><p>Malnarov kolega iz susjedne županije, tajnik lièkog Lovaèkog saveza <strong>Mile Ugarkoviæ</strong> kaže da im je vuk poèetkom ove godine napravio goleme štete na divljoj prasadi i srneæoj divljaèi, i to zbog vrlo visokog snijega. Smatra da bi se trebalo iæi u hitan odstrel.</p><p>- Podaci koje je prikupio Malnar sigurno su vjerodostojni, u istraživanju su sudjelovali i lovci iz svih županijskih saveza, a korištene su i DNK metode na vuèjem izmetu. Šesta godina ide kako nije bilo izluèivanja tih jedinki, prema tome, toga se nakotila neviðena kolièina. Èak mislim da je broj koji smo utvrdili minimalan, da može biti samo veæi - kaže lièki lovac Mile Ugarkoviæ i dodaje da su se vukovi, nakon što je okopnilo, s divljaèi opet prebacili na stoku.</p><p>Velike zvijeri istražuju se u Hrvatskoj više od 30 godina, prvi vuk obilježen je ogrlicom za praæenje 1998. godine, a prva procjena brojnosti temeljem višegodišnjih istraživanja za potrebe upravljanja populacijom vuka u Hrvatskoj izraðena je 2005. godine i iznosila je od 160 do 220 jedinki, tj. prosjeèno njih 190, rasporeðenih u 40-ak èopora od kojih su neki prekogranièni sa Slovenijom i BiH. Planom upravljanja vukom, u èijoj su izradi sudjelovale sve relevantne institucije i interesne skupine, meðu njima i lovci i stoèari, dogovoreno je da æe se održati populacija od 200 do 220 jedinki.</p><h5><strong>Stradanje u prometu i krivolov</strong></h5><p>- Ako kvaliteta staništa pada, izmeðu ostalog i zbog utjecaja èovjeka, dolazi do smanjivanja kapaciteta staništa, što uzrokuje smanjenje brojnosti i pokušaj širenja vrste u druga podruèja. Upravo iz tih razloga posljednjih godina primijeæena je prisutnost vuka i na podruèju Banovine i Žumberka. Takoðer, takvu situaciju u pograniènim podruèjima treba sagledavati i u kontekstu trenda populacije vuka u Bosni i Hercegovini odnosno Sloveniji, s kojima dijelimo našu populaciju.</p><p>Kapacitet staništa je ona vrijednost koja diktira ili omoguæava brojnost vuèje populacije te se kapacitet staništa za vuka u Hrvatskoj nije poveæavao, nego se tijekom zadnjeg desetljeæa uslijed raznih antropogenih èimbenika i smanjivao zbog degradacije staništa, a dodatan negativan utjecaj na vrstu èine stradanja u prometu i krivolov - kaže nam <strong>Andreja Ribariæ</strong> iz Hrvatske agencije za okoliš i prirodu, naglašavajuæi da na cijelom podruèju rasprostranjenosti vuka u Hrvatskoj kapacitet staništa podržava upravo 200 do 220 jedinki vuka, a taj raspon dobiven je znatnim istraživaèkim naporom i telemetrijskim podacima koji ukazuju da na podruèju Gorskog kotara jedan èopor zauzima do 350 km?, kao i na podruèju središnje Like, na podruèju Velebita on pokriva 650 km?, a u Dalmaciji od 150 do 250 km?, ovisno o kojem je dijelu Dalmacije rijeè. Prosjeèno to iznosi jedna do dvije jedinke vuka na 100 km?.</p><p>Svoje procjene o brojnosti vuka smatraju relevantnima jer su iskazi procjenitelja usklaðivani s telemetrijski odreðenim velièinama teritorija vuèjih èopora i brojem jedinki koje mogu obitavati na nekoj površini, a u obzir su uzeti i svi ostali dostupni podaci. U godinama kada je postojala suradnja lovaca u prebrojavanju vukova po tragovima u snijegu (2005. - 2010.), kažu u HAOP-u, i u godinama kada je dopušten zahvat u populaciju, brojnost od prosjeèno 200 - 220 vukova bila je prihvatljiva i smatrana vjerodostojnom, a ti podaci relevantnima te su uzeti i u vodeæem znanstvenom èasopisu Science, gdje su prošli recenzije vodeæih svjetskih struènjaka za velike zvijeri.</p><p>- U razdoblju od 2005. do 2014. godine, kada se redovito izraðivalo izvješæe o stanju populacije vuka u Hrvatskoj, procijenjena brojnost u 2014. godini je i najmanja brojnost u tom razdoblju koja upozorava na nastavak negativnog trenda te pad brojnosti populacije. Zadnja procijenjena brojnost vuka u 2015. godini iznosi od najmanje 126 jedinki do najviše 186 jedinki. U prosjeku to iznosi 156 jedinki rasporeðenih u 49 èopora, od kojih su 22 èopora granièna (45 posto). Takoðer, procijenjena brojnost u 2015. godini je najmanja brojnost u tom razdoblju. Trend smanjenja ukupnog broja šteta od vuka bilježi se kontinuirano od 2011. godine - kažu nam u agenciji i dodaju da zbog nedostataka i nedovoljno dobrih podataka nije mogla biti slijeðena struèna, znanstvena priznata metodologija pa procjena nije raðena za 2016. godinu, kao i da se u zemljama zapadne Europe ne odreðuje brojnost jedinki, nego se odreðuje samo broj reproduktivnih parova.</p><p>Plan upravljanja vukom sigurno æe u reviziju, a parametri na kojima æe se proces temeljiti bit æe dobiveni provedbom DNK analize na izmetu vukova ove godine kroz provedbu projekta izrade Plana upravljanja vukom u Hrvatskoj koji je sufinanciran iz Operativnog programa “Konkurentnost i kohezija 2014. - 2020.”.</p><p>U Agenciji naglašavaju da u Republici Hrvatskoj, kao i u cijeloj Europskoj uniji, vuk ima status stroge zaštite prema odredbama europske Direktive o staništima te je zbog toga RH dužna pratiti stanje populacije vuka i osigurati da populacija bude u povoljnom stanju oèuvanja. Zahvati u populaciju vuka u obliku odstrelne kvote s izuzeæem dopušteni su i provoðeni na selektivnoj osnovi, sukladno važeæim propisima zbog spreèavanja uèestalih i velikih ekonomskih šteta na domaæim životinjama, uz uvjet da ne smiju narušiti stabilnost populacije koja mora odražavati povoljno stanje oèuvanosti.</p><p>
-<section>
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/ayayjpg/7270488" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/ayayjpg/7270488/ALTERNATES/FREE_380/ayay.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/ayayjpg/7270488/BINARY/thumbnail/ayay.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt=""
-title=""
-class="media-object adaptive lazy "
-/>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><h5><strong>Brojnost jedinki vuka</strong></h5><p>- Prošireni sastanci Povjerenstva za praæenje populacija velikih zvijeri u Hrvatskoj, na kojima se raspravlja o moguæem godišnjem zakonitom zahvatu u populaciju vuka, održavani su svake godine od 2005. do 2012., sredinom rujna, i na njima su putem izvješæa predstavljeni rezultati procjene stanja populacije vuka za pojedine godine. U raspravi o zakonitom odstrelu, osim èlanova Povjerenstva, sudjelovali su i predstavnici interesnih grupa - lovci, nevladine udruge itd. Svake godine se na prijedlog Povjerenstva o visini zakonom propisane kvote odluèivalo na naèin da se od 10 do 15 postotnog brojèanog procijenjenog stanja populacije oduzimala dotad ukupna poznata smrtnost za tu godinu te se razlika odobravala za zakoniti odstrel za tu sezonu.</p><p>U razdoblju od 2005. do 2012. godine ukupno je dopušten odstrel 113 jedinki, od èega je odstrijeljeno njih 77, odnosno realizirano je 68 posto odstrela. Najveæi broj odstrela odobren je za podruèje Dalmacije, gdje su zabilježene najveæe štete na domaæim životinjama. Najviše odstrela odobreno je 2010. godine, a najbolja realizacija ostvarena je 2011. godine.</p><p>S obzirom na to da se u 2013. godini brojnost jedinki vuka znaèajno smanjila u odnosu na prethodno trogodišnje razdoblje te se kasnijih godina nastavilo znaèajno smanjivanje populacije, zahvat u populaciju nije odobravan od 2013. godine - objašnjavaju u HAOP-u, napominjuæi i kako je “poznata èinjenica da se pojedine interesne skupine ne slažu s ukidanjem zakonitog odstrela i procijenjenom brojnosti, no usprkos našim pozivima za suradnju u prikupljanju podataka i zajednièkom upravljanju, ona se od 2013. godine smanjuje dok je u nekim podruèjima potpuno izostala”.</p>
+ </p><p>Èitava je obitelj za ruèkom djelovala prisno i opušteno, a buduæa baka Romina Power iz Okrugljaka je nakon druženja ponijela i hranu kuæi. Inaèe, Davor Lukšiæ i Cristel Carrisi nedavno su unajmili vilu na Pantovèaku, èiji je vlasnik <strong>Luka Modriæ</strong>, a koju je kupio od <strong>Zvonimira Bobana</strong>. Tamo æe, navodno, biti uprilièeno i spektakularno slavlje u èast roðenja malenog nasljednika obitelji Lukšiæ koji æe, oèito, biti roðen u Zagrebu.</p><p>Upravo to je i razlog velikog obiteljskog okupljanja. Iako ga se nije moglo vidjeti s obitelji na ruèku, ulozi djeda posebno se veseli poznati talijanski glazbenik <strong>Al Bano Carrisi</strong>, Cristelin otac. Upravo je Carrisi, ne mogavši suzdržati veselje zbog dolaska na svijet svojeg prvog unuka, medijima nedavno potvrdio vijest kako je njegova kæi, manekenka i modna dizajnerica, trudna.</p><p>- Unuk æe se, kao i pradjed i ja, roditi u svibnju - naglasio je Al Bano Carrisi, dodajuæi kako je sreæa u obitelji ogromna te da svi jedva èekaju roðenje djeteta. Iz tog razloga pjevaè je odgodio daljnje nastupe, a svojem æe unuku, kojem se neizmjerno veseli, posvetiti i pjesmu. Al Bano je još na vjenèanju u rujnu 2016. godine mislio da mu je kæi u drugom stanju, no s obzirom na to da Davor Lukšiæ jako drži do svoje privatnosti, vijest je u javnosti odjeknula prije mjesec dana, u zadnjem mjesecu Cristeline trudnoæe.</p><p>Davor i Cristel u braènu su luku uplovili nakon èetiri godine veze u talijanskom gradiæu Lecceu, a raskošnoj ceremoniji prisustvovalo je 500-tinjak uzvanika. Mladenka je u crkvu San Matteo kasnila èak sat vremena, a nakon što je izrekla “da” njezin je otac otpjevao kultnu “Ave Mariju”. (<em>A.B., M.L</em>)</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7270479 p").filter(function () {
+$("#content-body-6263871-7329771 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1374,16 +1336,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7270479").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7329771").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7270479").children().slice(max).remove();
+$("#content-body-6263871-7329771").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7270479").children().get(0);
+var firstChild = $("#content-body-6263871-7329771").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1421,8 +1383,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/%C5%BDivotinje-1" class ="label label-default" >
-Životinje
+<a href="https://www.jutarnji.hr/tag/Davor_Luk%C5%A1i%C4%87" class ="label label-default" >
+Davor Lukšiæ
 </a>
 </li>
 </ul>
@@ -1433,15 +1395,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
+<article class="domace-zvijezde media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/vukovi-pored-imotskog-rastrgali-psa-usred-bijela-dana-prizor-koji-smo-nasli-nemoguce-je-sanjati-i-u-najstrasnijim-snovima/6928035/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/stize-prinova-u-familiju-hrvatskog-milijardera-ponosni-djed-slavni-talijanski-pjevac-najavljuje-napisat-cu-mu-hit-i-nauciti-ga-zivotnim-lekcijama/7306885/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/vukovi-pored-imotskog-rastrgali-psa-usred-bijela-dana-prizor-koji-smo-nasli-nemoguce-je-sanjati-i-u-najstrasnijim-snovima/6928035/">
-VUKOVI PORED IMOTSKOG RASTRGALI PSA USRED BIJELA DANA 'Prizor koji smo našli nemoguæe je sanjati i u najstrašnijim snovima!'
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/stize-prinova-u-familiju-hrvatskog-milijardera-ponosni-djed-slavni-talijanski-pjevac-najavljuje-napisat-cu-mu-hit-i-nauciti-ga-zivotnim-lekcijama/7306885/">
+STIŽE PRINOVA U FAMILIJU HRVATSKOG MILIJARDERA Ponosni djed, slavni talijanski pjevaè, najavljuje: 'Napisat æu mu hit i nauèiti ga životnim lekcijama'
 </a>
 </h4>
 </li>
@@ -1463,13 +1425,13 @@ VUKOVI PORED IMOTSKOG RASTRGALI PSA USRED BIJELA DANA 'Prizor koji smo našli nem
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1481,8 +1443,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1494,13 +1456,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1512,8 +1474,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1525,13 +1487,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1543,8 +1505,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1556,17 +1518,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1574,9 +1536,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1658,7 +1619,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7270479" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7329771" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1702,19 +1663,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="strane-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/">
+OBITELJSKA SREÆA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/">
+FOTOEKSKLUZIV: LEGENDARNA TALIJANSKA DIVA U POZNATOM ZAGREBAÈKOM RESTORANU SLAVI DOLAZAK PRVOG UNUKA Slavna pjevaèica punica je najbogatijeg Hrvata
 </a>
 </h4>
 </div>
@@ -1724,19 +1685,19 @@ VUKOVI OKO NAS
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="strane-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/video-pjevacica-objavila-prvi-video-nakon-teske-nesrece-zbog-40-savova-na-licu-mjesecima-je-izbjegavala-javnost-evo-kako-danas-izgleda/7325796/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/video-pjevacica-objavila-prvi-video-nakon-teske-nesrece-zbog-40-savova-na-licu-mjesecima-je-izbjegavala-javnost-evo-kako-danas-izgleda/7325796/">
+SPOT PUN SUZA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/video-pjevacica-objavila-prvi-video-nakon-teske-nesrece-zbog-40-savova-na-licu-mjesecima-je-izbjegavala-javnost-evo-kako-danas-izgleda/7325796/">
+VIDEO: PJEVAÈICA OBJAVILA PRVI VIDEO NAKON TEŠKE NESREÆE Zbog 40 šavova na licu mjesecima je izbjegavala javnost, evo kako danas izgleda
 </a>
 </h4>
 </div>
@@ -1746,19 +1707,19 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="strane-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/video-svi-je-svrstavaju-u-favorite-ovogodisnjeg-eurosonga-govorili-su-mi-da-moram-oblaciti-samo-crno-da-nisam-ni-seksi-ni-lijepa/7329732/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/video-svi-je-svrstavaju-u-favorite-ovogodisnjeg-eurosonga-govorili-su-mi-da-moram-oblaciti-samo-crno-da-nisam-ni-seksi-ni-lijepa/7329732/">
+NETTA BARZILAI
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/video-svi-je-svrstavaju-u-favorite-ovogodisnjeg-eurosonga-govorili-su-mi-da-moram-oblaciti-samo-crno-da-nisam-ni-seksi-ni-lijepa/7329732/">
+VIDEO: SVI JE SVRSTAVAJU U FAVORITE OVOGODIŠNJEG EUROSONGA 'Govorili su mi da moram oblaèiti samo crno, da nisam ni seksi ni lijepa...'
 </a>
 </h4>
 </div>
@@ -1768,19 +1729,19 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="strane-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/potpuni-pad-najplacenijeg-glumca-na-svijetu-nakon-cjelodnevnog-opijanja-na-snimanju-fizicki-napao-clana-ekipe-ma-tko-si-ti-nemas-nikakvih-prava/7329318/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/potpuni-pad-najplacenijeg-glumca-na-svijetu-nakon-cjelodnevnog-opijanja-na-snimanju-fizicki-napao-clana-ekipe-ma-tko-si-ti-nemas-nikakvih-prava/7329318/">
+ZVIJEZDA IZVAN KONTROLE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/potpuni-pad-najplacenijeg-glumca-na-svijetu-nakon-cjelodnevnog-opijanja-na-snimanju-fizicki-napao-clana-ekipe-ma-tko-si-ti-nemas-nikakvih-prava/7329318/">
+POTPUNI PAD NAJPLAÆENIJEG GLUMCA NA SVIJETU Nakon cjelodnevnog opijanja na snimanju fizièki napao èlana ekipe: 'Ma tko si ti? Nemaš nikakvih prava...'
 </a>
 </h4>
 </div>
@@ -1818,19 +1779,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1838,8 +1799,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1898,7 +1859,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1926,6 +1887,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2089,7 +2055,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -2215,11 +2181,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2267,14 +2228,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2318,23 +2279,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7270479&type=article&title=%26%23039%3bNeobi%c4%8dno+mi+je+bilo+%c5%a1to+su+se+sve+povukle+u+%c5%a1talu.+Kad+sam+u%c5%a1ao+unutra%2c+imao+sam+%c5%a1to+vidjeti%2c+bile+su+jedna+na+drugoj%2c+mo%c5%beda+i+15+redova+naslaganih%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fneobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih%2f7270479%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=53&contextPath=1-51-53-&pubId=1&cat=&meta=read-story&objId=7329771&type=article&title=FOTOEKSKLUZIV%3a+LEGENDARNA+TALIJANSKA+DIVA+U+POZNATOM+ZAGREBA%c4%8cKOM+RESTORANU+SLAVI+DOLAZAK+PRVOG+UNUKA+Slavna+pjeva%c4%8dica+punica+je+najbogatijeg+Hrvata&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2ffotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata%2f7329771%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7270479&amp;type=article&amp;title=%26%23039%3bNeobi%c4%8dno+mi+je+bilo+%c5%a1to+su+se+sve+povukle+u+%c5%a1talu.+Kad+sam+u%c5%a1ao+unutra%2c+imao+sam+%c5%a1to+vidjeti%2c+bile+su+jedna+na+drugoj%2c+mo%c5%beda+i+15+redova+naslaganih%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fneobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih%2f7270479%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=53&amp;contextPath=1-51-53-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7329771&amp;type=article&amp;title=FOTOEKSKLUZIV%3a+LEGENDARNA+TALIJANSKA+DIVA+U+POZNATOM+ZAGREBA%c4%8cKOM+RESTORANU+SLAVI+DOLAZAK+PRVOG+UNUKA+Slavna+pjeva%c4%8dica+punica+je+najbogatijeg+Hrvata&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2ffotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata%2f7329771%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1407688076&title=%c5%bdivotinje&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BDivotinje-1&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&cat=jltags%40eph.hr%2c2016&objId=1585700928&title=Davor+Luk%c5%a1i%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aDavor_Luk%25C5%25A1i%25C4%2587&rt=1&ctxId=53&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1407688076&amp;title=%c5%bdivotinje&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25BDivotinje-1&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1585700928&amp;title=Davor+Luk%c5%a1i%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDavor_Luk%25C5%25A1i%25C4%2587&amp;rt=1&amp;ctxId=53&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2387,7 +2348,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2397,14 +2358,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/",
-postId : "7270479",
+url : "https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/",
+postId : "7329771",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'",
-pubdate : "2018-04-24 00:00",
-authors : "Mario Pušiæ",
-sections : "Front Page, Hrvatska",
-tags : "Životinje",
+title : "FOTOEKSKLUZIV: LEGENDARNA TALIJANSKA DIVA U POZNATOM ZAGREBAÈKOM RESTORANU SLAVI DOLAZAK PRVOG UNUKA Slavna pjevaèica punica je najbogatijeg Hrvata",
+pubdate : "2018-05-08 10:10",
+authors : "Jutarnji list",
+sections : "Front Page, Spektakli, Strane zvijezde",
+tags : "Davor Lukšiæ",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

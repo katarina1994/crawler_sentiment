@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Srbija, Andrej Plenkoviæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Franka Bateliæ nije ušla u finale Eurosonga. Našu eurovizijsku predstavnicu tijekom sinoænjeg polufinala “pojela” je trema, a mnogima se uèinilo da je pjesmu “Crazy” skladatelja Branimira Mihaljeviæa izvela u grèu." />
+<meta name="keywords" content="Franka Bateliæ, Eurosong" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE &#039;Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!&#039; - Jutarnji List</title>
+<title>&#039;NA SCENI SAM DALA SAM OD SEBE!&#039; Franka je tužna što nije prošla u finale, mnogima se èini da je pjevala u grèu, ali kaže da je ipak ispunila svoj san - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7280670";
-var dfpArticleKeyword = "Srbija";
+var dfpCategory = "Domaæe zvijezde";
+var dfpCategoryParent = "Spektakli";
+var dfpRos = "spektakli-ros";
+var dfpArticle = "7335213";
+var dfpArticleKeyword = "Franka Bateliæ";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/spektakli/domace-zvijezde/na-sceni-sam-dala-sam-od-sebe-franka-je-tuzna-sto-nije-prosla-u-finale-mnogima-se-cini-da-je-pjevala-u-grcu-ali-kaze-da-je-ipak-ispunila-svoj-san/7335213/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/domace-zvijezde/na-sceni-sam-dala-sam-od-sebe-franka-je-tuzna-sto-nije-prosla-u-finale-mnogima-se-cini-da-je-pjevala-u-grcu-ali-kaze-da-je-ipak-ispunila-svoj-san/7335213/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/plenkovic_cerar4-240418jpg/7280691/ALTERNATES/LANDSCAPE_1180/plenkovic_cerar4-240418.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/profimedia-0370980701jpg/7335237/ALTERNATES/LANDSCAPE_1180/profimedia-0370980701.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/plenkovic_cerar4-240418jpg/7280691/ALTERNATES/LANDSCAPE_1180/plenkovic_cerar4-240418.jpg">
-<meta property="og:title" content="SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/profimedia-0370980701jpg/7335237/ALTERNATES/LANDSCAPE_1180/profimedia-0370980701.jpg">
+<meta property="og:title" content="'NA SCENI SAM DALA SAM OD SEBE!' Franka je tužna što nije prošla u finale, mnogima se èini da je pjevala u grèu, ali kaže da je ipak ispunila svoj san" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" />
+<meta property="og:url" content="https://www.jutarnji.hr/spektakli/domace-zvijezde/na-sceni-sam-dala-sam-od-sebe-franka-je-tuzna-sto-nije-prosla-u-finale-mnogima-se-cini-da-je-pjevala-u-grcu-ali-kaze-da-je-ipak-ispunila-svoj-san/7335213/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Franka Bateliæ nije ušla u finale Eurosonga. Našu eurovizijsku predstavnicu tijekom sinoænjeg polufinala “pojela” je trema, a mnogima se uèinilo da je pjesmu “Crazy” skladatelja Branimira Mihaljeviæa izvela u grèu." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content="Klara Rožman">
+<meta name="twitter:title" content="'NA SCENI SAM DALA SAM OD SEBE!' Franka je tužna što nije prošla u finale, mnogima se èini da je pjevala u grèu, ali kaže da je ipak ispunila svoj san">
+<meta name="twitter:description" content="Franka Bateliæ nije ušla u finale Eurosonga. Našu eurovizijsku predstavnicu tijekom sinoænjeg polufinala “pojela” je trema, a mnogima se uèinilo da je pjesmu “Crazy” skladatelja Branimira Mihaljeviæa izvela u grèu.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-24T12:52+02:00",
-author: "Vlado Marinoviæ",
+data: { section: "Domaæe zvijezde, Spektakli, Front Page",
+pubdate: "2018-05-09T00:27+02:00",
+author: "Klara Rožman",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="spektakli story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -793,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -818,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -858,7 +858,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1044,7 +1049,7 @@ Spektakli
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
 Domaæe zvijezde
 </a>
@@ -1132,39 +1137,39 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
+<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+<li><a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">Domaæe zvijezde </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="active">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
 </a>
 </li>
 <li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
 </a>
 </li>
 </ul>
@@ -1204,11 +1209,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-BAHATOST
+EUROSONG 2018.
 </p>
 <h1
 class="title">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+'NA SCENI SAM DALA SAM OD SEBE!' Franka je tužna što nije prošla u finale, mnogima se èini da je pjevala u grèu, ali kaže da je ipak ispunila svoj san
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1221,7 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li>Klara Rožman</li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1229,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 12:52
+09.05.2018. u 00:27
 </p>
 </li>
 </ul>
@@ -1236,21 +1241,22 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/plenkovic_cerar4-240418jpg/7280691" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/profimedia-0370980701jpg/7335237" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/plenkovic_cerar4-240418jpg/7280691/ALTERNATES/LANDSCAPE_380/plenkovic_cerar4-240418.jpg"
+<img src="https://www.jutarnji.hr/incoming/profimedia-0370980701jpg/7335237/ALTERNATES/LANDSCAPE_380/profimedia-0370980701.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/plenkovic_cerar4-240418jpg/7280691/BINARY/thumbnail/plenkovic_cerar4-240418.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/profimedia-0370980701jpg/7335237/BINARY/thumbnail/profimedia-0370980701.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Franka from Croatia
+Eurovision Song Contest, Lisbon, Portugal - 08 May 2018, Image: 370980701, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, TEMP Rex Features"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Joze Suhadolnik / DELO / CROPIX
+<span> Profimedia, TEMP Rex Features
 </span>
 </div>
 </div>
@@ -1259,10 +1265,6 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1286,29 +1288,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7280670"
+<div id="content-body-6263871-7335213"
 >
-<p>Na Brdu kod Kranja danas se održava sastanak na vrhu Procesa suradnje u jugoistoènoj Europi (SEECP) na kojemu sudjeluje i premijer <strong>Andrej Plenkoviæ</strong>, a  razgovara se o proširenju Europske unije, sigurnosti, perspektivi za mlade i digitalnoj preobrazbi društva, što su prioritetna podruèja slovenskoga predsjedanja SEECP-om.</p><p>Na sastanak u Sloveniju došla je i <strong>Jadranka Joksimoviæ</strong>, srpska ministrica za europske integracije, i njezino prisustvo èinilo se kao idealna prilika da se i ona osvrne na novo pogoršanje odnosa izmeðu Hrvatske i Srbije zbog ispada <strong>Vojislava Šešelja i Aleksandra Vulina.</strong></p><p>Meðutim, kako prenosi novinar <strong><a href="http://hr.n1info.com/" target="_blank">N1 televizije</a></strong> Hrvoje Krešiæ, umjesto izjava, hrvatski novinari dobili su - košaricu. I to samo zato što su iz Hrvatske. Krešiæ tvrdi da ih je srpska delegalcija prvo napala što su uopæe postavili pitanje, potom su lagali da izjave neæe biti, a na kraju su novinare jednostavno - potjerali!</p><p>Na pitanje zašto ne želi dati izjavu hrvatskim medijima, nervozna Joksimoviæ je odbrusila.</p><p>- Ja odreðujem kome æu dati izjavu, a dat æu ju valjda onima koje je sam ovdje dovela!</p><p>
-<section class="social_embed ">
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">Ovako to valjda funkcionira u Srbiji Aleksandra Vuèiæa: U Brdu kod Kranja <a href="https://twitter.com/hashtag/srb?src=hash&amp;ref_src=twsrc%5Etfw">#srb</a> ministrica <a href="https://twitter.com/hashtag/EU?src=hash&amp;ref_src=twsrc%5Etfw">#EU</a> integracija Jadranka Joksimoviæ odbila dati izjavu novinarima iz <a href="https://twitter.com/hashtag/Hrvatska?src=hash&amp;ref_src=twsrc%5Etfw">#Hrvatska</a>. Prvo su nas napali da šta uopæe pitamo, potom lagali da izjave neæe biti, pa nas konaèno - potjerali <a href="https://twitter.com/hashtag/n1info?src=hash&amp;ref_src=twsrc%5Etfw">#n1info</a> <a href="https://t.co/8BgJmPExzh">pic.twitter.com/8BgJmPExzh</a></p>&mdash; Hrvoje Kresic (@hkresic) <a href="https://twitter.com/hkresic/status/988726674530463745?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</section>
-</p><p>
-<section class="social_embed ">
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">Kad smo vidjeli da suradnici ministrice Joksimoviæ kolege iz Srbije upuæuju na mjesto gdje æe ipak dati izjavu, pitali smo ministricu zašto ju ne želi dati hrv medijima; odgovorila je da ona odreðuje kome æe dati izjavu, a dat æe je “valjda onima koje je ona ovdje dovela” <a href="https://twitter.com/hashtag/n1info?src=hash&amp;ref_src=twsrc%5Etfw">#n1info</a></p>&mdash; Hrvoje Kresic (@hkresic) <a href="https://twitter.com/hkresic/status/988729868807557121?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</section>
-</p><p>
-<section class="social_embed ">
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">Inaèe gospodin u crvenoj majici koji drži mikrofone je PR ministrice Joksimovic (tako se barem predstavio), on joj je postavljao pitanja a kasnije nadzirao koji æe dio izjave snimatelji izrezati i poslati svojim redakcijama (jedna je mislim <a href="https://twitter.com/TanjugNews?ref_src=twsrc%5Etfw">@TanjugNews</a>, za drugu ne znam) <a href="https://twitter.com/hashtag/n1info?src=hash&amp;ref_src=twsrc%5Etfw">#n1info</a> <a href="https://t.co/uxIYL7pab5">pic.twitter.com/uxIYL7pab5</a></p>&mdash; Hrvoje Kresic (@hkresic) <a href="https://twitter.com/hkresic/status/988734938542432257?ref_src=twsrc%5Etfw">April 24, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</section>
- </p>
+<p><strong>Franka Bateliæ</strong> nije ušla u finale Eurosonga. Našu eurovizijsku predstavnicu tijekom polufinala je “pojela” trema, a mnogima se uèinilo da je pjesmu “Crazy” skladatelja <strong>Branimira Mihaljeviæa</strong> izvela u grèu.</p><p>- Imala sam tremu, ali onu pozitivnu. Na samoj pozornici osjeæala sam se genijalno. Ispunila sam svoj san. Nastupila sam na Eurosongu! Taj moj san poèeo mi se ostvarivati još na prvoj probi, prije desetak dana. Na sceni sam dala sve od sebe i, iskreno, jedva sam èekala da se uspnem na pozornicu. Drago mi je da su za mene navijali gledatelji ispred televizijskih ekrana, a puno mi je znaèilo i to što su u publici u lisabonskoj Areni moj nastup gledale moja mama, teta, baka, sestrièna i dvije moje najbolje prijateljice - kazala je Franka.</p><p>U eurovizijski finale, koji se održava ove subote, iz prvog polufinala prošle su Austrija, Estonija, Cipar, Litva, Izrael, Èeška, Bugarska, Albanija, Finska i Irska. Najveæi pljesak u lisabonskoj Areni dobila je atraktivna predstavnica Cipra, inaèe roðena Albanka, koju su mediji prozvali ciparskom <strong>Shakirom</strong>. Publika je aplauzom popratila i nastup Estonke koja je na binu izašla u haljini vrijednoj 65.000 eura, a gledateljima se, oèito je, dopala i predstavnica Izraela koja u svojoj pjesmi, izmeðu ostalog, i kokodaèe.</p><p>Što se Franke Bateliæ tièe, ona se u Portugal, u kojem je prvi put boravila krajem ožujka, tijekom snimanja eurovizijske razglednice, zaljubila na prvi pogled.</p><p>- Sa svojim brežuljcima i zelenilom, ova zemlja podsjeæa me na moju rodnu Istru - rekla je Franka, koja je s našom delegacijom bila smještena u hotelu u središtu Lisabona, na dvanaestom katu, s kojeg pogled puca na rijeku Tajo. Uz našu delegaciju, u istom hotelu smješteni su i predstavnici Australije, Azerbajdžana, Irske i Srbije, no zbog rasporeda eurovizijskih pokusa, nije bilo previše vremena za druženje. Zato se našao pokoji sat za razgledavanje Lisabona, koji je Franku oèarao kulturom i znamenitostima. Posebno joj se dopala Sintra, grad koji se nalazi na UNESCO-vom popisu mjesta svjetske baštine.</p><p>Što se temperature zraka tièe, tijekom Frankina boravka ona je bila izmeðu 15 i 20 stupnjeva, a zbog promjenjivog vremena, s èestom kišom i mnogo vjetra, svi u delegaciji pazili su na to da se naša pjevaèica ne prehladi.</p><p>Za “Crazy” i Franku je, naravno, navijao i njezin deèko <strong>Vedran Æorluka</strong>, koji je nekoliko dana prije prvog eurovizijskog polufinala sa svojim klubom, moskovskim Lokomotivom, postao prvak Rusije, a kojem je Franka èestitala preko društvenih mreža, napisavši svom Vedranu da je ponosna na njega.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7280670 p").filter(function () {
+$("#content-body-6263871-7335213 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1317,16 +1304,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7280670").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7335213").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7280670").children().slice(max).remove();
+$("#content-body-6263871-7335213").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7280670").children().get(0);
+var firstChild = $("#content-body-6263871-7335213").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1364,13 +1351,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Andrej_Plenkovi%C4%87" class ="label label-default" >
-Andrej Plenkoviæ
+<a href="https://www.jutarnji.hr/tag/Eurosong" class ="label label-default" >
+Eurosong
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Srbija-1" class ="label label-default" >
-Srbija
+<a href="https://www.jutarnji.hr/tag/Franka_Bateli%C4%87" class ="label label-default" >
+Franka Bateliæ
 </a>
 </li>
 </ul>
@@ -1381,15 +1368,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="svijet media none">
+<article class="domace-zvijezde media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/u-sloveniji-poceo-sastanak-na-vrhu-seecp-a-stigao-i-hrvatski-premijer-plenkovic/7280127/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/video-od-franka-je-fantasticna-pa-do-pjesma-je-bezveze-drustvene-mreze-gore-od-rasprava-nakon-sto-je-hrvatska-predstavnica-ispala-s-eurosonga/7335027/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/u-sloveniji-poceo-sastanak-na-vrhu-seecp-a-stigao-i-hrvatski-premijer-plenkovic/7280127/">
-U Sloveniji poèeo sastanak na vrhu SEECP-a, stigao i hrvatski premijer Plenkoviæ
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/video-od-franka-je-fantasticna-pa-do-pjesma-je-bezveze-drustvene-mreze-gore-od-rasprava-nakon-sto-je-hrvatska-predstavnica-ispala-s-eurosonga/7335027/">
+VIDEO: OD 'FRANKA JE FANTASTIÈNA' PA DO 'PJESMA JE BEZVEZE' Društvene mreže gore od rasprava nakon što je hrvatska predstavnica ispala s Eurosonga
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="domace-zvijezde media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/">
+FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje
 </a>
 </h4>
 </li>
@@ -1411,13 +1413,13 @@ U Sloveniji poèeo sastanak na vrhu SEECP-a, stigao i hrvatski premijer Plenkoviæ
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1429,8 +1431,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1442,13 +1444,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1460,8 +1462,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1473,13 +1475,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1491,8 +1493,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1504,17 +1506,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1522,9 +1524,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1606,7 +1607,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7280670" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7335213" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1650,19 +1651,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/">
+BLUE CARPET
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/">
+FOTO: FRANKA U ODVAŽNOJ KOMBINACIJI OSTAVILA SVE U LISABONU BEZ DAHA Svi su zamijetili našu predstavnicu na Eurosongu tijekom šetnje plavim tepihom
 </a>
 </h4>
 </div>
@@ -1672,19 +1673,18 @@ VUKOVI OKO NAS
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
-</a>
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/">
+EUROSONG 2018. </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/">
+FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje
 </a>
 </h4>
 </div>
@@ -1694,19 +1694,19 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/puno-je-informacija-krivo-napisano-o-mojoj-bolesti-fani-nakon-duzeg-izbivanja-stize-u-svoju-oazu-mira-otkrila-je-i-sto-je-vraca-na-otok/7325487/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/puno-je-informacija-krivo-napisano-o-mojoj-bolesti-fani-nakon-duzeg-izbivanja-stize-u-svoju-oazu-mira-otkrila-je-i-sto-je-vraca-na-otok/7325487/">
+'VELOLUŠKA'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/puno-je-informacija-krivo-napisano-o-mojoj-bolesti-fani-nakon-duzeg-izbivanja-stize-u-svoju-oazu-mira-otkrila-je-i-sto-je-vraca-na-otok/7325487/">
+'PUNO JE INFORMACIJA KRIVO NAPISANO O MOJOJ BOLESTI' Fani nakon dužeg izbivanja stiže u svoju 'oazu mira', otkrila je i što je vraæa na otok
 </a>
 </h4>
 </div>
@@ -1716,19 +1716,19 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-video-maja-suput-zakupila-citavu-kino-dvoranu-za-svoje-fanove-na-projekciju-filma-dosla-u-pratnji-decka-totalno-neprepoznatljiva/7320456/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-video-maja-suput-zakupila-citavu-kino-dvoranu-za-svoje-fanove-na-projekciju-filma-dosla-u-pratnji-decka-totalno-neprepoznatljiva/7320456/">
+TEŠKA ŠMINKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-video-maja-suput-zakupila-citavu-kino-dvoranu-za-svoje-fanove-na-projekciju-filma-dosla-u-pratnji-decka-totalno-neprepoznatljiva/7320456/">
+FOTO, VIDEO: MAJA ŠUPUT ZAKUPILA ÈITAVU KINO DVORANU ZA SVOJE FANOVE Na projekciju filma došla u pratnji deèka, totalno neprepoznatljiva
 </a>
 </h4>
 </div>
@@ -1766,19 +1766,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1786,8 +1786,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1846,7 +1846,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1874,6 +1874,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2032,7 +2037,7 @@ Spektakli
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
 Domaæe zvijezde
 </a>
@@ -2163,11 +2168,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2215,14 +2215,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2266,34 +2266,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7280670&type=article&title=SRPSKA+MINISTRICA+POTJERALA+HRVATSKE+NOVINARE+%26%23039%3bJa+odre%c4%91ujem+kome+%c4%87u+dati+izjavu%2c+a+dat+%c4%87u+je+valjda+onim+novinarima+koje+sam+ovdje+dovela!%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fsrpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela%2f7280670%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=52&contextPath=1-51-52-&pubId=1&cat=&meta=read-story&objId=7335213&type=article&title=%26%23039%3bNA+SCENI+SAM+DALA+SAM+OD+SEBE!%26%23039%3b+Franka+je+tu%c5%bena+%c5%a1to+nije+pro%c5%a1la+u+finale%2c+mnogima+se+%c4%8dini+da+je+pjevala+u+gr%c4%8du%2c+ali+ka%c5%bee+da+je+ipak+ispunila+svoj+san&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fdomace-zvijezde%2fna-sceni-sam-dala-sam-od-sebe-franka-je-tuzna-sto-nije-prosla-u-finale-mnogima-se-cini-da-je-pjevala-u-grcu-ali-kaze-da-je-ipak-ispunila-svoj-san%2f7335213%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7280670&amp;type=article&amp;title=SRPSKA+MINISTRICA+POTJERALA+HRVATSKE+NOVINARE+%26%23039%3bJa+odre%c4%91ujem+kome+%c4%87u+dati+izjavu%2c+a+dat+%c4%87u+je+valjda+onim+novinarima+koje+sam+ovdje+dovela!%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fsrpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela%2f7280670%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=52&amp;contextPath=1-51-52-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7335213&amp;type=article&amp;title=%26%23039%3bNA+SCENI+SAM+DALA+SAM+OD+SEBE!%26%23039%3b+Franka+je+tu%c5%bena+%c5%a1to+nije+pro%c5%a1la+u+finale%2c+mnogima+se+%c4%8dini+da+je+pjevala+u+gr%c4%8du%2c+ali+ka%c5%bee+da+je+ipak+ispunila+svoj+san&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fdomace-zvijezde%2fna-sceni-sam-dala-sam-od-sebe-franka-je-tuzna-sto-nije-prosla-u-finale-mnogima-se-cini-da-je-pjevala-u-grcu-ali-kaze-da-je-ipak-ispunila-svoj-san%2f7335213%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=344509447&title=Srbija&url=tag%3ajltags%40eph.hr%2c2016%3aSrbija-1&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&cat=jltags%40eph.hr%2c2016&objId=570235579&title=Franka+Bateli%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aFranka_Bateli%25C4%2587&rt=1&ctxId=52&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=344509447&amp;title=Srbija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSrbija-1&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=570235579&amp;title=Franka+Bateli%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aFranka_Bateli%25C4%2587&amp;rt=1&amp;ctxId=52&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=2038754407&title=Andrej+Plenkovi%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aAndrej_Plenkovi%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&cat=jltags%40eph.hr%2c2016&objId=546403464&title=Eurosong&url=tag%3ajltags%40eph.hr%2c2016%3aEurosong&rt=1&ctxId=52&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2038754407&amp;title=Andrej+Plenkovi%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAndrej_Plenkovi%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=546403464&amp;title=Eurosong&amp;url=tag%3ajltags%40eph.hr%2c2016%3aEurosong&amp;rt=1&amp;ctxId=52&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2346,7 +2346,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/domace-zvijezde/na-sceni-sam-dala-sam-od-sebe-franka-je-tuzna-sto-nije-prosla-u-finale-mnogima-se-cini-da-je-pjevala-u-grcu-ali-kaze-da-je-ipak-ispunila-svoj-san/7335213/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2356,14 +2356,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/",
-postId : "7280670",
+url : "https://www.jutarnji.hr/spektakli/domace-zvijezde/na-sceni-sam-dala-sam-od-sebe-franka-je-tuzna-sto-nije-prosla-u-finale-mnogima-se-cini-da-je-pjevala-u-grcu-ali-kaze-da-je-ipak-ispunila-svoj-san/7335213/",
+postId : "7335213",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'",
-pubdate : "2018-04-24 12:52",
-authors : "Vlado Marinoviæ",
-sections : "Front Page, Hrvatska",
-tags : "Srbija, Andrej Plenkoviæ",
+title : "'NA SCENI SAM DALA SAM OD SEBE!' Franka je tužna što nije prošla u finale, mnogima se èini da je pjevala u grèu, ali kaže da je ipak ispunila svoj san",
+pubdate : "2018-05-09 00:27",
+authors : "Klara Rožman",
+sections : "Front Page, Domaæe zvijezde",
+tags : "Franka Bateliæ, Eurosong",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

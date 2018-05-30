@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Uskok je na temelju prijava zagrebaèke policije pokrenuo istrage protiv dvije skupine krijumèara ljudima – peteroèlane koju sumnjièe za krijumèarenje najmanje 133 stranaca i sedmeroèlane koja je iz BiH u Hrvatsku navodno prebacila 27 migranata." />
-<meta name="keywords" content="krijumèarenje ljudima, migranti, Izbjeglice" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Eurosong ludilo može zapoèeti. Sve je spremno za prvu polufinalnu veèer na kojoj æe nastupiti i naša Franka s pjesmom Crazy. Druga polufinalna veèer je u èetvrtak, 10. svibnja, a veliko finale u subotu, 12. svibnja." />
+<meta name="keywords" content="Franka Bateliæ, Eurosong" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>VIDEO: POGLEDAJTE HRVATSKE SPECIJALCE U AKCIJI Objavljen video uhiæenja krijumèara ljudi, èlana bande koja je pala u velikoj policijskoj akciji - Jutarnji List</title>
+<title>FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "DE";
+var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Crna kronika";
-var dfpCategoryParent = "Vijesti";
-var dfpRos = "vijesti-ros";
-var dfpArticle = "7285648";
-var dfpArticleKeyword = "krijumèarenje ljudima";
+var dfpCategory = "Domaæe zvijezde";
+var dfpCategoryParent = "Spektakli";
+var dfpRos = "spektakli-ros";
+var dfpArticle = "7334295";
+var dfpArticleKeyword = "Franka Bateliæ";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,8 +573,6 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
-<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
-<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -640,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/video-pogledajte-hrvatske-specijalce-u-akciji-objavljen-video-uhicenja-krijumcara-ljudi-clana-bande-koja-je-pala-u-velikoj-policijskoj-akciji/7285648/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/video-pogledajte-hrvatske-specijalce-u-akciji-objavljen-video-uhicenja-krijumcara-ljudi-clana-bande-koja-je-pala-u-velikoj-policijskoj-akciji/7285648/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -654,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/krijumcarjpg/7285657/ALTERNATES/LANDSCAPE_1180/krijumcar.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/franka-polufinale/7334610/ALTERNATES/LANDSCAPE_1180/Franka%20polufinale" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/krijumcarjpg/7285657/ALTERNATES/LANDSCAPE_1180/krijumcar.jpg">
-<meta property="og:title" content="VIDEO: POGLEDAJTE HRVATSKE SPECIJALCE U AKCIJI Objavljen video uhiæenja krijumèara ljudi, èlana bande koja je pala u velikoj policijskoj akciji " />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/franka-polufinale/7334610/ALTERNATES/LANDSCAPE_1180/Franka%20polufinale">
+<meta property="og:title" content="FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/video-pogledajte-hrvatske-specijalce-u-akciji-objavljen-video-uhicenja-krijumcara-ljudi-clana-bande-koja-je-pala-u-velikoj-policijskoj-akciji/7285648/" />
+<meta property="og:url" content="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Uskok je na temelju prijava zagrebaèke policije pokrenuo istrage protiv dvije skupine krijumèara ljudima – peteroèlane koju sumnjièe za krijumèarenje najmanje 133 stranaca i sedmeroèlane koja je iz BiH u Hrvatsku navodno prebacila 27 migranata." />
+<meta property="og:description" content="Eurosong ludilo može zapoèeti. Sve je spremno za prvu polufinalnu veèer na kojoj æe nastupiti i naša Franka s pjesmom Crazy. Druga polufinalna veèer je u èetvrtak, 10. svibnja, a veliko finale u subotu, 12. svibnja." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="VIDEO: POGLEDAJTE HRVATSKE SPECIJALCE U AKCIJI Objavljen video uhiæenja krijumèara ljudi, èlana bande koja je pala u velikoj policijskoj akciji ">
-<meta name="twitter:description" content="Uskok je na temelju prijava zagrebaèke policije pokrenuo istrage protiv dvije skupine krijumèara ljudima – peteroèlane koju sumnjièe za krijumèarenje najmanje 133 stranaca i sedmeroèlane koja je iz BiH u Hrvatsku navodno prebacila 27 migranata.">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje">
+<meta name="twitter:description" content="Eurosong ludilo može zapoèeti. Sve je spremno za prvu polufinalnu veèer na kojoj æe nastupiti i naša Franka s pjesmom Crazy. Druga polufinalna veèer je u èetvrtak, 10. svibnja, a veliko finale u subotu, 12. svibnja.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -679,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -691,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Crna kronika, Vijesti, Front Page",
-pubdate: "2018-04-25T14:42+02:00",
-author: "Hina",
+data: { section: "Domaæe zvijezde, Spektakli, Front Page",
+pubdate: "2018-05-08T20:47+02:00",
+author: "Silvija Novak",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="vijesti story">
+<body class="spektakli story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -795,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -820,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -870,7 +868,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -888,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1046,7 +1049,7 @@ Spektakli
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
 Domaæe zvijezde
 </a>
@@ -1134,39 +1137,39 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
+<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
+<li><a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">Domaæe zvijezde </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
-Hrvatska
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/vijesti/svijet/">
-Svijet
-</a>
-</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
-Crna kronika
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/zagreb/">
-Zagreb
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
-Obrazovanje
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
 </a>
 </li>
 <li class="">
-<a href="http://native.jutarnji.hr/mirovine/" target="">
-Mirovine
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
 </a>
 </li>
 </ul>
@@ -1206,18 +1209,18 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ŠATOR NA OSAMI...
-</p>
+EUROSONG 2018. </p>
 <h1
 class="title">
-VIDEO: POGLEDAJTE HRVATSKE SPECIJALCE U AKCIJI Objavljen video uhiæenja krijumèara ljudi, èlana bande koja je pala u velikoj policijskoj akciji </h1>
+FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje
+</h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
 <li>
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1225,7 +1228,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 14:42
+08.05.2018. u 20:47
 </p>
 </li>
 </ul>
@@ -1237,23 +1240,26 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/krijumcarjpg/7285657" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/franka-polufinale/7334610" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/krijumcarjpg/7285657/ALTERNATES/LANDSCAPE_380/krijumcar.jpg"
+<img src="https://www.jutarnji.hr/incoming/franka-polufinale/7334610/ALTERNATES/LANDSCAPE_380/Franka%20polufinale"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/krijumcarjpg/7285657/BINARY/thumbnail/krijumcar.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/franka-polufinale/7334610/BINARY/thumbnail/Franka%20polufinale"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="CroatiaÄôs Franka performs ÄúCrazyÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> MUP
+<span> REUTERS
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Franka</h4>
 </div>
 </div>
 </section>
@@ -1287,31 +1293,563 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285648"
+<div id="content-body-6263871-7334295"
 >
-<p>Uskok je na temelju prijava zagrebaèke policije pokrenuo istrage protiv dvije skupine krijumèara ljudima – peteroèlane koju sumnjièe za krijumèarenje najmanje 133 stranaca i sedmeroèlane koja je iz BiH u Hrvatsku navodno prebacila 27 migranata.</p><p>Peteroèlana skupina, u kojoj je uz hrvatske i jedan državljanin BiH, navodno se od 14. sijeènja do 13. travnja, u Tušiloviæu, povezala u zajednièko djelovanje kako bi zaradili prebacivanjem veæeg broja stranaca iz BiH u Hrvatsku te potom u Sloveniju.</p><p>„Nakon što su s osobama u Bosni i Hercegovini dogovorili cijenu od 350 eura po stranom državljaninu i njihovo prebacivanje preko bosansko-hrvatske granice, pripadnici zloèinaèkog udruženja su organizirali preuzimanje i prevoženje stranih državljana do Zagreba, nakon èega su okrivljenici odlazili u Bosnu i Hercegovinu radi preuzimanja novca”, izvijestio je Uskok.</p><p>Na taj je naèin, sumnja tužiteljstvo, iz BiH u Hrvatsku u 20 navrata prebaèeno najmanje 133 stranih državljana za što su primili najmanje 46.550 eura koji iznos su, sukladno prethodnom dogovoru i ovisno o uèešæu okrivljenika u pojedinom prebacivanju, meðusobno podijelili. Za svih pet osumnjièenih pripadnika te skupine Uskok je zatražio odreðivanje istražnog zatvora.</p><p>Druga, sedmeroèlana skupina migrante je navodno takoðer krijumèarila za 350 eura, a bila je aktivna od prosinca prošle do ožujka ove godine. Ukupno su u pet navrata preko granice prebacili najmanje 27 stranaca èime su zaradili 9.350 eura.</p><p>MUP je danas objavio i video uhiæenja jednog od krijumèara.</p><p> <section>
-<article class="crna-kronika media ">
+<p><strong>NOVO 23:05 </strong>Rezultati su stigli! U finale idu Austrija, Estonija, Cipar, Litva, Izrael, Èeška, Bugarska, Albanija, Finska i Irska.</p><p><strong>-----</strong></p><p><strong>NOVO 22:30 </strong>Èuli smo sve pjesme prve polufinalne veèeri Eurosonga i u ovom trenutku otvoreno je glasovanje.</p><p>Za svojeg favorita možete glasovati pozivom na broj <strong>06155 </strong>kojem æete dodati redni broj pjesme od <strong>01 do 19</strong>.</p><p>Možete glasovati i putem SMS-a na broj <strong>666555</strong>, a u poruci trebate napisati redni broj pjesme koja vam se najviše sviða.</p><p>Pravila su takva da nije moguæe glasati za predstavnika vlastite zemlje, pa tako ni mi ne možemo glasati za našu Franku. </p><p>Glasovi publike pridružit æe se glasovima struènog žirija svake zemlje te æe se tako odluèiti konaèni pobjednik koji æe nastupiti u velikom finalu. </p><p>-----</p><p><strong>NOVO 21:55 Franka</strong> je oduševila svojim nastupom te na noge digla èitavu Arenu Altica. Odjevena u kreaciju eNvy rooma izgledala je sjajno na velikoj pozornici pred 20.000 oduševljenih gledatelja. Energiènom izvedbom pjesme 'Crazy' izvrsno je predstavila Hrvatsku.</p><p>Predstavnik Austrije <strong>Cesár Sampson</strong> izveo je pjesmu Nobody but You koja koketira sa soulom i pokazao zavidne glasovne moguænosti. Na pozornici je nastupio sam, no nikakva pomoæ mu i nije trebala s obzirom na sjajno pjevaèko umijeæe.</p><p>
+<section>
+<article class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/article7285663.ece" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/cesar-sampson/7334622" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
-<div class="youtubeWrapper "
-style="width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/1m20QVrxEJk"
-frameborder="0"
-width="100%"
-allowfullscreen=""></iframe>
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/cesar-sampson/7334622/ALTERNATES/FREE_380/Cesar%20Sampson"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/cesar-sampson/7334622/BINARY/thumbnail/Cesar%20Sampson"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="AustriaÄôs Cesar Sampson performs ÄúNobody but YouÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Cesar Sampson</h4>
 </div>
 </div>
 </div>
 </article>
+</section>
+ </p><p>Predstavnica Grèke, <strong>Yianna Terzi</strong>, jedna je od rijetkih koja je izvela pjesmu na svojem jeziku umjesto na egleskom, a predstavila se skladbom 'Oniro mou', odnosno 'Moj san'. Zbog light showa se èinilo da njezina bijela haljina mijenja boje, a nastup je upotpunjen i vatrometom.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/yianna-terzi/7334625" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/yianna-terzi/7334625/ALTERNATES/FREE_380/Yianna%20Terzi"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/yianna-terzi/7334625/BINARY/thumbnail/Yianna%20Terzi"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="GreeceÄôs Yianna Terzi performs ÄúOniro mouÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Yianna Terzi </h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Finska se ove godine predstavila pjesmom 'Monsters' ('Èudovišta'), no za razliku od grupe Lordi koja je doista podsjeæala na èudovišta i unatoè tome odnijela pobjedu 2006., ove godine na pozornicu je stupila šarmantna <strong>Saara Aalto</strong> i sve osvojila svojom energijom.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/saara-aalto/7334652" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/saara-aalto/7334652/ALTERNATES/FREE_380/Saara%20Aalto"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/saara-aalto/7334652/BINARY/thumbnail/Saara%20Aalto"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="FinlandÄôs Saara Aalto performs ÄúMonstersÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Saara Aalto</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Predstavnik Armenije, <strong>Sevak Khanagyan</strong>, stigao je na krilima vjetra, a upravo tako, Vjetar, odnosno na armenskom Qami, zvala se i njegova skladba. Snažnom glasu nije trebao nikakva posebna koreografija, no podršku Armencu ipak su dali sjajni scenski efekti.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/sevak-khanagyan/7334655" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/sevak-khanagyan/7334655/ALTERNATES/FREE_380/Sevak%20Khanagyan"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/sevak-khanagyan/7334655/BINARY/thumbnail/Sevak%20Khanagyan"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="ArmeniaÄôs Sevak Khanagyan performs ÄúQamiÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Sevak Khanagyan</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p> </p><p>Moderna kaubojka <strong>ZiBBZ</strong>, predstavnica Švicarske, izvela je pjesmu 'Stones'. Na pozornici joj se pridružio samo bubnjar, no i to je bilo dovoljno za oduševljenje publike na kraju izvedbe.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/zibbz/7334661" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/zibbz/7334661/ALTERNATES/FREE_380/ZiBBZ"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/zibbz/7334661/BINARY/thumbnail/ZiBBZ"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="SwitzerlandÄôs ZiBBZ performs ÄúStonesÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>ZiBBZ</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p><strong>Ryan O'Shaughnessy</strong> svoju domovinu Irsku predstavio je uz gitaru i klavirsku pratnju. Pjesma 'Together' govori o ljubavi, a da ona dolazi u raznim oblicima dokazala su dvojica muških plesaèa koji su otplesali svoju ljubavnu prièu. Publika ih je pozdravila oduševljenim pljeskom, povicima i zvižducima.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/ryan-oshaughnessy/7334766" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/ryan-oshaughnessy/7334766/ALTERNATES/FREE_380/Ryan%20O'Shaughnessy"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/ryan-oshaughnessy/7334766/BINARY/thumbnail/Ryan%20O'Shaughnessy"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="IrelandÄôs Ryan OÄôShaughnessy performs ÄúTogetherÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Ryan O'Shaughnessy</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p> <section class="social_embed ">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zdRIUHyajiY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</section>
+ </p><p>Pjesmom 'Fuego' ('Vatra') svoju je zemlju Cipar predstavila vatrena <strong>Eleni Foureira</strong>. Energiènim nastupom oduševila je publiku i zatvorila prvu polufinalnu veèer Eurosonga 2018.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/eleni-foureira/7334781" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/eleni-foureira/7334781/ALTERNATES/FREE_380/Eleni%20Foureira"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/eleni-foureira/7334781/BINARY/thumbnail/Eleni%20Foureira"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="CyprusÄôs Eleni Foureira performs ÄúFuegoÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Eleni Foureira</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p><strong>-----</strong></p><p><strong>NOVO 21:25  </strong>Litvu na ovogodišnjem natjecanju predstavlja <strong>Ieva Zasimauskait?</strong> s pjesmom 'When We're Old'. Ona je nastupila u romantiènoj ružièastoj haljini. Do kraja izvedbe svladale su je emocije i zaplakala je na sceni.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/ieva-zasimauskaite/7334541" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/ieva-zasimauskaite/7334541/ALTERNATES/FREE_380/Ieva%20Zasimauskaite"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/ieva-zasimauskaite/7334541/BINARY/thumbnail/Ieva%20Zasimauskaite"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="LithuaniaÄôs Ieva Zasimauskaite performs ÄúWhen WeÄôre OldÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Na pozornicu je stupila i Izraelka <strong>Netta</strong> koja slovi za jednu od favoritkinja. Njezina izvedba pjesme 'Toy' podigla je dvoranu na noge. Energièna Netta pokupila je ogroman aplauz i ovacije. Pjesma u disco ritmu praæena je dinamiènom koreografijom same pjevaèice i njezinih plesaèa.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/netta/7334544" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/netta/7334544/ALTERNATES/FREE_380/Netta"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/netta/7334544/BINARY/thumbnail/Netta"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="IsraelÄôs Netta performs ÄúToyÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p><strong>Alekseev</strong>, inaèe Ukrajinac, predstavnik je Bjelorusije, a izveo je pjesmu 'Forever' koju je, kao i mnogi drugi izvoðaèi, otpjevao na engleskom jeziku. Rijeè je o baladi, a Alekseevu se na pozornici pridružila plesaèica u žarko crvenoj haljini koja ga je u jednom trenutku pogodila lukom i strijelom.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/alekseev/7334568" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/alekseev/7334568/ALTERNATES/FREE_380/ALEKSEEV"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/alekseev/7334568/BINARY/thumbnail/ALEKSEEV"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="BelarusÄôs ALEKSEEV performs ÄúForeverÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Alekseev</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Predstavnica Estonije, <strong>Elina Nechayeva</strong>, zanimljivo, pjevala je na talijanskom jeziku, a izvela je pjesmu 'La Forza'. Pokazala je da vlada opernom tehnikom pjevanja i pokupila veliki pljesak za svoju izvedbu. Koreografija je bila minimalna, no zato su video efekti zbog kojih se èinilo da joj se haljina prelijeva preko èitave pozornice, bili doista dojmljivi.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/elina-nechayeva/7334574" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/elina-nechayeva/7334574/ALTERNATES/FREE_380/Elina%20Nechayeva"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/elina-nechayeva/7334574/BINARY/thumbnail/Elina%20Nechayeva"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="EstoniaÄôs Elina Nechayeva performs ÄúLa ForzaÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Elina Nechayeva</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Predstavnici Bugarske, <strong>Equinox</strong>, izveli su pjesmu 'Bones'. Pjevaèica i èetiri pjevaèa na sceni su se pojavili u crnom od glave do pete i osvojili publiku svojom izvedbom. Iako inaèe ne nastupaju zajedno, ovih pet pjevaèa sjajno su se snašli na sceni Altica Arene.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/equinox/7334592" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/equinox/7334592/ALTERNATES/FREE_380/EQUINOX"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/equinox/7334592/BINARY/thumbnail/EQUINOX"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="BulgariaÄôs EQUINOX performs ÄúBonesÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>EQUINOX</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Makedonija se ove godine odluèila za poigravanje reggae ritmom. Njezina predstavnica <strong>Eye Cue</strong> izvela je pjesmu 'Lost and Found' obuèena u crvenu opravu koju je u jednom trenutku skinula i ostala samo u vruæim hlaèicama.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/eye-cue/7334589" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/eye-cue/7334589/ALTERNATES/FREE_380/Eye%20Cue"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/eye-cue/7334589/BINARY/thumbnail/Eye%20Cue"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="MacedoniaÄôs Eye Cue performs ÄúLost and FoundÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Eye Cue</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p><strong>-----</strong></p><p><strong>NOVO 21:12 </strong>U dvorani Altica u Lisabonu uzbuðenje je na vrhuncu! Prva natjecateljica, predstavnica Azerbajdžana <strong>Aisel</strong>, otvorila je prvu polufinalnu veèer Eurosonga pjesmom 'X My Heart'. Nastupila je u bijeloj opravi praæena èetvoricom plesaèa.</p><p><strong>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/aiseljpg/7334460" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/aiseljpg/7334460/ALTERNATES/FREE_380/Aisel.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/aiseljpg/7334460/BINARY/thumbnail/Aisel.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Azerbaijans Aisel performs X My Heart during the dress rehearsal of Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal May 7, 2018. REUTERS/Rafael Marchante - RC161C798700"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Aisel</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </strong></p><p>Vrlo emotivan nastup odradio je i predstavnik Islanda <strong>Ari Ólafsson</strong> koji je izveo pjesmu 'Our Choice' pri èemu nije mogao suspregnuti suze. Dvorana je gromoglasnim aplauzom nagradila njegovu izvedbu.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/arijpg/7334478" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/arijpg/7334478/ALTERNATES/FREE_380/Ari.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/arijpg/7334478/BINARY/thumbnail/Ari.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Icelands Ari Olafsson performs Our Choice during the dress rehearsal of Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal May 7, 2018.   REUTERS/Rafael Marchante - RC1E7E17D9F0"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Ari</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>I predstavnik Albanije <strong>Eugent Bushpepa</strong> pokazao je zavidne glasovne moguænosti. U dojmljivoj izvedbi pokazao je svu raskoš svojega glasa. Izveo je pjesmu 'Mall'.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/eugent-bushpepa/7334520" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/eugent-bushpepa/7334520/ALTERNATES/FREE_380/Eugent%20Bushpepa"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/eugent-bushpepa/7334520/BINARY/thumbnail/Eugent%20Bushpepa"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="AlbaniaÄôs Eugent Bushpepa performs ÄúMailÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Eugent Bushpepa</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Predstavnica Belgije <strong>Sennek</strong> na pozornici je nastupila bez pomoæi prateæih plesaèa, no svojom je izvedbom ispunila dvoranu. Publika je oduševljeno zapljeskala njezinoj izvedbi pjesme 'A Matter of Time'.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/sennek/7334514" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/sennek/7334514/ALTERNATES/FREE_380/Sennek"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/sennek/7334514/BINARY/thumbnail/Sennek"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="BelgiumÄôs Sennek performs ÄúA Matter of TimeÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Sennek</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Na redu je i Èeška koju predstavlja 22-godišnji glazbenik, model i glumac <strong>Mikolas Josef</strong>.<strong> </strong>Vesela i ritmièna pjesma 'Lie To Me' praæena je zanimljivom koreografijom, a sam Mikolas napozornici se pojavio obuèen poput školarca s naoèalama, tregerima i leptir mašnom.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/mikolas-josef/7334793" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/mikolas-josef/7334793/ALTERNATES/FREE_380/Mikolas%20Josef"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/mikolas-josef/7334793/BINARY/thumbnail/Mikolas%20Josef"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Czech RepublicÄôs Mikolas Josef performs ÄúLie to MeÄu during the Semi-Final 1 for Eurovision Song Contest 2018 at the Altice Arena hall in Lisbon, Portugal, May 8, 2018. REUTERS/Pedro Nunes"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Mikolas Josef</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>-----</p><p>Eurosong ludilo može zapoèeti. Sve je spremno za prvu polufinalnu veèer na kojoj æe nastupiti i naša <strong>Franka</strong> s pjesmom Crazy. Druga polufinalna veèer je u èetvrtak, 10. svibnja, a veliko finale u subotu, 12. svibnja.</p><p>Inaèe, ovo je 63. po redu natjecanje za pjesmu Eurovizije, a održava se u glavnom gradu Portugala, Lisabonu, zahvaljujuæi <strong>Salvadoru Sobrali</strong> i pjesmi 'Amar pelos dois' koja je pobijedila na Eurosongu prošle godine u Kijevu<em>.</em> </p><p>Ovo je prvi puta da se Eurosong održava u Portugalu, a èast ugostiti tisuæe obožavatelja uživo i još milijune putem malih ekrana pripala je Altica Areni koja prima 20.000 gledatelja.</p><p>Slogan ovogodišnjeg natjecanja je 'All Aboard' ('Svi na ukrcaj') što aludira na lokaciju Lisabona i Portugala koji su smješteni na obali Atlantskog oceana.</p><p>Zanimljivo, po prvi puta u povijesti Eurosonga, spektakl æe voditi same žene: <strong>Sílvia Alberto</strong>,<strong> Filomena Cautela</strong>,<strong> Catarina Furtado </strong>i<strong> Daniela Ruah</strong>.</p><p>
+<section class="social_embed ">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bic9ZQdn82o/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Bic9ZQdn82o/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank"> Blue carpet moments pt.2 #crazy #iGocrazy #dayslikethis #ESC2018 #crazyforlisboa #teamCRO</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Objavu dijeli <a href="https://www.instagram.com/frankaofficial_/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> F R A N K A</a> (@frankaofficial_) <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-05-06T22:18:51+00:00">Svi 6, 2018 u 3:18 PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+</section>
+ </p><p>Interes za ovo natjecanje je ogroman o èemu svjedoèi i podatak da su ulaznice za finalnu veèer razgrabljene u samo 15 minuta nakon što su puštene u prodaju.</p><p>Naša predstavnica <strong>Franka Bateliæ</strong> vrlo je uzbuðena zbog nastupa na Eurosongu koji, kaže, sanja od malih nogu. Dodaje i kako ima malu tremu, ali onu pozitivnu koja æe joj pomoæi da posao odradi najbolje što može.</p><p>Hrvatska predstavnica sa svojom ekipom veæ od nedjelje boravi u Lisabonu, a njezin tim èine skladatelj <strong>Branimir Mihaljeviæ</strong>, menadžer <strong>Siniša Bevanda</strong>, prateæi vokali <strong>Ðorðija Paliæ</strong> i <strong>Martina Ivankoviæ</strong>, koreograf <strong>Igor Barberiæ</strong> i stilistica <strong>Jasenka Tudor Bevanda</strong>.</p><p>
+<section class="social_embed ">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BiMDSzmnsqZ/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BiMDSzmnsqZ/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">We are ready for the 1st rehearsal! Are you? #eurovision #iGoCrazy #esc2018 #Crazy #Croatia #delegation</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Objavu dijeli <a href="https://www.instagram.com/frankaofficial_/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> F R A N K A</a> (@frankaofficial_) <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-30T08:43:19+00:00">Tra 30, 2018 u 1:43 PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+</section>
+ </p><p>Probe i intervjue Franka je odradila sjajno i ima se razloga nadati najboljem.</p><p>U prvom polufinalu èut æemo 19 natjecatelja, a Franka æe nastupiti 12.</p><p>Evo redoslijeda veèerašnjih nastupa:</p><ol><li>Azerbajdžan - Aisel: X My Heart</li><li>Island - Ari Ólafsson: Our Choice</li><li>Albanija - Eugent Bushpepa: Mall</li><li>Belgija - Sennek: A Matter of Time</li><li>Èeška - Mikolas Josef: Lie to Me</li><li>Litva - Ieva Zasimauskait?: When We're Old</li><li>Izrael - Netta: Toy</li><li>Bjelorusija - Alekseev: Forever</li><li>Estonija - Elina Nechayeva: La Forza</li><li>Bugarska - Equinox: Bones</li><li>Makedonija - Eye Cue: Lost and Found</li><li>Hrvatska - Franka: Crazy</li><li>Austrija - Cesár Sampson: Nobody but You</li><li>Grèka - Yianna Terzi: Oniro mou (Moj san)</li><li>Finska - Saara Aalto: Monsters</li><li>Armenija - Sevak Khanagyan: Qami (Vjetar)</li><li>Švicarska - ZiBBZ: Stones</li><li>Irska - Ryan O'Shaughnessy: Together</li><li>Cipar - Eleni Foureira: Fuego</li></ol><p>
+<section class="social_embed ">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bigvc-cn79U/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Bigvc-cn79U/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Tonight is the first semi-final for the 2018 Eurovision Song Contest. I’m performing 12th with my song “Crazy”. Watch the show broadcast on your national television (take a look at the list of countries that can vote), support us and vote for us! Make my dream true - #12 Veèeras se održava prvo polufinale Eurosonga gdje æu nastupiti 12. s pjesmom “Crazy”. Gledajte show na nacionalnim televizijama (pogledajte listu zemalja u kojima možete glasovati), podržite me i glasujte! Ostvarite moje snove - #12 #eurovision #igocrazy #esc2018 #allaboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Objavu dijeli <a href="https://www.instagram.com/frankaofficial_/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> F R A N K A</a> (@frankaofficial_) <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-05-08T09:33:59+00:00">Svi 8, 2018 u 2:33 PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
 </section>
  </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285648 p").filter(function () {
+$("#content-body-6263871-7334295 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1320,16 +1858,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285648").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7334295").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285648").children().slice(max).remove();
+$("#content-body-6263871-7334295").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285648").children().get(0);
+var firstChild = $("#content-body-6263871-7334295").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1367,18 +1905,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Izbjeglice" class ="label label-default" >
-Izbjeglice
+<a href="https://www.jutarnji.hr/tag/Eurosong" class ="label label-default" >
+Eurosong
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/migranti" class ="label label-default" >
-migranti
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/krijum%C4%8Darenje_ljudima" class ="label label-default" >
-krijumèarenje ljudima
+<a href="https://www.jutarnji.hr/tag/Franka_Bateli%C4%87" class ="label label-default" >
+Franka Bateliæ
 </a>
 </li>
 </ul>
@@ -1389,15 +1922,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="crna-kronika media none">
+<article class="domace-zvijezde media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/akcija-hrvatske-i-bih-policije-palo-12-krijumcara-migranata-preko-granice-su-prebacili-najmanje-150-izbjeglica-placali-su-im-i-po-2800-eura/7280043/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-video-franka-oborila-s-nogu-drugom-probom-u-lisabonu-sljedeci-utorak-vise-nema-sale-kad-se-najezis-i-ostanes-bez-rijeci-znas-da-je-to-to/7315881/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/akcija-hrvatske-i-bih-policije-palo-12-krijumcara-migranata-preko-granice-su-prebacili-najmanje-150-izbjeglica-placali-su-im-i-po-2800-eura/7280043/">
-AKCIJA HRVATSKE I BIH POLICIJE, PALO 12 KRIJUMÈARA MIGRANATA Preko granice su prebacili najmanje 150 izbjeglica, plaæali su im i po 2800 eura
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-video-franka-oborila-s-nogu-drugom-probom-u-lisabonu-sljedeci-utorak-vise-nema-sale-kad-se-najezis-i-ostanes-bez-rijeci-znas-da-je-to-to/7315881/">
+FOTO, VIDEO: FRANKA OBORILA S NOGU DRUGOM PROBOM U LISABONU Sljedeæi utorak više nema šale: 'Kad se naježiš i ostaneš bez rijeèi, znaš da je to - to!'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="strane-zvijezde media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/video-svi-je-svrstavaju-u-favorite-ovogodisnjeg-eurosonga-govorili-su-mi-da-moram-oblaciti-samo-crno-da-nisam-ni-seksi-ni-lijepa/7329732/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/video-svi-je-svrstavaju-u-favorite-ovogodisnjeg-eurosonga-govorili-su-mi-da-moram-oblaciti-samo-crno-da-nisam-ni-seksi-ni-lijepa/7329732/">
+VIDEO: SVI JE SVRSTAVAJU U FAVORITE OVOGODIŠNJEG EUROSONGA 'Govorili su mi da moram oblaèiti samo crno, da nisam ni seksi ni lijepa...'
 </a>
 </h4>
 </li>
@@ -1419,13 +1967,13 @@ AKCIJA HRVATSKE I BIH POLICIJE, PALO 12 KRIJUMÈARA MIGRANATA Preko granice su pr
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1437,8 +1985,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1450,13 +1998,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1468,8 +2016,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1481,13 +2029,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1499,8 +2047,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1512,17 +2060,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1530,9 +2078,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1614,7 +2161,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285648" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7334295" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1658,19 +2205,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/">
-TRAGEDIJA ZA TRAGEDIJOM
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/">
+BLUE CARPET
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/prije-dva-mjeseca-ubio-sina-a-sada-skrivio-nesrecu-i-u-smrt-gotovo-odveo-unuke-usred-voznje-navodno-tipkao-sms-poruku-jedan-djecak-14-lezi-u-komi/7278210/">
-PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE Usred vožnje navodno tipkao SMS poruku, jedan djeèak (14) leži u komi
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/">
+FOTO: FRANKA U ODVAŽNOJ KOMBINACIJI OSTAVILA SVE U LISABONU BEZ DAHA Svi su zamijetili našu predstavnicu na Eurosongu tijekom šetnje plavim tepihom
 </a>
 </h4>
 </div>
@@ -1680,19 +2227,18 @@ PRIJE DVA MJESECA UBIO SINA, A SADA SKRIVIO NESREÆU I U SMRT GOTOVO ODVEO UNUKE 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/">
-HOROR U MARINOM SELU
-</a>
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/">
+EUROSONG 2018. </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/nakon-potjere-uhicen-osumnjiceni-ubojica-majke-sedmero-djece-njezin-ljubomorni-muz-mama-je-mrtva-ne-nije-se-ugusila-od-dima-ona-je-zadavljena/7282465/">
-Nakon potjere uhiæen osumnjièeni ubojica majke sedmero djece, njezin ljubomorni muž: 'Mama je mrtva. Ne, nije se ugušila od dima. Ona je zadavljena!'
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/">
+FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje
 </a>
 </h4>
 </div>
@@ -1702,19 +2248,19 @@ Nakon potjere uhiæen osumnjièeni ubojica majke sedmero djece, njezin ljubomorni 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/puno-je-informacija-krivo-napisano-o-mojoj-bolesti-fani-nakon-duzeg-izbivanja-stize-u-svoju-oazu-mira-otkrila-je-i-sto-je-vraca-na-otok/7325487/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/">
-BLUDNE RADNJE
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/puno-je-informacija-krivo-napisano-o-mojoj-bolesti-fani-nakon-duzeg-izbivanja-stize-u-svoju-oazu-mira-otkrila-je-i-sto-je-vraca-na-otok/7325487/">
+'VELOLUŠKA'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mucan-slucaj-o-kojem-bruji-cijeli-split-poznati-nogometni-trener-optuzen-za-spolno-iskoristavanje-djecaka-ljubio-ga-dirao-nocu-zasipao-sms-ovima/7282858/">
-MUÈAN SLUÈAJ O KOJEM BRUJI CIJELI SPLIT Poznati nogometni trener optužen za spolno iskorištavanje djeèaka, ljubio ga, dirao, noæu zasipao SMS-ovima
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/puno-je-informacija-krivo-napisano-o-mojoj-bolesti-fani-nakon-duzeg-izbivanja-stize-u-svoju-oazu-mira-otkrila-je-i-sto-je-vraca-na-otok/7325487/">
+'PUNO JE INFORMACIJA KRIVO NAPISANO O MOJOJ BOLESTI' Fani nakon dužeg izbivanja stiže u svoju 'oazu mira', otkrila je i što je vraæa na otok
 </a>
 </h4>
 </div>
@@ -1724,19 +2270,19 @@ MUÈAN SLUÈAJ O KOJEM BRUJI CIJELI SPLIT Poznati nogometni trener optužen za spol
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="crna-kronika media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-video-maja-suput-zakupila-citavu-kino-dvoranu-za-svoje-fanove-na-projekciju-filma-dosla-u-pratnji-decka-totalno-neprepoznatljiva/7320456/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/">
-STRAŠNA TRAGEDIJA U SMREÈJU
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-video-maja-suput-zakupila-citavu-kino-dvoranu-za-svoje-fanove-na-projekciju-filma-dosla-u-pratnji-decka-totalno-neprepoznatljiva/7320456/">
+TEŠKA ŠMINKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/foto-pozar-progutao-pola-sela-u-gorskom-kotaru-dvije-obitelji-u-suzama-gledale-kako-im-vatra-u-svega-15-minuta-odnosi-ono-sto-su-gradili-cijeli-zivot/7278303/">
-FOTO: POŽAR PROGUTAO POLA SELA U GORSKOM KOTARU Dvije obitelji u suzama gledale kako im vatra u svega 15 minuta odnosi ono što su gradili cijeli život
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-video-maja-suput-zakupila-citavu-kino-dvoranu-za-svoje-fanove-na-projekciju-filma-dosla-u-pratnji-decka-totalno-neprepoznatljiva/7320456/">
+FOTO, VIDEO: MAJA ŠUPUT ZAKUPILA ÈITAVU KINO DVORANU ZA SVOJE FANOVE Na projekciju filma došla u pratnji deèka, totalno neprepoznatljiva
 </a>
 </h4>
 </div>
@@ -1774,19 +2320,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1794,8 +2340,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1864,7 +2410,7 @@ Hrvatska
 Svijet
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1882,6 +2428,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2040,7 +2591,7 @@ Spektakli
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
 Domaæe zvijezde
 </a>
@@ -2171,11 +2722,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2223,14 +2769,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2274,45 +2820,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7285648&type=article&title=VIDEO%3a+POGLEDAJTE+HRVATSKE+SPECIJALCE+U+AKCIJI+Objavljen+video+uhi%c4%87enja+krijum%c4%8dara+ljudi%2c+%c4%8dlana+bande+koja+je+pala+u+velikoj+policijskoj+akciji&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fvideo-pogledajte-hrvatske-specijalce-u-akciji-objavljen-video-uhicenja-krijumcara-ljudi-clana-bande-koja-je-pala-u-velikoj-policijskoj-akciji%2f7285648%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=52&contextPath=1-51-52-&pubId=1&cat=&meta=read-story&objId=7334295&type=article&title=FRANKA+NIJE+USPJELA...+UNATO%c4%8c+SJAJNOM+NASTUPU%2c+NE+IDE+U+FINALE+EUROSONGA+Hrvatska+bez+plasmana+u+zavr%c5%a1nici%2c+evo+tko+je+sve+pro%c5%a1ao+dalje&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fdomace-zvijezde%2ffranka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje%2f7334295%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285648&amp;type=article&amp;title=VIDEO%3a+POGLEDAJTE+HRVATSKE+SPECIJALCE+U+AKCIJI+Objavljen+video+uhi%c4%87enja+krijum%c4%8dara+ljudi%2c+%c4%8dlana+bande+koja+je+pala+u+velikoj+policijskoj+akciji&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fvideo-pogledajte-hrvatske-specijalce-u-akciji-objavljen-video-uhicenja-krijumcara-ljudi-clana-bande-koja-je-pala-u-velikoj-policijskoj-akciji%2f7285648%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=52&amp;contextPath=1-51-52-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7334295&amp;type=article&amp;title=FRANKA+NIJE+USPJELA...+UNATO%c4%8c+SJAJNOM+NASTUPU%2c+NE+IDE+U+FINALE+EUROSONGA+Hrvatska+bez+plasmana+u+zavr%c5%a1nici%2c+evo+tko+je+sve+pro%c5%a1ao+dalje&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fdomace-zvijezde%2ffranka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje%2f7334295%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=2092598169&title=krijum%c4%8darenje+ljudima&url=tag%3ajltags%40eph.hr%2c2016%3akrijum%25C4%258Darenje_ljudima&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&cat=jltags%40eph.hr%2c2016&objId=570235579&title=Franka+Bateli%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aFranka_Bateli%25C4%2587&rt=1&ctxId=52&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2092598169&amp;title=krijum%c4%8darenje+ljudima&amp;url=tag%3ajltags%40eph.hr%2c2016%3akrijum%25C4%258Darenje_ljudima&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=570235579&amp;title=Franka+Bateli%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aFranka_Bateli%25C4%2587&amp;rt=1&amp;ctxId=52&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=833456561&title=migranti&url=tag%3ajltags%40eph.hr%2c2016%3amigranti&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&cat=jltags%40eph.hr%2c2016&objId=546403464&title=Eurosong&url=tag%3ajltags%40eph.hr%2c2016%3aEurosong&rt=1&ctxId=52&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=833456561&amp;title=migranti&amp;url=tag%3ajltags%40eph.hr%2c2016%3amigranti&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=417303808&title=Izbjeglice&url=tag%3ajltags%40eph.hr%2c2016%3aIzbjeglice&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=417303808&amp;title=Izbjeglice&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIzbjeglice&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-52-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=546403464&amp;title=Eurosong&amp;url=tag%3ajltags%40eph.hr%2c2016%3aEurosong&amp;rt=1&amp;ctxId=52&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2365,7 +2900,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/video-pogledajte-hrvatske-specijalce-u-akciji-objavljen-video-uhicenja-krijumcara-ljudi-clana-bande-koja-je-pala-u-velikoj-policijskoj-akciji/7285648/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2375,14 +2910,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/crna-kronika/video-pogledajte-hrvatske-specijalce-u-akciji-objavljen-video-uhicenja-krijumcara-ljudi-clana-bande-koja-je-pala-u-velikoj-policijskoj-akciji/7285648/",
-postId : "7285648",
+url : "https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/",
+postId : "7334295",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "VIDEO: POGLEDAJTE HRVATSKE SPECIJALCE U AKCIJI Objavljen video uhiæenja krijumèara ljudi, èlana bande koja je pala u velikoj policijskoj akciji ",
-pubdate : "2018-04-25 14:42",
-authors : "Hina",
-sections : "Front Page, Crna kronika",
-tags : "krijumèarenje ljudima, migranti, Izbjeglice",
+title : "FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje",
+pubdate : "2018-05-08 20:47",
+authors : "Silvija Novak",
+sections : "Front Page, Domaæe zvijezde",
+tags : "Franka Bateliæ, Eurosong",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

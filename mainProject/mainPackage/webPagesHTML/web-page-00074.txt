@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Englez koji je zaradio najteži oblik supergonoreje ikad na ludom putovanja u jugoistoènu Aziju na kojem je prevario curu, izlijeèen je nakon što su znanstvenici pronašli antibiotik koji djeluje." />
-<meta name="keywords" content="gonoreja" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<meta name="keywords" content="NASA, Mars" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Mislilo se da mu nema pomoæi, no onda je pronaðen antibiotik koji djeluje - Jutarnji List</title>
+<title>VIDEO: NASA LANSIRALA ISTRAŽIVAÈKU SONDU NA MARS Ima instrumente koji æe bilježiti seizmièke aktivnosti Crvenog planeta - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Zdravlje";
+var dfpCategory = "Znanost";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7267389";
-var dfpArticleKeyword = "gonoreja";
+var dfpArticle = "7321587";
+var dfpArticleKeyword = "NASA";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/znanost/video-nasa-lansirala-istrazivacku-sondu-na-mars-ima-instrumente-koji-ce-biljeziti-seizmicke-aktivnosti-crvenog-planeta/7321587/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/znanost/video-nasa-lansirala-istrazivacku-sondu-na-mars-ima-instrumente-koji-ce-biljeziti-seizmicke-aktivnosti-crvenog-planeta/7321587/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/gonorejajpg/7184460/ALTERNATES/LANDSCAPE_1180/gonoreja.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/nasajpg/7321599/ALTERNATES/LANDSCAPE_1180/NASA.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/gonorejajpg/7184460/ALTERNATES/LANDSCAPE_1180/gonoreja.jpg">
-<meta property="og:title" content="KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Mislilo se da mu nema pomoæi, no onda je pronaðen antibiotik koji djeluje" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/nasajpg/7321599/ALTERNATES/LANDSCAPE_1180/NASA.jpg">
+<meta property="og:title" content="VIDEO: NASA LANSIRALA ISTRAŽIVAÈKU SONDU NA MARS Ima instrumente koji æe bilježiti seizmièke aktivnosti Crvenog planeta" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/znanost/video-nasa-lansirala-istrazivacku-sondu-na-mars-ima-instrumente-koji-ce-biljeziti-seizmicke-aktivnosti-crvenog-planeta/7321587/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Englez koji je zaradio najteži oblik supergonoreje ikad na ludom putovanja u jugoistoènu Aziju na kojem je prevario curu, izlijeèen je nakon što su znanstvenici pronašli antibiotik koji djeluje." />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Mislilo se da mu nema pomoæi, no onda je pronaðen antibiotik koji djeluje">
-<meta name="twitter:description" content="Englez koji je zaradio najteži oblik supergonoreje ikad na ludom putovanja u jugoistoènu Aziju na kojem je prevario curu, izlijeèen je nakon što su znanstvenici pronašli antibiotik koji djeluje.">
+<meta name="twitter:creator" content=" Hina">
+<meta name="twitter:title" content="VIDEO: NASA LANSIRALA ISTRAŽIVAÈKU SONDU NA MARS Ima instrumente koji æe bilježiti seizmièke aktivnosti Crvenog planeta">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Zdravlje, Life, Front Page",
-pubdate: "2018-04-21T11:45+02:00",
-author: "Marijan Brala",
+data: { section: "Znanost, Life, Front Page",
+pubdate: "2018-05-05T15:49+02:00",
+author: "Hina",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -888,6 +888,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -946,12 +951,12 @@ Obitelj i djeca
 Tehnologija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1134,7 +1139,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/zdravlje/">Zdravlje </a></li>
+<li><a href="https://www.jutarnji.hr/life/znanost/">Znanost </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1147,12 +1152,12 @@ Obitelj i djeca
 Tehnologija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -1229,11 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-VIŠE SREÆE NEGO PAMETI
+MARS INSIGHT
 </p>
 <h1
 class="title">
-KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Mislilo se da mu nema pomoæi, no onda je pronaðen antibiotik koji djeluje
+VIDEO: NASA LANSIRALA ISTRAŽIVAÈKU SONDU NA MARS Ima instrumente koji æe bilježiti seizmièke aktivnosti Crvenog planeta
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1246,7 @@ KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Misl
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-21.04.2018. u 11:45
+05.05.2018. u 15:49
 </p>
 </li>
 </ul>
@@ -1261,29 +1266,36 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/gonorejajpg/7184460" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/nasajpg/7321599" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/gonorejajpg/7184460/ALTERNATES/LANDSCAPE_380/gonoreja.jpg"
+<img src="https://www.jutarnji.hr/incoming/nasajpg/7321599/ALTERNATES/LANDSCAPE_380/NASA.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/gonorejajpg/7184460/BINARY/thumbnail/gonoreja.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/nasajpg/7321599/BINARY/thumbnail/NASA.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Russian opposition leader Alexei Navalny attends a rally in protest against court decision to block the Telegram messenger because it violated Russian regulations, in Moscow, Russia, April 30, 2018. REUTERS/Tatyana Makeyeva - RC1B2B9E62C0"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Profimedia
+<span> NASA, Twitter
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>NASA je lansirala raketu Atlas 5 koja u svemir nosi sondu Mars InSight</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1307,14 +1319,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7267389"
+<div id="content-body-6263871-7321587"
 >
-<p>Englez koji je zaradio najteži oblik supergonoreje ikad na ludom putovanju u jugoistoènu Aziju na kojem je prevario curu, izlijeèen je nakon što su znanstvenici pronašli antibiotik koji djeluje.</p><p>Ovaj prvi globalno zabilježeni sluèaj supergonoreje izazvao je veliku pažnju jer standardna procedura lijeèenja ove spolne bolesti je antibioticima Azitromicinom i Ceftriaksonom. Meðutim, kod nesretnog muškarca nije upalilo.</p><p>- Nikada se nismo suoèili s ovakvim sluèajem. Bakteriju je nemoguæe uništiti ovim lijekovima - kazala je doktorica <strong>Gwenda Hughes</strong> kada je primila nesretnog mladiæa.</p><p>No, u današnjoj izjavi britanske državne agencije za lijekove piše kako su znanstvenici pronašli lijek, toènije promiskuitetni Englez izlijeèen je Ertapenemom, takoðer antibiotikom.</p><p>- Drago nam je da vas možemo izvijestiti kako je sluèaj supergonoreje uspješno riješen, a mladiæ se uspiješno lijeèi. Takoðer, istragom je utvrðeno kako nije bilo daljnjeg širenje infekcije u Velikoj Britaniji - kazala je doktorica Gwenda Hughes, piše <strong><a href="http://www.dailymail.co.uk/health/article-5638347/Englishman-cured-worlds-worst-case-super-gonorrhoea.html" target="_blank">Daily Mail</a>.</strong></p><p>Ipak, doktorica je upozorila kako oèekuju 'daljnje sluèajeve gonoreje na koje antibiotici ne djeluju', a još prije dvije godine upozoravali su da bi se nešto ovako moglo dogoditi.</p><p>- Oblik gonoreje koje je otporan na lijekove sve nas mora zabrinuti. Da stvar bude gora, budžet nam je sve manji i imamo sve manje sredstava da pronaðemo rješenje za ovaj veliki problem - kazao je nedavno dr. <strong>Olwen Williams</strong>.</p><p>Hughes je upozorila na dva sluèaja koja su se zbila ovog tjedna u Australiji, kada se jedan od pacijenata takoðer zaradio gonoreju nakon putovanja u jugoistoènu Aziju.</p><p>Inaèe, podaci govore da se oko 78 milijuna ljudi godišnje zarazi gonorejom,  a najteži oblik godišnje ubije i više od 700.000 ljudi, što ju èini jednom od veæih prijetnji èovjeèanstvu, uz bok terorizmu i globalnom zatopljenju.</p>
+<p>NASA je u subotu lansirala raketu Atlas 5 koja u svemir nosi sondu Mars InSight, prvi robotski 'lander' koji æe prouèavati duboku unutrašnjost Crvenog planeta instrumentima koji æe bilježiti seizmièke aktivnosti planeta koje, osim na Zemlji, nikada nigdje drugdje nisu mjerene, javljaju agencije.</p><p>Lansiranje je izvedeno iz vojne baze amerièkog ratnog zrakoplovstva Vandenberg u Kaliforniji, a putovanje na Mars trajat æe šest mjeseci. Ranoranioci u Kaliforniji mogli su prije same zore uživati u svjetlosnom spektaklu prilikom lansiranja prve amerièke interplanetarne letjelice iznad Pacifika.</p><p>
+<section class="social_embed ">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">LIFTOFF! Humanity’s next mission to Mars has left the pad! <a href="https://twitter.com/NASAInSight?ref_src=twsrc%5Etfw">@NASAInSight</a> heads into space for a ~6 month journey to Mars where it will take the planet’s vital signs and help us understand how rocky planets formed. Watch: <a href="https://t.co/SA1B0Dglms">https://t.co/SA1B0Dglms</a> <a href="https://t.co/wBqFc47L5p">pic.twitter.com/wBqFc47L5p</a></p>&mdash; NASA (@NASA) <a href="https://twitter.com/NASA/status/992722220534325248?ref_src=twsrc%5Etfw">May 5, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+</p><p>Atlas 5 je vrlo snažna 57,2 metra visoka raketa koja može proizvesti 390 tona potiska. InSight (Interior Exploration using Seismic Investigations, Geodesy and Heat Transport) , težak 360 kilograma, trebao bi sletjeti na 600 kilometara od mjesta na kojem je 2012. sletio 'rover' Curiosity koji je bio velièine automobila.</p><p>Robotski lander bit æe prvi èovjekov pokušaj da direktno prouèi unutrašnje slojeve nekog drugog planeta, ukljuèujuæi seizmièke aktivnosti, veæ popularno nazvane &quot;marsotresi&quot;. Raketa Atlas 5, proizvod partnerstva tvrtki  Lockheed Martin Corp. i Boeing Co., æe nakon 90 minuta leta, na putu do Marsa dugom 584 milijuna kilometara, otpustiti svoj teret te æe InSight sletjeti na prostranu ravnicu u blizini Marsovog ekvatora &quot;Elysium Planitia&quot;.</p><p>Pojedini insturmenti æe kopati i do pet metara ispod površine, dok æe prve 3D snimke biti uèinjene nekoliko minuta nakon slijetanja 26. studenoga. Misija bi trebala trajati dvije godine, ali mogla bi biti produljena. I dok su tektonske i ostale sile na Zemlji izbrisale veæinu dokaza o njezinoj ranoj povijesti, veliki dio Marsa koji je velièine jedne treæine Zemlje je, kako se vjeruje, ostao relativno statièan  unazad više od tri milijarde godina, stvorivši geološki vremenski stroj za znanstvenike.</p><p>Znanstvenici vjeruju da æe im InSight otkriti mnoge tajne o Marsu kakav je danas, ali još više o njegovoj povijesti koja seže 4,5 milijardi godina unatrag od kako je formiran. NASA kaže da je cilj sonde InSight zapravo bolje razumjeti nastanak Zemlje, a to bi trebala otkriti upravo ova istraživanja na Marsu.</p><p>InSight na Mars nosi i èip na kojem je pohranjeno gotovo 2,5 milijuna imena Zemljana, meðu kojima je 3505 imena iz Hrvatske. Najviše ih je iz SAD-a, njih 600.000, a kineskih imena je 260.000.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7267389 p").filter(function () {
+$("#content-body-6263871-7321587 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1323,16 +1340,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7267389").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7321587").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7267389").children().slice(max).remove();
+$("#content-body-6263871-7321587").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7267389").children().get(0);
+var firstChild = $("#content-body-6263871-7321587").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1370,8 +1387,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/gonoreja" class ="label label-default" >
-gonoreja
+<a href="https://www.jutarnji.hr/tag/Mars" class ="label label-default" >
+Mars
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/NASA" class ="label label-default" >
+NASA
 </a>
 </li>
 </ul>
@@ -1382,45 +1404,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="svijet media none">
+<article class="tvrtke media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/mladic-zaradio-najtezi-oblik-supergonoreje-ikad-prevario-curu-na-ludom-putovanju-i-gorko-pozalio-nikada-se-nismo-suocili-s-ovakvim-slucajem/7184445/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/biznis/tvrtke/tihi-ali-brzi-od-zvuka-nasa-je-angazirala-lockheed-martin-za-izgradnju-prototipa-supersonicnog-aviona-letjet-ce-vec-za-cetiri-godine/7203774/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/mladic-zaradio-najtezi-oblik-supergonoreje-ikad-prevario-curu-na-ludom-putovanju-i-gorko-pozalio-nikada-se-nismo-suocili-s-ovakvim-slucajem/7184445/">
-MLADIÆ ZARADIO NAJTEŽI OBLIK SUPERGONOREJE IKAD Prevario curu na ludom putovanju i gorko požalio: 'Nikada se nismo suoèili s ovakvim sluèajem'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="zdravlje media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/ovo-istrazivanje-moglo-bi-promijeniti-pravila-znanstvenici-iznenadeni-djelovanjem-cjepiva-protiv-menigitisa-stiti-od-spolno-prenosive-infekcije/6353848/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/ovo-istrazivanje-moglo-bi-promijeniti-pravila-znanstvenici-iznenadeni-djelovanjem-cjepiva-protiv-menigitisa-stiti-od-spolno-prenosive-infekcije/6353848/">
-'OVO ISTRAŽIVANJE MOGLO BI PROMIJENITI PRAVILA' Znanstvenici iznenaðeni djelovanjem cjepiva protiv menigitisa: štiti od spolno prenosive infekcije
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="znanost media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/vrlo-vazno-upozorenje-zbog-oralnog-seksa-sve-je-teze-lijeciti-opasnu-spolnu-bolest-necete-ni-znati-da-je-imate-a-lako-se-prenosi/6434104/" data-widget-title="" data-web-position="box"
-data-widget-position="2">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/vrlo-vazno-upozorenje-zbog-oralnog-seksa-sve-je-teze-lijeciti-opasnu-spolnu-bolest-necete-ni-znati-da-je-imate-a-lako-se-prenosi/6434104/">
-VRLO VAŽNO UPOZORENJE Zbog oralnog seksa sve je teže lijeèiti opasnu spolnu bolest. Neæete ni znati da je imate, a lako se prenosi...
+<a href="https://www.jutarnji.hr/biznis/tvrtke/tihi-ali-brzi-od-zvuka-nasa-je-angazirala-lockheed-martin-za-izgradnju-prototipa-supersonicnog-aviona-letjet-ce-vec-za-cetiri-godine/7203774/">
+TIHI, ALI BRŽI OD ZVUKA: NASA je angažirala Lockheed Martin za izgradnju prototipa supersoniènog aviona, letjet æe veæ za èetiri godine?
 </a>
 </h4>
 </li>
@@ -1442,13 +1434,13 @@ VRLO VAŽNO UPOZORENJE Zbog oralnog seksa sve je teže lijeèiti opasnu spolnu bole
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1460,8 +1452,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1473,13 +1465,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1491,8 +1483,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1504,13 +1496,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1522,8 +1514,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1535,17 +1527,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1553,9 +1545,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1637,7 +1628,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7267389" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7321587" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1681,19 +1672,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="zdravlje media c11a none">
+<article class="znanost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/rijesena-tajna-tutankamonove-grobnice-arheolozi-koji-su-desetljecima-tragali-za-nefertiti-i-njezinom-grobnicom-potpuno-se-razocarali/7323639/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/">
-ODLUKA VIJEÆA HZZO-a
+<a href="https://www.jutarnji.hr/life/znanost/rijesena-tajna-tutankamonove-grobnice-arheolozi-koji-su-desetljecima-tragali-za-nefertiti-i-njezinom-grobnicom-potpuno-se-razocarali/7323639/">
+GDJE JE POKOPANA?
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/">
-SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska lista, dodani i lijekovi za multiplu sklerozu i KOPB
+<a href="https://www.jutarnji.hr/life/znanost/rijesena-tajna-tutankamonove-grobnice-arheolozi-koji-su-desetljecima-tragali-za-nefertiti-i-njezinom-grobnicom-potpuno-se-razocarali/7323639/">
+RIJEŠENA TAJNA TUTANKAMONOVE GROBNICE Arheolozi koji su desetljeæima tragali za Nefertiti i njezinom grobnicom, potpuno se razoèarali...
 </a>
 </h4>
 </div>
@@ -1703,19 +1694,19 @@ SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska li
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="zdravlje media c11a none">
+<article class="znanost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/djevojcici-su-presadili-srce-babuna-muskarcima-su-transplantirali-cimpanzine-testise-majmunu-su-usadili-svinjino-srce-evo-sto-im-se-dogodilo/7299256/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/">
-BUDUÆNOST ZDRAVSTVA
+<a href="https://www.jutarnji.hr/life/znanost/djevojcici-su-presadili-srce-babuna-muskarcima-su-transplantirali-cimpanzine-testise-majmunu-su-usadili-svinjino-srce-evo-sto-im-se-dogodilo/7299256/">
+KSENOTRANSPLANTACIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/">
-Jedini cilj zdravstva je vrijednost za pacijenta
+<a href="https://www.jutarnji.hr/life/znanost/djevojcici-su-presadili-srce-babuna-muskarcima-su-transplantirali-cimpanzine-testise-majmunu-su-usadili-svinjino-srce-evo-sto-im-se-dogodilo/7299256/">
+Djevojèici su presadili srce babuna, muškarcima su transplantirali èimpanzine testise, majmunu su usadili svinjino srce... Evo što im se dogodilo
 </a>
 </h4>
 </div>
@@ -1725,19 +1716,19 @@ Jedini cilj zdravstva je vrijednost za pacijenta
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="zdravlje media c11a none">
+<article class="znanost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/foto-nevideni-pomor-na-plazi-gospoda-nakon-oluje-krenula-u-jutarnju-setnju-pa-ostala-zaprepastena-prizorom-nikad-nisam-vidjela-nista-slicno/7095390/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/">
-VIŠE SREÆE NEGO PAMETI
+<a href="https://www.jutarnji.hr/life/znanost/foto-nevideni-pomor-na-plazi-gospoda-nakon-oluje-krenula-u-jutarnju-setnju-pa-ostala-zaprepastena-prizorom-nikad-nisam-vidjela-nista-slicno/7095390/">
+FENOMEN KOJI NIJE NEPOZNAT
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/">
-KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Mislilo se da mu nema pomoæi, no onda je pronaðen antibiotik koji djeluje
+<a href="https://www.jutarnji.hr/life/znanost/foto-nevideni-pomor-na-plazi-gospoda-nakon-oluje-krenula-u-jutarnju-setnju-pa-ostala-zaprepastena-prizorom-nikad-nisam-vidjela-nista-slicno/7095390/">
+FOTO: NEVIÐENI POMOR NA PLAŽI Gospoða nakon oluje krenula u jutarnju šetnju, pa ostala zaprepaštena prizorom: 'Nikad nisam vidjela ništa slièno'
 </a>
 </h4>
 </div>
@@ -1747,19 +1738,19 @@ KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Misl
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="zdravlje media c11a none">
+<article class="znanost media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/neocekivano-otkrice-znanstvenika-napravili-smo-simulaciju-zemlje-koja-se-okrece-u-suprotnom-smjeru-i-prilicno-se-iznenadili-sahara-bi-bila-zelena/7297633/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
-KAKO VAM SE ÈINI?
+<a href="https://www.jutarnji.hr/life/znanost/neocekivano-otkrice-znanstvenika-napravili-smo-simulaciju-zemlje-koja-se-okrece-u-suprotnom-smjeru-i-prilicno-se-iznenadili-sahara-bi-bila-zelena/7297633/">
+RETRO-ROTACIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/najnovija-dijeta-zaludjela-pola-svijeta-drzite-se-ovih-pravila-i-dobit-cete-rezultate-ravne-liposukciji/7218918/">
-NAJNOVIJA DIJETA ZALUDJELA POLA SVIJETA Držite se ovih pravila i dobit æete rezultate ravne liposukciji
+<a href="https://www.jutarnji.hr/life/znanost/neocekivano-otkrice-znanstvenika-napravili-smo-simulaciju-zemlje-koja-se-okrece-u-suprotnom-smjeru-i-prilicno-se-iznenadili-sahara-bi-bila-zelena/7297633/">
+NEOÈEKIVANO OTKRIÆE ZNANSTVENIKA 'Napravili smo simulaciju Zemlje koja se okreæe u suprotnom smjeru i prilièno se iznenadili: Sahara bi bila zelena!'
 </a>
 </h4>
 </div>
@@ -1797,19 +1788,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1817,8 +1808,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1907,6 +1898,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1965,12 +1961,12 @@ Obitelj i djeca
 Tehnologija
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/zdravlje/">
 Zdravlje
 </a>
@@ -2194,11 +2190,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2246,14 +2237,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2297,23 +2288,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=36&contextPath=1-32-36-&pubId=1&cat=&meta=read-story&objId=7267389&type=article&title=KAKAV+SRE%c4%86KOVI%c4%86!+Prevario+curu+pa+zaradio+najte%c5%bei+oblik+supergonoreje+ikad.+Mislilo+se+da+mu+nema+pomo%c4%87i%2c+no+onda+je+prona%c4%91en+antibiotik+koji+djeluje&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fkakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje%2f7267389%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=33&contextPath=1-32-33-&pubId=1&cat=&meta=read-story&objId=7321587&type=article&title=VIDEO%3a+NASA+LANSIRALA+ISTRA%c5%bdIVA%c4%8cKU+SONDU+NA+MARS+Ima+instrumente+koji+%c4%87e+bilje%c5%beiti+seizmi%c4%8dke+aktivnosti+Crvenog+planeta&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fvideo-nasa-lansirala-istrazivacku-sondu-na-mars-ima-instrumente-koji-ce-biljeziti-seizmicke-aktivnosti-crvenog-planeta%2f7321587%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=36&amp;contextPath=1-32-36-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7267389&amp;type=article&amp;title=KAKAV+SRE%c4%86KOVI%c4%86!+Prevario+curu+pa+zaradio+najte%c5%bei+oblik+supergonoreje+ikad.+Mislilo+se+da+mu+nema+pomo%c4%87i%2c+no+onda+je+prona%c4%91en+antibiotik+koji+djeluje&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fkakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje%2f7267389%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=33&amp;contextPath=1-32-33-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7321587&amp;type=article&amp;title=VIDEO%3a+NASA+LANSIRALA+ISTRA%c5%bdIVA%c4%8cKU+SONDU+NA+MARS+Ima+instrumente+koji+%c4%87e+bilje%c5%beiti+seizmi%c4%8dke+aktivnosti+Crvenog+planeta&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fvideo-nasa-lansirala-istrazivacku-sondu-na-mars-ima-instrumente-koji-ce-biljeziti-seizmicke-aktivnosti-crvenog-planeta%2f7321587%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=1472198215&title=gonoreja&url=tag%3ajltags%40eph.hr%2c2016%3agonoreja&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&cat=jltags%40eph.hr%2c2016&objId=1895193511&title=NASA&url=tag%3ajltags%40eph.hr%2c2016%3aNASA&rt=1&ctxId=33&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1472198215&amp;title=gonoreja&amp;url=tag%3ajltags%40eph.hr%2c2016%3agonoreja&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1895193511&amp;title=NASA&amp;url=tag%3ajltags%40eph.hr%2c2016%3aNASA&amp;rt=1&amp;ctxId=33&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&cat=jltags%40eph.hr%2c2016&objId=1895195483&title=Mars&url=tag%3ajltags%40eph.hr%2c2016%3aMars&rt=1&ctxId=33&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1895195483&amp;title=Mars&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMars&amp;rt=1&amp;ctxId=33&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2366,7 +2368,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/znanost/video-nasa-lansirala-istrazivacku-sondu-na-mars-ima-instrumente-koji-ce-biljeziti-seizmicke-aktivnosti-crvenog-planeta/7321587/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2376,14 +2378,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/",
-postId : "7267389",
+url : "https://www.jutarnji.hr/life/znanost/video-nasa-lansirala-istrazivacku-sondu-na-mars-ima-instrumente-koji-ce-biljeziti-seizmicke-aktivnosti-crvenog-planeta/7321587/",
+postId : "7321587",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Mislilo se da mu nema pomoæi, no onda je pronaðen antibiotik koji djeluje",
-pubdate : "2018-04-21 11:45",
-authors : "Marijan Brala",
-sections : "Zdravlje",
-tags : "gonoreja",
+title : "VIDEO: NASA LANSIRALA ISTRAŽIVAÈKU SONDU NA MARS Ima instrumente koji æe bilježiti seizmièke aktivnosti Crvenog planeta",
+pubdate : "2018-05-05 15:49",
+authors : "Hina",
+sections : "Front Page, Life, Znanost",
+tags : "NASA, Mars",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

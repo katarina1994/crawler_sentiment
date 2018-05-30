@@ -10,6 +10,7 @@ Created on 23. ozu 2018.
 
 import glob
 import os
+from polyglot.text import Text
 #import gensim
 import codecs
 #from gensim import corpora, models
@@ -21,32 +22,19 @@ from sklearn.decomposition import LatentDirichletAllocation
 
 class TopicModeling():
 
-    # PRINT INFO ABOUT TOPIC
-    def printTopicInfo(self, model, featureNames, noKeyWords, originalStemmedDocuments, topicNumber):    
-        for tID, topic in enumerate(model.components_):
-            listOfOriginalWords = []
-            listOfStemmedWords = []
-            for i in topic.argsort()[:-noKeyWords - 1:-1]:
-                #print (featureNames[i])
-                for line in originalStemmedDocuments:
-                    line = line.split(" ")
-                    if(len(line) > 1):
-                        if(featureNames[i] == line[1].lower()):
-                            #print (featureNames[i], line[0].lower())
-                            listOfOriginalWords.append(line[0])
-                            listOfStemmedWords.append(line[1])
-                            break
+    # WRITE INFO ABOUT TOPIC TO FILES
+    def writeTopicInfoToFile(self, listOfStemmedWords, topicNumber):    
+        
             fTopic = codecs.open("topics/topic-%05d.txt" % topicNumber, 'w', encoding='Windows-1250')
             text = " ".join(listOfStemmedWords)
             fTopic.write(text)
+            #print (text)
             fTopic.close()
-            print (" ".join(listOfOriginalWords))
-            listOfOriginalWords = []
-            listOfStemmedWords = []
-
+        
 
     # GET ALL STOPWORDS FROM CROATIAN LANUGAGE
     def getStopWords(self):
+        
         stopWords = []
         fStopWords = codecs.open("stopWords.txt", 'r', encoding='Windows-1250')
         tmp = fStopWords.readlines()
@@ -56,13 +44,20 @@ class TopicModeling():
         fStopWords.close()
         return stopWords
         
-    # TIME TO WORK WITH EACH ARTICLE AND GET KEY WORDS FROM IT
-    def getKeyWords(self, path, topicNumber):
+        
+    # TIME TO WORK WITH EACH ARTICLE, FIND KEY WORDS FROM IT AND WRITE THEM TO FILE 
+    def writeKeyWordsToFile(self, path, topicNumber, numberOfPages):
+        
+        allKeyWordsFromArticles = []
+        allKeyWordsFromArticlesStemmed = []
         documents = []
         originalStemmedDocuments = []
 
         allFiles = glob.glob(os.path.join(path, '*.txt'))
+        topicNumber = topicNumber - numberOfPages
         #print (topicNumber)
+
+        #index = 1
         while (topicNumber < len(allFiles)):
         #for fileName in glob.glob(os.path.join(path, '*.txt')):
             f = open(allFiles[topicNumber], "r");
@@ -84,7 +79,8 @@ class TopicModeling():
                     doc += " "
                 
             documents = [doc]
-        
+            #print (index)
+            #print (documents)
             # LDA
             stopWords = self.getStopWords()
             tf_vectorizer = CountVectorizer(max_df=2, min_df=1, max_features=100, stop_words=stopWords, analyzer='word')
@@ -95,17 +91,29 @@ class TopicModeling():
             lda = LatentDirichletAllocation(n_components=1, max_iter=5, learning_method='online', learning_offset=50.,random_state=0).fit(tf)
         
             noKeyWords = 20
-            self.printTopicInfo(lda, tf_feature_names, noKeyWords, originalStemmedDocuments, topicNumber)
-            
+            for _tID, topic in enumerate(lda.components_):
+                listOfOriginalWords = []
+                listOfStemmedWords = []
+                for i in topic.argsort()[:-noKeyWords - 1:-1]:
+                    #print (tf_feature_names[i])
+                    for line in originalStemmedDocuments:
+                        line = line.split(" ")
+                        if(len(line) > 1):
+                            if(tf_feature_names[i] == line[1].lower()):
+                                #print (tf_feature_names[i], line[0].lower())
+                                listOfOriginalWords.append(line[0])
+                                listOfStemmedWords.append(line[1])
+                                break    
+                self.writeTopicInfoToFile(listOfStemmedWords, topicNumber)
+                
+            allKeyWordsFromArticles.append(listOfOriginalWords)
+            textStemmedWords = Text(" ".join(listOfStemmedWords), hint_language_code='hr')
+            allKeyWordsFromArticlesStemmed.append(textStemmedWords.sentences[0])    
             topicNumber += 1
             documents = []
-            originalStemmedDocuments = []
-        
-    def getTitleInfo(self, path, topicNumber):
-            fTitles = codecs.open(path, 'r', encoding='Windows-1250')
-            
-            for title in fTitles.readlines():   
-                print (title.strip("\n"))
-                topicNumber += 1
-            fTitles.close()
-
+            originalStemmedDocuments = []     
+            #print (allKeyWordsFromArticles)
+            #index += 1
+        return allKeyWordsFromArticlesStemmed
+    
+    

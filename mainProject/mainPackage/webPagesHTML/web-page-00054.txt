@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Liga socijaldemokrata Vojvodine (LSV) poruèila je da neæe dopustiti „da se ponove Hrtkovci“, dok je oporbena Demokratska stranka (DS) najavila da æe njezini èlanovi otiæi u Hrtkovce i sprijeèiti lidera radikala Vojislava Šešelja da održi miting u tom srijemskom selu, prenijeli su u srijedu vojvoðanski mediji." />
-<meta name="keywords" content="Vojislav Šešelj, Srbija" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Strojobravar iz istoène Hrvatske nedavno je nepravomoæno na jednom Opæinskom sudu osuðen na godinu dana zatvora jer je u ulozi udomitelja bludnièio nad tada 14-godišnjom djevojèicom, adolescenticom s mentalnom retardacijom lakog stupnja, zastojem u razvoju i s poteškoæama prilagodbe." />
+<meta name="keywords" content="seksualno zlostavljanje" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>&#039;NEÆEMO DOPUSTITI DA SE PONOVE HRTKOVCI&#039; Demokratska stranka i Liga socijaldemokrata Vojvodine najavili da æe sprijeèiti Šešelja u održavanju skupa - Jutarnji List</title>
+<title>UDOMITELJ (62) DOBIO GODINU DANA ZATVORA: PIPKAO CURICU &#039;Zagrlio sam svoju štiæenicu kao što bih zagrlio svako dijete&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Svijet";
+var dfpCategory = "Crna kronika";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7284400";
-var dfpArticleKeyword = "Vojislav Šešelj";
+var dfpArticle = "7329684";
+var dfpArticleKeyword = "seksualno zlostavljanje";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/necemo-dopustiti-da-se-ponove-hrtkovci-demokratska-stranka-i-liga-socijaldemokrata-vojvodine-najavili-da-ce-sprijeciti-seselja-u-odrzavanju-skupa/7284400/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/necemo-dopustiti-da-se-ponove-hrtkovci-demokratska-stranka-i-liga-socijaldemokrata-vojvodine-najavili-da-ce-sprijeciti-seselja-u-odrzavanju-skupa/7284400/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/crna-kronika/udomitelj-62-dobio-godinu-dana-zatvora-pipkao-curicu-zagrlio-sam-svoju-sticenicu-kao-sto-bih-zagrlio-svako-dijete/7329684/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/crna-kronika/udomitelj-62-dobio-godinu-dana-zatvora-pipkao-curicu-zagrlio-sam-svoju-sticenicu-kao-sto-bih-zagrlio-svako-dijete/7329684/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/vijesti/svijet/hrtkovci_hrvati-200418-1jpg/7284433/ALTERNATES/LANDSCAPE_1180/hrtkovci_hrvati-200418-1.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/uhicenje-policijajpg/6564057/ALTERNATES/LANDSCAPE_1180/Uhi%C4%87enje%20policija.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/vijesti/svijet/hrtkovci_hrvati-200418-1jpg/7284433/ALTERNATES/LANDSCAPE_1180/hrtkovci_hrvati-200418-1.jpg">
-<meta property="og:title" content="'NEÆEMO DOPUSTITI DA SE PONOVE HRTKOVCI' Demokratska stranka i Liga socijaldemokrata Vojvodine najavili da æe sprijeèiti Šešelja u održavanju skupa" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/uhicenje-policijajpg/6564057/ALTERNATES/LANDSCAPE_1180/Uhi%C4%87enje%20policija.jpg">
+<meta property="og:title" content="UDOMITELJ (62) DOBIO GODINU DANA ZATVORA: PIPKAO CURICU 'Zagrlio sam svoju štiæenicu kao što bih zagrlio svako dijete'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/necemo-dopustiti-da-se-ponove-hrtkovci-demokratska-stranka-i-liga-socijaldemokrata-vojvodine-najavili-da-ce-sprijeciti-seselja-u-odrzavanju-skupa/7284400/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/crna-kronika/udomitelj-62-dobio-godinu-dana-zatvora-pipkao-curicu-zagrlio-sam-svoju-sticenicu-kao-sto-bih-zagrlio-svako-dijete/7329684/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Liga socijaldemokrata Vojvodine (LSV) poruèila je da neæe dopustiti „da se ponove Hrtkovci“, dok je oporbena Demokratska stranka (DS) najavila da æe njezini èlanovi otiæi u Hrtkovce i sprijeèiti lidera radikala Vojislava Šešelja da održi miting u tom srijemskom selu, prenijeli su u srijedu vojvoðanski mediji." />
+<meta property="og:description" content="Strojobravar iz istoène Hrvatske nedavno je nepravomoæno na jednom Opæinskom sudu osuðen na godinu dana zatvora jer je u ulozi udomitelja bludnièio nad tada 14-godišnjom djevojèicom, adolescenticom s mentalnom retardacijom lakog stupnja, zastojem u razvoju i s poteškoæama prilagodbe." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="'NEÆEMO DOPUSTITI DA SE PONOVE HRTKOVCI' Demokratska stranka i Liga socijaldemokrata Vojvodine najavili da æe sprijeèiti Šešelja u održavanju skupa">
-<meta name="twitter:description" content="Liga socijaldemokrata Vojvodine (LSV) poruèila je da neæe dopustiti „da se ponove Hrtkovci“, dok je oporbena Demokratska stranka (DS) najavila da æe njezini èlanovi otiæi u Hrtkovce i sprijeèiti lidera radikala Vojislava Šešelja da održi miting u tom srijemskom selu, prenijeli su u srijedu vojvoðanski mediji.">
+<meta name="twitter:creator" content="Hajdi Karakaš Jakubin">
+<meta name="twitter:title" content="UDOMITELJ (62) DOBIO GODINU DANA ZATVORA: PIPKAO CURICU 'Zagrlio sam svoju štiæenicu kao što bih zagrlio svako dijete'">
+<meta name="twitter:description" content="Strojobravar iz istoène Hrvatske nedavno je nepravomoæno na jednom Opæinskom sudu osuðen na godinu dana zatvora jer je u ulozi udomitelja bludnièio nad tada 14-godišnjom djevojèicom, adolescenticom s mentalnom retardacijom lakog stupnja, zastojem u razvoju i s poteškoæama prilagodbe.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Svijet, Vijesti, Front Page",
-pubdate: "2018-04-25T11:21+02:00",
-author: "Hina",
+data: { section: "Crna kronika, Vijesti, Front Page",
+pubdate: "2018-05-08T23:33+02:00",
+author: "Hajdi Karakaš Jakubin",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -863,12 +863,12 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1134,7 +1139,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/crna-kronika/">Crna kronika </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1142,12 +1147,12 @@ Mozgalice
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1165,6 +1170,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1204,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ŠEŠELJ NE ODUSTAJE
+SKANDAL
 </p>
 <h1
 class="title">
-'NEÆEMO DOPUSTITI DA SE PONOVE HRTKOVCI' Demokratska stranka i Liga socijaldemokrata Vojvodine najavili da æe sprijeèiti Šešelja u održavanju skupa
+UDOMITELJ (62) DOBIO GODINU DANA ZATVORA: PIPKAO CURICU 'Zagrlio sam svoju štiæenicu kao što bih zagrlio svako dijete'
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1226,7 @@ class="title">
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
+<li><a href="https://www.jutarnji.hr/autori/hajdi-karakas-jakubin">Hajdi Karakaš Jakubin</a></li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 11:21
+08.05.2018. u 23:33
 </p>
 </li>
 </ul>
@@ -1234,32 +1244,38 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="svijet media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/hrtkovci_hrvati-200418-1jpg/7284433" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/uhicenje-policijajpg/6564057" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/vijesti/svijet/hrtkovci_hrvati-200418-1jpg/7284433/ALTERNATES/LANDSCAPE_380/hrtkovci_hrvati-200418-1.jpg"
+<img src="https://www.jutarnji.hr/incoming/uhicenje-policijajpg/6564057/ALTERNATES/LANDSCAPE_380/Uhi%C4%87enje%20policija.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/vijesti/svijet/hrtkovci_hrvati-200418-1jpg/7284433/BINARY/thumbnail/hrtkovci_hrvati-200418-1.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/uhicenje-policijajpg/6564057/BINARY/thumbnail/Uhi%C4%87enje%20policija.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Hrtkovci, Srbija, 200418. Reportaza iz vojvodjanskog sela Hrtkovci iz kojega su 1992. godine protjerani Hrvati. Na fotografiji: prometni znak na cirilici i latinici na ulazu u Hrtkovce.
-Foto: Vlado Kos / CROPIX"
+alt=""
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Vlado Kos / HANZA MEDIA
+<span> Sergej Drechsler / Hanza Media
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Ilustracija</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1283,14 +1299,22 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7284400"
+<div id="content-body-6263871-7329684"
 >
-<p>Liga socijaldemokrata Vojvodine (LSV) poruèila je da neæe dopustiti „da se ponove Hrtkovci“, dok je oporbena Demokratska stranka (DS) najavila da æe njezini èlanovi otiæi u Hrtkovce i sprijeèiti lidera radikala <strong>Vojislava Šešelja</strong> da održi miting u tom srijemskom selu, prenijeli su u srijedu vojvoðanski mediji.</p><p>Srbijanski radikali su najavili da æe održati miting 6. svibnja, u mjestu Hrtkovci, na obljetnicu poèetka progona srijemskih Hrvata poèetkom devedesetih, na policija je priopæila da æe zabraniti taj skup.</p><p>Reagirali su u DS-u, èiji je zastupnik <strong>Balša Božoviæ</strong> izjavio da æe i oni iæi u Hrtkovce kako bi sprijeèili Vojislava Šešelja da održi miting.</p><p>Božoviæ je novinarima u Skupštini Srbije rekao da DS neæe imati skup veæ da æe biti tamo da pruže potporu graðanima i zaštite ih “pošto država i državni organi to ne èine, veæ dopuštaju Šešelju da i dalje širi govor mržnje”.</p><p>“Mi æemo biti uz svoje sugraðane jer želimo da se u svojoj zemlji osjeæaju sigurno, to im jamèi Ustav i zakoni i to je dužnost svih koji vole ovu zemlju. Ne dijelimo ljude po vjerskoj, nacionalnoj ili bilo kojoj drugoj pripadnosti i želimo biti s njima i ne dopustiti da se ponovi ono što je nekada Šešelj uradio”, kazao je Božoviæ.</p><p>Kritike na raèun Šešelja i države uputio je i LSV, koji navodi da æe nastaviti s upornim inzistiranjem da se Vojislavu Šešelju oduzme zastupnièki mandat jer je osuðen za ratne zloèine te da „nemaju namjeru dopustiti da se ponove Hrtkovci“.</p><p>U priopæenju potpredsjednika LSV-a <strong>Aleksandra Jovanoviæa</strong>, kako prenosi agencija Beta, ukazuje se na èinjenicu da Šešelj i dalje sjedi u Skupštini, iako je poslije presude meðunarodnog suda prave izjavio da je spreman svoje zloèine ponoviti, jer parlament kao ni druga mjerodavna državna tijela ne provode zakone.</p><p>“Krajnji je trenutak da vlast konaèno postane svjesna koliko štete ugledu parlamenta nanosi svaki dan koji u zastupnièkoj klupi i kao èlan Odbora za kontrolu službi sigurnosti Narodne skupštine Republike Srbije provede èovjek osuðen za ratni zloèin, odnosno progon i poticanje na progon Hrvata u Hrtkovcima 1992. godine“, istaknuo je Jovanoviæ.</p><p>“I dok su parlament i mjerodavni neodluèni da zakon primijene, Šešelj i njegova organizacija SRS stigli su tijekom dva tjedna  izazvati incident zbog kojega je hrvatsko izaslanstvo prekinulo posjet Srbiji, isplanirati skup u Hrtkovcima, prijetiti <strong>Nenadu Èanku</strong> i <strong>Tomislavu Žigmanovu</strong>, zastupnicu Aleksandru Jerkov u zastupnièkoj klupi zasuti salvom uvreda i prijetnji, fizièki nasrnuti na predsjednika LSV-a, a potom prijetiti novinarima Oliveri Kovaèeviæ i Ivanu Ivanoviæu”, navodi se u priopæenju.</p><p>SRS je ranije najavio da æe 6. svibnja održati miting u Hrtkovcima u kome je Vojislava Šešelja prije 26 godina, prema pravomoænoj presudi suda u Haagu, poèinio ratni zloèin.</p><p>Meðunarodni sud u Haagu 11. travnja pravomoæno je osudio Šešelja na 10 godina zatvora zbog poticanja progona Hrvata u tom selu 1992. godine.</p><p>Žalbeno vijeæe sudskog Mehanizma zakljuèilo je da je Šešelj govorom, koji je u tom selu održao 6. svibnja 1992., poticao progon, deportaciju i prisilno premještanje Hrvata iz Hrtkovaca.</p><p>Po pravomoænoj presudi, navodi Beta, Šešelj je tim govorom  “poèinio” progon nad Hrvatima “kršenjem prava na sigurnost”.</p>
+<p>Strojobravar iz istoène Hrvatske nedavno je nepravomoæno na jednom Opæinskom sudu osuðen na godinu dana zatvora jer je u ulozi udomitelja bludnièio nad tada 14-godišnjom djevojèicom, adolescenticom s mentalnom retardacijom lakog stupnja, zastojem u razvoju i s poteškoæama prilagodbe.</p><h5><strong>Poèela plakati</strong></h5><p>Krimen tog 62-godišnjaka datira od svibnja 2014. kada je s ciljem zadovoljenja svoga spolnog nagona u svojoj kuæi prišao osnovnoškolki s leða naslonivši glavu na njezin vrat. Potom ju je obgrlio uhvativši je za grudi. Za tužiteljstvo taj inaèe otac troje djece poèinio je kazneno djelo spolnog zlostavljanja i iskorištavanja djeteta, toènije spolnu zloupotrebu djeteta mlaðeg od 15 godina, no udomitelj gnjusni èin negira.</p><p>- Djelatnica Centra za socijalnu skrb po rješenju je dovela u svibnju 2014. u moju kuæu 14-godišnju djevojèicu i njezina sedmogodišnjeg brata. I ne, nisam tu curicu dirao po grudima. Tijekom razgovora u njezinoj sobi, naime, zagrlio sam je kao što zagrlim svako dijete. I stavio sam ruku na njezina ramena. Sjeæam se toga dana, bila je subota, sjedio sam i gledao televiziju, a moja supruga je bila u kuhinji.</p><p>Nazvala me tada mama štiæenièine prijateljice predloživši da prespava kod nje. Razgovarao sam o tome s djevojèicom. Prvo sam se usprotivio, ali sam na kraju popustio jer je poèela plakati govoreæi da nju njezina mama uvijek pušta kod te prijateljice. Na to sam joj rekao da se vrati u nedjelju do ruèka.</p><p>I tada sam je samo zagrlio - isprièao je prokazani udomitelj s krajnjeg istoka Hrvatske. Uvjeren je da ga je štiæenica prijavila nakon što joj je rekao da æe “otiæi na razgovor u Centar za socijalnu skrb radi njezinih izlazaka”.</p><h5><strong>Zatvorio vrata</strong></h5><p>- Onaj dan djevojèica je bila odjevena i prije toga je nisam uopæe grlio. Jednom sam je molio da mi izmasira leða kad sam došao s polja, no tada je tome prisustvovala supruga. I štiæenicu sam zvao u polje da ide sa mnom i ženom, no nije išla - pravdao se dalje udomitelj.</p><p>Prièa, pak, školarke koja je danas na pragu punoljetnosti sasvim je suprotna obrani bivšeg udomitelja. Isprièala je, meðu ostalim, da dok je supruga udomitelja radila, on ju je tražio da ga masira po leðima. Pritom je pokazivao na njoj kako se masira ne bi li mu mogla “uzvratiti” kvalitetnom masažom. Iako se protivila da bude “pokusni kuniæ” govoreæi mu da nju ništa ne boli i da njoj masaža ne treba, udomitelj ju je navodno povukao i inzistirao na masiranju. O neugodnom iskustvu povjerila se prijateljici, a kuæi se vratila tek kad se s posla vratila i udomiteljeva žena.</p><p>A kobne subote koje se na neviniji naèin sjeæa udomitelj, 14-godišnjakinja je, prema vlastitim tvrdnjama, u vrijeme dok je on ušao u sobu oblaèila košulju ispod koje je imala grudnjak i potkošulju. Zatvorio je vrata sobe i uhvatio je za grudi. Glavu je naslonio na vrat, a iako se sklanjala, on nije odustajao od maženja.</p><h5><strong>Prijetio joj</strong></h5><p>Sve to je potrajalo nekoliko minuta. Ona se opirala, ali nije vikala, nego mu je sklanjala ruke, a njegova supruga u to je vrijeme gledala seriju na televiziji. Prijateljici kod koje je odjurila istog trena ništa nije odmah rekla, jer joj je udomitelj zaprijetio da šuti. No kako je prijateljica inzistirala s obzirom na to da se pred njom tresla i plakala, ipak joj je priznala razvratan potez udomitelja.</p><p>A kad je strašna vijest došla do majke u Istri, policija je odmah dignuta na noge.</p><p>Iskazu curice sud je povjerovao, jer “mentalno retardirane osobe nisu sposobne pomnije planirati, predvidjeti posljedice svoga ponašanja pa niti smisliti prièu koja bi išla iz patološke motivacije”.</p><p>
+<div class="e4-sub-article ">
+<section>
+<div>
+<h5><strong>Roditelji nisu vodili brigu o njoj i bratu</strong></h5><p>Školarka i njezin brat završili su u udomiteljskoj obitelji nakon što je curica prijavila oèuha, s kojim ih je ostavila majka dok je sezonski radila u Istri, da ne vodi brigu o njima. Zbog toga je intervenirala i policija. Bio je to potez nakon kojega je 14. svibnja 2014. majka dala suglasnost Centru za socijalnu skrb da se djecu smjesti u udomiteljsku obitelj koja su dva dana kasnije, rješenjem o privremenom smještaju, udomljena kod 62-godišnjaka. Roditelji nesretne školarke razveli su se tri godine nakon njezina roðenja, i to iz financijskih razloga, kako bi mogli ostvarivati materijalna prava. (<em>HKJ</em>)</p>
+</div>
+</section>
+</div>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7284400 p").filter(function () {
+$("#content-body-6263871-7329684 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1299,16 +1323,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7284400").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7329684").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7284400").children().slice(max).remove();
+$("#content-body-6263871-7329684").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7284400").children().get(0);
+var firstChild = $("#content-body-6263871-7329684").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1346,13 +1370,8 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Srbija-1" class ="label label-default" >
-Srbija
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Vojislav_%C5%A0e%C5%A1elj" class ="label label-default" >
-Vojislav Šešelj
+<a href="https://www.jutarnji.hr/tag/seksualno_zlostavljanje" class ="label label-default" >
+seksualno zlostavljanje
 </a>
 </li>
 </ul>
@@ -1363,30 +1382,15 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="svijet media none">
+<article class="nedjeljni media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/jutarnji-u-selu-u-kojem-je-seselj-1992-izazvao-egzodus-hrvata-hvala-bogu-da-su-mu-zabranili-novi-miting-on-ne-treba-biti-u-zatvoru-nego-u-ludnici/7278090/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/nedjeljni/mracne-tajne-iza-samostanskih-zidina-jezivo-svjedocanstvo-zrtve-fratar-je-navaljivao-usprkos-pokusajima-da-se-oduprem-sve-dok-nismo-bili-goli/7321809/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/jutarnji-u-selu-u-kojem-je-seselj-1992-izazvao-egzodus-hrvata-hvala-bogu-da-su-mu-zabranili-novi-miting-on-ne-treba-biti-u-zatvoru-nego-u-ludnici/7278090/">
-JUTARNJI U SELU U KOJEM JE ŠEŠELJ 1992. IZAZVAO EGZODUS HRVATA 'Hvala Bogu da su mu zabranili novi miting, on ne treba biti u zatvoru, nego u ludnici'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="svijet media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/seselj-uvrijedio-zastupnicu-demokrata-najavio-odlazak-u-hrtkovce-ako-nas-policija-napadne-mi-cemo-koristiti-nase-stare-taktike-snalazljivi-smo/7281333/" data-widget-title="" data-web-position="box"
-data-widget-position="1">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/seselj-uvrijedio-zastupnicu-demokrata-najavio-odlazak-u-hrtkovce-ako-nas-policija-napadne-mi-cemo-koristiti-nase-stare-taktike-snalazljivi-smo/7281333/">
-ŠEŠELJ UVRIJEDIO ZASTUPNICU DEMOKRATA, NAJAVIO ODLAZAK U HRTKOVCE 'Ako nas policija napadne, mi æemo koristiti naše stare taktike. Snalažljivi smo'
+<a href="https://www.jutarnji.hr/nedjeljni/mracne-tajne-iza-samostanskih-zidina-jezivo-svjedocanstvo-zrtve-fratar-je-navaljivao-usprkos-pokusajima-da-se-oduprem-sve-dok-nismo-bili-goli/7321809/">
+MRAÈNE TAJNE IZA SAMOSTANSKIH ZIDINA: Jezivo svjedoèanstvo žrtve: 'Fratar je navaljivao usprkos pokušajima da se oduprem, sve dok nismo bili goli...'
 </a>
 </h4>
 </li>
@@ -1408,13 +1412,13 @@ data-widget-position="1">
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1426,8 +1430,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1439,13 +1443,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1457,8 +1461,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1470,13 +1474,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1488,8 +1492,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1501,17 +1505,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1519,9 +1523,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1603,7 +1606,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7284400" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7329684" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1647,19 +1650,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/">
-POZADINA STRAŠNOG ZLOÈINA
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/">
+ŠAROLIKA SEKSI PONUDA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/">
-ŠTO SE ZNA O NAPADAÈU IZ TORONTA? Istražitelji zavirili u povijest èovjeka koji je usred bijela dana ubio 10 ljudi i tek sada im ništa nije jasno
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/mjesecima-slusali-razgovore-djevojaka-i-bivsih-nogometasa-razbijen-unosni-lanac-prostitucije-u-zagrebu-osim-sportasa-klijenti-su-bili-i-menadzeri/7329702/">
+MJESECIMA SLUŠALI RAZGOVORE DJEVOJAKA I BIVŠIH NOGOMETAŠA Razbijen unosni lanac prostitucije u Zagrebu, osim sportaša klijenti su bili i menadžeri
 </a>
 </h4>
 </div>
@@ -1669,19 +1672,19 @@ POZADINA STRAŠNOG ZLOÈINA
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/">
-ŠOKANTNO UHIÆENJE
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/">
+ODLUKA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/">
-POLICAJCI SKOÈILI NA DJEVOJKU I POBRINULI SE DA CIJELI RESTORAN VIDI NJEZINE GRUDI Snimka izazvala val negodovanja u Americi: 'Gušiš me!'
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/srusena-oslobadajuca-presuda-horvatincicu-sinkopa-nije-dokazana-zakljucak-suda-da-su-ubijeni-talijani-suodgovorni-za-nesrecu-odbacen-kao-iracionalan/7333965/">
+SRUŠENA OSLOBAÐAJUÆA PRESUDA HORVATINÈIÆU: SINKOPA NIJE DOKAZANA Zakljuèak suda da su ubijeni Talijani suodgovorni za nesreæu odbaèen kao iracionalan
 </a>
 </h4>
 </div>
@@ -1691,19 +1694,19 @@ POLICAJCI SKOÈILI NA DJEVOJKU I POBRINULI SE DA CIJELI RESTORAN VIDI NJEZINE GRU
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/">
-SAM U KUÆI UŽIVO
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/">
+DEGUTANTNO
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/">
-'IDEM U ŠKOLU. ÆAO!' Djeèak (12) nakon rasprave s roditeljima odluèio preuzeti stvar u svoje ruke, pronašli ga u turistièkom raju na drugom kontinentu
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkriveno-stravicno-zlostavljanje-na-internetu-djevojcicu-iz-dubrovnika-koja-je-izgubila-oba-roditelja-vrsnjaci-zasuli-odvratnim-porukama/7331208/">
+OTKRIVENO STRAVIÈNO ZLOSTAVLJANJE NA INTERNETU: Djevojèicu iz Dubrovnika koja je izgubila oba roditelja vršnjaci zasuli odvratnim porukama
 </a>
 </h4>
 </div>
@@ -1713,19 +1716,19 @@ SAM U KUÆI UŽIVO
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="svijet media c11a none">
+<article class="crna-kronika media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/">
-NAPAD U KANADI
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/">
+NAORUŽAN DO ZUBA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/">
-KRVOPROLIÆE U SREDIŠTU TORONTA, VOZAÈ KOMBIJEM JURIO ULICOM I GAZIO SVE PRED SOBOM, POKOSIO DESETKE PJEŠAKA Najmanje 10 mrtvih, veæi broj ranjenih
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/kako-je-pomahnitali-nasilnik-zatocio-cijelo-baranjsko-selo-svako-malo-pucao-policajci-u-panici-bjezali-u-jednom-je-trenu-specijalac-viknuo-bomba/7333413/">
+KAKO JE POMAHNITALI NASILNIK ZATOÈIO CIJELO BARANJSKO SELO: Svako malo pucao, policajci u panici bježali: U jednom je trenu specijalac viknuo - BOMBA!
 </a>
 </h4>
 </div>
@@ -1763,19 +1766,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1783,8 +1786,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1848,12 +1851,12 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
 Crna kronika
 </a>
@@ -1871,6 +1874,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2160,11 +2168,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2212,14 +2215,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2263,34 +2266,23 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7284400&type=article&title=%26%23039%3bNE%c4%86EMO+DOPUSTITI+DA+SE+PONOVE+HRTKOVCI%26%23039%3b+Demokratska+stranka+i+Liga+socijaldemokrata+Vojvodine+najavili+da+%c4%87e+sprije%c4%8diti+%c5%a0e%c5%a1elja+u+odr%c5%beavanju+skupa&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fnecemo-dopustiti-da-se-ponove-hrtkovci-demokratska-stranka-i-liga-socijaldemokrata-vojvodine-najavili-da-ce-sprijeciti-seselja-u-odrzavanju-skupa%2f7284400%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=19&contextPath=1-16-19-&pubId=1&cat=&meta=read-story&objId=7329684&type=article&title=UDOMITELJ+(62)+DOBIO+GODINU+DANA+ZATVORA%3a+PIPKAO+CURICU+%26%23039%3bZagrlio+sam+svoju+%c5%a1ti%c4%87enicu+kao+%c5%a1to+bih+zagrlio+svako+dijete%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fudomitelj-62-dobio-godinu-dana-zatvora-pipkao-curicu-zagrlio-sam-svoju-sticenicu-kao-sto-bih-zagrlio-svako-dijete%2f7329684%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7284400&amp;type=article&amp;title=%26%23039%3bNE%c4%86EMO+DOPUSTITI+DA+SE+PONOVE+HRTKOVCI%26%23039%3b+Demokratska+stranka+i+Liga+socijaldemokrata+Vojvodine+najavili+da+%c4%87e+sprije%c4%8diti+%c5%a0e%c5%a1elja+u+odr%c5%beavanju+skupa&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fnecemo-dopustiti-da-se-ponove-hrtkovci-demokratska-stranka-i-liga-socijaldemokrata-vojvodine-najavili-da-ce-sprijeciti-seselja-u-odrzavanju-skupa%2f7284400%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=19&amp;contextPath=1-16-19-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7329684&amp;type=article&amp;title=UDOMITELJ+(62)+DOBIO+GODINU+DANA+ZATVORA%3a+PIPKAO+CURICU+%26%23039%3bZagrlio+sam+svoju+%c5%a1ti%c4%87enicu+kao+%c5%a1to+bih+zagrlio+svako+dijete%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fcrna-kronika%2fudomitelj-62-dobio-godinu-dana-zatvora-pipkao-curicu-zagrlio-sam-svoju-sticenicu-kao-sto-bih-zagrlio-svako-dijete%2f7329684%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=795241978&title=Vojislav+%c5%a0e%c5%a1elj&url=tag%3ajltags%40eph.hr%2c2016%3aVojislav_%25C5%25A0e%25C5%25A1elj&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&cat=jltags%40eph.hr%2c2016&objId=810489071&title=seksualno+zlostavljanje&url=tag%3ajltags%40eph.hr%2c2016%3aseksualno_zlostavljanje&rt=1&ctxId=19&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=795241978&amp;title=Vojislav+%c5%a0e%c5%a1elj&amp;url=tag%3ajltags%40eph.hr%2c2016%3aVojislav_%25C5%25A0e%25C5%25A1elj&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=344509447&title=Srbija&url=tag%3ajltags%40eph.hr%2c2016%3aSrbija-1&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=344509447&amp;title=Srbija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSrbija-1&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-19-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=810489071&amp;title=seksualno+zlostavljanje&amp;url=tag%3ajltags%40eph.hr%2c2016%3aseksualno_zlostavljanje&amp;rt=1&amp;ctxId=19&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2343,7 +2335,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/necemo-dopustiti-da-se-ponove-hrtkovci-demokratska-stranka-i-liga-socijaldemokrata-vojvodine-najavili-da-ce-sprijeciti-seselja-u-odrzavanju-skupa/7284400/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/crna-kronika/udomitelj-62-dobio-godinu-dana-zatvora-pipkao-curicu-zagrlio-sam-svoju-sticenicu-kao-sto-bih-zagrlio-svako-dijete/7329684/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2353,14 +2345,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/svijet/necemo-dopustiti-da-se-ponove-hrtkovci-demokratska-stranka-i-liga-socijaldemokrata-vojvodine-najavili-da-ce-sprijeciti-seselja-u-odrzavanju-skupa/7284400/",
-postId : "7284400",
+url : "https://www.jutarnji.hr/vijesti/crna-kronika/udomitelj-62-dobio-godinu-dana-zatvora-pipkao-curicu-zagrlio-sam-svoju-sticenicu-kao-sto-bih-zagrlio-svako-dijete/7329684/",
+postId : "7329684",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "'NEÆEMO DOPUSTITI DA SE PONOVE HRTKOVCI' Demokratska stranka i Liga socijaldemokrata Vojvodine najavili da æe sprijeèiti Šešelja u održavanju skupa",
-pubdate : "2018-04-25 11:21",
-authors : "Hina",
-sections : "Svijet",
-tags : "Vojislav Šešelj, Srbija",
+title : "UDOMITELJ (62) DOBIO GODINU DANA ZATVORA: PIPKAO CURICU 'Zagrlio sam svoju štiæenicu kao što bih zagrlio svako dijete'",
+pubdate : "2018-05-08 23:33",
+authors : "Hajdi Karakaš Jakubin",
+sections : "Front Page, Crna kronika",
+tags : "seksualno zlostavljanje",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

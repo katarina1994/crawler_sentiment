@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Zapadni diplomati kazali su u srijedu da su Velika Britanija, Njemaèka i Francuska blizu dogovora o paketu mjera koji æe predložiti amerièkom predsjedniku Donaldu Trumpu ne bi li ga uvjerili da ne raskine sporazum s Iranom o njegovu nuklearnom programu." />
-<meta name="keywords" content="Iran, nuklearni program, Donald Trump" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Ujedinjeni narodi, Europska unija i potpisnice nuklearnog sporazuma s Iranom te regionalni èelnici izrazili su u utorak naveèer žaljenje i zabrinutost zbog amerièke odluke o povlaèenju, no ona je obradovala Izrael i Saudijsku Arabiju." />
+<meta name="keywords" content="Iran, Donald Trump" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>TJEDNI NAS DIJELE OD TRENUTKA KADA BI SVIJET MOGAO UTONUTI U KAOS Na pomolu slom kljuènog sporazuma kojim je jednom veæ izbjegnut sukob veæih razmjera - Jutarnji List</title>
+<title>TRUMP IZOLIRAO AMERIKU, SVIJET ZAPREPAŠTEN NJEGOVOM ODLUKOM DA SE POVUÈE IZ NUKLEARNOG SPORAZUMA Samo su dvije države podržale takav potez - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -207,7 +207,7 @@ var dfpGalleryUnitNum = 0;
 var dfpCategory = "Svijet";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7286176";
+var dfpArticle = "7335222";
 var dfpArticleKeyword = "Iran";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/tjedni-nas-dijele-od-trenutka-kada-bi-svijet-mogao-utonuti-u-kaos-na-pomolu-slom-kljucnog-sporazuma-kojim-je-jednom-vec-izbjegnut-sukob-vecih-razmjera/7286176/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/tjedni-nas-dijele-od-trenutka-kada-bi-svijet-mogao-utonuti-u-kaos-na-pomolu-slom-kljucnog-sporazuma-kojim-je-jednom-vec-izbjegnut-sukob-vecih-razmjera/7286176/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/trump-izolirao-ameriku-svijet-zaprepasten-njegovom-odlukom-da-se-povuce-iz-nuklearnog-sporazuma-samo-su-dvije-drzave-podrzale-takav-potez/7335222/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/trump-izolirao-ameriku-svijet-zaprepasten-njegovom-odlukom-da-se-povuce-iz-nuklearnog-sporazuma-samo-su-dvije-drzave-podrzale-takav-potez/7335222/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/2018-01-10t194245z_1660459957_hp1ee1a1ir80t_rtrmadp_3_usa-norwayjpg/6924678/ALTERNATES/LANDSCAPE_1180/2018-01-10T194245Z_1660459957_HP1EE1A1IR80T_RTRMADP_3_USA-NORWAY.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/profimedia-0370974162jpg/7335234/ALTERNATES/LANDSCAPE_1180/profimedia-0370974162.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/2018-01-10t194245z_1660459957_hp1ee1a1ir80t_rtrmadp_3_usa-norwayjpg/6924678/ALTERNATES/LANDSCAPE_1180/2018-01-10T194245Z_1660459957_HP1EE1A1IR80T_RTRMADP_3_USA-NORWAY.jpg">
-<meta property="og:title" content="TJEDNI NAS DIJELE OD TRENUTKA KADA BI SVIJET MOGAO UTONUTI U KAOS Na pomolu slom kljuènog sporazuma kojim je jednom veæ izbjegnut sukob veæih razmjera" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/profimedia-0370974162jpg/7335234/ALTERNATES/LANDSCAPE_1180/profimedia-0370974162.jpg">
+<meta property="og:title" content="TRUMP IZOLIRAO AMERIKU, SVIJET ZAPREPAŠTEN NJEGOVOM ODLUKOM DA SE POVUÈE IZ NUKLEARNOG SPORAZUMA Samo su dvije države podržale takav potez" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/tjedni-nas-dijele-od-trenutka-kada-bi-svijet-mogao-utonuti-u-kaos-na-pomolu-slom-kljucnog-sporazuma-kojim-je-jednom-vec-izbjegnut-sukob-vecih-razmjera/7286176/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/trump-izolirao-ameriku-svijet-zaprepasten-njegovom-odlukom-da-se-povuce-iz-nuklearnog-sporazuma-samo-su-dvije-drzave-podrzale-takav-potez/7335222/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Zapadni diplomati kazali su u srijedu da su Velika Britanija, Njemaèka i Francuska blizu dogovora o paketu mjera koji æe predložiti amerièkom predsjedniku Donaldu Trumpu ne bi li ga uvjerili da ne raskine sporazum s Iranom o njegovu nuklearnom programu." />
+<meta property="og:description" content="Ujedinjeni narodi, Europska unija i potpisnice nuklearnog sporazuma s Iranom te regionalni èelnici izrazili su u utorak naveèer žaljenje i zabrinutost zbog amerièke odluke o povlaèenju, no ona je obradovala Izrael i Saudijsku Arabiju." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="TJEDNI NAS DIJELE OD TRENUTKA KADA BI SVIJET MOGAO UTONUTI U KAOS Na pomolu slom kljuènog sporazuma kojim je jednom veæ izbjegnut sukob veæih razmjera">
-<meta name="twitter:description" content="Zapadni diplomati kazali su u srijedu da su Velika Britanija, Njemaèka i Francuska blizu dogovora o paketu mjera koji æe predložiti amerièkom predsjedniku Donaldu Trumpu ne bi li ga uvjerili da ne raskine sporazum s Iranom o njegovu nuklearnom programu.">
+<meta name="twitter:title" content="TRUMP IZOLIRAO AMERIKU, SVIJET ZAPREPAŠTEN NJEGOVOM ODLUKOM DA SE POVUÈE IZ NUKLEARNOG SPORAZUMA Samo su dvije države podržale takav potez">
+<meta name="twitter:description" content="Ujedinjeni narodi, Europska unija i potpisnice nuklearnog sporazuma s Iranom te regionalni èelnici izrazili su u utorak naveèer žaljenje i zabrinutost zbog amerièke odluke o povlaèenju, no ona je obradovala Izrael i Saudijsku Arabiju.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -690,7 +690,7 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Svijet, Vijesti, Front Page",
-pubdate: "2018-04-25T17:27+02:00",
+pubdate: "2018-05-09T00:17+02:00",
 author: "Hina",
 object_type: "article",
 custom_sponsored: 0
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1167,6 +1172,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 </nav>
@@ -1204,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-NUKLEARNI SPORAZUM
+GLOBALNA NEIZVJESNOST
 </p>
 <h1
 class="title">
-TJEDNI NAS DIJELE OD TRENUTKA KADA BI SVIJET MOGAO UTONUTI U KAOS Na pomolu slom kljuènog sporazuma kojim je jednom veæ izbjegnut sukob veæih razmjera
+TRUMP IZOLIRAO AMERIKU, SVIJET ZAPREPAŠTEN NJEGOVOM ODLUKOM DA SE POVUÈE IZ NUKLEARNOG SPORAZUMA Samo su dvije države podržale takav potez
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1224,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 17:27
+09.05.2018. u 00:17
 </p>
 </li>
 </ul>
@@ -1236,21 +1246,21 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/2018-01-10t194245z_1660459957_hp1ee1a1ir80t_rtrmadp_3_usa-norwayjpg/6924678" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/profimedia-0370974162jpg/7335234" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/2018-01-10t194245z_1660459957_hp1ee1a1ir80t_rtrmadp_3_usa-norwayjpg/6924678/ALTERNATES/LANDSCAPE_380/2018-01-10T194245Z_1660459957_HP1EE1A1IR80T_RTRMADP_3_USA-NORWAY.jpg"
+<img src="https://www.jutarnji.hr/incoming/profimedia-0370974162jpg/7335234/ALTERNATES/LANDSCAPE_380/profimedia-0370974162.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/2018-01-10t194245z_1660459957_hp1ee1a1ir80t_rtrmadp_3_usa-norwayjpg/6924678/BINARY/thumbnail/2018-01-10T194245Z_1660459957_HP1EE1A1IR80T_RTRMADP_3_USA-NORWAY.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/profimedia-0370974162jpg/7335234/BINARY/thumbnail/profimedia-0370974162.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="U.S. President Donald Trump speaks to the media as he meets with Norwegian Prime Minister Erna Solberg in the Oval Office at the White House in Washington, U.S., January 10, 2018. REUTERS/Jonathan Ernst"
+alt="U.S. President Donald Trump speaks about the Iran nuclear deal, also known as the Joint Comprehensive Plan of Action during an event in the Diplomatic Room of the White House May 8, 2018 in Washington, DC., Image: 370974162, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Abaca"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Jonathan Ernst / REUTERS
+<span> Profimedia, Abaca
 </span>
 </div>
 </div>
@@ -1282,14 +1292,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7286176"
+<div id="content-body-6263871-7335222"
 >
-<p>Zapadni diplomati kazali su u srijedu da su Velika Britanija, Njemaèka i Francuska blizu dogovora o paketu mjera koji æe predložiti amerièkom predsjedniku <strong>Donaldu Trumpu</strong> ne bi li ga uvjerili da ne raskine sporazum s Iranom o njegovu nuklearnom programu.</p><p>Trump tvrdi da je meðunarodni sporazum s Iranom iz 2015. najgori sporazum ikad i prijeti da æe ga raskinuti ponovnim uvoðenjem sankcija iduæi mjesec.</p><p>Rusija, Kina, Njemaèka, Britanija i Francuska, koje su zajedno s SAD-om potpisale sporazum s Iranom, odluène su ga spasiti, smatrajuæi da je to najbolji naèin da se Iran sprijeèi da razvije nuklearno oružje.</p><p>Zapadni diplomati kazali su Reutersu u srijedu da su tromjeseèni sastanci iza zatvorenih vrata kulminirali paketom mjera koje bi se moglo poduzeti protiv Irana u nadi da æe se time umiriti Trumpa i saèuvati sporazum.</p><p>&quot;Rijeè je o tome da se uvjeri predsjednika Trumpa, to nije novi sporazum s Iranom&quot;, rekao je jedan visoki europski diplomat.</p><p>Za razliku od Trumpa, koji je u utorak ponovno kritizirao sporazum, Britanija, Francuska i Njemaèka ne žele da se o njemu ponovno pregovara u cijelosti.</p><p>Umjesto toga oni nastoje razraditi razne druge mjere u suglasnosti s SAD-om koje bi se odnosile na podruèja koja nisu obuhvaæena nuklearnim sporazumom, uglavnom na potporu Irana sirijskom režimu i iranski program projektila.</p><p>To bi moglo ukljuèivati nove europske sankcije, kazali su diplomati.</p><p>Nove mjere mogle bi takoðer ukljuèivati odredbe koje bi poveæale vrijeme potrebno Iranu za razvoj nuklearnog oružja u buduænosti, premda se taj aspekt pregovora pokazao najtežim, kazali su.</p><p>Dvojica europskih diplomata kazala su da je plan uglavnom na tragu snažnijih mjera protiv Irana o kojima je francuski predsjednik <strong>Emmanuel Macron </strong>razgovarao s Trumpom u utorak u Bijeloj kuæi.</p><p>Iranski predsjednik <strong>Hassan Rouhani</strong> rekao je ranije da strane sile nemaju pravo dirati u sporazum i doveo u pitanje Trumpove kvalifikacije da to èini.</p><p>Trump je postavio rok do 12. svibnja do kada europske zemlje trebaju postiæi dogovor o &quot;otklanjanju strašnih manjkavosti&quot; u tom sporazumu ili æe odobriti ponovno uvoðenje sankcija.</p><p>&quot;Nemate nikakvo iskustvo u politici. Nemate nikakvo iskustvo u pravu. Nemate nikakvo iskustvo kada je rijeè o meðunarodnim sporazumima&quot;, rekao je Rouhani, govoreæi o Trumpu.</p><p>&quot;Kako može jedan trgovac, graðevinar, graditelj tornjeva donositi sudove o meðunarodnim pitanjima&quot;, dodao je.</p><p>Rouhani je rekao da je veæ prije razgovarao s Macronom o tome i naglasio da neæe pristati na bilo kakve promjene sporazuma.</p><p>&quot;Iskreno sam mu rekao da nuklearnom sporazumu neæe biti dodana niti oduzeta niti jedna reèenica. Dogovor je dogovor.&quot;</p><p>Njemaèka kancelarka <strong>Angela Merkel</strong> razgovarat æe potkraj tjedna o tome s Trumpom u Washingtonu.</p><p>Visoki iranski dužnosnici opetovano poruèuju da se o iranskom raketnom programu ne može pregovarati.</p>
+<p>Ujedinjeni narodi, Europska unija i potpisnice nuklearnog sporazuma s Iranom te regionalni èelnici izrazili su u utorak naveèer žaljenje i zabrinutost zbog amerièke odluke o povlaèenju, no ona je obradovala Izrael i Saudijsku Arabiju.</p><p>Sporazum izmeðu Irana i šest sila (Sjedinjene Države, Francuska, Kina, Njemaèka, Rusija i Velika Britanija) iz 2015. ogranièava iranski program obogaæivanja uranija kako se ne bi mogao upotrijebiti za razvoj atomskog oružja, a zauzvrat su Iranu ublažene meðunarodne sankcije, kojih je veæina ukinuta u sijeènju 2016., no amerièki predsjednik <strong>Donald Trump</strong> redovito je isticao da je sporazum &quot;katastrofalan&quot; i pozvao na ispravljanje po njemu užasnih nedostataka prijeteæi da æe se u protivnom povuæi.</p><p>Iranski predsjednik <strong>Hasan Rohani </strong>odmah je u utorak naveèer objavio da æe Iran ostati dio meðunarodnog nuklearnog sporazuma, ali i upozorio da bi njegova zemlja mogla okonèati ogranièenja na koja je pristala u vezi svojih aktivnosti obogaæivanja uranija pošto je Washington objavio da se povlaèi iz nuklearnog sporazuma iz 2015.</p><p>Rohani je rekao da ovo nije prvi put kako je Trump pokazao da ne poštuje meðunarodne ugovore. Najavio je da æe ubrzo razgovarati s Europljanima, Kinezima i Rusima da vidi mogu li Rusi jamèiti interese Irana nakon povlaèenja SAD-a.</p><p>Iranski mediji nazvali su Trumpovu odluku &quot;nezakonitom, pogrešnom i (odlukom) koja obezvreðuje meðunarodne sporazume&quot;. </p><p>Bivši amerièki predsjednik <strong>Barack Obama</strong>, koji je i zaslužan za postizanje sporazuma s Iranom, izrazio je žaljenje zbog povlaèenja koje je nazvao &quot;pogrešnim&quot;.</p><p>&quot;Vjerujem da je odluka da se JCPOA dovede u opasnost, a da Iran pritom nije prekršio sporazum, ozbiljna pogreška&quot;, objavio je Obama.</p><h5><strong>UN</strong></h5><p>Glavni tajnik Ujedinjenih naroda pozvao je preostale potpisnice iranskog nuklearnog sporazuma iz 2015. da &quot;u potpunosti poštuju svoje obveze&quot; nakon povlaèenja SAD-a.</p><p>&quot;Duboko sam zabrinut objavom povlaèenja Sjedinjenih Država iz tog sporazuma i nastavkom amerièkih sankcija&quot;, naglasio je u priopæenju glavni tajnik Ujedinjenih naroda <strong>Antonio Guterres</strong>. &quot;Bitno je da sve zabrinutosti glede provedbe plana budu rješavane kroz mehanizme koji su uspostavljeni sporazumom JCPOA&quot;, rekao je Guterres.</p><p>Njegov prethodnik na dužnosti <strong>Ban Ki-moon</strong> napisao je u priopæenju da je &quot;Vijeæe sigurnosti UN-a jednoglasno ratificiralo sporazum; nijedna zemlja nema pravo sama ga proglasiti mrtvim&quot;.</p><h5><strong>EU</strong></h5><p>Europska unija odgovorit æe jednoglasno amerièkom predsjedniku, poruèio je predsjednik Europskog vijeæa <strong>Donald Tusk</strong>.</p><p>&quot;Èelnici EU æe se tim pitanjima (iranskim sporazumom i politikom Donalda Trumpa) baviti na summitu u Sofiji iduæi tjedan&quot;, napisao je Tusk na Twitteru.</p><p>Visoka predstavnica EU za vanjsku i sigurnosnu politiku <strong>Federica Mogherini</strong> izrazila je žaljenje zbog Trumpove odluke i obratila se iranskom narodu.</p><p>&quot;Sve dok Iran nastavlja ispunjavati svoje obveze, kao što je dosad èinio, Europska unija ostaje privržena punoj i uèinkovitoj provedbi nuklearnog sporazuma&quot;, izjavila je Mogherini, obraæajuæi se iz predstavništva EU u Rimu.</p><p>&quot;Zakljuèila bih s porukom iranskim graðanima i èelnicima, svakome od njih pojedinaèno. Ne dopustite nikome da razori ovaj sporazum. On je jedan od najveæih postignuæa koje je diplomacija ikada postigla. To smo postigli zajedno. On je dokaz da su moguæa obostrano dobitna rješenja kroz dijalog, angažman i upornost&quot;, rekla je Mogherini koja oèekuje od ostatka meðunarodne zajednice nastavak provedbe sporazuma.</p><p>Velika Britanija, Njemaèka i Francuska, tri èlanice EU i potpisnice sporazuma izrazile su žaljenje zbog amerièke odluke i pozvale Washington da ne poduzima korake kojima æe otežati život drugim zemljama koje još žele ostati privržene nuklearnom sporazumu, objavili su èelnici triju zemalja u utorak naveèer.</p><p>Pritiske u tom smislu pokazala je poruka novog amerièkog veleposlanika u Njemaèkoj, <strong>Richarda Grenella</strong>, koji se oglasio na Twitteru.</p><p>&quot;Njemaèke kompanije koje posluju s Iranom trebale bi odmah smanjiti svoje operacije&quot;, napisao je Grenell.</p><h5><strong>Rusija, Turska, Sirija</strong></h5><p>Rusija je &quot;duboko razoèarana&quot; odlukom predsjednika Trumpa, objavilo je ministarstvo vanjskih poslova i osudilo &quot;grubo kršenje meðunarodnog prava&quot;.</p><p>&quot;Duboko smo razoèarani odlukom amerièkog predsjednika da se jednostrano povuèe&quot; iz sporazuma i &quot;vrati amerièke sankcije Iranu&quot;, priopæilo je ministarstvo i izrazilo &quot;krajnju zabrinutost jer SAD postupaju protivno mišljenju veæine država... grubo kršeæi standarde meðunarodnog prava&quot;.</p><p>Rusija æe nastaviti ulagati napore da održi uèinkovitim iranski nuklearni sporazum, rekao je <strong>Vladimir Èižov</strong>, ruski izaslanik pri Europskoj uniji.</p><p>Glasnogovornik turskog predsjednika <strong>Recepa Tayyipa Erdogana</strong> rekao je da æe amerièko povlaèenje izazvati nestabilnost i nove sukobe. Glasnogovornik <strong>Ibrahim Kalin</strong> rekao je da æe se meðunarodni sporazum nastaviti s drugim nacijama i dodao da æe se Turska nastaviti protiviti svim oblicima nuklearnog oružja.</p><p>Sirija je &quot;odluèno osudila&quot; vijest o istupanju Sjedinjenih Država iz iranskog nuklearnog sporazuma, izrazivši svoju &quot;punu solidarnost&quot; s Teheranom i povjerenje u sposobnost Irana da ukloni posljedice &quot;agresivnog stajališta&quot; Washingtona.</p><p>Odluka o &quot;istupanju još jednom pokazuje da SAD ne poštuje svoje obveze i meðunarodne ugovore&quot;, rekao je službeni izvor u sirijskom ministarstvu vanjskih poslova, a prenijela službena agencija Sana.</p><p>Izrazio je &quot;punu potporu (Damaska) Iranskoj Islamskoj Republici (...) i povjerenje u njezinu sposobnost da ukloni posljedice agresivnog stajališta amerièke administracije koja ugrožava sigurnost i stabilnost regije i svijeta&quot;.</p><h5><strong>Izrael i Saudijska Arabija èestitaju Trumpu</strong></h5><p>Izraelski premijer <strong>Benjamin Netanyahu</strong> je rekao u utorak da u potpunosti podržava amerièko povlaèenje iz nuklearnog sporazuma s Iranom, dok je dio Golana koji je zauzeo Izrael pod povišenim stanjem uzbune zbog moguænosti iranskog napada iz Sirije.</p><p>Netanyahu je Trumpovu odluku nazvao &quot;hrabrom  i povijesnom&quot; i zato &quot;izrael zahvaljuje predsjedniku Trumpu na njegovu hrabrom vodstvu, njegovoj spremnosti da se suprotstavi teroristièkom režimu u Teheranu i predanosti da uèini sve kako Iran nikada ne bi razvio nuklearno oružje ni danas ni za deset godina, nikada&quot;.</p><p>Izraelska vojska je navela da je tražila od lokalnih vlasti na Golanu da otvore i pripreme skloništa za raketne napade, zbog neuobièajenih aktivnosti iranskih snaga u Siriji, s druge strane linije razgranièenja. Izrael je rasporedio sustave proturaketne obrane i postavio svoje snage u stanje povišene uzbune zbog opasnosti napada, navela je izraelska vojska.</p><p>Ništa ne omoguæuje provjeru neposrednosti prijetnje dok Izrael tjednima govori da je spremam na moguæi iranski napad iz Sirije, vjerojatno raketni, kao odgovor na nedavne napade koji se pripisuju Izraelu u Siriji, u kojima su stradali Iranci.</p><p>Sam Izrael je, prema izvješæima sa sirijske strane, nedugo nakon Trumpova obraæanja raketirao prigradska naselja u Damasku, odnosno tamošnja vojna postrojenja.</p><p>Saudijska Arabija, regionalni suparnik Irana i veliki saveznik Sjedinjenih Država, izjavila je u utorak da &quot;podržava i pozdravlja&quot; odluku amerièkog predsjednika Donalda Trumpa da se povuèe iz iranskog nuklearnog sporazuma.</p><p>&quot;Kraljevstvo podržava i pozdravlja korake koje je najavio amerièki predsjednik u smjeru povlaèenja iz nuklearnog sporazuma&quot;, navodi se.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7286176 p").filter(function () {
+$("#content-body-6263871-7335222 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1298,16 +1308,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7286176").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7335222").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7286176").children().slice(max).remove();
+$("#content-body-6263871-7335222").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7286176").children().get(0);
+var firstChild = $("#content-body-6263871-7335222").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1350,11 +1360,6 @@ Donald Trump
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/nuklearni_program" class ="label label-default" >
-nuklearni program
-</a>
-</li>
-<li>
 <a href="https://www.jutarnji.hr/tag/Iran" class ="label label-default" >
 Iran
 </a>
@@ -1369,13 +1374,13 @@ Vezane vijesti
 <section>
 <article class="svijet media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-posprdno-i-prezirno-o-nuklearnom-sporazumu-koji-je-s-iranom-ispregovarao-obama-taj-dogovor-je-uzasan-potpuno-bezuman/7282957/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/obama-nakon-trumpovog-poteza-ucinio-nesto-sto-bivsi-americki-predsjednici-ne-rade-gotovo-nikada-ovo-je-ozbiljna-pogreska/7334799/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/trump-posprdno-i-prezirno-o-nuklearnom-sporazumu-koji-je-s-iranom-ispregovarao-obama-taj-dogovor-je-uzasan-potpuno-bezuman/7282957/">
-TRUMP POSPRDNO I PREZIRNO O NUKLEARNOM SPORAZUMU KOJI JE S IRANOM ISPREGOVARAO OBAMA 'Taj dogovor je užasan, potpuno bezuman'
+<a href="https://www.jutarnji.hr/vijesti/svijet/obama-nakon-trumpovog-poteza-ucinio-nesto-sto-bivsi-americki-predsjednici-ne-rade-gotovo-nikada-ovo-je-ozbiljna-pogreska/7334799/">
+OBAMA NAKON TRUMPOVOG POTEZA UÈINIO NEŠTO ŠTO BIVŠI AMERIÈKI PREDSJEDNICI NE RADE GOTOVO NIKADA 'Ovo je ozbiljna pogreška'
 </a>
 </h4>
 </li>
@@ -1397,13 +1402,13 @@ TRUMP POSPRDNO I PREZIRNO O NUKLEARNOM SPORAZUMU KOJI JE S IRANOM ISPREGOVARAO O
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1415,8 +1420,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1428,13 +1433,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1446,8 +1451,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1459,13 +1464,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1477,8 +1482,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1490,17 +1495,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1508,9 +1513,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1592,7 +1596,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7286176" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7335222" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1638,17 +1642,17 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <section>
 <article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/">
-POZADINA STRAŠNOG ZLOÈINA
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+SAMO NEK' SE OKREÆE...
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/sto-se-zna-o-napadacu-iz-toronta-istrazitelji-zavirili-u-povijest-covjeka-koji-je-usred-bijela-dana-ubio-10-ljudi-i-tek-sada-im-nista-nije-jasno/7279875/">
-ŠTO SE ZNA O NAPADAÈU IZ TORONTA? Istražitelji zavirili u povijest èovjeka koji je usred bijela dana ubio 10 ljudi i tek sada im ništa nije jasno
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
 </a>
 </h4>
 </div>
@@ -1660,17 +1664,17 @@ POZADINA STRAŠNOG ZLOÈINA
 <section>
 <article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/">
-ŠOKANTNO UHIÆENJE
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+NE CVATU IM RUŽE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/policajci-skocili-na-djevojku-i-pobrinuli-se-da-cijeli-restoran-vidi-njezine-grudi-snimka-izazvala-val-negodovanja-u-americi-gusis-me/7278969/">
-POLICAJCI SKOÈILI NA DJEVOJKU I POBRINULI SE DA CIJELI RESTORAN VIDI NJEZINE GRUDI Snimka izazvala val negodovanja u Americi: 'Gušiš me!'
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+RAZOTKRIVENA TUŽNA SVAKODNEVNICA PRVE DAME AMERIKE Objavljeni nepoznati detalji iz života Melanije Trump: 'Cijela situacija je neugodna'
 </a>
 </h4>
 </div>
@@ -1682,17 +1686,17 @@ POLICAJCI SKOÈILI NA DJEVOJKU I POBRINULI SE DA CIJELI RESTORAN VIDI NJEZINE GRU
 <section>
 <article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/">
-SAM U KUÆI UŽIVO
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+GLOBALNA NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/idem-u-skolu-cao-djecak-12-nakon-rasprave-s-roditeljima-odlucio-preuzeti-stvar-u-svoje-ruke-pronasli-ga-u-turistickom-raju-na-drugom-kontinentu/7280436/">
-'IDEM U ŠKOLU. ÆAO!' Djeèak (12) nakon rasprave s roditeljima odluèio preuzeti stvar u svoje ruke, pronašli ga u turistièkom raju na drugom kontinentu
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
 </a>
 </h4>
 </div>
@@ -1704,17 +1708,17 @@ SAM U KUÆI UŽIVO
 <section>
 <article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/">
-NAPAD U KANADI
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+PRIJELOMNI TRENUTAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/svijet/krvoprolice-u-sredistu-toronta-vozac-kombijem-jurio-ulicom-i-gazio-sve-pred-sobom-pokosio-desetke-pjesaka-najmanje-10-mrtvih-veci-broj-ranjenih/7278186/">
-KRVOPROLIÆE U SREDIŠTU TORONTA, VOZAÈ KOMBIJEM JURIO ULICOM I GAZIO SVE PRED SOBOM, POKOSIO DESETKE PJEŠAKA Najmanje 10 mrtvih, veæi broj ranjenih
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </a>
 </h4>
 </div>
@@ -1752,19 +1756,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1772,8 +1776,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1860,6 +1864,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2149,11 +2158,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2201,14 +2205,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2252,12 +2256,12 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7286176&type=article&title=TJEDNI+NAS+DIJELE+OD+TRENUTKA+KADA+BI+SVIJET+MOGAO+UTONUTI+U+KAOS+Na+pomolu+slom+klju%c4%8dnog+sporazuma+kojim+je+jednom+ve%c4%87+izbjegnut+sukob+ve%c4%87ih+razmjera&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ftjedni-nas-dijele-od-trenutka-kada-bi-svijet-mogao-utonuti-u-kaos-na-pomolu-slom-kljucnog-sporazuma-kojim-je-jednom-vec-izbjegnut-sukob-vecih-razmjera%2f7286176%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7335222&type=article&title=TRUMP+IZOLIRAO+AMERIKU%2c+SVIJET+ZAPREPA%c5%a0TEN+NJEGOVOM+ODLUKOM+DA+SE+POVU%c4%8cE+IZ+NUKLEARNOG+SPORAZUMA+Samo+su+dvije+dr%c5%beave+podr%c5%beale+takav+potez&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ftrump-izolirao-ameriku-svijet-zaprepasten-njegovom-odlukom-da-se-povuce-iz-nuklearnog-sporazuma-samo-su-dvije-drzave-podrzale-takav-potez%2f7335222%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7286176&amp;type=article&amp;title=TJEDNI+NAS+DIJELE+OD+TRENUTKA+KADA+BI+SVIJET+MOGAO+UTONUTI+U+KAOS+Na+pomolu+slom+klju%c4%8dnog+sporazuma+kojim+je+jednom+ve%c4%87+izbjegnut+sukob+ve%c4%87ih+razmjera&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ftjedni-nas-dijele-od-trenutka-kada-bi-svijet-mogao-utonuti-u-kaos-na-pomolu-slom-kljucnog-sporazuma-kojim-je-jednom-vec-izbjegnut-sukob-vecih-razmjera%2f7286176%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7335222&amp;type=article&amp;title=TRUMP+IZOLIRAO+AMERIKU%2c+SVIJET+ZAPREPA%c5%a0TEN+NJEGOVOM+ODLUKOM+DA+SE+POVU%c4%8cE+IZ+NUKLEARNOG+SPORAZUMA+Samo+su+dvije+dr%c5%beave+podr%c5%beale+takav+potez&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2ftrump-izolirao-ameriku-svijet-zaprepasten-njegovom-odlukom-da-se-povuce-iz-nuklearnog-sporazuma-samo-su-dvije-drzave-podrzale-takav-potez%2f7335222%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2269,17 +2273,6 @@ document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis
 <noscript>
 <div>
 <img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1895092124&amp;title=Iran&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIran&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1172025502&title=nuklearni+program&url=tag%3ajltags%40eph.hr%2c2016%3anuklearni_program&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1172025502&amp;title=nuklearni+program&amp;url=tag%3ajltags%40eph.hr%2c2016%3anuklearni_program&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2343,7 +2336,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/tjedni-nas-dijele-od-trenutka-kada-bi-svijet-mogao-utonuti-u-kaos-na-pomolu-slom-kljucnog-sporazuma-kojim-je-jednom-vec-izbjegnut-sukob-vecih-razmjera/7286176/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/trump-izolirao-ameriku-svijet-zaprepasten-njegovom-odlukom-da-se-povuce-iz-nuklearnog-sporazuma-samo-su-dvije-drzave-podrzale-takav-potez/7335222/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2353,14 +2346,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/svijet/tjedni-nas-dijele-od-trenutka-kada-bi-svijet-mogao-utonuti-u-kaos-na-pomolu-slom-kljucnog-sporazuma-kojim-je-jednom-vec-izbjegnut-sukob-vecih-razmjera/7286176/",
-postId : "7286176",
+url : "https://www.jutarnji.hr/vijesti/svijet/trump-izolirao-ameriku-svijet-zaprepasten-njegovom-odlukom-da-se-povuce-iz-nuklearnog-sporazuma-samo-su-dvije-drzave-podrzale-takav-potez/7335222/",
+postId : "7335222",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "TJEDNI NAS DIJELE OD TRENUTKA KADA BI SVIJET MOGAO UTONUTI U KAOS Na pomolu slom kljuènog sporazuma kojim je jednom veæ izbjegnut sukob veæih razmjera",
-pubdate : "2018-04-25 17:27",
+title : "TRUMP IZOLIRAO AMERIKU, SVIJET ZAPREPAŠTEN NJEGOVOM ODLUKOM DA SE POVUÈE IZ NUKLEARNOG SPORAZUMA Samo su dvije države podržale takav potez",
+pubdate : "2018-05-09 00:17",
 authors : "Hina",
 sections : "Front Page, Svijet",
-tags : "Iran, nuklearni program, Donald Trump",
+tags : "Iran, Donald Trump",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

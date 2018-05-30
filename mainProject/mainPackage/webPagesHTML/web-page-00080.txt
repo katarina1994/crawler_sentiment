@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="spavanje" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="   " />
+<meta name="keywords" content="Harry Potter, Harry Potter Hogwarts" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 godina istraživanja ne razumijemo ga u potpunosti - Jutarnji List</title>
+<title>&#039;OTKAKO SAM SKINULA TU APLIKACIJU, NE SPAVAM ZADNJIH ŠEST DANA&#039; Nova hit igrica zaludila je mnoge i u Hrvatskoj - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Znanost";
+var dfpCategory = "Tehnologija";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7270752";
-var dfpArticleKeyword = "spavanje";
+var dfpArticle = "7306558";
+var dfpArticleKeyword = "Harry Potter";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/migration_catalog/spavanje-san-s1/6598/ALTERNATES/LANDSCAPE_1180/spavanje-san-s1" />
+<meta property="og:image" content="https://www.jutarnji.hr/life/tehnologija/harry-potter-hogwarts-mystery/7306834/ALTERNATES/LANDSCAPE_1180/Harry%20Potter%20Hogwarts%20Mystery" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/migration_catalog/spavanje-san-s1/6598/ALTERNATES/LANDSCAPE_1180/spavanje-san-s1">
-<meta property="og:title" content="ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 godina istraživanja ne razumijemo ga u potpunosti" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/life/tehnologija/harry-potter-hogwarts-mystery/7306834/ALTERNATES/LANDSCAPE_1180/Harry%20Potter%20Hogwarts%20Mystery">
+<meta property="og:title" content="'OTKAKO SAM SKINULA TU APLIKACIJU, NE SPAVAM ZADNJIH ŠEST DANA' Nova hit igrica zaludila je mnoge i u Hrvatskoj" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="   " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Tanja Rudež">
-<meta name="twitter:title" content="ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 godina istraživanja ne razumijemo ga u potpunosti">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content="Zrinka Korljan">
+<meta name="twitter:title" content="'OTKAKO SAM SKINULA TU APLIKACIJU, NE SPAVAM ZADNJIH ŠEST DANA' Nova hit igrica zaludila je mnoge i u Hrvatskoj">
+<meta name="twitter:description" content="   ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Znanost, Life, Front Page",
-pubdate: "2018-04-23T18:00+02:00",
-author: "Tanja Rudež",
+data: { section: "Tehnologija, Life, Front Page",
+pubdate: "2018-05-01T20:21+02:00",
+author: "Zrinka Korljan",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -888,6 +888,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -941,12 +946,12 @@ Life
 Obitelj i djeca
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/tehnologija/">
 Tehnologija
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
@@ -1134,7 +1139,7 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/znanost/">Znanost </a></li>
+<li><a href="https://www.jutarnji.hr/life/tehnologija/">Tehnologija </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
@@ -1142,12 +1147,12 @@ Mozgalice
 Obitelj i djeca
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/tehnologija/">
 Tehnologija
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
@@ -1229,11 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-MISTERIJI ÈOVJEKA
+ŽIVOT U HOGWARTSU
 </p>
 <h1
 class="title">
-ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 godina istraživanja ne razumijemo ga u potpunosti
+'OTKAKO SAM SKINULA TU APLIKACIJU, NE SPAVAM ZADNJIH ŠEST DANA' Nova hit igrica zaludila je mnoge i u Hrvatskoj
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1246,7 @@ ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 go
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/tanja-rudez">Tanja Rudež</a></li>
+<li><a href="https://www.jutarnji.hr/autori/zrinka-korljan">Zrinka Korljan</a></li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-23.04.2018. u 18:00
+01.05.2018. u 20:21
 </p>
 </li>
 </ul>
@@ -1259,14 +1264,14 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="migration_catalog media ">
+<section class="tehnologija media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/migration_catalog/spavanje-san-s1/6598" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/harry-potter-hogwarts-mystery/7306834" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/migration_catalog/spavanje-san-s1/6598/ALTERNATES/LANDSCAPE_380/spavanje-san-s1"
+<img src="https://www.jutarnji.hr/life/tehnologija/harry-potter-hogwarts-mystery/7306834/ALTERNATES/LANDSCAPE_380/Harry%20Potter%20Hogwarts%20Mystery"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/migration_catalog/spavanje-san-s1/6598/BINARY/thumbnail/spavanje-san-s1"
+data-src-template="https://www.jutarnji.hr/life/tehnologija/harry-potter-hogwarts-mystery/7306834/BINARY/thumbnail/Harry%20Potter%20Hogwarts%20Mystery"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1274,10 +1279,9 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> iStock
-</span>
 </div>
+<div class="picture-caption ">
+<h4>Igrica Harry Potter Hogwarts Mystery</h4>
 </div>
 </div>
 </section>
@@ -1311,30 +1315,37 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7270752"
+<div id="content-body-6263871-7306558"
 >
-<p>Poznato je da na spavanje odlazi treæina èovjekova života. Iako je fiziološka potreba u jednakoj mjeri kao zrak, hrana i voda, fenomen spavanja ni nakon 100 godina istraživanja nije u potpunosti razjašnjen. U ZOOMU donosimo pregled dosadašnjih spoznaja o spavanju.</p><p><strong>I životinje spavaju</strong></p><p>Spavanje je biološka potreba ne samo ljudi, nego i ptica, riba, gmazova i sisavaca. Eksperimenti na laboratorijskim životinjama pokazuju da lišene sna umiru prije nego kada ih se izgladnjuje.</p><p>Iako znanstvenici smatraju da se spavanje može povezati samo sa životinjama s kompleksnim nervnim sustavom, i kod beskralježnjaka je moguæe identificirati stanja koja bismo generalno mogli opisati kao spavanje: ona ukljuèuju cikluse odmora i aktivnosti, odreðeni položaj tijela, manjak odgovora na podražaje. Èak i mikroorganizmi imaju dnevne cikluse aktivnosti i neaktivnosti koje pokreæu unutarnji satovi, odnosno cirkadijalni ritmovi. Porijeklo sna moglo bi se datirati prije èetiri milijarde godina kada su prvi mikroorganizmi poèeli prilagoðavati svoje ponašanje kao odgovor na izmjenu dana i noæi.</p><p><strong>Razlozi za spavanje</strong></p><p>Mnogo je teorija koje objašnjavaju zašto spavamo: od toga da je to naèin èuvanja energije do toga da je spavanje nužno za naš mozak jer regulira emocije i procesiranje informacija te jaèa memoriju. Svaka od teorija ima svoje jake, ali i poneku slabu stranu.</p><p>Primarna funkcija spavanja na razini cijelog organizma mogla bi biti regulacija autonomnih živèanih aktivnosti poput otkucaja srca. Naime, poremeæaji spavanja èesto su povezani s disfunkcijom autonomnog živèanog sustava, poput abnormalnih otkucaja srca. Na razini mozga, spavanje može pomoæi u konsolidaciji memorije tako što smanjuje kolièinu informacija koje putuju kroz središnji živèani sustav.</p><p>No, uèvršæivanje memorije dogaða se i kad smo budni. U posljednje vrijeme raspravlja se o tome kako spavanje ima ulogu u socijalnoj izolaciji ljudi. Kao društvene životinje, ljudi trebaju spavati da bi uèvrstili pravila naših kompleksnih socijalnih života.</p><p><strong>Faze spavanja</strong></p><p>Spavamo u pet faza. U prvoj fazi san je plitak i lako se prekida. Dolazi do postupnog opuštanja mišiæa, usporavanja disanja i pulsa. U drugoj fazi san postupno postaje dublji, javljaju se sporiji moždani valovi i mišiæna relaksacija, koji se povremeno smjenjuju naletima mišiæne napetosti i pojaèane moždane aktivnosti.</p><p>Treæa i èetvrta faza spavanja su faze dubokog sna kada je osobu najteže probuditi. Osjeæaj zbunjenosti, dezorijentiranosti i umornog buðenja najèešæe je posljedica buðenja tijekom tih faza spavanja. Peta faza, REM (Rapid Eye Movement), nastupa 90 minuta nakon poèetka spavanja, a karakteristièna je zato što se tijekom nje cijeli organizam aktivira, ubrzava se rad srca i raste krvni tlak pa više podsjeæa na budno stanje. U toj fazi, na koju otpada 20 do 25 posto spavanja, sanjamo. Sve faze spavanja se tijekom noæi ponavljaju èetiri do pet puta.</p><p><strong>Koliko je sna dovoljno?</strong></p><p>Novoroðenèe spava od 18 do 20 sati na dan, a sredovjeèna osoba može uspješno funkcionirati s pet sati sna. No, koliko je sna potrebno za naše zdravlje? Kratak odgovor glasi: ovisi o dobi i spolu, ali i varijacijama meðu pojedincima.</p><p>Kod mladih osoba prevladava REM san, dok je non-REM san vrlo dubok, što vjerojatno pomaže sazrijevanju mozga. Kako starimo, spavamo manje i provodimo manje vremena u dubokom i REM snu. Istodobno je uèenje novih vještina teže nego u mladosti. Istraživanja na starijim osobama pokazuju da spavaju oko 7,5 sati, a studije najdugovjeènijih osoba otkrivaju da one u prosjeku spavaju izmeðu pet i 7,5 sati. I razlike meðu spolovima odražavaju se na spavanje: žene spavaju dulje i više uživaju u dubokom snu nego muškarci. Takoðer su dvostruko sklonije poremeæajima spavanja, èiji su uzroci najèešæe poveæani stres, fiziološke bolesti te konzumacija alkohola i droga.</p><p><strong>Spavamo li manje nego u prošlosti?</strong></p><p>Ljudi na Zapadu danas u prosjeku spavaju sat do dva kraæe nego prije nekoliko desetljeæa i mnogi su kronièno neispavani. No, manjak sna je opasan: petina prometnih nesreæa povezana je s umorom. Neispavanost direktno utjeèe na zdravlje, o èemu govori nekoliko epidemioloških studija objavljenih u posljednjih deset godina.</p><p>Primjerice, u èasopisu Science objavljeno je istraživanje koje ukazuje na povezanost izmeðu smanjenog broja sati sna kod ljudi i porasta pretilosti te dijabetesa. To se objašnjava time da nedostatak sna remeti mehanizam koji utjeèe na naš apetit te stimulira glad. Studija koja je obuhvatila 10.000 britanskih državnih službenika tijekom 17 godina pokazala je da su oni koji spavaju pet i manje sati izloženi gotovo dvostruko višem riziku smrtnosti od raznih uzroka, posebice od kardiovaskularnih bolesti, nego oni koji spavaju osam sati. Jedno istraživanje, pak, sugerira da manjak sna pojaèava aktivnost amigdale, bademaste strukture u mozgu ukljuèene u regulaciju raspoloženja i anksioznosti.</p><p><strong>Kako gadgeti utjeèu na spavanje?</strong></p><p>Znanstvenici veæ nekoliko godina upozoravaju da mobiteli i elektronièki ureðaji u spavaæoj sobi remete san. Jedan od problema jest to što LED zaslon emitira plavo svjetlo koje u mozgu ometa stvaranje melatonina, hormona koji omoguæava regulaciju ciklusa spavanja. “Plavo svjetlo s mobitela ili tableta izvještava vašu pinealnu žlijezdu da je jutro i da bi trebalo prestati s proizvodnjom melatonina”, pojasnio je za BBC Knowledge psiholog dr. Aric Sigman. A studija objavljena 2016. u èasopisu Preventive Medicine pokazala je povezanost izmeðu korištenja društvenih mreža i poremeæaja spavanja te upozorila na vezu izmeðu manjka sna i depresije.</p><p><strong>Zašto spavati noæu, a ne danju?</strong></p><p>Najbolje vrijeme za spavanje je noæ. Ako namjeravamo drijemati danju, a da pritom ne mijenjamo naš biološki ritam, trebamo imati na umu da to znaèi izmeðu jedan i tri sata manje noænog sna. Spavanje tijekom dana kvalitetom se uvelike razlikuje od noænog. Noæni san rezultira nižom tjelesnom temperaturom i višom koncentracijom “hormona sna”, melatonina. Tijekom spavanja danju dogaða se obrnuto, što može biti štetno za zdravlje. Osobe koje rade noæu èesto imaju poremeæen san tijekom dana i na dulji rok su izložene poveæanom riziku od kardiovaskularnih bolesti i dijabetesa.</p><p>
-<div class="e4-sub-article ">
+<p>Život u Hogwartsu nije lagan: Snape me mrzi, zlostavljaèica Merula vrijeða na svakom koraku, a svi spominju mog brata Jacoba, koji je izbaèen iz škole. Sve to moja je virtualna svakodnevica zadnjih šest dana, otkako sam poèela igrati “Harry Potter Hogwarts Mystery” igricu. Skinula sam je na smartphone tri sata nakon što je puštena na download i odmah krenula.</p><p>Poèetak je bio uzbudljiv: dobila sam pismo iz Hogwartsa, u Zakutnoj ulici sam kupila èarobni štapiæ i knjige te upoznala najbolju prijateljicu, Rowan. U školi smo se opet susrele - Razredbeni šešir poslao nas je u isti dom. Obje smo, naime, Hufflepuffke. Sam postupak odabira je razoèaranje: moram priznati da sam oèekivala mali test, nakon kojeg æe šešir odluèiti u koji dom idem, a ne da sama biram.</p><h5>Èarolije</h5><p>Svašta se dogaða narednih dana: Merula i ja sukobljavamo se i bivamo kažnjene, profesor Èarolija Flitwick oduševljen je mojim napretkom, a Snape kao Snape, mrzi me od prve sekunde.</p><p>Prièa je šira od toga - moj brat Jacob Korljan izbaèen je iz škole zbog potrage za ukletim sefovima, što je pojam oèigledno izmišljen samo za ovu igricu. Zbog toga je teže normalno funkcionirati u dvorcu - svi profesori, kao i mnogi uèenici, stalno spominju tog mog brata koji je bio totalna sramota. No, ja biram na koji naèin æu reagirati na to: mogu biti drska ili pomirljiva. Opæenito igraè u mnogim situacijama bira želi li odgovarati nekonfliktno, agresivno ili mudro, kao i hoæe li energiju ulagati u empatiju, znanje ili hrabrost. Kod dvoboja se bira taktika - napadaèka, obrambena ili lukava. Jednako tako bira se kako odgovoriti profesorima. Uz sve to kod uèenja svake nove èarolije treba slijediti linije na ekranu i tako iscrtati pokret štapiæem za svaku od njih, tako da treba biti brz i precizan.</p><h5>Gubitak igraèa</h5><p>Pet dana nakon što sam instalirala igricu izgubila sam account i sve što sam napravila. Bijesna na cijeli svijet ponovno sam se ulogirala - sada imam dugu bijelu kosu, dom mi je onaj Slytherinski i neopisivo sam bahata, bezobrazna i uvijek spremna za dvoboj. Nemam namjeru odustati, jer vidim da æu upoznati Nymphadoru Tonks i Billa Weasleya. Zbog toga nije problem ni što je energiju tako lako potrošiti, a teško prikupiti. Ona se, naime, puni za jedan bod svake èetiri minute. Moguæe je to ubrzati jedino kupovinom. Tako 10 jedinica energije košta osam kuna, a igrica bi mogla trajati mjesecima, pa bolje ne. Šest neprospavanih noæi sasvim je dovoljno...</p><p>
 <section>
-<div>
-<h2>Genijalci trebaju samo èetiri sata sna</h2><p> </p><p>Oko èetiri posto populacije može normalno funkcionirati sa samo èetiri sata sna. <strong>Leonardo da Vinci, Nikola Tesla, Thomas Jefferson, Benjamin Franklin</strong> i <strong>Margaret Thatcher</strong> neke su poznate povijesne osobe koje su odlièno funkcionirale bez sna. Bez spavanja se svakako ne može, a eksperimenti pokazuju da prosjeèan èovjek bez sna može izdržati najviše tjedan dana. Svjetski rekord u nespavanju postavio je 2007. godine Britanac Tom Wright koji je bio budan više od 11 dana, odnosno 266 sati.</p>
+<article class="tehnologija media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/life/tehnologija/harry-potter-hogwarts-mystery/7306846" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/life/tehnologija/harry-potter-hogwarts-mystery/7306846/ALTERNATES/FREE_380/Harry%20Potter%20Hogwarts%20Mystery"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/life/tehnologija/harry-potter-hogwarts-mystery/7306846/BINARY/thumbnail/Harry%20Potter%20Hogwarts%20Mystery"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
 </div>
+</div>
+</div>
+</article>
 </section>
-</div>
-</p><p>
-<div class="e4-sub-article ">
-<section>
-<div>
-<p><strong>5 FAZA SPAVANJA</strong></p><p> </p><p>1. plitki san koji se lako prekida</p><p>2. san postaje dublji, sporiji moždani valovi i mišiæna relaksacija</p><p>3. i 4. faze dubokog sna kada je osobu najteže probuditi</p><p>5. REM (Rapid Eye Movement), nastupa 90 minuta nakon što se zaspi </p>
-</div>
-</section>
-</div>
  </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7270752 p").filter(function () {
+$("#content-body-6263871-7306558 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1343,16 +1354,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7270752").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7306558").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7270752").children().slice(max).remove();
+$("#content-body-6263871-7306558").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7270752").children().get(0);
+var firstChild = $("#content-body-6263871-7306558").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1390,8 +1401,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/spavanje-1" class ="label label-default" >
-spavanje
+<a href="https://www.jutarnji.hr/tag/Harry_Potter_Hogwarts" class ="label label-default" >
+Harry Potter Hogwarts
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Harry_Potter" class ="label label-default" >
+Harry Potter
 </a>
 </li>
 </ul>
@@ -1402,21 +1418,6 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="tvrtke media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/biznis/tvrtke/na-letu-avionom-uskoro-ce-se-moci-spavati-u-kabinama-airbus-i-zodiac-aerospace-zajedno-kreiraju-putnicke-module/7235451/" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/biznis/tvrtke/na-letu-avionom-uskoro-ce-se-moci-spavati-u-kabinama-airbus-i-zodiac-aerospace-zajedno-kreiraju-putnicke-module/7235451/">
-NA LETU AVIONOM USKORO ÆE SE MOÆI SPAVATI U KABINAMA Airbus i Zodiac Aerospace zajedno kreiraju 'putnièke module'
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1432,13 +1433,13 @@ NA LETU AVIONOM USKORO ÆE SE MOÆI SPAVATI U KABINAMA Airbus i Zodiac Aerospace z
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1450,8 +1451,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1463,13 +1464,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1481,8 +1482,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1494,13 +1495,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1512,8 +1513,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1525,17 +1526,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1543,9 +1544,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1627,7 +1627,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7270752" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7306558" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1671,19 +1671,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="znanost media c11a none">
+<article class="tehnologija media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/aplikacija-koja-otkriva-sifre-s-njom-se-bilo-tko-moze-prikljuciti-na-vas-wi-fi-saznati-i-vase-lozinke-za-facebook-e-mail-cak-i-internet-bankarstvo/6436186/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/">
-USPJEH MEDICINE
+<a href="https://www.jutarnji.hr/life/tehnologija/aplikacija-koja-otkriva-sifre-s-njom-se-bilo-tko-moze-prikljuciti-na-vas-wi-fi-saznati-i-vase-lozinke-za-facebook-e-mail-cak-i-internet-bankarstvo/6436186/">
+NOVA OPASNOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/">
-'KONAÈNO SE PONOVNO OSJEÆAM KAO POTPUN MUŠKARAC!' Vojnik u Afganistanu ostao bez penisa, transplantirali mu zamjenski
+<a href="https://www.jutarnji.hr/life/tehnologija/aplikacija-koja-otkriva-sifre-s-njom-se-bilo-tko-moze-prikljuciti-na-vas-wi-fi-saznati-i-vase-lozinke-za-facebook-e-mail-cak-i-internet-bankarstvo/6436186/">
+APLIKACIJA KOJA OTKRIVA ŠIFRE S njom se bilo tko može prikljuèiti na vaš wi-fi, saznati i vaše lozinke za Facebook, e-mail, èak i internet bankarstvo
 </a>
 </h4>
 </div>
@@ -1693,19 +1693,19 @@ USPJEH MEDICINE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="znanost media c11a none">
+<article class="tehnologija media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/oduvijek-ste-zeljeli-pogledati-pornic-s-taylor-swift-natalie-portman-ili-lidijom-bacic-svi-vasi-mokri-snovi-sada-mogu-postati-stvarnost/6998886/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/">
-MISTERIJI ÈOVJEKA
+<a href="https://www.jutarnji.hr/life/tehnologija/oduvijek-ste-zeljeli-pogledati-pornic-s-taylor-swift-natalie-portman-ili-lidijom-bacic-svi-vasi-mokri-snovi-sada-mogu-postati-stvarnost/6998886/">
+NOVA APLIKACIJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/">
-ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 godina istraživanja ne razumijemo ga u potpunosti
+<a href="https://www.jutarnji.hr/life/tehnologija/oduvijek-ste-zeljeli-pogledati-pornic-s-taylor-swift-natalie-portman-ili-lidijom-bacic-svi-vasi-mokri-snovi-sada-mogu-postati-stvarnost/6998886/">
+ODUVIJEK STE ŽELJELI POGLEDATI PORNIÆ S TAYLOR SWIFT, NATALIE PORTMAN ILI LIDIJOM BAÈIÆ? Svi vaši mokri snovi sada mogu postati stvarnost...
 </a>
 </h4>
 </div>
@@ -1715,19 +1715,19 @@ ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 go
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="znanost media c11a none">
+<article class="tehnologija media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/hoce-li-amerikanci-uspjeti-opet-poslati-covjeka-na-mjesec/7270773/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/hoce-li-amerikanci-uspjeti-opet-poslati-covjeka-na-mjesec/7270773/">
-MAKE NASA GREAT AGAIN
+<a href="https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/">
+ŽIVOT U HOGWARTSU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/hoce-li-amerikanci-uspjeti-opet-poslati-covjeka-na-mjesec/7270773/">
-Hoæe li Amerikanci uspjeti opet poslati èovjeka na Mjesec?
+<a href="https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/">
+'OTKAKO SAM SKINULA TU APLIKACIJU, NE SPAVAM ZADNJIH ŠEST DANA' Nova hit igrica zaludila je mnoge i u Hrvatskoj
 </a>
 </h4>
 </div>
@@ -1737,19 +1737,19 @@ Hoæe li Amerikanci uspjeti opet poslati èovjeka na Mjesec?
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="znanost media c11a none">
+<article class="tehnologija media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/prijelomno-otkrice-koje-spasava-svijet-znanstvenici-slucajno-proizveli-enzim-koji-u-hipu-prozdire-plastiku-ovo-je-sjajno-ali-i-pomalo-sokantno/7253280/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/tehnologija/zelite-zaradivati-na-instagramu-otkrivamo-koliko-vam-pratitelja-treba-i-sto-ciniti-da-bi-vam-svaki-dan-na-racun-sjelo-od-500-do-nekoliko-tisuca-kuna/7176033/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/prijelomno-otkrice-koje-spasava-svijet-znanstvenici-slucajno-proizveli-enzim-koji-u-hipu-prozdire-plastiku-ovo-je-sjajno-ali-i-pomalo-sokantno/7253280/">
-VELIKI USPJEH
+<a href="https://www.jutarnji.hr/life/tehnologija/zelite-zaradivati-na-instagramu-otkrivamo-koliko-vam-pratitelja-treba-i-sto-ciniti-da-bi-vam-svaki-dan-na-racun-sjelo-od-500-do-nekoliko-tisuca-kuna/7176033/">
+POSAO 'INFLUENCERA'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/prijelomno-otkrice-koje-spasava-svijet-znanstvenici-slucajno-proizveli-enzim-koji-u-hipu-prozdire-plastiku-ovo-je-sjajno-ali-i-pomalo-sokantno/7253280/">
-PRIJELOMNO OTKRIÆE KOJE SPAŠAVA SVIJET: ZNANSTVENICI SLUÈAJNO PROIZVELI ENZIM KOJI U HIPU PROŽDIRE PLASTIKU! 'Ovo je sjajno, ali i pomalo šokantno'
+<a href="https://www.jutarnji.hr/life/tehnologija/zelite-zaradivati-na-instagramu-otkrivamo-koliko-vam-pratitelja-treba-i-sto-ciniti-da-bi-vam-svaki-dan-na-racun-sjelo-od-500-do-nekoliko-tisuca-kuna/7176033/">
+ŽELITE ZARAÐIVATI NA INSTAGRAMU? Otkrivamo koliko vam pratitelja treba i što èiniti da bi vam svaki dan na raèun sjelo od 500 do nekoliko tisuæa kuna
 </a>
 </h4>
 </div>
@@ -1787,19 +1787,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1807,8 +1807,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1897,6 +1897,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1950,12 +1955,12 @@ Life
 Obitelj i djeca
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/tehnologija/">
 Tehnologija
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
@@ -2184,11 +2189,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2236,14 +2236,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2287,23 +2287,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=33&contextPath=1-32-33-&pubId=1&cat=&meta=read-story&objId=7270752&type=article&title=ZA%c5%a0TO+SPAVAMO+Iako+je+fiziolo%c5%a1ka+potreba+kao+zrak%2c+hrana+i+voda%2c+ni+nakon+100+godina+istra%c5%beivanja+ne+razumijemo+ga+u+potpunosti&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fzasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti%2f7270752%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=34&contextPath=1-32-34-&pubId=1&cat=&meta=read-story&objId=7306558&type=article&title=%26%23039%3bOTKAKO+SAM+SKINULA+TU+APLIKACIJU%2c+NE+SPAVAM+ZADNJIH+%c5%a0EST+DANA%26%23039%3b+Nova+hit+igrica+zaludila+je+mnoge+i+u+Hrvatskoj&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2ftehnologija%2fotkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj%2f7306558%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=33&amp;contextPath=1-32-33-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7270752&amp;type=article&amp;title=ZA%c5%a0TO+SPAVAMO+Iako+je+fiziolo%c5%a1ka+potreba+kao+zrak%2c+hrana+i+voda%2c+ni+nakon+100+godina+istra%c5%beivanja+ne+razumijemo+ga+u+potpunosti&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fzasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti%2f7270752%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=34&amp;contextPath=1-32-34-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7306558&amp;type=article&amp;title=%26%23039%3bOTKAKO+SAM+SKINULA+TU+APLIKACIJU%2c+NE+SPAVAM+ZADNJIH+%c5%a0EST+DANA%26%23039%3b+Nova+hit+igrica+zaludila+je+mnoge+i+u+Hrvatskoj&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2ftehnologija%2fotkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj%2f7306558%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&cat=jltags%40eph.hr%2c2016&objId=1857528772&title=spavanje&url=tag%3ajltags%40eph.hr%2c2016%3aspavanje-1&rt=1&ctxId=33&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&cat=jltags%40eph.hr%2c2016&objId=1172125231&title=Harry+Potter&url=tag%3ajltags%40eph.hr%2c2016%3aHarry_Potter&rt=1&ctxId=34&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1857528772&amp;title=spavanje&amp;url=tag%3ajltags%40eph.hr%2c2016%3aspavanje-1&amp;rt=1&amp;ctxId=33&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1172125231&amp;title=Harry+Potter&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHarry_Potter&amp;rt=1&amp;ctxId=34&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&cat=jltags%40eph.hr%2c2016&objId=678925131&title=Harry+Potter+Hogwarts&url=tag%3ajltags%40eph.hr%2c2016%3aHarry_Potter_Hogwarts&rt=1&ctxId=34&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-34-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=678925131&amp;title=Harry+Potter+Hogwarts&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHarry_Potter_Hogwarts&amp;rt=1&amp;ctxId=34&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2356,7 +2367,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2366,14 +2377,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/",
-postId : "7270752",
+url : "https://www.jutarnji.hr/life/tehnologija/otkako-sam-skinula-tu-aplikaciju-ne-spavam-zadnjih-sest-dana-nova-hit-igrica-zaludila-je-mnoge-i-u-hrvatskoj/7306558/",
+postId : "7306558",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 godina istraživanja ne razumijemo ga u potpunosti",
-pubdate : "2018-04-23 18:00",
-authors : "Tanja Rudež",
-sections : "Front Page, Life, Znanost",
-tags : "spavanje",
+title : "'OTKAKO SAM SKINULA TU APLIKACIJU, NE SPAVAM ZADNJIH ŠEST DANA' Nova hit igrica zaludila je mnoge i u Hrvatskoj",
+pubdate : "2018-05-01 20:21",
+authors : "Zrinka Korljan",
+sections : "Front Page, Life, Tehnologija",
+tags : "Harry Potter, Harry Potter Hogwarts",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

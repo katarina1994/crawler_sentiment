@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Najveæi svjetski ilegalni internetski servis za kibernetièke napade, Webstresser.org, u utorak uhiæeni 19-godišnjak vodio je sa zagrebaèkog podruèja, doznaje se u MUP-u." />
-<meta name="keywords" content="cyber kriminal, cyber napad, Zaprešiæ" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Povlaèenje amerièkog predsjednika iz sporazuma o nuklearnom oružju s Iranom nezakonito je i pogrešno i obezvreðuje meðunarodne sporazume, odgovorila je iranska televizija u utorak naveèer na odluku Donalda Trumpa, a Pariz, Berlin i London izrazili su žaljenje, prenose agencije. " />
+<meta name="keywords" content="Iran, iranski sporazum, nuklearni sporazum, Donald Trump, Hasan Rohani, Benjamin Netanyahu" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>IZVELI ÈETIRI MILIJUNA NAPADA, IMALI 239 TISUÆA KORISNIKA, A CIJELA OPERACIJA VODILA SE IZ - ZAPREŠIÆA! Kako je pao jedan od najtraženijih hakera - Jutarnji List</title>
+<title>ESKALACIJA NAKON POVLAÈENJA AMERIKE IZ NUKLEARNOG SPORAZUMA VEÆ JE KRENULA Izrael proglasio uzbunu, Iran spreman nastaviti obogaæivanje urana - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Hrvatska";
+var dfpCategory = "Svijet";
 var dfpCategoryParent = "Vijesti";
 var dfpRos = "vijesti-ros";
-var dfpArticle = "7285798";
-var dfpArticleKeyword = "cyber kriminal";
+var dfpArticle = "7334490";
+var dfpArticleKeyword = "Iran";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/izveli-cetiri-milijuna-napada-imali-239-tisuca-korisnika-a-cijela-operacija-vodila-se-iz-zapresica-kako-je-pao-jedan-od-najtrazenijih-hakera/7285798/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/izveli-cetiri-milijuna-napada-imali-239-tisuca-korisnika-a-cijela-operacija-vodila-se-iz-zapresica-kako-je-pao-jedan-od-najtrazenijih-hakera/7285798/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/eskalacija-nakon-povlacenja-amerike-iz-nuklearnog-sporazuma-vec-je-krenula-izrael-proglasio-uzbunu-iran-spreman-nastaviti-obogacivanje-urana/7334490/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/eskalacija-nakon-povlacenja-amerike-iz-nuklearnog-sporazuma-vec-je-krenula-izrael-proglasio-uzbunu-iran-spreman-nastaviti-obogacivanje-urana/7334490/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/haker1jpg/7285150/ALTERNATES/LANDSCAPE_1180/haker1.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/benjamin-netanyahu-_-hassan-jpg/7334481/ALTERNATES/LANDSCAPE_1180/Benjamin%20Netanyahu%20_%20Hassan%20.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/haker1jpg/7285150/ALTERNATES/LANDSCAPE_1180/haker1.jpg">
-<meta property="og:title" content="IZVELI ÈETIRI MILIJUNA NAPADA, IMALI 239 TISUÆA KORISNIKA, A CIJELA OPERACIJA VODILA SE IZ - ZAPREŠIÆA! Kako je pao jedan od najtraženijih hakera" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/benjamin-netanyahu-_-hassan-jpg/7334481/ALTERNATES/LANDSCAPE_1180/Benjamin%20Netanyahu%20_%20Hassan%20.jpg">
+<meta property="og:title" content="ESKALACIJA NAKON POVLAÈENJA AMERIKE IZ NUKLEARNOG SPORAZUMA VEÆ JE KRENULA Izrael proglasio uzbunu, Iran spreman nastaviti obogaæivanje urana" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/izveli-cetiri-milijuna-napada-imali-239-tisuca-korisnika-a-cijela-operacija-vodila-se-iz-zapresica-kako-je-pao-jedan-od-najtrazenijih-hakera/7285798/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/eskalacija-nakon-povlacenja-amerike-iz-nuklearnog-sporazuma-vec-je-krenula-izrael-proglasio-uzbunu-iran-spreman-nastaviti-obogacivanje-urana/7334490/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Najveæi svjetski ilegalni internetski servis za kibernetièke napade, Webstresser.org, u utorak uhiæeni 19-godišnjak vodio je sa zagrebaèkog podruèja, doznaje se u MUP-u." />
+<meta property="og:description" content="Povlaèenje amerièkog predsjednika iz sporazuma o nuklearnom oružju s Iranom nezakonito je i pogrešno i obezvreðuje meðunarodne sporazume, odgovorila je iranska televizija u utorak naveèer na odluku Donalda Trumpa, a Pariz, Berlin i London izrazili su žaljenje, prenose agencije. " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
 <meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="IZVELI ÈETIRI MILIJUNA NAPADA, IMALI 239 TISUÆA KORISNIKA, A CIJELA OPERACIJA VODILA SE IZ - ZAPREŠIÆA! Kako je pao jedan od najtraženijih hakera">
-<meta name="twitter:description" content="Najveæi svjetski ilegalni internetski servis za kibernetièke napade, Webstresser.org, u utorak uhiæeni 19-godišnjak vodio je sa zagrebaèkog podruèja, doznaje se u MUP-u.">
+<meta name="twitter:title" content="ESKALACIJA NAKON POVLAÈENJA AMERIKE IZ NUKLEARNOG SPORAZUMA VEÆ JE KRENULA Izrael proglasio uzbunu, Iran spreman nastaviti obogaæivanje urana">
+<meta name="twitter:description" content="Povlaèenje amerièkog predsjednika iz sporazuma o nuklearnom oružju s Iranom nezakonito je i pogrešno i obezvreðuje meðunarodne sporazume, odgovorila je iranska televizija u utorak naveèer na odluku Donalda Trumpa, a Pariz, Berlin i London izrazili su žaljenje, prenose agencije. ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Hrvatska, Vijesti, Front Page",
-pubdate: "2018-04-25T15:24+02:00",
-author: "Hina",
+data: { section: "Svijet, Vijesti, Front Page",
+pubdate: "2018-05-08T21:27+02:00",
+author: "Sandra Pudja",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -858,12 +858,12 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1134,15 +1139,15 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1165,6 +1170,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1204,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-NAPADALI I ZA SAMO 15 EURA
+DRAMA
 </p>
 <h1
 class="title">
-IZVELI ÈETIRI MILIJUNA NAPADA, IMALI 239 TISUÆA KORISNIKA, A CIJELA OPERACIJA VODILA SE IZ - ZAPREŠIÆA! Kako je pao jedan od najtraženijih hakera
+ESKALACIJA NAKON POVLAÈENJA AMERIKE IZ NUKLEARNOG SPORAZUMA VEÆ JE KRENULA Izrael proglasio uzbunu, Iran spreman nastaviti obogaæivanje urana
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1216,7 +1226,8 @@ IZVELI ÈETIRI MILIJUNA NAPADA, IMALI 239 TISUÆA KORISNIKA, A CIJELA OPERACIJA VO
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
+<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a>,</li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1224,7 +1235,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 15:24
+08.05.2018. u 21:27
 </p>
 </li>
 </ul>
@@ -1236,12 +1247,12 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/haker1jpg/7285150" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/benjamin-netanyahu-_-hassan-jpg/7334481" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/haker1jpg/7285150/ALTERNATES/LANDSCAPE_380/haker1.jpg"
+<img src="https://www.jutarnji.hr/incoming/benjamin-netanyahu-_-hassan-jpg/7334481/ALTERNATES/LANDSCAPE_380/Benjamin%20Netanyahu%20_%20Hassan%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/haker1jpg/7285150/BINARY/thumbnail/haker1.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/benjamin-netanyahu-_-hassan-jpg/7334481/BINARY/thumbnail/Benjamin%20Netanyahu%20_%20Hassan%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1249,20 +1260,15 @@ alt=""
 title=""
 class="media-object adaptive lazy "
 />
-<div class="picture-author">
-<span> MUP
-</span>
 </div>
+<div class="picture-caption ">
+<h4>Izraelski premijer Benjamin Netanyahu i iranski predsjednik Hasan Rohani </h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
-<p
-class="leadtext">
-<p> </p>
-</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1286,14 +1292,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285798"
+<div id="content-body-6263871-7334490"
 >
-<p>Najveæi svjetski ilegalni internetski servis za kibernetièke napade, Webstresser.org, u utorak uhiæeni 19-godišnjak vodio je sa zagrebaèkog podruèja, doznaje se u MUP-u.</p><p>Policija i dalje ne otkriva njegov identitet, a Hini je službeno odgovoreno tek da je uhiæen na podruèju zagrebaèke policijske uprave koja obuhvaæa glavni grad i podruèje Zagrebaèke županije. Prema neslužbenim informacijama mladiæ živi u Zaprešiæu.</p><h5>Osim u Hrvatskoj administratori i u Velikoj Britaniji, Kanadi i Srbiji</h5><p>Podatke o mladom hrvatskom cyber kriminalcu ne otkriva ni Europol koji je podržavao akciju u kojoj su sudjelovale policije više zemalja. No, Europol otkriva da su se administratori servisa na kojem su se mogli unajmiti napadi, osim u Hrvatskoj, nalazili i u Velikoj Britaniji, Kanadi i Srbiji.</p><p>Prema policijskim podacima Webstresser.org bio je najveæi svjetski internetski servis na kojem su korisnici mogli unajmiti uslugu DDoS (Distributed Denial of Service) kibernetièkih napada na vlasnike internetskih stranica u cijelom svijetu. S više od 136.000 registriranih korisnika i èetiri milijuna kibernetièkih napada do travnja 2018. Webstresser je predstavljao najveæu prijetnju za kljuène on-line usluge koje nude banke, poslovni sektor i državne institucije širom svijeta.</p><h5>Napad veæ od 15 eura</h5><p>Tijekom provoðenja DDoS napada, koje je omoguæavao Webstresser, napadaè daljinski upravlja povezanim ureðajima spojenima na internet te usmjerava veliku kolièinu internetskog prometa prema odreðenoj web stranici ili internetskoj platformi, što za posljedicu ima usporavanje rada web stranice žrtve ili njenu potpunu nedostupnost te tako korisnici Internet servisa nisu u moguænosti pristupiti razlièitim on-line uslugama.</p><p>Nekada su poèinitelji koji su izvršavali DDoS napade trebali biti dobro upuæeni u naèine funkcioniranja internetske tehnologije, no s pojavom ilegalnih servisa poput Webstressera, to više nije sluèaj. Svaki korisnik Webstressera mogao je platiti naknadu putem on-line platformi za plaæanje ili u kriptovalutama poput Bitcoina te mu je za iznos veæ od 15 EUR na raspolaganje stavljena infrastruktura koja omoguæuje DDoS napade na web stranice po izboru korisnika, kažu u policiji.</p>
+<p>Povlaèenje amerièkog predsjednika iz sporazuma o nuklearnom oružju s Iranom nezakonito je i pogrešno i obezvreðuje meðunarodne sporazume, odgovorila je iranska televizija u utorak naveèer na odluku <strong>Donalda Trumpa</strong>, a Pariz, Berlin i London izrazili su žaljenje, prenose agencije. </p><p>Amerièki predsjednik objavio je iza 20 sati po srednjoeuropskom vremenu da se Sjedinjene Države povlaèe iz nuklearnog sporazuma s Iranom koji je nazvao &quot;katastrofalnim&quot; te je najavio obnovu sankcija protiv Teherana.</p><p>Odluka o povlaèenju je nezakonita i pogrešna i obezvreðuje meðunarodne sporazume, objavila je iranska državna televizija.</p><p>Iranski predsjednik <strong>Hasan Rohani </strong>koji je najavio da æe odmah u utorak naveèer odgovoriti amerièkom kolegi na povlaèenje iz sporazuma, poruèio je da je Trump veæ pokazao da ne poštuje meðunarodne sporazume, prenosi Reuters. Rohani je takoðer rekao da æe Teheran, unatoè odluci Washingtona, ostati u sporazumu, prenijela je televizija.</p><p>Iran je spreman nastaviti rad nakon razgovora sa zemljama èlanicama Europske unije koje su potpisnice sporazuma, rekao je Rohani, kako prenosi Reuters.</p><p>Ipak, u obraæanju naciji Rohani je ponešto modificirao poruku najavivši da æe tijekom sljedeæih tjedana razgovarati s preostalim potpisnicama sporazuma, ali i da je odmah naredio iranskoj agenciji za atomsku energiju da bude spremna za nastavak obogaæivanja urana na industrijskoj razini. Hoæe li i kada æe biti pokrenut proces obogaæivanja ovisit æe o, kaže Rohani, iranskim nacionalnim interesima.</p><h5><strong>Žaljenje Pariza, Londona i Berlina</strong></h5><p>Službeni Pariz, London i Berlin, objavili su žaljenje zbog Trumpove odluke, prenosi Reuters. Francuski predsjednik <strong>Emmanuel Macron</strong> razgovarao je s njemaèkom kancelarkom <strong>Angelom Merkel</strong> i britanskom premijerkom <strong>Theresom May</strong> oko 19,30 sati, najavilo je francusko predsjedništvo, bez dodatnih pojedinosti, pola sata prije Trumpove objave svoje odluke.</p><p>Tri europske zemlje potpisnice sporazuma iz 2015. tako se, èini se, pripremaju na zauzimanje zajednièkog stajališta nakon Trumpove objave, predviðene za 20 sati.</p><p>Sporazum izmeðu Irana i šest sila (Sjedinjene Države, Francuska, Kina, Njemaèka, Rusija i Velika Britanija) ogranièava iranski program obogaæivanja uranija kako se ne bi mogao upotrijebiti za razvoj atomskog oružja, a zauzvrat su Iranu ublažene meðunarodne sankcije, kojih je veæina ukinuta u sijeènju 2016. Amerièki predsjednik od kada je izabran ponavlja da želi &quot;poderati&quot; taj sporazum.</p><h5>Izrael proglasio stanje uzbune zbog iranskih akcija u Siriji</h5><p>Nakon što je uoèio &quot;neredovite aktivnosti iranskih snaga u Siriji&quot;, kao ih je opisala izraelska vojska, Izrael je naredio lokalnim vlastima na Golanskoj visoravni pod njegovim nadzorom da &quot;otkljuèaju i urede skloništa&quot; za zaštitu u sluèaju bombardiranja.</p><p>U izjavi izraelske vojske takoðer se kaže da su postavljeni obrambeni sustavi te da su &quot;vojnici IDF-a (Izraelskih obrambenih snaga) u visokoj pripravnosti&quot; za moguæi napad.</p><p>Izraelski mediji su istaknuli da nalog za pripremu skloništa nikada nije izdan tijekom sedam godina graðanskog rata u Siriji, u kojemu je Izrael formalno neutralan, ali je izvodio udare preko granice na sumnjive položaje iranskih snaga koje podržavaju sirijskog èelnika Bašara al-Asada.</p><p>Iran je optužio Izrael za napad 9. travnja u kojem su u sirijskoj zraènoj bazi ubijena devetorica Iranaca i obeæao osvetu.</p><p>Amerièki dužnosnici su neposredno nakon Trumpove objave izlaska iz nuklearnog sporazuma rekli za CNN da strahuju da bi Iran doista mogao biti na rubu odluke o napadu na Izrael.</p><p>Izraelski premijer <strong>Benjamin Netanyahu </strong>kazao je u utorak, uoèi objave odluke amerièkog predsjednika Donalda Trumpa hoæe li iziæi iz nuklearnog sporazuma s Iranom, da Iran nastoji u Siriji rasporediti &quot;jako opasno oružje&quot; kako bi prijetio Izraelu.</p><p>Iran &quot;otvoreno, svakodnevno, poziva na uništenje, eliminaciju Izraela s lica Zemlje i prakticira neublaženu agresiju protiv nas&quot;, rekao je Netanyahu novinarima u Nikoziji. &quot;Sada nastoji rasporediti jako opasno oružje u Siriji... u iskljuèivu cilju našeg uništenja&quot;, dodao je, ne spominjuæi meðunarodni sporazum s Iranom.</p><p>Visoki iranski dužnosnici su u utorak, nekoliko sati prije objave Trumpove odluke, rekli da Iran neæe ostati pasivan i da je spreman je za najgori scenarij. &quot;Neæe biti u amerièkom interesu ako JCPOA (sporazum s Iranom) propadne zbog njihove ofenzive... Ako Sjedinjene Države zapoènu sukob s Iranom neæemo ostati pasivni&quot;, rekao je <strong>Ali Šamhani</strong>, tajnik vrhovnog vijeæa za nacionalnu sigurnost.</p><p>Sporazum izmeðu Irana i šest sila (Sjedinjene Države, Francuska, Kina, Njemaèka, Rusija i Velika Britanija) iz 2015. ogranièava iranski program obogaæivanja uranija kako se ne bi mogao upotrijebiti za razvoj atomskog oružja, a zauzvrat su Iranu ublažene meðunarodne sankcije, kojih je veæina ukinuta u sijeènju 2016.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285798 p").filter(function () {
+$("#content-body-6263871-7334490 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1302,16 +1308,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285798").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7334490").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285798").children().slice(max).remove();
+$("#content-body-6263871-7334490").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285798").children().get(0);
+var firstChild = $("#content-body-6263871-7334490").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1349,18 +1355,33 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Zapre%C5%A1i%C4%87" class ="label label-default" >
-Zaprešiæ
+<a href="https://www.jutarnji.hr/tag/Benjamin_Netanyahu" class ="label label-default" >
+Benjamin Netanyahu
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/cyber_napad" class ="label label-default" >
-cyber napad
+<a href="https://www.jutarnji.hr/tag/Hasan_Rohani" class ="label label-default" >
+Hasan Rohani
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/cyber_kriminal" class ="label label-default" >
-cyber kriminal
+<a href="https://www.jutarnji.hr/tag/Donald_Trump" class ="label label-default" >
+Donald Trump
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/nuklearni_sporazum" class ="label label-default" >
+nuklearni sporazum
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/iranski_sporazum" class ="label label-default" >
+iranski sporazum
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Iran" class ="label label-default" >
+Iran
 </a>
 </li>
 </ul>
@@ -1371,15 +1392,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="crna-kronika media none">
+<article class="svijet media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/pao-jedan-od-najzloglasnijih-hakera-na-svijetu-19-godisnji-hrvat-bio-je-vlasnik-najveceg-svjetskog-ilegalnog-servisa-za-kiberneticke-napade/7285123/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/crna-kronika/pao-jedan-od-najzloglasnijih-hakera-na-svijetu-19-godisnji-hrvat-bio-je-vlasnik-najveceg-svjetskog-ilegalnog-servisa-za-kiberneticke-napade/7285123/">
-PAO JEDAN OD NAJZLOGLASNIJIH HAKERA NA SVIJETU, 19-GODIŠNJI HRVAT! Bio je vlasnik najveæeg svjetskog ilegalnog servisa za kibernetièke napade
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="komentari media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/komentari/prva-analiza-trumpovog-poteza-mozda-je-najstrasnije-da-iza-svega-stoji-njegov-narcizam-samoljublje-uvjerenje-da-zna-sve-o-svemu-najbolje/7334409/">
+PRVA ANALIZA TRUMPOVOG POTEZA Možda je najstrašnije da iza svega stoji njegov narcizam, samoljublje, uvjerenje da zna sve o svemu najbolje
 </a>
 </h4>
 </li>
@@ -1401,13 +1437,13 @@ PAO JEDAN OD NAJZLOGLASNIJIH HAKERA NA SVIJETU, 19-GODIŠNJI HRVAT! Bio je vlasni
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1419,8 +1455,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1432,13 +1468,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1450,8 +1486,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1463,13 +1499,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1481,8 +1517,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1494,17 +1530,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1512,9 +1548,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1596,7 +1631,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285798" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7334490" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1640,19 +1675,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-VUKOVI OKO NAS
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+SAMO NEK' SE OKREÆE...
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/neobicno-mi-je-bilo-sto-su-se-sve-povukle-u-stalu-kad-sam-usao-unutra-imao-sam-sto-vidjeti-bile-su-jedna-na-drugoj-mozda-i-15-redova-naslaganih/7270479/">
-'Neobièno mi je bilo što su se sve povukle u štalu. Kad sam ušao unutra, imao sam što vidjeti, bile su jedna na drugoj, možda i 15 redova naslaganih'
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
 </a>
 </h4>
 </div>
@@ -1662,19 +1697,19 @@ VUKOVI OKO NAS
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-POKVARENA PEÈENKA
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+NE CVATU IM RUŽE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kupila-domacu-sunku-u-nasem-poznatom-trgovackom-centru-pa-se-zgrozila-kad-ju-je-otpakirala-trazila-sam-novac-natrag-sokirao-me-njihov-odgovor/7280685/">
-KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE OTPAKIRALA 'Tražila sam novac natrag, šokirao me njihov odgovor!'
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+RAZOTKRIVENA TUŽNA SVAKODNEVNICA PRVE DAME AMERIKE Objavljeni nepoznati detalji iz života Melanije Trump: 'Cijela situacija je neugodna'
 </a>
 </h4>
 </div>
@@ -1684,19 +1719,19 @@ KUPILA DOMAÆU ŠUNKU U NAŠEM POZNATOM TRGOVAÈKOM CENTRU, PA SE ZGROZILA KAD JU JE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-BAHATOST
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+GLOBALNA NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/srpska-ministrica-potjerala-hrvatske-novinare-ja-odredujem-kome-cu-dati-izjavu-a-dat-cu-je-valjda-onim-novinarima-koje-sam-ovdje-dovela/7280670/">
-SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu, a dat æu je valjda onim novinarima koje sam ovdje dovela!'
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
 </a>
 </h4>
 </div>
@@ -1706,19 +1741,19 @@ SRPSKA MINISTRICA POTJERALA HRVATSKE NOVINARE 'Ja odreðujem kome æu dati izjavu,
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="hrvatska media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-TRAJE POTRAGA
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+PRIJELOMNI TRENUTAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/matea-je-usla-u-bijeli-automobil-koji-je-cekao-upaljen-majka-nestale-mlade-sibencanke-otkrila-nova-saznanja-oko-nestanka-svoje-kceri/7281600/">
-'MATEA JE UŠLA U BIJELI AUTOMOBIL KOJI JE ÈEKAO UPALJEN' Majka nestale mlade Šibenèanke otkrila nova saznanja oko nestanka svoje kæeri
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </a>
 </h4>
 </div>
@@ -1756,19 +1791,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1776,8 +1811,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1836,12 +1871,12 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1864,6 +1899,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2153,11 +2193,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2205,14 +2240,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/gradonacelnik-zelio-pokazati-kako-je-radisan-pa-napravio-najgoru-fotomontazu-ikada-zafrkancija-na-njegov-racun-ne-prestaje?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524656819radovi.jpg?v=1524656908" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>MODNI MAÈAK ZA NJEGA JE BEBA/Gradonaèelnik želio pokazati kako je radišan pa napravio najgoru fotomontažu ikada, zafrkancija na njegov raèun ne prestaje</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2256,45 +2291,78 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7285798&type=article&title=IZVELI+%c4%8cETIRI+MILIJUNA+NAPADA%2c+IMALI+239+TISU%c4%86A+KORISNIKA%2c+A+CIJELA+OPERACIJA+VODILA+SE+IZ+-+ZAPRE%c5%a0I%c4%86A!+Kako+je+pao+jedan+od+najtra%c5%beenijih+hakera&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fizveli-cetiri-milijuna-napada-imali-239-tisuca-korisnika-a-cijela-operacija-vodila-se-iz-zapresica-kako-je-pao-jedan-od-najtrazenijih-hakera%2f7285798%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7334490&type=article&title=ESKALACIJA+NAKON+POVLA%c4%8cENJA+AMERIKE+IZ+NUKLEARNOG+SPORAZUMA+VE%c4%86+JE+KRENULA+Izrael+proglasio+uzbunu%2c+Iran+spreman+nastaviti+oboga%c4%87ivanje+urana&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2feskalacija-nakon-povlacenja-amerike-iz-nuklearnog-sporazuma-vec-je-krenula-izrael-proglasio-uzbunu-iran-spreman-nastaviti-obogacivanje-urana%2f7334490%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285798&amp;type=article&amp;title=IZVELI+%c4%8cETIRI+MILIJUNA+NAPADA%2c+IMALI+239+TISU%c4%86A+KORISNIKA%2c+A+CIJELA+OPERACIJA+VODILA+SE+IZ+-+ZAPRE%c5%a0I%c4%86A!+Kako+je+pao+jedan+od+najtra%c5%beenijih+hakera&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fizveli-cetiri-milijuna-napada-imali-239-tisuca-korisnika-a-cijela-operacija-vodila-se-iz-zapresica-kako-je-pao-jedan-od-najtrazenijih-hakera%2f7285798%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7334490&amp;type=article&amp;title=ESKALACIJA+NAKON+POVLA%c4%8cENJA+AMERIKE+IZ+NUKLEARNOG+SPORAZUMA+VE%c4%86+JE+KRENULA+Izrael+proglasio+uzbunu%2c+Iran+spreman+nastaviti+oboga%c4%87ivanje+urana&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2feskalacija-nakon-povlacenja-amerike-iz-nuklearnog-sporazuma-vec-je-krenula-izrael-proglasio-uzbunu-iran-spreman-nastaviti-obogacivanje-urana%2f7334490%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1914424103&title=cyber+kriminal&url=tag%3ajltags%40eph.hr%2c2016%3acyber_kriminal&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1895092124&title=Iran&url=tag%3ajltags%40eph.hr%2c2016%3aIran&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1914424103&amp;title=cyber+kriminal&amp;url=tag%3ajltags%40eph.hr%2c2016%3acyber_kriminal&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1895092124&amp;title=Iran&amp;url=tag%3ajltags%40eph.hr%2c2016%3aIran&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1363540086&title=cyber+napad&url=tag%3ajltags%40eph.hr%2c2016%3acyber_napad&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1064956667&title=iranski+sporazum&url=tag%3ajltags%40eph.hr%2c2016%3airanski_sporazum&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1363540086&amp;title=cyber+napad&amp;url=tag%3ajltags%40eph.hr%2c2016%3acyber_napad&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1064956667&amp;title=iranski+sporazum&amp;url=tag%3ajltags%40eph.hr%2c2016%3airanski_sporazum&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=1908377821&title=Zapre%c5%a1i%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aZapre%25C5%25A1i%25C4%2587&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=704593677&title=nuklearni+sporazum&url=tag%3ajltags%40eph.hr%2c2016%3anuklearni_sporazum&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1908377821&amp;title=Zapre%c5%a1i%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aZapre%25C5%25A1i%25C4%2587&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=704593677&amp;title=nuklearni+sporazum&amp;url=tag%3ajltags%40eph.hr%2c2016%3anuklearni_sporazum&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=262665481&title=Donald+Trump&url=tag%3ajltags%40eph.hr%2c2016%3aDonald_Trump&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=262665481&amp;title=Donald+Trump&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDonald_Trump&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1654121679&title=Hasan+Rohani&url=tag%3ajltags%40eph.hr%2c2016%3aHasan_Rohani&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1654121679&amp;title=Hasan+Rohani&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHasan_Rohani&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1384685398&title=Benjamin+Netanyahu&url=tag%3ajltags%40eph.hr%2c2016%3aBenjamin_Netanyahu&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1384685398&amp;title=Benjamin+Netanyahu&amp;url=tag%3ajltags%40eph.hr%2c2016%3aBenjamin_Netanyahu&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2347,7 +2415,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/izveli-cetiri-milijuna-napada-imali-239-tisuca-korisnika-a-cijela-operacija-vodila-se-iz-zapresica-kako-je-pao-jedan-od-najtrazenijih-hakera/7285798/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/eskalacija-nakon-povlacenja-amerike-iz-nuklearnog-sporazuma-vec-je-krenula-izrael-proglasio-uzbunu-iran-spreman-nastaviti-obogacivanje-urana/7334490/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2357,14 +2425,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/vijesti/hrvatska/izveli-cetiri-milijuna-napada-imali-239-tisuca-korisnika-a-cijela-operacija-vodila-se-iz-zapresica-kako-je-pao-jedan-od-najtrazenijih-hakera/7285798/",
-postId : "7285798",
+url : "https://www.jutarnji.hr/vijesti/svijet/eskalacija-nakon-povlacenja-amerike-iz-nuklearnog-sporazuma-vec-je-krenula-izrael-proglasio-uzbunu-iran-spreman-nastaviti-obogacivanje-urana/7334490/",
+postId : "7334490",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "IZVELI ÈETIRI MILIJUNA NAPADA, IMALI 239 TISUÆA KORISNIKA, A CIJELA OPERACIJA VODILA SE IZ - ZAPREŠIÆA! Kako je pao jedan od najtraženijih hakera",
-pubdate : "2018-04-25 15:24",
-authors : "Hina",
-sections : "Front Page, Tehnologija, Hrvatska",
-tags : "cyber kriminal, cyber napad, Zaprešiæ",
+title : "ESKALACIJA NAKON POVLAÈENJA AMERIKE IZ NUKLEARNOG SPORAZUMA VEÆ JE KRENULA Izrael proglasio uzbunu, Iran spreman nastaviti obogaæivanje urana",
+pubdate : "2018-05-08 21:27",
+authors : "Sandra Pudja",
+sections : "Front Page, Svijet",
+tags : "Iran, iranski sporazum, nuklearni sporazum, Donald Trump, Hasan Rohani, Benjamin Netanyahu",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

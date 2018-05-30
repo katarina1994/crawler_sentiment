@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content=" " />
-<meta name="keywords" content="Zdravlje, Hrvatska, Spinraza, spinalna mišiæna atrofija" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Èešnjak odavno slovi kao jedna od najzdravijih namirnica. Štoviše, narodna medicina smatra ga jednom od najljekovitijih biljaka." />
+<meta name="keywords" content="Èešnjak, rak" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska lista, dodani i lijekovi za multiplu sklerozu i KOPB - Jutarnji List</title>
+<title>ZNANSTVENICI RAZRIJEŠILI NEDOUMICE Popularna biljka smatra se jednom od najljekovitijih, a sad je dokazano da štiti od nekih oblika karcinoma - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -207,8 +207,8 @@ var dfpGalleryUnitNum = 0;
 var dfpCategory = "Zdravlje";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7282126";
-var dfpArticleKeyword = "Zdravlje";
+var dfpArticle = "7298728";
+var dfpArticleKeyword = "Èešnjak";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/zdravlje/znanstvenici-razrijesili-nedoumice-popularna-biljka-smatra-se-jednom-od-najljekovitijih-a-sad-je-dokazano-da-stiti-od-nekih-oblika-karcinoma/7298728/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/zdravlje/znanstvenici-razrijesili-nedoumice-popularna-biljka-smatra-se-jednom-od-najljekovitijih-a-sad-je-dokazano-da-stiti-od-nekih-oblika-karcinoma/7298728/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/prosvjed_oboljeli2-301117jpg/6800013/ALTERNATES/LANDSCAPE_1180/prosvjed_oboljeli2-301117.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/profimedia-0014114437jpg/7300192/ALTERNATES/LANDSCAPE_1180/profimedia-0014114437.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/prosvjed_oboljeli2-301117jpg/6800013/ALTERNATES/LANDSCAPE_1180/prosvjed_oboljeli2-301117.jpg">
-<meta property="og:title" content="SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska lista, dodani i lijekovi za multiplu sklerozu i KOPB" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/profimedia-0014114437jpg/7300192/ALTERNATES/LANDSCAPE_1180/profimedia-0014114437.jpg">
+<meta property="og:title" content="ZNANSTVENICI RAZRIJEŠILI NEDOUMICE Popularna biljka smatra se jednom od najljekovitijih, a sad je dokazano da štiti od nekih oblika karcinoma" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/zdravlje/znanstvenici-razrijesili-nedoumice-popularna-biljka-smatra-se-jednom-od-najljekovitijih-a-sad-je-dokazano-da-stiti-od-nekih-oblika-karcinoma/7298728/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content=" " />
+<meta property="og:description" content="Èešnjak odavno slovi kao jedna od najzdravijih namirnica. Štoviše, narodna medicina smatra ga jednom od najljekovitijih biljaka." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Hina">
-<meta name="twitter:title" content="SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska lista, dodani i lijekovi za multiplu sklerozu i KOPB">
-<meta name="twitter:description" content=" ">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="ZNANSTVENICI RAZRIJEŠILI NEDOUMICE Popularna biljka smatra se jednom od najljekovitijih, a sad je dokazano da štiti od nekih oblika karcinoma">
+<meta name="twitter:description" content="Èešnjak odavno slovi kao jedna od najzdravijih namirnica. Štoviše, narodna medicina smatra ga jednom od najljekovitijih biljaka.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -690,8 +690,8 @@ upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
 data: { section: "Zdravlje, Life, Front Page",
-pubdate: "2018-04-24T16:39+02:00",
-author: "Hina",
+pubdate: "2018-04-29T17:08+02:00",
+author: "Silvija Novak",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1229,11 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-ODLUKA VIJEÆA HZZO-a
+NOVO ISTRAŽIVANJE
 </p>
 <h1
 class="title">
-SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska lista, dodani i lijekovi za multiplu sklerozu i KOPB
+ZNANSTVENICI RAZRIJEŠILI NEDOUMICE Popularna biljka smatra se jednom od najljekovitijih, a sad je dokazano da štiti od nekih oblika karcinoma
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1241,7 +1246,7 @@ SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska li
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/hina"> Hina</a></li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1249,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 16:39
+29.04.2018. u 17:08
 </p>
 </li>
 </ul>
@@ -1261,32 +1266,23 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/prosvjed_oboljeli2-301117jpg/6800013" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/profimedia-0014114437jpg/7300192" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/prosvjed_oboljeli2-301117jpg/6800013/ALTERNATES/LANDSCAPE_380/prosvjed_oboljeli2-301117.jpg"
+<img src="https://www.jutarnji.hr/incoming/profimedia-0014114437jpg/7300192/ALTERNATES/LANDSCAPE_380/profimedia-0014114437.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/prosvjed_oboljeli2-301117jpg/6800013/BINARY/thumbnail/prosvjed_oboljeli2-301117.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/profimedia-0014114437jpg/7300192/BINARY/thumbnail/profimedia-0014114437.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb 301117.
-Sabor RH.
-Markov trg.
-Prosvjed roditelja djece oboljele od spinalne misicne atrofije zbog lijeka Spinraza.
-Na fotografiji: prosvjednici.
-Na fotografiji: Bozo Ljubic, Zeljko Raguz.
-Foto: Tomislav Kristo / CROPIX"
+alt=", Image: 14114437, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Imagefood SM"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Tomislav Kristo / CROPIX
+<span> Profimedia, Imagefood SM
 </span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Ilustracija: Prosvjed roditelja djece oboljele od spinalne mišiæne atrofije, studeni 2017.</h4>
 </div>
 </div>
 </section>
@@ -1320,14 +1316,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7282126"
+<div id="content-body-6263871-7298728"
 >
-<p>Upravno vijeæe Hrvatskog zavoda za zdravstveno osiguranje (HZZO) uvrstilo je na osnovnu listu lijekova lijek Spinrazu (nusinersen) za lijeèenje spinalne mišiæne atrofije tipa 1, 2 i 3 za djecu do 18 godina koja nisu na mehanièkoj ventilaciji (respiratoru), priopæeno je u utorak nakon sjednice. </p><p>U osnovnu listu lijekova uvršteni su lijekovi folitropin delta za lijeèenje neplodnosti, rezervni antibiotici ceftazidim+avibaktam i ceftarolin fosamil, tenofovir alafenamid za lijeèenje kroniènog hepatitisa B, lijekovi okrelizumab i kladribin za lijeèenje multiple skleroze, lijek idebenon za lijeèenje Leberove hereditarne optièke neuropatije i kombinacija beklometazon+formoterol+glikopironij za lijeèenje kroniène opstruktivne pluæne bolesti, dok su za lijek regorafenib odobrene dvije nove indikacije - za lijeèenje gastrointestinalnog stromalnog tumora i hepatocelularnog karcinoma.</p><h5>Dopunska lista lijekova</h5><p>U dopunsku listu lijekova uvrštena su dva nova lijeka - eletriptan za lijeèenje migrenoznih glavobolja i tafluprost+timolol za glaukom. </p><p>Na obje liste uvršteno je dodatnih 98 novih pakiranja - generièke i klinièke paralele te novi oblici veæ postojeæih lijekova u listi.</p><p>Stavljanjem novih lijekova na listu proširuje se spektar lijekova koji osiguranici mogu za svoje lijeèenje dobiti na teret obveznog zdravstvenog osiguranja.</p><h5>Dodatnih 5000 postupaka magnetske rezonance</h5><p>HZZO æe, priopæeno je, ugovoriti dodatnih 5000 postupaka magnetske rezonance (MR) od 1. svibnja do 31. prosinca ove godine, radi smanjenja Nacionalne liste èekanja, a prema uputi Ministarstva zdravstva. </p><p>Nakon provedenog natjeèaja izabrani su najpovoljniji ponuditelji s kojima æe se ugovoriti provedba i plaæanje postupka MR-a u svim regijama, razmjerno broju raspoloživih dodatnih postupaka i iskazanog interesa ponuditelja.</p><p>Ugovaranjem dodatnih postupaka MR-a osiguranicima se omoguæava dostupnost i kontinuiranost zdravstvene zaštite, te brže obavljanje medicinskog postupka, što može doprinijeti bržem procesu lijeèenja, poruèili su iz HZZO-a.</p><p>Na Popis pomagala HZZO-a stavljena su nova pomagala za regulaciju šeæerne bolesti - ureðaj za neogranièeno skeniranje razine glukoze u meðustaniènoj tekuæini s odgovarajuæim senzorom i odašiljaè za kontinuirano mjerenje glukoze kod osoba koje koriste inzulinsku pumpu.</p><p>Pravo na taj ureðaj od 1. lipnja imat æe djeca u dobi od 4 do 18 godina, trudnice, slijepe osobe i bolesnici koji su na intenziviranoj terapiji inzulinom (èetiri i više doza inzulina ili inzulinska pumpa), s dokazanom hipoglikemijom u hospitalnim uvjetima, a uz preporuku specijaliste dijabetologa iz pet hrvatskih klinièkih bolnièkih centara, KB Dubrava te Sveuèilišne klinika za dijabetes, endokrinologiju i bolesti metabolizma Vuk Vrhovac.</p><h5>Financiranje pripravnièkog staža</h5><p>Upravno vijeæe HZZO-a donijelo je odluku o financiranju pripravnièkog staža doktora medicine, doktora dentalne medicine, magistara farmacije i magistara medicinske biokemije i laboratorijske medicine u 2018. godini.</p><p>Njima se odobrava financiranje pripravnièkog staža u zdravstvenim ustanovama i kod privatnih zdravstvenih radnika, koji s HZZO-om imaju sklopljen ugovor za provedbu zdravstvene zaštite iz obveznog zdravstvenog osiguranja.</p><p>Nakon završenog postupka po provedenom javnom natjeèaju HZZO æe raspisati otvoreni javni natjeèaj za financiranje pripravnièkog staža tih zdravstvenih radnika, ali samo u opæim bolnicama.</p><p>Javni natjeèaj bit æe otvoren do 30. studenoga, odnosno do popunjenja slobodnih pripravnièkih mjesta.</p>
+<p>Èešnjak odavno slovi kao jedna od najzdravijih namirnica. Štoviše, narodna medicina smatra ga jednom od najljekovitijih biljaka.</p><p>No kako toèno èešnjak pomaže, prouèava se veæ stoljeæima. U nedavnoj studiji koju su objavili znanstvenici sa Sveuèilišta Nottingham, ustanovljeno je da èešnjak smanjuje rizik od pojave nekih oblika raka, kardiovaskularnih bolesti i dijabetesa tipa 2, piše <a href="https://www.independent.co.uk/life-style/food-and-drink/eating-garlic-can-reduce-cancer-risk-university-of-nottingham-study-a8325946.html" target="_blank">Independent</a>.</p><p>Nadalje, koliko æe vam èešnjak doista pomoæi, ovisi o naèinu na koji je pripremljen, iako znanstvenici još dvoje oko toga koji je naèin pripreme najbolji.</p><p>Èešnjak proizvodi mnogo razlièitih sumpornih spojeva, bez obzira je li samo narezan, fermentiran u alkoholu ili stisnut kako bi se od njega dobilo ulje.</p><p>Ti sumporni spojevi imaju utjecaj na 'plinovite signalne molekule' poput dušikovog oksida i sumporovodika koji se prirodno proizvode u ljudskom tijelu.</p><p>Izmijenjeni oblici plinovitih signalnih molekula mogu se naæi kod ljudi oboljelih od raznih bolesti i mogu imati velik utjecaj na meðusobnu komunikaciju stanica i održavanje ravnoteže u organizmu.</p><p>'Te molekule daju biljkama ekološku prednost kad rastu u divljini', kaže doktor <strong>Peter Rose</strong>, autor studije.</p><p>'No osim toga, one su takoðer biološki aktivne u stanicama i tkivima sisavaca, iako još ne znamo kakva je njihova uloga u metabolizmu ljudi.'</p><p>I dok se još raspravlja o najboljem naèinu pripremanja èešnjaka, znanstvenici se slažu da je upravo èešnjak jedna od biljaka s najveæom sposobnošæu obnavljanja.</p><p>'Unutar ovog podruèja ima mnogo moguænosti da se pronaðu naèini kako smanjiti rizik od neke bolesti i kako popraviti ljudsko zdravlje. No na kraju se sve svodi na fundamentalno pitanje o tome kakvu ulogu imaju ti spojevi u našem metabolizmu', kaže doktor Rose.</p><p>'Pred nama je još mnogo posla i istraživanja tih neobiènih sumpornih spojeva u našoj prehrani.'</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7282126 p").filter(function () {
+$("#content-body-6263871-7298728 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1336,16 +1332,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7282126").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7298728").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7282126").children().slice(max).remove();
+$("#content-body-6263871-7298728").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7282126").children().get(0);
+var firstChild = $("#content-body-6263871-7298728").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1383,23 +1379,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/spinalna_mi%C5%A1i%C4%87na_atrofija" class ="label label-default" >
-spinalna mišiæna atrofija
+<a href="https://www.jutarnji.hr/tag/rak" class ="label label-default" >
+rak
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Spinraza" class ="label label-default" >
-Spinraza
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Hrvatska" class ="label label-default" >
-Hrvatska
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/Zdravlje" class ="label label-default" >
-Zdravlje
+<a href="https://www.jutarnji.hr/tag/%C4%8De%C5%A1njak" class ="label label-default" >
+Èešnjak
 </a>
 </li>
 </ul>
@@ -1410,45 +1396,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="hrvatska media none">
+<article class="zdravlje media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/pobuna-u-povjerenstvu-za-lijekove-iz-vlade-trazili-da-se-upuste-u-nezabiljezen-i-opasan-presedan-komisija-odbila-necemo-to-je-krsenje-protokola/7249374/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/znanstvenici-otkrili-zasto-su-neki-karcinomi-zlocudniji-ovo-otkrice-otvorit-ce-put-preciznijem-odredivanju-terapije/7239234/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/pobuna-u-povjerenstvu-za-lijekove-iz-vlade-trazili-da-se-upuste-u-nezabiljezen-i-opasan-presedan-komisija-odbila-necemo-to-je-krsenje-protokola/7249374/">
-POBUNA U POVJERENSTVU ZA LIJEKOVE Iz Vlade tražili da se upuste u nezabilježen i opasan presedan, komisija odbila: 'Neæemo, to je kršenje protokola!'
+<a href="https://www.jutarnji.hr/life/zdravlje/znanstvenici-otkrili-zasto-su-neki-karcinomi-zlocudniji-ovo-otkrice-otvorit-ce-put-preciznijem-odredivanju-terapije/7239234/">
+ZNANSTVENICI OTKRILI ZAŠTO SU NEKI KARCINOMI ZLOÆUDNIJI Ovo otkriæe otvorit æe put preciznijem odreðivanju terapije
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="zivotne-price media none">
+<article class="znanost media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/foto-tein-zivot-u-osam-prizora-ovako-odrasta-prva-beba-koja-u-hrvatskoj-prima-spinrazu-fotografije-je-odabrala-njezina-majka-ivona/7233987/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/znanost/ugledni-hrvatski-znanstvenik-ivan-dikic-o-cudesnim-sastojcima-koji-se-reklamiraju-na-tv-u-ne-postoji-pripravak-koji-stiti-od-karcinoma/7225443/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/foto-tein-zivot-u-osam-prizora-ovako-odrasta-prva-beba-koja-u-hrvatskoj-prima-spinrazu-fotografije-je-odabrala-njezina-majka-ivona/7233987/">
-FOTO: TEIN ŽIVOT U OSAM PRIZORA Ovako odrasta prva beba koja u Hrvatskoj prima Spinrazu, fotografije je odabrala njezina majka Ivona
-</a>
-</h4>
-</li>
-</ul>
-</div>
-</article>
-<article class="hrvatska media none">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kujundzic-hzzo-ostvario-dobitak-od-241-milijuna-kuna/7237911/" data-widget-title="" data-web-position="box"
-data-widget-position="2">
-<ul>
-<li>
-<h4 class="title ">
-<a href="https://www.jutarnji.hr/vijesti/hrvatska/kujundzic-hzzo-ostvario-dobitak-od-241-milijuna-kuna/7237911/">
-Kujundžiæ: HZZO ostvario dobitak od 241 milijuna kuna
+<a href="https://www.jutarnji.hr/life/znanost/ugledni-hrvatski-znanstvenik-ivan-dikic-o-cudesnim-sastojcima-koji-se-reklamiraju-na-tv-u-ne-postoji-pripravak-koji-stiti-od-karcinoma/7225443/">
+UGLEDNI HRVATSKI ZNANSTVENIK IVAN ÐIKIÆ O 'ÈUDESNIM SASTOJCIMA' KOJI SE REKLAMIRAJU NA TV-u 'Ne postoji pripravak koji štiti od karcinoma'
 </a>
 </h4>
 </li>
@@ -1470,13 +1441,13 @@ Kujundžiæ: HZZO ostvario dobitak od 241 milijuna kuna
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1488,8 +1459,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1501,13 +1472,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1519,8 +1490,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1532,13 +1503,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1550,8 +1521,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1563,17 +1534,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1581,9 +1552,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1665,7 +1635,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7282126" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7298728" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1711,17 +1681,17 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <section>
 <article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/">
-ODLUKA VIJEÆA HZZO-a
+<a href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/">
+INTERVJU SA SUZY WENGEL
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/">
-SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska lista, dodani i lijekovi za multiplu sklerozu i KOPB
+<a href="https://www.jutarnji.hr/life/zdravlje/autorica-nove-hit-dijete-koja-je-zaludjela-svijet-ovo-je-najjednostavniji-nacin-prehrane-na-planetu-kolicinu-mjerite-sakama-zabranjene-hrane-nema/7324500/">
+AUTORICA NOVE HIT-DIJETE KOJA JE ZALUDJELA SVIJET Ovo je najjednostavniji naèin prehrane na planetu, kolièinu mjerite šakama, zabranjene hrane - nema!
 </a>
 </h4>
 </div>
@@ -1733,17 +1703,17 @@ SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska li
 <section>
 <article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/">
-BUDUÆNOST ZDRAVSTVA
+<a href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/">
+PREKOBROJNI KRALJEŽAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/jedini-cilj-zdravstva-je-vrijednost-za-pacijenta/7213908/">
-Jedini cilj zdravstva je vrijednost za pacijenta
+<a href="https://www.jutarnji.hr/life/zdravlje/u-zagrebu-uspjesno-izvedena-zahtjevna-rizicna-i-rijetka-ortopedska-operacija-matija-je-imao-deformaciju-kraljeznice-ali-sada-je-potpuno-izlijecen/7324356/">
+U ZAGREBU USPJEŠNO IZVEDENA ZAHTJEVNA, RIZIÈNA I RIJETKA ORTOPEDSKA OPERACIJA Matija je imao deformaciju kralježnice, ali sada je potpuno izlijeèen
 </a>
 </h4>
 </div>
@@ -1755,17 +1725,17 @@ Jedini cilj zdravstva je vrijednost za pacijenta
 <section>
 <article class="zdravlje media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/">
-VIŠE SREÆE NEGO PAMETI
+<a href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/">
+SKUPLJA ZA LIJEÈENJE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zdravlje/kakav-sreckovic-prevario-curu-pa-zaradio-najtezi-oblik-supergonoreje-ikad-mislilo-se-da-mu-nema-pomoci-no-onda-je-pronaden-antibiotik-koji-djeluje/7267389/">
-KAKAV SREÆKOVIÆ! Prevario curu pa zaradio najteži oblik supergonoreje ikad. Mislilo se da mu nema pomoæi, no onda je pronaðen antibiotik koji djeluje
+<a href="https://www.jutarnji.hr/life/zdravlje/zovu-je-djevojcica-zmija-tuzna-prica-o-tinejdzerici-koja-je-zbog-strasne-bolesti-prisiljena-zivjeti-u-osami-sto-sam-zgrijesila-da-ovako-patim/7311909/">
+ZOVU JE 'DJEVOJÈICA ZMIJA' Tužna prièa o tinejdžerici koja je zbog strašne bolesti prisiljena živjeti u osami: 'Što sam zgriješila da ovako patim?'
 </a>
 </h4>
 </div>
@@ -1825,19 +1795,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1845,8 +1815,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1933,6 +1903,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2222,11 +2197,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2274,14 +2244,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2325,56 +2295,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=36&contextPath=1-32-36-&pubId=1&cat=&meta=read-story&objId=7282126&type=article&title=SPINRAZA+UVR%c5%a0TENA+NA+OSNOVNU+LISTU+LIJEKOVA+Pro%c5%a1irene+su+i+osnovna+i+dopunska+lista%2c+dodani+i+lijekovi+za+multiplu+sklerozu+i+KOPB&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fspinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb%2f7282126%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=36&contextPath=1-32-36-&pubId=1&cat=&meta=read-story&objId=7298728&type=article&title=ZNANSTVENICI+RAZRIJE%c5%a0ILI+NEDOUMICE+Popularna+biljka+smatra+se+jednom+od+najljekovitijih%2c+a+sad+je+dokazano+da+%c5%a1titi+od+nekih+oblika+karcinoma&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fznanstvenici-razrijesili-nedoumice-popularna-biljka-smatra-se-jednom-od-najljekovitijih-a-sad-je-dokazano-da-stiti-od-nekih-oblika-karcinoma%2f7298728%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=36&amp;contextPath=1-32-36-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7282126&amp;type=article&amp;title=SPINRAZA+UVR%c5%a0TENA+NA+OSNOVNU+LISTU+LIJEKOVA+Pro%c5%a1irene+su+i+osnovna+i+dopunska+lista%2c+dodani+i+lijekovi+za+multiplu+sklerozu+i+KOPB&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fspinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb%2f7282126%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=36&amp;contextPath=1-32-36-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7298728&amp;type=article&amp;title=ZNANSTVENICI+RAZRIJE%c5%a0ILI+NEDOUMICE+Popularna+biljka+smatra+se+jednom+od+najljekovitijih%2c+a+sad+je+dokazano+da+%c5%a1titi+od+nekih+oblika+karcinoma&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fzdravlje%2fznanstvenici-razrijesili-nedoumice-popularna-biljka-smatra-se-jednom-od-najljekovitijih-a-sad-je-dokazano-da-stiti-od-nekih-oblika-karcinoma%2f7298728%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=570178512&title=Zdravlje&url=tag%3ajltags%40eph.hr%2c2016%3aZdravlje&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=1543491006&title=%c4%8ce%c5%a1njak&url=tag%3ajltags%40eph.hr%2c2016%3a%25C4%258De%25C5%25A1njak&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=570178512&amp;title=Zdravlje&amp;url=tag%3ajltags%40eph.hr%2c2016%3aZdravlje&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1543491006&amp;title=%c4%8ce%c5%a1njak&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C4%258De%25C5%25A1njak&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=1081023024&title=Hrvatska&url=tag%3ajltags%40eph.hr%2c2016%3aHrvatska&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=2014917132&title=rak&url=tag%3ajltags%40eph.hr%2c2016%3arak&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1081023024&amp;title=Hrvatska&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHrvatska&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=1225235490&title=Spinraza&url=tag%3ajltags%40eph.hr%2c2016%3aSpinraza&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1225235490&amp;title=Spinraza&amp;url=tag%3ajltags%40eph.hr%2c2016%3aSpinraza&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&cat=jltags%40eph.hr%2c2016&objId=238173016&title=spinalna+mi%c5%a1i%c4%87na+atrofija&url=tag%3ajltags%40eph.hr%2c2016%3aspinalna_mi%25C5%25A1i%25C4%2587na_atrofija&rt=1&ctxId=36&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=238173016&amp;title=spinalna+mi%c5%a1i%c4%87na+atrofija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aspinalna_mi%25C5%25A1i%25C4%2587na_atrofija&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-36-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2014917132&amp;title=rak&amp;url=tag%3ajltags%40eph.hr%2c2016%3arak&amp;rt=1&amp;ctxId=36&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2427,7 +2375,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/zdravlje/znanstvenici-razrijesili-nedoumice-popularna-biljka-smatra-se-jednom-od-najljekovitijih-a-sad-je-dokazano-da-stiti-od-nekih-oblika-karcinoma/7298728/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2437,14 +2385,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/zdravlje/spinraza-uvrstena-na-osnovnu-listu-lijekova-prosirene-su-i-osnovna-i-dopunska-lista-dodani-i-lijekovi-za-multiplu-sklerozu-i-kopb/7282126/",
-postId : "7282126",
+url : "https://www.jutarnji.hr/life/zdravlje/znanstvenici-razrijesili-nedoumice-popularna-biljka-smatra-se-jednom-od-najljekovitijih-a-sad-je-dokazano-da-stiti-od-nekih-oblika-karcinoma/7298728/",
+postId : "7298728",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "SPINRAZA UVRŠTENA NA OSNOVNU LISTU LIJEKOVA Proširene su i osnovna i dopunska lista, dodani i lijekovi za multiplu sklerozu i KOPB",
-pubdate : "2018-04-24 16:39",
-authors : "Hina",
-sections : "Front Page, Zdravlje",
-tags : "Zdravlje, Hrvatska, Spinraza, spinalna mišiæna atrofija",
+title : "ZNANSTVENICI RAZRIJEŠILI NEDOUMICE Popularna biljka smatra se jednom od najljekovitijih, a sad je dokazano da štiti od nekih oblika karcinoma",
+pubdate : "2018-04-29 17:08",
+authors : "Silvija Novak",
+sections : "Front Page, Life, Zdravlje",
+tags : "Èešnjak, rak",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

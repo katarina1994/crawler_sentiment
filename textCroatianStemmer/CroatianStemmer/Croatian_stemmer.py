@@ -71,7 +71,7 @@ class CroatianStemmer():
 		self.transformacije=[e.strip().split('\t') for e in open('transformations.txt')]
 		path = "cleanTextFromHTML"
 		allFiles = glob.glob(os.path.join(path, '*.txt'))
-		print (numberOfLinks)
+		#print (numberOfLinks)
 		while (numberOfLinks < len(allFiles)):
 			#for fileName in glob.glob(os.path.join(path, '*.txt')):
 			output_file = open("stemmedWords/stemmed-web-page-%05d.txt" % numberOfLinks, 'w')
@@ -95,3 +95,15 @@ class CroatianStemmer():
 		self.transformacije=[e.strip().split('\t') for e in open('transformations.txt')]
 		for token in re.findall(r'[\u0041-\u017F]+',text,re.UNICODE):
 			return (self.korjenuj(self.transformiraj(token)))
+		
+		
+	def stemArticle(self, text):
+		
+		text = text.split(" ")
+		stemmedText = []
+		for word in text:
+			self.pravila=[re.compile(r'^('+osnova+')('+nastavak+r')$') for osnova, nastavak in [e.strip().split(' ') for e in open('rules.txt')]]
+			self.transformacije=[e.strip().split('\t') for e in open('transformations.txt')]
+			for token in re.findall(r'[\u0041-\u017F]+',word,re.UNICODE):
+				stemmedText.append(self.korjenuj(self.transformiraj(token)))
+		return stemmedText

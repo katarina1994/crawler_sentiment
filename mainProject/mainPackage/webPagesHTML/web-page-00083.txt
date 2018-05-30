@@ -3,10 +3,10 @@
 >
 <head>
 <meta name="description" content=" " />
-<meta name="keywords" content="Gaming, Reboot Develop, Video igre" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="keywords" content="utapanje, Plivanje, djeca" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>ŠTO HRVATSKIM STVARATELJIMA VIDEO IGARA ZNAÈI KONFERENCIJA REBOOT DEVELOP Moguænost da igru pokažu poznatim dizajnerima neprocjenjiva je - Jutarnji List</title>
+<title>IGRA NA BAZENU UMALO ZAVRŠILA KOBNO Djevojèica skoro umrla od &#039;suhog utapanja&#039;; primijetite li ove simptome, brzo idite doktoru - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Gaming";
-var dfpCategoryParent = "Kultura";
-var dfpRos = "kultura-ros";
-var dfpArticle = "7279776";
-var dfpArticleKeyword = "Gaming";
+var dfpCategory = "Obitelj i djeca";
+var dfpCategoryParent = "Life";
+var dfpRos = "life-ros";
+var dfpArticle = "7288960";
+var dfpArticleKeyword = "utapanje";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,20 +652,20 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/kultura/gaming/untitled-1jpg/7279836/ALTERNATES/LANDSCAPE_1180/Untitled-1.jpg" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/curica-bazenjpg/7288987/ALTERNATES/LANDSCAPE_1180/curica%20bazen.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/kultura/gaming/untitled-1jpg/7279836/ALTERNATES/LANDSCAPE_1180/Untitled-1.jpg">
-<meta property="og:title" content="ŠTO HRVATSKIM STVARATELJIMA VIDEO IGARA ZNAÈI KONFERENCIJA REBOOT DEVELOP Moguænost da igru pokažu poznatim dizajnerima neprocjenjiva je" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/curica-bazenjpg/7288987/ALTERNATES/LANDSCAPE_1180/curica%20bazen.jpg">
+<meta property="og:title" content="IGRA NA BAZENU UMALO ZAVRŠILA KOBNO Djevojèica skoro umrla od 'suhog utapanja'; primijetite li ove simptome, brzo idite doktoru" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/" />
 <meta property="og:site_name" content="jutarnji.hr" />
 <meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Damjan Rakniæ">
-<meta name="twitter:title" content="ŠTO HRVATSKIM STVARATELJIMA VIDEO IGARA ZNAÈI KONFERENCIJA REBOOT DEVELOP Moguænost da igru pokažu poznatim dizajnerima neprocjenjiva je">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="IGRA NA BAZENU UMALO ZAVRŠILA KOBNO Djevojèica skoro umrla od 'suhog utapanja'; primijetite li ove simptome, brzo idite doktoru">
 <meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2438';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2437';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Gaming, Kultura, Front Page",
-pubdate: "2018-04-24T14:38+02:00",
-author: "Damjan Rakniæ",
+data: { section: "Obitelj i djeca, Life, Front Page",
+pubdate: "2018-04-26T12:48+02:00",
+author: "Silvija Novak",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="kultura story">
+<body class="life story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -808,12 +808,12 @@ Sport
 Novac.hr
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/">
 Life
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/kultura/">
 Kultura
 </a>
@@ -888,6 +888,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -936,7 +941,7 @@ Life
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -1030,7 +1035,7 @@ Arhitektura
 Kazalište
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/kultura/gaming/">
 Gaming
 </a>
@@ -1132,44 +1137,64 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/kultura/">Kultura </a>
+<li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/kultura/gaming/">Gaming </a></li>
+<li><a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">Obitelj i djeca </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/art/">
-Art
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
-Film i televizija
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
-Književnost
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/glazba/">
-Glazba
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/arhitektura/">
-Arhitektura
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/kultura/kazaliste/">
-Kazalište
-</a>
-</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/kultura/gaming/">
-Gaming
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
 </a>
 </li>
 </ul>
@@ -1209,11 +1234,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-NAJVAŽNIJI GAMING DOGAÐAJ U GODINI
+POÈINJE SEZONA KUPANJA
 </p>
 <h1
 class="title">
-ŠTO HRVATSKIM STVARATELJIMA VIDEO IGARA ZNAÈI KONFERENCIJA REBOOT DEVELOP Moguænost da igru pokažu poznatim dizajnerima neprocjenjiva je
+IGRA NA BAZENU UMALO ZAVRŠILA KOBNO Djevojèica skoro umrla od 'suhog utapanja'; primijetite li ove simptome, brzo idite doktoru
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1221,7 +1246,7 @@ class="title">
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/damjan-raknic">Damjan Rakniæ</a></li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1229,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-24.04.2018. u 14:38
+26.04.2018. u 12:48
 </p>
 </li>
 </ul>
@@ -1239,28 +1264,25 @@ class="published-date">
 <div class="row article_body jl-scroll-container " >
 <div class="col-sm-8 " >
 <section class="lead_image ">
-<section class="gaming media ">
+<section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/untitled-1jpg/7279836" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/curica-bazenjpg/7288987" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/kultura/gaming/untitled-1jpg/7279836/ALTERNATES/LANDSCAPE_380/Untitled-1.jpg"
+<img src="https://www.jutarnji.hr/incoming/curica-bazenjpg/7288987/ALTERNATES/LANDSCAPE_380/curica%20bazen.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/kultura/gaming/untitled-1jpg/7279836/BINARY/thumbnail/Untitled-1.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/curica-bazenjpg/7288987/BINARY/thumbnail/curica%20bazen.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt=", Image: 344049409, License: Royalty-free, Restrictions: , Model Release: no, Credit line: Profimedia, Alamy"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Dino Sertoviæ / REBOOT DEVELOP
+<span> Profimedia, Alamy / Facebook
 </span>
 </div>
-</div>
-<div class="picture-caption ">
-<h4>Leo Tot, Katarina Amižiæ i Zeno Žokalj</h4>
 </div>
 </div>
 </section>
@@ -1269,7 +1291,7 @@ class="media-object adaptive lazy "
 <section class="ci_lead ">
 <p
 class="leadtext">
-<p><strong>Kako ono ide uvodna pjesma “Kafiæa Uzdravlje”, “ponekad želite otiæi tamo gdje svi znaju vaše ime i uvijek im je drago što ste došli”? Isto vrijedi i za Reboot Develop, elitnu konferenciju posveæenu video igrama koja je ove godine doživjela svoje peto izdanje.</strong></p>
+<p> </p>
 </p>
 </section>
 <section>
@@ -1294,161 +1316,17 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7279776"
+<div id="content-body-6263871-7288960"
 >
-<p>Ogromni hotel Sheraton Riviera u Dubrovniku, mjesto održavanja konferencije, tijekom tri dana trajanja Developa kao da se smanjio i pretvorio u dnevni boravak stana vašeg najboljeg prijatelja. Najboljeg prijatelja koji obožava video igre, jer gdje god se okrenete - ili netko nešto igra, ili se raspravlja o tome je li igra God of War stvarno remek djelo ili dvije dizajnerske legende razmjenjuju iskustva rada.</p><p>Gotovo da se osjeæate krivima što ste formalno reèeno &quot;na konferenciji&quot;. Najneformalnija je to konferencija koju æete ikada posjetiti.</p><p>I premda je opuštena, šarmantna i intimna, ne dopustite da vas to zavara - ranije spomenuta rijeè “elitna” nije niti tepanje niti hiperbola. To je èinjenica. Rebootov tim na èelu s <strong>Damirom Ðuroviæem</strong> u pet je godina ovu konferenciju od skromnog druženja pretvorio u svjetsku atrakciju na kojoj predavanja drže najveæi struènjaci i proslavljeni dizajneri.</p><p>Željeli smo stoga doznati kako na Reboot Develop gledaju oni koji na njega dolaze kako bi stvorili karijeru u najjaèoj industriji zabave na svijetu pa vam donosimo prièe tri hrvatska studija za razvoj video igara koji su ove godine svoje igre pokazali na Developu.</p><h5>Void Main Studio</h5><p>“Reboot Develop vjerojatno je najvažniji dogaðaj u godini za sve koji se misle ozbiljno baviti video igrama”, objašnjava <strong>Leo Tot</strong>, suosnivaè, glavni operativac i kreativni direktor studija za razvoj video igara Void Main. “Studio koji s (Reboot Develop konferencije) ode bez ijednog sklopljenog dogovora ili ugovora ozbiljno je naštetio svojim naporima da igru koju razvija završi i stavi na tržište. Na ovu konferenciju dolaze važni ljudi iz industrije video igara i što je još važnije, dolaze zainteresirani i žele vidjeti što ljudi rade. Ovdje mogu naæi i poslovnog partnera, ali i talentiranog buduæeg zaposlenika.”</p><p>Void Main osnovan je u ožujku 2017. i ove godine prvi puta na Reboot Develop konferenciju pokazuju igre na kojima rade - Reboot Overlords, akcijsku igru u kojoj se do èetiri igraèa bore u dvodimenzionalnom prostoru s platformama i Terra: Trials of the Elements, igru odgonetavanja zagonetki za mobilne platforme.</p><p>
-<section>
-<article class="gaming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/1ed0705c-c228-4587-bc13-0453ca19209bjpg/7279311" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/kultura/gaming/1ed0705c-c228-4587-bc13-0453ca19209bjpg/7279311/ALTERNATES/FREE_380/1ED0705C-C228-4587-BC13-0453CA19209B.JPG"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/kultura/gaming/1ed0705c-c228-4587-bc13-0453ca19209bjpg/7279311/BINARY/thumbnail/1ED0705C-C228-4587-BC13-0453CA19209B.JPG"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Processed with VSCO with c8 preset"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Dino Sertoviæ / REBOOT DEVELOP
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Leo Tot iz studija Void Main</h4>
-</div>
-</div>
-</div>
-</article>
+<p>Obitelj s Floride prošla je kroz pravu agoniju kad je njihova 4-godišnja kæi završila u bolnici nakon što je nekoliko dana prije toga progutala malo vode iz bazena. Svoju su prièu objavili na društvenim mrežama kako bi ostale roditelje upozorili na opasnost tzv. 'suhog utapanja'.</p><p>Poèetkom travnja <strong>Elianna Grace </strong>je uživala brèkajuæi se u bazenu u kuæi svoje bake i djeda u Sarasoti na Floridi. Djevojèica se igrala s plastiènom cijevi za kupanje, tzv. 'pool noodle'.</p><p>'Kao što rade mnoga djeca, puhala je u jedan kraj cijevi kako bi voda izlazila s druge strane. No sluèajno je usta prislonila na cijev baš u trenutku kad je netko s druge strane puhnuo u cijev zbog èega je voda djevojèici direktno ušla u grlo, opisala je incident Eliannina majka <strong>Lacey</strong> na facebooku.</p><p>Dijete je odmah povratilo i 30 minuta nakon dogaðaja djelovala je potpuno normalno.</p><p>No sljedeæi dan dobila je vruæicu koja se ponavljala i u iduæim danima pa ju je majka odvela lijeèniku.</p><p>'Srce joj je jako brzo udaralo, razina kisika bila joj je niska i koža joj je poèela poprimati ljubièastu boju. Lijeènici su posumnjali na nekakvu kemijsku infekciju.'</p><p>Rendgen pluæa pokazao je upalu i infekciju te joj je na koncu dijagnosticirano tzv. 'suho utapanje' – stanje koje se javlja kad netko kroz nos ili usta udahne vodu koja potom završi u pluæima.</p><p> <section class="social_embed ">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D10211724169039631%26set%3Da.1845843185731.2102785.1230180042%26type%3D3&width=500" width="500" height="716" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 </section>
- </p><p>“Došli smo na konferenciju kako bismo vidjeli je li Terra: Trials of the Elements nakon ne više od dva mjeseca rada na dobrom putu da postane kvalitetan proizvod s tržišnim potencijalom i kako bismo pronašli potencijalnog poslovnog partnera koji æe nam pomoæi tu igru staviti na tržište”, kaže Tot i dodaje da su od možebitnih partnera i posjetitelja konferencije dobili dobre povratne informacije.</p><p>“Na uspjeh mobilnih igara znaèajno utjeèe korisnièko iskustvo i upravo zbog toga mobilne igre moraju imati iznimno precizne kontrole. Na primjer, u Terri se zagonetka okreæe tako što igraè kratko klikne ekran i mi to njemu moramo vrlo jasno prezentirati, ili putem uputa ili putem intuitivnog dizajna. Naši su igraèi meðutim prilikom igranja povlaèili prst preko ekrana jer im je ta gestikulacija poznata, tako inaèe kontroliraju svoj ureðaj. Tu smo pogriješili u prezentaciji igre jer smo smatrali da smo bili dovoljno jasni. Mi smo igraèu dužni pružiti igraèko iskustvo koje je njima prirodno”, kaže Tot.</p><p>Upravo je promatranje drugih dok igraju kljuèan element evaluacije uspješnosti kreativnih odluka dizajnera igre, a Tot kaže da je najvažnije poštovati igraèev utisak, neovisno o tome je li pozitivan ili negativan. “Nikada ne smijete reagirati emotivno, to uvijek mora biti analitièki. Uspjeh igre ovisi o igraèima i zato su nam njihove reakcije i povratne informacije iznimno važne.”</p><p>Tot ne taji da kod èlanova studija nastupi nervoza kada igraèi negdje zapnu. “Nije lijep osjeæaj kada vidiš da si promašio poantu”, otkriva i dodaje da ta spoznaja nekada nastupi i bez da im igraèi kažu da im nešto smeta. Tada nastupa sumnja. “To meðutim nije nešto što mi tajimo veæ tražimo od igraèa da nam kaže što mu nije po volji i do sad smo imali sreæu jer smo dobili uglavnom konstruktivne savjete”, kaže Tot.</p><p>O tome hoæe li se nešto u igri mijenjati odluèuje se podjednako na temelju povratnih informacija igraèa i izostanku direktne komunikacije. Tot objašnjava da se prilikom rada na igri ne mijenja nešto što nije “pokidano” jer bi se time anulirale korisne povratne informacije koje je studio veæ dobio od igraèa. “Stvari æemo mijenjati samo ako igraèi pronaðu naèin da “slome” igru ili da eksploatiraju neku od ponuðenih opcija. Otkriju li igraèi nešto o èemu nismo vodili raèuna, to se nikako neæe mijenjati. Dapaèe, drago nam je jer smo dobili još jednu igraæu mehaniku.”</p><p>
-<section>
-<article class="gaming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/b4f76cbc-9bc7-4bbf-9009-b476348a93f4jpg/7279638" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/kultura/gaming/b4f76cbc-9bc7-4bbf-9009-b476348a93f4jpg/7279638/ALTERNATES/FREE_380/B4F76CBC-9BC7-4BBF-9009-B476348A93F4.JPG"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/kultura/gaming/b4f76cbc-9bc7-4bbf-9009-b476348a93f4jpg/7279638/BINARY/thumbnail/B4F76CBC-9BC7-4BBF-9009-B476348A93F4.JPG"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Processed with VSCO with c8 preset"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Dino Sertoviæ / REBOOT DEVELOP
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Games Revolted</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><h5>Games Revolted</h5><p>Zbog èinjenice da na nju dolaze kljuèni akteri industrije video igara, konferencija Reboot Develop pomaže hrvatskim studijima za razvoj video igara zakljuèiti dogovore koji su zapoèeti ili putem emaila ili na drugim konferencijama. “Prošlog smo mjeseca prisustvovali konferenciji u San Franciscu i tamo smo stupili u pregovore s nekoliko potencijalnih poslovnih partnera. Kako smo znali da oni dolaze u Dubrovnik, na (Reboot Develop) smo došli zakljuèiti te dogovore”, kaže <strong>Katarina Amižiæ</strong>, upraviteljica marketingom u studiju Games Revolted.</p><p>“Više nam se naravno isplati ovdje sklapati poslove nego putovati po svijetu ili Sjedinjenim Amerièkim Državama. Reboot Develop nam omoguæava takav naèin rada jer na njega dolaze gotovo svi sudionici konferencije Game Developers Conference koja se nedavno održala u San Franciscu.”</p><p>Games Revolted na ovogodišnji je Reboot Develop donio praktièki potpuno novu verziju svoje igre Phageborn: Trading Card Game, inaèe prve hrvatske kartaške igre. “Tehnièki gledano, ovo nam je drugi puta da dolazimo jer smo prošle godine prikazali prototip igre. No, od tada do danas igra se praktièki u potpunosti promijenila pa možemo reæi da je ovo, kada je rijeè o Reboot Developu, svojevrstan debi nove poboljšane verzije igre” objašnjava Amižiæ i dodaje da studio od svojeg osnivanja krajem 2015. godine radi na Phagebornu te da igru planiraju izdati 2019. godine.</p><p>Za studio koji je od poèetna èetiri zaposlena narastao na današnjih 13, pokazivanje igre igraèima je kljuèno jer tako dobivaju povratne informacije koje ne mogu dobiti od igraèa koji probnu verziju igraju kod kuæe. “Kada smo odmah pored igraèa, možemo èuti što im se sviða, a što ne. Zato se naša igra toliko promijenila. Takoðer, istraživali smo što su igraèi sliènih igara poput Hearthstonea htjeli u njima vidjeti i pokušali smo udovoljiti potrebama koje vidimo da igraci imaju u igrama istog žanra”, kaže Amižiæ.</p><p>
-<section>
-<article class="gaming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/aa173376-67ea-4208-9551-bc856e1ea3c0jpg/7279635" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/kultura/gaming/aa173376-67ea-4208-9551-bc856e1ea3c0jpg/7279635/ALTERNATES/FREE_380/AA173376-67EA-4208-9551-BC856E1EA3C0.JPG"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/kultura/gaming/aa173376-67ea-4208-9551-bc856e1ea3c0jpg/7279635/BINARY/thumbnail/AA173376-67EA-4208-9551-BC856E1EA3C0.JPG"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Processed with VSCO with c8 preset"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Dino Sertoviæ / REBOOT DEVELOP
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Katarina Amižiæ, Games Revolted</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Amižiæ kaže da iskustvo gledanja drugih kako igraju Phageborn èlanove studija ispuni ponosom, pa èak i kada igraèi negdje zapnu. “Tu je rijeè uglavnom o igraèima koji kartaške igre do sada nisu igrali. Dapaèe, takve situacije su odlièan alat za uèenje o tome kako prezentaciju igre uèiniti što jednostavnijom”, dodaje Amižiæ i kaže da im èak ni opetovane pogreške igraèa nisu izvor stresa. “Da se razumijemo, Phageborn je zahtjevna igra i oni koji nisu upoznati s takvim igrama morat æe uložiti vrijeme da je nauèe igrati. Mi smo tu da im taj proces olakšamo.”</p><p>Unatoè tome što Phageborn sigurno napreduje prema svom cilju, Amižiæ kaže da se Games Revolted svejedno muèi s pronalaskom kadra s kojim æe popuniti svoje redove. “Nedostaje nam programera i to onih iskusnih. Nemojte me krivo shvatiti, na tržištu ih ima, meðutim veæina ih veæ negdje radi i tamo imaju dobre uvjete pa ih je teže dovesti”, objašnjava Amižiæ.</p><p>Svatko tko je imao prilike igrati Phageborn ili gledati druge kako ga igraju odmah je uoèio da je igra vizualno vrlo atraktivna. Amižiæ kaže da su za izgled igre zaslužni umjetnici diljem svijeta. “Phageborn je smješten u mraèan fantastièan svijet i više nam se isplatilo koristiti slobodne umjetnike koji ga znaju predoèiti toèno onako kako želimo nego zaposliti nekoliko ljudi koji bi se možda muèili sa zadacima”, dodaje. “Oformili smo tijekom godina bazu od stotinu umjetnika s kojima suraðujemo i to se pokazalo kao odlièno rješenje.”</p><p>
-<section>
-<article class="gaming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/a2dfc029-b391-4222-a209-2e98d6516a30jpg/7279716" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/kultura/gaming/a2dfc029-b391-4222-a209-2e98d6516a30jpg/7279716/ALTERNATES/FREE_380/A2DFC029-B391-4222-A209-2E98D6516A30.JPG"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/kultura/gaming/a2dfc029-b391-4222-a209-2e98d6516a30jpg/7279716/BINARY/thumbnail/A2DFC029-B391-4222-A209-2E98D6516A30.JPG"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Processed with VSCO with c8 preset"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Dino Sertoviæ / REBOOT DEVELOP
-</span>
-</div>
-</div>
-<div class="picture-caption ">
-<h4>Zeno Žokalj</h4>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><h5>Gungrounds/Croteam inkubator</h5><p><strong>Zeno Žokalj</strong>, upravitelj marketingom i odnosima s javnošæu kreativnog i poslovnog inkubatora proslavljenog hrvatskog studija za razvoj video igara Croteam, veæ dugi niz godina radi s video igrama i zna koliko su dogaðaji poput Reboot Developa važni.</p><p>“Pametan æe tim uvijek prihvatiti savjete igraèa jer ih ima više, nekad i po tisuæu puta više. Nema šanse da je razvojni tim pametniji od svih tih igraèa”, kaže Žokalj koji je na ovogodišnjem Developu prvi puta uživo prisutan dok posjetitelji konferencije igraju igre koje su studiji u sklopu Croteamovog inkubatora poželjeli pokazati javnosti. “Upravo su nam ti igraèi tijekom isprobavanja igre ukazali na neke probleme koje æe razvojni tim korigirati po završetku konferencije, primarno su se ticali kretanja kamere kada odjednom igraju dva igraèa.”</p><p>Croteam je o ideji inkubatora za projekte poèeo razmišljati još 2015. godine i to s ciljem da mladim te malim studijima pomognu razviti svoje ideje. Nije tu rijeè o nekoj apstraktnoj pomoæi i samo lijepim rijeèima, Croteam je timovima koje je primio u svoj inkubator dao prostor i tehniku za rad, a nekim su projektima èak i financijski pomogli. Jedan od projekata koji se razvija u sklopu inkubatora je i igra Tormental studija za razvoj video igara Gungrounds.</p><p>“Na igri se radi veæ barem tri godine, meðutim ona nije oduvijek nosila ime Tormental. Igra je život poèela kao Spitfire, meðutim kada je ušla u Croteamov inkubator modificirana je tako što je premještena u svijet Croteamovog serijala video igara Serious Sam. Èak štoviše, radnja igre se odvija u glavi Samovog najveæeg neprijatelja - Mentala”, objašnjava Žokalj i dodaje da upravo zato igra izgleda tako kako izgleda. “To su Mentalovi misli i strahovi, zato je sve stilizirano.”</p><p>
-<section>
-<article class="gaming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/2416f80a-c66d-476d-b22c-40ec71b2ac24jpg/7279713" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="media-body">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/kultura/gaming/2416f80a-c66d-476d-b22c-40ec71b2ac24jpg/7279713/ALTERNATES/FREE_380/2416F80A-C66D-476D-B22C-40EC71B2AC24.JPG"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/kultura/gaming/2416f80a-c66d-476d-b22c-40ec71b2ac24jpg/7279713/BINARY/thumbnail/2416F80A-C66D-476D-B22C-40EC71B2AC24.JPG"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Processed with VSCO with c8 preset"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Dino Sertoviæ / REBOOT DEVELOP
-</span>
-</div>
-</div>
-</div>
-</div>
-</article>
-</section>
- </p><p>Kako bi doèarali nepredvidivost kretanja kroz neèiji um, Gungrounds su odluèili Tormental smjestiti na sjecište žanrova akcijske igre s pucanjem i posebne vrste igara koje od igraèa traže istraživanje prostora koji se svakim ponovnim ulaskom u njih nanovo stvaraju, tzv. “roguelike”. Žokalj kaže da je bilo važno da Tormental doðe na Reboot Develop jer se znalo da æe na konferenciju doæi jedan od najpoznatijih dizajnera igara koje su nalik Tormentalu, <strong>Rami Ismail</strong>.</p><p>“Gledajuæi realno, da je Tormental samo pokazan na Developu, to mu ne bi puno pomoglo. Meðutim, to se sve mijenja kada dobijete Ismaila da odigra vašu igru, napiše svoje poprilièno detaljno mišljenje u bilježnicu dojmova i sve to objasni èlanovima razvojnog tima”, objašnjava Žokalj. “Mi smo mu se nakon toga zahvalili putem Twittera. On je potom tu zahvalu retweetao. To je vidljivost koja igri može samo pomoæi. Naime, Ismail igre poput Tormentala i radi i igra pa naše pojavljivanje u njegovom tweetu automatski upozorava njegove sljedbenike da trebaju pripaziti na Tormental. Osim toga, dizajneri vašu igru igraju drukèije od obiènih igraèa i od njih možete doznati funkcionira li vaša igra onako kako bi trebala. To je neprocjenjivo za svaki mladi tim.”</p><p>Žokalj meðutim kaže da kod primanja informacija od igraèa, bez obzira na to koliko netko od njih poznat bio, treba biti oprezan te da je tu dobro imati posrednika izmeðu igraèa i razvojnog tima. “Naravno da je timu drago kada sve ide po planu, meðutim nama je uvijek problematièniji onaj drugi dio, a to je kako pronaæi pozitivne konstruktivne kritike meðu onim negativnima”, zakljuèio je Žokalj.</p>
+ </p><p>Neposredno nakon incidenta, Lacey se sjetila jednog novinskog èlanka o djeèaku koji je zbog sliène nezgode umro nakon sedam dana.</p><p>'Sjetila sam se te prièe i brzo pohitala u bolnicu što je spasilo moju kæer. Da smo èekali, možda bismo je izgubili', kaže Lacey.</p><p>Za razliku od obiènog utapanja koje se može dogoditi na bazenu, rijeci ili moru, 'suho utapanje' poène se manifestirati tek nekoliko dana nakon što je osoba udahnula vodu. Takvo stanje najèešæe se dogaða kod male djece.</p><p>Simptomi 'suhog ili sekundarnog utapanja' su poteškoæe u disanju, dugotrajni kašalj, pospanost, tromost i povraæanje.</p><p>Prošle godine mediji su pisali o 4-godišnjem <strong>Franciscu Delgadu</strong> (djeèaku kojeg se sjetila Eliannina mama) koji je umro nakon obiteljskog odlaska na kupanje.</p><p>Djeèak je nekoliko dana nakon izleta poèeo pokazivati simptome sliène želuèanoj virozi ukljuèujuæi povraæanje i proljev da bi lijeènici u njegovim pluæima i oko srca pronašli vodu.</p><p>Doktor <strong>Thomas Waters </strong>s odjela za hitnu pomoæ bolnice u Clevelandu rekao je da stanje može uzrokovati grèenje mišiæa zaduženih za disanje.</p><p>'Dijete pokušava disati preko zaèepljenih glasnica što može dovesti do upale, oticanja i pojave vode u pluæima. U drugim sluèajevima, samo malo vode dospije u pluæa pa se dijete, naizgled, oporavi, no nekoliko sati kasnije vrati se upala i još tekuæine u pluæima.'</p><p>Lacey kaže kako je bila vrlo zahvalna što je proèitala èlanak o nesretnom djeèaku jer je zbog toga znala što mora uèiniti kad se i njezinoj kæeri dogodilo nešto slièno.</p><p>'Lijeènici su mi rekli da je prava sreæa što smo je doveli na vrijeme jer joj je razina kisika u krvi pala na vrlo nisku razinu. Istovremeno, Elianna je izgledala kao da spava. Nije se èinilo da se muèi.'</p><p>Djevojèica je puštena iz bolnice i sada se oporavlja kod kuæe. Obitelj Grace željela je podijeliti ovu prièu s javnosti kako bi upozorili i druge roditelje.</p><p>'Ako mislite da nešto nije u redu, otiðite lijeèniku. U najboljem sluèaju, neæe biti ništa i poslat æe vas kuæi. No budite svjesni što se može dogoditi.'</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7279776 p").filter(function () {
+$("#content-body-6263871-7288960 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1457,16 +1335,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7279776").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7288960").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7279776").children().slice(max).remove();
+$("#content-body-6263871-7288960").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7279776").children().get(0);
+var firstChild = $("#content-body-6263871-7288960").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1504,18 +1382,18 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Video_igre" class ="label label-default" >
-Video igre
+<a href="https://www.jutarnji.hr/tag/djeca-1" class ="label label-default" >
+djeca
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Reboot_Develop" class ="label label-default" >
-Reboot Develop
+<a href="https://www.jutarnji.hr/tag/plivanje" class ="label label-default" >
+Plivanje
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Gaming" class ="label label-default" >
-Gaming
+<a href="https://www.jutarnji.hr/tag/utapanje" class ="label label-default" >
+utapanje
 </a>
 </li>
 </ul>
@@ -1526,30 +1404,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="gaming media none">
+<article class="crna-kronika media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/kako-pisci-rade-na-videoigrama-interaktivnost-nije-presudna-izazov-je-razmisljati-prostorno-tradicionalne-pripovjedacke-strukture-ne-funkcioniraju/7268568/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/sokantni-detalji-istrage-o-smrti-osmogodisnjaka-na-rodendanskoj-proslavi-dok-se-djecak-utapao-u-bazenu-spasilac-lovio-papagaja/7278291/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/kako-pisci-rade-na-videoigrama-interaktivnost-nije-presudna-izazov-je-razmisljati-prostorno-tradicionalne-pripovjedacke-strukture-ne-funkcioniraju/7268568/">
-KAKO PISCI RADE NA VIDEOIGRAMA Interaktivnost nije presudna, izazov je razmišljati prostorno, tradicionalne pripovjedaèke strukture ne funkcioniraju
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/sokantni-detalji-istrage-o-smrti-osmogodisnjaka-na-rodendanskoj-proslavi-dok-se-djecak-utapao-u-bazenu-spasilac-lovio-papagaja/7278291/">
+ŠOKANTNI DETALJI ISTRAGE O SMRTI OSMOGODIŠNJAKA NA ROÐENDANSKOJ PROSLAVI Dok se djeèak utapao u bazenu, spasilac lovio papagaja?!
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="tehnologija media none">
+<article class="crna-kronika media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/tehnologija/sto-muci-e-sportove-u-hrvatskoj-cetiri-kljucna-problema-sprecavaju-ih-da-postignu-svoj-puni-potencijal-za-rjesenje-bi-se-mogli-ugledati-na-nogomet/7243845/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/video-pogledajte-horor-na-tradicionalnom-novogodisnjem-kupanju-dvije-osobe-preminule-ozlijedeni-i-vatrogasci/6892821/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/tehnologija/sto-muci-e-sportove-u-hrvatskoj-cetiri-kljucna-problema-sprecavaju-ih-da-postignu-svoj-puni-potencijal-za-rjesenje-bi-se-mogli-ugledati-na-nogomet/7243845/">
-ŠTO MUÈI E-SPORTOVE U HRVATSKOJ? Èetiri kljuèna problema spreèavaju ih da postignu svoj puni potencijal, za rješenje bi se mogli ugledati na nogomet
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/video-pogledajte-horor-na-tradicionalnom-novogodisnjem-kupanju-dvije-osobe-preminule-ozlijedeni-i-vatrogasci/6892821/">
+VIDEO: POGLEDAJTE HOROR NA TRADICIONALNOM NOVOGODIŠNJEM KUPANJU Dvije osobe preminule, ozlijeðeni i vatrogasci
 </a>
 </h4>
 </li>
@@ -1571,13 +1449,13 @@ data-widget-position="1">
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1589,8 +1467,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1602,13 +1480,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1620,8 +1498,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1633,13 +1511,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1651,8 +1529,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1664,17 +1542,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1682,9 +1560,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1766,7 +1643,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7279776" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7288960" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1810,19 +1687,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="gaming media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/">
-NAJVAŽNIJI GAMING DOGAÐAJ U GODINI
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/">
+TABU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/">
-ŠTO HRVATSKIM STVARATELJIMA VIDEO IGARA ZNAÈI KONFERENCIJA REBOOT DEVELOP Moguænost da igru pokažu poznatim dizajnerima neprocjenjiva je
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/">
+MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru, a ja sam 15 godina vozila klince u školu. Ali nije da ih ne volim'
 </a>
 </h4>
 </div>
@@ -1832,19 +1709,19 @@ NAJVAŽNIJI GAMING DOGAÐAJ U GODINI
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="gaming media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/ruska-psiholoska-igra-sa-zavezanim-ocima-zbog-koje-igraci-vriste-od-straha-u-zagrebu-upravo-lansiran-morpheus/7007037/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/gaming/ruska-psiholoska-igra-sa-zavezanim-ocima-zbog-koje-igraci-vriste-od-straha-u-zagrebu-upravo-lansiran-morpheus/7007037/">
-INTERAKTIVNI STRAH I TREPET
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/">
+MARKIRANA ODJEÆA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/ruska-psiholoska-igra-sa-zavezanim-ocima-zbog-koje-igraci-vriste-od-straha-u-zagrebu-upravo-lansiran-morpheus/7007037/">
-RUSKA PSIHOLOŠKA IGRA SA ZAVEZANIM OÈIMA ZBOG KOJE IGRAÈI VRIŠTE OD STRAHA U Zagrebu upravo lansiran Morpheus
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/">
+FOTO: DJEÈAK SE IZRUGIVAO DJECI KOJA NOSE JEFTINU ODJEÆU, MAJKA GA DOVELA U RED 'Da više ljudi tako odgaja svoju djecu, svijet bi bio ljepši!'
 </a>
 </h4>
 </div>
@@ -1854,19 +1731,19 @@ RUSKA PSIHOLOŠKA IGRA SA ZAVEZANIM OÈIMA ZBOG KOJE IGRAÈI VRIŠTE OD STRAHA U Zag
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="gaming media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/videoigra-koja-je-zaradila-vise-od-ijednog-blockbustera-u-povijesti-nakon-cetiri-godine-i-dalje-medu-najprodavanijima/7231986/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/gaming/videoigra-koja-je-zaradila-vise-od-ijednog-blockbustera-u-povijesti-nakon-cetiri-godine-i-dalje-medu-najprodavanijima/7231986/">
-UNOSNA INDUSTRIJA
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/">
+POÈINJE SEZONA KUPANJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/videoigra-koja-je-zaradila-vise-od-ijednog-blockbustera-u-povijesti-nakon-cetiri-godine-i-dalje-medu-najprodavanijima/7231986/">
-VIDEOIGRA KOJA JE ZARADILA VIŠE OD IJEDNOG BLOCKBUSTERA U POVIJESTI Nakon èetiri godine i dalje meðu najprodavanijima
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/">
+IGRA NA BAZENU UMALO ZAVRŠILA KOBNO Djevojèica skoro umrla od 'suhog utapanja'; primijetite li ove simptome, brzo idite doktoru
 </a>
 </h4>
 </div>
@@ -1876,19 +1753,19 @@ VIDEOIGRA KOJA JE ZARADILA VIŠE OD IJEDNOG BLOCKBUSTERA U POVIJESTI Nakon èetiri
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="gaming media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/kultura/gaming/hrvatski-kreatori-video-igara-klasicni-zanr-okrenuli-naglavacke-binx-interactive-je-saljivu-doskocicu-iz-serious-sama-pretvorio-u-zaraznu-pucacinu/6711777/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/kultura/gaming/hrvatski-kreatori-video-igara-klasicni-zanr-okrenuli-naglavacke-binx-interactive-je-saljivu-doskocicu-iz-serious-sama-pretvorio-u-zaraznu-pucacinu/6711777/">
-RETRO, ALI MODERNO
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/">
+STALNO ONLINE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/kultura/gaming/hrvatski-kreatori-video-igara-klasicni-zanr-okrenuli-naglavacke-binx-interactive-je-saljivu-doskocicu-iz-serious-sama-pretvorio-u-zaraznu-pucacinu/6711777/">
-HRVATSKI KREATORI VIDEO IGARA KLASIÈNI ŽANR OKRENULI NAGLAVAÈKE Binx Interactive je šaljivu doskoèicu iz Serious Sama pretvorio u zaraznu pucaèinu
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/">
+UZNEMIRUJUÆE ISPOVIJESTI MLADIH OVISNIKA 'Danima sam sjedio u sobi i surfao po društvenim mrežama. Jednog jutra došla su po mene dva èovjeka...'
 </a>
 </h4>
 </div>
@@ -1926,19 +1803,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1946,8 +1823,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -2036,6 +1913,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -2084,7 +1966,7 @@ Life
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -2178,7 +2060,7 @@ Arhitektura
 Kazalište
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/kultura/gaming/">
 Gaming
 </a>
@@ -2323,11 +2205,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2375,14 +2252,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2426,45 +2303,45 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=46&contextPath=1-43-46-&pubId=1&cat=&meta=read-story&objId=7279776&type=article&title=%c5%a0TO+HRVATSKIM+STVARATELJIMA+VIDEO+IGARA+ZNA%c4%8cI+KONFERENCIJA+REBOOT+DEVELOP+Mogu%c4%87nost+da+igru+poka%c5%beu+poznatim+dizajnerima+neprocjenjiva+je&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fgaming%2fsto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je%2f7279776%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=41&contextPath=1-32-41-&pubId=1&cat=&meta=read-story&objId=7288960&type=article&title=IGRA+NA+BAZENU+UMALO+ZAVR%c5%a0ILA+KOBNO+Djevoj%c4%8dica+skoro+umrla+od+%26%23039%3bsuhog+utapanja%26%23039%3b%3b+primijetite+li+ove+simptome%2c+brzo+idite+doktoru&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fobitelj-i-djeca%2figra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru%2f7288960%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=46&amp;contextPath=1-43-46-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7279776&amp;type=article&amp;title=%c5%a0TO+HRVATSKIM+STVARATELJIMA+VIDEO+IGARA+ZNA%c4%8cI+KONFERENCIJA+REBOOT+DEVELOP+Mogu%c4%87nost+da+igru+poka%c5%beu+poznatim+dizajnerima+neprocjenjiva+je&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fgaming%2fsto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je%2f7279776%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=41&amp;contextPath=1-32-41-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7288960&amp;type=article&amp;title=IGRA+NA+BAZENU+UMALO+ZAVR%c5%a0ILA+KOBNO+Djevoj%c4%8dica+skoro+umrla+od+%26%23039%3bsuhog+utapanja%26%23039%3b%3b+primijetite+li+ove+simptome%2c+brzo+idite+doktoru&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fobitelj-i-djeca%2figra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru%2f7288960%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&cat=jltags%40eph.hr%2c2016&objId=1041231371&title=Gaming&url=tag%3ajltags%40eph.hr%2c2016%3aGaming&rt=1&ctxId=46&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=1223107868&title=utapanje&url=tag%3ajltags%40eph.hr%2c2016%3autapanje&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1041231371&amp;title=Gaming&amp;url=tag%3ajltags%40eph.hr%2c2016%3aGaming&amp;rt=1&amp;ctxId=46&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1223107868&amp;title=utapanje&amp;url=tag%3ajltags%40eph.hr%2c2016%3autapanje&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&cat=jltags%40eph.hr%2c2016&objId=2020507031&title=Reboot+Develop&url=tag%3ajltags%40eph.hr%2c2016%3aReboot_Develop&rt=1&ctxId=46&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=1471497033&title=Plivanje&url=tag%3ajltags%40eph.hr%2c2016%3aplivanje&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2020507031&amp;title=Reboot+Develop&amp;url=tag%3ajltags%40eph.hr%2c2016%3aReboot_Develop&amp;rt=1&amp;ctxId=46&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1471497033&amp;title=Plivanje&amp;url=tag%3ajltags%40eph.hr%2c2016%3aplivanje&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&cat=jltags%40eph.hr%2c2016&objId=2146465115&title=Video+igre&url=tag%3ajltags%40eph.hr%2c2016%3aVideo_igre&rt=1&ctxId=46&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=1862858513&title=djeca&url=tag%3ajltags%40eph.hr%2c2016%3adjeca-1&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-46-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2146465115&amp;title=Video+igre&amp;url=tag%3ajltags%40eph.hr%2c2016%3aVideo_igre&amp;rt=1&amp;ctxId=46&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1862858513&amp;title=djeca&amp;url=tag%3ajltags%40eph.hr%2c2016%3adjeca-1&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2517,7 +2394,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2527,14 +2404,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/kultura/gaming/sto-hrvatskim-stvarateljima-video-igara-znaci-konferencija-reboot-develop-mogucnost-da-igru-pokazu-poznatim-dizajnerima-neprocjenjiva-je/7279776/",
-postId : "7279776",
+url : "https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/",
+postId : "7288960",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "ŠTO HRVATSKIM STVARATELJIMA VIDEO IGARA ZNAÈI KONFERENCIJA REBOOT DEVELOP Moguænost da igru pokažu poznatim dizajnerima neprocjenjiva je",
-pubdate : "2018-04-24 14:38",
-authors : "Damjan Rakniæ",
-sections : "Front Page, Tehnologija, Gaming",
-tags : "Gaming, Reboot Develop, Video igre",
+title : "IGRA NA BAZENU UMALO ZAVRŠILA KOBNO Djevojèica skoro umrla od 'suhog utapanja'; primijetite li ove simptome, brzo idite doktoru",
+pubdate : "2018-04-26 12:48",
+authors : "Silvija Novak",
+sections : "Front Page, Life, Obitelj i djeca",
+tags : "utapanje, Plivanje, djeca",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

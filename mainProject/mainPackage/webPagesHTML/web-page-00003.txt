@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Njemaèki državljanin Thomas S. ljetovao je u Fažani u kolovozu 2014. Svoj je auto parkirao na oznaèenom mjestu i platio parkirnu kartu, no unatoè tome kad se svratio našao je bloker kotaèa na automobilu, piše Croexpress." />
-<meta name="keywords" content="parking kazna, Nijemci, Fažana" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Olivera Lakiæ, novinarka crnogorskih Vijesti, ranjena je ispred svog stana u Podgorici." />
+<meta name="keywords" content="Olivera Lakiæ, Crna Gora" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>NIJEMAC SE ŠOKIRAO NAKON ÈESTITKE IZ HRVATSKE Mislio je da su mu 2014. u Istri sluèajno stavili bloker kotaèa na auto... - Jutarnji List</title>
+<title>VIDEO: PROPUCANA POZNATA CRNOGORSKA NOVINARKA Saèekuša u Podgorici: Teško ranjena reporterka vodeæeg dnevnog lista, ovo nije prvi napad na nju - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Bizarre";
-var dfpCategoryParent = "Viral";
-var dfpRos = "viral-ros";
-var dfpArticle = "7285597";
-var dfpArticleKeyword = "parking kazna";
+var dfpCategory = "Svijet";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7335066";
+var dfpArticleKeyword = "Olivera Lakiæ";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/viral/bizarre/nijemac-se-sokirao-nakon-cestitke-iz-hrvatske-mislio-je-da-su-mu-2014-u-istri-slucajno-stavili-bloker-kotaca-na-auto/7285597/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/viral/bizarre/nijemac-se-sokirao-nakon-cestitke-iz-hrvatske-mislio-je-da-su-mu-2014-u-istri-slucajno-stavili-bloker-kotaca-na-auto/7285597/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/svijet/video-propucana-poznata-crnogorska-novinarka-sacekusa-u-podgorici-tesko-ranjena-reporterka-vodeceg-dnevnog-lista-ovo-nije-prvi-napad-na-nju/7335066/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/svijet/video-propucana-poznata-crnogorska-novinarka-sacekusa-u-podgorici-tesko-ranjena-reporterka-vodeceg-dnevnog-lista-ovo-nije-prvi-napad-na-nju/7335066/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/parkiranje/7285606/ALTERNATES/LANDSCAPE_1180/parkiranje" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/prosvjed_podgorica14-241015jpg/7058244/ALTERNATES/LANDSCAPE_1180/prosvjed_podgorica14-241015.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/parkiranje/7285606/ALTERNATES/LANDSCAPE_1180/parkiranje">
-<meta property="og:title" content="NIJEMAC SE ŠOKIRAO NAKON ÈESTITKE IZ HRVATSKE Mislio je da su mu 2014. u Istri sluèajno stavili bloker kotaèa na auto..." />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/prosvjed_podgorica14-241015jpg/7058244/ALTERNATES/LANDSCAPE_1180/prosvjed_podgorica14-241015.jpg">
+<meta property="og:title" content="VIDEO: PROPUCANA POZNATA CRNOGORSKA NOVINARKA Saèekuša u Podgorici: Teško ranjena reporterka vodeæeg dnevnog lista, ovo nije prvi napad na nju" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/viral/bizarre/nijemac-se-sokirao-nakon-cestitke-iz-hrvatske-mislio-je-da-su-mu-2014-u-istri-slucajno-stavili-bloker-kotaca-na-auto/7285597/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/svijet/video-propucana-poznata-crnogorska-novinarka-sacekusa-u-podgorici-tesko-ranjena-reporterka-vodeceg-dnevnog-lista-ovo-nije-prvi-napad-na-nju/7335066/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Njemaèki državljanin Thomas S. ljetovao je u Fažani u kolovozu 2014. Svoj je auto parkirao na oznaèenom mjestu i platio parkirnu kartu, no unatoè tome kad se svratio našao je bloker kotaèa na automobilu, piše Croexpress." />
+<meta property="og:description" content="Olivera Lakiæ, novinarka crnogorskih Vijesti, ranjena je ispred svog stana u Podgorici." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="NIJEMAC SE ŠOKIRAO NAKON ÈESTITKE IZ HRVATSKE Mislio je da su mu 2014. u Istri sluèajno stavili bloker kotaèa na auto...">
-<meta name="twitter:description" content="Njemaèki državljanin Thomas S. ljetovao je u Fažani u kolovozu 2014. Svoj je auto parkirao na oznaèenom mjestu i platio parkirnu kartu, no unatoè tome kad se svratio našao je bloker kotaèa na automobilu, piše Croexpress.">
+<meta name="twitter:creator" content=" Slobodna Dalmacija">
+<meta name="twitter:title" content="VIDEO: PROPUCANA POZNATA CRNOGORSKA NOVINARKA Saèekuša u Podgorici: Teško ranjena reporterka vodeæeg dnevnog lista, ovo nije prvi napad na nju">
+<meta name="twitter:description" content="Olivera Lakiæ, novinarka crnogorskih Vijesti, ranjena je ispred svog stana u Podgorici.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -677,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2440';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -689,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Bizarre, Viral, Front Page",
-pubdate: "2018-04-25T14:51+02:00",
-author: "Silvija Novak",
+data: { section: "Svijet, Vijesti, Front Page",
+pubdate: "2018-05-08T23:55+02:00",
+author: "Slobodna Dalmacija",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="viral story">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -793,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -823,7 +823,7 @@ Kultura
 Spektakli
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/viral/">
 Viral
 </a>
@@ -863,7 +863,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -886,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1093,7 +1098,7 @@ Fun
 Aww
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/viral/bizarre/">
 Bizarre
 </a>
@@ -1132,34 +1137,44 @@ Mozgalice
 </div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/viral/">Viral </a>
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/viral/bizarre/">Bizarre </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/svijet/">Svijet </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
 <li class="">
-<a href="https://www.jutarnji.hr/viral/fun/">
-Fun
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/viral/aww/">
-Aww
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
 </a>
 </li>
 <li class="active">
-<a href="https://www.jutarnji.hr/viral/bizarre/">
-Bizarre
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/viral/meme/">
-Meme
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
 </a>
 </li>
 <li class="">
-<a href="https://www.jutarnji.hr/viral/mozgalice/">
-Mozgalice
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1199,11 +1214,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-MUKE PO PARKINGU
+OLIVERA LAKIÆ
 </p>
 <h1
 class="title">
-NIJEMAC SE ŠOKIRAO NAKON ÈESTITKE IZ HRVATSKE Mislio je da su mu 2014. u Istri sluèajno stavili bloker kotaèa na auto...
+VIDEO: PROPUCANA POZNATA CRNOGORSKA NOVINARKA Saèekuša u Podgorici: Teško ranjena reporterka vodeæeg dnevnog lista, ovo nije prvi napad na nju
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1211,7 +1226,7 @@ NIJEMAC SE ŠOKIRAO NAKON ÈESTITKE IZ HRVATSKE Mislio je da su mu 2014. u Istri s
 <p
 class="authors">
 <ul>
-<li> Jutarnji.hr</li>
+<li><a href="https://www.jutarnji.hr/autori/slobodna-dalmacija"> Slobodna Dalmacija</a></li>
 </ul>
 </p>
 </li>
@@ -1219,7 +1234,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-25.04.2018. u 14:51
+08.05.2018. u 23:55
 </p>
 </li>
 </ul>
@@ -1231,23 +1246,29 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/parkiranje/7285606" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/prosvjed_podgorica14-241015jpg/7058244" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/parkiranje/7285606/ALTERNATES/LANDSCAPE_380/parkiranje"
+<img src="https://www.jutarnji.hr/incoming/prosvjed_podgorica14-241015jpg/7058244/ALTERNATES/LANDSCAPE_380/prosvjed_podgorica14-241015.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/parkiranje/7285606/BINARY/thumbnail/parkiranje"
+data-src-template="https://www.jutarnji.hr/incoming/prosvjed_podgorica14-241015jpg/7058244/BINARY/thumbnail/prosvjed_podgorica14-241015.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=", Image: 353931094, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, Alamy"
+alt="Podgorica, Crna Gora, 241015.
+Glavni grad Crne Gore uoci vecerasnjeg prosvjeda protiv Mile Djukanovica, koji u organizaciji Demokratskog fronta pocinje veceras u 19 sati.
+Na fotografiji: Policija i ograde ispred Ustavnog suda Crne Gore.
+Foto: Niksa Duper / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Profimedia, Alamy
+<span> Nikša Duper / CROPIX
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Arhivska fotografija</h4>
 </div>
 </div>
 </section>
@@ -1281,14 +1302,23 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7285597"
+<div id="content-body-6263871-7335066"
 >
-<p>Njemaèki državljanin <strong>Thomas S.</strong> ljetovao je u Fažani u kolovozu 2014. Svoj je auto parkirao na oznaèenom mjestu i platio parkirnu kartu, no unatoè tome kad se svratio našao je bloker kotaèa na automobilu, piše <a href="http://www.croexpress.eu/vijest.php?vijest=15015" target="_blank">Croexpress</a>.</p><p>Službeniku koji naplaæuje parking pokazao je plaæenu kartu na što je ovaj maknuo bloker, poderao parkirnu kartu i uvjerio Nijemca da je sve u redu.</p><p>Meðutim, prièi tu nije kraj.</p><p>Kako na svojim stranicama prenosi njemaèki autoklub (ADAC), 2016. godine Thomas je dobio pismo od javnog bilježnika iz Pule u kojem ga obavještava da je dužan platiti kaznu u iznosu od 125 odmah ili æe kazna narasti na 185 eura. Ona prva kazna za parkiranje iznosila je oko 20 eura.</p><p>Èitavu bizarnu situaciju, Thomas je prijavio sudu i ADACU, a taj postupak još uvijek traje.</p><p>Na službenim stranicama ADAC-a, opisan je i sluèaj kad je jedan hrvatski utjerivaè dugova za neplaæenu kazno od 13 eura, tražio èak 407 eura. Iz ADAC-a takoðer upozoravaju sve svoje korisnike koji putuju u Hrvatsku da dva puta provjere smije li se negdje parkirati, a ako i dobiju kaznu najbolje da je odmah plate i saèuvaju raèun. Takoðer, ADAC æe osigurati pravnu pomoæ svima koji se naðu u neobiènoj situaciji kao Thomas s poèetka prièe.</p>
+<p><strong>Olivera Lakiæ</strong>, novinarka crnogorskih<strong> <a href="http://www.vijesti.me/vijesti/ranjena-novinarka-vijesti-olivera-lakic-987621" target="_blank">Vijesti</a></strong>,<strong> </strong>ranjena je u utorak ispred svog stana u Podgorici.</p><p>Incident se dogodio u ranim veèernjim satima na Bulevaru Svetog Petra Cetinjskog, a na licu mjesta nalaze se hitna pomoæ i policija.</p><p>
+<section class="social_embed ">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6dZ6N8VD7dw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</section>
+ </p><p><strong><a href="http://www.vijesti.me/vijesti/ranjena-novinarka-vijesti-olivera-lakic-987621" target="_blank">Vijesti</a></strong> prenose kako je njihova novinarka upucana u nogu, a zadobila je ranu desne potkoljenice. Nalazi se izvan životne opasnosti.</p><p>Dežurni lijeènik<strong> Aleksandar Vuliæ</strong> je potvrdio da Lakiæ nije životno ugrožena i kazao da æe biti zadržana u Centru za kirurgiju.</p><p>- Vjerojatno su je saèekali ispred ulaza, gdje je pretuèena prije šest godina, prišao joj je èovjek i pucao u nogu. Ona kaže da su bila još dvojica koji su pobjegli. Znaèi nemam rijeèi dokle više, do kad æe se više ovo dogaðati u ovoj našoj divnoj Crnoj Gori? Nijedan napad na nju nije riješen. Mnoge prièe koje je napisala, a koje ukazuju na kriminal, nisu uopæe istražene. Dokle æemo strepiti od ovakvih kukavica - pitao se ispred Klinièkog centra Crne Gore glavni urednik &quot;Vijesti&quot; <strong>Mihailo Jovoviæ</strong>.</p><p>Vijesti podsjeæaju i da ovo nije prvi put da se dogodio napad na Lakiæ. Prije šest godina 29-godišnji <strong>Ivan Buškoviæ</strong> brutalno ju je premlatio, no policija ga je ubrzo uhitila. U ovom sluèaju napadaè je još uvijek nepoznat.</p><p>Direktor Uprave policije <strong>Vesko Damjanoviæ</strong> osudio je napad na Oliveru Lakiæ.</p><p>- Uèiniit æemo sve što je u našoj moæi da saznamo i otkrijemo ovaj dogaðaj i izvršitelje privedemo pravdi, kazao je Damjanoviæ. Novinari, aktivisti i graðani u srijedu æe se okupiti u 11 sati ispred zgrade Vlade Crne Gore u znak prosvjeda zbog napada na novinarku.</p><p>Predsjednik Vlade Crne Gore<strong> Duško Markoviæ</strong> najoštrije je osudio napad.</p><p>- Sloboda medija i neometan rad novinara temeljno je opredjeljenje Vlade. Od nadležnih zahtijevam brzu i efikasnu istragu kojom æe biti otkriveni motivi napada, napadaèi i njihovi eventualni sudionici i nalogodavci, poruèio je Markoviæ na službenom Twitter profilu crnogorske vlade.</p><p>
+<section class="social_embed ">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">PV Duško Markoviæ najoštrije osuðuje oružani napad na novinarku Lakiæ.<br>Sloboda medija i neometan rad novinara temeljno je opredjeljenje Vlade. Od nadležnih zahtijevam brzu i efikasnu istragu kojom æe biti otkriveni motivi napada, napadaèi i njihovi ev. sauèesnici i nalogodavci.</p>&mdash; Vlada Crne Gore (@VladaCG) <a href="https://twitter.com/VladaCG/status/993953068952838145?ref_src=twsrc%5Etfw">May 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7285597 p").filter(function () {
+$("#content-body-6263871-7335066 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1297,16 +1327,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7285597").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7335066").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7285597").children().slice(max).remove();
+$("#content-body-6263871-7335066").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7285597").children().get(0);
+var firstChild = $("#content-body-6263871-7335066").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1344,18 +1374,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Fa%C5%BEana" class ="label label-default" >
-Fažana
+<a href="https://www.jutarnji.hr/tag/Crna_Gora" class ="label label-default" >
+Crna Gora
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/Nijemci" class ="label label-default" >
-Nijemci
-</a>
-</li>
-<li>
-<a href="https://www.jutarnji.hr/tag/parking_kazna" class ="label label-default" >
-parking kazna
+<a href="https://www.jutarnji.hr/tag/Olivera_Laki%C4%87" class ="label label-default" >
+Olivera Lakiæ
 </a>
 </li>
 </ul>
@@ -1366,30 +1391,30 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
-<article class="tvrtke media none">
+<article class="crna-kronika media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/biznis/tvrtke/turisti-vec-koriste-novu-digitalnu-uslugu-infoart-je-predstavio-aplikaciju-paydo-za-placanje-parkinga/7248039/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/tinejdzer-izboden-u-centru-splita-napao-ga-muskarac-s-kojim-se-zestoko-posvadao-policiju-o-svemu-obavijestili-djelatnici-hitne-pomoci/7322349/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/biznis/tvrtke/turisti-vec-koriste-novu-digitalnu-uslugu-infoart-je-predstavio-aplikaciju-paydo-za-placanje-parkinga/7248039/">
-TURISTI VEÆ KORISTE NOVU DIGITALNU USLUGU Infoart je predstavio aplikaciju PayDo za plaæanje parkinga
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/tinejdzer-izboden-u-centru-splita-napao-ga-muskarac-s-kojim-se-zestoko-posvadao-policiju-o-svemu-obavijestili-djelatnici-hitne-pomoci/7322349/">
+TINEJDŽER IZBODEN U CENTRU SPLITA Napao ga muškarac s kojim se žestoko posvaðao, policiju o svemu obavijestili djelatnici Hitne pomoæi
 </a>
 </h4>
 </li>
 </ul>
 </div>
 </article>
-<article class="zivotne-price media none">
+<article class="crna-kronika media none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/zivotne-price/kontrolori-parkiralista-svi-misle-da-malo-rade-sjajno-zaraduju-i-zaposljavaju-se-preko-veze-kontrolor-bozidar-novacki-otkriva-sto-je-od-toga-istina/7243833/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-detalje-krvave-noci-u-splitu-nozem-izbo-maloljetnika-i-ostavio-ga-ranjenog-na-cesti-nastavljen-niz-pokusaja-ubojstava-u-gradu-pod-marjanom/7324578/" data-widget-title="" data-web-position="box"
 data-widget-position="1">
 <ul>
 <li>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/zivotne-price/kontrolori-parkiralista-svi-misle-da-malo-rade-sjajno-zaraduju-i-zaposljavaju-se-preko-veze-kontrolor-bozidar-novacki-otkriva-sto-je-od-toga-istina/7243833/">
-KONTROLORI PARKIRALIŠTA Svi misle da malo rade, sjajno zaraðuju i zapošljavaju se preko veze. Kontrolor Božidar Novaèki otkriva što je od toga istina
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/otkrivamo-detalje-krvave-noci-u-splitu-nozem-izbo-maloljetnika-i-ostavio-ga-ranjenog-na-cesti-nastavljen-niz-pokusaja-ubojstava-u-gradu-pod-marjanom/7324578/">
+OTKRIVAMO DETALJE KRVAVE NOÆI U SPLITU: NOŽEM IZBO MALOLJETNIKA I OSTAVIO GA RANJENOG NA CESTI Nastavljen niz pokušaja ubojstava u gradu pod Marjanom
 </a>
 </h4>
 </li>
@@ -1411,13 +1436,13 @@ KONTROLORI PARKIRALIŠTA Svi misle da malo rade, sjajno zaraðuju i zapošljavaju s
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1429,8 +1454,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1442,13 +1467,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1460,8 +1485,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1473,13 +1498,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1491,8 +1516,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1504,17 +1529,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1522,9 +1547,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1606,7 +1630,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7285597" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7335066" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1650,19 +1674,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="bizarre media c11a video-jl">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/viral/bizarre/video-seksaju-se-na-kruznim-tokovima-i-goli-trce-po-mostovima-norveska-uvodi-drasticne-mjere-zbog-divljanja-maturantica-i-maturanata-na-norijadi/7276320/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/viral/bizarre/video-seksaju-se-na-kruznim-tokovima-i-goli-trce-po-mostovima-norveska-uvodi-drasticne-mjere-zbog-divljanja-maturantica-i-maturanata-na-norijadi/7276320/">
-PREŠLI SVAKU GRANICU
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+SAMO NEK' SE OKREÆE...
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/viral/bizarre/video-seksaju-se-na-kruznim-tokovima-i-goli-trce-po-mostovima-norveska-uvodi-drasticne-mjere-zbog-divljanja-maturantica-i-maturanata-na-norijadi/7276320/">
-VIDEO: SEKSAJU SE NA KRUŽNIM TOKOVIMA I GOLI TRÈE PO MOSTOVIMA Norveška uvodi drastiène mjere zbog divljanja maturantica i maturanata na norijadi
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-skupina-muskaraca-s-balkana-sokirala-stanovnike-njemacke-prijestolnice-usred-parka-okrenuli-12-janjaca-na-raznju/7330713/">
+FOTO: SKUPINA MUŠKARACA S BALKANA ŠOKIRALA STANOVNIKE NJEMAÈKE PRIJESTOLNICE Usred parka okrenuli 12 janjaca na ražnju
 </a>
 </h4>
 </div>
@@ -1672,19 +1696,19 @@ VIDEO: SEKSAJU SE NA KRUŽNIM TOKOVIMA I GOLI TRÈE PO MOSTOVIMA Norveška uvodi dr
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="bizarre media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/viral/bizarre/samanski-pripravak-sve-je-popularniji-u-europi-no-je-li-opasan-koriste-ga-za-prosirenje-svijesti-i-rjesavanje-problema-evo-sto-se-zapravo-zbiva/5949077/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/viral/bizarre/samanski-pripravak-sve-je-popularniji-u-europi-no-je-li-opasan-koriste-ga-za-prosirenje-svijesti-i-rjesavanje-problema-evo-sto-se-zapravo-zbiva/5949077/">
-MISTERIOZNA AYAHUASCA
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+NE CVATU IM RUŽE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/viral/bizarre/samanski-pripravak-sve-je-popularniji-u-europi-no-je-li-opasan-koriste-ga-za-prosirenje-svijesti-i-rjesavanje-problema-evo-sto-se-zapravo-zbiva/5949077/">
-ŠAMANSKI PRIPRAVAK SVE JE POPULARNIJI U EUROPI, NO JE LI OPASAN? Koriste ga za proširenje svijesti i rješavanje problema, evo što se zapravo zbiva...
+<a href="https://www.jutarnji.hr/vijesti/svijet/razotkrivena-tuzna-svakodnevnica-prve-dame-amerike-objavljeni-nepoznati-detalji-iz-zivota-melanije-trump-cijela-situacija-je-neugodna/7327638/">
+RAZOTKRIVENA TUŽNA SVAKODNEVNICA PRVE DAME AMERIKE Objavljeni nepoznati detalji iz života Melanije Trump: 'Cijela situacija je neugodna'
 </a>
 </h4>
 </div>
@@ -1694,19 +1718,19 @@ MISTERIOZNA AYAHUASCA
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="bizarre media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/viral/bizarre/u-sest-mjeseci-jako-je-narastao-berac-gljiva-mislio-da-je-naletio-na-ostavljeno-stene-ali-pola-godine-kasnije-shvatio-je-u-kakvoj-je-zabludi-bio/7146876/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/viral/bizarre/u-sest-mjeseci-jako-je-narastao-berac-gljiva-mislio-da-je-naletio-na-ostavljeno-stene-ali-pola-godine-kasnije-shvatio-je-u-kakvoj-je-zabludi-bio/7146876/">
-UMJESTO SLATKOG PSIÆA - ZVIJER
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+GLOBALNA NAPETOST
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/viral/bizarre/u-sest-mjeseci-jako-je-narastao-berac-gljiva-mislio-da-je-naletio-na-ostavljeno-stene-ali-pola-godine-kasnije-shvatio-je-u-kakvoj-je-zabludi-bio/7146876/">
-'U ŠEST MJESECI JAKO JE NARASTAO...' Beraè gljiva mislio da je naletio na ostavljeno štene, ali pola godine kasnije shvatio je u kakvoj je zabludi bio
+<a href="https://www.jutarnji.hr/vijesti/svijet/svi-cekaju-trumpovu-odluku-koja-bi-mogla-uzdrmati-svijet-veceras-ce-objaviti-da-se-amerika-povlaci-iz-nuklearnog-sporazuma-s-iranom/7332828/">
+SVI ÈEKAJU TRUMPOVU ODLUKU KOJA BI MOGLA UZDRMATI SVIJET Veèeras æe objaviti da se Amerika povlaèi iz nuklearnog sporazuma s Iranom?
 </a>
 </h4>
 </div>
@@ -1716,19 +1740,19 @@ UMJESTO SLATKOG PSIÆA - ZVIJER
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="bizarre media c11a none">
+<article class="svijet media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/viral/bizarre/susjedi-na-tajnim-obredima-kod-samana-placaju-mu-100-eura-za-ayahuasca-napitak-pa-se-prepustaju-halucinacijama-neki-vide-vanzemaljce-neki-umrle/5374587/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/viral/bizarre/susjedi-na-tajnim-obredima-kod-samana-placaju-mu-100-eura-za-ayahuasca-napitak-pa-se-prepustaju-halucinacijama-neki-vide-vanzemaljce-neki-umrle/5374587/">
-SEANSE PO PREPORUCI
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+PRIJELOMNI TRENUTAK
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/viral/bizarre/susjedi-na-tajnim-obredima-kod-samana-placaju-mu-100-eura-za-ayahuasca-napitak-pa-se-prepustaju-halucinacijama-neki-vide-vanzemaljce-neki-umrle/5374587/">
-SUSJEDI NA TAJNIM OBREDIMA KOD ŠAMANA Plaæaju mu 100 eura za ayahuasca napitak pa se prepuštaju halucinacijama: 'Neki vide vanzemaljce, neki umrle'
+<a href="https://www.jutarnji.hr/vijesti/svijet/trump-u-obracanju-naciji-potvrdio-amerika-se-povlaci-iz-nuklearnog-sporazuma-s-iranom-taj-sporazum-je-katastrofalan-i-defektan-u-svojoj-srzi/7333917/">
+TRUMP U OBRAÆANJU NACIJI POTVRDIO: AMERIKA SE POVLAÈI IZ NUKLEARNOG SPORAZUMA S IRANOM 'Taj sporazum je katastrofalan i defektan u svojoj srži'
 </a>
 </h4>
 </div>
@@ -1766,19 +1790,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1786,8 +1810,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1851,7 +1875,7 @@ Vijesti
 Hrvatska
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/svijet/">
 Svijet
 </a>
@@ -1874,6 +1898,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -2081,7 +2110,7 @@ Fun
 Aww
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/viral/bizarre/">
 Bizarre
 </a>
@@ -2163,11 +2192,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2215,14 +2239,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2266,45 +2290,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=57&contextPath=1-56-57-&pubId=1&cat=&meta=read-story&objId=7285597&type=article&title=NIJEMAC+SE+%c5%a0OKIRAO+NAKON+%c4%8cESTITKE+IZ+HRVATSKE+Mislio+je+da+su+mu+2014.+u+Istri+slu%c4%8dajno+stavili+bloker+kota%c4%8da+na+auto...&url=https%3a%2f%2fwww.jutarnji.hr%2fviral%2fbizarre%2fnijemac-se-sokirao-nakon-cestitke-iz-hrvatske-mislio-je-da-su-mu-2014-u-istri-slucajno-stavili-bloker-kotaca-na-auto%2f7285597%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=18&contextPath=1-16-18-&pubId=1&cat=&meta=read-story&objId=7335066&type=article&title=VIDEO%3a+PROPUCANA+POZNATA+CRNOGORSKA+NOVINARKA+Sa%c4%8deku%c5%a1a+u+Podgorici%3a+Te%c5%a1ko+ranjena+reporterka+vode%c4%87eg+dnevnog+lista%2c+ovo+nije+prvi+napad+na+nju&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fvideo-propucana-poznata-crnogorska-novinarka-sacekusa-u-podgorici-tesko-ranjena-reporterka-vodeceg-dnevnog-lista-ovo-nije-prvi-napad-na-nju%2f7335066%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=57&amp;contextPath=1-56-57-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7285597&amp;type=article&amp;title=NIJEMAC+SE+%c5%a0OKIRAO+NAKON+%c4%8cESTITKE+IZ+HRVATSKE+Mislio+je+da+su+mu+2014.+u+Istri+slu%c4%8dajno+stavili+bloker+kota%c4%8da+na+auto...&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fviral%2fbizarre%2fnijemac-se-sokirao-nakon-cestitke-iz-hrvatske-mislio-je-da-su-mu-2014-u-istri-slucajno-stavili-bloker-kotaca-na-auto%2f7285597%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=18&amp;contextPath=1-16-18-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7335066&amp;type=article&amp;title=VIDEO%3a+PROPUCANA+POZNATA+CRNOGORSKA+NOVINARKA+Sa%c4%8deku%c5%a1a+u+Podgorici%3a+Te%c5%a1ko+ranjena+reporterka+vode%c4%87eg+dnevnog+lista%2c+ovo+nije+prvi+napad+na+nju&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fsvijet%2fvideo-propucana-poznata-crnogorska-novinarka-sacekusa-u-podgorici-tesko-ranjena-reporterka-vodeceg-dnevnog-lista-ovo-nije-prvi-napad-na-nju%2f7335066%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-57-&cat=jltags%40eph.hr%2c2016&objId=2104283904&title=parking+kazna&url=tag%3ajltags%40eph.hr%2c2016%3aparking_kazna&rt=1&ctxId=57&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=708497852&title=Olivera+Laki%c4%87&url=tag%3ajltags%40eph.hr%2c2016%3aOlivera_Laki%25C4%2587&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-57-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2104283904&amp;title=parking+kazna&amp;url=tag%3ajltags%40eph.hr%2c2016%3aparking_kazna&amp;rt=1&amp;ctxId=57&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=708497852&amp;title=Olivera+Laki%c4%87&amp;url=tag%3ajltags%40eph.hr%2c2016%3aOlivera_Laki%25C4%2587&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-57-&cat=jltags%40eph.hr%2c2016&objId=506291987&title=Nijemci&url=tag%3ajltags%40eph.hr%2c2016%3aNijemci&rt=1&ctxId=57&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&cat=jltags%40eph.hr%2c2016&objId=1966991612&title=Crna+Gora&url=tag%3ajltags%40eph.hr%2c2016%3aCrna_Gora&rt=1&ctxId=18&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-57-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=506291987&amp;title=Nijemci&amp;url=tag%3ajltags%40eph.hr%2c2016%3aNijemci&amp;rt=1&amp;ctxId=57&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
-</div>
-</noscript>
-<script type="text/javascript">
-//<![CDATA[
-var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-57-&cat=jltags%40eph.hr%2c2016&objId=915761640&title=Fa%c5%beana&url=tag%3ajltags%40eph.hr%2c2016%3aFa%25C5%25BEana&rt=1&ctxId=57&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-//]]>
-</script>
-<noscript>
-<div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-56-57-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=915761640&amp;title=Fa%c5%beana&amp;url=tag%3ajltags%40eph.hr%2c2016%3aFa%25C5%25BEana&amp;rt=1&amp;ctxId=57&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-18-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1966991612&amp;title=Crna+Gora&amp;url=tag%3ajltags%40eph.hr%2c2016%3aCrna_Gora&amp;rt=1&amp;ctxId=18&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2357,7 +2370,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/viral/bizarre/nijemac-se-sokirao-nakon-cestitke-iz-hrvatske-mislio-je-da-su-mu-2014-u-istri-slucajno-stavili-bloker-kotaca-na-auto/7285597/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/svijet/video-propucana-poznata-crnogorska-novinarka-sacekusa-u-podgorici-tesko-ranjena-reporterka-vodeceg-dnevnog-lista-ovo-nije-prvi-napad-na-nju/7335066/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2367,14 +2380,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/viral/bizarre/nijemac-se-sokirao-nakon-cestitke-iz-hrvatske-mislio-je-da-su-mu-2014-u-istri-slucajno-stavili-bloker-kotaca-na-auto/7285597/",
-postId : "7285597",
+url : "https://www.jutarnji.hr/vijesti/svijet/video-propucana-poznata-crnogorska-novinarka-sacekusa-u-podgorici-tesko-ranjena-reporterka-vodeceg-dnevnog-lista-ovo-nije-prvi-napad-na-nju/7335066/",
+postId : "7335066",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "NIJEMAC SE ŠOKIRAO NAKON ÈESTITKE IZ HRVATSKE Mislio je da su mu 2014. u Istri sluèajno stavili bloker kotaèa na auto...",
-pubdate : "2018-04-25 14:51",
-authors : "Silvija Novak",
-sections : "Front Page, Bizarre",
-tags : "parking kazna, Nijemci, Fažana",
+title : "VIDEO: PROPUCANA POZNATA CRNOGORSKA NOVINARKA Saèekuša u Podgorici: Teško ranjena reporterka vodeæeg dnevnog lista, ovo nije prvi napad na nju",
+pubdate : "2018-05-08 23:55",
+authors : "Slobodna Dalmacija",
+sections : "Front Page, Svijet",
+tags : "Olivera Lakiæ, Crna Gora",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

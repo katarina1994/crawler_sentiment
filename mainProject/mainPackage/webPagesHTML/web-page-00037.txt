@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="" />
-<meta name="keywords" content="strane zvijezde, Ariel Winter" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="Prvašiæ Mario u ponedjeljak ujutro, kao i svakog dana od poèetka rujna, sa svojom asistenticom Teom došao je na nastavu u zagrebaèku Osnovnu školu Frana Krste Frankopana. S plavom torbom na leðima ušetao je u školsko dvorište i malo se prepao, vidjevši da ga u dvorištu èekaju oba roditelja i baka u društvu nepoznatih ljudi, u kojima Mario nije prepoznavao odvjetnike, novinare i aktiviste." />
+<meta name="keywords" content="Autizam, škole" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Ariel Winter u ultra kratkoj haljinici pokazala previše - Jutarnji List</title>
+<title>POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -41,76 +41,174 @@ dfpMobileMaxWidth = 960;
 dfpStickyMinWidth = 1024;
 dfpStickyUnitHeightLimit = 600;
 dfpStickyColumnHeightLimit = 680;
-dfpLazyUnitOffset = 1000;
+dfpLazyUnitOffset = 3000;
 dfpUnitRefresh = 15000;
 doClickTracking = false;
 dfpAdSlots = {};
 dfpLazyLoad = [];
 dfpUnits = {
-"fot" : {
-"div-gpt-ad-1504618478356-0" : {
-"slot" : "gallery1",
-"unit" : "pos1",
-"size" : [[300, 250], [970, 90], [970, 250], [320, 100], [2, 1]],
-"sizeType" : "pagebreak",
-"container" : "dfp-gallery-1",
-"lazyLoad" : true,
-"deviceType" : "all",
-"loaded" : false
+"cla" : {
+"div-gpt-ad-1459756830165-0" : {
+"slot" : "aside1",
+"unit" : "300x600",
+"size" : [[300, 600], [300, 1], [300, 1050], [300, 601], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-1",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
 },
-"div-gpt-ad-1504618478356-1" : {
-"slot" : "gallery2",
-"unit" : "pos2",
-"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 2]],
-"sizeType" : "pagebreak",
-"container" : "dfp-gallery-2",
-"lazyLoad" : true,
-"deviceType" : "all",
-"loaded" : false
 },
-"div-gpt-ad-1504618478356-2" : {
-"slot" : "gallery3",
-"unit" : "pos3",
-"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 3]],
-"sizeType" : "pagebreak",
-"container" : "dfp-gallery-3",
-"lazyLoad" : true,
-"deviceType" : "all",
-"loaded" : false
+"div-gpt-ad-1459756830165-1" : {
+"slot" : "aside2",
+"unit" : "300x602",
+"size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-2",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
 },
-"div-gpt-ad-1504618478356-3" : {
-"slot" : "gallery4",
-"unit" : "pos4",
-"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 4]],
-"sizeType" : "pagebreak",
-"container" : "dfp-gallery-4",
-"lazyLoad" : true,
-"deviceType" : "all",
-"loaded" : false
 },
-"div-gpt-ad-1504618478356-4" : {
-"slot" : "gallery5",
-"unit" : "pos5",
-"size" : [[300, 250], [970, 90], [970, 250], [728, 90], [320, 100], [2, 5]],
+"div-gpt-ad-1459756830165-2" : {
+"slot" : "billboard",
+"unit" : "bb_nav",
+"size" : [[1180, 150], [1180, 500], [970, 500], [970, 1000], [970, 90], [300, 100], [300, 150], [320, 100], [320, 50], [1180, 250], [300, 50], [1, 3], [970, 250], [970, 251]],
 "sizeType" : "pagebreak",
-"container" : "dfp-gallery-5",
+"container" : "jl-billboard-nav-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1462358187814-0" : {
+"slot" : "billboardbot",
+"unit" : "bb_bot",
+"size" : [[300, 250], [320, 100], [320, 50], [1180, 250], [970, 250], [970, 90], [1, 7]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-bot-wrapper",
 "lazyLoad" : true,
+"mobile" : true,
 "deviceType" : "all",
-"loaded" : false
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-7" : {
+"slot" : "inarticle1",
+"unit" : "ia_1",
+"size" : [[300, 50], [320, 50], [320, 100], [300, 150], [760, 250], [760, 500], [320, 480], [600, 250], [570, 250], [728, 90], [300, 100], [2, 1], [300, 250], [300, 605]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-1",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-8" : {
+"slot" : "inarticle2",
+"unit" : "ia_2",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [300, 100], [300, 150], [2, 2], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-2",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-9" : {
+"slot" : "inarticle3",
+"unit" : "ia_3",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [2, 3], [300, 100], [300, 150], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-3",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-6" : {
+"slot" : "float",
+"unit" : "float",
+"size" : [1, 1],
+"sizeType" : "outofpage",
+"container" : "jl-floater-wrapper",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-10" : {
+"slot" : "wallpaper",
+"unit" : "wp",
+"size" : "",
+"sizeType" : "outofpage",
+"container" : "jl-wallpaper-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
 },
 }
 };
 var dfpCountryCode = "HR";
-var dfpCurrentPageType = "fot";
+var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-dfpGalleryImgNum = parseInt("7") - 1;
-dfpGalleryUnitNum = Math.floor(dfpGalleryImgNum / 5);
-var dfpCategory = "Strane zvijezde";
-var dfpCategoryParent = "Spektakli";
-var dfpRos = "spektakli-ros";
-var dfpArticle = "7284265";
-var dfpArticleKeyword = "strane zvijezde";
+var dfpCategory = "Hrvatska";
+var dfpCategoryParent = "Vijesti";
+var dfpRos = "vijesti-ros";
+var dfpArticle = "7329546";
+var dfpArticleKeyword = "Autizam";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -495,6 +593,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
+<script>
+var elipsoResizeTimeout;
+function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
+if (!elipsoResizeTimeout) {
+elipsoResizeTimeout = setTimeout(function() {
+elipsoResizeTimeout = null;
+elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
+}, 250);
+}
+}
+function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var elipsoBreakpoint = 0;
+var elipsoBreakpoints = [768, 992, 1200];
+for (i = 0; i < elipsoBreakpoints.length; i++) {
+if (windowWidth >= elipsoBreakpoints[i]) {
+elipsoBreakpoint = elipsoBreakpoints[i];
+}
+}
+var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
+var elipsoIframeWH = elipsoIframeSize.split('x');
+var elipsoIframe = document.getElementById(elipsoIframeId);
+var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
+var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
+if (currentElipsoIframeSrc !== elipsoIframeSrc) {
+elipsoIframe.setAttribute("src", elipsoIframeSrc);
+elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
+elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
+elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
+elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
+}
+}
+</script>
+<style>
+.displaynone-upscore-hack {
+display: none ;
+}
+</style>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
@@ -502,8 +638,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ariel-winter-u-ultra-kratkoj-haljinici-pokazala-previse/7284265/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/strane-zvijezde/ariel-winter-u-ultra-kratkoj-haljinici-pokazala-previse/7284265/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -516,17 +652,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:title" content="Ariel Winter u ultra kratkoj haljinici pokazala previše" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/kuzjpg/7329552/ALTERNATES/LANDSCAPE_1180/kuz.jpg" />
+<meta property="og:image:width" content="1180" />
+<meta property="og:image:height" content="700" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/kuzjpg/7329552/ALTERNATES/LANDSCAPE_1180/kuz.jpg">
+<meta property="og:title" content="POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/spektakli/strane-zvijezde/ariel-winter-u-ultra-kratkoj-haljinici-pokazala-previse/7284265/" />
+<meta property="og:url" content="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Prvašiæ Mario u ponedjeljak ujutro, kao i svakog dana od poèetka rujna, sa svojom asistenticom Teom došao je na nastavu u zagrebaèku Osnovnu školu Frana Krste Frankopana. S plavom torbom na leðima ušetao je u školsko dvorište i malo se prepao, vidjevši da ga u dvorištu èekaju oba roditelja i baka u društvu nepoznatih ljudi, u kojima Mario nije prepoznavao odvjetnike, novinare i aktiviste." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content=" Jutarnji.hr">
-<meta name="twitter:title" content="Ariel Winter u ultra kratkoj haljinici pokazala previše">
-<meta name="twitter:description" content="">
+<meta name="twitter:creator" content="Kristina Turèin">
+<meta name="twitter:title" content="POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada">
+<meta name="twitter:description" content="Prvašiæ Mario u ponedjeljak ujutro, kao i svakog dana od poèetka rujna, sa svojom asistenticom Teom došao je na nastavu u zagrebaèku Osnovnu školu Frana Krste Frankopana. S plavom torbom na leðima ušetao je u školsko dvorište i malo se prepao, vidjevši da ga u dvorištu èekaju oba roditelja i baka u društvu nepoznatih ljudi, u kojima Mario nije prepoznavao odvjetnike, novinare i aktiviste.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -537,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2434';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -549,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Strane zvijezde, Spektakli, Front Page",
-pubdate: "2018-04-25T10:26+02:00",
-author: "Ana Soriæ",
+data: { section: "Hrvatska, Vijesti, Front Page",
+pubdate: "2018-05-08T07:26+02:00",
+author: "Kristina Turèin",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="spektakli gallery">
+<body class="vijesti story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -603,11 +743,32 @@ $("#related-news-box").remove();
 </script>
 <div class="container">
 <header class="mainHead " role="banner">
-<a name="top"></a>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId : '156538244364753',
+xfbml : true,
+version : 'v2.10'
+});
+FB.AppEvents.logPageView();
+};
+(function(d, s, id){
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<a name="top"></a>
+<div class="row " >
+<div class="col-sm-12 ">
+</div>
+</div>
 <div class="row " >
 <div class="col-sm-12 ">
 <div class="col-sm-12 col-lg-8 col-lg-push-2 ">
@@ -617,6 +778,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 <nav class="navbar main_nav "
 role="navigation" >
+<a href="#" class="mSiteSearch"><span class="text-hide">Pretraži</span></a>
 <div class="navbar-header">
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
 <span class="icon-bar"></span>
@@ -631,7 +793,7 @@ role="navigation" >
 Poèetna
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/">
 Vijesti
 </a>
@@ -656,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -696,7 +858,7 @@ Vijesti
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -724,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -887,7 +1054,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -960,398 +1127,22 @@ Mozgalice
 </div>
 </div>
 </div>
+<div id="searchBox">
+<form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Pretraži Jutarnji.hr" value="" />
+<button type="submit">Submit</button>
+</div>
+</form>
+</div>
 <div class="subLevelNavbar ">
 <ul class="breadcrumb">
-<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a>
+<li><a href="https://www.jutarnji.hr/vijesti/">Vijesti </a>
 </li>
-<li><a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">Strane zvijezde </a></li>
+<li><a href="https://www.jutarnji.hr/vijesti/hrvatska/">Hrvatska </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
-<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
-Domaæe zvijezde
-</a>
-</li>
 <li class="active">
-<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
-Strane zvijezde
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/spektakli/reality/">
-Reality
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/spektakli/ups/">
-Ups!
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
-Na kavi sa...
-</a>
-</li>
-<li class="">
-<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
-Zlatni Studio
-</a>
-</li>
-</ul>
-</div>
-</nav>
-</div>
-</div>
-</header>
-<section class="row">
-<section class=" col-sm-8" role="main">
-<div class="row articleWrapper articleGalleryWrapper skin-6 " >
-<div class="col-sm-12 ">
-<div class=" ">
-<section class="lead_image ">
-<article class="ece_incoming media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0369598521jpg/7284052" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369598521jpg/7284052/ALTERNATES/WIDE_380/profimedia-0369598521.jpg"
-data-variant="WIDE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369598521jpg/7284052/BINARY/thumbnail/profimedia-0369598521.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Los Angeles, CA - 20-year-old actress Ariel Winter looked simply adorable wearing a green romper while out getting some shopping done with boyfriend Levi Meaden. Ariel Winter looked red hot as she stepped out for a LaPalme Magazine party on Saturday night in an all-red ensemble that featured a lace negligee crop top — and couldn’t help but call herself a “spicy mami” in an Instagram photo. The 20-year-old Modern Family actress is known for her daring looks, which include plunging necklines and an exposed midriff. But despite criticism from a number of online trolls, the star continues to dress as she pleases, having explained on numerous occasions that she wears what makes her feel good. For the celebration of the magazine’s cover on Saturday, a pair of silky red pants and a matching lace bralette apparently did just that. “Spicy mami hot tamale,” Winter captioned a photo of herself on Instagram, showing off her half-updo and a pair of standout silver hoops. Many in the comments agree that the young star looks incredible, while others have mixed opinions about the shared pic. “Sometimes showing less is more,” one person wrote. “You don’t need to show so much skin. You have the looks and confidence to be more conservative.” Another commenter had an opinion about the self-congratulatory caption, writing, “Someone’s supposed to write that caption for you, it’s not the same coming from you.” However, Winter’s fans were quick to come to her defense and echo her own sentiments about dressing how she wants. “She can wear what she wants as long as she’s comfortable with how she looks, that’s all that matters.” Another commenter noted, “Clothes don’t make the woman.”
-Pictured: Ariel Winter, Levi Meaden
-BACKGRID USA 24 APRIL 2018, Image: 369598521, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, AKM-GSI
-</span>
-</div>
-</div>
-</div>
-</article>
-</section>
-<div class="header ahgh col-sm-12 col-md-10 col-md-push-1 ">
-<p
-class="overline">
-NESTAŠNI VJETAR
-</p>
-<h1
-class="title">
-Ariel Winter u ultra kratkoj haljinici pokazala previše
-</h1>
-<ul class="list-inline ">
-<strong>AUTOR: </strong>
-<li>
-<p
-class="authors">
-<ul>
-<li> Jutarnji.hr</li>
-</ul>
-</p>
-</li>
-<strong>OBJAVLJENO: </strong>
-<li>
-<p
-class="published-date">
-25.04.2018. u 10:26
-</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<section>
-<article class="ece_incoming listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0369606734jpg/7284070" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">1</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">6</span>
-</div>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369606734jpg/7284070/ALTERNATES/FREE_380/profimedia-0369606734.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369606734jpg/7284070/BINARY/thumbnail/profimedia-0369606734.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Studio City, CA - Ariel Winter worries about hiding her face, and forgets to hide her rear, while out with her boyfriend Levi Meaden. Winter and Meaden held hands while out shopping and Ariel held her bag over her face, but since she was wearing a super short dress, ended up putting her rear end on display instead.
-Pictured: Ariel Winter, Levi Meaden
-BACKGRID USA 24 APRIL 2018, Image: 369606734, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, AKM-GSI
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/profimedia-0369606734jpg/7284070/BINARY/original/profimedia-0369606734.jpg" data-title="profimedia-0369606734.jpg" data-media="https://www.jutarnji.hr/incoming/profimedia-0369606734jpg/7284070/BINARY/original/profimedia-0369606734.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-<section>
-<article class="ece_incoming listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0369606711jpg/7284067" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">2</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">6</span>
-</div>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369606711jpg/7284067/ALTERNATES/FREE_380/profimedia-0369606711.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369606711jpg/7284067/BINARY/thumbnail/profimedia-0369606711.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Studio City, CA - Ariel Winter worries about hiding her face, and forgets to hide her rear, while out with her boyfriend Levi Meaden. Winter and Meaden held hands while out shopping and Ariel held her bag over her face, but since she was wearing a super short dress, ended up putting her rear end on display instead.
-Pictured: Ariel Winter, Levi Meaden
-BACKGRID USA 24 APRIL 2018, Image: 369606711, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, AKM-GSI
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/profimedia-0369606711jpg/7284067/BINARY/original/profimedia-0369606711.jpg" data-title="profimedia-0369606711.jpg" data-media="https://www.jutarnji.hr/incoming/profimedia-0369606711jpg/7284067/BINARY/original/profimedia-0369606711.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-<section>
-<article class="ece_incoming listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0369606700jpg/7284064" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">3</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">6</span>
-</div>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369606700jpg/7284064/ALTERNATES/FREE_380/profimedia-0369606700.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369606700jpg/7284064/BINARY/thumbnail/profimedia-0369606700.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Studio City, CA - Ariel Winter worries about hiding her face, and forgets to hide her rear, while out with her boyfriend Levi Meaden. Winter and Meaden held hands while out shopping and Ariel held her bag over her face, but since she was wearing a super short dress, ended up putting her rear end on display instead.
-Pictured: Ariel Winter, Levi Meaden
-BACKGRID USA 24 APRIL 2018, Image: 369606700, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, AKM-GSI
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/profimedia-0369606700jpg/7284064/BINARY/original/profimedia-0369606700.jpg" data-title="profimedia-0369606700.jpg" data-media="https://www.jutarnji.hr/incoming/profimedia-0369606700jpg/7284064/BINARY/original/profimedia-0369606700.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-<section>
-<article class="ece_incoming listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0369606607jpg/7284061" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">4</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">6</span>
-</div>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369606607jpg/7284061/ALTERNATES/FREE_380/profimedia-0369606607.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369606607jpg/7284061/BINARY/thumbnail/profimedia-0369606607.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Studio City, CA - Ariel Winter worries about hiding her face, and forgets to hide her rear, while out with her boyfriend Levi Meaden. Winter and Meaden held hands while out shopping and Ariel held her bag over her face, but since she was wearing a super short dress, ended up putting her rear end on display instead.
-Pictured: Ariel Winter, Levi Meaden
-BACKGRID USA 24 APRIL 2018, Image: 369606607, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, AKM-GSI
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/profimedia-0369606607jpg/7284061/BINARY/original/profimedia-0369606607.jpg" data-title="profimedia-0369606607.jpg" data-media="https://www.jutarnji.hr/incoming/profimedia-0369606607jpg/7284061/BINARY/original/profimedia-0369606607.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-<section>
-<article class="ece_incoming listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0369606588jpg/7284058" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">5</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">6</span>
-</div>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369606588jpg/7284058/ALTERNATES/FREE_380/profimedia-0369606588.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369606588jpg/7284058/BINARY/thumbnail/profimedia-0369606588.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Studio City, CA - Ariel Winter worries about hiding her face, and forgets to hide her rear, while out with her boyfriend Levi Meaden. Winter and Meaden held hands while out shopping and Ariel held her bag over her face, but since she was wearing a super short dress, ended up putting her rear end on display instead.
-Pictured: Ariel Winter, Levi Meaden
-BACKGRID USA 24 APRIL 2018, Image: 369606588, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, AKM-GSI
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/profimedia-0369606588jpg/7284058/BINARY/original/profimedia-0369606588.jpg" data-title="profimedia-0369606588.jpg" data-media="https://www.jutarnji.hr/incoming/profimedia-0369606588jpg/7284058/BINARY/original/profimedia-0369606588.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-<div class="dfp-gallery-unit">
-<div id="dfp-gallery-1" class="dfp-unit">
-<div id="div-gpt-ad-1504618478356-0">
-<script type='text/javascript'>
-var dfpUnitData = dfpUnits['fot']['div-gpt-ad-1504618478356-0'];
-if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
-googletag.cmd.push(function() {
-var refreshTime = 0; var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1504618478356-0');
-if (refreshTime > 0) {
-setInterval(function() {
-googletag.pubads().refresh([ dfpAdSlots[slot] ]);
-}, refreshTime);
-}
-});
-}
-</script>
-</div>
-</div>
-</div>
-</section>
-<section>
-<article class="ece_incoming listBox media ">
-<div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/profimedia-0369606573jpg/7284055" data-widget-title="" data-web-position="box"
-data-widget-position="0">
-<div class="img-container picture" style='width: 100%'>
-<div class="gallery-sidebar">
-<span class="gallery__index">6</span>
-<span class="gallery__progress-separator">/</span>
-<span class="gallery__count">6</span>
-</div>
-<img src="https://www.jutarnji.hr/incoming/profimedia-0369606573jpg/7284055/ALTERNATES/FREE_380/profimedia-0369606573.jpg"
-data-variant="FREE"
-data-src-template="https://www.jutarnji.hr/incoming/profimedia-0369606573jpg/7284055/BINARY/thumbnail/profimedia-0369606573.jpg"
-data-proxy-image=""
-data-proxy-width=""
-style="width:100%"
-alt="Studio City, CA - Ariel Winter worries about hiding her face, and forgets to hide her rear, while out with her boyfriend Levi Meaden. Winter and Meaden held hands while out shopping and Ariel held her bag over her face, but since she was wearing a super short dress, ended up putting her rear end on display instead.
-Pictured: Ariel Winter
-BACKGRID USA 24 APRIL 2018, Image: 369606573, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
-title=""
-class="media-object adaptive lazy "
-/>
-<div class="picture-author">
-<span> Profimedia, AKM-GSI
-</span>
-</div>
-</div>
-<ul class="list-inline meta">
-<li>
-</li>
-<li>
-<div class="share ">
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox" data-url="https://www.jutarnji.hr/incoming/profimedia-0369606573jpg/7284055/BINARY/original/profimedia-0369606573.jpg" data-title="profimedia-0369606573.jpg" data-media="https://www.jutarnji.hr/incoming/profimedia-0369606573jpg/7284055/BINARY/original/profimedia-0369606573.jpg"></div>
-</div>
-</li>
-</ul>
-</div>
-</article>
-</section>
-</div>
-</section>
-</section>
-</div>
-<footer class="siteFoot ">
-<div class="container ">
-<a href="#top">Povratak na vrh</a>
-<div class="row footNav ">
-<div class="col ">
-<h3>
-<a href="https://www.jutarnji.hr/">
-Naslovnica
-</a>
-</h3>
-</div>
-<div class="col ">
-<h3>
-<a href="https://www.jutarnji.hr/vijesti/">
-Vijesti
-</a>
-</h3>
-<ul class=" nav navbar-nav">
-<li class="">
 <a href="https://www.jutarnji.hr/vijesti/hrvatska/">
 Hrvatska
 </a>
@@ -1379,6 +1170,727 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<section role="main">
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-nav-wrapper" class="jl-billboard-nav">
+<div id="div-gpt-ad-1459756830165-2">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-2"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-2");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
+<p
+class="overline">
+I TO JE HRVATSKA
+</p>
+<h1
+class="title">
+POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada
+</h1>
+<ul class="list-inline ">
+<strong>AUTOR: </strong>
+<li>
+<p
+class="authors">
+<ul>
+<li><a href="https://www.jutarnji.hr/autori/kristina-turcin">Kristina Turèin</a></li>
+</ul>
+</p>
+</li>
+<strong>OBJAVLJENO: </strong>
+<li>
+<p
+class="published-date">
+08.05.2018. u 07:26
+</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row article_body jl-scroll-container " >
+<div class="col-sm-8 " >
+<section class="lead_image ">
+<section class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kuzjpg/7329552" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kuzjpg/7329552/ALTERNATES/LANDSCAPE_380/kuz.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/kuzjpg/7329552/BINARY/thumbnail/kuz.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Goran Mehkek / CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Djeèak (8) sa svojom osobnom asistenticom ispred škole</h4>
+</div>
+</div>
+</section>
+</section>
+<div class=" ">
+<section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
+</section>
+<section>
+<div id="jl-inarticle-wrapper-1" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-7">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-7"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-7");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+<section id="CImaincontent" class="ci_body ">
+<div id="content-body-6263871-7329546"
+>
+<p>Prvašiæ <strong>Mario</strong> u ponedjeljak ujutro, kao i svakog dana od poèetka rujna, sa svojom asistenticom <strong>Teom</strong> došao je na nastavu u zagrebaèku Osnovnu školu Frana Krste Frankopana. S plavom torbom na leðima ušetao je u školsko dvorište i malo se prepao, vidjevši da ga u dvorištu èekaju oba roditelja i baka u društvu nepoznatih ljudi, u kojima Mario nije prepoznavao odvjetnike, novinare i aktiviste.</p><p>Pozdravio se s roditeljima, malo proèavrljao s asistenticom i otišao u svoju uèionicu.</p><p>Mario, kojem to nije pravo ime, nije imao pojma da je u školu ušao gotovo ilegalno, jer su njegovi roditelji u petak obaviješteni da Mario više ne može pohaðati ovu školu i da od ponedjeljka pohaða drugu školu, 15-ak kilometara udaljenu od mjesta stanovanja. Da više nije O.K. da bude u razredu sa svojim kolegama iz kvarta, nego da treba iæi u posebni razred posebne škole.</p><h5><strong>Preporuke struke</strong></h5><p>- Naš je sin dijete s poremeæajem iz autistiènog spektra. Unatoè svim preporukama struke koje smo imali, unatoè èinjenici da Mario nije opasan ni za sebe ni za druge i da nikad nije zabilježen ni jedan eksces, od samog poèetka ova škola, kojoj pripadamo prema mjestu stanovanja, nije željela prihvatiti Marija. No djeca su ga prihvatila.</p><p>Naš je Mario bio na sedam djeèjih roðendana... On se uklopio, djeca ga vole, iznad svih naših oèekivanja. I to je sve što nam je važno. Da pronaðe svoje mjesto. Unatoè tome, prošli tjedan, mjesec dana prije kraja školske godine, obavijestili su nas da dijete kreæe u drugu školu - prièa Marijev tata <strong>Dražen</strong>.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/poijpg/7329561" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/poijpg/7329561/ALTERNATES/FREE_380/poi.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/poijpg/7329561/BINARY/thumbnail/poi.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> Goran Mehkek / CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Djeèakov otac Dražen i baka</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Roditelji, dodaje majka <strong>Zlatka</strong>, na to nisu mogli pristati. Kako objasniti Mariju što se dogaða i zašto on - kojem su red, stabilnost i rutina kljuèni - mora u drugu školu?</p><p>- Odluèili smo ga ipak dovesti u školu, pa što bude - kaže otac, prateæi pogledom dijete kako veselo ušetava u školsku zgradu. Nitko ga nije zaustavio. Bez obzira na sve, nitko nije imao obraza stati pred dijete i uputiti ga van. Nije ovo prvi put da je Mario - dakako, nesvjestan toga - u školu ušao “na crno”. Ilegalac je praktièki od prvog dana.</p><p>Nakon dvije i pol godine pohaðanja rehabilitacijskog programa u Centru “Slava Raškaj” i jedne odgode upisa u prvi razred 2016. godine, prošlog svibnja Mario je došao u svoju matiènu školu na obavezan postupak provjere za buduæe prvašiæe. Roditelji su došli s gomilom dokumentacije - meðu ostalim, sa struènim mišljenjima Centra “Slava Raškaj”, Psihijatrijske bolnice za djecu i mladež i Logopedskog kabineta Blaži, prema kojima se preporuèuje da se dijete upiše u “redovnu osnovnu školu uz prisustvo osobnog pomagaèa i uz individualizirani pristup”.</p><p>Ipak, povjerenstvo OŠ Frana Krste Frankopana nije bilo takvog mišljenja - preporuèilo je da se dijete upiše u posebno odjeljenje za djecu s teškoæama u razvoju, kojeg u njihovoj školi nema. Roditelji na to nisu pristali, a struèno povjerenstvo zatražilo je rješenje o upisu od Gradskog ureda za obrazovanje.</p><h5><strong>Kasnilo rješenje</strong></h5><p>Iako su upisi bili poèetkom lipnja, Marijevi roditelji tek su 20. lipnja primili rješenje, kojim se odluèuje da æe dijete obrazovanje nastaviti u - “Slavi Raškaj”.</p><p>- Kao da nitko nije èitao što smo dostavili. ‘Slava Raškaj’ je jasno rekla da je dijete spremno za redovnu školu. Uložili smo žalbu - kaže otac.</p><p>Cijelo ljeto, otkriva otac i potkrepljuje sve dokumentima, obilazili su Gradski ured i Ministarstvo znanosti i obrazovanja kako bi dobili rješenje o upisu djeteta u 1. razred. Još zadnjeg dana kolovoza pokušavali su doprijeti do nadležnih, ali ni u dogovoreno vrijeme nitko nije dizao telefonsku slušalicu.</p><p>A nastava je poèinjala za koji dan.</p><p>- Mi smo, kao roditelji, dužni školovati svoje dijete. I tako smo prvog dana nastave jednostavno došli u Marijevu matiènu školu, bez ikakvog rješenja o upisu. Preko udruge Sjene pronašli smo sami asistenticu, sami smo kupili knjige jer našeg sina nije bilo na popisu nijedne škole. Mario i asistentica su jednostavno ušli u školu i sjeli u uèionicu prvog razreda - prièa otac Dražen. Nitko ih nije izbacio. Uèiteljica se ponašala kao da se ništa neobièno ne dogaða. Pa su nastavili dolaziti. Marijeva imena nije bilo u imeniku, ali on se javljao, doma uèio, pisao testove. Kao i svi drugi uèenici.</p><p>Prepiska i natezanje s nadležnim uredima i ministarstvima se nastavilo - da bi sredinom listopada, nakon što je nastava trajala veæ mjesec i pol, a Mario je pohaðao u ilegali - dobili obavijest Ministarstva da je Mariju odreðeno školovanje u posebnom razrednom odjeljenju OŠ Ive Andriæa, 15 kilometara udaljenoj od njihova kvarta.</p><p>- U posebnom razrednom odjeljenju koje se, kako je stajalo u rješenju Ministarstva, tek ustrojava - najavili su da æe tek zaposliti uèiteljicu. Pa gdje bi Mario trebao iæi na nastavu? Da ne govorim da se Mario dotad veæ odlièno adaptirao. Meðu djecom, mislim - nadležni u školi nisu ga prihvaæali. Pogodilo ga je kad su sva djeca dobila uniformu, a on nije... - prièa tata.</p><p>Mario još uvijek formalno nije bio upisan u školu, a ravnateljica<strong> Jadranka Bjelica</strong> roditeljima je, kaže, uporno ponavljala da æe se sve “uskoro riješiti”. Protiv rješenja Ministarstva znanosti roditelji su podnijeli tužbu Upravnom sudu, no ona još nije riješena.</p><p>- Cijelo to vrijeme Mario normalno pohaða nastavu. Nikad mu nije izraðen individualizirani program, on piše testove kao i druga djeca. I ima dobre ocjene. Ostali roditelji daju nam podršku - kaže mama Zlatka.</p><p>Redovito školovanje uz individualizirani pristup u posebnom odjeljenju, koje nadležni cijelo vrijeme preporuèuju za Marija, regulirano je Pravilnikom o obrazovanju uèenika s teškoæama u razvoju, i to kao izuzetak - u sluèajevima kada su “uèeniku, s obzirom na vrstu teškoæa i specifiènosti funkcioniranja koje ugrožavaju njegovu osobnu sigurnost ili sigurnost drugih uèenika, potrebni posebni uvjeti odgoja i obrazovanja”.</p><h5><strong>Promijenila prièu</strong></h5><p>- Prema svim relevantnim vještaèenjima koje imamo Mario ne pokazuje nikakve nepoželjne oblike ponašanja. Koji je onda razlog da ide u posebno odjeljenje? - pita se otac.</p><p>Šok, koji ih je naveo i na javni istup, roditelji su doživjeli u petak 4. svibnja, kada su pozvani u školu.</p><p>- Ravnateljice nije bilo, doèekala nas je tajnica i obavijestila nas da od ponedjeljka 7. svibnja Mario više nije uèenik ove škole jer su se stekli uvjeti za premještaj u OŠ Ive Andriæa. Odbili smo preuzeti rješenje... - objašnjava majka.</p><p>Mario je tako i juèer došao u školu meðu prijatelje. Odvjetnici <strong>Ljubica Matijeviæ Vrsaljko</strong> i <strong>Braslav Balen</strong> zatražili su dokumente koji su školi stigli prošli petak, temeljem kojih je Mario “izbaèen”. Radi se o komunikaciji izmeðu ravnateljica OŠ Ive Andriæa i škole koju Mario sada pohaða, kojom se obavještava ravnateljica Marijeve škole da su se stekli uvjeti za osnivanje posebnog odjeljenja u OŠ Ive Andriæa. Ravnateljica<strong> Jadranka Bjelica</strong> pred novinarima je iznijela drugu prièu.</p><p>- Ne znam èemu sve ovo. Ja sam samo željela roditeljima prenijeti informaciju da mogu sada prijeæi u OŠ Ive Andriæa. Oni to ne moraju - rekla nam je ravnateljica.</p><p>Dakle, Mario može normalno nastaviti pohaðati ovu školu, pitamo je.</p><p>- Da, naravno da može - kaže ravnateljica.</p>
+</div>
+<script type="text/javascript" language="javascript">
+$(document).ready(function () {
+// Removing empty paragraphs first
+$("#content-body-6263871-7329546 p").filter(function () {
+var html = $.trim($(this).html());
+if (html == '' || html == '&nbsp;')
+return true;
+}).remove();
+// Taking a subset of paragraphs using offset and maximum
+var offset = 1;
+var max = -1;
+if (offset > 1) {
+$("#content-body-6263871-7329546").children().slice(0, offset - 1).remove();
+}
+if (max > -1) {
+$("#content-body-6263871-7329546").children().slice(max).remove();
+}
+// Show dateline field at the beginning of the first paragraph
+var showDateline = true;
+var datelineStr = "";
+if (offset <= 1 && showDateline == true && datelineStr != "") {
+var firstChild = $("#content-body-6263871-7329546").children().get(0);
+if ("P" == firstChild.nodeName.toUpperCase()) {
+$(firstChild).prepend("<span>" + datelineStr + " - </span>");
+}
+else {
+$(firstChild).before("<span>" + datelineStr + "</span>");
+}
+}
+});
+</script>
+</section>
+<section>
+<div id="inArticleBanner">
+<div id="jl-inarticle-wrapper-2" class="jl-inarticle-wrapper">
+<div id="jl-inarticle-2" class="jl-inarticle">
+<!-- /11425286/jl_cla_ia_2 -->
+<div id='div-gpt-ad-1459756830165-8'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459756830165-8'); });
+</script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+if ($("[id^='content-body-'] > p").length < 3) {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 - 1));
+}
+});
+</script>
+</section>
+<div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/%C5%A1kole" class ="label label-default" >
+škole
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/autizam" class ="label label-default" >
+Autizam
+</a>
+</li>
+</ul>
+</div>
+<div id="related-news-box"
+class="rel_art_ib ">
+<h3>
+Vezane vijesti
+</h3>
+<section>
+</section>
+</div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div style="text-align:center;" class="addthis_responsive_sharing"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div class="row upscore-magicflow displaynone-upscore-hack " >
+<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
+<section class="upscore_promo1_4 ">
+<div class="row">
+<div class="col-xs-12" data-widget-position="0">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="1">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="2">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="3">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</section>
+</div>
+<div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Izdvajamo</span></div></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__302"></div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__301"></div>
+</div>
+</div>
+<div class="row jl-scroll-container " >
+<div class="col-sm-8 " >
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midas" class="center-block" style="width:100%; max-width:600px;">
+<div id="midasWidget__72"></div>
+<script async src="https://cdn.midas-network.com/Widget/IndexAsync/1?portalWidgetId=72&portalWidgetId=301&portalWidgetId=302" type="text/javascript"></script>
+</div>
+</div>
+<section>
+<div id="jl-inarticle-wrapper-3" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-9">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-9"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-9");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+<div class="separator alt ">
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7329546" data-colorscheme="light" data-numposts="5"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-1">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-1"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0.00;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-1");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+<div class="jl-sticky-banner" style="margin-bottom:20px;">
+<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
+<script type="text/javascript">
+Criteo.events.push(function() {
+Criteo.DisplayAcceptableAdIfAdblocked({
+"zoneid": 1197956,
+"containerid": "crt-47675ba0",
+"overrideZoneFloor": false
+});
+});
+</script>
+</div>
+</div>
+</div>
+<div class="row hidden-xs " >
+<div class="col-sm-12 ">
+<div class="emp_block article_most_read sidebar ">
+<h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
+<div class="row">
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
+<section>
+<article class="hrvatska media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+NAPETOST
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/kako-gradic-bleiburg-zivi-uoci-komemoracije-po-prvi-put-dolaze-austrijske-kobre-a-evo-sto-lokalni-mjestani-misle-o-gostima-iz-hrvatske/7330059/">
+KAKO GRADIÆ BLEIBURG ŽIVI UOÈI KOMEMORACIJE? Po prvi put dolaze 'austrijske kobre', a evo što lokalni mještani misle o gostima iz Hrvatske
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
+<section>
+<article class="hrvatska media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+I TO JE HRVATSKA
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/">
+POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
+<section>
+<article class="hrvatska media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+KRŠENJE JAVNOG REDA I MIRA
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/veliki-sok-za-osjecanku-suncala-se-na-vlastitom-balkonu-na-vrata-joj-je-pokucala-policija-i-zalijepila-novcanu-kaznu-jako-je-uznemirila-susjeda/7326432/">
+VELIKI ŠOK ZA OSJEÈANKU Sunèala se na vlastitom balkonu, na vrata joj je pokucala policija i zalijepila novèanu kaznu: 'Jako je uznemirila susjeda'
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
+<section>
+<article class="hrvatska media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+VELIKA INVESTICIJA
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/foto-pogledajte-kako-napreduju-radovi-na-ciovskom-mostu-snimili-smo-gradiliste-jednog-od-najvaznijih-infrastrukturnih-projekata-u-drzavi-iz-zraka/7333623/">
+FOTO: POGLEDAJTE KAKO NAPREDUJU RADOVI NA ÈIOVSKOM MOSTU Snimili smo gradilište jednog od najvažnijih infrastrukturnih projekata u državi iz zraka
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-4 openInNewTab" >
+<section>
+<article class="banner-testing-page media none">
+<div class="teaser "
+data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="http://www.gloria.hr/">
+<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+<article class="fokus-zvjezdane-staze media c3 none">
+<div class="teaser link-block"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+</a>
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title text-small">
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
+</a>
+</h4>
+</div>
+</div>
+</article>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/" width="100%" height="400px" frameborder="0" scrolling="no"></iframe>
+</div>
+</div>
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-bot-wrapper" class="jl-billboard-bot">
+<div id="div-gpt-ad-1462358187814-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1462358187814-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1462358187814-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+<footer class="siteFoot ">
+<div class="container ">
+<a href="#top">Povratak na vrh</a>
+<div class="row footNav ">
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/">
+Naslovnica
+</a>
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="active">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1542,7 +2054,7 @@ Spektakli
 Domaæe zvijezde
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
 Strane zvijezde
 </a>
@@ -1668,53 +2180,132 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
 </div>
 </div>
 </footer>
+<script>
+function fbCommentGA() {
+FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'Facebook Comment', 'Posted', window.location.href, 1);
+});
+}
+window.onload = fbCommentGA;
+</script>
 <!-- Midas Pixel Code -->
 <img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
 <!-- DO NOT MODIFY -->
 <!-- End Midas Pixel Code -->
 <script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
+<div id="jl-floater-wrapper" class="jl-floater-wrapper">
+<div id="jl-float" class="jl-floater">
+<!-- /11425286/jl_floater -->
+<div id='div-gpt-ad-1459756830165-6'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-6"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-6'); });
+}
+</script>
+</div>
+</div>
+</div>
+<div id="jl-wallpaper-wrapper" class="jl-wallpaper-wrapper">
+<div id="jl-wallpaper" class="jl-wallpaper">
+<!-- /11425286/jl_wp -->
+<div id='div-gpt-ad-1459756830165-10'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-10"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-10'); });
+}
+</script>
+</div> </div>
+</div>
+<div class="hidden-xs ">
+<div id="side-article-widget" class="side-article-widget" style="display: none;">
+<div class="clearfix">
+<div class="pull-left side-article-column">
+<a href="https://100posto.hr/news/dosad-je-ulovio-vise-od-4000-otrovnih-zmija-u-hrvatskoj-a-odaziva-se-na-svaki-poziv-gradana-u-jednom-starackom-domu-ulovio-sam-35-ridovki?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<div class="side-article clearfix">
+<div class="pull-left side-article-image">
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525782236zmije4-250610_1.jpg?v=1525782412" />
+</div>
+<div class="pull-right side-article-text-wrapper">
+<div class="side-article-text">
+<h4>JE LI OVO NAJHRABRIJI ÈOVJEK U ZEMLJI/Dosad je ulovio više od 4000 otrovnih zmija u Hrvatskoj, a odaziva se na svaki poziv graðana: &#039;U jednom staraèkom domu ulovio sam 35 riðovki&#039;</h4>
+<hr class="side-article-hr" />
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="pull-right side-control-column">
+<div class="side-control">
+<a href="#" class="side-button" data-status="open">&#9658;</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+$('#side-article-widget a.side-button').click(function (event) {
+event.preventDefault();
+var status = $(this).attr('data-status');
+if (status === 'open') {
+$('.side-article-column').fadeOut('fast');
+$(this).attr('data-status', 'close');
+$(this).html('&#9664;');
+} else {
+$('.side-article-column').fadeIn('fast');
+$(this).attr('data-status', 'open');
+$(this).html('&#9658;');
+}
+});
+$(window).scroll(function (event) {
+var turnOnHeight = 1500;
+var scrolled = $(window).scrollTop();
+if (scrolled > turnOnHeight) {
+$('#side-article-widget').fadeIn('fast');
+} else {
+$('#side-article-widget').fadeOut('fast');
+}
+});
+});
+</script>
+</div>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=53&contextPath=1-51-53-&pubId=1&cat=&meta=read-gallery&objId=7284265&type=article&title=Ariel+Winter+u+ultra+kratkoj+haljinici+pokazala+previ%c5%a1e&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2fariel-winter-u-ultra-kratkoj-haljinici-pokazala-previse%2f7284265%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=17&contextPath=1-16-17-&pubId=1&cat=&meta=read-story&objId=7329546&type=article&title=POTRESNA+PRI%c4%8cA+O+PRVA%c5%a0I%c4%86U+MARIJU+Autisti%c4%8dnog+dje%c4%8daka+uprava+ZG+%c5%a1kole+nije+htjela+prihvatiti%2c+od+rujna+nastavu+poha%c4%91ao+ilegalno%2c+upisali+ga+tek+sada&url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fpotresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada%2f7329546%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=53&amp;contextPath=1-51-53-&amp;pubId=1&amp;cat=&amp;meta=read-gallery&amp;objId=7284265&amp;type=article&amp;title=Ariel+Winter+u+ultra+kratkoj+haljinici+pokazala+previ%c5%a1e&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fstrane-zvijezde%2fariel-winter-u-ultra-kratkoj-haljinici-pokazala-previse%2f7284265%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=17&amp;contextPath=1-16-17-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7329546&amp;type=article&amp;title=POTRESNA+PRI%c4%8cA+O+PRVA%c5%a0I%c4%86U+MARIJU+Autisti%c4%8dnog+dje%c4%8daka+uprava+ZG+%c5%a1kole+nije+htjela+prihvatiti%2c+od+rujna+nastavu+poha%c4%91ao+ilegalno%2c+upisali+ga+tek+sada&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fvijesti%2fhrvatska%2fpotresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada%2f7329546%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&cat=jltags%40eph.hr%2c2016&objId=268783739&title=strane+zvijezde&url=tag%3ajltags%40eph.hr%2c2016%3astrane_zvijezde&rt=1&ctxId=53&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=470674611&title=Autizam&url=tag%3ajltags%40eph.hr%2c2016%3aautizam&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=268783739&amp;title=strane+zvijezde&amp;url=tag%3ajltags%40eph.hr%2c2016%3astrane_zvijezde&amp;rt=1&amp;ctxId=53&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=470674611&amp;title=Autizam&amp;url=tag%3ajltags%40eph.hr%2c2016%3aautizam&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&cat=jltags%40eph.hr%2c2016&objId=244573099&title=Ariel+Winter&url=tag%3ajltags%40eph.hr%2c2016%3aAriel_Winter&rt=1&ctxId=53&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&cat=jltags%40eph.hr%2c2016&objId=516761441&title=%c5%a1kole&url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25A1kole&rt=1&ctxId=17&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-53-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=244573099&amp;title=Ariel+Winter&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAriel_Winter&amp;rt=1&amp;ctxId=53&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-16-17-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=516761441&amp;title=%c5%a1kole&amp;url=tag%3ajltags%40eph.hr%2c2016%3a%25C5%25A1kole&amp;rt=1&amp;ctxId=17&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -1767,7 +2358,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/strane-zvijezde/ariel-winter-u-ultra-kratkoj-haljinici-pokazala-previse/7284265/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -1777,14 +2368,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/spektakli/strane-zvijezde/ariel-winter-u-ultra-kratkoj-haljinici-pokazala-previse/7284265/",
-postId : "7284265",
+url : "https://www.jutarnji.hr/vijesti/hrvatska/potresna-prica-o-prvasicu-mariju-autisticnog-djecaka-uprava-zg-skole-nije-htjela-prihvatiti-od-rujna-nastavu-pohadao-ilegalno-upisali-ga-tek-sada/7329546/",
+postId : "7329546",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "Ariel Winter u ultra kratkoj haljinici pokazala previše",
-pubdate : "2018-04-25 10:26",
-authors : "Ana Soriæ",
-sections : "Front Page, Strane zvijezde",
-tags : "strane zvijezde, Ariel Winter",
+title : "POTRESNA PRIÈA O PRVAŠIÆU MARIJU Autistiènog djeèaka uprava ZG škole nije htjela prihvatiti, od rujna nastavu pohaðao ilegalno, upisali ga tek sada",
+pubdate : "2018-05-08 07:26",
+authors : "Kristina Turèin",
+sections : "Front Page, Vijesti, Hrvatska",
+tags : "Autizam, škole",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

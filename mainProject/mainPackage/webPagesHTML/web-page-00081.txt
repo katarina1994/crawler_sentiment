@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Gairdner International Award najvažnija je kanadska nagrada za biomedicinske znanosti i predstavlja za mene veliku èast. Uz nagradu March of Dimes to je najvažnije priznanje za moj znanstveni rad, kaže prof. Davor Solter, jedan od najuglednijih i najcitiranijih hrvatskih znanstvenika u svijetu." />
-<meta name="keywords" content="znanost, Kanada" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content="David Mayer (17) iz Ohia bio je pod stalnim pritiskom svojih roditelja da u svemu bude savršen, prenosi CBS News." />
+<meta name="keywords" content="Ovisnosti, Društvene mreže" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>VELIKO PRIZNANJE ZNANSTVENIKU Davor Solter prvi Hrvat s kanadskom verzijom Nobela - Jutarnji List</title>
+<title>UZNEMIRUJUÆE ISPOVIJESTI MLADIH OVISNIKA &#039;Danima sam sjedio u sobi i surfao po društvenim mrežama. Jednog jutra došla su po mene dva èovjeka...&#039; - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -204,11 +204,11 @@ var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Znanost";
+var dfpCategory = "Obitelj i djeca";
 var dfpCategoryParent = "Life";
 var dfpRos = "life-ros";
-var dfpArticle = "7273650";
-var dfpArticleKeyword = "znanost";
+var dfpArticle = "7298641";
+var dfpArticleKeyword = "Ovisnosti";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -638,8 +638,8 @@ display: none ;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/life/znanost/veliko-priznanje-znanstveniku-davor-solter-prvi-hrvat-s-kanadskom-verzijom-nobela/7273650/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/life/znanost/veliko-priznanje-znanstveniku-davor-solter-prvi-hrvat-s-kanadskom-verzijom-nobela/7273650/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -652,21 +652,21 @@ display: none ;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/solter/7273653/ALTERNATES/LANDSCAPE_1180/solter" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/profimedia-0297277973jpg/7298875/ALTERNATES/LANDSCAPE_1180/profimedia-0297277973.jpg" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/solter/7273653/ALTERNATES/LANDSCAPE_1180/solter">
-<meta property="og:title" content="VELIKO PRIZNANJE ZNANSTVENIKU Davor Solter prvi Hrvat s kanadskom verzijom Nobela " />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/profimedia-0297277973jpg/7298875/ALTERNATES/LANDSCAPE_1180/profimedia-0297277973.jpg">
+<meta property="og:title" content="UZNEMIRUJUÆE ISPOVIJESTI MLADIH OVISNIKA 'Danima sam sjedio u sobi i surfao po društvenim mrežama. Jednog jutra došla su po mene dva èovjeka...'" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/life/znanost/veliko-priznanje-znanstveniku-davor-solter-prvi-hrvat-s-kanadskom-verzijom-nobela/7273650/" />
+<meta property="og:url" content="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Gairdner International Award najvažnija je kanadska nagrada za biomedicinske znanosti i predstavlja za mene veliku èast. Uz nagradu March of Dimes to je najvažnije priznanje za moj znanstveni rad, kaže prof. Davor Solter, jedan od najuglednijih i najcitiranijih hrvatskih znanstvenika u svijetu." />
+<meta property="og:description" content="David Mayer (17) iz Ohia bio je pod stalnim pritiskom svojih roditelja da u svemu bude savršen, prenosi CBS News." />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Tanja Rudež">
-<meta name="twitter:title" content="VELIKO PRIZNANJE ZNANSTVENIKU Davor Solter prvi Hrvat s kanadskom verzijom Nobela ">
-<meta name="twitter:description" content="Gairdner International Award najvažnija je kanadska nagrada za biomedicinske znanosti i predstavlja za mene veliku èast. Uz nagradu March of Dimes to je najvažnije priznanje za moj znanstveni rad, kaže prof. Davor Solter, jedan od najuglednijih i najcitiranijih hrvatskih znanstvenika u svijetu.">
+<meta name="twitter:creator" content=" Jutarnji.hr">
+<meta name="twitter:title" content="UZNEMIRUJUÆE ISPOVIJESTI MLADIH OVISNIKA 'Danima sam sjedio u sobi i surfao po društvenim mrežama. Jednog jutra došla su po mene dva èovjeka...'">
+<meta name="twitter:description" content="David Mayer (17) iz Ohia bio je pod stalnim pritiskom svojih roditelja da u svemu bude savršen, prenosi CBS News.">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -689,9 +689,9 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Znanost, Life, Front Page",
-pubdate: "2018-04-23T08:11+02:00",
-author: "Tanja Rudež",
+data: { section: "Obitelj i djeca, Life, Front Page",
+pubdate: "2018-04-28T21:27+02:00",
+author: "Silvija Novak",
 object_type: "article",
 custom_sponsored: 0
 }});
@@ -888,6 +888,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class=" ">
@@ -936,7 +941,7 @@ Life
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -946,7 +951,7 @@ Obitelj i djeca
 Tehnologija
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
@@ -1134,10 +1139,10 @@ Mozgalice
 <ul class="breadcrumb">
 <li><a href="https://www.jutarnji.hr/life/">Life </a>
 </li>
-<li><a href="https://www.jutarnji.hr/life/znanost/">Znanost </a></li>
+<li><a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">Obitelj i djeca </a></li>
 </ul>
 <ul class=" sub nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -1147,7 +1152,7 @@ Obitelj i djeca
 Tehnologija
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
@@ -1229,18 +1234,19 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-LAUREAT
+STALNO ONLINE
 </p>
 <h1
 class="title">
-VELIKO PRIZNANJE ZNANSTVENIKU Davor Solter prvi Hrvat s kanadskom verzijom Nobela </h1>
+UZNEMIRUJUÆE ISPOVIJESTI MLADIH OVISNIKA 'Danima sam sjedio u sobi i surfao po društvenim mrežama. Jednog jutra došla su po mene dva èovjeka...'
+</h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
 <li>
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/tanja-rudez">Tanja Rudež</a></li>
+<li> Jutarnji.hr</li>
 </ul>
 </p>
 </li>
@@ -1248,7 +1254,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-23.04.2018. u 08:11
+28.04.2018. u 21:27
 </p>
 </li>
 </ul>
@@ -1260,23 +1266,21 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/solter/7273653" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/profimedia-0297277973jpg/7298875" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/solter/7273653/ALTERNATES/LANDSCAPE_380/solter"
+<img src="https://www.jutarnji.hr/incoming/profimedia-0297277973jpg/7298875/ALTERNATES/LANDSCAPE_380/profimedia-0297277973.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/solter/7273653/BINARY/thumbnail/solter"
+data-src-template="https://www.jutarnji.hr/incoming/profimedia-0297277973jpg/7298875/BINARY/thumbnail/profimedia-0297277973.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt="Zagreb, 011112.
-Profesor Davor Solter, jedan od pionira kloniranja sisavaca i najuglednijih hrvatskih znanstvenika u svijetu.
-Foto: Neja Markicevic / CROPIX"
+alt=", Image: 297277973, License: Royalty-free, Restrictions: , Model Release: yes, Credit line: Profimedia, Alamy"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Neja Markièeviæ / CROPIX
+<span> Profimedia, Alamy
 </span>
 </div>
 </div>
@@ -1285,6 +1289,10 @@ class="media-object adaptive lazy "
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1308,14 +1316,14 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7273650"
+<div id="content-body-6263871-7298641"
 >
-<p>Gairdner International Award najvažnija je kanadska nagrada za biomedicinske znanosti i predstavlja za mene veliku èast. Uz nagradu March of Dimes to je najvažnije priznanje za moj znanstveni rad, kaže prof. <strong>Davor Solter</strong>, jedan od najuglednijih i najcitiranijih hrvatskih znanstvenika u svijetu.</p><p>Davor Solter, koji veæ desetljeæima živi u inozemstvu, nedavno je postao laureat nagrade Gairdner, poznate i kao “kanadski Nobel”. Rijeè je o nagradi u iznosu od oko 100.000 kanadskih dolara koju od 1957. godine dodjeljuje kanadska zaklada Gairdner za izvanredna dostignuæa u temeljnim istraživanjima koja utjeèu na ljudsko zdravlje. Meðu dobitnicima nagrade Gairdner je i 87 Nobelovih laureata. Davor Solter prvi je hrvatski znanstvenik koji je osvojio ovu prestižnu nagradu.</p><h2>Život u dijaspori </h2><p>Davor Solter roðen je u Zagrebu 1941. godine u lijeènièkoj obitelji. U Zagrebu je završio osnovnu školu, Klasiènu gimnaziju dok je na Medicinskom fakultetu diplomirao 1965. godine te doktorirao 1971. godine. Od 1973. godine živi u inozemstvu: 20 godina radio je na poznatom Institutu Wistar u Philadelphiji, a zatim je 15 godina bio direktor Instituta Max Planck za imunobiologiju u Freiburgu. Solter je zatim od 2008. do 2013. godine bio istraživaèki direktor Instituta za medicinsku biologiju u Singapuru.</p><p>- Sada sam u mirovini, ali još uvijek povremeno radim. Trenutno živim izmeðu Bar Harbora u saveznoj državi Maine i Taosa u Novom Meksiku, ali svake godine provedem tri mjeseca u Bangkoku. Tamo moja supruga <strong>Barbara Knowles</strong> i ja pomažemo te savjetujemo mlade znanstvenike u SISCR-u, jednom malom institutu za istraživanje matiènih stanica - rekao je prof. Solter.</p><h2>Pionir kloniranja </h2><p>Solterova specijalnost je razvojna biologija, a nagrada Gairdner dodijeljena je njemu i <strong>Azimu Suraniju</strong> s Cambridgea za otkriæe genomskog utiska (imprinting) kod sisavaca.</p><p>- Za sisavce je bitno da su i majèin i oèev genom prisutni u oploðenoj jajnoj stanici. Ako je samo jedan od njih prisutan, neæe biti normalnog razvoja, a proces koji odreðuje hoæe li kopija gena biti aktivna ili neæe dogaða se tijekom formacije spolnih stanica - pojasnio je u ranijem razgovoru za Jutarnji list prof. Solter. On je, takoðer, i jedan od pionira kloniranja, a smatra da smo daleko od kloniranja ljudi. No, Davor Solter pozitivno misli o ideji da se kloniranje iskoristi za spas vrsta, kao sjevernog bijelog nosoroga èiji se broj primjeraka sveo na svega dvije ženke.</p><p>- Mislim da bismo mogli pokušati s kloniranjem. Nadam se da su saèuvali neke stanice mužjaka. To bi se vjerojatno moglo napraviti koristeæi jajašca i embrije nekih drugih podvrsta nosoroga - rekao je prof. Solter. </p>
+<p><strong>David Mayer</strong> (17) iz Ohia bio je pod stalnim pritiskom svojih roditelja da u svemu bude savršen, prenosi <a href="https://www.cbsnews.com/news/social-media-addiction-teens-enter-rehab-paradigm-malibu/" target="_blank">CBS News</a>.</p><p>Preoptereæen tolikim oèekivanjima, poèeo je koristiti droge. Takoðer, sate i sate je znao provoditi na društvenim mrežama ureðujuæi svoj profil na društvenim mrežama.</p><p>'Osjeæao sam da pomoæu objava stvaram tu neku drugu osobu. To je bila savršena verzija mene, osoba kakva sam želio biti: mlad, duhovit, zabavan èovjek. Zanemarivao sam èinjenicu da u sebi nosim dosta tuge i samoæe', kaže David.</p><p>Povukao se u sebe i gotovo u potpunosti prestao komunicirati s roditeljima. Sve dok oni nisu preuzeli stvari u svoje ruke.</p><p>'Probudili su me u 4 ujutro. Došla su neka dva èovjeka i spakirali moje stvari u dvije torbe. Bio sam jako uplašen. Nisam ih poznavao, nego su im moji roditelji rekli da me dovedu ovdje.'</p><p>David je prisilno odveden u rehabilitacijski centar Paradigm Malibu na 30-dnevni tretman odvikavanja ovisnosti o društvenim mrežama. U centru nisu bili dozvoljeni Internet i mobilni telefoni.</p><p>Prema istraživanju neprofitne organizacije Common Sense Media, èak polovica tinejdžera kaže da je ovisna o svojim mobilnim ureðajima, a studije govore i da ona djeca koja provode puno vremena na društvenim mrežama, èešæe imaju problema s mentalnim zdravljem od onih koji društvene mreže koriste umjereno.</p><p>Pomoæ traži i <strong>Caitlyn Walker</strong> (17) iz Arizone.</p><p>'Sjedila bih danima u svojoj sobi i samo skrolala gore-dolje po društvenim mrežama', kaže djevojka èije se stanje dodatno pogoršalo kad je brak njezinih roditelja zapao u krizu.</p><p>Utjehu je pokušala naæi na društvenim mrežama, no umjesto toga naišla je na bullyng.</p><p>'U telefonu sam imala slike ljudi koji me zlostavljaju. Ne znam zašto sam ih saèuvala. To je bila potvrda da nisam dovoljno dobra.'</p><p>Iako znaju da im pretjerana upotreba Facebooka, Instagrama i Twittera škodi, ovi se mladi ljudi nisu mogli othrvati porivu da neprestano 'vise' na društvenim mrežama.</p><p>'Teško je odvojiti se i shvatiti koliko to negativno utjeèe na tvoj život', kaže Caitlyn.</p><p>U centru Paradigm pacijentima nude terapiju i ponovno povezivanje s vanjskim svijetom i prirodom. Kažu da je uspješnost izljeèenja oko 80 posto. Jedan tretman košta i do 50.000 dolara, no neke osiguravajuæe kuæe pokrivaju taj trošak.</p><p>Nakon 30 dana, Caitlyn još nije spremna obrisati svoje profile. No nešto je nauèila:</p><p>'U tvojim je rukama moæ da nekoga blokiraš ili izbrišeš i da ga više ne gledaš. A ja kao da dosad nisam znala da imam tu moæ.'</p><p>David vrijeme provodi igrajuæi košarku i èitajuæi. Njegov program je možda gotov, ali on je tek na poèetku svojega puta.</p><p>'Planiram obrisati Twitter i Snap Chat. Više neæu stvarati tu neku lažnu osobu. Trebam više vremena posvetiti sebi', kaže David.</p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7273650 p").filter(function () {
+$("#content-body-6263871-7298641 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1324,16 +1332,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7273650").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7298641").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7273650").children().slice(max).remove();
+$("#content-body-6263871-7298641").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7273650").children().get(0);
+var firstChild = $("#content-body-6263871-7298641").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1371,13 +1379,13 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Kanada" class ="label label-default" >
-Kanada
+<a href="https://www.jutarnji.hr/tag/Dru%C5%A1tvene_mre%C5%BEe" class ="label label-default" >
+Društvene mreže
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/znanost" class ="label label-default" >
-znanost
+<a href="https://www.jutarnji.hr/tag/ovisnosti" class ="label label-default" >
+Ovisnosti
 </a>
 </li>
 </ul>
@@ -1388,6 +1396,36 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
+<article class="obitelj-i-djeca media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/zagrebacki-psihijatar-upozorava-na-sve-cesci-problem-kod-djece-razvijaju-egocentrizam-i-vezanost-za-virtualnost-koja-im-kompenzira-stvarne-obveze/7011189/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/zagrebacki-psihijatar-upozorava-na-sve-cesci-problem-kod-djece-razvijaju-egocentrizam-i-vezanost-za-virtualnost-koja-im-kompenzira-stvarne-obveze/7011189/">
+ZAGREBAÈKI PSIHIJATAR UPOZORAVA NA SVE ÈEŠÆI PROBLEM KOD DJECE 'Razvijaju egocentrizam i vezanost za virtualnost koja im kompenzira stvarne obveze'
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="tehnologija media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/life/tehnologija/otvara-se-prva-hrvatska-bolnica-za-ovisnike-o-internetu-mario-se-navukao-zanemario-higijenu-ugrozio-zdravlje-nasao-se-pred-razvodom/5597299/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/life/tehnologija/otvara-se-prva-hrvatska-bolnica-za-ovisnike-o-internetu-mario-se-navukao-zanemario-higijenu-ugrozio-zdravlje-nasao-se-pred-razvodom/5597299/">
+OTVARA SE PRVA HRVATSKA BOLNICA ZA OVISNIKE O INTERNETU Mario se 'navukao', zanemario higijenu, ugrozio zdravlje, našao se pred razvodom...
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1403,13 +1441,13 @@ Vezane vijesti
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-<img src="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/ALTERNATES/LANDSCAPE_380/TPN_7641.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/tpn_7641jpg/7284331/BINARY/thumbnail/TPN_7641.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1421,8 +1459,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/top-3-razloga-zasto-uberovi-partneri-vozaci-jedva-cekaju-sezonu-na-moru/7284340/">
-Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
 </a>
 </h4>
 </div>
@@ -1434,13 +1472,13 @@ Top 3 razloga zašto Uberovi partneri-vozaèi jedva èekaju sezonu na moru
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-<img src="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/ALTERNATES/LANDSCAPE_380/Naslovna%20-ng.jpg"
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/naslovna-ngjpg/7260426/BINARY/thumbnail/Naslovna%20-ng.jpg"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1452,8 +1490,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zagrebacka-dubrava-trenutno-je-jedan-od-najpozeljnijih-kvartova-za-stanovanje/7260417/">
-Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
 </a>
 </h4>
 </div>
@@ -1465,13 +1503,13 @@ Zagrebaèka Dubrava trenutno je jedan od najpoželjnijih kvartova za stanovanje!
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-<img src="https://www.jutarnji.hr/incoming/sl-1png/7276542/ALTERNATES/LANDSCAPE_380/sl%201.png"
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/sl-1png/7276542/BINARY/thumbnail/sl%201.png"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
@@ -1483,8 +1521,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/poklon-knjiga-kako-pametno-investirati/7276530/">
-POKLON KNJIGA: Kako pametno investirati?
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
 </a>
 </h4>
 </div>
@@ -1496,17 +1534,17 @@ POKLON KNJIGA: Kako pametno investirati?
 <section>
 <article class="promo media c13 skin-2 none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-<img src="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/ALTERNATES/LANDSCAPE_380/asphalt-clouds-endurance-421160.jpg"
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/asphalt-clouds-endurance-421160jpg/7260939/BINARY/thumbnail/asphalt-clouds-endurance-421160.jpg"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1514,9 +1552,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/Promo/zasto-ponekad-trebamo-posegnuti-za-multivitaminima-i-mineralima/7246617/">
-Zašto ponekad trebamo posegnuti za multivitaminima i mineralima?
-</a>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
 </h4>
 </div>
 </div>
@@ -1598,7 +1635,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </section>
 </div>
 <div class="separator alt ">
-<div class="fb-comments" data-href="https://www.jutarnji.hr/7273650" data-colorscheme="light" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7298641" data-colorscheme="light" data-numposts="5"></div>
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
@@ -1642,19 +1679,19 @@ Criteo.DisplayAcceptableAdIfAdblocked({
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="znanost media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/">
-USPJEH MEDICINE
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/">
+TABU
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/konacno-se-ponovno-osjecam-kao-potpun-muskarac-vojnik-u-afganistanu-ostao-bez-penisa-transplantirali-mu-zamjenski/7278930/">
-'KONAÈNO SE PONOVNO OSJEÆAM KAO POTPUN MUŠKARAC!' Vojnik u Afganistanu ostao bez penisa, transplantirali mu zamjenski
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/majke-koje-su-pozalile-sto-su-rodile-svoju-djecu-mogla-sam-imati-bolju-karijeru-a-ja-sam-15-godina-vozila-klince-u-skolu-ali-nije-da-ih-ne-volim/7203132/">
+MAJKE KOJE SU POŽALILE ŠTO SU RODILE SVOJU DJECU 'Mogla sam imati bolju karijeru, a ja sam 15 godina vozila klince u školu. Ali nije da ih ne volim'
 </a>
 </h4>
 </div>
@@ -1664,19 +1701,19 @@ USPJEH MEDICINE
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="znanost media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/">
-MISTERIJI ÈOVJEKA
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/">
+MARKIRANA ODJEÆA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/zasto-spavamo-iako-je-fizioloska-potreba-kao-zrak-hrana-i-voda-ni-nakon-100-godina-istrazivanja-ne-razumijemo-ga-u-potpunosti/7270752/">
-ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 godina istraživanja ne razumijemo ga u potpunosti
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/foto-djecak-se-izrugivao-djeci-koja-nose-jeftinu-odjecu-majka-ga-dovela-u-red-da-vise-ljudi-tako-odgaja-svoju-djecu-svijet-bi-bio-ljepsi/7183422/">
+FOTO: DJEÈAK SE IZRUGIVAO DJECI KOJA NOSE JEFTINU ODJEÆU, MAJKA GA DOVELA U RED 'Da više ljudi tako odgaja svoju djecu, svijet bi bio ljepši!'
 </a>
 </h4>
 </div>
@@ -1686,19 +1723,19 @@ ZAŠTO SPAVAMO Iako je fiziološka potreba kao zrak, hrana i voda, ni nakon 100 go
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="znanost media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/hoce-li-amerikanci-uspjeti-opet-poslati-covjeka-na-mjesec/7270773/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/hoce-li-amerikanci-uspjeti-opet-poslati-covjeka-na-mjesec/7270773/">
-MAKE NASA GREAT AGAIN
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/">
+POÈINJE SEZONA KUPANJA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/hoce-li-amerikanci-uspjeti-opet-poslati-covjeka-na-mjesec/7270773/">
-Hoæe li Amerikanci uspjeti opet poslati èovjeka na Mjesec?
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/igra-na-bazenu-umalo-zavrsila-kobno-djevojcica-skoro-umrla-od-suhog-utapanja-primijetite-li-ove-simptome-brzo-idite-doktoru/7288960/">
+IGRA NA BAZENU UMALO ZAVRŠILA KOBNO Djevojèica skoro umrla od 'suhog utapanja'; primijetite li ove simptome, brzo idite doktoru
 </a>
 </h4>
 </div>
@@ -1708,19 +1745,19 @@ Hoæe li Amerikanci uspjeti opet poslati èovjeka na Mjesec?
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="znanost media c11a none">
+<article class="obitelj-i-djeca media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/life/znanost/prijelomno-otkrice-koje-spasava-svijet-znanstvenici-slucajno-proizveli-enzim-koji-u-hipu-prozdire-plastiku-ovo-je-sjajno-ali-i-pomalo-sokantno/7253280/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/life/znanost/prijelomno-otkrice-koje-spasava-svijet-znanstvenici-slucajno-proizveli-enzim-koji-u-hipu-prozdire-plastiku-ovo-je-sjajno-ali-i-pomalo-sokantno/7253280/">
-VELIKI USPJEH
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/">
+STALNO ONLINE
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/life/znanost/prijelomno-otkrice-koje-spasava-svijet-znanstvenici-slucajno-proizveli-enzim-koji-u-hipu-prozdire-plastiku-ovo-je-sjajno-ali-i-pomalo-sokantno/7253280/">
-PRIJELOMNO OTKRIÆE KOJE SPAŠAVA SVIJET: ZNANSTVENICI SLUÈAJNO PROIZVELI ENZIM KOJI U HIPU PROŽDIRE PLASTIKU! 'Ovo je sjajno, ali i pomalo šokantno'
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/">
+UZNEMIRUJUÆE ISPOVIJESTI MLADIH OVISNIKA 'Danima sam sjedio u sobi i surfao po društvenim mrežama. Jednog jutra došla su po mene dva èovjeka...'
 </a>
 </h4>
 </div>
@@ -1758,19 +1795,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1778,8 +1815,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1868,6 +1905,11 @@ Obrazovanje
 Mirovine
 </a>
 </li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
 </ul>
 </div>
 <div class="col ">
@@ -1916,7 +1958,7 @@ Life
 </a>
 </h3>
 <ul class=" nav navbar-nav">
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
 Obitelj i djeca
 </a>
@@ -1926,7 +1968,7 @@ Obitelj i djeca
 Tehnologija
 </a>
 </li>
-<li class="active">
+<li class="">
 <a href="https://www.jutarnji.hr/life/znanost/">
 Znanost
 </a>
@@ -2155,11 +2197,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -2207,14 +2244,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/bubble/jeste-li-znali-da-pingvini-ne-moraju-jesti-i-do-115-dana-nismo-ni-mi?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/bubble/rijesi-test-i-saznaj-koja-frizura-najbolje-odgovara-tvojoj-osobnosti?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524661275iStock-95157138.jpg?v=1524663297" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525781414profimedia-0108099821.jpg?v=1525781479" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>SVJETSKI DAN PINGVINA/Jeste li znali da pingvini ne moraju jesti i do 115 dana? Nismo ni mi!</h4>
+<h4>RAZMIŠLJAŠ O PROMJENI FRIZURE?/Riješi test i saznaj koja frizura najbolje odgovara tvojoj osobnosti</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2258,34 +2295,34 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=33&contextPath=1-32-33-&pubId=1&cat=&meta=read-story&objId=7273650&type=article&title=VELIKO+PRIZNANJE+ZNANSTVENIKU+Davor+Solter+prvi+Hrvat+s+kanadskom+verzijom+Nobela&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fveliko-priznanje-znanstveniku-davor-solter-prvi-hrvat-s-kanadskom-verzijom-nobela%2f7273650%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=41&contextPath=1-32-41-&pubId=1&cat=&meta=read-story&objId=7298641&type=article&title=UZNEMIRUJU%c4%86E+ISPOVIJESTI+MLADIH+OVISNIKA+%26%23039%3bDanima+sam+sjedio+u+sobi+i+surfao+po+dru%c5%a1tvenim+mre%c5%beama.+Jednog+jutra+do%c5%a1la+su+po+mene+dva+%c4%8dovjeka...%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fobitelj-i-djeca%2fuznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka%2f7298641%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=33&amp;contextPath=1-32-33-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7273650&amp;type=article&amp;title=VELIKO+PRIZNANJE+ZNANSTVENIKU+Davor+Solter+prvi+Hrvat+s+kanadskom+verzijom+Nobela&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fznanost%2fveliko-priznanje-znanstveniku-davor-solter-prvi-hrvat-s-kanadskom-verzijom-nobela%2f7273650%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=41&amp;contextPath=1-32-41-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7298641&amp;type=article&amp;title=UZNEMIRUJU%c4%86E+ISPOVIJESTI+MLADIH+OVISNIKA+%26%23039%3bDanima+sam+sjedio+u+sobi+i+surfao+po+dru%c5%a1tvenim+mre%c5%beama.+Jednog+jutra+do%c5%a1la+su+po+mene+dva+%c4%8dovjeka...%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2flife%2fobitelj-i-djeca%2fuznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka%2f7298641%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&cat=jltags%40eph.hr%2c2016&objId=24268927&title=znanost&url=tag%3ajltags%40eph.hr%2c2016%3aznanost&rt=1&ctxId=33&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=1121480634&title=Ovisnosti&url=tag%3ajltags%40eph.hr%2c2016%3aovisnosti&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=24268927&amp;title=znanost&amp;url=tag%3ajltags%40eph.hr%2c2016%3aznanost&amp;rt=1&amp;ctxId=33&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1121480634&amp;title=Ovisnosti&amp;url=tag%3ajltags%40eph.hr%2c2016%3aovisnosti&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&cat=jltags%40eph.hr%2c2016&objId=926692980&title=Kanada&url=tag%3ajltags%40eph.hr%2c2016%3aKanada&rt=1&ctxId=33&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&cat=jltags%40eph.hr%2c2016&objId=1639646290&title=Dru%c5%a1tvene+mre%c5%bee&url=tag%3ajltags%40eph.hr%2c2016%3aDru%25C5%25A1tvene_mre%25C5%25BEe&rt=1&ctxId=41&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-33-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=926692980&amp;title=Kanada&amp;url=tag%3ajltags%40eph.hr%2c2016%3aKanada&amp;rt=1&amp;ctxId=33&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-32-41-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1639646290&amp;title=Dru%c5%a1tvene+mre%c5%bee&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDru%25C5%25A1tvene_mre%25C5%25BEe&amp;rt=1&amp;ctxId=41&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2338,7 +2375,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/znanost/veliko-priznanje-znanstveniku-davor-solter-prvi-hrvat-s-kanadskom-verzijom-nobela/7273650/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2348,14 +2385,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/life/znanost/veliko-priznanje-znanstveniku-davor-solter-prvi-hrvat-s-kanadskom-verzijom-nobela/7273650/",
-postId : "7273650",
+url : "https://www.jutarnji.hr/life/obitelj-i-djeca/uznemirujuce-ispovijesti-mladih-ovisnika-danima-sam-sjedio-u-sobi-i-surfao-po-drustvenim-mrezama-jednog-jutra-dosla-su-po-mene-dva-covjeka/7298641/",
+postId : "7298641",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "VELIKO PRIZNANJE ZNANSTVENIKU Davor Solter prvi Hrvat s kanadskom verzijom Nobela ",
-pubdate : "2018-04-23 08:11",
-authors : "Tanja Rudež",
-sections : "Front Page, Life, Znanost",
-tags : "znanost, Kanada",
+title : "UZNEMIRUJUÆE ISPOVIJESTI MLADIH OVISNIKA 'Danima sam sjedio u sobi i surfao po društvenim mrežama. Jednog jutra došla su po mene dva èovjeka...'",
+pubdate : "2018-04-28 21:27",
+authors : "Silvija Novak",
+sections : "Front Page, Obitelj i djeca",
+tags : "Ovisnosti, Društvene mreže",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */

@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
 >
 <head>
-<meta name="description" content="Iduæe èetiri godine 23 hrvatska pacijenta oboljela od spinalne mišiæne atrofije dobivat æe najnoviju gensku terapiju bilo ili ne bilo kuna u HZZO-ovoj kasici ili u dobrovoljnom fondu Ministarstva zdravstva. Lijeèenje æe za njih plaæati farmaceutska tvrtka Roche u okviru klinièkog ispitivanja novog lijeka. No, na tu prošlotjednu vijest, umjesto pozitivnih reakcija, krenule su kritike iz kojih je razvidno da “sve što je besplatno vjerojatno ne lijeèi” ili je barem lošije od onog što se trenutno plaæa 600.000 kuna po dozi. Možda su hrvatski pacijenti pokusni kuniæi? Moguæe je da se tako prikriva èinjenica da nema novca za sve koji bi se trebali lijeèiti veæ poznatim lijekom? Nezadovoljnih nebrojeno!" />
-<meta name="keywords" content="zdravstvo, Ministarstvo zdravstva" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta name="description" content=" " />
+<meta name="keywords" content="Rita Ora, Hrvatska, Rise Up, festival, Poreè" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>ZA DOBROBIT PACIJENATA I DRŽAVNE KASE Zašto Hrvatska bolje ne iskorištava klinièke studije ispitivanja lijekova? - Jutarnji List</title>
+<title>VIDEO: RITA ORA STIŽE U HRVATSKU! Megazvijezda 7. srpnja nastupa u Poreèu. Dolazi svojim avionom, u timu ima 28 ljudi, a odsjest æe u VIP apartmanu - Jutarnji List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
 <script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
@@ -200,15 +200,15 @@ dfpUnits = {
 },
 }
 };
-var dfpCountryCode = "CN";
+var dfpCountryCode = "HR";
 var dfpCurrentPageType = "cla";
 var dfpGalleryImgNum = 0;
 var dfpGalleryUnitNum = 0;
-var dfpCategory = "Komentari";
+var dfpCategory = "Spektakli";
 var dfpCategoryParent = "Front Page";
-var dfpRos = "naslovnica";
-var dfpArticle = "7147353";
-var dfpArticleKeyword = "zdravstvo";
+var dfpRos = "spektakli-ros";
+var dfpArticle = "7333203";
+var dfpArticleKeyword = "Rita Ora";
 // oglasne jedinice za trenutaènu stranicu
 var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
 // jedinice koje je potrebno osvježiti
@@ -573,8 +573,6 @@ window.addEventListener('scroll', dfpScrollHandler);
 window.addEventListener('load', dfpInitStickyBanners);
 window.addEventListener('resize', dfpInitStickyBanners);
 </script>
-<script src="//get.s-onetag.com/400d3c8b-4b16-4ca4-9c22-ff3190b8edbc/tag.min.js" async defer></script>
-<script src="https://cdn.connectad.io/connectmyusers.js" async defer></script>
 </section>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -595,9 +593,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5GCRM7');</script>
 <!-- End Google Tag Manager -->
+<script>
+var elipsoResizeTimeout;
+function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
+if (!elipsoResizeTimeout) {
+elipsoResizeTimeout = setTimeout(function() {
+elipsoResizeTimeout = null;
+elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
+}, 250);
+}
+}
+function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var elipsoBreakpoint = 0;
+var elipsoBreakpoints = [768, 992, 1200];
+for (i = 0; i < elipsoBreakpoints.length; i++) {
+if (windowWidth >= elipsoBreakpoints[i]) {
+elipsoBreakpoint = elipsoBreakpoints[i];
+}
+}
+var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
+var elipsoIframeWH = elipsoIframeSize.split('x');
+var elipsoIframe = document.getElementById(elipsoIframeId);
+var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
+var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
+if (currentElipsoIframeSrc !== elipsoIframeSrc) {
+elipsoIframe.setAttribute("src", elipsoIframeSrc);
+elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
+elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
+elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
+elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
+}
+}
+</script>
 <style>
-#row-padding-fix {
-padding: 0 0 20px 0;
+.displaynone-upscore-hack {
+display: none ;
 }
 </style>
 <meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
@@ -607,8 +638,8 @@ padding: 0 0 20px 0;
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
 <link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
 <link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
-<link rel="canonical" href="https://www.jutarnji.hr/komentari/za-dobrobit-pacijenata-i-drzavne-kase-zasto-hrvatska-bolje-ne-iskoristava-klinicke-studije-ispitivanja-lijekova/7147353/"/>
-<link rel="amphtml" href="https://www.jutarnji.hr/komentari/za-dobrobit-pacijenata-i-drzavne-kase-zasto-hrvatska-bolje-ne-iskoristava-klinicke-studije-ispitivanja-lijekova/7147353/amp">
+<link rel="canonical" href="https://www.jutarnji.hr/spektakli/video-rita-ora-stize-u-hrvatsku-megazvijezda-7-srpnja-nastupa-u-porecu-dolazi-svojim-avionom-u-timu-ima-28-ljudi-a-odsjest-ce-u-vip-apartmanu/7333203/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/spektakli/video-rita-ora-stize-u-hrvatsku-megazvijezda-7-srpnja-nastupa-u-porecu-dolazi-svojim-avionom-u-timu-ima-28-ljudi-a-odsjest-ce-u-vip-apartmanu/7333203/amp">
 <link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
 <link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
@@ -621,21 +652,21 @@ padding: 0 0 20px 0;
 <script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
 <![endif]-->
 <script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
-<meta property="og:image" content="https://www.jutarnji.hr/incoming/pliva-lijekovi-proizvodnja/7147368/ALTERNATES/LANDSCAPE_1180/pliva%20lijekovi%20proizvodnja" />
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/rita-ora/7333347/ALTERNATES/LANDSCAPE_1180/Rita%20Ora" />
 <meta property="og:image:width" content="1180" />
 <meta property="og:image:height" content="700" />
-<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/pliva-lijekovi-proizvodnja/7147368/ALTERNATES/LANDSCAPE_1180/pliva%20lijekovi%20proizvodnja">
-<meta property="og:title" content="ZA DOBROBIT PACIJENATA I DRŽAVNE KASE Zašto Hrvatska bolje ne iskorištava klinièke studije ispitivanja lijekova?" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/rita-ora/7333347/ALTERNATES/LANDSCAPE_1180/Rita%20Ora">
+<meta property="og:title" content="VIDEO: RITA ORA STIŽE U HRVATSKU! Megazvijezda 7. srpnja nastupa u Poreèu. Dolazi svojim avionom, u timu ima 28 ljudi, a odsjest æe u VIP apartmanu" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.jutarnji.hr/komentari/za-dobrobit-pacijenata-i-drzavne-kase-zasto-hrvatska-bolje-ne-iskoristava-klinicke-studije-ispitivanja-lijekova/7147353/" />
+<meta property="og:url" content="https://www.jutarnji.hr/spektakli/video-rita-ora-stize-u-hrvatsku-megazvijezda-7-srpnja-nastupa-u-porecu-dolazi-svojim-avionom-u-timu-ima-28-ljudi-a-odsjest-ce-u-vip-apartmanu/7333203/" />
 <meta property="og:site_name" content="jutarnji.hr" />
-<meta property="og:description" content="Iduæe èetiri godine 23 hrvatska pacijenta oboljela od spinalne mišiæne atrofije dobivat æe najnoviju gensku terapiju bilo ili ne bilo kuna u HZZO-ovoj kasici ili u dobrovoljnom fondu Ministarstva zdravstva. Lijeèenje æe za njih plaæati farmaceutska tvrtka Roche u okviru klinièkog ispitivanja novog lijeka. No, na tu prošlotjednu vijest, umjesto pozitivnih reakcija, krenule su kritike iz kojih je razvidno da “sve što je besplatno vjerojatno ne lijeèi” ili je barem lošije od onog što se trenutno plaæa 600.000 kuna po dozi. Možda su hrvatski pacijenti pokusni kuniæi? Moguæe je da se tako prikriva èinjenica da nema novca za sve koji bi se trebali lijeèiti veæ poznatim lijekom? Nezadovoljnih nebrojeno!" />
+<meta property="og:description" content=" " />
 <meta property="fb:app_id" content="156538244364753" />
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="jutarnji.hr">
-<meta name="twitter:creator" content="Goranka Jureško">
-<meta name="twitter:title" content="ZA DOBROBIT PACIJENATA I DRŽAVNE KASE Zašto Hrvatska bolje ne iskorištava klinièke studije ispitivanja lijekova?">
-<meta name="twitter:description" content="Iduæe èetiri godine 23 hrvatska pacijenta oboljela od spinalne mišiæne atrofije dobivat æe najnoviju gensku terapiju bilo ili ne bilo kuna u HZZO-ovoj kasici ili u dobrovoljnom fondu Ministarstva zdravstva. Lijeèenje æe za njih plaæati farmaceutska tvrtka Roche u okviru klinièkog ispitivanja novog lijeka. No, na tu prošlotjednu vijest, umjesto pozitivnih reakcija, krenule su kritike iz kojih je razvidno da “sve što je besplatno vjerojatno ne lijeèi” ili je barem lošije od onog što se trenutno plaæa 600.000 kuna po dozi. Možda su hrvatski pacijenti pokusni kuniæi? Moguæe je da se tako prikriva èinjenica da nema novca za sve koji bi se trebali lijeèiti veæ poznatim lijekom? Nezadovoljnih nebrojeno!">
+<meta name="twitter:creator" content="Marija Lokas">
+<meta name="twitter:title" content="VIDEO: RITA ORA STIŽE U HRVATSKU! Megazvijezda 7. srpnja nastupa u Poreèu. Dolazi svojim avionom, u timu ima 28 ljudi, a odsjest æe u VIP apartmanu">
+<meta name="twitter:description" content=" ">
 <meta property="fb:pages" content="133205716542" />
 <!-- j2 - vijesti -->
 <script type="text/javascript">
@@ -646,7 +677,7 @@ h=d.getElementsByTagName('head')[0],
 s=d.createElement('script');
 s.type='text/javascript';
 s.async=true;
-s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2433';
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2439';
 h.appendChild(s);
 }());
 /* ]]> */
@@ -658,15 +689,15 @@ var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.pare
 upScore({config:{ domain:"jutarnji.hr",
 article: "#CImaincontent",
 track_positions: false},
-data: { section: "Komentari, Front Page",
-pubdate: "2018-03-20T19:00+01:00",
-author: "Goranka Jureško",
+data: { section: "Spektakli, Front Page",
+pubdate: "2018-05-08T15:32+02:00",
+author: "Marija Lokas, Petra Pliveliæ",
 object_type: "article",
 custom_sponsored: 0
 }});
 </script>
 </head>
-<body class="komentari story">
+<body class="spektakli story">
 <div id="fb-root">
 </div>
 <script type="text/javascript">
@@ -700,10 +731,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <script type="text/javascript">
 $(function() {
 if ($("#related-news-box").has("ul").length) {
-if ($("[id^='content-body-'] > p").length < 0) {
+if ($("[id^='content-body-'] > p").length < 6) {
 $("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
 } else {
-$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(6));
 }
 } else {
 $("#related-news-box").remove();
@@ -787,7 +818,7 @@ Life
 Kultura
 </a>
 </li>
-<li class="">
+<li class="active">
 <a href="https://www.jutarnji.hr/spektakli/">
 Spektakli
 </a>
@@ -855,6 +886,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1100,6 +1136,41 @@ Mozgalice
 </form>
 </div>
 <div class="subLevelNavbar ">
+<ul class="breadcrumb">
+<li><a href="https://www.jutarnji.hr/spektakli/">Spektakli </a></li>
+</ul>
+<ul class=" sub nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
 </div>
 </nav>
 </div>
@@ -1136,11 +1207,11 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
 <p
 class="overline">
-NA ZAÈELJU SMO EUROPE
+HEADLINERICA FESTIVALA RISE UP
 </p>
 <h1
 class="title">
-ZA DOBROBIT PACIJENATA I DRŽAVNE KASE Zašto Hrvatska bolje ne iskorištava klinièke studije ispitivanja lijekova?
+VIDEO: RITA ORA STIŽE U HRVATSKU! Megazvijezda 7. srpnja nastupa u Poreèu. Dolazi svojim avionom, u timu ima 28 ljudi, a odsjest æe u VIP apartmanu
 </h1>
 <ul class="list-inline ">
 <strong>AUTOR: </strong>
@@ -1148,7 +1219,8 @@ ZA DOBROBIT PACIJENATA I DRŽAVNE KASE Zašto Hrvatska bolje ne iskorištava kliniè
 <p
 class="authors">
 <ul>
-<li><a href="https://www.jutarnji.hr/autori/goranka-juresko">Goranka Jureško</a></li>
+<li><a href="https://www.jutarnji.hr/autori/marija-lokas">Marija Lokas</a>,</li>
+<li>Petra Pliveliæ</li>
 </ul>
 </p>
 </li>
@@ -1156,7 +1228,7 @@ class="authors">
 <li>
 <p
 class="published-date">
-20.03.2018. u 19:00
+08.05.2018. u 15:32
 </p>
 </li>
 </ul>
@@ -1168,29 +1240,36 @@ class="published-date">
 <section class="lead_image ">
 <section class="ece_incoming media ">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/incoming/pliva-lijekovi-proizvodnja/7147368" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/incoming/rita-ora/7333347" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="img-container picture" style='width: 100%'>
-<img src="https://www.jutarnji.hr/incoming/pliva-lijekovi-proizvodnja/7147368/ALTERNATES/LANDSCAPE_380/pliva%20lijekovi%20proizvodnja"
+<img src="https://www.jutarnji.hr/incoming/rita-ora/7333347/ALTERNATES/LANDSCAPE_380/Rita%20Ora"
 data-variant="LANDSCAPE"
-data-src-template="https://www.jutarnji.hr/incoming/pliva-lijekovi-proizvodnja/7147368/BINARY/thumbnail/pliva%20lijekovi%20proizvodnja"
+data-src-template="https://www.jutarnji.hr/incoming/rita-ora/7333347/BINARY/thumbnail/Rita%20Ora"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="LONDON, ENGLAND - JUNE 28: Rita Ora performs at the New Look Wireless Birthday Party at Finsbury Park on June 28, 2015 in London, England. (Photo by John Phillips/Getty Images)"
 title=""
 class="media-object adaptive lazy "
 />
 <div class="picture-author">
-<span> Sandra Šimunoviæ / CROPIX
+<span> Getty Images
 </span>
 </div>
+</div>
+<div class="picture-caption ">
+<h4>Rita Ora</h4>
 </div>
 </div>
 </section>
 </section>
 <div class=" ">
 <section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
 </section>
 <section>
 <div id="jl-inarticle-wrapper-1" class="jl-inarticle">
@@ -1214,14 +1293,37 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 <section id="CImaincontent" class="ci_body ">
-<div id="content-body-6263871-7147353"
+<div id="content-body-6263871-7333203"
 >
-<p>Iduæe èetiri godine 23 hrvatska pacijenta oboljela od spinalne mišiæne atrofije dobivat æe najnoviju gensku terapiju bilo ili ne bilo kuna u HZZO-ovoj kasici ili u dobrovoljnom fondu Ministarstva zdravstva. Lijeèenje æe za njih plaæati farmaceutska tvrtka Roche u okviru klinièkog ispitivanja novog lijeka. No, na tu prošlotjednu vijest, umjesto pozitivnih reakcija, krenule su kritike iz kojih je razvidno da “sve što je besplatno vjerojatno ne lijeèi” ili je barem lošije od onog što se trenutno plaæa 600.000 kuna po dozi. Možda su hrvatski pacijenti pokusni kuniæi? Moguæe je da se tako prikriva èinjenica da nema novca za sve koji bi se trebali lijeèiti veæ poznatim lijekom? Nezadovoljnih nebrojeno!</p><p>No, zapravo po tko zna koji put najvažnije je pitanje zašto se u Hrvatskoj radi zanemariv broj klinièkih ispitivanja lijekova, dok neke zemlje dobro zaraðuju iz te stavke, ali prije svega kvalitetnije lijeèe poglavito one pacijente kojima su novi lijekovi jedina nada, bilo da je rijeè o preživljavanju ili pak o njima ovisi kvaliteta života. To tim prije ako se radi o bolestima kod kojih je postojeæa terapija ogranièenog dometa. S druge strane, lijekovi koji stižu do pacijenta po tzv. kratkom postupku, odnosno dok još nisu u potpunosti završene sve potrebne studije, dosežu enormne cijene premda ni za njih pacijenti ne mogu znati hoæe li zaista djelovati jer su ispitani na premalom broju ispitanika. Dapaèe, koristi se nevolja za enormnu zaradu na neviðeno s upitnim rezultatima lijeèenja. S druge strane, pacijenti koji terapiju dobivaju u klinièkim studijama uglavnom su bolje praæeni, odnosno kontrolirani na naèin kako to propisuju vrlo strogi protokoli odreðene studije.</p><p>Upravo zato u Hrvatskoj se moraju pokrenuti ozbiljne rasprave i ozbiljno odluèiti o tome kako privuæi što više klinièkih ispitivanja novih lijekova. U ovom trenutku tek sedamdesetak studija radi se na godišnjoj razini, što je znaèajno ispod hrvatskih moguænosti. Naime, Hrvatska je po privlaèenju klinièkih studija na zaèelju europskih zemalja i to se godinama nije promijenilo. </p><p>U zdravstvenoj besparici u kojoj se pokušava štedjeti, pa i na terapiji, odnosno lijekovima, i dalje ostaje uglavnom netaknuti “zlatni rudnik” klinièkih ispitivanja lijekova. Èinjenica je da bi pacijenti profitirali jer bi ranije došli do lijekova koji æe tek za koju godinu stiæi na tržište, ali bi zaradila i država.</p><p>Trenutno od klinièkih studija u Hrvatsku stiže tek dvadesetak milijuna eura, a objektivno bi to moglo biti stotinjak milijuna eura. Istodobno, ministar zdravstva kaže kako æe “do 2020. uštedjeti svojim mjerama nešto više od 400 milijuna kuna!?” Da bi se ta objektivno “zlatna koka” zdravstva pokrenula, nužna je jasna nacionalna strategija za klinièke studije koja godinama izostaje, ali i jednostavniji proces odobravanja ispitivanja lijekova koji u Hrvatskoj predugo traje pa mnoge tvrtke odustaju veæ na prvom koraku. Na žalost, èini se da svi znaju gdje zapinje i što bi trebalo uèiniti, ali pomaka od statusa quo godinama nema premda se svi kunu kako je svaka dodatna kuna za zdravstvo melem na ranu gubitaka.</p><p>Klinièke studije godinama, na žalost, nose stigmu netransparentnosti i upitne etiènosti. No, ta su vremena odavno prošla i njihova je provedba striktno propisana i kontrolirana. Moraju je voditi vrhunski struènjaci koji ponekad èak trebaju na edukaciju prije ukljuèivanja u taj proces kao što je to bilo i za lijek koji æe pacijenti dobivati kroz ovu najnoviju klinièku studiju. Po svakom pacijentu koji sudjeluje u klinièkim ispitivanjima štedi se i do 14 milijuna kuna, govore najnoviji podatci, a što je najvažnije klinièka ispitivanja ostvaruju bolje ishode lijeèenja.</p><p>Hoæe li se prièa pomaknuti s mjesta nakon što je inovativna farmaceutska industrija nedavno Ministarstvu zdravstva uputila prijedlog mjera za unapreðenje sustava klinièkih ispitivanja tek æe se vidjeti. No, da su nužni pomaci potvrðuju podatci po kojima se, primjerice, u Danskoj radi 18 studija na 100.000 stanovnika, a u Hrvatskoj tek dvije. Zato su, rekli bi neki, Danci bogati, a Hrvati siromašni jer ne znaju uzeti novac èak i kad “pada” iz klinièkih studija. </p>
+<p>Popularna pjevaèica <strong>Rita Ora</strong> ovo ljeto stiže u Hrvatsku. Britanska glazbenica kosovskog podrijetla nastupit æe 7. srpnja na trodnevnom festivalu Rise Up u Poreèu. Kako doznaje Jutarnji, odsjest æe u poreèkom hotelu Laguna Parentium s èetiri zvjezdice u idiliènom zelenom krajoliku.</p><p>Pjevaèica dolazi sa svojom ekipom, u pratnji stiže i njezina dvije godine starija sestra <strong>Elena</strong>, koja joj je menadžerica veæ desetak godina. Jedini uvjet koji je 27-godišnja Rita imala jest smještaj u predsjednièkom apartmanu. Sama zvijezda u Poreè stiže privatnim avionom, a ostatak njezina tima, koji broji 28 ljudi, doæi æe luksuznim autobusom. </p><p><strong>Jednostavna cura </strong></p><p>Kako doznajemo, Rita Ora pokazala se izuzetno ugodnom i jednostavnom, unatoè svom zvjezdanom statusu, pa osim smještaja u predsjednièkom apartmanu nije imala drugih posebnih zahtjeva. Doduše, u Poreè æe stiæi na sam dan nastupa, a odlazi veæ iduæega jutra. A lijepa glazbenica poznata po svojem hrabrom modnom stilu, na pozornici Rise Up festivala mogla bi zabljesnuti u kreaciji našeg poznatog dizajnera <strong>Jurja Zigmana</strong>. Naime, upit o tome poslan je njezinu menadžmentu, a odgovor se s nestrpljenjem išèekuje.</p><p>Ora je glavna headlinerica ovogodišnjeg, drugog glazbenog festivala Rise Up, koji æe se održati u uvali Peškera od 6. do 8. srpnja, u udarnom festivalskom i turistièkom vikendu. Na popisu izvoðaèa još su <strong>Severina</strong>, <strong>Mia Dimšiæ</strong>, slovenski DJ duo <strong>Vanillaz</strong>, <strong>Franka Bateliæ</strong>, <strong>Dubioza kolektiv</strong> i drugi, a festival podržavaju Plava Laguna i Grad Poreè.</p><p>Punog imena Rita Sahatçiu Ora, pjevaèica je unuka poznatog kosovskog kazališnog i filmskog redatelja <strong>Besima Sahatçiuja</strong>, koji je režiju studirao na zagrebaèkoj Akademiji dramske umjetnosti.</p><p>Rita je roðena u Prištini, glavnom gradu Kosova, gdje je nedavno nastupila na proslavi desete godišnjice nezavisnosti te zemlje, odakle se kao beba zbog rata u bivšoj Jugoslaviji preselila s roditeljima u London. Pobjegli su zadnjim letom iz Prištine prije nego što je aerodrom zatvoren. U Londonu su bili izbjeglice, stoga su Rita i njezina sestra Elena nekoliko mjeseci bile smještene u domu za djecu, dok njezinim roditeljima, <strong>Veri</strong> i <strong>Besniku</strong>, nije službeno odobren boravak u Ujedinjenom Kraljevstvu.</p><p> <section class="social_embed ">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BZuZWX-Hysa/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BZuZWX-Hysa/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Everyone ready for the British Invasion on @spikelsb </a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/ritaora/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> RITA ORA</a> (@ritaora) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-10-02T00:07:40+00:00">Oct 1, 2017 at 5:07pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+</section>
+ </p><p>Nakon prvih teških mjeseci, obitelj Sahatçiu u Londonu je krenula ispoèetka. Ritin otac, Besnik, radio je u pizzeriji dok nije skupio dovoljno novca i otvorio svoj pub Queen’s Arms u Kilburnu, a majka Vera je psihijatrica koja je morala ponovno dobiti struène kvalifikacije za rad u Ujedinjenom Kraljevstvu. Stoga bi danju uèila, a noæu konobarila kako bi zaradila novac za obitelj. Ubrzo, situacija je postala bolja, preselili su se u bolji kvart, Ladbroke Grove u blizini kozmopolitskog Notting Hilla, a 1998. Rita dobiva brata <strong>Dona</strong>. S 14 godina upisala je prestižnu umjetnièku školu Sylvije Young i poèela nastupati povremeno u oèevu baru. </p><p>Rita je imala neosporan talent, no bila je povodljiva, pa je èesto partijala opijajuæi se. No godinu kasnije, Ritina majka oboljela je od raka dojke, stoga je Rita prestala iæi u školu kako bi se brinula o majci koja se potpuno oporavila.</p><p>Nije se više vraæala u školu, nego je sama odluèila izgraditi glazbenu karijeru. Bilo je to vrijeme nesuglasica s roditeljima, a otac joj je naposljetku dao na izbor godinu dana da se pokrene ili upiše koledž. Rita je znala da mora pjevati, stoga se nije dala zastrašiti i ubrzo je uz pomoæ slavnog repera i glazbenog producenta <strong>Jay Z-ja</strong> postala jedna od najveæih britanskih zvijezda.</p><p><strong>Modna ikona</strong> </p><p>Njezin prvi veæi uspjeh bio je duet s <strong>DJ Freshom</strong> “Hot Right Now”, koji se 2012. popeo na prvo mjesto najslušanijih singlova u Velikoj Britaniji. U kolovozu iste godine objavila je debitantski album “Ora”, koji se takoðer popeo na prvo mjesto po prodaji. </p><p> <section class="social_embed ">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BUe8sqMgExo/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BUe8sqMgExo/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Sooo excited YOUR SONG is out on Friday!!!! Thank you to @degrisogono for such a beautiful evening #deGRISOGONO at Hotel Eden Rock to celebrate #LoveOnTheRocks and #YOURSONG</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/ritaora/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> RITA ORA</a> (@ritaora) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-05-24T17:31:44+00:00">May 24, 2017 at 10:31am PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+</section>
+ </p><p>Otada je Ritina karijera u usponu. Štoviše, osim u glazbenom, sada je poznata i u glumaèkom svijetu, zahvaljujuæi ulozi sestre Christiana Greyja u filmskoj adaptaciji trilogije “Pedeset nijansi sive” koja je zaludjela svijet.</p><p>Rita je ranije bila u vezi s glazbenicima <strong>Calvinom Harrisom</strong> i <strong>Brunom Marsom</strong>, a zahvaljujuæi svojim platinastim kovrèama, crvenim usnama i hrabrim modnim odabirom koji spaja visoku i hip-hop modu, postala je prepoznatljiva i na modnoj sceni. Bila je zaštitno lice velikih modnih kuæa, kao što su Calvin Klein, Superga, Cavalli i DKNY, a <strong>Madonna</strong> ju je sama odabrala kao zaštitno lice svoje Material Girl kolekcije. </p><p>Nije trebalo dugo èekati da uslijede i kreativni aranžmani, meðu prvima oni s brendovima Adidas i Rimmel. </p><p>Manje je poznato da je Rita i poduzetnica èija se tvrtka zove Ora Multi Services. Navodno posjeduje i brojne nekretnine u Velikoj Britaniji, SAD-u i na rodnom Kosovu, a šuška se i da je djelomièno vlasnica jednog kosovskog nogometnog tima.</p><p> <section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/article7333152.ece" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="youtubeWrapper "
+style="width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/dOOxlVUC08Q"
+frameborder="0"
+width="100%"
+allowfullscreen=""></iframe>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p>
 </div>
 <script type="text/javascript" language="javascript">
 $(document).ready(function () {
 // Removing empty paragraphs first
-$("#content-body-6263871-7147353 p").filter(function () {
+$("#content-body-6263871-7333203 p").filter(function () {
 var html = $.trim($(this).html());
 if (html == '' || html == '&nbsp;')
 return true;
@@ -1230,16 +1332,16 @@ return true;
 var offset = 1;
 var max = -1;
 if (offset > 1) {
-$("#content-body-6263871-7147353").children().slice(0, offset - 1).remove();
+$("#content-body-6263871-7333203").children().slice(0, offset - 1).remove();
 }
 if (max > -1) {
-$("#content-body-6263871-7147353").children().slice(max).remove();
+$("#content-body-6263871-7333203").children().slice(max).remove();
 }
 // Show dateline field at the beginning of the first paragraph
 var showDateline = true;
 var datelineStr = "";
 if (offset <= 1 && showDateline == true && datelineStr != "") {
-var firstChild = $("#content-body-6263871-7147353").children().get(0);
+var firstChild = $("#content-body-6263871-7333203").children().get(0);
 if ("P" == firstChild.nodeName.toUpperCase()) {
 $(firstChild).prepend("<span>" + datelineStr + " - </span>");
 }
@@ -1277,13 +1379,28 @@ $("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 
 <span>Tagovi</span>
 <ul class="list-inline">
 <li>
-<a href="https://www.jutarnji.hr/tag/Ministarstvo_zdravstva" class ="label label-default" >
-Ministarstvo zdravstva
+<a href="https://www.jutarnji.hr/tag/Pore%C4%8D" class ="label label-default" >
+Poreè
 </a>
 </li>
 <li>
-<a href="https://www.jutarnji.hr/tag/zdravstvo" class ="label label-default" >
-zdravstvo
+<a href="https://www.jutarnji.hr/tag/festival-1" class ="label label-default" >
+festival
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Rise_Up" class ="label label-default" >
+Rise Up
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Hrvatska" class ="label label-default" >
+Hrvatska
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Rita_Ora" class ="label label-default" >
+Rita Ora
 </a>
 </li>
 </ul>
@@ -1294,6 +1411,21 @@ class="rel_art_ib ">
 Vezane vijesti
 </h3>
 <section>
+<article class="svijet media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/foto-jutarnji-u-pristini-na-10-godisnjicu-kosovske-neovisnosti-pogledajte-kako-je-bilo-na-spektakularnom-koncertu-rite-ore-pred-300000-ljudi/7046363/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/foto-jutarnji-u-pristini-na-10-godisnjicu-kosovske-neovisnosti-pogledajte-kako-je-bilo-na-spektakularnom-koncertu-rite-ore-pred-300000-ljudi/7046363/">
+FOTO: JUTARNJI U PRIŠTINI NA 10. GODIŠNJICU KOSOVSKE NEOVISNOSTI Pogledajte kako je bilo na spektakularnom koncertu Rite Ore pred 300.000 ljudi
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
 </section>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -1301,6 +1433,136 @@ Vezane vijesti
 </div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
+<div class="row upscore-magicflow displaynone-upscore-hack " >
+<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
+<section class="upscore_promo1_4 ">
+<div class="row">
+<div class="col-xs-12" data-widget-position="0">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+<img src="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/ALTERNATES/LANDSCAPE_380/naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovnajpg/7328217/BINARY/thumbnail/naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravo-je-vrijeme-za-preuredenje-vaseg-interijera-i-eksterijera/7328211/">
+Pravo je vrijeme za preureðenje vašeg interijera i eksterijera
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="1">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+<img src="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/ALTERNATES/LANDSCAPE_380/naslovna-celulit.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/naslovna-celulitjpg/7326510/BINARY/thumbnail/naslovna-celulit.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kako-sam-uklonila-ruzni-celulit-iskrena-i-sokantna-prica/7326477/">
+Kako sam uklonila ružni celulit – iskrena i šokantna prièa!
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="2">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+<img src="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/ALTERNATES/LANDSCAPE_380/sl%201.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/sl-1jpg/7248456/BINARY/thumbnail/sl%201.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/kviz-provjerite-koliko-biste-bili-uspjesni-na-burzi/7248459/">
+KVIZ: Provjerite koliko biste bili uspješni na burzi
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="3">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+<img src="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/ALTERNATES/LANDSCAPE_380/Aspira%20naslovna.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/Promo/aspira-naslovnajpg/7325961/BINARY/thumbnail/Aspira%20naslovna.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Ostvari meðunarodnu karijeru u turizmu – upiši Aspiru"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/pravi-studij-turizma-na-visokoj-skoli-aspira-u-splitu-i-zagrebu-ostvari-medunarodnu-karijeru-u-turizmu/7325964/">
+PRAVI STUDIJ TURIZMA NA VISOKOJ ŠKOLI ASPIRA U SPLITU I ZAGREBU: Ostvari meðunarodnu karijeru u turizmu! </a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</section>
+</div>
 <div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
 <div id="div-gpt-ad-1459756830165-0">
 <script type='text/javascript'>
@@ -1322,7 +1584,7 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </div>
 </div>
-<div class="row " id="row-padding-fix">
+<div class="row " >
 <div class="col-sm-12 ">
 <div class="row titleRow">
 <div class="col-sm-12">
@@ -1372,6 +1634,9 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </div>
 </section>
 </div>
+<div class="separator alt ">
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7333203" data-colorscheme="light" data-numposts="5"></div>
+</div>
 </div>
 <div class="col-sm-4 jl-banner-column" >
 <div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
@@ -1393,6 +1658,18 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 </script>
 </div>
 </div>
+<div class="jl-sticky-banner" style="margin-bottom:20px;">
+<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
+<script type="text/javascript">
+Criteo.events.push(function() {
+Criteo.DisplayAcceptableAdIfAdblocked({
+"zoneid": 1197956,
+"containerid": "crt-47675ba0",
+"overrideZoneFloor": false
+});
+});
+</script>
+</div>
 </div>
 </div>
 <div class="row hidden-xs " >
@@ -1402,19 +1679,20 @@ googletag.pubads().refresh([ dfpAdSlots[slot] ]);
 <div class="row">
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
 <section>
-<article class="komentari media c11a none">
+<article class="strane-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/komentari/komentar-prije-40-dana-je-rodila-a-on-ju-je-pretukao-mlatio-rukama-i-nogama-udarao-po-rani-od-carskog-reza/7277904/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/komentari/komentar-prije-40-dana-je-rodila-a-on-ju-je-pretukao-mlatio-rukama-i-nogama-udarao-po-rani-od-carskog-reza/7277904/">
-NEVINA U LUDNICI
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/">
+OBITELJSKA SREÆA
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/komentari/komentar-prije-40-dana-je-rodila-a-on-ju-je-pretukao-mlatio-rukama-i-nogama-udarao-po-rani-od-carskog-reza/7277904/">
-KOMENTAR Prije 40 dana je rodila, a on ju je pretukao, mlatio rukama i nogama, udarao po rani od carskog reza... </a>
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/fotoekskluziv-legendarna-talijanska-diva-u-poznatom-zagrebackom-restoranu-slavi-dolazak-prvog-unuka-slavna-pjevacica-punica-je-najbogatijeg-hrvata/7329771/">
+FOTOEKSKLUZIV: LEGENDARNA TALIJANSKA DIVA U POZNATOM ZAGREBAÈKOM RESTORANU SLAVI DOLAZAK PRVOG UNUKA Slavna pjevaèica punica je najbogatijeg Hrvata
+</a>
 </h4>
 </div>
 </div>
@@ -1423,19 +1701,19 @@ KOMENTAR Prije 40 dana je rodila, a on ju je pretukao, mlatio rukama i nogama, u
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
 <section>
-<article class="komentari media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/komentari/da-je-precima-otprije-sto-godina-nasa-danasnja-pamet-ne-bi-bilo-termoelektrana-niti-bi-zagreb-bio-grad/7268142/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/komentari/da-je-precima-otprije-sto-godina-nasa-danasnja-pamet-ne-bi-bilo-termoelektrana-niti-bi-zagreb-bio-grad/7268142/">
-PIŠE ANTE TOMIÆ
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/">
+BLUE CARPET
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/komentari/da-je-precima-otprije-sto-godina-nasa-danasnja-pamet-ne-bi-bilo-termoelektrana-niti-bi-zagreb-bio-grad/7268142/">
-Da je precima otprije sto godina naša današnja pamet, ne bi bilo termoelektrana niti bi Zagreb bio grad
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/foto-franka-u-odvaznoj-kombinaciji-ostavila-sve-u-lisabonu-bez-daha-svi-su-zamijetili-nasu-predstavnicu-na-eurosongu-tijekom-setnje-plavim-tepihom/7329873/">
+FOTO: FRANKA U ODVAŽNOJ KOMBINACIJI OSTAVILA SVE U LISABONU BEZ DAHA Svi su zamijetili našu predstavnicu na Eurosongu tijekom šetnje plavim tepihom
 </a>
 </h4>
 </div>
@@ -1445,19 +1723,18 @@ Da je precima otprije sto godina naša današnja pamet, ne bi bilo termoelektrana 
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
 <section>
-<article class="komentari media c11a none">
+<article class="domace-zvijezde media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/komentari/zasto-britanska-visoka-klasa-ima-vece-probleme-s-ovisnoscu/7270359/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/komentari/zasto-britanska-visoka-klasa-ima-vece-probleme-s-ovisnoscu/7270359/">
-BOARDING PASS
-</a>
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/">
+EUROSONG 2018. </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/komentari/zasto-britanska-visoka-klasa-ima-vece-probleme-s-ovisnoscu/7270359/">
-Zašto britanska visoka klasa ima veæe probleme s ovisnošæu
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/franka-nije-uspjela-unatoc-sjajnom-nastupu-ne-ide-u-finale-eurosonga-hrvatska-bez-plasmana-u-zavrsnici-evo-tko-je-sve-prosao-dalje/7334295/">
+FRANKA NIJE USPJELA... UNATOÈ SJAJNOM NASTUPU, NE IDE U FINALE EUROSONGA Hrvatska bez plasmana u završnici, evo tko je sve prošao dalje
 </a>
 </h4>
 </div>
@@ -1467,19 +1744,19 @@ Zašto britanska visoka klasa ima veæe probleme s ovisnošæu
 </div>
 <div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
 <section>
-<article class="komentari media c11a none">
+<article class="reality media c11a none">
 <div class="teaser "
-data-content-url="https://www.jutarnji.hr/komentari/ako-je-hdz-i-pokleknuo-pred-rodnom-ideologijom-sada-zilavo-brani-vatikan/7273137/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.jutarnji.hr/spektakli/reality/muke-maminog-sina-marka-mora-izabrati-izmedu-cetiri-cure-ali-samo-mu-je-jedna-stvar-na-umu-muskarac-takve-ne-prepozna-uvijek-ali-mislim-da-ja-jesam/7329945/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
 <div class="media-body">
 <p class="overline ">
-<a href="https://www.jutarnji.hr/komentari/ako-je-hdz-i-pokleknuo-pred-rodnom-ideologijom-sada-zilavo-brani-vatikan/7273137/">
-LABIRINT POLITIKE
+<a href="https://www.jutarnji.hr/spektakli/reality/muke-maminog-sina-marka-mora-izabrati-izmedu-cetiri-cure-ali-samo-mu-je-jedna-stvar-na-umu-muskarac-takve-ne-prepozna-uvijek-ali-mislim-da-ja-jesam/7329945/">
+'ŽENIM SINA?'
 </a>
 </p>
 <h4 class="title ">
-<a href="https://www.jutarnji.hr/komentari/ako-je-hdz-i-pokleknuo-pred-rodnom-ideologijom-sada-zilavo-brani-vatikan/7273137/">
-Ako je HDZ i pokleknuo pred rodnom ideologijom, sada žilavo brani Vatikan
+<a href="https://www.jutarnji.hr/spektakli/reality/muke-maminog-sina-marka-mora-izabrati-izmedu-cetiri-cure-ali-samo-mu-je-jedna-stvar-na-umu-muskarac-takve-ne-prepozna-uvijek-ali-mislim-da-ja-jesam/7329945/">
+MUKE MAMINOG SINA MARKA: MORA IZABRATI IZMEÐU ÈETIRI CURE, ALI SAMO MU JE JEDNA STVAR NA UMU Muškarac takve ne prepozna uvijek, ali mislim da ja jesam
 </a>
 </h4>
 </div>
@@ -1517,19 +1794,19 @@ class="media-object adaptive lazy "
 </section>
 <article class="fokus-zvjezdane-staze media c3 none">
 <div class="teaser link-block"
-data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/" data-widget-title="" data-web-position="box"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/" data-widget-title="" data-web-position="box"
 data-widget-position="0">
-<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
 </a>
 <div class="img-container picture" style='width: 100%'>
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-<img src="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/ALTERNATES/LANDSCAPE_380/AsliEnver_Hurr11.jpg"
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+<img src="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/ALTERNATES/LANDSCAPE_380/ivan%20herceg%20.jpg"
 data-variant="LANDSCAPE"
-data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/aslienver_hurr11jpg/7285537/BINARY/thumbnail/AsliEnver_Hurr11.jpg"
+data-src-template="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-jpg/6841686/BINARY/thumbnail/ivan%20herceg%20.jpg"
 data-proxy-image=""
 data-proxy-width=""
 style="width:100%"
-alt=""
+alt="ivan herceg_foto Boris Kovacev / CROPIX"
 title=""
 class="media-object adaptive lazy "
 />
@@ -1537,8 +1814,8 @@ class="media-object adaptive lazy "
 </div>
 <div class="media-body">
 <h4 class="title text-small">
-<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ljubavni-krah-umjesto-braka-ostavljena-istanbulska-nevjesta/7285360/">
-Ljubavni krah umjesto braka: Ostavljena istanbulska nevjesta
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/ivan-herceg-ponovno-ljubi-zavela-ga-fatalna-pjevacica/7333029/">
+Ivan Herceg ponovno ljubi: Zavela ga fatalna pjevaèica
 </a>
 </h4>
 </div>
@@ -1625,6 +1902,11 @@ Obrazovanje
 <li class="">
 <a href="http://native.jutarnji.hr/mirovine/" target="">
 Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
 </a>
 </li>
 </ul>
@@ -1914,11 +2196,6 @@ Kontakt
 Oglašavanje
 </a>
 </li>
-<li class="">
-<a href="http://apps.jutarnji.hr/lokalni-izbori-2017-cjenik.pdf" target="_blank">
-Cjenik za izborno oglašavanje
-</a>
-</li>
 </ul>
 <p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
 </div>
@@ -1966,14 +2243,14 @@ googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.displa
 <div id="side-article-widget" class="side-article-widget" style="display: none;">
 <div class="clearfix">
 <div class="pull-left side-article-column">
-<a href="https://100posto.hr/news/park-prirode-kraj-predsjednickih-dvora-otvara-se-za-gradane-prosetajte-s-nama-po-sumi-u-koju-civili-nisu-mogli-desetljecima?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<a href="https://100posto.hr/scena/franka-ipak-nije-uspjela-u-finalu-eurosonga-necemo-slusati-crazy?utm_campaign=interal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
 <div class="side-article clearfix">
 <div class="pull-left side-article-image">
-<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1524668589pantovcak.jpg?v=1524668639" />
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1525787353profimedia-0370906654.jpg?v=1525788581" />
 </div>
 <div class="pull-right side-article-text-wrapper">
 <div class="side-article-text">
-<h4>VIDEO: ŠETNJA ZABRANJENOM ŠUMOM/Park prirode kraj Predsjednièkih dvora otvara se za graðane, pogledajte kako izgleda šuma u koju civili desetljeæima nisu smjeli uæi</h4>
+<h4>GOTOVA PRVA VEÈER/Franka ipak nije uspjela, u finalu Eurosonga neæemo slušati &#039;Crazy&#039;</h4>
 <hr class="side-article-hr" />
 </div>
 </div>
@@ -2017,34 +2294,67 @@ $('#side-article-widget').fadeOut('fast');
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=339&contextPath=1-339-&pubId=1&cat=&meta=read-story&objId=7147353&type=article&title=ZA+DOBROBIT+PACIJENATA+I+DR%c5%bdAVNE+KASE+Za%c5%a1to+Hrvatska+bolje+ne+iskori%c5%a1tava+klini%c4%8dke+studije+ispitivanja+lijekova%3f&url=https%3a%2f%2fwww.jutarnji.hr%2fkomentari%2fza-dobrobit-pacijenata-i-drzavne-kase-zasto-hrvatska-bolje-ne-iskoristava-klinicke-studije-ispitivanja-lijekova%2f7147353%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=51&contextPath=1-51-&pubId=1&cat=&meta=read-story&objId=7333203&type=article&title=VIDEO%3a+RITA+ORA+STI%c5%bdE+U+HRVATSKU!+Megazvijezda+7.+srpnja+nastupa+u+Pore%c4%8du.+Dolazi+svojim+avionom%2c+u+timu+ima+28+ljudi%2c+a+odsjest+%c4%87e+u+VIP+apartmanu&url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fvideo-rita-ora-stize-u-hrvatsku-megazvijezda-7-srpnja-nastupa-u-porecu-dolazi-svojim-avionom-u-timu-ima-28-ljudi-a-odsjest-ce-u-vip-apartmanu%2f7333203%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=339&amp;contextPath=1-339-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7147353&amp;type=article&amp;title=ZA+DOBROBIT+PACIJENATA+I+DR%c5%bdAVNE+KASE+Za%c5%a1to+Hrvatska+bolje+ne+iskori%c5%a1tava+klini%c4%8dke+studije+ispitivanja+lijekova%3f&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkomentari%2fza-dobrobit-pacijenata-i-drzavne-kase-zasto-hrvatska-bolje-ne-iskoristava-klinicke-studije-ispitivanja-lijekova%2f7147353%2f" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=51&amp;contextPath=1-51-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7333203&amp;type=article&amp;title=VIDEO%3a+RITA+ORA+STI%c5%bdE+U+HRVATSKU!+Megazvijezda+7.+srpnja+nastupa+u+Pore%c4%8du.+Dolazi+svojim+avionom%2c+u+timu+ima+28+ljudi%2c+a+odsjest+%c4%87e+u+VIP+apartmanu&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fspektakli%2fvideo-rita-ora-stize-u-hrvatsku-megazvijezda-7-srpnja-nastupa-u-porecu-dolazi-svojim-avionom-u-timu-ima-28-ljudi-a-odsjest-ce-u-vip-apartmanu%2f7333203%2f" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-339-&cat=jltags%40eph.hr%2c2016&objId=1944676025&title=zdravstvo&url=tag%3ajltags%40eph.hr%2c2016%3azdravstvo&rt=1&ctxId=339&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&cat=jltags%40eph.hr%2c2016&objId=288305687&title=Rita+Ora&url=tag%3ajltags%40eph.hr%2c2016%3aRita_Ora&rt=1&ctxId=51&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-339-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1944676025&amp;title=zdravstvo&amp;url=tag%3ajltags%40eph.hr%2c2016%3azdravstvo&amp;rt=1&amp;ctxId=339&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=288305687&amp;title=Rita+Ora&amp;url=tag%3ajltags%40eph.hr%2c2016%3aRita_Ora&amp;rt=1&amp;ctxId=51&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
 var clientDT = new Date().getTime();
-document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-339-&cat=jltags%40eph.hr%2c2016&objId=2054319853&title=Ministarstvo+zdravstva&url=tag%3ajltags%40eph.hr%2c2016%3aMinistarstvo_zdravstva&rt=1&ctxId=339&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&cat=jltags%40eph.hr%2c2016&objId=1081023024&title=Hrvatska&url=tag%3ajltags%40eph.hr%2c2016%3aHrvatska&rt=1&ctxId=51&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
 //]]>
 </script>
 <noscript>
 <div>
-<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-339-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=2054319853&amp;title=Ministarstvo+zdravstva&amp;url=tag%3ajltags%40eph.hr%2c2016%3aMinistarstvo_zdravstva&amp;rt=1&amp;ctxId=339&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1081023024&amp;title=Hrvatska&amp;url=tag%3ajltags%40eph.hr%2c2016%3aHrvatska&amp;rt=1&amp;ctxId=51&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&cat=jltags%40eph.hr%2c2016&objId=1242946751&title=Rise+Up&url=tag%3ajltags%40eph.hr%2c2016%3aRise_Up&rt=1&ctxId=51&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1242946751&amp;title=Rise+Up&amp;url=tag%3ajltags%40eph.hr%2c2016%3aRise_Up&amp;rt=1&amp;ctxId=51&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&cat=jltags%40eph.hr%2c2016&objId=1708632766&title=festival&url=tag%3ajltags%40eph.hr%2c2016%3afestival-1&rt=1&ctxId=51&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1708632766&amp;title=festival&amp;url=tag%3ajltags%40eph.hr%2c2016%3afestival-1&amp;rt=1&amp;ctxId=51&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&cat=jltags%40eph.hr%2c2016&objId=1849202227&title=Pore%c4%8d&url=tag%3ajltags%40eph.hr%2c2016%3aPore%25C4%258D&rt=1&ctxId=51&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-51-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1849202227&amp;title=Pore%c4%8d&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPore%25C4%258D&amp;rt=1&amp;ctxId=51&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
 </div>
 </noscript>
 <script type="text/javascript">
@@ -2097,7 +2407,7 @@ var _ain = {};
 $(function() {
 $
 .ajax({
-url : 'https://graph.facebook.com/https://www.jutarnji.hr/komentari/za-dobrobit-pacijenata-i-drzavne-kase-zasto-hrvatska-bolje-ne-iskoristava-klinicke-studije-ispitivanja-lijekova/7147353/',
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/spektakli/video-rita-ora-stize-u-hrvatsku-megazvijezda-7-srpnja-nastupa-u-porecu-dolazi-svojim-avionom-u-timu-ima-28-ljudi-a-odsjest-ce-u-vip-apartmanu/7333203/',
 dataType : 'jsonp',
 success : function(data) {
 var commentsCount = 0;
@@ -2107,14 +2417,14 @@ commentsCount = data.comments;
 /* CONFIGURATION START */
 _ain = {
 id : "1247",
-url : "https://www.jutarnji.hr/komentari/za-dobrobit-pacijenata-i-drzavne-kase-zasto-hrvatska-bolje-ne-iskoristava-klinicke-studije-ispitivanja-lijekova/7147353/",
-postId : "7147353",
+url : "https://www.jutarnji.hr/spektakli/video-rita-ora-stize-u-hrvatsku-megazvijezda-7-srpnja-nastupa-u-porecu-dolazi-svojim-avionom-u-timu-ima-28-ljudi-a-odsjest-ce-u-vip-apartmanu/7333203/",
+postId : "7333203",
 maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
-title : "ZA DOBROBIT PACIJENATA I DRŽAVNE KASE Zašto Hrvatska bolje ne iskorištava klinièke studije ispitivanja lijekova?",
-pubdate : "2018-03-20 19:00",
-authors : "Goranka Jureško",
-sections : "Front Page, Buduænost zdravstva, Komentari",
-tags : "zdravstvo, Ministarstvo zdravstva",
+title : "VIDEO: RITA ORA STIŽE U HRVATSKU! Megazvijezda 7. srpnja nastupa u Poreèu. Dolazi svojim avionom, u timu ima 28 ljudi, a odsjest æe u VIP apartmanu",
+pubdate : "2018-05-08 15:32",
+authors : "Marija Lokas, Petra Pliveliæ",
+sections : "Front Page, Strane zvijezde, Spektakli",
+tags : "Rita Ora, Hrvatska, Rise Up, festival, Poreè",
 comments : commentsCount.toString()
 };
 /* CONFIGURATION END */
