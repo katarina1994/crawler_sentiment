@@ -1,8 +1,8 @@
 eclipse.preferences.version=1
 encoding//sentiment/cataloguePersonHelper.py=utf-8
+encoding//sentiment/modelSVM.py=utf-8
 encoding//sentiment/mojiLudiPokusaji.py=utf-8
 encoding//sentiment/personRecommender.py=UTF-8
-encoding//sentiment/posNeg.py=utf-8
 encoding//sentiment/positiveNegativeWordsAnalysis.py=utf-8
 encoding//sentiment/sve_rijeci.txt=UTF-8
 encoding//sentiment/topicModeling.py=utf-8

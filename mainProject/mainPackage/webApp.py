@@ -7,7 +7,7 @@ Created on 15. ozu 2018.
 @author: Katarina123
 '''
 
-from flask import Flask, render_template, json, request, Response
+from flask import Flask, render_template, jsonify, request, Response, json
 from flask_mysqldb import MySQL
 import mainPackage.systemLogic as sl
 
@@ -77,10 +77,34 @@ def autocomplete():
 @app.route('/startCrawlerSentiment')
 def startCrawlerSentiment():
     print ("Hello")
-    #sl.runCrawl()
-    sl.runAnalizeSentiment()
+    fConfig = open("configurationFiles/config.txt", "w");
+    numOfArticlesToCrawl = request.args.get('numofarticles', 0, type=int)
+    portalName = request.args.get('portal')
+    if (portalName == "24sata"):
+        fConfig.write("www.24sata.hr" + "\n")
+        fConfig.write("https://www.24sata.hr/.+/.*\w+-\w+-.+-\d+" + "\n")
+        fConfig.write(str(numOfArticlesToCrawl)) 
+    elif (portalName == "Index"):
+        fConfig.write("www.index.hr" + "\n")
+        fConfig.write("https://www.index.hr/.*/clanak/\w+-\w+.*\d+.aspx" + "\n")
+        fConfig.write(str(numOfArticlesToCrawl)) 
+    elif (portalName == "Jutarnji list"):
+        fConfig.write("www.jutarnji.hr" + "\n")
+        fConfig.write("https://www.jutarnji.hr/.+/.*\w+-\w+-.+/\d+/$" + "\n")
+        fConfig.write(str(numOfArticlesToCrawl)) 
+    elif (portalName == "Večernji list"):
+        fConfig.write("www.vecernji.hr")
+        fConfig.write("https://www.vecernji.hr/.+/.*\w+-\w+-.+\d+$")
+        fConfig.write(str(numOfArticlesToCrawl)) 
+    else:
+        return jsonify(result="ERROR! Wrong value for portal name!")
+    #print (numOfArticlesToCrawl)
+    #print (portalName)
+    fConfig.close()
+    sl.runCrawl()
+    sl.runAnalizeTopicSaveDB()
     print ("DONE")
-    return "nothing"
+    return jsonify(result="")
 
 
 @app.route('/startFindAll')
@@ -97,6 +121,17 @@ def startPosNegWords():
     sl.rungetsentimentAnalysisFromPosAndNegWords()
     print ("DONE pos neg words")
     return "nothing"
+
+
+@app.route('/startSVM')
+def startSVM():
+    print ("Hello SVM")
+    svm = sl.rungetsentimentAnalysisSVMModel()
+    print ("DONE SVM")
+    return jsonify(result=svm.tolist())
+
+
+
 
 
 @app.route('/showPolitics', methods=['GET', 'POST'])
@@ -141,11 +176,11 @@ def showPolitics():
                 cursor.execute(stmnt4, (personID,))
                 conn.commit()
                 records = cursor.fetchall()
-                print (records)
+                #print (records)
                 return render_template('politika.html', records=records)
             else:
                 bothNameSurname = search.split(" ")
-                print (bothNameSurname)
+                #print (bothNameSurname)
                 if(len(bothNameSurname) == 2):
                     cursor.execute(stmnt3, (bothNameSurname[0], str(bothNameSurname[1]), "Politika"))
                     conn.commit()
@@ -155,7 +190,7 @@ def showPolitics():
                         cursor.execute(stmnt4, (personID,))
                         conn.commit()
                         records = cursor.fetchall()
-                        print (records)
+                        #print (records)
                         return render_template('politika.html', records=records)
                     else:
                         return render_template('politika.html', records=records)
@@ -168,7 +203,7 @@ def showPolitics():
                         cursor.execute(stmnt4, (personID,))
                         conn.commit()
                         records = cursor.fetchall()
-                        print (records)
+                        #print (records)
                         return render_template('politika.html', records=records)
                     else:
                         return render_template('politika.html', records=records)
@@ -549,3 +584,7 @@ def showBusiness():
     return render_template('poduzetnistvo.html')
 
 
+
+@app.route('/test', methods=['GET', 'POST'])
+def test():
+    return render_template('test.html')

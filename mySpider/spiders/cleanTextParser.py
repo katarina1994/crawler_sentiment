@@ -97,8 +97,7 @@ class CleanText():
         
         html = urlopen(link).read()
         cleanTexts = self.getTextFromHtml(html)
-        cleanTexts = cleanTexts.strip(" ").strip("\t").strip("\n").strip("\r").strip()  
-
+        cleanTexts = cleanTexts.strip(" ").strip("\t").strip("\n").strip("\r").strip()
         return cleanTexts
 
 

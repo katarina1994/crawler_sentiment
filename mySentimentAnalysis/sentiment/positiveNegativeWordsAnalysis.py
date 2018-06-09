@@ -1,3 +1,9 @@
+'''
+Created on 2. lip 2018.
+
+@author: Katarina123
+'''
+
 #import nltk
 #nltk.download()
 import codecs
@@ -64,5 +70,5 @@ class PosNegExamples():
             negative = float(neg)/(pos+neg)
             return (positive, negative)
         else:
-            print("Sentence doesn't contain any valuable words or too short!")
+            #print("Sentence doesn't contain any valuable words or too short!")
             return (float(0),float(0))

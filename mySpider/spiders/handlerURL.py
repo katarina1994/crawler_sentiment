@@ -22,7 +22,7 @@ class handlerURL (HTMLParser):
 
 
     def getURLs(self, url):
-        self.link = []
+        self.links = []
         self.start = url
         result = urlopen(url)
         #print (response.info().get('Content-Type'))

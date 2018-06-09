@@ -29,9 +29,6 @@
 
 <body>
 	<div id="page">
-		<div id="logo">
-			<h1><a href="/" id="logoLink">Povratak na kategorije</a></h1>
-		</div>
 		<div id="content">
 			<h2>Politika</h2>
 		
@@ -40,10 +37,12 @@
     					<input id='data_autocomplete' type=text name=showPolitics placeholder="Search.." value="{{ request.form.showPolitics }}">
     					<div><input type=submit value="Search"></div>
 					</form>
-		
-				{{ records }}
-				</div>
-			
+  					<ul>
+  						{% for item in records %}
+  						<li><a href="{{ item[2] }}"> Link</a> </li>
+  						{% endfor %}
+					</ul>			
+			</div>
 		</div>
 		<div id="footer">
 			<p>

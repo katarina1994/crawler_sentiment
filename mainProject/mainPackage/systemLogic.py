@@ -20,6 +20,7 @@ import CroatianStemmer.Croatian_stemmer as stem
 import sentiment.topicModeling as tm
 import sentiment.personRecommender as pr
 import sentiment.cataloguePersonHelper as cph
+import sentiment.modelSVM as model
 #from sentiment import cataloguePersonHelper
 import sentiment.positiveNegativeWordsAnalysis as posneg
 
@@ -84,7 +85,7 @@ def runCrawl():
 
 
 # FIND ARTICLE TOPICS, RUN NER, HELP WITH CATALOUGE-TITLES
-def runAnalizeSentiment():
+def runAnalizeTopicSaveDB():
         
     fConfig = open("configurationFiles/config.txt", "r");
     numberOfPages = fConfig.readlines()[2]
@@ -136,18 +137,19 @@ def runAnalizeSentiment():
     
     # Go through title text and sve right person info to DB
     # 400 JER SAD TESTIRAM PO SVIMA POPRAVI ZA DOBIT SAMO ZADNJE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    allTitles = cleanTextParser.getAllTitlesOfArticles(400, int(400))
+    allTitles = cleanTextParser.getAllTitlesOfArticles(numberOfLinks, int(numberOfPages))
     matchedPersonInDB += catalogue.compareTextWithPersonFromDB(allTitles, listOfAllPersonsFromDB, personLinks, numberOfLinks, int(numberOfPages))
     print (matchedPersonInDB)
    
     # Now we have all the right persons to save to DB :)
-    listOfFiles = os.listdir("matchedArticle/") # dir is your directory path
+    listOfFiles = os.listdir("matchedArticle/")
     numberFiles = len(listOfFiles)
 
     matchedPersonInDB = list(set(matchedPersonInDB)) 
     numberMatched = numberFiles
     for person in matchedPersonInDB:
         print (person)
+        print (numberMatched)
         link = person[1]
         articleText = cleanTextParser.getOneArticleText(link)
         f = codecs.open("matchedArticle/article-%05d.txt" % numberMatched, 'w', encoding='Windows-1250')
@@ -257,10 +259,35 @@ def rungetsentimentAnalysisFromPosAndNegWords():
         # GET ANALYSIS BY USING "POSITIVE" AND "NEGATIVE" WORDS
         posAnalysisArticleText = 0
         negAnalysisArticleText = 0
+        numOfSent = 0
         for sentence in article:
-            print (" ".join(sentence))
+            #print (" ".join(sentence))
             sent = " ".join(sentence)
-            posAnalysisArticleText += pn.getNegPos(sent)[0]
-            negAnalysisArticleText += pn.getNegPos(sent)[1]
-        print (posAnalysisArticleText, negAnalysisArticleText)
+            pos = pn.getNegPos(sent)[0]
+            neg = pn.getNegPos(sent)[1]
+            posAnalysisArticleText += pos
+            negAnalysisArticleText += neg
+            if (neg != 0 or pos != 0):
+                numOfSent += 1
+        if (numOfSent != 0):
+            posArticle = float(posAnalysisArticleText/numOfSent)
+            negArticle = float(negAnalysisArticleText/numOfSent)
+            neuArticle = float(1 - posArticle - negArticle)
+        else:
+            posArticle = 0.0
+            negArticle = 0.0
+            neuArticle = 1.0
+        print (article)
+        print (posArticle, negArticle, neuArticle)
         
+        
+        
+# SENTIMENT ANALYSIS BY USING SVM MODEL (TEST AND TRAIN)          
+def rungetsentimentAnalysisSVMModel():
+    
+    path = "matchedArticle"
+    svm = model.SVM()
+    result = svm.trainAndTestSVMModel(path)
+    return result
+    
+    

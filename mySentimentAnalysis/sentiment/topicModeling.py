@@ -44,6 +44,17 @@ class TopicModeling():
         fStopWords.close()
         return stopWords
         
+    # GET ALL STOPWORDS FROM CROATIAN LANUGAGE, BUT NO NEGATIONS INCLUDED
+    def getStopWordsNoNegative(self):
+        
+        stopWordsNegative = []
+        fStopWords = codecs.open("stopWords_no_negative_words.txt", 'r', encoding='Windows-1250')
+        tmp = fStopWords.readlines()
+        for w in tmp:
+            w = w.strip("\n")
+            stopWordsNegative.append(w)
+        fStopWords.close()
+        return stopWordsNegative
         
     # TIME TO WORK WITH EACH ARTICLE, FIND KEY WORDS FROM IT AND WRITE THEM TO FILE 
     def writeKeyWordsToFile(self, path, topicNumber, numberOfPages):
