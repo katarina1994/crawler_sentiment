@@ -147,7 +147,7 @@ class CatalogueHelper():
     
 
     # SAVE PERSON INFO (ID AND LINK) TO DB    
-    def savePersonInfoToDB(self, personInfo):  
+    def savePersonInfoToDB(self, personInfo, publishingDate, imageArticle):  
         
         # make connection to my database
         db = MySQLdb.connect(host="localhost",
@@ -183,7 +183,7 @@ class CatalogueHelper():
             maxid = maxid[0]
             
         # insert personid and link into DB personinfo table
-        cur.execute('INSERT INTO personinfo (id, personid, link) VALUES (%s, %s, %s)', (int(maxid + 1), int(personID), link))
+        cur.execute('INSERT INTO personinfo (id, personid, link, datePub, image) VALUES (%s, %s, %s, %s, %s)', (int(maxid + 1), int(personID), link, publishingDate, imageArticle))
         db.commit()            
         db.close()
 

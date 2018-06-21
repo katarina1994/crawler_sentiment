@@ -1,0 +1,1869 @@
+
+
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,height=device-height, initial-scale=1.0">
+    <title>Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u? - Index.hr</title>
+    <!--todo: remove on production-->
+    <meta name="description" content="IZ POLITI&#x10C;KE platforme Zagreb je NA&#x160;&#xA0;u ponedjeljak su poru&#x10D;ili Petru Pripuzu, predsjedniku uprave C.I.O.S. grupe u &#x10D;ijem pogonu je u subotu izbio po&#x17E;ar,&#xA0;da mu ne&#x107;e uspjeti poku&#x161;aji prebacivanja odgovornosti za&#xA0;po&#x17E;ar na politi&#x10D;ku&#xA0;oporbu.">
+    <meta property="fb:app_id" content="216060115209819">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Rubik:300,400,500&amp;subset=latin-ext" rel="stylesheet">
+
+    
+    
+        <link href="/Content/desktop-bundle.min.css?v=egu3v8Au-79RN7_zWnaTgHCYtuE0dtJtEs5b4bQbjpE" rel="stylesheet" />
+    
+
+    <script src="/Scripts/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript">
+        var appInsights=window.appInsights||function(config){
+            function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t
+        }({
+            instrumentationKey: 'cc5991a8-74c3-4f22-b0e4-067761b8ffdd'
+        });
+
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
+        
+    </script>
+
+
+    <!-- Google analytics tracking -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-2490832-1', 'auto');
+    </script>
+
+    <!--ad ocean-->
+    <script type="text/javascript" src="//hr.adocean.pl/files/js/ado.js"></script>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018 */
+        if (typeof ado !== "object") { ado = {}; ado.config = ado.preview = ado.placement = ado.master = ado.slave = function () { }; }
+        ado.config({ mode: "old", xml: false, characterEncoding: true });
+        ado.preview({ enabled: true });
+    </script>
+
+
+
+    <!-- Make sure this is inserted before your GPT tag -->
+    <script type="text/javascript" src="//ads.rubiconproject.com/prebid/16666.js"></script>
+
+
+    <script>
+
+    var PREBID_TIMEOUT = 2000;
+    var adUnits = [{
+        code: 'div-gpt-ad-1519642151413-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209251"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918716'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '59',
+                siteID: '268221'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192147"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642588872-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209252"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918718'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '60',
+                siteID: '268222'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192155"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642696832-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209254"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918722'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '61',
+                    siteID: '268223'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192159"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519644719256-0',
+        sizes: [[970, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209255"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918724'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '62',
+                    siteID: '268224'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192166"
+            }
+        }]
+    }];
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    pbjs.bidderSettings = {
+        rubicon: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        criteo: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        indexExchange: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        appnexus: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        }
+    };
+
+    const customPrebidGranularity = {
+        "buckets": [
+            {
+                "min": 0,
+                "max": 100,
+                "increment": 0.1
+            }
+        ]
+    };
+</script>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function () {
+        googletag.pubads().disableInitialLoad();
+    });
+
+    pbjs.que.push(function () {
+        pbjs.setPriceGranularity(customPrebidGranularity);
+        pbjs.enableSendAllBids();
+        pbjs.addAdUnits(adUnits);
+        pbjs.requestBids({
+            bidsBackHandler: sendAdserverRequest
+        });
+    });
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function () {
+            pbjs.que.push(function () {
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+
+    setTimeout(function () {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+
+</script>
+<!-- Make sure this is inserted before your GPT tag -->
+
+
+
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script>
+        googletag.cmd.push(function () {
+
+
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Vijesti_L', [300, 250], 'div-gpt-ad-1519642151413-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Vijesti_R', [300, 250], 'div-gpt-ad-1519642588872-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA3_Vijesti', [[300, 250], [300, 600]], 'div-gpt-ad-1519642696832-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA4_Vijesti', [[970, 250], [728, 90], [970, 90]], 'div-gpt-ad-1519644719256-0').addService(googletag.pubads());googletag.defineSlot('/5968637/2DIA', [[760, 150], [760, 200], [300, 250]], 'div-gpt-ad-1524557626556-0').addService(googletag.pubads());            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+
+    <script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+
+    <!-- Hotjar Tracking Code for http://www.index.hr -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 447571, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    
+    <link href="/Content/bootstrap-rating.css" rel="stylesheet" />
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <link rel="canonical" href="http://www.index.hr/vijesti/clanak/zagreb-je-nas-dokad-ce-stanovnici-zagreba-svake-godine-strepiti-od-novog-pozara-u-ciosu/2003777.aspx">
+    <link rel="alternate" href="http://www.index.hr/mobile/clanak.aspx?category=vijesti&amp;id=2003777">
+    <link rel="amphtml" href="http://amp.index.hr/article/2003777/zagreb-je-nas-dokad-ce-stanovnici-zagreba-svake-godine-strepiti-od-novog-pozara-u-ciosu">
+
+    <meta property="og:type" content="article" />
+
+    <meta property="og:title" content="Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?" />
+    <meta property="og:image" content="http://www.index.hr/clanak/fb_image/2003777?v=32cdd9a2-a1b9-4072-baab-fde66749e651" />
+
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="845" />
+
+    <meta property="og:description" content="IZ POLITI&#x10C;KE platforme Zagreb je NA&#x160;&#xA0;u ponedjeljak su poru&#x10D;ili Petru Pripuzu, predsjedniku uprave C.I.O.S. grupe u &#x10D;ijem pogonu je u subotu izbio po&#x17E;ar,&#xA0;da mu ne&#x107;e uspjeti poku&#x161;aji prebacivanja odgovornosti za&#xA0;po&#x17E;ar na politi&#x10D;ku&#xA0;oporbu." />
+
+    
+
+
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?",
+    "url": "http://www.index.hr/vijesti/clanak/zagreb-je-nas-dokad-ce-stanovnici-zagreba-svake-godine-strepiti-od-novog-pozara-u-ciosu/2003777.aspx",
+    "description": "Description.",
+    "breadcrumb":{
+    "@type":"BreadcrumbList",
+    "itemListElement":[
+    {
+    "@type":"ListItem",
+    "position":"1",
+    "item":{
+    "@type":"WebSite",
+    "@id":"http://www.index.hr",
+    "name":"Index.hr"
+    }
+    },
+    {
+    "@type":"ListItem",
+    "position":"2",
+    "item":{
+    "@type":"WebPage",
+    "@id":"www.index.hr/vijesti",
+    "name":"Vijesti"
+    }
+    },
+
+        {
+        "@type":"ListItem",
+        "position":"3",
+        "item":{
+        "@type":"WebPage",
+        "@id":"http://www.index.hr/vijesti/rubrika/zagreb/1553.aspx",
+        "name":"Zagreb"
+        }
+        },
+            {
+    "@type":"ListItem",
+    "position":"4",
+    "item":{
+    "@type":"WebPage",
+    "@id":"http://www.index.hr/vijesti/clanak/zagreb-je-nas-dokad-ce-stanovnici-zagreba-svake-godine-strepiti-od-novog-pozara-u-ciosu/2003777.aspx",
+    "name":"Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?"
+    }
+    }
+    ]},
+    "mainEntity": {
+    "@type": "NewsArticle",
+    "@id": "http://www.index.hr/vijesti/clanak/zagreb-je-nas-dokad-ce-stanovnici-zagreba-svake-godine-strepiti-od-novog-pozara-u-ciosu/2003777.aspx",
+    "name" : "Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?",
+    "mainEntityOfPage": {
+    "@type": "WebSite",
+    "@id": "http://www.index.hr/"
+    },
+    "author" : {
+    "@type" : "Person",
+    "name" : "Hina"
+    },
+    "datePublished" : "2018-06-11T14:48",
+    "dateModified" : "2018-06-11T14:48",
+    "headline" : "Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://ip.index.hr/remote/indexnew.s3.index.hr/ciospozarhina1200px.jpg",
+    "height": "845",
+    "width": "1200"
+    },
+    "url" : "http://www.index.hr/vijesti/clanak/zagreb-je-nas-dokad-ce-stanovnici-zagreba-svake-godine-strepiti-od-novog-pozara-u-ciosu/2003777.aspx",
+    "description": "IZ POLITI&#x10C;KE platforme Zagreb je NA&#x160;&#xA0;u ponedjeljak su poru&#x10D;ili Petru Pripuzu, predsjedniku uprave C.I.O.S. grupe u &#x10D;ijem pogonu je u subotu izbio po&#x17E;ar,&#xA0;da mu ne&#x107;e uspjeti poku&#x161;aji prebacivanja odgovornosti za&#xA0;po&#x17E;ar na politi&#x10D;ku&#xA0;oporbu.",
+    "publisher": {
+    "@type": "Organization",
+    "name": "Index.hr",
+    "url" : "http://wwww.index.hr",
+    "logo": {
+    "@type" : "ImageObject",
+    "url" : "http://dev.index.hr/Content/img/logo/index_logo_112x112.png"
+    },
+    "sameAs": [
+    "https://www.facebook.com/index.hr/",
+    "https://twitter.com/indexhr",
+    "https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA"
+    ]
+    }
+    }
+    }
+</script>
+
+</head>
+<body>
+    
+
+    
+    <div class="cookie-consent-container">
+        <div class="main-container flex">
+            <div class="description">
+                U skladu s novom europskom regulativom, Index.hr je nadogradio politiku privatnosti i korištenja kolaèiæa.
+                Kolaèiæe upotrebljavamo kako bismo vam omoguæili korištenje naše online usluge, što bolje korisnièko iskustvo i funkcionalnost naših web stranica,
+                prikaz reklamnih sadržaja i ostale funkcionalnosti koje inaèe ne bismo mogli pružati.
+                Daljnjim korištenjem naše web stranice, suglasni ste s korištenjem kolaèiæa. <a href="/cookie-consent">Više informacija</a>
+            </div>
+            <div class="btn-agree main-bg main-bg-hover" onclick="closeCookieConsent()">Razumijem</div>
+        </div>
+    </div>
+    <script>
+        function closeCookieConsent() {
+            $('.cookie-consent-container').remove();
+            ga('send', 'event', "cookie_consent");
+        }
+    </script>
+
+
+
+    <div id="fb-root"></div>
+    <script>
+        var finished_rendering = function () {
+            $(".fb-loader").addClass("display-none");
+        }
+
+        window.fbAsyncInit = function () {
+            FB.Event.subscribe('xfbml.render', finished_rendering);
+        };
+
+        (function (d, s, id) {
+            var js;
+            const fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.10&appId=216060115209819";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+
+
+    <div class="main-container no-padding main-content-bg">
+        <div id='crt-1130728' style="width:728px;height:90px;" class="ad-ocean-billboard top"></div>
+        <script>
+            var Criteo = Criteo || {};
+            Criteo.events = Criteo.events || [];
+            Criteo.events.push(function () {
+                Criteo.DisplayAcceptableAdIfAdblocked({
+                    "zoneid": 1130728,
+                    "containerid": "crt-1130728",
+                    "overrideZoneFloor": false
+                });
+            });
+            window.addEventListener("message", function (e) {
+                if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130728') {
+                    document.getElementById("crt-1130728").style.display = "none";
+                } else {
+                    return;
+                }
+            }, false);
+        </script>
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, MASTER: index_hr.Index.hr.desktop.Vijesti */
+        ado.master({ id: 'S7AxqddCXD2UUjc5t8xOV24_XnjR_.r3KS_x6TmblJb.I7', server: 'hr.adocean.pl' });
+    </script>
+<div class="ad-ocean-billboard top">
+                                        <div id="adoceanhrtnjoejsrsv"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Vijesti.Billboard1 */
+            ado.slave('adoceanhrtnjoejsrsv', { myMaster: 'S7AxqddCXD2UUjc5t8xOV24_XnjR_.r3KS_x6TmblJb.I7' });</script>
+</div>
+<div class="ad-ocean-wallpaper">
+                                        <div id="adoceanhrodllmvgslu"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Vijesti.Wallpaper */
+            ado.slave('adoceanhrodllmvgslu', { myMaster: 'S7AxqddCXD2UUjc5t8xOV24_XnjR_.r3KS_x6TmblJb.I7' });
+        </script>
+</div>
+<div class="ad-ocean-wallpaper">
+                                        <div id="adoceanhrxmpjqnonex"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Vijesti.Ticker */
+            ado.slave('adoceanhrxmpjqnonex', { myMaster: 'S7AxqddCXD2UUjc5t8xOV24_XnjR_.r3KS_x6TmblJb.I7' });
+        </script>
+</div>
+    </div>
+
+    
+
+
+<header class="main-menu-container">
+    <div class="float-menu" menu-fix-top>
+        <div class="main-container clearfix">
+            <div class="main-menu">
+
+                <h1 class="logo vijesti-bg">
+                    <a class="home-btn homepage-link" href="/" title="index.hr"> </a>
+                    <a class="home-btn category-link" href="/main" title="index.hr"> </a>
+                    <img class="main" src="/Content/img/logo/index_main.svg" alt="index.hr" />
+                    <img class="small" src="/Content/img/logo/paprika_logo.svg" alt="index.hr" />
+                </h1>
+                <nav class="menu-holder clearfix">
+                    <ul>
+                        <li><a class="main-text-hover no-drop " href="/"> Naslovnica</a></li>
+                            <li>
+                                <a class="vijesti-text-hover vijesti-text " href="/vijesti">
+                                    Vijesti
+                                </a>
+                            </li>
+                            <li>
+                                <a class="sport-text-hover  " href="/sport">
+                                    Sport
+                                </a>
+                            </li>
+                            <li>
+                                <a class="magazin-text-hover  " href="/magazin">
+                                    Magazin
+                                </a>
+                            </li>
+                            <li>
+                                <a class="oglasi-text-hover  " href="http://www.index.hr/oglasi/">
+                                    Oglasi
+                                </a>
+                            </li>
+                        <li class="menu-ostalo">
+                            <span class="expandable">Ostalo</span>
+                            <ul class="dropdown-content ostalo display-none">
+                                    <li class="lajkhr-bg-hover">
+
+                                        <a href="http://www.index.hr/lajk/">Lajk.hr</a>
+                                    </li>
+                                    <li class="rouge-bg-hover">
+
+                                        <a href="/rouge">Rouge</a>
+                                    </li>
+                                    <li class="auto-bg-hover">
+
+                                        <a href="/auto">Auto</a>
+                                    </li>
+                                    <li class="mame-bg-hover">
+
+                                        <a href="/mame">Mame</a>
+                                    </li>
+                                    <li class="ljubimci-bg-hover">
+
+                                        <a href="/ljubimci">Ljubimci</a>
+                                    </li>
+                                    <li class="fit-bg-hover">
+
+                                        <a href="/fit">Fit</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="http://www.index.hr/indexforum/">Forum</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tecaj">Te&#x10D;aj</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tv">TV program</a>
+                                    </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="right-part">
+                        <li><a href="https://www.facebook.com/index.hr/" target="_blank"><i class="index-facebook"></i></a></li>
+                        <li><a href="/trazi.aspx" class="btn-open-search"><i class="index-magnifier"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="main-container">
+        <div class="sub-menu-holder">
+            <nav class="sub-menu clearfix">
+                    <a class="sub-menu-item vijesti-border-bottom " href="/vijesti">Vijesti</a>
+                    <a class="sub-menu-item vijesti-border-bottom " href="/najnovije?kategorija=3">Najnovije</a>
+                    <a class="sub-menu-item vijesti-border-bottom " href="/najcitanije?kategorija=3">Naj&#x10D;itanije</a>
+                    <a class="sub-menu-item vijesti-border-bottom " href="/vijesti/rubrika/hrvatska/22.aspx">Hrvatska</a>
+                    <a class="sub-menu-item vijesti-border-bottom active" href="/vijesti/rubrika/zagreb/1553.aspx">Zagreb</a>
+                    <a class="sub-menu-item vijesti-border-bottom " href="/vijesti/rubrika/regija/1540.aspx">Regija</a>
+                    <a class="sub-menu-item vijesti-border-bottom " href="/vijesti/rubrika/svijet/23.aspx">Svijet</a>
+                    <a class="sub-menu-item vijesti-border-bottom " href="/vijesti/rubrika/znanost/1722.aspx">Znanost</a>
+                    <a class="sub-menu-item vijesti-border-bottom " href="/vijesti/rubrika/crna-kronika/46.aspx">Crna kronika</a>
+                    <a class="sub-menu-item vijesti-border-bottom " href="/vijesti/rubrika/komentari/1413.aspx">Komentari</a>
+                    <a class="sub-menu-item vijesti-border-bottom " href="/vijesti/rubrika/novac/1554.aspx">Novac</a>
+            </nav>
+            <div class="scroll-arrows">
+                <div class="navigation-arrow left-arrow disabled vijesti-text-hover"><i class="index-arrow-left"></i></div>
+                <div class="navigation-arrow right-arrow disabled vijesti-text-hover"><i class="index-arrow-right"></i></div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<style>
+    .main-container {
+        max-width: 1140px;
+    }
+</style>
+
+<article class="article-container">
+    <div class="article-header-code">
+        
+    </div>
+    <div class="article-holder main-container main-content-bg">
+        <div class="article-title-holder">
+            <h1 class="vijesti-text-parsed title">Zagreb je naš: Dokad æe stanovnici Zagreba svake godine strepiti od novog požara u CIOS-u?</h1>
+            <div class="article-info clearfix">
+                <div class="author-holder">
+                    <span class="author">Hina</span>
+                    <span class="time ">
+                        <time timeago datetime="2018-06-11 14:48:00"></time>
+                    </span>
+                </div>
+                <div class="social-holder clearfix">
+                    <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003777" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003777">
+                        <i class="index-facebook"></i>
+                        <span class="share-count">0</span>
+                    </div>
+
+                    <div class="other"><i class="index-share"></i></div>
+                    
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003777" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003777&via=indexhr&text=Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003777" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003777&media=https://ip.index.hr/remote/indexnew.s3.index.hr/ciospozarhina1200px.jpg&description=Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003777" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003777" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003777" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003777&title=Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?&summary=IZ POLITI&#x10C;KE platforme Zagreb je NA&#x160;&#xA0;u ponedjeljak su poru&#x10D;ili Petru Pripuzu, predsjedniku uprave C.I.O.S. grupe u &#x10D;ijem pogonu je u subotu izbio po&#x17E;ar,&#xA0;da mu ne&#x107;e uspjeti poku&#x161;aji prebacivanja odgovornosti za&#xA0;po&#x17E;ar na politi&#x10D;ku&#xA0;oporbu.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003777" href="mailto:?subject=Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?&body=http://www.index.hr/clanak.aspx?id=2003777" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="top-part flex">
+            <div class="left-part">
+                    <figure class="img-container">
+                        <div class="blur-img-holder" style="padding-bottom: 70.46%;" data-large="https://ip.index.hr/remote/indexnew.s3.index.hr/ciospozarhina1200px.jpg?width=765&height=539">
+                            <img class="img-responsive img-small" src="https://ip.index.hr/remote/indexnew.s3.index.hr/ciospozarhina1200px.jpg?width=30" alt="Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?" />
+                        </div>
+                            <figcaption class="main-img-desc clearfix">
+                                <span></span>
+
+                                    <span class="credits">Foto: FaH</span>
+                            </figcaption>
+                    </figure>
+                <div class="content-holder">
+                    <div class="ad-ocean-in-article">
+                                    <div id="adoceanhrrcefjinnmz"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Vijesti.InArticle */
+            ado.slave('adoceanhrrcefjinnmz', { myMaster: 'S7AxqddCXD2UUjc5t8xOV24_XnjR_.r3KS_x6TmblJb.I7' });
+        </script>
+</div>
+                    <div class="text-holder">
+                        <div class="text">
+                            <p>IZ POLITIÈKE platforme Zagreb je NA&Scaron;&nbsp;u ponedjeljak su poruèili Petru Pripuzu, predsjedniku uprave C.I.O.S. grupe, u èijem pogonu je u subotu izbio požar,&nbsp;da mu neæe uspjeti poku&scaron;aji prebacivanja odgovornosti za&nbsp;požar na politièku&nbsp;oporbu&nbsp;te&nbsp;da æe&nbsp;i dalje kritizirati kaos u gospodarenju&nbsp;otpadom za koji su prvenstveno odgovorni gradonaèelnik Milan Bandiæ i s njime povezane interesne grupacije.</p>
+
+
+<p>Zastupnik u Gradskoj skup&scaron;tini platforme Zagreb je NA&Scaron;&nbsp;Tomislav Toma&scaron;eviæ podsjeæa&nbsp;da je požar koji je 9. lipnja izbio u pogonu C.I.O.S. grupe èak èetvrti požar na toj lokaciji u zadnje èetiri godine.<br />
+<br />
+<strong>&quot;Nevjerojatan nemar C.I.O.S. grupe&quot;</strong></p>
+
+
+<p>&quot;Takva situacija oèito je rezultat nevjerojatnog nemara C.I.O.S grupe, koji toleriraju nadležne državne i gradske institucije, ili se radi o meðusobnom obraèunu interesnih skupina.&nbsp;U svakom sluèaju, neprihvatljivo je da stanovnici zapadnog Zagreba gotovo svake godine strepe od novog požara u pogonu C.I.O.S. grupe&quot;, poruèio je Toma&scaron;eviæ.</p>
+
+
+<p>Zagreb je NA&Scaron;&nbsp;inzistirat æe da se konaèno razjasne poslovni odnosi izmeðu Grada Zagreba i C.I.O.S. grupe, istaknuo je Toma&scaron;eviæ dodav&scaron;i da je od gradskih ureda zatražio sve informacije o požarima u pogonu C.I.O.S. grupe&nbsp;i izvje&scaron;æa koja su im o tome dostavile državne institucije.</p>
+
+
+<p>Podsjetio je kako veæ nekoliko godina èekaju hoæe li biti potvrðena optužnica o pogodovanju&nbsp;poduzeæima&nbsp;iz C.I.O.S. grupe za prikupljanje&nbsp;glomaznog i drugih vrsta otpada u Zagrebu, za &scaron;to&nbsp;Uskok sumnjièi Bandiæa i Pripuza.</p>
+
+
+<p>Unatoè tome, Grad Zagreb je prije nekoliko mjeseci na javnom natjeèaju na temelju samo jedne ponude ponovno dodijelio posao skupljanja glomaznog otpada tvrtki iz C.I.O.S. grupe, nagla&scaron;ava Toma&scaron;eviæ.</p>
+
+
+<p><strong>Zelena akcija: Tražimo hitno sankcioniranje odgovornih</strong></p>
+<!-- /5968637/2DIA -->
+<div id="div-gpt-ad-1524557626556-0" class="dfp-inarticle">
+    <span class="ad-unit-text">Tekst se nastavlja ispod oglasa</span>
+    <script>
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1524557626556-0'); });
+    </script>
+</div>
+
+
+
+<p>Zelena akcija je zbog uèestalih&nbsp;požara u C.I.O.S.-u&nbsp;u ponedjeljak zatražila hitno sankcioniranje svih odgovornih i oduzimanje dozvole za rad tvrtki CE-ZA-R, dijelu C.I.O.S. grupe kao i detaljnu istragu sigurnosnih mjera, naèina provoðenja te&nbsp;sustava nadzora koji su, &quot;oèigledno u postrojenjima C.I.O.S.-a manjkavi, a redovito im se izdaje dozvola za rad&quot;.&nbsp;</p>
+
+
+<p>&quot;Prekjuèera&scaron;nji požar veæ je èetvrti takav dogaðaj u posljednje èetiri godine u istom postrojenju te se èini kako su jednogodi&scaron;nji požari svojevrsna tradicija u tom postrojenju. Niski sigurnosni standardi u tvrtki CE-ZA-R, dijelu C.I.O.S. grupe, evidentno ugrožavaju sigurnost graðana i graðanki Zagreba&quot;, istaknula je u priopæenju Zelena akcija.&nbsp;</p>
+
+
+<p>Zabrinjavajuæe je, kažu, &quot;&scaron;to za nijedan od tih požara tvrtka nije sankcionirana, niti su poznati detaljni uzroci i posljedice požara&quot;.</p>
+
+
+<p>&quot;Zabrinjavajuæe je i da nadležne službe, svaki put kada doðe do požara u ovoj tvrtki Petra Pripuza, tvrde kako nije do&scaron;lo do veæeg naru&scaron;avanja kvalitete zraka niti opasnosti za graðane/ke od plinova nastalih kao produkt sagorijevanja. U to je te&scaron;ko povjerovati s obzirom da nadležne službe nisu ni mjerile sve spojeve koji nastaju nakon izgaranja komunalnog otpada&quot;, tvrde u Zelenoj akciji.<br />
+<br />
+<strong>&quot;Krajnje je vrijeme za sankcioniranje C.I.O.S.-a&quot;</strong></p>
+
+
+<p>Kažu kako im je drago da u toj nesreæi nitko nije stradao te se nadaju da æe se poduzeti sve kako se ovakve nesreæe ne bi ponavljale. Smatraju kako je &quot;krajnje vrijeme za sankcioniranje C.I.O.S.-a, suspenziju rada postrojenja CE-ZA-R, reviziju rada službi koje mjere oneèi&scaron;æenje zraka kao i objavu svih ugovora izmeðu C.I.O.S.-a i Grada Zagreba jer je u javnom interesu znati za poslove Grada s tvrtkom gdje se svako malo dogodi požar&quot;. Takoðer traže da se ispita i odgovornost zaposlenika Ministarstva za&scaron;tite okoli&scaron;a i energetike koji, kako tvrde u Zelenoj akciji,&nbsp;&quot;olako izdaju dozvole za rad ovoj tvrtki unatoè oèiglednim niskim sigurnosnim standardima&quot;.</p>
+
+
+<p>U Zelenoj akciji kažu kako se &quot;veæ godinama èeka potvrda optužnice po pitanju namje&scaron;tanja poslova prikupljanja glomaznog i drugih vrsta otpada u kojoj je USKOK optužio Milana Bandiæa i Petra Pripuza, osnivaèa C.I.O.S. grupe, te da je usprkos tome, Grad Zagreb prije nekoliko mjeseci na temelju jedne jedine ponude posao skupljanja glomaznog otpada opet dodijelio tvrtki iz C.I.O.S. grupe. Taj glomazni otpad sada je izgorio&quot;.</p>
+
+
+<p>Kažu i kako su na poèetku mandata gradonaèelnika Bandiæa bila èesta medijska nagaðanja o namjeri Grada Zagreba da privatizira uslugu odvoza komunalnog otpada, a uglavnom se spekuliralo kako je za taj posao izuzetno zainteresiran C.I.O.S. &quot;Uèestali akcidenti u CE-ZA-R-u jasno nam daju do znanja da gospodarenje otpadom mora ostati u domeni javnih tvrtki, gdje postoji barem ne&scaron;to veæa razina kontrole i po&scaron;tivanje sigurnosnih standarda&quot;, priopæila je Zelena akcija.</p>
+
+
+                        </div>
+                        <div class="article-report-container">
+                            <div class="article-report-trigger" data-article-id="2003777">Znate li nešto više o temi ili želite prijaviti grešku u tekstu?</div>
+                            <div class="report-holder display-none">
+                                <div class="loading-container">
+                                    <span class="img-helper"></span>
+                                    <img src="/Content/img/loader_40px.gif" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="reactions-container clearfix">
+                            <div class="social-holder social-bottom clearfix">
+                                <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003777" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003777">
+                                    <i class="index-facebook"></i>
+                                    <span class="share-count">0</span>
+                                </div>
+                                <div class="other"><i class="index-share"></i></div>
+                                
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003777" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003777&via=indexhr&text=Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003777" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003777&media=https://ip.index.hr/remote/indexnew.s3.index.hr/ciospozarhina1200px.jpg&description=Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003777" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003777" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003777" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003777&title=Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?&summary=IZ POLITI&#x10C;KE platforme Zagreb je NA&#x160;&#xA0;u ponedjeljak su poru&#x10D;ili Petru Pripuzu, predsjedniku uprave C.I.O.S. grupe u &#x10D;ijem pogonu je u subotu izbio po&#x17E;ar,&#xA0;da mu ne&#x107;e uspjeti poku&#x161;aji prebacivanja odgovornosti za&#xA0;po&#x17E;ar na politi&#x10D;ku&#xA0;oporbu.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003777" href="mailto:?subject=Zagreb je na&#x161;: Dokad &#x107;e stanovnici Zagreba svake godine strepiti od novog po&#x17E;ara u CIOS-u?&body=http://www.index.hr/clanak.aspx?id=2003777" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                            </div>
+                        </div>
+
+
+
+<div class="tags-holder">
+        <a href="/tag/135/pozar.aspx" class="vijesti-bg-hover tag-item">
+            <span class="vijesti-text hashtag">#</span>po&#x17E;ar
+        </a>
+        <a href="/tag/62895/petar-pripuz.aspx" class="vijesti-bg-hover tag-item">
+            <span class="vijesti-text hashtag">#</span>Petar Pripuz
+        </a>
+        <a href="/tag/62896/cios.aspx" class="vijesti-bg-hover tag-item">
+            <span class="vijesti-text hashtag">#</span>cios
+        </a>
+        <a href="/tag/411757/zagreb-je-nas.aspx" class="vijesti-bg-hover tag-item">
+            <span class="vijesti-text hashtag">#</span>zagreb je na&#x161;
+        </a>
+        <a href="/tag/1002388/pozari-u-zagrebu.aspx" class="vijesti-bg-hover tag-item">
+            <span class="vijesti-text hashtag">#</span>po&#x17E;ari u zagrebu
+        </a>
+</div>                    </div>
+                    <div class="clearfix ad-holder">
+                        <div class="float-left">
+                            
+
+
+
+
+
+
+
+    <!-- /5968637/2DA_Vijesti_L -->
+    <div id='div-gpt-ad-1519642151413-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519642151413-0'); });
+        </script>
+    </div>
+
+                        </div>
+                        <div class="float-right">
+                            
+
+
+
+
+
+
+
+    <!-- /5968637/2DA_Vijesti_R -->
+    <div id='div-gpt-ad-1519642588872-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519642588872-0'); });
+        </script>
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <aside class="right-part">
+                <div id='crt-1130726' style="width:300px;height:250px;"></div>
+                <script>
+                    var Criteo = Criteo || {};
+                    Criteo.events = Criteo.events || [];
+                    Criteo.events.push(function () {
+                        Criteo.DisplayAcceptableAdIfAdblocked({
+                            "zoneid": 1130726,
+                            "containerid": "crt-1130726",
+                            "overrideZoneFloor": false
+                        });
+                    });
+                    window.addEventListener("message", function (e) {
+                        if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130726') {
+                            document.getElementById("crt-1130726").style.display = "none";
+                        } else {
+                            return;
+                        }
+                    }, false);
+                </script>
+
+                <div class="ad-ocean-box">
+                    
+                        <div id="adoceanhrkaproqpprk"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Vijesti.Box1 */
+        ado.slave('adoceanhrkaproqpprk', { myMaster: 'S7AxqddCXD2UUjc5t8xOV24_XnjR_.r3KS_x6TmblJb.I7' });</script>
+
+                </div>
+
+
+                
+
+
+<div class="home-cube-big-timeline">
+    <ul class="nav timeline-tab" timeline-tab role="tablist" data-category="vijesti" data-category-id="3">
+        <li role="presentation" class="active latest"><a href="#tab-content-latest" aria-controls="tab-content-latest" role="tab" data-toggle="tab"> Najnovije</a></li>
+        <li role="presentation" class="most-read"><a href="#tab-content-most-read" aria-controls="tab-content-most-read" role="tab" data-toggle="tab"> Najèitanije</a></li>
+        <li role="presentation" class="related"><a href="#tab-content-related" data-id="tab-content-related" aria-controls="tab-content-related" role="tab" data-toggle="tab"> Vezano</a></li>
+        <hr class="vijesti-bg" />
+    </ul>
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-content-latest">
+            
+
+
+    <div class="timeline-content latest">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center vijesti-text">
+                        <span class="num">3</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/njemacka-televizija-upozorava-da-plitvice-pocinju-smrdjeti-jer-su-preplavljene-smecem-iz-kanalizacije/2003745.aspx">
+                            Njemaèka televizija upozorava da Plitvice poèinju smrdjeti jer su preplavljene smeæem iz kanalizacije
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center vijesti-text">
+                        <span class="num">24</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/grcki-i-makedonski-premijer-opet-pricali-o-imenu-makedonije/2003883.aspx">
+                            Grèki i makedonski premijer opet prièali o imenu Makedonije
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">46</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/strasna-oluja-koja-je-u-petak-pogodila-sloveniju-izazvala-najmanje-10-milijuna-eura-stete/2003882.aspx">
+                            Strašna oluja koja je u petak pogodila Sloveniju izazvala najmanje 10 milijuna eura štete
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">47</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/hrvatska-toliko-zaostaje-da-smo-na-ovoj-karti-dobili-svoju-kategoriju/2003825.aspx">
+                            Hrvatska toliko zaostaje da smo na ovoj karti dobili svoju kategoriju
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">56</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/u-dubrovniku-potvrdjeno-12-slucajeva-ospica-lijecnici-odmah-cijepite-djecu/2003878.aspx">
+                            U Dubrovniku potvrðeno 12 sluèajeva ospica, lijeènici: "Odmah cijepite djecu!"
+                        </a>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najnovije?kategorija=3">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-most-read">
+            
+
+
+    <div class="timeline-content most-read">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center vijesti-text">
+                        <span class="num">1</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/jos-jedan-sdpovac-napustio-stranku-pobijedio-je-covjek-kojeg-nitko-nikad-nije-vidio/2003713.aspx">
+                            Još jedan SDP-ovac napustio stranku: "Pobijedio je èovjek kojeg nitko nikad nije vidio"
+                        </a>
+                        <div class="line" style="width: 90%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center vijesti-text">
+                        <span class="num">2</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/bahati-sin-ministra-pravosudja-na-fejsu-se-hvali-krsenjem-pravila-di-si-sada-index/2003759.aspx">
+                            Bahati sin ministra pravosuða na Fejsu se hvali kršenjem pravila: "Di si sada Index?"
+                        </a>
+                        <div class="line" style="width: 72%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center vijesti-text">
+                        <span class="num">3</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/video-kolinda-predstavila-svoje-demografske-mjere-prijeti-nam-nestanak-naroda-i-drzave/2003764.aspx">
+                            <span class='title-parsed-text'>VIDEO</span>  Kolinda predstavila svoje demografske mjere: "Prijeti nam nestanak naroda i države"
+                        </a>
+                        <div class="line" style="width: 54%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center vijesti-text">
+                        <span class="num">4</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/ivica-puljak-narugao-se-kolindinim-demografskim-mjerama/2003783.aspx">
+                            Ivica Puljak narugao se Kolindinim demografskim mjerama
+                        </a>
+                        <div class="line" style="width: 36%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center vijesti-text">
+                        <span class="num">5</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="vijesti-text-hover" href="/vijesti/clanak/skidajte-hlace-sirite-noge-kolinda-je-predstavila-demografske-mjere/2003824.aspx">
+                            Skidajte hlaèe, širite noge: Kolinda je predstavila demografske mjere
+                        </a>
+                        <div class="line" style="width: 18%;"></div>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najcitanije?kategorija=3">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-related">
+           <img class="loading-img" src="/Content/img/loader_40px.gif" />
+        </div>
+    </div>
+</div>
+
+                <div class="separator-45"></div>
+                <div class="sticky ad-ocean-box no-margin">
+                    <div id='crt-1130727' style="width:300px;height:250px;"></div>
+                    <script>
+	                    var Criteo = Criteo || {};
+	                    Criteo.events = Criteo.events || [];
+	                    Criteo.events.push(function() {
+		                    Criteo.DisplayAcceptableAdIfAdblocked({   
+			                    "zoneid": 1130727,
+			                    "containerid": "crt-1130727",
+			                    "overrideZoneFloor" : false
+		                    });
+	                    });
+	                    window.addEventListener( "message", function (e) {
+		                    if(e.origin == (location.protocol=='https:'?'https://':'http://') + 'cas.criteo.com' && e.data == 'passback-1130727') {
+			                    document.getElementById("crt-1130727").style.display = "none";	
+		                    } else {
+			                    return;
+		                    }
+	                    }, false);
+                    </script>
+    <div id="adoceanhrxagicojuxf"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Vijesti.Box2 */
+        ado.slave('adoceanhrxagicojuxf', { myMaster: 'S7AxqddCXD2UUjc5t8xOV24_XnjR_.r3KS_x6TmblJb.I7' });</script>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="vijesti slider">
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/hrvatska-toliko-zaostaje-da-smo-na-ovoj-karti-dobili-svoju-kategoriju/2003825.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/zaostttt.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatska toliko zaostaje da smo na ovoj karti dobili svoju kategoriju</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/meteorolozi-izdali-upozorenje-stizu-paklene-vrucine-pogledajte-gdje-ce-biti-najgore/2003856.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/fvdgfgtbhzjzujuku.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Meteorolozi izdali upozorenje, stižu paklene vruæine. Pogledajte gdje æe biti najgore</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/desetak-putnika-na-autobusnom-kolodvoru-u-zagrebu-dobilo-rezervacije-za-vec-prodana-sjedista/2002471.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/bus-zagreb.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Desetak putnika na autobusnom kolodvoru u Zagrebu dobilo rezervacije za veæ prodana sjedišta</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/skidajte-hlace-sirite-noge-kolinda-je-predstavila-demografske-mjere/2003824.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kolindademo2.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Skidajte hlaèe, širite noge: Kolinda je predstavila demografske mjere</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/u-dubrovniku-potvrdjeno-12-slucajeva-ospica-lijecnici-odmah-cijepite-djecu/2003878.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/dubrovnikospice111.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>U Dubrovniku potvrðeno 12 sluèajeva ospica, lijeènici: "Odmah cijepite djecu!"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/autoceste-u-drugom-vikendu-lipnja-imale-manje-prometa-i-novca-nego-u-isto-vrijeme-lani/2003879.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/autocestanaplata.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Autoceste u drugom vikendu lipnja imale manje prometa i novca nego u isto vrijeme lani</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/strasna-oluja-koja-je-u-petak-pogodila-sloveniju-izazvala-najmanje-10-milijuna-eura-stete/2003882.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/tucaslo1200pxmariobitnik1200px__1__ (1).jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Strašna oluja koja je u petak pogodila Sloveniju izazvala najmanje 10 milijuna eura štete</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/ivica-puljak-narugao-se-kolindinim-demografskim-mjerama/2003783.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/puljakokoli.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Ivica Puljak narugao se Kolindinim demografskim mjerama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/video-kolinda-predstavila-svoje-demografske-mjere-prijeti-nam-nestanak-naroda-i-drzave/2003764.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kolinda-pixsell__3__.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg vijesti-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Kolinda predstavila svoje demografske mjere: "Prijeti nam nestanak naroda i države"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/srbi-opet-blokirali-promet-zbog-cijena-goriva-kaos-na-cestama-pogledajte-snimku/2003694.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Beograd-blokada-Twitter1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg vijesti-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Srbi opet blokirali promet zbog cijena goriva, kaos na cestama, pogledajte snimku</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/iz-ducana-se-povlaci-cokoladna-tortica-ako-ste-je-kupili-vratit-ce-vam-novac/2003750.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Tastino_obavijest.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Iz duæana se povlaèi èokoladna tortica, ako ste je kupili, vratit æe vam novac</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/bahati-sin-ministra-pravosudja-na-fejsu-se-hvali-krsenjem-pravila-di-si-sada-index/2003759.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/dinobosnjakovic2.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Bahati sin ministra pravosuða na Fejsu se hvali kršenjem pravila: "Di si sada Index?"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/kolinda-o-mamicu-svatko-je-nevin-dok-mu-se-ne-dokaze-krivnja/2003870.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/rggfhgfjhukguki.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kolinda o Mamiæu: Svatko je nevin dok mu se ne dokaže krivnja</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/potres-magnitude-26-po-richteru-kod-zaboka-jeste-li-ga-osjetili/2003868.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/vfgfhcgghnhjmhj.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Potres magnitude 2,6 po Richteru kod Zaboka, jeste li ga osjetili?</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/video-murganic-sazvala-presicu-o-kolindinim-mjerama-vlada-to-sve-vec-provodi/2003801.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/fbgbgnghnhgnhmhjm.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Murganiæ sazvala presicu o Kolindinim mjerama: "Vlada to sve veæ provodi"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/adris-od-suda-trazi-detalje-iz-ramljakovog-vremena/2003714.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/images2/ramljakeuri1200pxpxlborisscitar.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Adris od suda traži detalje iz Ramljakovog vremena</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/nekoliko-sati-prije-povijesnog-sastanka-kim-setao-singapurom-i-radio-selfieje/2003857.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/cvbcvbcvbcvbcbvcv.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Nekoliko sati prije povijesnog sastanka Kim šetao Singapurom i radio selfieje</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/vozaci-u-mostaru-blokirali-ceste-zbog-skupog-goriva-pogledajte-kako-je-to-izgledalo/2003865.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/blokadacesrte.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Vozaèi u Mostaru blokirali ceste zbog skupog goriva, pogledajte kako je to izgledalo</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/u-autima-na-bajakovu-satima-cekaju-ulaz-u-hrvatsku-na-suncu-smo-s-djecom-bez-vode-i-hlada/2003795.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/2018-06-111200px.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>U autima na Bajakovu satima èekaju ulaz u Hrvatsku: "Na suncu smo s djecom, bez vode i hlada"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/jos-jedan-sdpovac-napustio-stranku-pobijedio-je-covjek-kojeg-nitko-nikad-nije-vidio/2003713.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/hrestakpxlsandrasimunovic1200px2.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Još jedan SDP-ovac napustio stranku: "Pobijedio je èovjek kojeg nitko nikad nije vidio"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/kuba-objavila-detalje-o-cudnim-zvukovima-od-kojih-obolijevaju-americki-diplomati/2003767.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/zvucni-napad-CNN1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg vijesti-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Kuba objavila detalje o èudnim zvukovima od kojih obolijevaju amerièki diplomati</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/kurz-u-izraelu-obecao-da-ce-se-boriti-protiv-antisemitizma/2003876.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kurzuizraelu.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kurz u Izraelu obeæao da æe se boriti protiv antisemitizma</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/hns-napao-kolindu-zbog-demografskih-mjera/2003831.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/batinickoli.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>HNS napao Kolindu zbog demografskih mjera</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/slovenska-ministrica-napala-austriju-zbog-migranata-nemate-pravo-zatvarati-granicu/2003841.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Vesna-Znidar-Hina.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Slovenska ministrica napala Austriju zbog migranata: "Nemate pravo zatvarati granicu"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/americka-drzava-ohio-brise-neredovite-glasace-s-popisa-biraca/2003844.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/images2/trumphinnaaa1200px.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Amerièka država Ohio briše neredovite glasaèe s popisa biraèa</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/danas-je-necijepljenoj-djeci-zabranjen-dolazak-u-dubrovacke-vrtice-zasto-tek-sada/2003740.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Ospice-glavna-1200-wiki-pixsell__1__.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Danas je necijepljenoj djeci zabranjen dolazak u dubrovaèke vrtiæe. Zašto tek sada?</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/desnicari-u-italiji-slave-nakon-sto-je-spanjolska-primila-migrante-koje-su-oni-odbili-pobjeda/2003852.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/images2/Salvini_Hina1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Desnièari u Italiji slave nakon što je Španjolska primila migrante koje su oni odbili: "Pobjeda!"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/eu-od-sutra-18godisnjacima-dijeli-besplatne-karte-za-putovanje-po-europi/2003804.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/16968240_mPutovanjeVlakomZeljeznica123rf.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>EU od sutra 18-godišnjacima dijeli besplatne karte za putovanje po Europi</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/grcki-i-makedonski-premijer-opet-pricali-o-imenu-makedonije/2003883.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/dvapremijera.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Grèki i makedonski premijer opet prièali o imenu Makedonije</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/kolinda-2015-bit-cemo-jedna-od-najbogatijih-drzava-svijeta-kolinda-2018-hrvatska-ce-nestati/2003780.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/KOLINDA2015111.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kolinda 2015.: Bit æemo jedna od najbogatijih država svijeta! Kolinda 2018.: Hrvatska æe nestati!</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+
+        <div id="comments-container" class="comments-container secondary-content-bg">
+            <div class="comments-holder main-container secondary-content-bg flex">
+                <div class="left-part">
+                    
+<div class="fb-comments-holder">
+    <div class="loader fb-loader">
+        <img class="loading-img" src="/Content/img/loader_40px_grey.gif" />
+        <div class="loading-text">Uèitavanje komentara</div>
+    </div>
+    <div class="fb-comments" data-width="100%" data-href="http://www.index.hr/clanak.aspx?id=2003777" data-numposts="10" data-order-by="reverse_time"></div>
+</div>
+
+                </div>
+                <div class="right-part">
+                    <div class="sticky">
+                        
+
+
+
+
+
+
+
+    <!-- /5968637/2DA3_Vijesti -->
+    <div id='div-gpt-ad-1519642696832-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519642696832-0'); });
+        </script>
+    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="vijesti slider">
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/hrvatska-toliko-zaostaje-da-smo-na-ovoj-karti-dobili-svoju-kategoriju/2003825.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/zaostttt.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatska toliko zaostaje da smo na ovoj karti dobili svoju kategoriju</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/meteorolozi-izdali-upozorenje-stizu-paklene-vrucine-pogledajte-gdje-ce-biti-najgore/2003856.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/fvdgfgtbhzjzujuku.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Meteorolozi izdali upozorenje, stižu paklene vruæine. Pogledajte gdje æe biti najgore</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/desetak-putnika-na-autobusnom-kolodvoru-u-zagrebu-dobilo-rezervacije-za-vec-prodana-sjedista/2002471.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/bus-zagreb.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Desetak putnika na autobusnom kolodvoru u Zagrebu dobilo rezervacije za veæ prodana sjedišta</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/skidajte-hlace-sirite-noge-kolinda-je-predstavila-demografske-mjere/2003824.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kolindademo2.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Skidajte hlaèe, širite noge: Kolinda je predstavila demografske mjere</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/u-dubrovniku-potvrdjeno-12-slucajeva-ospica-lijecnici-odmah-cijepite-djecu/2003878.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/dubrovnikospice111.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>U Dubrovniku potvrðeno 12 sluèajeva ospica, lijeènici: "Odmah cijepite djecu!"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/autoceste-u-drugom-vikendu-lipnja-imale-manje-prometa-i-novca-nego-u-isto-vrijeme-lani/2003879.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/autocestanaplata.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Autoceste u drugom vikendu lipnja imale manje prometa i novca nego u isto vrijeme lani</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/strasna-oluja-koja-je-u-petak-pogodila-sloveniju-izazvala-najmanje-10-milijuna-eura-stete/2003882.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/tucaslo1200pxmariobitnik1200px__1__ (1).jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Strašna oluja koja je u petak pogodila Sloveniju izazvala najmanje 10 milijuna eura štete</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/ivica-puljak-narugao-se-kolindinim-demografskim-mjerama/2003783.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/puljakokoli.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Ivica Puljak narugao se Kolindinim demografskim mjerama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/video-kolinda-predstavila-svoje-demografske-mjere-prijeti-nam-nestanak-naroda-i-drzave/2003764.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kolinda-pixsell__3__.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg vijesti-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Kolinda predstavila svoje demografske mjere: "Prijeti nam nestanak naroda i države"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/srbi-opet-blokirali-promet-zbog-cijena-goriva-kaos-na-cestama-pogledajte-snimku/2003694.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Beograd-blokada-Twitter1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg vijesti-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Srbi opet blokirali promet zbog cijena goriva, kaos na cestama, pogledajte snimku</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/iz-ducana-se-povlaci-cokoladna-tortica-ako-ste-je-kupili-vratit-ce-vam-novac/2003750.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Tastino_obavijest.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Iz duæana se povlaèi èokoladna tortica, ako ste je kupili, vratit æe vam novac</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/bahati-sin-ministra-pravosudja-na-fejsu-se-hvali-krsenjem-pravila-di-si-sada-index/2003759.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/dinobosnjakovic2.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Bahati sin ministra pravosuða na Fejsu se hvali kršenjem pravila: "Di si sada Index?"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/kolinda-o-mamicu-svatko-je-nevin-dok-mu-se-ne-dokaze-krivnja/2003870.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/rggfhgfjhukguki.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kolinda o Mamiæu: Svatko je nevin dok mu se ne dokaže krivnja</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/potres-magnitude-26-po-richteru-kod-zaboka-jeste-li-ga-osjetili/2003868.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/vfgfhcgghnhjmhj.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Potres magnitude 2,6 po Richteru kod Zaboka, jeste li ga osjetili?</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/video-murganic-sazvala-presicu-o-kolindinim-mjerama-vlada-to-sve-vec-provodi/2003801.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/fbgbgnghnhgnhmhjm.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Murganiæ sazvala presicu o Kolindinim mjerama: "Vlada to sve veæ provodi"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/adris-od-suda-trazi-detalje-iz-ramljakovog-vremena/2003714.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/images2/ramljakeuri1200pxpxlborisscitar.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Adris od suda traži detalje iz Ramljakovog vremena</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/nekoliko-sati-prije-povijesnog-sastanka-kim-setao-singapurom-i-radio-selfieje/2003857.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/cvbcvbcvbcvbcbvcv.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Nekoliko sati prije povijesnog sastanka Kim šetao Singapurom i radio selfieje</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/vozaci-u-mostaru-blokirali-ceste-zbog-skupog-goriva-pogledajte-kako-je-to-izgledalo/2003865.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/blokadacesrte.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Vozaèi u Mostaru blokirali ceste zbog skupog goriva, pogledajte kako je to izgledalo</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/u-autima-na-bajakovu-satima-cekaju-ulaz-u-hrvatsku-na-suncu-smo-s-djecom-bez-vode-i-hlada/2003795.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/2018-06-111200px.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>U autima na Bajakovu satima èekaju ulaz u Hrvatsku: "Na suncu smo s djecom, bez vode i hlada"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/jos-jedan-sdpovac-napustio-stranku-pobijedio-je-covjek-kojeg-nitko-nikad-nije-vidio/2003713.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/hrestakpxlsandrasimunovic1200px2.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Još jedan SDP-ovac napustio stranku: "Pobijedio je èovjek kojeg nitko nikad nije vidio"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/kuba-objavila-detalje-o-cudnim-zvukovima-od-kojih-obolijevaju-americki-diplomati/2003767.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/zvucni-napad-CNN1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg vijesti-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Kuba objavila detalje o èudnim zvukovima od kojih obolijevaju amerièki diplomati</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/kurz-u-izraelu-obecao-da-ce-se-boriti-protiv-antisemitizma/2003876.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kurzuizraelu.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kurz u Izraelu obeæao da æe se boriti protiv antisemitizma</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/hns-napao-kolindu-zbog-demografskih-mjera/2003831.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/batinickoli.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>HNS napao Kolindu zbog demografskih mjera</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/slovenska-ministrica-napala-austriju-zbog-migranata-nemate-pravo-zatvarati-granicu/2003841.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Vesna-Znidar-Hina.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Slovenska ministrica napala Austriju zbog migranata: "Nemate pravo zatvarati granicu"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/americka-drzava-ohio-brise-neredovite-glasace-s-popisa-biraca/2003844.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/images2/trumphinnaaa1200px.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Amerièka država Ohio briše neredovite glasaèe s popisa biraèa</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/danas-je-necijepljenoj-djeci-zabranjen-dolazak-u-dubrovacke-vrtice-zasto-tek-sada/2003740.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Ospice-glavna-1200-wiki-pixsell__1__.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Danas je necijepljenoj djeci zabranjen dolazak u dubrovaèke vrtiæe. Zašto tek sada?</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/desnicari-u-italiji-slave-nakon-sto-je-spanjolska-primila-migrante-koje-su-oni-odbili-pobjeda/2003852.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/images2/Salvini_Hina1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Desnièari u Italiji slave nakon što je Španjolska primila migrante koje su oni odbili: "Pobjeda!"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/eu-od-sutra-18godisnjacima-dijeli-besplatne-karte-za-putovanje-po-europi/2003804.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/16968240_mPutovanjeVlakomZeljeznica123rf.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>EU od sutra 18-godišnjacima dijeli besplatne karte za putovanje po Europi</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/grcki-i-makedonski-premijer-opet-pricali-o-imenu-makedonije/2003883.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/dvapremijera.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Grèki i makedonski premijer opet prièali o imenu Makedonije</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="vijesti-text-hover scale-img-hover" href="/vijesti/clanak/kolinda-2015-bit-cemo-jedna-od-najbogatijih-drzava-svijeta-kolinda-2018-hrvatska-ce-nestati/2003780.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/KOLINDA2015111.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kolinda 2015.: Bit æemo jedna od najbogatijih država svijeta! Kolinda 2018.: Hrvatska æe nestati!</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+    <!-- /5968637/2DA4_Vijesti -->
+    <div id='div-gpt-ad-1519644719256-0' style="text-align:center; padding-bottom:50px;background:white" class="main-container">
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519644719256-0'); });
+        </script>
+    </div>
+
+
+    <div class="article-footer-code">
+        
+    </div>
+</article>
+
+
+
+    <footer>
+        
+
+<footer class="main-footer main-container main-content-bg clearfix">
+    <a class="logo" href="/"><img class="logo-img" src="/Content/img/logo/logo_footer_196x29.svg" /></a>
+    <nav class="list-holder flex">
+        <ul>
+            <li class="heading">
+                <a class="vijesti-text-hover" href="/vijesti">
+                    Vijesti
+                </a>
+            </li>
+
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/hrvatska/22.aspx">Hrvatska</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/zagreb/1553.aspx">Zagreb</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/regija/1540.aspx">Regija</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/svijet/23.aspx">Svijet</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/znanost/1722.aspx">Znanost</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/crna-kronika/46.aspx">Crna kronika</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/komentari/1413.aspx">Komentari</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/novac/1554.aspx">Novac</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="sport-text-hover" href="/sport">
+                    Sport
+                </a>
+            </li>
+
+                <li><a class="sport-text-hover" href="/sport/rubrika/nogomet/1638.aspx">Nogomet</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/kosarka/1639.aspx">Ko&#x161;arka</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/tenis/1640.aspx">Tenis</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/ostali-sportovi/1641.aspx">Ostali sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/komentari/1738.aspx">Komentari</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/borilacki-sportovi/1662.aspx">Borila&#x10D;ki sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/esport/1731.aspx">E-Sport</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="magazin-text-hover" href="/magazin">
+                    Magazin
+                </a>
+            </li>
+
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tv-film/1525.aspx">TV &amp; Film</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/glazba/1526.aspx">Glazba</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tech-gadget/1528.aspx">Tech &amp; Gadget</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/lifestyle/1529.aspx">Lifestyle</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/showbiz/1527.aspx">Showbiz</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/zanimljivosti/1530.aspx">Zanimljivosti</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Plus
+            </li>
+            <li><a class="oglasi-text-hover" href="http://www.index.hr/oglasi/">Oglasi</a></li>
+            <li><a class="lajkhr-text-hover" href="http://www.index.hr/lajk/">Lajk.hr</a></li>
+            <li><a class="main-text-hover" href="http://www.index.hr/indexforum/">Forum</a></li>
+                <li><a class="rouge-text-hover" href="/rouge">Rouge</a></li>
+                <li><a class="auto-text-hover" href="/auto">Auto</a></li>
+                <li><a class="mame-text-hover" href="/mame">Mame</a></li>
+                <li><a class="ljubimci-text-hover" href="/ljubimci">Ljubimci</a></li>
+                <li><a class="fit-text-hover" href="/fit">Fit</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Info
+            </li>
+                <li><a class="main-text-hover" href="/info/tecaj">Te&#x10D;aj</a></li>
+                <li><a class="main-text-hover" href="/info/tv">TV program</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                PRATITE NAS
+            </li>
+            <li>
+                <a href="https://www.facebook.com/index.hr/" target="_blank" class="main-text-hover"><i class="facebook index-facebook"></i>Facebook</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA" target="_blank" class="main-text-hover"><i class="youtube index-youtube"></i>Youtube</a>
+            </li>
+            <li>
+                <a href="https://twitter.com/indexhr" target="_blank" class="main-text-hover"><i class="twitter index-twitter"></i>Twitter</a>
+            </li>
+            <li><a href="/posaljite-pricu" class="main-text-hover">Pošaljite nam prièu </a></li>
+            <li><a href="/posaljite-pricu-foto-video" class="main-text-hover">Pošaljite nam foto/video</a></li>
+        </ul>
+    </nav>
+    <ul class="impressum">
+        <li><a href="/Content/docs/cjenik_oglasavanja.pdf">Reklamirajte se</a></li>
+        <li><a href="/kontakt">Kontakt</a></li>
+        <li><a href="/impressum">Impressum</a></li>
+        <li><a href="/uvjeti-koristenja">Uvjeti korištenja</a></li>
+        <li>
+            © 2018 Index
+            <div class="fb-like" data-href="https://www.facebook.com/index.hr/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+        </li>
+    </ul>
+</footer>
+
+<script>
+    function topFunction() {
+        $("html, body").animate({ scrollTop: 0 }, 600);
+    }
+</script>
+
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.6.1/fingerprint2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+
+    
+    
+        <script src="/Scripts/desktop-bundle.min.js?v=HIF3Nf2EcYMawEUSyzqPWzJ3NYFeJXXMUZhWtD7Rk-g"></script>
+    
+
+    <!--  dotmetrics  beta - desktop   -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        (function () {
+            window.dm = window.dm || { AjaxData: [] };
+            window.dm.AjaxEvent = function (et, d, ssid, ad) {
+                dm.AjaxData.push({ et: et, d: d, ssid: ssid, ad: ad });
+                window.DotMetricsObj && DotMetricsObj.onAjaxDataUpdate();
+            };
+            var d = document,
+                h = d.getElementsByTagName('head')[0],
+                s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = document.location.protocol + '//script.dotmetrics.net/door.js?id=3743';
+            h.appendChild(s);
+        }());
+    /* ]]> */
+    </script>
+
+    
+    <script>
+        //ping old article
+        //remove later
+
+        // Google analytics custom dimensions //
+        var keywords = _.map([{"id":135,"indexedKeyword":"požar","keyWord":"požar","slug":"pozar","articleCount":3161},{"id":62895,"indexedKeyword":"petarpripuz","keyWord":"Petar Pripuz","slug":"petar-pripuz","articleCount":52},{"id":62896,"indexedKeyword":"cios","keyWord":"cios","slug":"cios","articleCount":37},{"id":411757,"indexedKeyword":"zagrebjenaš","keyWord":"zagreb je naš","slug":"zagreb-je-nas","articleCount":29},{"id":1002388,"indexedKeyword":"požariuzagrebu","keyWord":"požari u zagrebu","slug":"pozari-u-zagrebu","articleCount":6}], function (m) {
+            return 'keywordId-' + m.id;
+        });
+
+        var keywordsName = _.map([{"id":135,"indexedKeyword":"požar","keyWord":"požar","slug":"pozar","articleCount":3161},{"id":62895,"indexedKeyword":"petarpripuz","keyWord":"Petar Pripuz","slug":"petar-pripuz","articleCount":52},{"id":62896,"indexedKeyword":"cios","keyWord":"cios","slug":"cios","articleCount":37},{"id":411757,"indexedKeyword":"zagrebjenaš","keyWord":"zagreb je naš","slug":"zagreb-je-nas","articleCount":29},{"id":1002388,"indexedKeyword":"požariuzagrebu","keyWord":"požari u zagrebu","slug":"pozari-u-zagrebu","articleCount":6}], function (m) {
+            return 'keywordName-' + m.keyWord;
+        });
+
+        var authors = _.map([{"id":100}], function (m) {
+            return 'authorId-' + m.id;
+        });
+
+        var rootCategoryId = '3';
+        var articleId = '2003777';
+        var publishDate = '11.06.2018.';
+        var publishDateMetric = '1528675200';
+
+        var verificationToken = $('<input name="__RequestVerificationToken" type="hidden" value="CfDJ8L-EZgE6zFBMoqh8iwlKHLYM7XYExAQfWYmSZ-O9jsTcAo_QSdt8PuPGVTyWZikdrgJ7VZwgpu94C4K1RkOsRm03_DkalBk25G0Wt9cO2NcU3AujsFYGqQxGjb12xF5R5lj--eCCrss5roPAJO0RKG4" />').val();
+        var category = 'vijesti';
+
+        var countUpViewUrl = '/Article/CountUpView';
+        var relatedArticlesUrl = '/Article/RelatedArticles?articleId=2003777&tagId=135&tagSlug=pozar';
+
+        var reportUrl = '/article-report-form';
+
+        articleService.InitAll();
+    </script>
+
+
+    <script>
+        // Google analytics tracking
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+
+        globalDirectives.InitAll();
+
+        layoutService.InitAll();
+    </script>
+</body>
+</html>

@@ -1,0 +1,2337 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+>
+<head>
+<meta name="description" content="Dok je Carlos Westendorp bio visoki predstavnik Ujedinjenih naroda u BiH i tvrdo vodio pregovore s predstavnicima triju naroda, novi španjolski premijer Pedro Sánchez bio je šef njegova kabineta. Komentirajuæi njegovu novu funkciju, Westendorp je kratko rekao: “Pedro sada primjenjuje ono što je nauèio od starog lisca. Stražnjica od željeza tijekom pregovora. Sjesti i izdržati koliko se može”   KAKO JE PEDRO SÁNCHEZ, NOVI PREDSJEDNIK ŠPANJOLSKE VLADE, NAUÈIO KLJUÈNU LEKCIJU OD SVOG NEKADAŠNJEG ŠEFA CARLOSA WESTENDORPA" />
+<meta name="keywords" content="Pedro Sanchez" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>NOVI ŠPANJOLSKI PREMIJER KLJUÈNU LEKCIJU NAUÈIO JE U BiH &#039;Sada primjenjuje ono što je nauèio od starog lisca. Stražnjica od željeza tijekom pregovora&#039; - Jutarnji List</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
+<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+</script>
+<section>
+<!-- DFP verzija 11 -->
+<script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function () {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' === document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+//DFP vars
+dfpId = 11425286;
+dfpName = 'jl';
+dfpAsync = true;
+dfpSingleRequest = true;
+dfpCollapseEmpty = true;
+dfpDisableInitialLoad = true;
+dfpMobileMaxWidth = 960;
+dfpStickyMinWidth = 1024;
+dfpStickyUnitHeightLimit = 600;
+dfpStickyColumnHeightLimit = 680;
+dfpLazyUnitOffset = 3000;
+dfpUnitRefresh = 15000;
+doClickTracking = false;
+dfpAdSlots = {};
+dfpLazyLoad = [];
+dfpUnits = {
+"cla" : {
+"div-gpt-ad-1459756830165-0" : {
+"slot" : "aside1",
+"unit" : "300x600",
+"size" : [[300, 600], [300, 1], [300, 1050], [300, 601], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-1",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
+},
+"div-gpt-ad-1459756830165-1" : {
+"slot" : "aside2",
+"unit" : "300x602",
+"size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-2",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
+},
+"div-gpt-ad-1459756830165-2" : {
+"slot" : "billboard",
+"unit" : "bb_nav",
+"size" : [[1180, 150], [1180, 500], [970, 500], [970, 1000], [970, 90], [300, 100], [300, 150], [320, 100], [320, 50], [1180, 250], [300, 50], [1, 3], [970, 250], [970, 251]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-nav-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1462358187814-0" : {
+"slot" : "billboardbot",
+"unit" : "bb_bot",
+"size" : [[300, 250], [320, 100], [320, 50], [1180, 250], [970, 250], [970, 90], [1, 7]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-bot-wrapper",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-7" : {
+"slot" : "inarticle1",
+"unit" : "ia_1",
+"size" : [[300, 50], [320, 50], [320, 100], [300, 150], [760, 250], [760, 500], [320, 480], [600, 250], [570, 250], [728, 90], [300, 100], [2, 1], [300, 250], [300, 605]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-1",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-8" : {
+"slot" : "inarticle2",
+"unit" : "ia_2",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [300, 100], [300, 150], [2, 2], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-2",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-9" : {
+"slot" : "inarticle3",
+"unit" : "ia_3",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [2, 3], [300, 100], [300, 150], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-3",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-6" : {
+"slot" : "float",
+"unit" : "float",
+"size" : [1, 1],
+"sizeType" : "outofpage",
+"container" : "jl-floater-wrapper",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-10" : {
+"slot" : "wallpaper",
+"unit" : "wp",
+"size" : "",
+"sizeType" : "outofpage",
+"container" : "jl-wallpaper-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+}
+};
+var dfpCountryCode = "HR";
+var dfpCurrentPageType = "cla";
+var dfpGalleryImgNum = 0;
+var dfpGalleryUnitNum = 0;
+var dfpCategory = "Svijet";
+var dfpCategoryParent = "Globus";
+var dfpRos = "globus-ros";
+var dfpArticle = "7461012";
+var dfpArticleKeyword = "Pedro Sanchez";
+// oglasne jedinice za trenutaènu stranicu
+var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
+// jedinice koje je potrebno osvježiti
+var dfpRefreshUnits = [];
+// jedinice koje je potrebno osvježiti a ulaze u prebid
+var dfpRefreshPrebidUnits = [];
+var dfpWindowWidth = dfpGetWindowWidth();
+var dfpWindowDPR = window.devicePixelRatio;
+var dfpIsMobile = false;
+if (dfpWindowWidth <= dfpMobileMaxWidth) {
+dfpIsMobile = true;
+}
+var dfpBreakpoint = dfpGetBreakpoint();
+var dfpPrebid = true;
+if (dfpCountryCode === 'HR') {
+dfpPrebid = false;
+}
+var dfpPrebidTimeout = 3000;
+var dfpPrebidUnits = [];
+var dfpPrebidGranularity = {
+"buckets" : [
+{
+"min" : 0,
+"max" : 100,
+"increment" : 0.1
+}
+]
+};
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+// inicijaliziraj sve oglasne jedinice ovisno o uèitanoj stranici i postavljenim parametrima
+googletag.cmd.push(function() {
+dfpConfigUnits();
+});
+// dohvati širinu prozora
+function dfpGetWindowWidth() {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+return windowWidth;
+}
+// pronaði najmanji breakpoint za trenutaènu širinu prozora
+function dfpGetBreakpoint() {
+var breakpoints = [ 640, 768, 960, 1200, 1350, 1366, 1440, 1600, 1920, 2560 ];
+var minBreakpoint = [ 640 ];
+for (i = 0; i < breakpoints.length; i++) {
+if (dfpWindowWidth >= breakpoints[i]) {
+minBreakpoint = [ breakpoints[i] ];
+}
+}
+return minBreakpoint;
+}
+// provjeri sadrži li DOM traženi node
+function checkIfNodeInPage(node) {
+var inDocument = false;
+if (node === document.body) {
+inDocument = false;
+} else {
+inDocument = document.body.contains(node);
+}
+return inDocument;
+}
+// èekaj odreðeno vrijeme na poziv callback funkcije prilikom scroll eventa
+function dfpThrottleScrolling(callback, wait) {
+var time;
+var go = true;
+return function() {
+if (go) {
+go = false;
+time = setTimeout(function() {
+time = null;
+go = true;
+callback.call();
+}, wait);
+}
+};
+};
+// inicijaliziraj sticky bannere
+function dfpInitStickyBanners() {
+if (dfpWindowWidth >= dfpStickyMinWidth) {
+// univerzalni preporuèeni nazivi klasa
+var stickyRowClass = '.dfp-scroll-row';
+var stickyColClass = '.dfp-scroll-column';
+var stickyElementClass = '.dfp-sticky-unit';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima na svim portalima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+stickyRowClass = '.jl-scroll-container';
+stickyColClass = '.jl-banner-column';
+stickyElementClass = '.jl-banner-wrapper';
+}
+var stickyElementContainers = document.querySelectorAll(stickyRowClass);
+for (var i = stickyElementContainers.length - 1; i >= 0; i--) {
+var contentHeight = stickyElementContainers[i].offsetHeight;
+var stickyElementColumn = stickyElementContainers[i].querySelector(stickyColClass);
+if (stickyElementColumn !== null) {
+var stickyElement = stickyElementColumn.querySelector(stickyElementClass);
+if (stickyElement !== null) {
+if (dfpWindowDPR === 1) {
+var stickyElementHeight = stickyElement.offsetHeight;
+if (stickyElementHeight >= dfpStickyUnitHeightLimit) {
+if (contentHeight < dfpStickyColumnHeightLimit) {
+contentHeight = dfpStickyColumnHeightLimit;
+}
+} else {
+contentHeight = contentHeight - 20;
+}
+stickyElementColumn.style.height = contentHeight + 'px';
+Stickyfill.add(stickyElement);
+} else {
+stickyElement.classList.remove("jl-sticky-banner");
+}
+}
+}
+}
+}
+}
+// handler lazy load uèitavanja jedinica
+var dfpScrollHandler = dfpThrottleScrolling(function() {
+scrolled = window.scrollY;
+// provjeri postoje li lazy load jedinice ili ukloni listener
+if (dfpLazyLoad.length > 0) {
+dfpLazyLoad.forEach(function(adUnit) {
+var adUnitIndex = dfpLazyLoad.indexOf(adUnit);
+var unitContainer = document.getElementById(dfpUnits[dfpCurrentPageType][adUnit]['container']);
+if (checkIfNodeInPage(unitContainer)) {
+var containerOffset = unitContainer.getBoundingClientRect().top;
+if (containerOffset < dfpLazyUnitOffset) {
+var slot = dfpUnits[dfpCurrentPageType][adUnit]['slot'];
+googletag.cmd.push(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+});
+dfpLazyLoad.splice(adUnitIndex, 1);
+}
+}
+});
+} else {
+window.removeEventListener('scroll', dfpScrollHandler);
+}
+}, 250);
+function dfpConfigUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// drugaèiji inicijalizacijski kod za out of page jedinice
+if (unitData['unit'] == 'wp') {
+dfpAdSlots[unitData['slot']] = googletag.defineOutOfPageSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitId).addService(googletag.pubads());
+} else {
+dfpAdSlots[unitData['slot']] = googletag.defineSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitData['size'], unitId).addService(googletag.pubads());
+}
+// targetiranje specifiènih velièina ekrana
+var sizeKey = 'WindowSizeAside';
+if (unitData['sizeType'] === 'pagebreak') {
+sizeKey = 'WindowSizePagebreak';
+} else if (unitData['sizeType'] === 'outofpage') {
+sizeKey = 'WindowSize';
+}
+dfpAdSlots[unitData['slot']].setTargeting(sizeKey, dfpBreakpoint);
+// targetiranje po rubrici
+if (dfpCategory !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Category', dfpCategory);
+}
+if (dfpCategoryParent !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('CategoryParent', dfpCategoryParent);
+}
+// targetiranje za èlanke
+if (dfpCurrentPageType === 'cla') {
+if (dfpArticle !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Article', dfpArticle);
+}
+if (dfpArticleKeyword !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ArticleKeyword', dfpArticleKeyword);
+}
+}
+// ros targetiranje
+if (dfpRos !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ROS', dfpRos);
+}
+// ako jedinica treba biti lazy loadana stavi je u dfpLazyLoad niz (no ne smije biti u Prebidu) ili je dodaj u dfpRefreshUnits u sluèaju da je onemoguæeno inicijalno uèitavanje
+if (((dfpPrebid === false) || (unitData['prebid'] === false) || (typeof unitData['prebid'] === 'undefined')) && unitData['lazyLoad']) {
+dfpLazyLoad.push(unitId);
+} else {
+if (dfpDisableInitialLoad === true) {
+if ((dfpPrebid === true) && (unitData['prebid'] === true)) {
+dfpRefreshPrebidUnits.push(dfpAdSlots[unitData['slot']]);
+} else {
+dfpRefreshUnits.push(dfpAdSlots[unitData['slot']]);
+}
+}
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+function dfpConfigPrebidUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// razlièita Prebid konfiguracija ovisno radi li se o mobilnim ili desktop ureðajima
+var unitPrebidConfigParam = 'prebidConfig';
+if (dfpIsMobile === true) {
+unitPrebidConfigParam = unitPrebidConfigParam + 'Mobile';
+}
+// ako je jedinica dostupna za bidding stavi ju u odgovarajuæi niz
+if (unitData['prebid'] && (unitData.hasOwnProperty(unitPrebidConfigParam))) {
+var unitBids = [];
+for (var bidderName in unitData[unitPrebidConfigParam]) {
+var bidderParams = [];
+bidderParams = unitData[unitPrebidConfigParam][bidderName];
+// dodatni parametri za connectad
+if (bidderName === 'connectad') {
+bidderParams['networkId'] = '10047';
+bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
+}
+var bidderData = {bidder: bidderName, params: bidderParams};
+unitBids.push(bidderData);
+}
+var dfpPrebidUnit = {
+code: unitId,
+sizes: unitData['size'],
+bids: unitBids
+}
+dfpPrebidUnits.push(dfpPrebidUnit);
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+// prebid
+function dfpPrebidSendAdServerRequest() {
+if (pbjs.adserverRequestSent) return;
+pbjs.adserverRequestSent = true;
+googletag.cmd.push(function() {
+pbjs.que.push(function() {
+pbjs.setTargetingForGPTAsync();
+googletag.pubads().refresh(dfpRefreshPrebidUnits);
+});
+});
+}
+if (dfpPrebid === true) {
+pbjs.que.push(function() {
+dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
+pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
+pbjs.addAdUnits(dfpPrebidUnits);
+pbjs.requestBids({
+bidsBackHandler: dfpPrebidSendAdServerRequest
+});
+});
+setTimeout(function() {
+dfpPrebidSendAdServerRequest();
+}, dfpPrebidTimeout);
+}
+//setup and initialize dfp adunits
+googletag.cmd.push(function() {
+// asinkrono renderiranje
+if (dfpAsync === true) {
+googletag.pubads().enableAsyncRendering();
+}
+// dohvati sve u jednom requestu
+if (dfpSingleRequest === true) {
+googletag.pubads().enableSingleRequest();
+}
+// smanji prazne div elemente
+if (dfpCollapseEmpty === true) {
+googletag.pubads().collapseEmptyDivs();
+}
+// iskljuèi inicijalno uèitavanje
+if (dfpDisableInitialLoad === true) {
+googletag.pubads().disableInitialLoad();
+}
+// osvježi sve jedinice koje nisu lazy loadane i nisu u prebidu
+if ((dfpDisableInitialLoad === true) && (dfpRefreshUnits.length > 0)) {
+googletag.pubads().refresh(dfpRefreshUnits);
+}
+// izvršava se nakon što je pojedina oglasna jedinica renderirana, idealno mjesto za dodavanje klasa
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+if (!event.isEmpty) {
+// provjeri koja se toèno jedinica renderirala
+var slotId = event.slot.getSlotElementId();
+var isLoaded = !event.isEmpty;
+dfpUnits[dfpCurrentPageType][slotId]['loaded'] = isLoaded;
+// dohvati podatke o renderiranoj oglasnoj jedinici
+var unitData = dfpUnits[dfpCurrentPageType][slotId];
+// stavi dodatne klase na kontejnere oglasnih jedinica gdje je potrebno
+if (unitData['sizeType'] === 'aside') {
+if (dfpWindowWidth > dfpMobileMaxWidth) {
+var elementExtraClasses = ' dfp-box';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-box';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+}
+} else if (unitData['sizeType'] === 'pagebreak') {
+var elementExtraClasses = ' dfp-space';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-space';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+// fix za in article jedinice na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] !== 'ia_1') && (unitData['unit'] !== 'ia_2') && (unitData['unit'] !== 'ia_3')) {
+var parentObj;
+if (checkIfNodeInPage(bannerElementWrapper.parentNode)) {
+parentObj = bannerElementWrapper.parentNode;
+var elementClass = parentObj.className;
+var searchForRow = true;
+while ((elementClass.indexOf('row') == -1) && searchForRow) {
+if (checkIfNodeInPage(parentObj.parentNode)) {
+parentObj = parentObj.parentNode;
+elementClass = parentObj.className;
+} else {
+searchForRow = false;
+}
+}
+if (searchForRow) {
+parentObj.className += ' jl-has-banner';
+}
+}
+}
+} else if (unitData['sizeType'] === 'outofpage') {
+// fix za ispravan prikaz wallpapera na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] === 'wp')) {
+var bodyElement = document.querySelector('body');
+bodyElement.className += ' hasWallpaperBanner';
+}
+}
+}
+});
+googletag.enableServices();
+});
+// slušaj scroll event za potrebe uèitvanja lazy loadom
+window.addEventListener('scroll', dfpScrollHandler);
+// inicijaliziraj sticky bannere
+window.addEventListener('load', dfpInitStickyBanners);
+window.addEventListener('resize', dfpInitStickyBanners);
+</script>
+</section>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-37299110-3', 'auto');
+ga('create', 'UA-37299110-1', 'auto', {'name': 'newTracker'});
+ga('require', 'displayfeatures');
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');
+ga('newTracker.send', 'pageview');
+</script>
+<meta property="fb:pages" content="133205716542" />
+<meta property="og:description" content="&nbsp;" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GCRM7');</script>
+<!-- End Google Tag Manager -->
+<script>
+var elipsoResizeTimeout;
+function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
+if (!elipsoResizeTimeout) {
+elipsoResizeTimeout = setTimeout(function() {
+elipsoResizeTimeout = null;
+elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
+}, 250);
+}
+}
+function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var elipsoBreakpoint = 0;
+var elipsoBreakpoints = [768, 992, 1200];
+for (i = 0; i < elipsoBreakpoints.length; i++) {
+if (windowWidth >= elipsoBreakpoints[i]) {
+elipsoBreakpoint = elipsoBreakpoints[i];
+}
+}
+var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
+var elipsoIframeWH = elipsoIframeSize.split('x');
+var elipsoIframe = document.getElementById(elipsoIframeId);
+var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
+var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
+if (currentElipsoIframeSrc !== elipsoIframeSrc) {
+elipsoIframe.setAttribute("src", elipsoIframeSrc);
+elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
+elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
+elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
+elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
+}
+}
+</script>
+<style>
+.displaynone-upscore-hack {
+display: none ;
+}
+</style>
+<meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
+<link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
+<link rel="canonical" href="https://www.jutarnji.hr/globus/Globus-svijet/novi-spanjolski-premijer-kljucnu-lekciju-naucio-je-u-bih-sada-primjenjuje-ono-sto-je-naucio-od-starog-lisca-straznjica-od-zeljeza-tijekom-pregovora/7461012/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/globus/Globus-svijet/novi-spanjolski-premijer-kljucnu-lekciju-naucio-je-u-bih-sada-primjenjuje-ono-sto-je-naucio-od-starog-lisca-straznjica-od-zeljeza-tijekom-pregovora/7461012/amp">
+<link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/base/css/jutarnji-base.d1374deb53269f4f88e489dd24ef5c2b.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/default/css/jutarnji-default.d41d8cd98f00b204e9800998ecf8427e.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/minimalist.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/mediaelementplayer.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="https://www.jutarnji.hr/static/js/html5shiv.js"></script>
+<script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
+<![endif]-->
+<script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/rtx673wijpg/7461072/ALTERNATES/LANDSCAPE_1180/RTX673WI.jpg" />
+<meta property="og:image:width" content="1180" />
+<meta property="og:image:height" content="700" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/rtx673wijpg/7461072/ALTERNATES/LANDSCAPE_1180/RTX673WI.jpg">
+<meta property="og:title" content="NOVI ŠPANJOLSKI PREMIJER KLJUÈNU LEKCIJU NAUÈIO JE U BiH 'Sada primjenjuje ono što je nauèio od starog lisca. Stražnjica od željeza tijekom pregovora'" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.jutarnji.hr/globus/Globus-svijet/novi-spanjolski-premijer-kljucnu-lekciju-naucio-je-u-bih-sada-primjenjuje-ono-sto-je-naucio-od-starog-lisca-straznjica-od-zeljeza-tijekom-pregovora/7461012/" />
+<meta property="og:site_name" content="jutarnji.hr" />
+<meta property="fb:app_id" content="156538244364753" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="jutarnji.hr">
+<meta name="twitter:creator" content="Miho Dobrašin">
+<meta name="twitter:title" content="NOVI ŠPANJOLSKI PREMIJER KLJUÈNU LEKCIJU NAUÈIO JE U BiH 'Sada primjenjuje ono što je nauèio od starog lisca. Stražnjica od željeza tijekom pregovora'">
+<meta name="twitter:description" content="Dok je Carlos Westendorp bio visoki predstavnik Ujedinjenih naroda u BiH i tvrdo vodio pregovore s predstavnicima triju naroda, novi španjolski premijer Pedro Sánchez bio je šef njegova kabineta. Komentirajuæi njegovu novu funkciju, Westendorp je kratko rekao: “Pedro sada primjenjuje ono što je nauèio od starog lisca. Stražnjica od željeza tijekom pregovora. Sjesti i izdržati koliko se može”   KAKO JE PEDRO SÁNCHEZ, NOVI PREDSJEDNIK ŠPANJOLSKE VLADE, NAUÈIO KLJUÈNU LEKCIJU OD SVOG NEKADAŠNJEG ŠEFA CARLOSA WESTENDORPA">
+<meta property="fb:pages" content="133205716542" />
+<!-- j2 - vijesti -->
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+var d=document,
+h=d.getElementsByTagName('head')[0],
+s=d.createElement('script');
+s.type='text/javascript';
+s.async=true;
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2447';
+h.appendChild(s);
+}());
+/* ]]> */
+</script>
+<script>
+(function(u,p,s,c,r){u[r]=u[r]||function(p){(u[r].q=u[r].q||[]).push(p)},u[r].ls=1*new Date();
+var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//files.upscore.com/async/upScore.js','upScore');
+upScore({config:{ domain:"jutarnji.hr",
+article: "#CImaincontent",
+track_positions: false},
+data: { section: "Svijet, Globus, Front Page",
+pubdate: "2018-06-11T14:50+02:00",
+author: "Miho Dobrašin",
+object_type: "article",
+custom_sponsored: 0
+}});
+</script>
+</head>
+<body class="globus story">
+<div id="fb-root">
+</div>
+<script type="text/javascript">
+(function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s);
+js.id = id;
+js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.7&appId=156538244364753";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+!function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (!d.getElementById(id)) {
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+}
+}(document, "script", "twitter-wjs");
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<c:if test="true">
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56cdc7652b8101eb"></script>
+</c:if>
+<script async defer src="//platform.instagram.com/hr_HR/embeds.js"></script>
+<script type="text/javascript">
+$(function() {
+if ($("#related-news-box").has("ul").length) {
+if ($("[id^='content-body-'] > p").length < 0) {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+}
+} else {
+$("#related-news-box").remove();
+}
+});
+</script>
+<div class="container">
+<header class="mainHead brandedHead " role="banner">
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId : '156538244364753',
+xfbml : true,
+version : 'v2.10'
+});
+FB.AppEvents.logPageView();
+};
+(function(d, s, id){
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<a name="top"></a>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="row " >
+<div class="col-sm-12 ">
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="siteHead"
+class=" ">
+<div class="head_date">
+<p class="month">
+<span>11.6.</span>2018.
+</p>
+<p class="day">
+ponedjeljak
+</p>
+</div>
+<span class="logo"><a href="/">JutarnjList</a></span>
+</div>
+<nav class="navbar main_nav "
+role="navigation" >
+<a href="#" class="mSiteSearch"><span class="text-hide">Pretraži</span></a>
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div id="navbar-collapse-1" class="navbar-collapse collapse ">
+<span class="logo suplement "><a href="/">JutarnjList</a></span>
+<ul class="nav navbar-nav all_sections">
+<li>
+<a href="#" class="site_search"><span class="text-hide">Pretraži</span></a>
+</li>
+<li class="dropdown megadropdown ">
+<a href="#" id="menuPane-link-1">
+Sve rubrike
+<div id="rwd_toggle"><span></span><span></span><span></span><span></span></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="wrap-megadropdown-menu ">
+<div class="dropdown-menu megadropdown-menu ">
+<div class="sections ">
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="magazin ">
+<span>Magazin</span>
+<ul>
+<li class="ak"><a href="/autoklub">Autoklub</a></li>
+<li class="gl"><a href="/globus">Globus</a></li>
+<li class="dh"><a href="/dobrahrana">Dobra hrana</a></li>
+<li class="dd"><a href="/domidizajn">Dom i dizajn</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="subBranding ">
+<span class="logo"><a href="/globus">Globus</a></span>
+</div>
+<div class="subLevelNavbar ">
+<ul class=" sub nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/globus/">
+Naslovnica
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-politika/">
+Politika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-biznis/">
+Biznis
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-zivot/">
+Život
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/globus/Globus-kultura/">
+Kultura
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav socialChannels">
+<li>
+<a class="facebook_follow" href="https://www.facebook.com/globus.hr/">
+<span class="text-hide">Facebook</span>
+</a>
+</li>
+</ul>
+</div>
+<div id="searchBox">
+<form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Pretraži Jutarnji.hr" value="" />
+<button type="submit">Submit</button>
+</div>
+</form>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<section role="main">
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-nav-wrapper" class="jl-billboard-nav">
+<div id="div-gpt-ad-1459756830165-2">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-2"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-2");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
+<p
+class="overline">
+OD SARAJEVA DO MADRIDA
+</p>
+<h1
+class="title">
+NOVI ŠPANJOLSKI PREMIJER KLJUÈNU LEKCIJU NAUÈIO JE U BiH 'Sada primjenjuje ono što je nauèio od starog lisca. Stražnjica od željeza tijekom pregovora'
+</h1>
+<ul class="list-inline ">
+<strong>AUTOR: </strong>
+<li>
+<p
+class="authors">
+<ul>
+<li>Miho Dobrašin</li>
+</ul>
+</p>
+</li>
+<strong>OBJAVLJENO: </strong>
+<li>
+<p
+class="published-date">
+11.06.2018. u 14:50
+</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row article_body jl-scroll-container " >
+<div class="col-sm-8 " >
+<section class="lead_image ">
+<section class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rtx673wijpg/7461072" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/rtx673wijpg/7461072/ALTERNATES/LANDSCAPE_380/RTX673WI.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/rtx673wijpg/7461072/BINARY/thumbnail/RTX673WI.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+</div>
+</section>
+</section>
+<div class=" ">
+<section class="ci_lead ">
+<p
+class="leadtext">
+<p><em><strong>Dok je Carlos Westendorp bio visoki predstavnik Ujedinjenih naroda u BiH i tvrdo vodio pregovore s predstavnicima triju naroda, novi španjolski premijer Pedro Sánchez bio je šef njegova kabineta</strong></em></p>
+</p>
+</section>
+<section>
+<div id="jl-inarticle-wrapper-1" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-7">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-7"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-7");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+<section id="CImaincontent" class="ci_body ">
+<div id="content-body-6263871-7461012"
+>
+<p>S laganim osmijehom na licu 46-godišnji <strong>Pedro Sánchez</strong> prolazi pored nepomiènih crnih lavova na izlazu iz parlamenta u Madridu. Na sunèanom popodnevu zraèi zadovoljstvom. Sigurnim korakom na putu prema službenom automobilu odaje dojam èovjeka kojem se ispunio san. Ovaj tjedan uselio se u palaèu Moncloa na sjeveru grada odakle je ispratio 63-godišnjeg konzervativca<strong> Mariana Rajoya</strong>, donosi Globus u zadnjem broju.</p><p>Kada se kao 21-godišnjak upisao u Španjolsku socijalistièku radnièku stranku (PSOE), mogao se samo nadati da æe ga put dovesti u palaèu gdje obitavaju premijeri Španjolske od uvoðenja demokracije 1978. Neoklasièni stupovi i zelenilo odudaraju od uvjeta u kojima je prije 20 godina živio u Bosni i Hercegovini. Možda tek osiguranje s oružjem podsjeæa novog premijera na bazu gdje je radio kao šef kabineta visokog predstavnika Ujedinjenih naroda.</p><p>Roðen u Madridu, u dobrostojeæoj obitelji srednje klase, simpatizirao je nogometaše Atlético Madrida èiji se stadion nalazio uz staru pivovaru na obali rijeke Manzanares. Studirao je ekonomiju pod utjecajem oca poduzetnika pa otišao u Bruxelles na master iz Politièke ekonomije EU. Ondje mu je u Europskom parlamentu posao dala zastupnica PSOE-a <strong>Bárbara Dührkop</strong> u èijem je uredu radio. Sánchezov otac je istovremeno bio direktor državnog centra za promociju kazališta i plesa u Madridu, institucije pod upravom Ministarstva kulture. Odande je poznavao suprugu španjolskog ministra vanjskih poslova Carlosa Westendorpa. Kada su 1996. konzervativci preuzeli vlast, smijenili su socijalista Westendorpa pa ga poslali u New York za veleposlanika pri UN-u. Uskoro onamo stiže i mladi Sánchez jer dobiva posao u jednoj njujorškoj konzultantskoj kuæi. Odlazi na veèere kod Westendorpovih.</p><p>“Razgovarali bismo o politici... èavrljali... i pripremali mu topli obrok”, kaže Westendorp kojem se svidio Sánchezov interes za politiku te engleski i francuski jezik. Pratio je košarku koju je nekada igrao u madridskom Estudiantesu.</p><p>Na televiziji su tih dana sve rjeðe vijesti iz bivše Jugoslavije. Prošlo je godinu dana od masakra u Srebrenici i potpisivanja Daytonskog sporazuma kojim je zaustavljen rat. UN ondje nije popularan jer nije zaštitio civile i sprijeèio ubojstva, no plaæe su visoke pa Westendorp u lipnju 1997. biva imenovan visokim povjerenikom u zemlji bez zajednièke zastave i valute. Poziva 26-godišnjeg Sáncheza da mu bude šef kabineta.</p><p>“Pedrito”, kako ga naziva, dolazi nekoliko mjeseci kasnije u ured svog uèitelja u Ulicu maršala Tita u Sarajevu. Zadatak im je pratiti poštuju li Hrvati, Muslimani i Srbi odredbe iz Daytona.</p><p>“U tom trenutku u Bosni nisam trebao intelektualca koji æe iæi sa mnom, nego èovjeka od akcije koji æe pripremiti razgovore. Koji æe razgovarati s jednima, drugima i treæima na razlièitim jezicima te se odnositi dobro prema svakome”, objašnjava Westendorp.</p><p>Odlaze u kuæicu na Palama, desetak kilometara od Sarajeva. Ondje se u pratnji 20 “plavih kaciga” sastaju s Momèilom Krajišnikom, tadašnjim predstavnikom lokalnih Srba. On æe 2006. biti osuðen za ratne zloèine, a zatvor u Haagu napustiti 2013. S njim, desnom rukom Radovana Karadžiæa, sastaju se oko uvoðenja zajednièke valute za BiH, himne, zastave, zakona...</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rtxhew5jpg/7461168" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/rtxhew5jpg/7461168/ALTERNATES/FREE_380/RTXHEW5.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/rtxhew5jpg/7461168/BINARY/thumbnail/RTXHEW5.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="SFOR commander for Bosnia Gen. William Crouch (L) gestures during talks on the latest situation in Bosnia with Momcilo Krajisnik (R), a member of the Bosnian Presidency while Bosnia's newly appointed international community's High Representative, Carlos Westendorp (2nd L) looks at in Pale July 11. NATO-led forces launched their first concerted attempt to arrest war crimes suspects, on July 10, killing one Bosnian Serb and capturing another in a bold operation approved by [President Bill Clinton]. - PBEAHUMNSDV"
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+<div class="picture-caption ">
+<h4>William Crouch, Carlos Westendorp i Momèilo Krajišnik</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>“Kada smo od njega zatražili prijedlog zajednièke novèanice, pokazao nam je nacrt sa svim srpskim nacionalistièkim simbolima: dvoglavim orlom, crnim pravoslavnim manastirima...”, prisjetio se Westendorp u jednom intervju 2016. za novine El Mundo. Uvedena je zatim zajednièka valuta, konvertibilna marka, s neutralnim nacrtom kao i “europski plava” zastava koja se i danas koristi.</p><p>“To je razlika u odnosu na pregovore koje sada vodi Pedrito. Mi smo tamo imali zadnju rijeè”, napominje danas 81-godišnji Westendorp.</p><p>Godine 1999. njihovi putovi se razilaze. Westendorp na listi PSOE-a dobiva zastupnièko mjesto u Europskom parlamentu, a Sánchez odlazi u Madrid po funkciju u istoj stranci. Socijalisti su i dalje u oporbi. Pokušava preko gradskog ogranka doæi do neke pozicije pa postaje jedan od 320 èlanova generalne skupštine jedne gradske štedionice.</p><p>Godine 2004. socijalisti preuzimaju vlast nakon teroristièkih napada u Madridu te povlaèe vojnike iz Iraka. Tri godine kasnije Sánchez se ženi i dobiva dvoje djece, a 2008. traži od Westendorpa pismo preporuke jer se prijavio za mjesto profesora ekonomije na privatnom sveuèilištu Camilo José Cela u Madridu.</p><p>Španjolska tada upada u tešku gospodarsku krizu, a socijalistièki ministar gospodarstva Pedro Solbes pod rafalom je kritika zbog mjera štednje i rastuæe nezaposlenosti. Socijalisti su optuženi za uvoðenje zemlje u nezapamæenu recesiju. U rujnu 2009. Solbes napušta funkciju, ali i mjesto u parlamentu. Na njegovu stolicu sjeda Sánchez, našavši se prvi put meðu 350 zastupnika. Odmah ostavlja posao na sveuèilištu. Nezaposlenost juri prema stopi od 20 posto pa na izborima 2011. konzervativci pod vodstvom Mariana Rajoya uvjerljivo pobjeðuju. Rajoy napinje mišiæe. Poèinje njegova era. Unatoè nastavku bolnih rezova, prosvjeda na ulicama, rastu nezaposlenosti i korupcijskim skandalima vezanim za vladajuæu stranku, socijalisti su nemoæni.</p><p>Štoviše, Rajoy ih je opet potukao 2014. na izborima za Europski parlament. Konzervativci i socijalisti, PP i PSOE, izmjenjuju se na vlasti posljednja èetiri desetljeæa od kada je uvedena demokracija. No upravo je ta 2014. prijelomna godina u španjolskoj politici. Iz pokreta ogorèenih graðana izrasla je nova stranka Podemos s tada 35-godišnjim liderom Pablom Iglesiasom dok je iz Katalonije, pokrajine na sjeveroistoku, iskoraèila na nacionalnu scenu stranka centra Graðani sa svojim 34-godišnjim liderom Albertom Riverom. Tradicionalno dvostranaèje klizi prema provaliji u prošlost.</p><p>Profesor kemije na èelu PSOE-a, 64-godišnji <strong>Alfredo Pérez Rubalcaba</strong>, malo toga može “iskemijati”. Njegove rijeèi zvuèe isprazno Španjolcima od kojih je svaki èetvrti bez posla. Novo lice Iglesias nudi im se kao istinski zaštitnik. Socijalisti tada lansiraju u eter svog “mladog lava” – Sáncheza. Njegova supruga je marketinška djelatnica, što mu svakako pomaže. Visokog stasa, s ekonomskom teorijom kao štitom a šarmom kao kopljem, stupa na scenu osvježeno lice socijalista. Izabiru ga za novog predsjednika stranke. Zadatak mu je osmijehom i energijom zavesti biraèe u trenutku kada socijalisti padaju diljem Europe. Premda se fizièki sviða ženama, ne uspijeva podiæi rejting stranke. Šest mjeseci kasnije doživljava prvi knock-down. Socijalisti dobivaju samo 90 od 350 zastupnika dok je Narodna stranka iznijela pobjedu sa 123 dobivena zastupnika. Samo šest mjeseci kasnije održavaju se novi izbori jer Narodna stranka ne uspijeva skupiti 176 glasova za formiranje Vlade. Sánchez oštro udara po Rajoyu u televizijskim debatama, ali kao da mu se to vraæa poput bumeranga. Podemos, koji se udružio s malom Ujedinjenom ljevicom, dolazi na korak da prestigne socijaliste i postane prva snaga ljevice.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/rtx66xv5-1jpg/7424610" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/rtx66xv5-1jpg/7424610/ALTERNATES/FREE_380/RTX66XV5-(1).jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/rtx66xv5-1jpg/7424610/BINARY/thumbnail/RTX66XV5-(1).jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> REUTERS
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Pedro Sánchez</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Na ponovljenim izborima 2016. ponovno pobjeðuje Rajoy, no opet ne može skupiti 176 zastupnika. Španjolci bi mogli na nove, treæe izbore. Socijalisti pod Sánchezom bilježe najslabiji rezultat od 1977. godine pa ih je strah potpunog debakla otvore li se opet birališta.</p><p>Dio njih želi dopustiti Rajoyu formiranje manjinske, nestabilne Vlade, i èekati bolju priliku u buduænosti. No ne i Pedro Sánchez.</p><p>“Ne je ne, gospodine Rajoy”, istièe i glasa protiv njegove vlade iako je dogovor socijalista da se suzdrže od glasovanja i tako prešutno potvrde novi Rajoyev mandat. Sánchez pregovara s Podemosom oko velike lijeve koalicije, što nailazi na osudu ostalih socijalista koji Iglesiasa nazivaju radikalom, te ga prozivaju zbog sklonosti referendumu u Kataloniji.</p><p>Ubrzo dolazi do raskola unutar socijalista te unutarstranaèkih izbora. Sve ankete pokazuju da æe vodstvo preuzeti Susana Díaz, 41-godišnja predsjednica južne pokrajine Andaluzije. Ta tradicionalno poljoprivredna regija iz koje se stanovnici desetljeæima iseljavaju uporište je ljevice u Španjolskoj. Susana Diáz je jedina preživjela pad PSOE-a na prethodnim izborima. Rajoy je zadovoljan. Ostao je na vlasti. Vjetar u leða daje mu 3-postotni gospodarski rast dok mu je latentna prijetnja 16 posto nezaposlenih.</p><p>Na veliko iznenaðenje, meðutim, Sánchez pobjeðuje Susanu Diáz i ostaje na èelu stranke. Tijekom godina stekao je poznanstva koja su ga oèuvala na vrhu. Takoðer prvi put mu u prilog poèinju iæi ankete jer su biraèi socijalista pozdravili njegovo dosljedno “ne” Rajoyu. Stranka ipak ostaje ranjena unutarnjom podjelom.</p><p>Socijalisti i konzervativci zbijaju redove u listopadu oštro se protiveæi zahtjevu za nezavisnošæu Katalonije u èemu im se prikljuèuje i stranka Graðani, èetvrta snaga po brojnosti u parlamentu. Uz te tri stranke ne može se promijeniti Ustav iz 1978. èime bi Katalonija dobila zakonsko uporište za referendum. Unatoè problemima s Katalonijom, nezaposlenost je Španjolcima i dalje najveæi problem, pokazuju ankete.</p><p>Rajoy, meðutim, nastavlja koraèati prema drugoj polovici svog mandata koji istjeèe 2020. godine. No tada korupcijski potres trese zemlju s 46,5 milijuna stanovnika.</p><p>Njegova Narodna stranka desnog centra osuðena je za korupciju, a sud traži od nje da plati kaznu od 245.492 eura zbog ilegalnog financiranja od 1999. do 2005. godine. Prema sudskoj presudi poduzetnici su financirali stranku u zamjenu za politièke usluge. Rajoy poruèuje da niti jedan èlan sadašnje Vlade nije osuðen, a stranka najavljuje žalbu.</p><p>Sánchez istog trena njuši priliku. Saziva glasovanje o povjerenju Vladi, nudi se za premijera, premda nije siguran hoæe li dobiti podršku ostalih stranaka. Dobije li je, automatski postaje premijer kao voða najbrojnije oporbene stranke. Ima samo 84 zastupnika od njih 350, a treba ih skupiti 176. Rajoy u parlamentu navodi korupcijske sluèajeve u socijalistièkim redovima nastojeæi ublažiti histeriju. Govori o gospodarskom oporavku, stabilnosti, EU...</p><p>“Sánchez po svaku cijenu želi na vlast. Želi ono što ne može dobiti na izborima”, upozorava. No Rajoyu leða okreæe i petero zastupnika regionalne Baskijske nacionalistièke stranke (PNV) koji su prošli mjesec bili podržali Rajoya u donošenju proraèuna. Oni donose prevagu. Na Sánchezovu inicijativu 180 zastupnika iz devet stranaka pokazalo je Rajoyu “crveni karton” dok ih je 169 pokušalo spasiti premijera.</p><p>Sánchez sada mora postiæi kompromis sa strankama razlièitih interesa, ukljuèujuæi katalonske i baskijske zagovornike nezavisnosti, želi li se održati na vlasti do sredine 2020. kada se održavaju redovni izbori. Da bi ostvario tu ambiciju, morat æe pokazati sve vještine koje je stekao tijekom 25 godina bavljenja politikom.</p><p>Ovaj tjedan poèeo je pritisak da riješi politièku krizu u Kataloniji, gdje zahtjev za nezavisnošæu ne posustaje. Investitori oèekuju stabilnost i snažan gospodarski rast. Svoju stranku mora pak zaštititi od udara nadiruæih liberala iz stranke Graðani, po anketama najpopularnije stranke, koji novu Vladu nazivaju “frankenštajnskom” te traže prijevremene izbore. Istovremeno mu ukopana ljevica iz Podemosa uvjetuje daljnju podršku promjenama na tržištu rada.</p><p>“Svjestan sam odgovornosti koju preuzimam, kompleksnog politièkog trenutka kroz koji prolazi naša zemlja. Suoèit æu se sa svim izazovima ponizno i predano”, poruèuje Sánchez. “Da, može se!”, odjekivao je pokliè Podemosa u parlamentu nakon što je Rajoy oproštajno stisnuo Sánchezu ruku. Postao je sedmi premijer otkada je prije èetiri desetljeæa vraæena demokracija. No nikada niti jedan nije imao tako malo zastupnika u parlamentu. I niti jedan nije na ovakav naèin sjeo u fotelju u palaèi Moncloa. Ondje poèinju dolaziti predstavnici osam stranaka koje su mu otvorile njena vrata.</p><p>“Pedrito sada primjenjuje ono što je nauèio od starog lisca”, kaže Westendorp. “Stražnjica od željeza tijekom pregovora. Sjesti i izdržati koliko se može”, savjetuje uz smijeh.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/cover-globusjpg/7439295" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/cover-globusjpg/7439295/ALTERNATES/FREE_380/cover-globus.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/cover-globusjpg/7439295/BINARY/thumbnail/cover-globus.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p>
+</div>
+<script type="text/javascript" language="javascript">
+$(document).ready(function () {
+// Removing empty paragraphs first
+$("#content-body-6263871-7461012 p").filter(function () {
+var html = $.trim($(this).html());
+if (html == '' || html == '&nbsp;')
+return true;
+}).remove();
+// Taking a subset of paragraphs using offset and maximum
+var offset = 1;
+var max = -1;
+if (offset > 1) {
+$("#content-body-6263871-7461012").children().slice(0, offset - 1).remove();
+}
+if (max > -1) {
+$("#content-body-6263871-7461012").children().slice(max).remove();
+}
+// Show dateline field at the beginning of the first paragraph
+var showDateline = true;
+var datelineStr = "";
+if (offset <= 1 && showDateline == true && datelineStr != "") {
+var firstChild = $("#content-body-6263871-7461012").children().get(0);
+if ("P" == firstChild.nodeName.toUpperCase()) {
+$(firstChild).prepend("<span>" + datelineStr + " - </span>");
+}
+else {
+$(firstChild).before("<span>" + datelineStr + "</span>");
+}
+}
+});
+</script>
+</section>
+<section>
+<div id="inArticleBanner">
+<div id="jl-inarticle-wrapper-2" class="jl-inarticle-wrapper">
+<div id="jl-inarticle-2" class="jl-inarticle">
+<!-- /11425286/jl_cla_ia_2 -->
+<div id='div-gpt-ad-1459756830165-8'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459756830165-8'); });
+</script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+if ($("[id^='content-body-'] > p").length < 3) {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 - 1));
+}
+});
+</script>
+</section>
+<div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/Pedro_Sanchez" class ="label label-default" >
+Pedro Sanchez
+</a>
+</li>
+</ul>
+</div>
+<div id="related-news-box"
+class="rel_art_ib ">
+<h3>
+Vezane vijesti
+</h3>
+<section>
+<article class="svijet media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/spanjolski-socijalist-sastavio-vecinski-zensku-vladu-za-ministra-znanosti-postavio-astronauta/7444854/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/spanjolski-socijalist-sastavio-vecinski-zensku-vladu-za-ministra-znanosti-postavio-astronauta/7444854/">
+Španjolski socijalist sastavio veæinski žensku vladu, za ministra znanosti postavio astronauta
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="svijet media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/vijesti/svijet/kako-je-pala-vlada-u-spanjolskoj-korupcijska-afera-bila-je-kobna-za-starog-premijera-rajoya-sto-se-sada-moze-ocekivati/7427175/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/vijesti/svijet/kako-je-pala-vlada-u-spanjolskoj-korupcijska-afera-bila-je-kobna-za-starog-premijera-rajoya-sto-se-sada-moze-ocekivati/7427175/">
+KAKO JE PALA VLADA U ŠPANJOLSKOJ Korupcijska afera bila je kobna za starog premijera Rajoya, što se sada može oèekivati?
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+</section>
+</div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div style="text-align:center;" class="addthis_responsive_sharing"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Izdvajamo</span></div></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__302"></div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__301"></div>
+</div>
+</div>
+<div class="row jl-scroll-container " >
+<div class="col-sm-8 " >
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midas" class="center-block" style="width:100%; max-width:600px;">
+<div id="midasWidget__72"></div>
+<script async src="https://cdn.midas-network.com/Widget/IndexAsync/1?portalWidgetId=72&portalWidgetId=301&portalWidgetId=302" type="text/javascript"></script>
+</div>
+</div>
+<section>
+<div id="jl-inarticle-wrapper-3" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-9">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-9"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-9");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+<div class="separator alt ">
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7461012" data-colorscheme="light" data-numposts="5"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-1">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-1"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0.00;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-1");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="emp_block article_most_read sidebar ">
+<h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
+<div class="row">
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
+<section>
+<article class="globus-svijet media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-svijet/svi-vucicevi-vukovi-i-jastrebovi-tko-su-politicki-divljaci-koji-srbiju-vode-u-europu-kalili-su-se-politicki-pod-milosevicevim-i-seseljevim-okriljem/7349967/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/svi-vucicevi-vukovi-i-jastrebovi-tko-su-politicki-divljaci-koji-srbiju-vode-u-europu-kalili-su-se-politicki-pod-milosevicevim-i-seseljevim-okriljem/7349967/">
+GLOBUS
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/svi-vucicevi-vukovi-i-jastrebovi-tko-su-politicki-divljaci-koji-srbiju-vode-u-europu-kalili-su-se-politicki-pod-milosevicevim-i-seseljevim-okriljem/7349967/">
+SVI VUÈIÆEVI VUKOVI I JASTREBOVI: TKO SU POLITIÈKI DIVLJACI KOJI SRBIJU 'VODE U EUROPU' Kalili su se politièki pod Miloševiæevim i Šešeljevim okriljem
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
+<section>
+<article class="globus-svijet media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-svijet/veliki-turski-povratak-na-balkan-erdoganov-munjeviti-prodor-mogao-bi-izbaciti-bruxelles-iz-igre-dramaticni-dogadaji-sustizu-jedan-drugog-a-eu-spava/7269270/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/veliki-turski-povratak-na-balkan-erdoganov-munjeviti-prodor-mogao-bi-izbaciti-bruxelles-iz-igre-dramaticni-dogadaji-sustizu-jedan-drugog-a-eu-spava/7269270/">
+GLOBUSOVA ANALIZA
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/veliki-turski-povratak-na-balkan-erdoganov-munjeviti-prodor-mogao-bi-izbaciti-bruxelles-iz-igre-dramaticni-dogadaji-sustizu-jedan-drugog-a-eu-spava/7269270/">
+VELIKI TURSKI POVRATAK NA BALKAN: ERDOGANOV MUNJEVITI PRODOR MOGAO BI IZBACITI BRUXELLES IZ IGRE Dramatièni dogaðaji sustižu jedan drugog, a EU spava
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
+<section>
+<article class="globus-svijet media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-svijet/xi-jinpingova-kazna-za-neposlusni-otok-kako-je-trumpova-vojna-potpora-taipeiu-razbjesnila-peking-pocinje-li-invazija-pripremana-70-godina/7298305/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/xi-jinpingova-kazna-za-neposlusni-otok-kako-je-trumpova-vojna-potpora-taipeiu-razbjesnila-peking-pocinje-li-invazija-pripremana-70-godina/7298305/">
+KINESKA OLUJA NAD TAJVANOM
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/xi-jinpingova-kazna-za-neposlusni-otok-kako-je-trumpova-vojna-potpora-taipeiu-razbjesnila-peking-pocinje-li-invazija-pripremana-70-godina/7298305/">
+XI JINPINGOVA KAZNA ZA NEPOSLUŠNI OTOK: KAKO JE TRUMPOVA VOJNA POTPORA TAIPEIU RAZBJESNILA PEKING Poèinje li invazija pripremana 70 godina?
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
+<section>
+<article class="globus-svijet media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/globus/Globus-svijet/britanska-stijena-koja-zeli-ostati-u-europskoj-uniji-neizvjesna-buducnost-strateske-tocke-britansko-spanjolskog-razdora-na-ulazu-u-sredozemno-more/7321086/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/britanska-stijena-koja-zeli-ostati-u-europskoj-uniji-neizvjesna-buducnost-strateske-tocke-britansko-spanjolskog-razdora-na-ulazu-u-sredozemno-more/7321086/">
+GIBRALTAR
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/globus/Globus-svijet/britanska-stijena-koja-zeli-ostati-u-europskoj-uniji-neizvjesna-buducnost-strateske-tocke-britansko-spanjolskog-razdora-na-ulazu-u-sredozemno-more/7321086/">
+BRITANSKA STIJENA KOJA ŽELI OSTATI U EUROPSKOJ UNIJI Neizvjesna buduænost strateške toèke britansko-španjolskog razdora na ulazu u Sredozemno more
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Iz drugih medija</span></div></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-4 openInNewTab" >
+<section>
+<article class="banner-testing-page media none">
+<div class="teaser "
+data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="http://www.gloria.hr/">
+<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+<article class="fokus-zvjezdane-staze media c3 none">
+<div class="teaser link-block"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/zgodni-srbin-i-fatalna-ljepotica-napravili-pomutnju-drzeci-se-za-ruku-potaknuli-suskanja-o-vezi/7462827/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/zgodni-srbin-i-fatalna-ljepotica-napravili-pomutnju-drzeci-se-za-ruku-potaknuli-suskanja-o-vezi/7462827/">
+</a>
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/zgodni-srbin-i-fatalna-ljepotica-napravili-pomutnju-drzeci-se-za-ruku-potaknuli-suskanja-o-vezi/7462827/">
+<img src="https://www.gloria.hr/incoming/profimedia-0374323139jpg/7462812/ALTERNATES/LANDSCAPE_380/profimedia-0374323139.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.gloria.hr/incoming/profimedia-0374323139jpg/7462812/BINARY/thumbnail/profimedia-0374323139.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Hollywood, CA - *EXCLUSIVE* **WEB MUST CALL FOR PRICING** Model Alessandra Ambrosio was was seen holding hands with a mystery guy who happens to look a lot like her ex Jamie Mazur while leaving the Moschino afterparty at No Vacancy in Hollywood. When the pair spotted the cameras flashing, they immediately stopped holding hands! Shot on 06/08/18.
+Pictured: Alessandra Ambrosio
+*UK Clients - Pictures Containing Children
+Please Pixelate Face Prior To Publication*, Image: 374323139, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title text-small">
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/zgodni-srbin-i-fatalna-ljepotica-napravili-pomutnju-drzeci-se-za-ruku-potaknuli-suskanja-o-vezi/7462827/">
+Zgodni Srbin i fatalna ljepotica napravili pomutnju: Držeæi se za ruku potaknuli šuškanja o vezi
+</a>
+</h4>
+</div>
+</div>
+</article>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<section>
+<article class="banner-testing-page media none">
+<div class="teaser "
+data-content-url="http://100posto.hr/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="http://100posto.hr/">
+<img src="https://www.jutarnji.hr/banner-testing-page/ecsimg100posto_logo_jl-3244919154506549845png/6306396/ALTERNATES/FREE_380/ecsImg100posto_logo_JL-3244919154506549845.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/banner-testing-page/ecsimg100posto_logo_jl-3244919154506549845png/6306396/BINARY/thumbnail/ecsImg100posto_logo_JL-3244919154506549845.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+<article class="100postohr media c3 none">
+<div class="teaser link-block"
+data-content-url="https://100posto.hr/zivot/prosjecna-obitelj-u-jugi-prije-40-godina-za-placu-mozemo-kupiti-frizider-stize-nam-novi-stojadin-a-onda-cemo-razmisljati-o-vikendici" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<a class=" block-link" href="https://100posto.hr/zivot/prosjecna-obitelj-u-jugi-prije-40-godina-za-placu-mozemo-kupiti-frizider-stize-nam-novi-stojadin-a-onda-cemo-razmisljati-o-vikendici">
+</a>
+<div class="img-container picture" style='width: 100%'>
+<a href="https://100posto.hr/zivot/prosjecna-obitelj-u-jugi-prije-40-godina-za-placu-mozemo-kupiti-frizider-stize-nam-novi-stojadin-a-onda-cemo-razmisljati-o-vikendici">
+<img src="https://www.jutarnji.hr/100postohr/obiteljjpg/7462902/ALTERNATES/LANDSCAPE_380/obitelj.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/100postohr/obiteljjpg/7462902/BINARY/thumbnail/obitelj.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title text-small">
+<a href="https://100posto.hr/zivot/prosjecna-obitelj-u-jugi-prije-40-godina-za-placu-mozemo-kupiti-frizider-stize-nam-novi-stojadin-a-onda-cemo-razmisljati-o-vikendici">
+JE LI PRIJE BILO BOLJE? Prosjeèna obitelj u Jugi prije 40 godina: Za plaæu možemo kupiti frižider, stiže nam novi 'stojadin', a onda æemo razmišljati o vikendici
+</a>
+</h4>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-bot-wrapper" class="jl-billboard-bot">
+<div id="div-gpt-ad-1462358187814-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1462358187814-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1462358187814-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+<footer class="siteFoot ">
+<div class="container ">
+<a href="#top">Povratak na vrh</a>
+<div class="row footNav ">
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/">
+Naslovnica
+</a>
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row socialize ">
+<div class="row col-xs-12 " >
+<dl class="socialLinks">
+<dt>Poveži se s Jutarnjim</dt> <dd><a class="fb" href="https://www.facebook.com/jutarnji.list/" title="Facebook">Facebook</a></dd>
+<dd><a class="tw" href="https://twitter.com/jutarnjihr" title="Twitter">Twitter</a></dd>
+<dd><a class="in" href="https://www.instagram.com/jutarnji.hr/" title="Instagram">Instagram</a></dd>
+</dl>
+</div>
+</div>
+<div class="row siteInfo ">
+<div class="col-xs-12 ">
+<p><a class="jl" href="/" title="Jutarnji list">Jutarnji list</a></p>
+<ul class="family">
+<li><a class="sd" href="http://www.slobodnadalmacija.hr/" title="Slobodna Dalmacija">Slobodna Dalmacija</a></li>
+<li><a class="sn" href="http://sportske.jutarnji.hr/" title="Sportske Novosti">Sportske Novosti</a></li>
+<li><a class="sto" href="http://100posto.hr/" title="100posto">100posto</a></li>
+<li><a class="glob" href="http://www.jutarnji.hr/globus/" title="Globus">Globus</a></li>
+<li><a class="zv" href="http://zivim.hr/" title="Živim.hr">Živim.hr</a></li>
+<li><a class="glo" href="http://www.gloria.hr/" title="Gloria">Gloria</a></li>
+<li><a class="dh" href="http://www.jutarnji.hr/dobrahrana/" title="Dobra hrana">Dobra hrana</a></li>
+<li><a class="did" href="http://www.jutarnji.hr/domidizajn/" title="Dom &amp; Dizajn">Dom &amp; Dizajn</a></li>
+<li><a class="ak" href="http://www.jutarnji.hr/autoklub/" title="Autoklub">Autoklub</a></li>
+<li><a class="ok" href="http://okjeok.hr/" title="ok!">ok!</a></li>
+<li><a class="ds" href="https://www.dosi.hr/" title="Dosi">Dosi</a></li>
+<li><a class="dv" href="http://dubrovacki.hr/" title="Dubrovacki Vjesnik">Dubrovacki Vjesnik</a></li>
+<li><a class="zd" href="http://www.zadarski.hr/" title="Zadarski">Zadarski</a></li>
+<li><a class="lc" href="http://www.likecroatia.com/" title="LikeCroatia">LikeCroatia</a></li>
+</ul>
+<ul class=" legal">
+<li class="">
+<a href="https://www.jutarnji.hr/Opci-uvjeti/">
+Opæi uvjeti korištenja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-prenosenja-sadrzaja/">
+Pravila prenošenja sadržaja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Zastita-privatnosti/">
+Zaštita privatnosti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-komentiranja/">
+Pravila komentiranja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Impressum/">
+Impressum
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Kontakt/">
+Kontakt
+</a>
+</li>
+<li class="">
+<a href="http://apps.jutarnji.hr/HM-Digital-Cjenik.pdf" target="_blank">
+Oglašavanje
+</a>
+</li>
+</ul>
+<p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
+</div>
+</div>
+</div>
+</footer>
+<script>
+function fbCommentGA() {
+FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'Facebook Comment', 'Posted', window.location.href, 1);
+});
+}
+window.onload = fbCommentGA;
+</script>
+<!-- Midas Pixel Code -->
+<img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
+<!-- DO NOT MODIFY -->
+<!-- End Midas Pixel Code -->
+<script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
+<div id="jl-floater-wrapper" class="jl-floater-wrapper">
+<div id="jl-float" class="jl-floater">
+<!-- /11425286/jl_floater -->
+<div id='div-gpt-ad-1459756830165-6'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-6"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-6'); });
+}
+</script>
+</div>
+</div>
+</div>
+<div id="jl-wallpaper-wrapper" class="jl-wallpaper-wrapper">
+<div id="jl-wallpaper" class="jl-wallpaper">
+<!-- /11425286/jl_wp -->
+<div id='div-gpt-ad-1459756830165-10'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-10"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-10'); });
+}
+</script>
+</div> </div>
+</div>
+<div class="hidden-xs ">
+<div id="side-article-widget" class="side-article-widget" style="display: none;">
+<div class="clearfix">
+<div class="pull-left side-article-column">
+<a href="https://100posto.hr/bubble/moja-srednjoskolska-ljubav-napisao-sam-joj-ljubavno-pismo-ali-nikad-nisam-dobio-odgovor?utm_campaign=internal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<div class="side-article clearfix">
+<div class="pull-left side-article-image">
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1528717139tin1.jpg?v=1528717183" />
+</div>
+<div class="pull-right side-article-text-wrapper">
+<div class="side-article-text">
+<h4>MILENIJALSKI FRIENDZONE/Moja srednjoškolska ljubav: Napisao sam joj ljubavno pismo, ali nikad nisam dobio odgovor</h4>
+<hr class="side-article-hr" />
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="pull-right side-control-column">
+<div class="side-control">
+<a href="#" class="side-button" data-status="open">&#9658;</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+$('#side-article-widget a.side-button').click(function (event) {
+event.preventDefault();
+var status = $(this).attr('data-status');
+if (status === 'open') {
+$('.side-article-column').fadeOut('fast');
+$(this).attr('data-status', 'close');
+$(this).html('&#9664;');
+} else {
+$('.side-article-column').fadeIn('fast');
+$(this).attr('data-status', 'open');
+$(this).html('&#9658;');
+}
+});
+$(window).scroll(function (event) {
+var turnOnHeight = 1500;
+var scrolled = $(window).scrollTop();
+if (scrolled > turnOnHeight) {
+$('#side-article-widget').fadeIn('fast');
+} else {
+$('#side-article-widget').fadeOut('fast');
+}
+});
+});
+</script>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=165&contextPath=1-85-165-&pubId=1&cat=&meta=read-story&objId=7461012&type=article&title=NOVI+%c5%a0PANJOLSKI+PREMIJER+KLJU%c4%8cNU+LEKCIJU+NAU%c4%8cIO+JE+U+BiH+%26%23039%3bSada+primjenjuje+ono+%c5%a1to+je+nau%c4%8dio+od+starog+lisca.+Stra%c5%benjica+od+%c5%beeljeza+tijekom+pregovora%26%23039%3b&url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-svijet%2fnovi-spanjolski-premijer-kljucnu-lekciju-naucio-je-u-bih-sada-primjenjuje-ono-sto-je-naucio-od-starog-lisca-straznjica-od-zeljeza-tijekom-pregovora%2f7461012%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=165&amp;contextPath=1-85-165-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7461012&amp;type=article&amp;title=NOVI+%c5%a0PANJOLSKI+PREMIJER+KLJU%c4%8cNU+LEKCIJU+NAU%c4%8cIO+JE+U+BiH+%26%23039%3bSada+primjenjuje+ono+%c5%a1to+je+nau%c4%8dio+od+starog+lisca.+Stra%c5%benjica+od+%c5%beeljeza+tijekom+pregovora%26%23039%3b&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fglobus%2fGlobus-svijet%2fnovi-spanjolski-premijer-kljucnu-lekciju-naucio-je-u-bih-sada-primjenjuje-ono-sto-je-naucio-od-starog-lisca-straznjica-od-zeljeza-tijekom-pregovora%2f7461012%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-165-&cat=jltags%40eph.hr%2c2016&objId=1705779849&title=Pedro+Sanchez&url=tag%3ajltags%40eph.hr%2c2016%3aPedro_Sanchez&rt=1&ctxId=165&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-85-165-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=1705779849&amp;title=Pedro+Sanchez&amp;url=tag%3ajltags%40eph.hr%2c2016%3aPedro_Sanchez&amp;rt=1&amp;ctxId=165&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"media.jwplayer.hls.enabled":"true","audioPlayer":"mediaelement","media.jwplayer.sharing.enabled":"true","lc.liveLoading.pollingInterval":"5","media.jwplayer.ga.enabled":"true","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","media.jwplayer.options.primary":"flash","videoPlayer":"flowplayer"};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "https://www.jutarnji.hr/";
+/* Client-side device detection */
+var WFClientTypeDef = {"small":"(max-width: 767px)","large":"(min-width: 992px)","medium":"(min-width: 768px) and (max-width: 991px)"};
+var imageSizes = [80, 180, 280, 380, 480, 580, 680, 780, 880, 980, 1080, 1180];
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+</script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style")
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+)
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/jquery-1.10.2.min.js"></script>
+<script>(function ($, d) {
+$.each(readyQ, function (i, f) {
+$(f)
+});
+$.each(bindReadyQ, function (i, f) {
+$(d).bind("ready", f)
+})
+})(jQuery, document)</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/wf-site.65c4eb6cf51818ab41250bfab36dff26.js"></script>
+<script type="text/javascript">
+require(['https://www.jutarnji.hr/static/js/holder.js'], function () {});
+</script>
+<script>
+var _ain = {};
+$(function() {
+$
+.ajax({
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/globus/Globus-svijet/novi-spanjolski-premijer-kljucnu-lekciju-naucio-je-u-bih-sada-primjenjuje-ono-sto-je-naucio-od-starog-lisca-straznjica-od-zeljeza-tijekom-pregovora/7461012/',
+dataType : 'jsonp',
+success : function(data) {
+var commentsCount = 0;
+if (typeof data.comments != 'undefined') {
+commentsCount = data.comments;
+}
+/* CONFIGURATION START */
+_ain = {
+id : "1247",
+url : "https://www.jutarnji.hr/globus/Globus-svijet/novi-spanjolski-premijer-kljucnu-lekciju-naucio-je-u-bih-sada-primjenjuje-ono-sto-je-naucio-od-starog-lisca-straznjica-od-zeljeza-tijekom-pregovora/7461012/",
+postId : "7461012",
+maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
+title : "NOVI ŠPANJOLSKI PREMIJER KLJUÈNU LEKCIJU NAUÈIO JE U BiH 'Sada primjenjuje ono što je nauèio od starog lisca. Stražnjica od željeza tijekom pregovora'",
+pubdate : "2018-06-11 14:50",
+authors : "Miho Dobrašin",
+sections : "Front Page, Globus, Svijet",
+tags : "Pedro Sanchez",
+comments : commentsCount.toString()
+};
+/* CONFIGURATION END */
+(function(d, s) {
+var sf = d.createElement(s);
+sf.type = 'text/javascript';
+sf.async = true;
+sf.src = (('https:' == d.location.protocol) ? 'https://d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com'
+: 'http://t.contentinsights.com')
++ '/stf.js';
+var t = d.getElementsByTagName(s)[0];
+t.parentNode.insertBefore(sf, t);
+})(document, 'script');
+}
+});
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,1901 @@
+
+
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,height=device-height, initial-scale=1.0">
+    <title>Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog - Index.hr</title>
+    <!--todo: remove on production-->
+    <meta name="description" content="PRVAK BOSNE I HERCEGOVINE potvrdio je da je Bla&#x17E; Sli&#x161;kovi&#x107; na osobni zahtjev odstupio s pozicije &#x161;efa stru&#x10D;nog sto&#x17E;era.">
+    <meta property="fb:app_id" content="216060115209819">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Rubik:300,400,500&amp;subset=latin-ext" rel="stylesheet">
+
+    
+    
+        <link href="/Content/desktop-bundle.min.css?v=egu3v8Au-79RN7_zWnaTgHCYtuE0dtJtEs5b4bQbjpE" rel="stylesheet" />
+    
+
+    <script src="/Scripts/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript">
+        var appInsights=window.appInsights||function(config){
+            function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t
+        }({
+            instrumentationKey: 'cc5991a8-74c3-4f22-b0e4-067761b8ffdd'
+        });
+
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
+        
+    </script>
+
+
+    <!-- Google analytics tracking -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-2490832-1', 'auto');
+    </script>
+
+    <!--ad ocean-->
+    <script type="text/javascript" src="//hr.adocean.pl/files/js/ado.js"></script>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018 */
+        if (typeof ado !== "object") { ado = {}; ado.config = ado.preview = ado.placement = ado.master = ado.slave = function () { }; }
+        ado.config({ mode: "old", xml: false, characterEncoding: true });
+        ado.preview({ enabled: true });
+    </script>
+
+
+
+    <!-- Make sure this is inserted before your GPT tag -->
+    <script type="text/javascript" src="//ads.rubiconproject.com/prebid/16666.js"></script>
+
+
+    <script>
+
+    var PREBID_TIMEOUT = 2000;
+    var adUnits = [{
+        code: 'div-gpt-ad-1519642151413-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209251"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918716'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '59',
+                siteID: '268221'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192147"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642588872-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209252"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918718'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '60',
+                siteID: '268222'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192155"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642696832-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209254"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918722'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '61',
+                    siteID: '268223'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192159"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519644719256-0',
+        sizes: [[970, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209255"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918724'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '62',
+                    siteID: '268224'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192166"
+            }
+        }]
+    }];
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    pbjs.bidderSettings = {
+        rubicon: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        criteo: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        indexExchange: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        appnexus: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        }
+    };
+
+    const customPrebidGranularity = {
+        "buckets": [
+            {
+                "min": 0,
+                "max": 100,
+                "increment": 0.1
+            }
+        ]
+    };
+</script>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function () {
+        googletag.pubads().disableInitialLoad();
+    });
+
+    pbjs.que.push(function () {
+        pbjs.setPriceGranularity(customPrebidGranularity);
+        pbjs.enableSendAllBids();
+        pbjs.addAdUnits(adUnits);
+        pbjs.requestBids({
+            bidsBackHandler: sendAdserverRequest
+        });
+    });
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function () {
+            pbjs.que.push(function () {
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+
+    setTimeout(function () {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+
+</script>
+<!-- Make sure this is inserted before your GPT tag -->
+
+
+
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script>
+        googletag.cmd.push(function () {
+
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Sport_L', [300, 250], 'div-gpt-ad-1519646995801-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Sport_R', [300, 250], 'div-gpt-ad-1519647068660-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA3_Sport', [[300, 250], [300, 600]], 'div-gpt-ad-1519647461830-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA4_Sport', [[970, 90], [970, 250], [728, 90]], 'div-gpt-ad-1519647780824-0').addService(googletag.pubads());
+googletag.defineSlot('/5968637/2DIA', [[760, 150], [760, 200], [300, 250]], 'div-gpt-ad-1524557626556-0').addService(googletag.pubads());            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+
+    <script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+
+    <!-- Hotjar Tracking Code for http://www.index.hr -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 447571, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    
+    <link href="/Content/bootstrap-rating.css" rel="stylesheet" />
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <link rel="canonical" href="http://www.index.hr/sport/clanak/baka-sliskovic-vise-nije-trener-zrinjskog/2003746.aspx">
+    <link rel="alternate" href="http://www.index.hr/mobile/clanak.aspx?category=sport&amp;id=2003746">
+    <link rel="amphtml" href="http://amp.index.hr/article/2003746/baka-sliskovic-vise-nije-trener-zrinjskog">
+
+    <meta property="og:type" content="article" />
+
+    <meta property="og:title" content="Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog" />
+    <meta property="og:image" content="http://www.index.hr/clanak/fb_image/2003746?v=321ab12f-9f7b-493d-ada2-b3d95a63e8f6" />
+
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="800" />
+
+    <meta property="og:description" content="PRVAK BOSNE I HERCEGOVINE potvrdio je da je Bla&#x17E; Sli&#x161;kovi&#x107; na osobni zahtjev odstupio s pozicije &#x161;efa stru&#x10D;nog sto&#x17E;era." />
+
+    
+
+
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog",
+    "url": "http://www.index.hr/sport/clanak/baka-sliskovic-vise-nije-trener-zrinjskog/2003746.aspx",
+    "description": "Description.",
+    "breadcrumb":{
+    "@type":"BreadcrumbList",
+    "itemListElement":[
+    {
+    "@type":"ListItem",
+    "position":"1",
+    "item":{
+    "@type":"WebSite",
+    "@id":"http://www.index.hr",
+    "name":"Index.hr"
+    }
+    },
+    {
+    "@type":"ListItem",
+    "position":"2",
+    "item":{
+    "@type":"WebPage",
+    "@id":"www.index.hr/sport",
+    "name":"Sport"
+    }
+    },
+
+        {
+        "@type":"ListItem",
+        "position":"3",
+        "item":{
+        "@type":"WebPage",
+        "@id":"http://www.index.hr/sport/rubrika/nogomet/1638.aspx",
+        "name":"Nogomet"
+        }
+        },
+            {
+    "@type":"ListItem",
+    "position":"4",
+    "item":{
+    "@type":"WebPage",
+    "@id":"http://www.index.hr/sport/clanak/baka-sliskovic-vise-nije-trener-zrinjskog/2003746.aspx",
+    "name":"Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog"
+    }
+    }
+    ]},
+    "mainEntity": {
+    "@type": "NewsArticle",
+    "@id": "http://www.index.hr/sport/clanak/baka-sliskovic-vise-nije-trener-zrinjskog/2003746.aspx",
+    "name" : "Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog",
+    "mainEntityOfPage": {
+    "@type": "WebSite",
+    "@id": "http://www.index.hr/"
+    },
+    "author" : {
+    "@type" : "Person",
+    "name" : "Z.A."
+    },
+    "datePublished" : "2018-06-11T13:13",
+    "dateModified" : "2018-06-11T13:13",
+    "headline" : "Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://ip.index.hr/remote/indexnew.s3.index.hr/blaz_sliskovic_zrinjski.jpg",
+    "height": "800",
+    "width": "1200"
+    },
+    "url" : "http://www.index.hr/sport/clanak/baka-sliskovic-vise-nije-trener-zrinjskog/2003746.aspx",
+    "description": "PRVAK BOSNE I HERCEGOVINE potvrdio je da je Bla&#x17E; Sli&#x161;kovi&#x107; na osobni zahtjev odstupio s pozicije &#x161;efa stru&#x10D;nog sto&#x17E;era.",
+    "publisher": {
+    "@type": "Organization",
+    "name": "Index.hr",
+    "url" : "http://wwww.index.hr",
+    "logo": {
+    "@type" : "ImageObject",
+    "url" : "http://dev.index.hr/Content/img/logo/index_logo_112x112.png"
+    },
+    "sameAs": [
+    "https://www.facebook.com/index.hr/",
+    "https://twitter.com/indexhr",
+    "https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA"
+    ]
+    }
+    }
+    }
+</script>
+
+</head>
+<body>
+    
+
+    
+    <div class="cookie-consent-container">
+        <div class="main-container flex">
+            <div class="description">
+                U skladu s novom europskom regulativom, Index.hr je nadogradio politiku privatnosti i korištenja kolaèiæa.
+                Kolaèiæe upotrebljavamo kako bismo vam omoguæili korištenje naše online usluge, što bolje korisnièko iskustvo i funkcionalnost naših web stranica,
+                prikaz reklamnih sadržaja i ostale funkcionalnosti koje inaèe ne bismo mogli pružati.
+                Daljnjim korištenjem naše web stranice, suglasni ste s korištenjem kolaèiæa. <a href="/cookie-consent">Više informacija</a>
+            </div>
+            <div class="btn-agree main-bg main-bg-hover" onclick="closeCookieConsent()">Razumijem</div>
+        </div>
+    </div>
+    <script>
+        function closeCookieConsent() {
+            $('.cookie-consent-container').remove();
+            ga('send', 'event', "cookie_consent");
+        }
+    </script>
+
+
+
+    <div id="fb-root"></div>
+    <script>
+        var finished_rendering = function () {
+            $(".fb-loader").addClass("display-none");
+        }
+
+        window.fbAsyncInit = function () {
+            FB.Event.subscribe('xfbml.render', finished_rendering);
+        };
+
+        (function (d, s, id) {
+            var js;
+            const fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.10&appId=216060115209819";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+
+
+    <div class="main-container no-padding main-content-bg">
+        <div id='crt-1130728' style="width:728px;height:90px;" class="ad-ocean-billboard top"></div>
+        <script>
+            var Criteo = Criteo || {};
+            Criteo.events = Criteo.events || [];
+            Criteo.events.push(function () {
+                Criteo.DisplayAcceptableAdIfAdblocked({
+                    "zoneid": 1130728,
+                    "containerid": "crt-1130728",
+                    "overrideZoneFloor": false
+                });
+            });
+            window.addEventListener("message", function (e) {
+                if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130728') {
+                    document.getElementById("crt-1130728").style.display = "none";
+                } else {
+                    return;
+                }
+            }, false);
+        </script>
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, MASTER: index_hr.Index.hr.desktop.Sport */
+        ado.master({ id: 'Xq9KBYXk8xViBL2m4zb7lzIWw57.w9JTkZuGz2zo6Hr.U7', server: 'hr.adocean.pl' });
+    </script>
+
+<div class="ad-ocean-billboard top">
+                                    <div id="adoceanhrogkegsjiqg"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Sport.Billboard1 */
+            ado.slave('adoceanhrogkegsjiqg', { myMaster: 'Xq9KBYXk8xViBL2m4zb7lzIWw57.w9JTkZuGz2zo6Hr.U7' });</script>
+    </div>
+<div class="ad-ocean-wallpaper">
+                                    <div id="adoceanhrzllrnooicf"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Sport.Wallpaper */
+            ado.slave('adoceanhrzllrnooicf', { myMaster: 'Xq9KBYXk8xViBL2m4zb7lzIWw57.w9JTkZuGz2zo6Hr.U7' });
+        </script>
+    </div>
+<div class="ad-ocean-wallpaper">
+                                    <div id="adoceanhrkmitmqejfc"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Sport.Ticker */
+            ado.slave('adoceanhrkmitmqejfc', { myMaster: 'Xq9KBYXk8xViBL2m4zb7lzIWw57.w9JTkZuGz2zo6Hr.U7' });
+        </script>
+    </div>
+    </div>
+
+    
+
+
+<header class="main-menu-container">
+    <div class="float-menu" menu-fix-top>
+        <div class="main-container clearfix">
+            <div class="main-menu">
+
+                <h1 class="logo sport-bg">
+                    <a class="home-btn homepage-link" href="/" title="index.hr"> </a>
+                    <a class="home-btn category-link" href="/main" title="index.hr"> </a>
+                    <img class="main" src="/Content/img/logo/index_main.svg" alt="index.hr" />
+                    <img class="small" src="/Content/img/logo/paprika_logo.svg" alt="index.hr" />
+                </h1>
+                <nav class="menu-holder clearfix">
+                    <ul>
+                        <li><a class="main-text-hover no-drop " href="/"> Naslovnica</a></li>
+                            <li>
+                                <a class="vijesti-text-hover  " href="/vijesti">
+                                    Vijesti
+                                </a>
+                            </li>
+                            <li>
+                                <a class="sport-text-hover sport-text " href="/sport">
+                                    Sport
+                                </a>
+                            </li>
+                            <li>
+                                <a class="magazin-text-hover  " href="/magazin">
+                                    Magazin
+                                </a>
+                            </li>
+                            <li>
+                                <a class="oglasi-text-hover  " href="http://www.index.hr/oglasi/">
+                                    Oglasi
+                                </a>
+                            </li>
+                        <li class="menu-ostalo">
+                            <span class="expandable">Ostalo</span>
+                            <ul class="dropdown-content ostalo display-none">
+                                    <li class="lajkhr-bg-hover">
+
+                                        <a href="http://www.index.hr/lajk/">Lajk.hr</a>
+                                    </li>
+                                    <li class="rouge-bg-hover">
+
+                                        <a href="/rouge">Rouge</a>
+                                    </li>
+                                    <li class="auto-bg-hover">
+
+                                        <a href="/auto">Auto</a>
+                                    </li>
+                                    <li class="mame-bg-hover">
+
+                                        <a href="/mame">Mame</a>
+                                    </li>
+                                    <li class="ljubimci-bg-hover">
+
+                                        <a href="/ljubimci">Ljubimci</a>
+                                    </li>
+                                    <li class="fit-bg-hover">
+
+                                        <a href="/fit">Fit</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="http://www.index.hr/indexforum/">Forum</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tecaj">Te&#x10D;aj</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tv">TV program</a>
+                                    </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="right-part">
+                        <li><a href="https://www.facebook.com/index.hr/" target="_blank"><i class="index-facebook"></i></a></li>
+                        <li><a href="/trazi.aspx" class="btn-open-search"><i class="index-magnifier"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="main-container">
+        <div class="sub-menu-holder">
+            <nav class="sub-menu clearfix">
+                    <a class="sub-menu-item sport-border-bottom " href="/sport">Sport</a>
+                    <a class="sub-menu-item sport-border-bottom " href="/najnovije?kategorija=150">Najnovije</a>
+                    <a class="sub-menu-item sport-border-bottom " href="/najcitanije?kategorija=150">Naj&#x10D;itanije</a>
+                    <a class="sub-menu-item sport-border-bottom active" href="/sport/rubrika/nogomet/1638.aspx">Nogomet</a>
+                    <a class="sub-menu-item sport-border-bottom " href="/sport/rubrika/kosarka/1639.aspx">Ko&#x161;arka</a>
+                    <a class="sub-menu-item sport-border-bottom " href="/sport/rubrika/tenis/1640.aspx">Tenis</a>
+                    <a class="sub-menu-item sport-border-bottom " href="/sport/rubrika/ostali-sportovi/1641.aspx">Ostali sportovi</a>
+                    <a class="sub-menu-item sport-border-bottom " href="/sport/rubrika/komentari/1738.aspx">Komentari</a>
+                    <a class="sub-menu-item sport-border-bottom " href="/sport/rubrika/borilacki-sportovi/1662.aspx">Borila&#x10D;ki sportovi</a>
+                    <a class="sub-menu-item sport-border-bottom " href="/sport/rubrika/esport/1731.aspx">E-Sport</a>
+            </nav>
+            <div class="scroll-arrows">
+                <div class="navigation-arrow left-arrow disabled sport-text-hover"><i class="index-arrow-left"></i></div>
+                <div class="navigation-arrow right-arrow disabled sport-text-hover"><i class="index-arrow-right"></i></div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<style>
+    .main-container {
+        max-width: 1140px;
+    }
+</style>
+
+<article class="article-container">
+    <div class="article-header-code">
+        
+    </div>
+    <div class="article-holder main-container main-content-bg">
+        <div class="article-title-holder">
+            <h1 class="sport-text-parsed title">Baka Sliškoviæ više nije trener Zrinjskog</h1>
+            <div class="article-info clearfix">
+                <div class="author-holder">
+                    <span class="author">Z.A.</span>
+                    <span class="time ">
+                        <time timeago datetime="2018-06-11 13:13:00"></time>
+                    </span>
+                </div>
+                <div class="social-holder clearfix">
+                    <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003746" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003746">
+                        <i class="index-facebook"></i>
+                        <span class="share-count">0</span>
+                    </div>
+
+                    <div class="other"><i class="index-share"></i></div>
+                    
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003746" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003746&via=indexhr&text=Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003746" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003746&media=https://ip.index.hr/remote/indexnew.s3.index.hr/blaz_sliskovic_zrinjski.jpg&description=Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003746" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003746" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003746" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003746&title=Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog&summary=PRVAK BOSNE I HERCEGOVINE potvrdio je da je Bla&#x17E; Sli&#x161;kovi&#x107; na osobni zahtjev odstupio s pozicije &#x161;efa stru&#x10D;nog sto&#x17E;era.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003746" href="mailto:?subject=Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog&body=http://www.index.hr/clanak.aspx?id=2003746" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="top-part flex">
+            <div class="left-part">
+                    <figure class="img-container">
+                        <div class="blur-img-holder" style="padding-bottom: 66.67%;" data-large="https://ip.index.hr/remote/indexnew.s3.index.hr/blaz_sliskovic_zrinjski.jpg?width=765&height=510">
+                            <img class="img-responsive img-small" src="https://ip.index.hr/remote/indexnew.s3.index.hr/blaz_sliskovic_zrinjski.jpg?width=30" alt="Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog" />
+                        </div>
+                            <figcaption class="main-img-desc clearfix">
+                                <span></span>
+
+                                    <span class="credits">Foto: Zrinjski Mostar</span>
+                            </figcaption>
+                    </figure>
+                <div class="content-holder">
+                    <div class="ad-ocean-in-article">
+                                <div id="adoceanhrmlelkreueg"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Sport.InArticle */
+            ado.slave('adoceanhrmlelkreueg', { myMaster: 'Xq9KBYXk8xViBL2m4zb7lzIWw57.w9JTkZuGz2zo6Hr.U7' });
+        </script>
+    </div>
+                    <div class="text-holder">
+                        <div class="text">
+                            <p>PRVAK BOSNE I HERCEGOVINE potvrdio je da je Blaž Sli&scaron;koviæ na osobni zahtjev odstupio s pozicije &scaron;efa struènog stožera.</p>
+
+
+<p>&quot;Cijeneæi sve &scaron;to je Blaž Sli&scaron;koviæ uradio za na&scaron; klub, posebno u protekle dvije sezone u kojima je momèad odveo do dva naslova prvaka, H&Scaron;K Zrinjski je odluèio uvažiti njegov zahtjev te mu najiskrenije zahvaliti na velikom doprinosu koji je ugradio u posljednje uspjehe.</p>
+
+
+<p>Zbog svega toga Blaž Sli&scaron;koviæ æe dobiti novu funkciju u sportskom segmentu kluba, s otvorenom opcijom odlaska u sluèaju pronalaska novog angažmana.</p>
+
+
+<p>H&Scaron;K Zrinjski æe javnost blagovremeno obavijestiti o izboru novog &scaron;efa struènog stožera&quot;, navodi klub u službenom priopæenju.</p>
+<!-- /5968637/2DIA -->
+<div id="div-gpt-ad-1524557626556-0" class="dfp-inarticle">
+    <span class="ad-unit-text">Tekst se nastavlja ispod oglasa</span>
+    <script>
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1524557626556-0'); });
+    </script>
+</div>
+
+
+
+<p>Baka (59) je tijekom treæe gaže u Zrinjskom, u poljednje dvije godine osvojio oba naslova prvaka, nakon èega je vi&scaron;e puta izjavio da bi volio trenirati klub iz jaèe inozemne lige.&nbsp;</p>
+
+
+<p>Dosad je u inozemstvu vodio klubove u Hrvatskoj, Albaniji, Rumunjskoj, Saudijskoj Arabiji i Kini. &nbsp;</p>
+
+
+<p><iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="721" scrolling="no" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhsk.zrinjski%2Fposts%2F10160427434175023&amp;width=500" style="border:none;overflow:hidden" width="500"></iframe></p>
+
+
+                        </div>
+                        <div class="article-report-container">
+                            <div class="article-report-trigger" data-article-id="2003746">Znate li nešto više o temi ili želite prijaviti grešku u tekstu?</div>
+                            <div class="report-holder display-none">
+                                <div class="loading-container">
+                                    <span class="img-helper"></span>
+                                    <img src="/Content/img/loader_40px.gif" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="reactions-container clearfix">
+                            <div class="social-holder social-bottom clearfix">
+                                <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003746" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003746">
+                                    <i class="index-facebook"></i>
+                                    <span class="share-count">0</span>
+                                </div>
+                                <div class="other"><i class="index-share"></i></div>
+                                
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003746" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003746&via=indexhr&text=Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003746" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003746&media=https://ip.index.hr/remote/indexnew.s3.index.hr/blaz_sliskovic_zrinjski.jpg&description=Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003746" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003746" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003746" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003746&title=Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog&summary=PRVAK BOSNE I HERCEGOVINE potvrdio je da je Bla&#x17E; Sli&#x161;kovi&#x107; na osobni zahtjev odstupio s pozicije &#x161;efa stru&#x10D;nog sto&#x17E;era.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003746" href="mailto:?subject=Baka Sli&#x161;kovi&#x107; vi&#x161;e nije trener Zrinjskog&body=http://www.index.hr/clanak.aspx?id=2003746" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                            </div>
+                        </div>
+
+
+
+<div class="tags-holder">
+        <a href="/tag/28831/blaz-sliskovic.aspx" class="sport-bg-hover tag-item">
+            <span class="sport-text hashtag">#</span>bla&#x17E; sli&#x161;kovi&#x107;
+        </a>
+        <a href="/tag/77876/zrinjski.aspx" class="sport-bg-hover tag-item">
+            <span class="sport-text hashtag">#</span>zrinjski
+        </a>
+        <a href="/tag/185311/regija.aspx" class="sport-bg-hover tag-item">
+            <span class="sport-text hashtag">#</span>regija
+        </a>
+</div>                    </div>
+                    <div class="clearfix ad-holder">
+                        <div class="float-left">
+                            
+
+
+
+
+
+
+    <!-- /5968637/2DA_Sport_L -->
+    <div id='div-gpt-ad-1519646995801-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519646995801-0'); });
+        </script>
+    </div>
+
+
+                        </div>
+                        <div class="float-right">
+                            
+
+
+
+
+
+
+    <!-- /5968637/2DA_Sport_R -->
+    <div id='div-gpt-ad-1519647068660-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647068660-0'); });
+        </script>
+    </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <aside class="right-part">
+                <div id='crt-1130726' style="width:300px;height:250px;"></div>
+                <script>
+                    var Criteo = Criteo || {};
+                    Criteo.events = Criteo.events || [];
+                    Criteo.events.push(function () {
+                        Criteo.DisplayAcceptableAdIfAdblocked({
+                            "zoneid": 1130726,
+                            "containerid": "crt-1130726",
+                            "overrideZoneFloor": false
+                        });
+                    });
+                    window.addEventListener("message", function (e) {
+                        if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130726') {
+                            document.getElementById("crt-1130726").style.display = "none";
+                        } else {
+                            return;
+                        }
+                    }, false);
+                </script>
+
+                <div class="ad-ocean-box">
+                    
+                        <div id="adoceanhrviphqjhgev"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Sport.Box1 */
+        ado.slave('adoceanhrviphqjhgev', { myMaster: 'Xq9KBYXk8xViBL2m4zb7lzIWw57.w9JTkZuGz2zo6Hr.U7' });</script>
+
+                </div>
+
+
+                
+
+
+<div class="home-cube-big-timeline">
+    <ul class="nav timeline-tab" timeline-tab role="tablist" data-category="sport" data-category-id="150">
+        <li role="presentation" class="active latest"><a href="#tab-content-latest" aria-controls="tab-content-latest" role="tab" data-toggle="tab"> Najnovije</a></li>
+        <li role="presentation" class="most-read"><a href="#tab-content-most-read" aria-controls="tab-content-most-read" role="tab" data-toggle="tab"> Najèitanije</a></li>
+        <li role="presentation" class="related"><a href="#tab-content-related" data-id="tab-content-related" aria-controls="tab-content-related" role="tab" data-toggle="tab"> Vezano</a></li>
+        <hr class="sport-bg" />
+    </ul>
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-content-latest">
+            
+
+
+    <div class="timeline-content latest">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center sport-text">
+                        <span class="num">12</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/jedan-od-bitnijih-igraca-reprezentacije-bih-napravio-jako-neobican-transfer/2003885.aspx">
+                            Jedan od bitnijih igraèa reprezentacije BiH napravio jako neobièan transfer
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center sport-text">
+                        <span class="num">22</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/procurile-snimke-medju-prvima-pogledajte-kako-izgleda-nova-fifa/2003877.aspx">
+                            Procurile snimke: Meðu prvima pogledajte kako izgleda nova FIFA
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">1</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/prvi-trening-u-rusiji-modric-i-drustvo-razbili-one-koji-im-zele-uzeti-mjesto/2003866.aspx">
+                            Prvi trening u Rusiji: Modriæ i društvo razbili one koji im žele uzeti mjesto
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">1</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/pivaric-otkrio-sto-je-dalic-promijenio-u-reprezentaciji/2003874.aspx">
+                            Pivariæ otkrio što je Daliæ promijenio u reprezentaciji
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">1</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/mozete-li-zamisliti-igranje-videoigara-bez-racunala-i-konzola/2003837.aspx">
+                            Možete li zamisliti igranje videoigara bez raèunala i konzola?
+                        </a>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najnovije?kategorija=150">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-most-read">
+            
+
+
+    <div class="timeline-content most-read">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center sport-text">
+                        <span class="num">1</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/hrvatska-za-nigeriju-ovo-je-sastav-koji-dalic-priprema-za-otvaranje-spa/2003689.aspx">
+                            Hrvatska za Nigeriju: Ovo je sastav koji Daliæ priprema za otvaranje SP-a
+                        </a>
+                        <div class="line" style="width: 90%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center sport-text">
+                        <span class="num">2</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/hrvatsku-u-rusiji-docekali-navijaci-pogledajte-kako-izgleda-kamp/2003686.aspx">
+                            Hrvatsku u Rusiji doèekali navijaèi: Pogledajte kako izgleda kamp
+                        </a>
+                        <div class="line" style="width: 72%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center sport-text">
+                        <span class="num">3</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/baka-sliskovic-vise-nije-trener-zrinjskog/2003746.aspx">
+                            Baka Sliškoviæ više nije trener Zrinjskog
+                        </a>
+                        <div class="line" style="width: 54%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center sport-text">
+                        <span class="num">4</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/potresna-ispovijest-australskog-reprezentativca-iz-knina-smo-pobjegli-na-traktoru-zivjeli-smo-na-konzervama-kao-psi/2003838.aspx">
+                            Potresna ispovijest australskog reprezentativca: "Iz Knina smo pobjegli na traktoru, živjeli smo na konzervama kao psi"
+                        </a>
+                        <div class="line" style="width: 36%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center sport-text">
+                        <span class="num">5</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="sport-text-hover" href="/sport/clanak/cirkus-u-montrealu-manekenka-greskom-skratila-vn-kanade-za-jedan-krug/2003711.aspx">
+                            Cirkus u Montrealu: Manekenka greškom skratila VN Kanade za jedan krug
+                        </a>
+                        <div class="line" style="width: 18%;"></div>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najcitanije?kategorija=150">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-related">
+           <img class="loading-img" src="/Content/img/loader_40px.gif" />
+        </div>
+    </div>
+</div>
+
+                <div class="separator-45"></div>
+                <div class="sticky ad-ocean-box no-margin">
+                    <div id='crt-1130727' style="width:300px;height:250px;"></div>
+                    <script>
+	                    var Criteo = Criteo || {};
+	                    Criteo.events = Criteo.events || [];
+	                    Criteo.events.push(function() {
+		                    Criteo.DisplayAcceptableAdIfAdblocked({   
+			                    "zoneid": 1130727,
+			                    "containerid": "crt-1130727",
+			                    "overrideZoneFloor" : false
+		                    });
+	                    });
+	                    window.addEventListener( "message", function (e) {
+		                    if(e.origin == (location.protocol=='https:'?'https://':'http://') + 'cas.criteo.com' && e.data == 'passback-1130727') {
+			                    document.getElementById("crt-1130727").style.display = "none";	
+		                    } else {
+			                    return;
+		                    }
+	                    }, false);
+                    </script>
+    <div id="adoceanhrsjgodxqkoq"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Sport.Box2 */
+        ado.slave('adoceanhrsjgodxqkoq', { myMaster: 'Xq9KBYXk8xViBL2m4zb7lzIWw57.w9JTkZuGz2zo6Hr.U7' });</script>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="sport slider">
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/hrvatsku-u-rusiji-docekali-navijaci-pogledajte-kako-izgleda-kamp/2003686.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/PXL_110618_20934644.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatsku u Rusiji doèekali navijaèi: Pogledajte kako izgleda kamp</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/prvi-trening-u-rusiji-modric-i-drustvo-razbili-one-koji-im-zele-uzeti-mjesto/2003866.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/H20180611000595.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Prvi trening u Rusiji: Modriæ i društvo razbili one koji im žele uzeti mjesto</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/kramaric-o-poziciji-u-pocetnih-11-ma-vise-sam-sebi-ispadam-smijesan/2003853.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kkkasdasddasd.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kramariæ o poziciji u poèetnih 11: Ma više sam sebi ispadam smiješan</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/potresna-ispovijest-australskog-reprezentativca-iz-knina-smo-pobjegli-na-traktoru-zivjeli-smo-na-konzervama-kao-psi/2003838.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/degenekMilosjapoanGetty.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Potresna ispovijest australskog reprezentativca: "Iz Knina smo pobjegli na traktoru, živjeli smo na konzervama kao psi"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/jedan-od-bitnijih-igraca-reprezentacije-bih-napravio-jako-neobican-transfer/2003885.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/cimmams.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Jedan od bitnijih igraèa reprezentacije BiH napravio jako neobièan transfer</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/francuska-odmah-po-dolasku-u-rusiju-ostala-bez-dvojice-igraca-za-prvu-utakmicu/2003848.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/umtttas.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Francuska odmah po dolasku u Rusiju ostala bez dvojice igraèa za prvu utakmicu</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/to-smo-mi-ovo-je-nas-stil-nigerijci-u-rusiju-nisu-otputovali-u-odijelima/2003822.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/niiiiigig__1528729357_80.80.46.246.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>"To smo mi, ovo je naš stil": Nigerijci u Rusiju nisu otputovali u odijelima</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/novi-svjetski-broj-1-posljednjih-10-krugova-molio-sam-se-da-bolid-izdrzi/2003864.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/broj1VettelG-EPA.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Novi svjetski broj 1: "Posljednjih 10 krugova molio sam se da bolid izdrži"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/niste-ni-culi-za-njega-a-u-barceloni-ima-odstetnu-klauzulu-od-100-milijuna-eura/2003833.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/CsGQLJtWgAAOVeY.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Niste ni èuli za njega, a u Barceloni ima odštetnu klauzulu od 100 milijuna eura</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/procurile-snimke-medju-prvima-pogledajte-kako-izgleda-nova-fifa/2003877.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/fifa19nemymarpsg.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Procurile snimke: Meðu prvima pogledajte kako izgleda nova FIFA</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/kovacic-planira-napustiti-real-ima-ponudu-velikana/2003792.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/oooookvkvk.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kovaèiæ planira napustiti Real, ima ponudu velikana</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/mozete-li-zamisliti-igranje-videoigara-bez-racunala-i-konzola/2003837.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/E3EA.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Možete li zamisliti igranje videoigara bez raèunala i konzola?</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/pivaric-otkrio-sto-je-dalic-promijenio-u-reprezentaciji/2003874.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/pivkkkas.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Pivariæ otkrio što je Daliæ promijenio u reprezentaciji</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/guslar-opjevao-bjegunca-mamica-hercegbosna-zastitu-ti-daje-prave-ljude-ona-prepoznaje/2003766.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/guslar_colak_ss.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-audio-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Guslar opjevao bjegunca Mamiæa: "Herceg-Bosna zaštitu ti daje, prave ljude ona prepoznaje..."</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/hrvatska-za-nigeriju-ovo-je-sastav-koji-dalic-priprema-za-otvaranje-spa/2003689.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kramaric_mandzukic_goran_kovacic_pixsell.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatska za Nigeriju: Ovo je sastav koji Daliæ priprema za otvaranje SP-a</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/rijeka-dovela-mladog-talenta-iz-sirokog-brijega/2003855.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/loncarRijekANKHNK.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Rijeka dovela mladog talenta iz Širokog Brijega</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/maroko-dres-koji-promovira-islam-i-kraljevsku-obitelj/2003748.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/marokoo2.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Maroko - Dres koji promovira islam i kraljevsku obitelj</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/srpski-reprezentativci-doputovali-u-rusiju-dosli-smo-u-bratsku-zemlju/2003845.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/srbijasp.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Srpski reprezentativci doputovali u Rusiju: "Došli smo u bratsku zemlju"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/cirkus-u-montrealu-manekenka-greskom-skratila-vn-kanade-za-jedan-krug/2003711.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/fdvsdfvsdfg.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Cirkus u Montrealu: Manekenka greškom skratila VN Kanade za jedan krug</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/video-ronaldo-rasplakao-djecaka-a-reakcija-portugalca-je-sve-odusevila/2003730.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/ronaldo66.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Ronaldo rasplakao djeèaka, a reakcija Portugalca je sve oduševila</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/real-iz-omiljenog-ducana-za-100-milijuna-eura-kupuje-modricevog-nasljednika/2003702.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/eriksen_modric12000epa.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Real iz omiljenog duæana za 100 milijuna eura kupuje Modriæevog nasljednika</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/spanjolski-tabloid-rakitic-je-suigracima-otkrio-da-juventus-za-njega-nudi-70-milijuna-eura/2003797.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/h_54310649.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Španjolski tabloid: Rakitiæ je suigraèima otkrio da Juventus za njega nudi 70 milijuna eura</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/panika-kod-spanjolaca-dvojica-kljucnih-igraca-upitna-za-derbi-s-portugalom/2003738.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/spanjolska_eppppppa.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Panika kod Španjolaca: Dvojica kljuènih igraèa upitna za derbi s Portugalom</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/hrvatska-stigla-u-bazu-okupljeni-navijaci-pozdravljali-reprezentativce/2003820.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/H20180611000411.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatska stigla u bazu: Okupljeni navijaèi pozdravljali reprezentativce</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/hrvatska-krenula-u-rusiju-pogledajte-ispracaj-reprezentacije/2003675.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/lovrenljubacccc.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatska krenula u Rusiju: Pogledajte ispraæaj reprezentacije</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/mladi-motociklist-poginuo-na-utrci-svjetskog-juniorskog-prvenstva/2003816.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/ppppr.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Mladi motociklist poginuo na utrci Svjetskog juniorskog prvenstva</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/emotivni-dalic-ja-bih-dao-sve-da-budemo-prvaci-svijeta-iznad-svih-hrvatska/2003691.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Zdaliic.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Emotivni Daliæ: Ja bih dao sve da budemo prvaci svijeta! Iznad svih, Hrvatska</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/samo-je-onaj-van-bastenov-volej-bio-ljepsi/2003679.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/maxiiigooooooolepa.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Samo je onaj Van Bastenov volej bio ljepši</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/legenda-arsenala-preuzela-nicu/2003806.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/vieiraNiceeFC.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Legenda Arsenala preuzela Nicu</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+
+        <div id="comments-container" class="comments-container secondary-content-bg">
+            <div class="comments-holder main-container secondary-content-bg flex">
+                <div class="left-part">
+                    
+<div class="fb-comments-holder">
+    <div class="loader fb-loader">
+        <img class="loading-img" src="/Content/img/loader_40px_grey.gif" />
+        <div class="loading-text">Uèitavanje komentara</div>
+    </div>
+    <div class="fb-comments" data-width="100%" data-href="http://www.index.hr/clanak.aspx?id=2003746" data-numposts="10" data-order-by="reverse_time"></div>
+</div>
+
+                </div>
+                <div class="right-part">
+                    <div class="sticky">
+                        
+
+
+
+
+
+
+    <!-- /5968637/2DA3_Sport -->
+    <div id='div-gpt-ad-1519647461830-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647461830-0'); });
+        </script>
+    </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="sport slider">
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/hrvatsku-u-rusiji-docekali-navijaci-pogledajte-kako-izgleda-kamp/2003686.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/PXL_110618_20934644.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatsku u Rusiji doèekali navijaèi: Pogledajte kako izgleda kamp</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/prvi-trening-u-rusiji-modric-i-drustvo-razbili-one-koji-im-zele-uzeti-mjesto/2003866.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/H20180611000595.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Prvi trening u Rusiji: Modriæ i društvo razbili one koji im žele uzeti mjesto</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/kramaric-o-poziciji-u-pocetnih-11-ma-vise-sam-sebi-ispadam-smijesan/2003853.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kkkasdasddasd.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kramariæ o poziciji u poèetnih 11: Ma više sam sebi ispadam smiješan</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/potresna-ispovijest-australskog-reprezentativca-iz-knina-smo-pobjegli-na-traktoru-zivjeli-smo-na-konzervama-kao-psi/2003838.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/degenekMilosjapoanGetty.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Potresna ispovijest australskog reprezentativca: "Iz Knina smo pobjegli na traktoru, živjeli smo na konzervama kao psi"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/jedan-od-bitnijih-igraca-reprezentacije-bih-napravio-jako-neobican-transfer/2003885.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/cimmams.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Jedan od bitnijih igraèa reprezentacije BiH napravio jako neobièan transfer</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/francuska-odmah-po-dolasku-u-rusiju-ostala-bez-dvojice-igraca-za-prvu-utakmicu/2003848.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/umtttas.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Francuska odmah po dolasku u Rusiju ostala bez dvojice igraèa za prvu utakmicu</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/to-smo-mi-ovo-je-nas-stil-nigerijci-u-rusiju-nisu-otputovali-u-odijelima/2003822.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/niiiiigig__1528729357_80.80.46.246.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>"To smo mi, ovo je naš stil": Nigerijci u Rusiju nisu otputovali u odijelima</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/novi-svjetski-broj-1-posljednjih-10-krugova-molio-sam-se-da-bolid-izdrzi/2003864.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/broj1VettelG-EPA.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Novi svjetski broj 1: "Posljednjih 10 krugova molio sam se da bolid izdrži"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/niste-ni-culi-za-njega-a-u-barceloni-ima-odstetnu-klauzulu-od-100-milijuna-eura/2003833.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/CsGQLJtWgAAOVeY.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Niste ni èuli za njega, a u Barceloni ima odštetnu klauzulu od 100 milijuna eura</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/procurile-snimke-medju-prvima-pogledajte-kako-izgleda-nova-fifa/2003877.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/fifa19nemymarpsg.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Procurile snimke: Meðu prvima pogledajte kako izgleda nova FIFA</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/kovacic-planira-napustiti-real-ima-ponudu-velikana/2003792.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/oooookvkvk.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kovaèiæ planira napustiti Real, ima ponudu velikana</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/mozete-li-zamisliti-igranje-videoigara-bez-racunala-i-konzola/2003837.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/E3EA.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Možete li zamisliti igranje videoigara bez raèunala i konzola?</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/pivaric-otkrio-sto-je-dalic-promijenio-u-reprezentaciji/2003874.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/pivkkkas.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Pivariæ otkrio što je Daliæ promijenio u reprezentaciji</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/guslar-opjevao-bjegunca-mamica-hercegbosna-zastitu-ti-daje-prave-ljude-ona-prepoznaje/2003766.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/guslar_colak_ss.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-audio-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Guslar opjevao bjegunca Mamiæa: "Herceg-Bosna zaštitu ti daje, prave ljude ona prepoznaje..."</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/hrvatska-za-nigeriju-ovo-je-sastav-koji-dalic-priprema-za-otvaranje-spa/2003689.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kramaric_mandzukic_goran_kovacic_pixsell.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatska za Nigeriju: Ovo je sastav koji Daliæ priprema za otvaranje SP-a</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/rijeka-dovela-mladog-talenta-iz-sirokog-brijega/2003855.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/loncarRijekANKHNK.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Rijeka dovela mladog talenta iz Širokog Brijega</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/maroko-dres-koji-promovira-islam-i-kraljevsku-obitelj/2003748.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/marokoo2.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Maroko - Dres koji promovira islam i kraljevsku obitelj</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/srpski-reprezentativci-doputovali-u-rusiju-dosli-smo-u-bratsku-zemlju/2003845.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/srbijasp.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Srpski reprezentativci doputovali u Rusiju: "Došli smo u bratsku zemlju"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/cirkus-u-montrealu-manekenka-greskom-skratila-vn-kanade-za-jedan-krug/2003711.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/fdvsdfvsdfg.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Cirkus u Montrealu: Manekenka greškom skratila VN Kanade za jedan krug</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/video-ronaldo-rasplakao-djecaka-a-reakcija-portugalca-je-sve-odusevila/2003730.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/ronaldo66.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Ronaldo rasplakao djeèaka, a reakcija Portugalca je sve oduševila</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/real-iz-omiljenog-ducana-za-100-milijuna-eura-kupuje-modricevog-nasljednika/2003702.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/eriksen_modric12000epa.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Real iz omiljenog duæana za 100 milijuna eura kupuje Modriæevog nasljednika</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/spanjolski-tabloid-rakitic-je-suigracima-otkrio-da-juventus-za-njega-nudi-70-milijuna-eura/2003797.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/h_54310649.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Španjolski tabloid: Rakitiæ je suigraèima otkrio da Juventus za njega nudi 70 milijuna eura</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/panika-kod-spanjolaca-dvojica-kljucnih-igraca-upitna-za-derbi-s-portugalom/2003738.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/spanjolska_eppppppa.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Panika kod Španjolaca: Dvojica kljuènih igraèa upitna za derbi s Portugalom</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/hrvatska-stigla-u-bazu-okupljeni-navijaci-pozdravljali-reprezentativce/2003820.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/H20180611000411.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatska stigla u bazu: Okupljeni navijaèi pozdravljali reprezentativce</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/hrvatska-krenula-u-rusiju-pogledajte-ispracaj-reprezentacije/2003675.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/lovrenljubacccc.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Hrvatska krenula u Rusiju: Pogledajte ispraæaj reprezentacije</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/mladi-motociklist-poginuo-na-utrci-svjetskog-juniorskog-prvenstva/2003816.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/ppppr.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Mladi motociklist poginuo na utrci Svjetskog juniorskog prvenstva</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/emotivni-dalic-ja-bih-dao-sve-da-budemo-prvaci-svijeta-iznad-svih-hrvatska/2003691.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Zdaliic.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Emotivni Daliæ: Ja bih dao sve da budemo prvaci svijeta! Iznad svih, Hrvatska</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/samo-je-onaj-van-bastenov-volej-bio-ljepsi/2003679.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/maxiiigooooooolepa.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg sport-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Samo je onaj Van Bastenov volej bio ljepši</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="sport-text-hover scale-img-hover" href="/sport/clanak/legenda-arsenala-preuzela-nicu/2003806.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/vieiraNiceeFC.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Legenda Arsenala preuzela Nicu</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+    <!-- /5968637/2DA4_Sport -->
+    <div id='div-gpt-ad-1519647780824-0' style="text-align:center; padding-bottom:50px;background:white" class="main-container">
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647780824-0'); });
+        </script>
+    </div>
+
+
+
+    <div class="article-footer-code">
+        
+    </div>
+</article>
+
+
+
+    <footer>
+        
+
+<footer class="main-footer main-container main-content-bg clearfix">
+    <a class="logo" href="/"><img class="logo-img" src="/Content/img/logo/logo_footer_196x29.svg" /></a>
+    <nav class="list-holder flex">
+        <ul>
+            <li class="heading">
+                <a class="vijesti-text-hover" href="/vijesti">
+                    Vijesti
+                </a>
+            </li>
+
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/hrvatska/22.aspx">Hrvatska</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/zagreb/1553.aspx">Zagreb</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/regija/1540.aspx">Regija</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/svijet/23.aspx">Svijet</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/znanost/1722.aspx">Znanost</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/crna-kronika/46.aspx">Crna kronika</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/komentari/1413.aspx">Komentari</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/novac/1554.aspx">Novac</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="sport-text-hover" href="/sport">
+                    Sport
+                </a>
+            </li>
+
+                <li><a class="sport-text-hover" href="/sport/rubrika/nogomet/1638.aspx">Nogomet</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/kosarka/1639.aspx">Ko&#x161;arka</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/tenis/1640.aspx">Tenis</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/ostali-sportovi/1641.aspx">Ostali sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/komentari/1738.aspx">Komentari</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/borilacki-sportovi/1662.aspx">Borila&#x10D;ki sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/esport/1731.aspx">E-Sport</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="magazin-text-hover" href="/magazin">
+                    Magazin
+                </a>
+            </li>
+
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tv-film/1525.aspx">TV &amp; Film</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/glazba/1526.aspx">Glazba</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tech-gadget/1528.aspx">Tech &amp; Gadget</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/lifestyle/1529.aspx">Lifestyle</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/showbiz/1527.aspx">Showbiz</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/zanimljivosti/1530.aspx">Zanimljivosti</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Plus
+            </li>
+            <li><a class="oglasi-text-hover" href="http://www.index.hr/oglasi/">Oglasi</a></li>
+            <li><a class="lajkhr-text-hover" href="http://www.index.hr/lajk/">Lajk.hr</a></li>
+            <li><a class="main-text-hover" href="http://www.index.hr/indexforum/">Forum</a></li>
+                <li><a class="rouge-text-hover" href="/rouge">Rouge</a></li>
+                <li><a class="auto-text-hover" href="/auto">Auto</a></li>
+                <li><a class="mame-text-hover" href="/mame">Mame</a></li>
+                <li><a class="ljubimci-text-hover" href="/ljubimci">Ljubimci</a></li>
+                <li><a class="fit-text-hover" href="/fit">Fit</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Info
+            </li>
+                <li><a class="main-text-hover" href="/info/tecaj">Te&#x10D;aj</a></li>
+                <li><a class="main-text-hover" href="/info/tv">TV program</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                PRATITE NAS
+            </li>
+            <li>
+                <a href="https://www.facebook.com/index.hr/" target="_blank" class="main-text-hover"><i class="facebook index-facebook"></i>Facebook</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA" target="_blank" class="main-text-hover"><i class="youtube index-youtube"></i>Youtube</a>
+            </li>
+            <li>
+                <a href="https://twitter.com/indexhr" target="_blank" class="main-text-hover"><i class="twitter index-twitter"></i>Twitter</a>
+            </li>
+            <li><a href="/posaljite-pricu" class="main-text-hover">Pošaljite nam prièu </a></li>
+            <li><a href="/posaljite-pricu-foto-video" class="main-text-hover">Pošaljite nam foto/video</a></li>
+        </ul>
+    </nav>
+    <ul class="impressum">
+        <li><a href="/Content/docs/cjenik_oglasavanja.pdf">Reklamirajte se</a></li>
+        <li><a href="/kontakt">Kontakt</a></li>
+        <li><a href="/impressum">Impressum</a></li>
+        <li><a href="/uvjeti-koristenja">Uvjeti korištenja</a></li>
+        <li>
+            © 2018 Index
+            <div class="fb-like" data-href="https://www.facebook.com/index.hr/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+        </li>
+    </ul>
+</footer>
+
+<script>
+    function topFunction() {
+        $("html, body").animate({ scrollTop: 0 }, 600);
+    }
+</script>
+
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.6.1/fingerprint2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+
+    
+    
+        <script src="/Scripts/desktop-bundle.min.js?v=HIF3Nf2EcYMawEUSyzqPWzJ3NYFeJXXMUZhWtD7Rk-g"></script>
+    
+
+    <!--  dotmetrics  beta - desktop   -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        (function () {
+            window.dm = window.dm || { AjaxData: [] };
+            window.dm.AjaxEvent = function (et, d, ssid, ad) {
+                dm.AjaxData.push({ et: et, d: d, ssid: ssid, ad: ad });
+                window.DotMetricsObj && DotMetricsObj.onAjaxDataUpdate();
+            };
+            var d = document,
+                h = d.getElementsByTagName('head')[0],
+                s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = document.location.protocol + '//script.dotmetrics.net/door.js?id=3743';
+            h.appendChild(s);
+        }());
+    /* ]]> */
+    </script>
+
+    
+    <script>
+        //ping old article
+        //remove later
+
+        // Google analytics custom dimensions //
+        var keywords = _.map([{"id":28831,"indexedKeyword":"blažsliškoviæ","keyWord":"blaž sliškoviæ","slug":"blaz-sliskovic","articleCount":90},{"id":77876,"indexedKeyword":"zrinjski","keyWord":"zrinjski","slug":"zrinjski","articleCount":52},{"id":185311,"indexedKeyword":"regija","keyWord":"regija","slug":"regija","articleCount":1709}], function (m) {
+            return 'keywordId-' + m.id;
+        });
+
+        var keywordsName = _.map([{"id":28831,"indexedKeyword":"blažsliškoviæ","keyWord":"blaž sliškoviæ","slug":"blaz-sliskovic","articleCount":90},{"id":77876,"indexedKeyword":"zrinjski","keyWord":"zrinjski","slug":"zrinjski","articleCount":52},{"id":185311,"indexedKeyword":"regija","keyWord":"regija","slug":"regija","articleCount":1709}], function (m) {
+            return 'keywordName-' + m.keyWord;
+        });
+
+        var authors = _.map([{"id":138}], function (m) {
+            return 'authorId-' + m.id;
+        });
+
+        var rootCategoryId = '150';
+        var articleId = '2003746';
+        var publishDate = '11.06.2018.';
+        var publishDateMetric = '1528675200';
+
+        var verificationToken = $('<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dt-641PYhxDm74AzRWcPteggqK4CnoNxwPZ5HdV_3kocq1rOMdaLzVF3FH186rBrdLdMLOqb8ypyVHALMYYHFQoDyWUcb560fbTiZ7U5AY6zmXbsedSmHp_kPKYLImyKxohjazn0KFja2rWxgl86qk" />').val();
+        var category = 'sport';
+
+        var countUpViewUrl = '/Article/CountUpView';
+        var relatedArticlesUrl = '/Article/RelatedArticles?articleId=2003746&tagId=185311&tagSlug=regija';
+
+        var reportUrl = '/article-report-form';
+
+        articleService.InitAll();
+    </script>
+
+
+    <script>
+        // Google analytics tracking
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+
+        globalDirectives.InitAll();
+
+        layoutService.InitAll();
+    </script>
+</body>
+</html>

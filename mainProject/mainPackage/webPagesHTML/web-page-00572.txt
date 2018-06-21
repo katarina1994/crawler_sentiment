@@ -1,0 +1,1382 @@
+
+
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,height=device-height, initial-scale=1.0">
+    <title>Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama - Index.hr</title>
+    <!--todo: remove on production-->
+    <meta name="description" content="LJUBITELJI mesa i povr&#x107;a s ovim receptom ne mogu pogrije&#x161;iti.">
+    <meta property="fb:app_id" content="216060115209819">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Rubik:300,400,500&amp;subset=latin-ext" rel="stylesheet">
+
+    
+    
+        <link href="/Content/desktop-bundle.min.css?v=egu3v8Au-79RN7_zWnaTgHCYtuE0dtJtEs5b4bQbjpE" rel="stylesheet" />
+    
+
+    <script src="/Scripts/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript">
+        var appInsights=window.appInsights||function(config){
+            function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t
+        }({
+            instrumentationKey: 'cc5991a8-74c3-4f22-b0e4-067761b8ffdd'
+        });
+
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
+        
+    </script>
+
+
+    <!-- Google analytics tracking -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-2490832-1', 'auto');
+    </script>
+
+    <!--ad ocean-->
+    <script type="text/javascript" src="//hr.adocean.pl/files/js/ado.js"></script>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018 */
+        if (typeof ado !== "object") { ado = {}; ado.config = ado.preview = ado.placement = ado.master = ado.slave = function () { }; }
+        ado.config({ mode: "old", xml: false, characterEncoding: true });
+        ado.preview({ enabled: true });
+    </script>
+
+
+
+    <!-- Make sure this is inserted before your GPT tag -->
+    <script type="text/javascript" src="//ads.rubiconproject.com/prebid/16666.js"></script>
+
+
+    <script>
+
+    var PREBID_TIMEOUT = 2000;
+    var adUnits = [{
+        code: 'div-gpt-ad-1519642151413-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209251"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918716'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '59',
+                siteID: '268221'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192147"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642588872-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209252"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918718'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '60',
+                siteID: '268222'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192155"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642696832-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209254"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918722'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '61',
+                    siteID: '268223'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192159"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519644719256-0',
+        sizes: [[970, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209255"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918724'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '62',
+                    siteID: '268224'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192166"
+            }
+        }]
+    }];
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    pbjs.bidderSettings = {
+        rubicon: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        criteo: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        indexExchange: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        appnexus: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        }
+    };
+
+    const customPrebidGranularity = {
+        "buckets": [
+            {
+                "min": 0,
+                "max": 100,
+                "increment": 0.1
+            }
+        ]
+    };
+</script>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function () {
+        googletag.pubads().disableInitialLoad();
+    });
+
+    pbjs.que.push(function () {
+        pbjs.setPriceGranularity(customPrebidGranularity);
+        pbjs.enableSendAllBids();
+        pbjs.addAdUnits(adUnits);
+        pbjs.requestBids({
+            bidsBackHandler: sendAdserverRequest
+        });
+    });
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function () {
+            pbjs.que.push(function () {
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+
+    setTimeout(function () {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+
+</script>
+<!-- Make sure this is inserted before your GPT tag -->
+
+
+
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script>
+        googletag.cmd.push(function () {
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Mame_L', [300, 250], 'div-gpt-ad-1519646797054-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Mame_R', [300, 250], 'div-gpt-ad-1519646845925-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA3_Mame', [[300, 250], [300, 600]], 'div-gpt-ad-1519647369338-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA4_Mame', [[970, 90], [728, 90], [970, 250]], 'div-gpt-ad-1519647688224-0').addService(googletag.pubads());
+
+
+
+
+googletag.defineSlot('/5968637/2DIA', [[760, 150], [760, 200], [300, 250]], 'div-gpt-ad-1524557626556-0').addService(googletag.pubads());            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+
+    <script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+
+    <!-- Hotjar Tracking Code for http://www.index.hr -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 447571, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    
+    <link href="/Content/bootstrap-rating.css" rel="stylesheet" />
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <link rel="canonical" href="http://www.index.hr/mame/clanak/rucak-za-svaki-dan-zapecena-piletina-s-krumpirom-i-tikvicama/2003732.aspx">
+    <link rel="alternate" href="http://www.index.hr/mobile/clanak.aspx?category=mame&amp;id=2003732">
+    <link rel="amphtml" href="http://amp.index.hr/article/2003732/rucak-za-svaki-dan-zapecena-piletina-s-krumpirom-i-tikvicama">
+
+    <meta property="og:type" content="article" />
+
+    <meta property="og:title" content="Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama" />
+    <meta property="og:image" content="http://www.index.hr/clanak/fb_image/2003732?v=3b746cf3-034f-49b5-a453-6e646a58b3c6" />
+
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="639" />
+
+    <meta property="og:description" content="LJUBITELJI mesa i povr&#x107;a s ovim receptom ne mogu pogrije&#x161;iti." />
+
+    
+
+
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama",
+    "url": "http://www.index.hr/mame/clanak/rucak-za-svaki-dan-zapecena-piletina-s-krumpirom-i-tikvicama/2003732.aspx",
+    "description": "Description.",
+    "breadcrumb":{
+    "@type":"BreadcrumbList",
+    "itemListElement":[
+    {
+    "@type":"ListItem",
+    "position":"1",
+    "item":{
+    "@type":"WebSite",
+    "@id":"http://www.index.hr",
+    "name":"Index.hr"
+    }
+    },
+    {
+    "@type":"ListItem",
+    "position":"2",
+    "item":{
+    "@type":"WebPage",
+    "@id":"www.index.hr/mame",
+    "name":"Mame"
+    }
+    },
+
+        {
+        "@type":"ListItem",
+        "position":"3",
+        "item":{
+        "@type":"WebPage",
+        "@id":"http://www.index.hr/mame/rubrika/recepti/1590.aspx",
+        "name":"Recepti"
+        }
+        },
+            {
+    "@type":"ListItem",
+    "position":"4",
+    "item":{
+    "@type":"WebPage",
+    "@id":"http://www.index.hr/mame/clanak/rucak-za-svaki-dan-zapecena-piletina-s-krumpirom-i-tikvicama/2003732.aspx",
+    "name":"Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama"
+    }
+    }
+    ]},
+    "mainEntity": {
+    "@type": "NewsArticle",
+    "@id": "http://www.index.hr/mame/clanak/rucak-za-svaki-dan-zapecena-piletina-s-krumpirom-i-tikvicama/2003732.aspx",
+    "name" : "Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama",
+    "mainEntityOfPage": {
+    "@type": "WebSite",
+    "@id": "http://www.index.hr/"
+    },
+    "author" : {
+    "@type" : "Person",
+    "name" : "S.S."
+    },
+    "datePublished" : "2018-06-11T12:03",
+    "dateModified" : "2018-06-11T12:03",
+    "headline" : "Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://ip.index.hr/remote/indexnew.s3.index.hr/41160974_l.jpg",
+    "height": "639",
+    "width": "1200"
+    },
+    "url" : "http://www.index.hr/mame/clanak/rucak-za-svaki-dan-zapecena-piletina-s-krumpirom-i-tikvicama/2003732.aspx",
+    "description": "LJUBITELJI mesa i povr&#x107;a s ovim receptom ne mogu pogrije&#x161;iti.",
+    "publisher": {
+    "@type": "Organization",
+    "name": "Index.hr",
+    "url" : "http://wwww.index.hr",
+    "logo": {
+    "@type" : "ImageObject",
+    "url" : "http://dev.index.hr/Content/img/logo/index_logo_112x112.png"
+    },
+    "sameAs": [
+    "https://www.facebook.com/index.hr/",
+    "https://twitter.com/indexhr",
+    "https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA"
+    ]
+    }
+    }
+    }
+</script>
+
+</head>
+<body>
+    
+
+    
+    <div class="cookie-consent-container">
+        <div class="main-container flex">
+            <div class="description">
+                U skladu s novom europskom regulativom, Index.hr je nadogradio politiku privatnosti i korištenja kolaèiæa.
+                Kolaèiæe upotrebljavamo kako bismo vam omoguæili korištenje naše online usluge, što bolje korisnièko iskustvo i funkcionalnost naših web stranica,
+                prikaz reklamnih sadržaja i ostale funkcionalnosti koje inaèe ne bismo mogli pružati.
+                Daljnjim korištenjem naše web stranice, suglasni ste s korištenjem kolaèiæa. <a href="/cookie-consent">Više informacija</a>
+            </div>
+            <div class="btn-agree main-bg main-bg-hover" onclick="closeCookieConsent()">Razumijem</div>
+        </div>
+    </div>
+    <script>
+        function closeCookieConsent() {
+            $('.cookie-consent-container').remove();
+            ga('send', 'event', "cookie_consent");
+        }
+    </script>
+
+
+
+    <div id="fb-root"></div>
+    <script>
+        var finished_rendering = function () {
+            $(".fb-loader").addClass("display-none");
+        }
+
+        window.fbAsyncInit = function () {
+            FB.Event.subscribe('xfbml.render', finished_rendering);
+        };
+
+        (function (d, s, id) {
+            var js;
+            const fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.10&appId=216060115209819";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+
+
+    <div class="main-container no-padding main-content-bg">
+        <div id='crt-1130728' style="width:728px;height:90px;" class="ad-ocean-billboard top"></div>
+        <script>
+            var Criteo = Criteo || {};
+            Criteo.events = Criteo.events || [];
+            Criteo.events.push(function () {
+                Criteo.DisplayAcceptableAdIfAdblocked({
+                    "zoneid": 1130728,
+                    "containerid": "crt-1130728",
+                    "overrideZoneFloor": false
+                });
+            });
+            window.addEventListener("message", function (e) {
+                if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130728') {
+                    document.getElementById("crt-1130728").style.display = "none";
+                } else {
+                    return;
+                }
+            }, false);
+        </script>
+
+
+
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, MASTER: index_hr.Index.hr.desktop.Mame */
+        ado.master({ id: 'fJP7n1Ab6BKFcZgUzUfHH.8rDcxpZabu5pHlHRYmsvT.x7', server: 'hr.adocean.pl' });
+    </script>
+
+
+
+
+
+<div class="ad-ocean-billboard top">
+                    <div id="adoceanhruhlqiuifky"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Mame.Billboard1 */
+            ado.slave('adoceanhruhlqiuifky', { myMaster: 'fJP7n1Ab6BKFcZgUzUfHH.8rDcxpZabu5pHlHRYmsvT.x7' });</script>
+                    </div>
+<div class="ad-ocean-wallpaper">
+                    <div id="adoceanhrpnmnqqnfsx"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Mame.Wallpaper */
+            ado.slave('adoceanhrpnmnqqnfsx', { myMaster: 'fJP7n1Ab6BKFcZgUzUfHH.8rDcxpZabu5pHlHRYmsvT.x7' });
+        </script>
+                    </div>
+<div class="ad-ocean-wallpaper">
+                    <div id="adoceanhrqkkggwqpqi"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Mame.Ticker */
+            ado.slave('adoceanhrqkkggwqpqi', { myMaster: 'fJP7n1Ab6BKFcZgUzUfHH.8rDcxpZabu5pHlHRYmsvT.x7' });
+        </script>
+                    </div>
+    </div>
+
+    
+
+
+<header class="main-menu-container">
+    <div class="float-menu" menu-fix-top>
+        <div class="main-container clearfix">
+            <div class="main-menu">
+
+                <h1 class="logo mame-bg">
+                    <a class="home-btn homepage-link" href="/" title="index.hr"> </a>
+                    <a class="home-btn category-link" href="/main" title="index.hr"> </a>
+                    <img class="main" src="/Content/img/logo/index_main.svg" alt="index.hr" />
+                    <img class="small" src="/Content/img/logo/paprika_logo.svg" alt="index.hr" />
+                </h1>
+                <nav class="menu-holder clearfix">
+                    <ul>
+                        <li><a class="main-text-hover no-drop " href="/"> Naslovnica</a></li>
+                            <li>
+                                <a class="vijesti-text-hover  " href="/vijesti">
+                                    Vijesti
+                                </a>
+                            </li>
+                            <li>
+                                <a class="sport-text-hover  " href="/sport">
+                                    Sport
+                                </a>
+                            </li>
+                            <li>
+                                <a class="magazin-text-hover  " href="/magazin">
+                                    Magazin
+                                </a>
+                            </li>
+                            <li>
+                                <a class="oglasi-text-hover  " href="http://www.index.hr/oglasi/">
+                                    Oglasi
+                                </a>
+                            </li>
+                        <li class="menu-ostalo">
+                            <span class="expandable">Ostalo</span>
+                            <ul class="dropdown-content ostalo display-none">
+                                    <li class="lajkhr-bg-hover">
+
+                                        <a href="http://www.index.hr/lajk/">Lajk.hr</a>
+                                    </li>
+                                    <li class="rouge-bg-hover">
+
+                                        <a href="/rouge">Rouge</a>
+                                    </li>
+                                    <li class="auto-bg-hover">
+
+                                        <a href="/auto">Auto</a>
+                                    </li>
+                                    <li class="mame-bg-hover">
+
+                                        <a href="/mame">Mame</a>
+                                    </li>
+                                    <li class="ljubimci-bg-hover">
+
+                                        <a href="/ljubimci">Ljubimci</a>
+                                    </li>
+                                    <li class="fit-bg-hover">
+
+                                        <a href="/fit">Fit</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="http://www.index.hr/indexforum/">Forum</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tecaj">Te&#x10D;aj</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tv">TV program</a>
+                                    </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="right-part">
+                        <li><a href="https://www.facebook.com/index.hr/" target="_blank"><i class="index-facebook"></i></a></li>
+                        <li><a href="/trazi.aspx" class="btn-open-search"><i class="index-magnifier"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="main-container">
+        <div class="sub-menu-holder">
+            <nav class="sub-menu clearfix">
+                    <a class="sub-menu-item mame-border-bottom " href="/mame">Mame naslovnica</a>
+                    <a class="sub-menu-item mame-border-bottom " href="/najnovije?kategorija=1545">Najnovije</a>
+                    <a class="sub-menu-item mame-border-bottom " href="/najcitanije?kategorija=1545">Naj&#x10D;itanije</a>
+                    <a class="sub-menu-item mame-border-bottom " href="/mame/rubrika/trudnoca/1585.aspx">Trudno&#x107;a</a>
+                    <a class="sub-menu-item mame-border-bottom " href="/mame/rubrika/bebe/1586.aspx">Bebe</a>
+                    <a class="sub-menu-item mame-border-bottom " href="/mame/rubrika/vrtic/1587.aspx">Vrti&#x107;</a>
+                    <a class="sub-menu-item mame-border-bottom " href="/mame/rubrika/skola/1588.aspx">&#x160;kola</a>
+                    <a class="sub-menu-item mame-border-bottom " href="/mame/rubrika/zabava/1589.aspx">Zabava</a>
+                    <a class="sub-menu-item mame-border-bottom active" href="/mame/rubrika/recepti/1590.aspx">Recepti</a>
+            </nav>
+            <div class="scroll-arrows">
+                <div class="navigation-arrow left-arrow disabled mame-text-hover"><i class="index-arrow-left"></i></div>
+                <div class="navigation-arrow right-arrow disabled mame-text-hover"><i class="index-arrow-right"></i></div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<style>
+    .main-container {
+        max-width: 1140px;
+    }
+</style>
+
+<article class="article-container">
+    <div class="article-header-code">
+        
+    </div>
+    <div class="article-holder main-container main-content-bg">
+        <div class="article-title-holder">
+            <h1 class="mame-text-parsed title">Ruèak za svaki dan: Zapeèena piletina s krumpirom i tikvicama</h1>
+            <div class="article-info clearfix">
+                <div class="author-holder">
+                    <span class="author">S.S.</span>
+                    <span class="time ">
+                        <time timeago datetime="2018-06-11 12:03:00"></time>
+                    </span>
+                </div>
+                <div class="social-holder clearfix">
+                    <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003732" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003732">
+                        <i class="index-facebook"></i>
+                        <span class="share-count">0</span>
+                    </div>
+
+                    <div class="other"><i class="index-share"></i></div>
+                    
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003732" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003732&via=indexhr&text=Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003732" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003732&media=https://ip.index.hr/remote/indexnew.s3.index.hr/41160974_l.jpg&description=Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003732" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003732" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003732" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003732&title=Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama&summary=LJUBITELJI mesa i povr&#x107;a s ovim receptom ne mogu pogrije&#x161;iti.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003732" href="mailto:?subject=Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama&body=http://www.index.hr/clanak.aspx?id=2003732" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="top-part flex">
+            <div class="left-part">
+                    <figure class="img-container">
+                        <div class="blur-img-holder" style="padding-bottom: 53.20%;" data-large="https://ip.index.hr/remote/indexnew.s3.index.hr/41160974_l.jpg?width=765&height=407">
+                            <img class="img-responsive img-small" src="https://ip.index.hr/remote/indexnew.s3.index.hr/41160974_l.jpg?width=30" alt="Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama" />
+                        </div>
+                            <figcaption class="main-img-desc clearfix">
+                                <span></span>
+
+                                    <span class="credits">123RF</span>
+                            </figcaption>
+                    </figure>
+                <div class="content-holder">
+                    <div class="ad-ocean-in-article">
+                <div id="adoceanhrsmfhntdrjy"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Mame.InArticle */
+            ado.slave('adoceanhrsmfhntdrjy', { myMaster: 'fJP7n1Ab6BKFcZgUzUfHH.8rDcxpZabu5pHlHRYmsvT.x7' });
+        </script>
+                    </div>
+                    <div class="text-holder">
+                        <div class="text">
+                            <p>LJUBITELJI mesa i povræa s ovim receptom ne mogu pogrije&scaron;iti. Osim &scaron;to je jednostavan za pripremu jer se svi sastojci peku u istoj posudi, povræe možete mijenjati ovisno o onome koje volite. Uz krumpir, to mogu biti tikvice, paprika ili mrkva.</p>
+
+
+<p><strong>Sastojci:</strong></p>
+
+
+<p>8 pileæih bataka s kožom</p>
+
+
+<p>800 g krumpira</p>
+
+
+<p>dvije tikvice</p>
+
+
+<p>èe&scaron;njak</p>
+
+
+<p>2 žlice ulja</p>
+<!-- /5968637/2DIA -->
+<div id="div-gpt-ad-1524557626556-0" class="dfp-inarticle">
+    <span class="ad-unit-text">Tekst se nastavlja ispod oglasa</span>
+    <script>
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1524557626556-0'); });
+    </script>
+</div>
+
+
+
+<p>limun</p>
+
+
+<p>crvena paprika, sol, papar, bosiljak</p>
+
+
+<p><strong>Priprema:</strong></p>
+
+
+<p>Zagrijte peænicu na 220 stupnjeva. Krumpir narežite na plo&scaron;ke i zaèinite solju i crvenom paprikom. Posložite posoljenu piletinu u posudu za peèenje. Nožem zdrobite èe&scaron;njak i poslažite oko piletine. U istu posudu dodajte i krumpir. Zalijte sve uljem i popaprite te preko svega iscijedite sok jednog limuna.&nbsp;</p>
+
+
+<p>Pecite oko 45 minuta. Izvadite posudu iz peænice i dodajte tikvice narezane na tanke rezance. Vratite u peænicu i pecite jo&scaron; 15 minuta.&nbsp;</p>
+
+
+<p>Kada je gotovo dodajte malo bosiljka i servirajte.</p>
+
+
+<p>Dobar tek!</p>
+
+
+                        </div>
+                        <div class="article-report-container">
+                            <div class="article-report-trigger" data-article-id="2003732">Znate li nešto više o temi ili želite prijaviti grešku u tekstu?</div>
+                            <div class="report-holder display-none">
+                                <div class="loading-container">
+                                    <span class="img-helper"></span>
+                                    <img src="/Content/img/loader_40px.gif" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="reactions-container clearfix">
+                            <div class="social-holder social-bottom clearfix">
+                                <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003732" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003732">
+                                    <i class="index-facebook"></i>
+                                    <span class="share-count">0</span>
+                                </div>
+                                <div class="other"><i class="index-share"></i></div>
+                                
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003732" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003732&via=indexhr&text=Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003732" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003732&media=https://ip.index.hr/remote/indexnew.s3.index.hr/41160974_l.jpg&description=Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003732" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003732" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003732" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003732&title=Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama&summary=LJUBITELJI mesa i povr&#x107;a s ovim receptom ne mogu pogrije&#x161;iti.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003732" href="mailto:?subject=Ru&#x10D;ak za svaki dan: Zape&#x10D;ena piletina s krumpirom i tikvicama&body=http://www.index.hr/clanak.aspx?id=2003732" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                            </div>
+                        </div>
+
+
+
+<div class="tags-holder">
+        <a href="/tag/37776/piletina.aspx" class="mame-bg-hover tag-item">
+            <span class="mame-text hashtag">#</span>piletina
+        </a>
+        <a href="/tag/184352/recept.aspx" class="mame-bg-hover tag-item">
+            <span class="mame-text hashtag">#</span>recept
+        </a>
+        <a href="/tag/348579/tikvice.aspx" class="mame-bg-hover tag-item">
+            <span class="mame-text hashtag">#</span>tikvice
+        </a>
+        <a href="/tag/391311/krumpiri.aspx" class="mame-bg-hover tag-item">
+            <span class="mame-text hashtag">#</span>krumpiri
+        </a>
+</div>                    </div>
+                    <div class="clearfix ad-holder">
+                        <div class="float-left">
+                            
+
+
+    <!-- /5968637/2DA_Mame_L -->
+    <div id='div-gpt-ad-1519646797054-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519646797054-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+                        </div>
+                        <div class="float-right">
+                            
+
+
+    <!-- /5968637/2DA_Mame_R -->
+    <div id='div-gpt-ad-1519646845925-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519646845925-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <aside class="right-part">
+                <div id='crt-1130726' style="width:300px;height:250px;"></div>
+                <script>
+                    var Criteo = Criteo || {};
+                    Criteo.events = Criteo.events || [];
+                    Criteo.events.push(function () {
+                        Criteo.DisplayAcceptableAdIfAdblocked({
+                            "zoneid": 1130726,
+                            "containerid": "crt-1130726",
+                            "overrideZoneFloor": false
+                        });
+                    });
+                    window.addEventListener("message", function (e) {
+                        if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130726') {
+                            document.getElementById("crt-1130726").style.display = "none";
+                        } else {
+                            return;
+                        }
+                    }, false);
+                </script>
+
+                <div class="ad-ocean-box">
+                    
+                        <div id="adoceanhrlkqtcmgtkj"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Mame.Box1 */
+        ado.slave('adoceanhrlkqtcmgtkj', { myMaster: 'fJP7n1Ab6BKFcZgUzUfHH.8rDcxpZabu5pHlHRYmsvT.x7' });</script>
+
+                </div>
+
+
+                
+
+
+<div class="home-cube-big-timeline">
+    <ul class="nav timeline-tab" timeline-tab role="tablist" data-category="mame" data-category-id="1545">
+        <li role="presentation" class="active latest"><a href="#tab-content-latest" aria-controls="tab-content-latest" role="tab" data-toggle="tab"> Najnovije</a></li>
+        <li role="presentation" class="most-read"><a href="#tab-content-most-read" aria-controls="tab-content-most-read" role="tab" data-toggle="tab"> Najèitanije</a></li>
+        <li role="presentation" class="related"><a href="#tab-content-related" data-id="tab-content-related" aria-controls="tab-content-related" role="tab" data-toggle="tab"> Vezano</a></li>
+        <hr class="mame-bg" />
+    </ul>
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-content-latest">
+            
+
+
+    <div class="timeline-content latest">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">4</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="mame-text-hover" href="/mame/clanak/mili-kunis-majcinstvo-je-promijenilo-pogled-na-zivot/2003811.aspx">
+                            Mili Kunis majèinstvo je promijenilo pogled na život
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">7</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="mame-text-hover" href="/mame/clanak/pet-savjeta-psihologinje-za-roditelje-s-izbirljivom-djecom/2003758.aspx">
+                            Pet savjeta psihologinje za roditelje s izbirljivom djecom
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">9</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="mame-text-hover" href="/mame/clanak/rucak-za-svaki-dan-zapecena-piletina-s-krumpirom-i-tikvicama/2003732.aspx">
+                            Ruèak za svaki dan: Zapeèena piletina s krumpirom i tikvicama
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">11</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="mame-text-hover" href="/mame/clanak/eva-longoria-otkrila-svoje-neobicne-trudnicke-zelje/2003690.aspx">
+                            Eva Longoria otkrila svoje neobiène trudnièke želje
+                        </a>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najnovije?kategorija=1545">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-most-read">
+            
+
+
+    <div class="timeline-content most-read">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center mame-text">
+                        <span class="num">1</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="mame-text-hover" href="/mame/clanak/rucak-za-svaki-dan-zapecena-piletina-s-krumpirom-i-tikvicama/2003732.aspx">
+                            Ruèak za svaki dan: Zapeèena piletina s krumpirom i tikvicama
+                        </a>
+                        <div class="line" style="width: 90%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center mame-text">
+                        <span class="num">2</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="mame-text-hover" href="/mame/clanak/eva-longoria-otkrila-svoje-neobicne-trudnicke-zelje/2003690.aspx">
+                            Eva Longoria otkrila svoje neobiène trudnièke želje
+                        </a>
+                        <div class="line" style="width: 68%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center mame-text">
+                        <span class="num">3</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="mame-text-hover" href="/mame/clanak/pet-savjeta-psihologinje-za-roditelje-s-izbirljivom-djecom/2003758.aspx">
+                            Pet savjeta psihologinje za roditelje s izbirljivom djecom
+                        </a>
+                        <div class="line" style="width: 46%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center mame-text">
+                        <span class="num">4</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="mame-text-hover" href="/mame/clanak/mili-kunis-majcinstvo-je-promijenilo-pogled-na-zivot/2003811.aspx">
+                            Mili Kunis majèinstvo je promijenilo pogled na život
+                        </a>
+                        <div class="line" style="width: 24%;"></div>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najcitanije?kategorija=1545">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-related">
+           <img class="loading-img" src="/Content/img/loader_40px.gif" />
+        </div>
+    </div>
+</div>
+
+                <div class="separator-45"></div>
+                <div class="sticky ad-ocean-box no-margin">
+                    <div id='crt-1130727' style="width:300px;height:250px;"></div>
+                    <script>
+	                    var Criteo = Criteo || {};
+	                    Criteo.events = Criteo.events || [];
+	                    Criteo.events.push(function() {
+		                    Criteo.DisplayAcceptableAdIfAdblocked({   
+			                    "zoneid": 1130727,
+			                    "containerid": "crt-1130727",
+			                    "overrideZoneFloor" : false
+		                    });
+	                    });
+	                    window.addEventListener( "message", function (e) {
+		                    if(e.origin == (location.protocol=='https:'?'https://':'http://') + 'cas.criteo.com' && e.data == 'passback-1130727') {
+			                    document.getElementById("crt-1130727").style.display = "none";	
+		                    } else {
+			                    return;
+		                    }
+	                    }, false);
+                    </script>
+    <div id="adoceanhrykhkgjqhei"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Mame.Box2 */
+        ado.slave('adoceanhrykhkgjqhei', { myMaster: 'fJP7n1Ab6BKFcZgUzUfHH.8rDcxpZabu5pHlHRYmsvT.x7' });</script>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="mame slider">
+                <div class="slider-item">
+                    <a class="mame-text-hover scale-img-hover" href="/mame/clanak/mili-kunis-majcinstvo-je-promijenilo-pogled-na-zivot/2003811.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/89387749_l.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Mili Kunis majèinstvo je promijenilo pogled na život</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="mame-text-hover scale-img-hover" href="/mame/clanak/pet-savjeta-psihologinje-za-roditelje-s-izbirljivom-djecom/2003758.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/80748588_l.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Pet savjeta psihologinje za roditelje s izbirljivom djecom</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="mame-text-hover scale-img-hover" href="/mame/clanak/eva-longoria-otkrila-svoje-neobicne-trudnicke-zelje/2003690.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/31745600_1327583000718981_3608533854542888960_n.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Eva Longoria otkrila svoje neobiène trudnièke želje</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+
+        <div id="comments-container" class="comments-container secondary-content-bg">
+            <div class="comments-holder main-container secondary-content-bg flex">
+                <div class="left-part">
+                    
+<div class="fb-comments-holder">
+    <div class="loader fb-loader">
+        <img class="loading-img" src="/Content/img/loader_40px_grey.gif" />
+        <div class="loading-text">Uèitavanje komentara</div>
+    </div>
+    <div class="fb-comments" data-width="100%" data-href="http://www.index.hr/clanak.aspx?id=2003732" data-numposts="10" data-order-by="reverse_time"></div>
+</div>
+
+                </div>
+                <div class="right-part">
+                    <div class="sticky">
+                        
+
+
+    <!-- /5968637/2DA3_Mame -->
+    <div id='div-gpt-ad-1519647369338-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647369338-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="mame slider">
+                <div class="slider-item">
+                    <a class="mame-text-hover scale-img-hover" href="/mame/clanak/mili-kunis-majcinstvo-je-promijenilo-pogled-na-zivot/2003811.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/89387749_l.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Mili Kunis majèinstvo je promijenilo pogled na život</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="mame-text-hover scale-img-hover" href="/mame/clanak/pet-savjeta-psihologinje-za-roditelje-s-izbirljivom-djecom/2003758.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/80748588_l.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Pet savjeta psihologinje za roditelje s izbirljivom djecom</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="mame-text-hover scale-img-hover" href="/mame/clanak/eva-longoria-otkrila-svoje-neobicne-trudnicke-zelje/2003690.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/31745600_1327583000718981_3608533854542888960_n.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Eva Longoria otkrila svoje neobiène trudnièke želje</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+    
+
+
+    <!-- /5968637/2DA4_Mame -->
+    <div id='div-gpt-ad-1519647688224-0' style="text-align:center; padding-bottom:50px;background:white" class="main-container">
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647688224-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+
+    <div class="article-footer-code">
+        
+    </div>
+</article>
+
+
+
+    <footer>
+        
+
+<footer class="main-footer main-container main-content-bg clearfix">
+    <a class="logo" href="/"><img class="logo-img" src="/Content/img/logo/logo_footer_196x29.svg" /></a>
+    <nav class="list-holder flex">
+        <ul>
+            <li class="heading">
+                <a class="vijesti-text-hover" href="/vijesti">
+                    Vijesti
+                </a>
+            </li>
+
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/hrvatska/22.aspx">Hrvatska</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/zagreb/1553.aspx">Zagreb</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/regija/1540.aspx">Regija</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/svijet/23.aspx">Svijet</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/znanost/1722.aspx">Znanost</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/crna-kronika/46.aspx">Crna kronika</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/komentari/1413.aspx">Komentari</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/novac/1554.aspx">Novac</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="sport-text-hover" href="/sport">
+                    Sport
+                </a>
+            </li>
+
+                <li><a class="sport-text-hover" href="/sport/rubrika/nogomet/1638.aspx">Nogomet</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/kosarka/1639.aspx">Ko&#x161;arka</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/tenis/1640.aspx">Tenis</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/ostali-sportovi/1641.aspx">Ostali sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/komentari/1738.aspx">Komentari</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/borilacki-sportovi/1662.aspx">Borila&#x10D;ki sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/esport/1731.aspx">E-Sport</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="magazin-text-hover" href="/magazin">
+                    Magazin
+                </a>
+            </li>
+
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tv-film/1525.aspx">TV &amp; Film</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/glazba/1526.aspx">Glazba</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tech-gadget/1528.aspx">Tech &amp; Gadget</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/lifestyle/1529.aspx">Lifestyle</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/showbiz/1527.aspx">Showbiz</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/zanimljivosti/1530.aspx">Zanimljivosti</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Plus
+            </li>
+            <li><a class="oglasi-text-hover" href="http://www.index.hr/oglasi/">Oglasi</a></li>
+            <li><a class="lajkhr-text-hover" href="http://www.index.hr/lajk/">Lajk.hr</a></li>
+            <li><a class="main-text-hover" href="http://www.index.hr/indexforum/">Forum</a></li>
+                <li><a class="rouge-text-hover" href="/rouge">Rouge</a></li>
+                <li><a class="auto-text-hover" href="/auto">Auto</a></li>
+                <li><a class="mame-text-hover" href="/mame">Mame</a></li>
+                <li><a class="ljubimci-text-hover" href="/ljubimci">Ljubimci</a></li>
+                <li><a class="fit-text-hover" href="/fit">Fit</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Info
+            </li>
+                <li><a class="main-text-hover" href="/info/tecaj">Te&#x10D;aj</a></li>
+                <li><a class="main-text-hover" href="/info/tv">TV program</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                PRATITE NAS
+            </li>
+            <li>
+                <a href="https://www.facebook.com/index.hr/" target="_blank" class="main-text-hover"><i class="facebook index-facebook"></i>Facebook</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA" target="_blank" class="main-text-hover"><i class="youtube index-youtube"></i>Youtube</a>
+            </li>
+            <li>
+                <a href="https://twitter.com/indexhr" target="_blank" class="main-text-hover"><i class="twitter index-twitter"></i>Twitter</a>
+            </li>
+            <li><a href="/posaljite-pricu" class="main-text-hover">Pošaljite nam prièu </a></li>
+            <li><a href="/posaljite-pricu-foto-video" class="main-text-hover">Pošaljite nam foto/video</a></li>
+        </ul>
+    </nav>
+    <ul class="impressum">
+        <li><a href="/Content/docs/cjenik_oglasavanja.pdf">Reklamirajte se</a></li>
+        <li><a href="/kontakt">Kontakt</a></li>
+        <li><a href="/impressum">Impressum</a></li>
+        <li><a href="/uvjeti-koristenja">Uvjeti korištenja</a></li>
+        <li>
+            © 2018 Index
+            <div class="fb-like" data-href="https://www.facebook.com/index.hr/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+        </li>
+    </ul>
+</footer>
+
+<script>
+    function topFunction() {
+        $("html, body").animate({ scrollTop: 0 }, 600);
+    }
+</script>
+
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.6.1/fingerprint2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+
+    
+    
+        <script src="/Scripts/desktop-bundle.min.js?v=HIF3Nf2EcYMawEUSyzqPWzJ3NYFeJXXMUZhWtD7Rk-g"></script>
+    
+
+    <!--  dotmetrics  beta - desktop   -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        (function () {
+            window.dm = window.dm || { AjaxData: [] };
+            window.dm.AjaxEvent = function (et, d, ssid, ad) {
+                dm.AjaxData.push({ et: et, d: d, ssid: ssid, ad: ad });
+                window.DotMetricsObj && DotMetricsObj.onAjaxDataUpdate();
+            };
+            var d = document,
+                h = d.getElementsByTagName('head')[0],
+                s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = document.location.protocol + '//script.dotmetrics.net/door.js?id=3743';
+            h.appendChild(s);
+        }());
+    /* ]]> */
+    </script>
+
+    
+    <script>
+        //ping old article
+        //remove later
+
+        // Google analytics custom dimensions //
+        var keywords = _.map([{"id":37776,"indexedKeyword":"piletina","keyWord":"piletina","slug":"piletina","articleCount":54},{"id":184352,"indexedKeyword":"recept","keyWord":"recept","slug":"recept","articleCount":602},{"id":348579,"indexedKeyword":"tikvice","keyWord":"tikvice","slug":"tikvice","articleCount":10},{"id":391311,"indexedKeyword":"krumpiri","keyWord":"krumpiri","slug":"krumpiri","articleCount":2}], function (m) {
+            return 'keywordId-' + m.id;
+        });
+
+        var keywordsName = _.map([{"id":37776,"indexedKeyword":"piletina","keyWord":"piletina","slug":"piletina","articleCount":54},{"id":184352,"indexedKeyword":"recept","keyWord":"recept","slug":"recept","articleCount":602},{"id":348579,"indexedKeyword":"tikvice","keyWord":"tikvice","slug":"tikvice","articleCount":10},{"id":391311,"indexedKeyword":"krumpiri","keyWord":"krumpiri","slug":"krumpiri","articleCount":2}], function (m) {
+            return 'keywordName-' + m.keyWord;
+        });
+
+        var authors = _.map([{"id":2031}], function (m) {
+            return 'authorId-' + m.id;
+        });
+
+        var rootCategoryId = '1545';
+        var articleId = '2003732';
+        var publishDate = '11.06.2018.';
+        var publishDateMetric = '1528675200';
+
+        var verificationToken = $('<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dt-641PYhxDm74AzRWcPtfXpYuxXKjeNgpaxLSCt4v9dxrREQ4-M_HxjW55xq-5boWRhEayNK61_jIDsOQiSpRMu6RSx7Opl9tidJktsTkEoJshQxbawQR8fPHJPASI2VFTHTVWVF0AjIKyol43Pe0" />').val();
+        var category = 'mame';
+
+        var countUpViewUrl = '/Article/CountUpView';
+        var relatedArticlesUrl = '/Article/RelatedArticles?articleId=2003732&tagId=184352&tagSlug=recept';
+
+        var reportUrl = '/article-report-form';
+
+        articleService.InitAll();
+    </script>
+
+
+    <script>
+        // Google analytics tracking
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+
+        globalDirectives.InitAll();
+
+        layoutService.InitAll();
+    </script>
+</body>
+</html>

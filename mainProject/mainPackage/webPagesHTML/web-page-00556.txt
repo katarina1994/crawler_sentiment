@@ -1,0 +1,1406 @@
+
+
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,height=device-height, initial-scale=1.0">
+    <title>Pas je pomagao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10 000 poslastica - Index.hr</title>
+    <!--todo: remove on production-->
+    <meta name="description" content="Ovaj pas je postao pravi heroj svojoj vlasnici i hit na dru&#x161;tvenim mre&#x17E;ama.">
+    <meta property="fb:app_id" content="216060115209819">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Rubik:300,400,500&amp;subset=latin-ext" rel="stylesheet">
+
+    
+    
+        <link href="/Content/desktop-bundle.min.css?v=egu3v8Au-79RN7_zWnaTgHCYtuE0dtJtEs5b4bQbjpE" rel="stylesheet" />
+    
+
+    <script src="/Scripts/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript">
+        var appInsights=window.appInsights||function(config){
+            function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t
+        }({
+            instrumentationKey: 'cc5991a8-74c3-4f22-b0e4-067761b8ffdd'
+        });
+
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
+        
+    </script>
+
+
+    <!-- Google analytics tracking -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-2490832-1', 'auto');
+    </script>
+
+    <!--ad ocean-->
+    <script type="text/javascript" src="//hr.adocean.pl/files/js/ado.js"></script>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018 */
+        if (typeof ado !== "object") { ado = {}; ado.config = ado.preview = ado.placement = ado.master = ado.slave = function () { }; }
+        ado.config({ mode: "old", xml: false, characterEncoding: true });
+        ado.preview({ enabled: true });
+    </script>
+
+
+
+    <!-- Make sure this is inserted before your GPT tag -->
+    <script type="text/javascript" src="//ads.rubiconproject.com/prebid/16666.js"></script>
+
+
+    <script>
+
+    var PREBID_TIMEOUT = 2000;
+    var adUnits = [{
+        code: 'div-gpt-ad-1519642151413-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209251"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918716'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '59',
+                siteID: '268221'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192147"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642588872-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209252"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918718'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '60',
+                siteID: '268222'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192155"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642696832-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209254"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918722'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '61',
+                    siteID: '268223'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192159"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519644719256-0',
+        sizes: [[970, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209255"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918724'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '62',
+                    siteID: '268224'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192166"
+            }
+        }]
+    }];
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    pbjs.bidderSettings = {
+        rubicon: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        criteo: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        indexExchange: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        appnexus: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        }
+    };
+
+    const customPrebidGranularity = {
+        "buckets": [
+            {
+                "min": 0,
+                "max": 100,
+                "increment": 0.1
+            }
+        ]
+    };
+</script>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function () {
+        googletag.pubads().disableInitialLoad();
+    });
+
+    pbjs.que.push(function () {
+        pbjs.setPriceGranularity(customPrebidGranularity);
+        pbjs.enableSendAllBids();
+        pbjs.addAdUnits(adUnits);
+        pbjs.requestBids({
+            bidsBackHandler: sendAdserverRequest
+        });
+    });
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function () {
+            pbjs.que.push(function () {
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+
+    setTimeout(function () {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+
+</script>
+<!-- Make sure this is inserted before your GPT tag -->
+
+
+
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script>
+        googletag.cmd.push(function () {
+
+
+
+googletag.defineSlot('/5968637/2DA_Ljubimci_L', [300, 250], 'div-gpt-ad-1519646605202-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Ljubimci_R', [300, 250], 'div-gpt-ad-1519646649248-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA3_Ljubimci', [[300, 250], [300, 600]], 'div-gpt-ad-1519647274418-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA4_Ljubimci', [[970, 90], [728, 90], [970, 250]], 'div-gpt-ad-1519647593096-0').addService(googletag.pubads());
+
+
+
+
+
+googletag.defineSlot('/5968637/2DIA', [[760, 150], [760, 200], [300, 250]], 'div-gpt-ad-1524557626556-0').addService(googletag.pubads());            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+
+    <script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+
+    <!-- Hotjar Tracking Code for http://www.index.hr -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 447571, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    
+    <link href="/Content/bootstrap-rating.css" rel="stylesheet" />
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <link rel="canonical" href="http://www.index.hr/ljubimci/clanak/pas-je-pomogao-vlasnici-da-se-vrati-u-kucu-a-ona-mu-je-obecala-10000-poslastica/2003863.aspx">
+    <link rel="alternate" href="http://www.index.hr/mobile/clanak.aspx?category=ljubimci&amp;id=2003863">
+    <link rel="amphtml" href="http://amp.index.hr/article/2003863/pas-je-pomogao-vlasnici-da-se-vrati-u-kucu-a-ona-mu-je-obecala-10000-poslastica">
+
+    <meta property="og:type" content="article" />
+
+    <meta property="og:title" content="Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica" />
+    <meta property="og:image" content="http://www.index.hr/clanak/fb_image/2003863?v=c60a821d-858e-408c-826b-d3b4605041ed" />
+
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="675" />
+
+    <meta property="og:description" content="Ovaj pas je postao pravi heroj svojoj vlasnici i hit na dru&#x161;tvenim mre&#x17E;ama." />
+
+    
+
+
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica",
+    "url": "http://www.index.hr/ljubimci/clanak/pas-je-pomogao-vlasnici-da-se-vrati-u-kucu-a-ona-mu-je-obecala-10000-poslastica/2003863.aspx",
+    "description": "Description.",
+    "breadcrumb":{
+    "@type":"BreadcrumbList",
+    "itemListElement":[
+    {
+    "@type":"ListItem",
+    "position":"1",
+    "item":{
+    "@type":"WebSite",
+    "@id":"http://www.index.hr",
+    "name":"Index.hr"
+    }
+    },
+    {
+    "@type":"ListItem",
+    "position":"2",
+    "item":{
+    "@type":"WebPage",
+    "@id":"www.index.hr/ljubimci",
+    "name":"Ljubimci"
+    }
+    },
+
+        {
+        "@type":"ListItem",
+        "position":"3",
+        "item":{
+        "@type":"WebPage",
+        "@id":"http://www.index.hr/ljubimci/rubrika/psi-i-macke/1594.aspx",
+        "name":"Psi i ma&#x10D;ke"
+        }
+        },
+            {
+    "@type":"ListItem",
+    "position":"4",
+    "item":{
+    "@type":"WebPage",
+    "@id":"http://www.index.hr/ljubimci/clanak/pas-je-pomogao-vlasnici-da-se-vrati-u-kucu-a-ona-mu-je-obecala-10000-poslastica/2003863.aspx",
+    "name":"Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica"
+    }
+    }
+    ]},
+    "mainEntity": {
+    "@type": "NewsArticle",
+    "@id": "http://www.index.hr/ljubimci/clanak/pas-je-pomogao-vlasnici-da-se-vrati-u-kucu-a-ona-mu-je-obecala-10000-poslastica/2003863.aspx",
+    "name" : "Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica",
+    "mainEntityOfPage": {
+    "@type": "WebSite",
+    "@id": "http://www.index.hr/"
+    },
+    "author" : {
+    "@type" : "Person",
+    "name" : "S.S."
+    },
+    "datePublished" : "2018-06-11T21:00",
+    "dateModified" : "2018-06-11T21:00",
+    "headline" : "Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://ip.index.hr/remote/indexnew.s3.index.hr/Untitled-1sampasvraa.jpg",
+    "height": "675",
+    "width": "1200"
+    },
+    "url" : "http://www.index.hr/ljubimci/clanak/pas-je-pomogao-vlasnici-da-se-vrati-u-kucu-a-ona-mu-je-obecala-10000-poslastica/2003863.aspx",
+    "description": "Ovaj pas je postao pravi heroj svojoj vlasnici i hit na dru&#x161;tvenim mre&#x17E;ama.",
+    "publisher": {
+    "@type": "Organization",
+    "name": "Index.hr",
+    "url" : "http://wwww.index.hr",
+    "logo": {
+    "@type" : "ImageObject",
+    "url" : "http://dev.index.hr/Content/img/logo/index_logo_112x112.png"
+    },
+    "sameAs": [
+    "https://www.facebook.com/index.hr/",
+    "https://twitter.com/indexhr",
+    "https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA"
+    ]
+    }
+    }
+    }
+</script>
+
+</head>
+<body>
+    
+
+    
+    <div class="cookie-consent-container">
+        <div class="main-container flex">
+            <div class="description">
+                U skladu s novom europskom regulativom, Index.hr je nadogradio politiku privatnosti i korištenja kolaèiæa.
+                Kolaèiæe upotrebljavamo kako bismo vam omoguæili korištenje naše online usluge, što bolje korisnièko iskustvo i funkcionalnost naših web stranica,
+                prikaz reklamnih sadržaja i ostale funkcionalnosti koje inaèe ne bismo mogli pružati.
+                Daljnjim korištenjem naše web stranice, suglasni ste s korištenjem kolaèiæa. <a href="/cookie-consent">Više informacija</a>
+            </div>
+            <div class="btn-agree main-bg main-bg-hover" onclick="closeCookieConsent()">Razumijem</div>
+        </div>
+    </div>
+    <script>
+        function closeCookieConsent() {
+            $('.cookie-consent-container').remove();
+            ga('send', 'event', "cookie_consent");
+        }
+    </script>
+
+
+
+    <div id="fb-root"></div>
+    <script>
+        var finished_rendering = function () {
+            $(".fb-loader").addClass("display-none");
+        }
+
+        window.fbAsyncInit = function () {
+            FB.Event.subscribe('xfbml.render', finished_rendering);
+        };
+
+        (function (d, s, id) {
+            var js;
+            const fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.10&appId=216060115209819";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+
+
+    <div class="main-container no-padding main-content-bg">
+        <div id='crt-1130728' style="width:728px;height:90px;" class="ad-ocean-billboard top"></div>
+        <script>
+            var Criteo = Criteo || {};
+            Criteo.events = Criteo.events || [];
+            Criteo.events.push(function () {
+                Criteo.DisplayAcceptableAdIfAdblocked({
+                    "zoneid": 1130728,
+                    "containerid": "crt-1130728",
+                    "overrideZoneFloor": false
+                });
+            });
+            window.addEventListener("message", function (e) {
+                if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130728') {
+                    document.getElementById("crt-1130728").style.display = "none";
+                } else {
+                    return;
+                }
+            }, false);
+        </script>
+
+
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, MASTER: index_hr.Index.hr.desktop.Ljubimci */
+        ado.master({ id: 'UFms8qwVTXOjLS3gFnGCq3Opf3eq_2_PYaVxyUKv3oX.r7', server: 'hr.adocean.pl' });
+    </script>
+
+
+
+
+
+
+<div class="ad-ocean-billboard top">
+                <div id="adoceanhrkjmmlwhsqm"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Ljubimci.Billboard1 */
+            ado.slave('adoceanhrkjmmlwhsqm', { myMaster: 'UFms8qwVTXOjLS3gFnGCq3Opf3eq_2_PYaVxyUKv3oX.r7' });</script>
+                        </div>
+<div class="ad-ocean-wallpaper">
+                <div id="adoceanhrvonjdtmsyl"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Ljubimci.Wallpaper */
+            ado.slave('adoceanhrvonjdtmsyl', { myMaster: 'UFms8qwVTXOjLS3gFnGCq3Opf3eq_2_PYaVxyUKv3oX.r7' });
+        </script>
+                        </div>
+<div class="ad-ocean-wallpaper">
+                <div id="adoceanhrwimjplngls"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Ljubimci.Ticker */
+            ado.slave('adoceanhrwimjplngls', { myMaster: 'UFms8qwVTXOjLS3gFnGCq3Opf3eq_2_PYaVxyUKv3oX.r7' });
+        </script>
+                        </div>
+    </div>
+
+    
+
+
+<header class="main-menu-container">
+    <div class="float-menu" menu-fix-top>
+        <div class="main-container clearfix">
+            <div class="main-menu">
+
+                <h1 class="logo ljubimci-bg">
+                    <a class="home-btn homepage-link" href="/" title="index.hr"> </a>
+                    <a class="home-btn category-link" href="/main" title="index.hr"> </a>
+                    <img class="main" src="/Content/img/logo/index_main.svg" alt="index.hr" />
+                    <img class="small" src="/Content/img/logo/paprika_logo.svg" alt="index.hr" />
+                </h1>
+                <nav class="menu-holder clearfix">
+                    <ul>
+                        <li><a class="main-text-hover no-drop " href="/"> Naslovnica</a></li>
+                            <li>
+                                <a class="vijesti-text-hover  " href="/vijesti">
+                                    Vijesti
+                                </a>
+                            </li>
+                            <li>
+                                <a class="sport-text-hover  " href="/sport">
+                                    Sport
+                                </a>
+                            </li>
+                            <li>
+                                <a class="magazin-text-hover  " href="/magazin">
+                                    Magazin
+                                </a>
+                            </li>
+                            <li>
+                                <a class="oglasi-text-hover  " href="http://www.index.hr/oglasi/">
+                                    Oglasi
+                                </a>
+                            </li>
+                        <li class="menu-ostalo">
+                            <span class="expandable">Ostalo</span>
+                            <ul class="dropdown-content ostalo display-none">
+                                    <li class="lajkhr-bg-hover">
+
+                                        <a href="http://www.index.hr/lajk/">Lajk.hr</a>
+                                    </li>
+                                    <li class="rouge-bg-hover">
+
+                                        <a href="/rouge">Rouge</a>
+                                    </li>
+                                    <li class="auto-bg-hover">
+
+                                        <a href="/auto">Auto</a>
+                                    </li>
+                                    <li class="mame-bg-hover">
+
+                                        <a href="/mame">Mame</a>
+                                    </li>
+                                    <li class="ljubimci-bg-hover">
+
+                                        <a href="/ljubimci">Ljubimci</a>
+                                    </li>
+                                    <li class="fit-bg-hover">
+
+                                        <a href="/fit">Fit</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="http://www.index.hr/indexforum/">Forum</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tecaj">Te&#x10D;aj</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tv">TV program</a>
+                                    </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="right-part">
+                        <li><a href="https://www.facebook.com/index.hr/" target="_blank"><i class="index-facebook"></i></a></li>
+                        <li><a href="/trazi.aspx" class="btn-open-search"><i class="index-magnifier"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="main-container">
+        <div class="sub-menu-holder">
+            <nav class="sub-menu clearfix">
+                    <a class="sub-menu-item ljubimci-border-bottom " href="/ljubimci">Ljubimci</a>
+                    <a class="sub-menu-item ljubimci-border-bottom " href="/najnovije?kategorija=1548">Najnovije</a>
+                    <a class="sub-menu-item ljubimci-border-bottom " href="/najcitanije?kategorija=1548">Naj&#x10D;itanije</a>
+                    <a class="sub-menu-item ljubimci-border-bottom active" href="/ljubimci/rubrika/psi-i-macke/1594.aspx">Psi i ma&#x10D;ke</a>
+                    <a class="sub-menu-item ljubimci-border-bottom " href="/ljubimci/rubrika/male-zivotinje/1595.aspx">Male &#x17E;ivotinje</a>
+                    <a class="sub-menu-item ljubimci-border-bottom " href="/ljubimci/rubrika/teraristika-i-akvaristika/1596.aspx">Teraristika i akvaristika</a>
+                    <a class="sub-menu-item ljubimci-border-bottom " href="/ljubimci/rubrika/vijesti/1597.aspx">Vijesti</a>
+                    <a class="sub-menu-item ljubimci-border-bottom " href="/ljubimci/rubrika/zabava/1601.aspx">Zabava</a>
+            </nav>
+            <div class="scroll-arrows">
+                <div class="navigation-arrow left-arrow disabled ljubimci-text-hover"><i class="index-arrow-left"></i></div>
+                <div class="navigation-arrow right-arrow disabled ljubimci-text-hover"><i class="index-arrow-right"></i></div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<style>
+    .main-container {
+        max-width: 1140px;
+    }
+</style>
+
+<article class="article-container">
+    <div class="article-header-code">
+        
+    </div>
+    <div class="article-holder main-container main-content-bg">
+        <div class="article-title-holder">
+            <h1 class="ljubimci-text-parsed title">Pas je pomogao vlasnici da se vrati u kuæu, a ona mu je obeæala 10.000 poslastica</h1>
+            <div class="article-info clearfix">
+                <div class="author-holder">
+                    <span class="author">S.S.</span>
+                    <span class="time ljubimci-text">
+                        <time timeago datetime="2018-06-11 21:00:00"></time>
+                    </span>
+                </div>
+                <div class="social-holder clearfix">
+                    <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003863" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003863">
+                        <i class="index-facebook"></i>
+                        <span class="share-count">0</span>
+                    </div>
+
+                    <div class="other"><i class="index-share"></i></div>
+                    
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003863" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003863&via=indexhr&text=Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003863" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003863&media=https://ip.index.hr/remote/indexnew.s3.index.hr/Untitled-1sampasvraa.jpg&description=Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003863" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003863" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003863" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003863&title=Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica&summary=Ovaj pas je postao pravi heroj svojoj vlasnici i hit na dru&#x161;tvenim mre&#x17E;ama.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003863" href="mailto:?subject=Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica&body=http://www.index.hr/clanak.aspx?id=2003863" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="top-part flex">
+            <div class="left-part">
+                    <figure class="img-container">
+                        <div class="blur-img-holder" style="padding-bottom: 56.21%;" data-large="https://ip.index.hr/remote/indexnew.s3.index.hr/Untitled-1sampasvraa.jpg?width=765&height=430">
+                            <img class="img-responsive img-small" src="https://ip.index.hr/remote/indexnew.s3.index.hr/Untitled-1sampasvraa.jpg?width=30" alt="Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica" />
+                        </div>
+                            <figcaption class="main-img-desc clearfix">
+                                <span></span>
+
+                                    <span class="credits">Screenshot Facebook</span>
+                            </figcaption>
+                    </figure>
+                <div class="content-holder">
+                    <div class="ad-ocean-in-article">
+            <div id="adoceanhryngtpvsnsq"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Ljubimci.InArticle */
+            ado.slave('adoceanhryngtpvsnsq', { myMaster: 'UFms8qwVTXOjLS3gFnGCq3Opf3eq_2_PYaVxyUKv3oX.r7' });
+        </script>
+                        </div>
+                    <div class="text-holder">
+                        <div class="text">
+                            <p>OVAJ pas je postao pravi heroj i hit na dru&scaron;tvenim mrežama. Naime, njegova vlasnica je iza&scaron;la iz kuæe i nespretno zatvorila balkonska vrata te su se vrata zakljuèala.</p>
+
+
+<p>Kako bi vrata ostala otvorena, ona je ostavila drveni &scaron;tap, no sluèajno ga je sru&scaron;ila i vrata su se zatvorila i zakljuèala. Njen&nbsp;pas Sam ju je veselo gledao iznutra dok je ona bila sva u panici.</p>
+
+
+<p>Pozvala ga je u pomoæ i Sam je veselo ma&scaron;uæi repom do&scaron;ao do balkonskih vrata. Ona mu je govorila da izvuèe &scaron;tap i on je vrlo brzo shvatio &scaron;to treba napraviti.</p>
+
+
+<p>Kada ga je uzeo i kada su se vrata otvorila, žena je bila toliko sretna da mu je obeæala 10.000 poslastica, a mi se nadamo da æe ih uistinu i dobiti.&nbsp;</p>
+<!-- /5968637/2DIA -->
+<div id="div-gpt-ad-1524557626556-0" class="dfp-inarticle">
+    <span class="ad-unit-text">Tekst se nastavlja ispod oglasa</span>
+    <script>
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1524557626556-0'); });
+    </script>
+</div>
+
+
+
+<p><iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="476" scrolling="no" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLADbible%2Fvideos%2F4732599430120543%2F&amp;show_text=0&amp;width=625" style="border:none;overflow:hidden" width="625"></iframe></p>
+
+
+<p><span style="color: rgb(128, 128, 128);">Želite li momentalno primiti obavijest o svakom objavljenom èlanku vezanom uz kuæne ljubimce, instalirajte Index.me aplikaciju i pretplatite se besplatno na tag: ljubimci. </span></p>
+
+
+<p><span style="color: rgb(128, 128, 128);">Index.me aplikaciju za android besplatno možete preuzeti na </span><a href="http://play.google.com/store/apps/details?id=hr.index.indexme" target="_blank"><span style="color: rgb(255, 0, 0);">ovom linku</span></a><span style="color: rgb(128, 128, 128);">, dok iPhone aplikaciju možete preuzeti </span><a href="https://appsto.re/hr/D0Qplb.i" target="_blank"><span style="color: rgb(255, 0, 0);">ovdje</span></a><span style="color: rgb(128, 128, 128);">. </span></p>
+
+
+                        </div>
+                        <div class="article-report-container">
+                            <div class="article-report-trigger" data-article-id="2003863">Znate li nešto više o temi ili želite prijaviti grešku u tekstu?</div>
+                            <div class="report-holder display-none">
+                                <div class="loading-container">
+                                    <span class="img-helper"></span>
+                                    <img src="/Content/img/loader_40px.gif" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="reactions-container clearfix">
+                            <div class="social-holder social-bottom clearfix">
+                                <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003863" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003863">
+                                    <i class="index-facebook"></i>
+                                    <span class="share-count">0</span>
+                                </div>
+                                <div class="other"><i class="index-share"></i></div>
+                                
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003863" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003863&via=indexhr&text=Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003863" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003863&media=https://ip.index.hr/remote/indexnew.s3.index.hr/Untitled-1sampasvraa.jpg&description=Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003863" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003863" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003863" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003863&title=Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica&summary=Ovaj pas je postao pravi heroj svojoj vlasnici i hit na dru&#x161;tvenim mre&#x17E;ama.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003863" href="mailto:?subject=Pas je pomogao vlasnici da se vrati u ku&#x107;u, a ona mu je obe&#x107;ala 10.000 poslastica&body=http://www.index.hr/clanak.aspx?id=2003863" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                            </div>
+                        </div>
+
+
+
+<div class="tags-holder">
+        <a href="/tag/2617/ljubimci.aspx" class="ljubimci-bg-hover tag-item">
+            <span class="ljubimci-text hashtag">#</span>ljubimci
+        </a>
+        <a href="/tag/7570/psi.aspx" class="ljubimci-bg-hover tag-item">
+            <span class="ljubimci-text hashtag">#</span>psi
+        </a>
+        <a href="/tag/269302/sam.aspx" class="ljubimci-bg-hover tag-item">
+            <span class="ljubimci-text hashtag">#</span>sam
+        </a>
+        <a href="/tag/1002555/spasio-vlasnicu-koja-se-zakljucala.aspx" class="ljubimci-bg-hover tag-item">
+            <span class="ljubimci-text hashtag">#</span> spasio vlasnicu koja se zaklju&#x10D;ala
+        </a>
+</div>                    </div>
+                    <div class="clearfix ad-holder">
+                        <div class="float-left">
+                            
+
+    <!-- /5968637/2DA_Ljubimci_L -->
+    <div id='div-gpt-ad-1519646605202-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519646605202-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+
+                        </div>
+                        <div class="float-right">
+                            
+
+    <!-- /5968637/2DA_Ljubimci_R -->
+    <div id='div-gpt-ad-1519646649248-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519646649248-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <aside class="right-part">
+                <div id='crt-1130726' style="width:300px;height:250px;"></div>
+                <script>
+                    var Criteo = Criteo || {};
+                    Criteo.events = Criteo.events || [];
+                    Criteo.events.push(function () {
+                        Criteo.DisplayAcceptableAdIfAdblocked({
+                            "zoneid": 1130726,
+                            "containerid": "crt-1130726",
+                            "overrideZoneFloor": false
+                        });
+                    });
+                    window.addEventListener("message", function (e) {
+                        if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130726') {
+                            document.getElementById("crt-1130726").style.display = "none";
+                        } else {
+                            return;
+                        }
+                    }, false);
+                </script>
+
+                <div class="ad-ocean-box">
+                    
+                        <div id="adoceanhrrlrpfofqpb"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Ljubimci.Box1 */
+        ado.slave('adoceanhrrlrpfofqpb', { myMaster: 'UFms8qwVTXOjLS3gFnGCq3Opf3eq_2_PYaVxyUKv3oX.r7' });</script>
+
+                </div>
+
+
+                
+
+
+<div class="home-cube-big-timeline">
+    <ul class="nav timeline-tab" timeline-tab role="tablist" data-category="ljubimci" data-category-id="1548">
+        <li role="presentation" class="active latest"><a href="#tab-content-latest" aria-controls="tab-content-latest" role="tab" data-toggle="tab"> Najnovije</a></li>
+        <li role="presentation" class="most-read"><a href="#tab-content-most-read" aria-controls="tab-content-most-read" role="tab" data-toggle="tab"> Najèitanije</a></li>
+        <li role="presentation" class="related"><a href="#tab-content-related" data-id="tab-content-related" aria-controls="tab-content-related" role="tab" data-toggle="tab"> Vezano</a></li>
+        <hr class="ljubimci-bg" />
+    </ul>
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-content-latest">
+            
+
+
+    <div class="timeline-content latest">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center ljubimci-text">
+                        <span class="num">5</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/pas-je-pomogao-vlasnici-da-se-vrati-u-kucu-a-ona-mu-je-obecala-10000-poslastica/2003863.aspx">
+                            Pas je pomogao vlasnici da se vrati u kuæu, a ona mu je obeæala 10.000 poslastica
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">2</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/prikljucite-se-kampanji-foto-njuske-i-pomozite-napustenim-zivotinjama/2003834.aspx">
+                            Prikljuèite se kampanji Foto Njuške i pomozite napuštenim životinjama
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">3</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/video-ova-maca-ima-sarenu-odjecu-i-moderne-naocale-no-ne-zbog-mode-i-zabave/2003785.aspx">
+                            <span class='title-parsed-text'>VIDEO</span>  Ova maca ima šarenu odjeæu i moderne naoèale, no ne zbog mode i zabave
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">8</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/radovi-i-akcije-u-azilu-prijatelji-cakovec-se-nastavljaju-pomozite-im-da-urede-skloniste/2003635.aspx">
+                            Radovi i akcije u azilu Prijatelji Èakovec se nastavljaju. Pomozite im da urede sklonište
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">10</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/video-nevjerojatna-akcija-spasavanja-macica-pronadjenih-ispod-hrpe-smeca/2003710.aspx">
+                            <span class='title-parsed-text'>VIDEO</span>  Nevjerojatna akcija spašavanja maèiæa pronaðenih ispod hrpe smeæa
+                        </a>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najnovije?kategorija=1548">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-most-read">
+            
+
+
+    <div class="timeline-content most-read">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center ljubimci-text">
+                        <span class="num">1</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/video-nevjerojatna-akcija-spasavanja-macica-pronadjenih-ispod-hrpe-smeca/2003710.aspx">
+                            <span class='title-parsed-text'>VIDEO</span>  Nevjerojatna akcija spašavanja maèiæa pronaðenih ispod hrpe smeæa
+                        </a>
+                        <div class="line" style="width: 90%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center ljubimci-text">
+                        <span class="num">2</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/video-ova-maca-ima-sarenu-odjecu-i-moderne-naocale-no-ne-zbog-mode-i-zabave/2003785.aspx">
+                            <span class='title-parsed-text'>VIDEO</span>  Ova maca ima šarenu odjeæu i moderne naoèale, no ne zbog mode i zabave
+                        </a>
+                        <div class="line" style="width: 72%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center ljubimci-text">
+                        <span class="num">3</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/radovi-i-akcije-u-azilu-prijatelji-cakovec-se-nastavljaju-pomozite-im-da-urede-skloniste/2003635.aspx">
+                            Radovi i akcije u azilu Prijatelji Èakovec se nastavljaju. Pomozite im da urede sklonište
+                        </a>
+                        <div class="line" style="width: 54%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center ljubimci-text">
+                        <span class="num">4</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/prikljucite-se-kampanji-foto-njuske-i-pomozite-napustenim-zivotinjama/2003834.aspx">
+                            Prikljuèite se kampanji Foto Njuške i pomozite napuštenim životinjama
+                        </a>
+                        <div class="line" style="width: 36%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center ljubimci-text">
+                        <span class="num">5</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="ljubimci-text-hover" href="/ljubimci/clanak/pas-je-pomogao-vlasnici-da-se-vrati-u-kucu-a-ona-mu-je-obecala-10000-poslastica/2003863.aspx">
+                            Pas je pomogao vlasnici da se vrati u kuæu, a ona mu je obeæala 10.000 poslastica
+                        </a>
+                        <div class="line" style="width: 18%;"></div>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najcitanije?kategorija=1548">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-related">
+           <img class="loading-img" src="/Content/img/loader_40px.gif" />
+        </div>
+    </div>
+</div>
+
+                <div class="separator-45"></div>
+                <div class="sticky ad-ocean-box no-margin">
+                    <div id='crt-1130727' style="width:300px;height:250px;"></div>
+                    <script>
+	                    var Criteo = Criteo || {};
+	                    Criteo.events = Criteo.events || [];
+	                    Criteo.events.push(function() {
+		                    Criteo.DisplayAcceptableAdIfAdblocked({   
+			                    "zoneid": 1130727,
+			                    "containerid": "crt-1130727",
+			                    "overrideZoneFloor" : false
+		                    });
+	                    });
+	                    window.addEventListener( "message", function (e) {
+		                    if(e.origin == (location.protocol=='https:'?'https://':'http://') + 'cas.criteo.com' && e.data == 'passback-1130727') {
+			                    document.getElementById("crt-1130727").style.display = "none";	
+		                    } else {
+			                    return;
+		                    }
+	                    }, false);
+                    </script>
+    <div id="adoceanhromigjlpukw"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Ljubimci.Box2 */
+        ado.slave('adoceanhromigjlpukw', { myMaster: 'UFms8qwVTXOjLS3gFnGCq3Opf3eq_2_PYaVxyUKv3oX.r7' });</script>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="ljubimci slider">
+                <div class="slider-item">
+                    <a class="ljubimci-text-hover scale-img-hover" href="/ljubimci/clanak/prikljucite-se-kampanji-foto-njuske-i-pomozite-napustenim-zivotinjama/2003834.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Untitled-1FotoNjuske.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg ljubimci-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Prikljuèite se kampanji Foto Njuške i pomozite napuštenim životinjama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="ljubimci-text-hover scale-img-hover" href="/ljubimci/clanak/video-ova-maca-ima-sarenu-odjecu-i-moderne-naocale-no-ne-zbog-mode-i-zabave/2003785.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/mitz.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Ova maca ima šarenu odjeæu i moderne naoèale, no ne zbog mode i zabave</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="ljubimci-text-hover scale-img-hover" href="/ljubimci/clanak/video-nevjerojatna-akcija-spasavanja-macica-pronadjenih-ispod-hrpe-smeca/2003710.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/smtj.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Nevjerojatna akcija spašavanja maèiæa pronaðenih ispod hrpe smeæa</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="ljubimci-text-hover scale-img-hover" href="/ljubimci/clanak/radovi-i-akcije-u-azilu-prijatelji-cakovec-se-nastavljaju-pomozite-im-da-urede-skloniste/2003635.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/35486735_custom__1__.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Radovi i akcije u azilu Prijatelji Èakovec se nastavljaju. Pomozite im da urede sklonište</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+
+        <div id="comments-container" class="comments-container secondary-content-bg">
+            <div class="comments-holder main-container secondary-content-bg flex">
+                <div class="left-part">
+                    
+<div class="fb-comments-holder">
+    <div class="loader fb-loader">
+        <img class="loading-img" src="/Content/img/loader_40px_grey.gif" />
+        <div class="loading-text">Uèitavanje komentara</div>
+    </div>
+    <div class="fb-comments" data-width="100%" data-href="http://www.index.hr/clanak.aspx?id=2003863" data-numposts="10" data-order-by="reverse_time"></div>
+</div>
+
+                </div>
+                <div class="right-part">
+                    <div class="sticky">
+                        
+
+    <!-- /5968637/2DA3_Ljubimci -->
+    <div id='div-gpt-ad-1519647274418-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647274418-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="ljubimci slider">
+                <div class="slider-item">
+                    <a class="ljubimci-text-hover scale-img-hover" href="/ljubimci/clanak/prikljucite-se-kampanji-foto-njuske-i-pomozite-napustenim-zivotinjama/2003834.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Untitled-1FotoNjuske.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg ljubimci-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Prikljuèite se kampanji Foto Njuške i pomozite napuštenim životinjama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="ljubimci-text-hover scale-img-hover" href="/ljubimci/clanak/video-ova-maca-ima-sarenu-odjecu-i-moderne-naocale-no-ne-zbog-mode-i-zabave/2003785.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/mitz.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Ova maca ima šarenu odjeæu i moderne naoèale, no ne zbog mode i zabave</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="ljubimci-text-hover scale-img-hover" href="/ljubimci/clanak/video-nevjerojatna-akcija-spasavanja-macica-pronadjenih-ispod-hrpe-smeca/2003710.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/smtj.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Nevjerojatna akcija spašavanja maèiæa pronaðenih ispod hrpe smeæa</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="ljubimci-text-hover scale-img-hover" href="/ljubimci/clanak/radovi-i-akcije-u-azilu-prijatelji-cakovec-se-nastavljaju-pomozite-im-da-urede-skloniste/2003635.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/35486735_custom__1__.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Radovi i akcije u azilu Prijatelji Èakovec se nastavljaju. Pomozite im da urede sklonište</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+    
+
+    <!-- /5968637/2DA4_Ljubimci -->
+    <div id='div-gpt-ad-1519647593096-0' style="text-align:center; padding-bottom:50px;background:white" class="main-container">
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647593096-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+
+
+    <div class="article-footer-code">
+        
+    </div>
+</article>
+
+
+
+    <footer>
+        
+
+<footer class="main-footer main-container main-content-bg clearfix">
+    <a class="logo" href="/"><img class="logo-img" src="/Content/img/logo/logo_footer_196x29.svg" /></a>
+    <nav class="list-holder flex">
+        <ul>
+            <li class="heading">
+                <a class="vijesti-text-hover" href="/vijesti">
+                    Vijesti
+                </a>
+            </li>
+
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/hrvatska/22.aspx">Hrvatska</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/zagreb/1553.aspx">Zagreb</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/regija/1540.aspx">Regija</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/svijet/23.aspx">Svijet</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/znanost/1722.aspx">Znanost</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/crna-kronika/46.aspx">Crna kronika</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/komentari/1413.aspx">Komentari</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/novac/1554.aspx">Novac</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="sport-text-hover" href="/sport">
+                    Sport
+                </a>
+            </li>
+
+                <li><a class="sport-text-hover" href="/sport/rubrika/nogomet/1638.aspx">Nogomet</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/kosarka/1639.aspx">Ko&#x161;arka</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/tenis/1640.aspx">Tenis</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/ostali-sportovi/1641.aspx">Ostali sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/komentari/1738.aspx">Komentari</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/borilacki-sportovi/1662.aspx">Borila&#x10D;ki sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/esport/1731.aspx">E-Sport</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="magazin-text-hover" href="/magazin">
+                    Magazin
+                </a>
+            </li>
+
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tv-film/1525.aspx">TV &amp; Film</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/glazba/1526.aspx">Glazba</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tech-gadget/1528.aspx">Tech &amp; Gadget</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/lifestyle/1529.aspx">Lifestyle</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/showbiz/1527.aspx">Showbiz</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/zanimljivosti/1530.aspx">Zanimljivosti</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Plus
+            </li>
+            <li><a class="oglasi-text-hover" href="http://www.index.hr/oglasi/">Oglasi</a></li>
+            <li><a class="lajkhr-text-hover" href="http://www.index.hr/lajk/">Lajk.hr</a></li>
+            <li><a class="main-text-hover" href="http://www.index.hr/indexforum/">Forum</a></li>
+                <li><a class="rouge-text-hover" href="/rouge">Rouge</a></li>
+                <li><a class="auto-text-hover" href="/auto">Auto</a></li>
+                <li><a class="mame-text-hover" href="/mame">Mame</a></li>
+                <li><a class="ljubimci-text-hover" href="/ljubimci">Ljubimci</a></li>
+                <li><a class="fit-text-hover" href="/fit">Fit</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Info
+            </li>
+                <li><a class="main-text-hover" href="/info/tecaj">Te&#x10D;aj</a></li>
+                <li><a class="main-text-hover" href="/info/tv">TV program</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                PRATITE NAS
+            </li>
+            <li>
+                <a href="https://www.facebook.com/index.hr/" target="_blank" class="main-text-hover"><i class="facebook index-facebook"></i>Facebook</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA" target="_blank" class="main-text-hover"><i class="youtube index-youtube"></i>Youtube</a>
+            </li>
+            <li>
+                <a href="https://twitter.com/indexhr" target="_blank" class="main-text-hover"><i class="twitter index-twitter"></i>Twitter</a>
+            </li>
+            <li><a href="/posaljite-pricu" class="main-text-hover">Pošaljite nam prièu </a></li>
+            <li><a href="/posaljite-pricu-foto-video" class="main-text-hover">Pošaljite nam foto/video</a></li>
+        </ul>
+    </nav>
+    <ul class="impressum">
+        <li><a href="/Content/docs/cjenik_oglasavanja.pdf">Reklamirajte se</a></li>
+        <li><a href="/kontakt">Kontakt</a></li>
+        <li><a href="/impressum">Impressum</a></li>
+        <li><a href="/uvjeti-koristenja">Uvjeti korištenja</a></li>
+        <li>
+            © 2018 Index
+            <div class="fb-like" data-href="https://www.facebook.com/index.hr/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+        </li>
+    </ul>
+</footer>
+
+<script>
+    function topFunction() {
+        $("html, body").animate({ scrollTop: 0 }, 600);
+    }
+</script>
+
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.6.1/fingerprint2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+
+    
+    
+        <script src="/Scripts/desktop-bundle.min.js?v=HIF3Nf2EcYMawEUSyzqPWzJ3NYFeJXXMUZhWtD7Rk-g"></script>
+    
+
+    <!--  dotmetrics  beta - desktop   -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        (function () {
+            window.dm = window.dm || { AjaxData: [] };
+            window.dm.AjaxEvent = function (et, d, ssid, ad) {
+                dm.AjaxData.push({ et: et, d: d, ssid: ssid, ad: ad });
+                window.DotMetricsObj && DotMetricsObj.onAjaxDataUpdate();
+            };
+            var d = document,
+                h = d.getElementsByTagName('head')[0],
+                s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = document.location.protocol + '//script.dotmetrics.net/door.js?id=3743';
+            h.appendChild(s);
+        }());
+    /* ]]> */
+    </script>
+
+    
+    <script>
+        //ping old article
+        //remove later
+
+        // Google analytics custom dimensions //
+        var keywords = _.map([{"id":2617,"indexedKeyword":"ljubimci","keyWord":"ljubimci","slug":"ljubimci","articleCount":3003},{"id":7570,"indexedKeyword":"psi","keyWord":"psi","slug":"psi","articleCount":3077},{"id":269302,"indexedKeyword":"sam","keyWord":"sam","slug":"sam","articleCount":9},{"id":1002555,"indexedKeyword":"spasiovlasnicukojasezakljuèala","keyWord":" spasio vlasnicu koja se zakljuèala","slug":"spasio-vlasnicu-koja-se-zakljucala","articleCount":0}], function (m) {
+            return 'keywordId-' + m.id;
+        });
+
+        var keywordsName = _.map([{"id":2617,"indexedKeyword":"ljubimci","keyWord":"ljubimci","slug":"ljubimci","articleCount":3003},{"id":7570,"indexedKeyword":"psi","keyWord":"psi","slug":"psi","articleCount":3077},{"id":269302,"indexedKeyword":"sam","keyWord":"sam","slug":"sam","articleCount":9},{"id":1002555,"indexedKeyword":"spasiovlasnicukojasezakljuèala","keyWord":" spasio vlasnicu koja se zakljuèala","slug":"spasio-vlasnicu-koja-se-zakljucala","articleCount":0}], function (m) {
+            return 'keywordName-' + m.keyWord;
+        });
+
+        var authors = _.map([{"id":330}], function (m) {
+            return 'authorId-' + m.id;
+        });
+
+        var rootCategoryId = '1548';
+        var articleId = '2003863';
+        var publishDate = '11.06.2018.';
+        var publishDateMetric = '1528675200';
+
+        var verificationToken = $('<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GI00qI6EApDp7BAM6uZ-BBcmp-HL8IzJtOi7DGvw4iQ9H8bReqwUgWX3ag8rQorDmH5V4otYCQSCeSUhqkXHSsyIKsDV1SbptvScT5FYHMnVzRaYNodJEtZEYFhWk5jPpUqIQUi_CGz9PV-FoYkWmc" />').val();
+        var category = 'ljubimci';
+
+        var countUpViewUrl = '/Article/CountUpView';
+        var relatedArticlesUrl = '/Article/RelatedArticles?articleId=2003863&tagId=7570&tagSlug=psi';
+
+        var reportUrl = '/article-report-form';
+
+        articleService.InitAll();
+    </script>
+
+
+    <script>
+        // Google analytics tracking
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+
+        globalDirectives.InitAll();
+
+        layoutService.InitAll();
+    </script>
+</body>
+</html>

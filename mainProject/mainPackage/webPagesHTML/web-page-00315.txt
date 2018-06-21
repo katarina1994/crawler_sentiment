@@ -1,0 +1,2465 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+>
+<head>
+<meta name="description" content="Prije nekoliko godina podno Biokova niknula je kuæa koja skriva prièu vrijednu divljenja. Ona je plod nekih davnih želja, dugogodišnjeg rada i truda utkanog u svaki kamen, a njezinim nas je odajama provela ponosna vlasnica." />
+<meta name="keywords" content="kamena kuæa, Dalmacija, ureðenje" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Kamena ljepotica iz djeèje mašte - Jutarnji List</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<section>
+<!-- DFP verzija 11 -->
+<script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function () {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' === document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+//DFP vars
+dfpId = 11425286;
+dfpName = 'jl';
+dfpAsync = true;
+dfpSingleRequest = true;
+dfpCollapseEmpty = true;
+dfpDisableInitialLoad = true;
+dfpMobileMaxWidth = 960;
+dfpStickyMinWidth = 1024;
+dfpStickyUnitHeightLimit = 600;
+dfpStickyColumnHeightLimit = 680;
+dfpLazyUnitOffset = 3000;
+dfpUnitRefresh = 15000;
+doClickTracking = false;
+dfpAdSlots = {};
+dfpLazyLoad = [];
+dfpUnits = {
+"cla" : {
+"div-gpt-ad-1459756830165-0" : {
+"slot" : "aside1",
+"unit" : "300x600",
+"size" : [[300, 600], [300, 1], [300, 1050], [300, 601], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-1",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
+},
+"div-gpt-ad-1459756830165-1" : {
+"slot" : "aside2",
+"unit" : "300x602",
+"size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-2",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
+},
+"div-gpt-ad-1459756830165-2" : {
+"slot" : "billboard",
+"unit" : "bb_nav",
+"size" : [[1180, 150], [1180, 500], [970, 500], [970, 1000], [970, 90], [300, 100], [300, 150], [320, 100], [320, 50], [1180, 250], [300, 50], [1, 3], [970, 250], [970, 251]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-nav-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1462358187814-0" : {
+"slot" : "billboardbot",
+"unit" : "bb_bot",
+"size" : [[300, 250], [320, 100], [320, 50], [1180, 250], [970, 250], [970, 90], [1, 7]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-bot-wrapper",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-7" : {
+"slot" : "inarticle1",
+"unit" : "ia_1",
+"size" : [[300, 50], [320, 50], [320, 100], [300, 150], [760, 250], [760, 500], [320, 480], [600, 250], [570, 250], [728, 90], [300, 100], [2, 1], [300, 250], [300, 605]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-1",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-8" : {
+"slot" : "inarticle2",
+"unit" : "ia_2",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [300, 100], [300, 150], [2, 2], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-2",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-9" : {
+"slot" : "inarticle3",
+"unit" : "ia_3",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [2, 3], [300, 100], [300, 150], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-3",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-6" : {
+"slot" : "float",
+"unit" : "float",
+"size" : [1, 1],
+"sizeType" : "outofpage",
+"container" : "jl-floater-wrapper",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-10" : {
+"slot" : "wallpaper",
+"unit" : "wp",
+"size" : "",
+"sizeType" : "outofpage",
+"container" : "jl-wallpaper-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+}
+};
+var dfpCountryCode = "HR";
+var dfpCurrentPageType = "cla";
+var dfpGalleryImgNum = 0;
+var dfpGalleryUnitNum = 0;
+var dfpCategory = "Interijeri";
+var dfpCategoryParent = "Dom&Dizajn";
+var dfpRos = "domidizajn-ros";
+var dfpArticle = "7370571";
+var dfpArticleKeyword = "kamena kuæa";
+// oglasne jedinice za trenutaènu stranicu
+var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
+// jedinice koje je potrebno osvježiti
+var dfpRefreshUnits = [];
+// jedinice koje je potrebno osvježiti a ulaze u prebid
+var dfpRefreshPrebidUnits = [];
+var dfpWindowWidth = dfpGetWindowWidth();
+var dfpWindowDPR = window.devicePixelRatio;
+var dfpIsMobile = false;
+if (dfpWindowWidth <= dfpMobileMaxWidth) {
+dfpIsMobile = true;
+}
+var dfpBreakpoint = dfpGetBreakpoint();
+var dfpPrebid = true;
+if (dfpCountryCode === 'HR') {
+dfpPrebid = false;
+}
+var dfpPrebidTimeout = 3000;
+var dfpPrebidUnits = [];
+var dfpPrebidGranularity = {
+"buckets" : [
+{
+"min" : 0,
+"max" : 100,
+"increment" : 0.1
+}
+]
+};
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+// inicijaliziraj sve oglasne jedinice ovisno o uèitanoj stranici i postavljenim parametrima
+googletag.cmd.push(function() {
+dfpConfigUnits();
+});
+// dohvati širinu prozora
+function dfpGetWindowWidth() {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+return windowWidth;
+}
+// pronaði najmanji breakpoint za trenutaènu širinu prozora
+function dfpGetBreakpoint() {
+var breakpoints = [ 640, 768, 960, 1200, 1350, 1366, 1440, 1600, 1920, 2560 ];
+var minBreakpoint = [ 640 ];
+for (i = 0; i < breakpoints.length; i++) {
+if (dfpWindowWidth >= breakpoints[i]) {
+minBreakpoint = [ breakpoints[i] ];
+}
+}
+return minBreakpoint;
+}
+// provjeri sadrži li DOM traženi node
+function checkIfNodeInPage(node) {
+var inDocument = false;
+if (node === document.body) {
+inDocument = false;
+} else {
+inDocument = document.body.contains(node);
+}
+return inDocument;
+}
+// èekaj odreðeno vrijeme na poziv callback funkcije prilikom scroll eventa
+function dfpThrottleScrolling(callback, wait) {
+var time;
+var go = true;
+return function() {
+if (go) {
+go = false;
+time = setTimeout(function() {
+time = null;
+go = true;
+callback.call();
+}, wait);
+}
+};
+};
+// inicijaliziraj sticky bannere
+function dfpInitStickyBanners() {
+if (dfpWindowWidth >= dfpStickyMinWidth) {
+// univerzalni preporuèeni nazivi klasa
+var stickyRowClass = '.dfp-scroll-row';
+var stickyColClass = '.dfp-scroll-column';
+var stickyElementClass = '.dfp-sticky-unit';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima na svim portalima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+stickyRowClass = '.jl-scroll-container';
+stickyColClass = '.jl-banner-column';
+stickyElementClass = '.jl-banner-wrapper';
+}
+var stickyElementContainers = document.querySelectorAll(stickyRowClass);
+for (var i = stickyElementContainers.length - 1; i >= 0; i--) {
+var contentHeight = stickyElementContainers[i].offsetHeight;
+var stickyElementColumn = stickyElementContainers[i].querySelector(stickyColClass);
+if (stickyElementColumn !== null) {
+var stickyElement = stickyElementColumn.querySelector(stickyElementClass);
+if (stickyElement !== null) {
+if (dfpWindowDPR === 1) {
+var stickyElementHeight = stickyElement.offsetHeight;
+if (stickyElementHeight >= dfpStickyUnitHeightLimit) {
+if (contentHeight < dfpStickyColumnHeightLimit) {
+contentHeight = dfpStickyColumnHeightLimit;
+}
+} else {
+contentHeight = contentHeight - 20;
+}
+stickyElementColumn.style.height = contentHeight + 'px';
+Stickyfill.add(stickyElement);
+} else {
+stickyElement.classList.remove("jl-sticky-banner");
+}
+}
+}
+}
+}
+}
+// handler lazy load uèitavanja jedinica
+var dfpScrollHandler = dfpThrottleScrolling(function() {
+scrolled = window.scrollY;
+// provjeri postoje li lazy load jedinice ili ukloni listener
+if (dfpLazyLoad.length > 0) {
+dfpLazyLoad.forEach(function(adUnit) {
+var adUnitIndex = dfpLazyLoad.indexOf(adUnit);
+var unitContainer = document.getElementById(dfpUnits[dfpCurrentPageType][adUnit]['container']);
+if (checkIfNodeInPage(unitContainer)) {
+var containerOffset = unitContainer.getBoundingClientRect().top;
+if (containerOffset < dfpLazyUnitOffset) {
+var slot = dfpUnits[dfpCurrentPageType][adUnit]['slot'];
+googletag.cmd.push(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+});
+dfpLazyLoad.splice(adUnitIndex, 1);
+}
+}
+});
+} else {
+window.removeEventListener('scroll', dfpScrollHandler);
+}
+}, 250);
+function dfpConfigUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// drugaèiji inicijalizacijski kod za out of page jedinice
+if (unitData['unit'] == 'wp') {
+dfpAdSlots[unitData['slot']] = googletag.defineOutOfPageSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitId).addService(googletag.pubads());
+} else {
+dfpAdSlots[unitData['slot']] = googletag.defineSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitData['size'], unitId).addService(googletag.pubads());
+}
+// targetiranje specifiènih velièina ekrana
+var sizeKey = 'WindowSizeAside';
+if (unitData['sizeType'] === 'pagebreak') {
+sizeKey = 'WindowSizePagebreak';
+} else if (unitData['sizeType'] === 'outofpage') {
+sizeKey = 'WindowSize';
+}
+dfpAdSlots[unitData['slot']].setTargeting(sizeKey, dfpBreakpoint);
+// targetiranje po rubrici
+if (dfpCategory !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Category', dfpCategory);
+}
+if (dfpCategoryParent !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('CategoryParent', dfpCategoryParent);
+}
+// targetiranje za èlanke
+if (dfpCurrentPageType === 'cla') {
+if (dfpArticle !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Article', dfpArticle);
+}
+if (dfpArticleKeyword !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ArticleKeyword', dfpArticleKeyword);
+}
+}
+// ros targetiranje
+if (dfpRos !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ROS', dfpRos);
+}
+// ako jedinica treba biti lazy loadana stavi je u dfpLazyLoad niz (no ne smije biti u Prebidu) ili je dodaj u dfpRefreshUnits u sluèaju da je onemoguæeno inicijalno uèitavanje
+if (((dfpPrebid === false) || (unitData['prebid'] === false) || (typeof unitData['prebid'] === 'undefined')) && unitData['lazyLoad']) {
+dfpLazyLoad.push(unitId);
+} else {
+if (dfpDisableInitialLoad === true) {
+if ((dfpPrebid === true) && (unitData['prebid'] === true)) {
+dfpRefreshPrebidUnits.push(dfpAdSlots[unitData['slot']]);
+} else {
+dfpRefreshUnits.push(dfpAdSlots[unitData['slot']]);
+}
+}
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+function dfpConfigPrebidUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// razlièita Prebid konfiguracija ovisno radi li se o mobilnim ili desktop ureðajima
+var unitPrebidConfigParam = 'prebidConfig';
+if (dfpIsMobile === true) {
+unitPrebidConfigParam = unitPrebidConfigParam + 'Mobile';
+}
+// ako je jedinica dostupna za bidding stavi ju u odgovarajuæi niz
+if (unitData['prebid'] && (unitData.hasOwnProperty(unitPrebidConfigParam))) {
+var unitBids = [];
+for (var bidderName in unitData[unitPrebidConfigParam]) {
+var bidderParams = [];
+bidderParams = unitData[unitPrebidConfigParam][bidderName];
+// dodatni parametri za connectad
+if (bidderName === 'connectad') {
+bidderParams['networkId'] = '10047';
+bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
+}
+var bidderData = {bidder: bidderName, params: bidderParams};
+unitBids.push(bidderData);
+}
+var dfpPrebidUnit = {
+code: unitId,
+sizes: unitData['size'],
+bids: unitBids
+}
+dfpPrebidUnits.push(dfpPrebidUnit);
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+// prebid
+function dfpPrebidSendAdServerRequest() {
+if (pbjs.adserverRequestSent) return;
+pbjs.adserverRequestSent = true;
+googletag.cmd.push(function() {
+pbjs.que.push(function() {
+pbjs.setTargetingForGPTAsync();
+googletag.pubads().refresh(dfpRefreshPrebidUnits);
+});
+});
+}
+if (dfpPrebid === true) {
+pbjs.que.push(function() {
+dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
+pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
+pbjs.addAdUnits(dfpPrebidUnits);
+pbjs.requestBids({
+bidsBackHandler: dfpPrebidSendAdServerRequest
+});
+});
+setTimeout(function() {
+dfpPrebidSendAdServerRequest();
+}, dfpPrebidTimeout);
+}
+//setup and initialize dfp adunits
+googletag.cmd.push(function() {
+// asinkrono renderiranje
+if (dfpAsync === true) {
+googletag.pubads().enableAsyncRendering();
+}
+// dohvati sve u jednom requestu
+if (dfpSingleRequest === true) {
+googletag.pubads().enableSingleRequest();
+}
+// smanji prazne div elemente
+if (dfpCollapseEmpty === true) {
+googletag.pubads().collapseEmptyDivs();
+}
+// iskljuèi inicijalno uèitavanje
+if (dfpDisableInitialLoad === true) {
+googletag.pubads().disableInitialLoad();
+}
+// osvježi sve jedinice koje nisu lazy loadane i nisu u prebidu
+if ((dfpDisableInitialLoad === true) && (dfpRefreshUnits.length > 0)) {
+googletag.pubads().refresh(dfpRefreshUnits);
+}
+// izvršava se nakon što je pojedina oglasna jedinica renderirana, idealno mjesto za dodavanje klasa
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+if (!event.isEmpty) {
+// provjeri koja se toèno jedinica renderirala
+var slotId = event.slot.getSlotElementId();
+var isLoaded = !event.isEmpty;
+dfpUnits[dfpCurrentPageType][slotId]['loaded'] = isLoaded;
+// dohvati podatke o renderiranoj oglasnoj jedinici
+var unitData = dfpUnits[dfpCurrentPageType][slotId];
+// stavi dodatne klase na kontejnere oglasnih jedinica gdje je potrebno
+if (unitData['sizeType'] === 'aside') {
+if (dfpWindowWidth > dfpMobileMaxWidth) {
+var elementExtraClasses = ' dfp-box';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-box';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+}
+} else if (unitData['sizeType'] === 'pagebreak') {
+var elementExtraClasses = ' dfp-space';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-space';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+// fix za in article jedinice na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] !== 'ia_1') && (unitData['unit'] !== 'ia_2') && (unitData['unit'] !== 'ia_3')) {
+var parentObj;
+if (checkIfNodeInPage(bannerElementWrapper.parentNode)) {
+parentObj = bannerElementWrapper.parentNode;
+var elementClass = parentObj.className;
+var searchForRow = true;
+while ((elementClass.indexOf('row') == -1) && searchForRow) {
+if (checkIfNodeInPage(parentObj.parentNode)) {
+parentObj = parentObj.parentNode;
+elementClass = parentObj.className;
+} else {
+searchForRow = false;
+}
+}
+if (searchForRow) {
+parentObj.className += ' jl-has-banner';
+}
+}
+}
+} else if (unitData['sizeType'] === 'outofpage') {
+// fix za ispravan prikaz wallpapera na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] === 'wp')) {
+var bodyElement = document.querySelector('body');
+bodyElement.className += ' hasWallpaperBanner';
+}
+}
+}
+});
+googletag.enableServices();
+});
+// slušaj scroll event za potrebe uèitvanja lazy loadom
+window.addEventListener('scroll', dfpScrollHandler);
+// inicijaliziraj sticky bannere
+window.addEventListener('load', dfpInitStickyBanners);
+window.addEventListener('resize', dfpInitStickyBanners);
+</script>
+</section>
+<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
+<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-37299110-3', 'auto');
+ga('create', 'UA-37299110-1', 'auto', {'name': 'newTracker'});
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+ga('newTracker.send', 'pageview');
+</script>
+<meta property="fb:pages" content="133205716542" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GCRM7');</script>
+<!-- End Google Tag Manager -->
+<meta property="article:author" content="https://www.facebook.com/domidizajn" />
+<meta property="article:publisher" content="https://www.facebook.com/domidizajn" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Domidizajn.hr" />
+<meta name="twitter:site" content="Domidizajn.hr" />
+<style>
+div.overline_uppercase {
+text-transform: uppercase;
+}
+div.overline_lowercase {
+text-transform: lowercase;
+}
+div.overline_capitalize {
+text-transform: capitalize;
+}
+</style>
+<meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
+<link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
+<link rel="canonical" href="https://www.jutarnji.hr/domidizajn/interijeri/kamena-ljepotica-iz-djecje-maste/7370571/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/domidizajn/interijeri/kamena-ljepotica-iz-djecje-maste/7370571/amp">
+<link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/base/css/jutarnji-base.d1374deb53269f4f88e489dd24ef5c2b.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/default/css/jutarnji-default.d41d8cd98f00b204e9800998ecf8427e.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/minimalist.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/mediaelementplayer.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="https://www.jutarnji.hr/static/js/html5shiv.js"></script>
+<script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
+<![endif]-->
+<script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
+<meta property="og:image" content="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic7-030418jpg/7370289/ALTERNATES/LANDSCAPE_1180/zaostrog_jurcevic7-030418.jpg" />
+<meta property="og:image:width" content="1180" />
+<meta property="og:image:height" content="700" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic7-030418jpg/7370289/ALTERNATES/LANDSCAPE_1180/zaostrog_jurcevic7-030418.jpg">
+<meta property="og:title" content="Kamena ljepotica iz djeèje mašte" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.jutarnji.hr/domidizajn/interijeri/kamena-ljepotica-iz-djecje-maste/7370571/" />
+<meta property="og:site_name" content="jutarnji.hr" />
+<meta property="fb:app_id" content="156538244364753" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="jutarnji.hr">
+<meta name="twitter:creator" content="Anja Maðareviæ">
+<meta name="twitter:title" content="Kamena ljepotica iz djeèje mašte">
+<meta name="twitter:description" content="Prije nekoliko godina podno Biokova niknula je kuæa koja skriva prièu vrijednu divljenja. Ona je plod nekih davnih želja, dugogodišnjeg rada i truda utkanog u svaki kamen, a njezinim nas je odajama provela ponosna vlasnica.">
+<meta property="fb:pages" content="133205716542" />
+<!-- j2 - vijesti -->
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+var d=document,
+h=d.getElementsByTagName('head')[0],
+s=d.createElement('script');
+s.type='text/javascript';
+s.async=true;
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2445';
+h.appendChild(s);
+}());
+/* ]]> */
+</script>
+<script>
+(function(u,p,s,c,r){u[r]=u[r]||function(p){(u[r].q=u[r].q||[]).push(p)},u[r].ls=1*new Date();
+var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//files.upscore.com/async/upScore.js','upScore');
+upScore({config:{ domain:"jutarnji.hr",
+article: "#CImaincontent",
+track_positions: false},
+data: { section: "Interijeri, Dom&Dizajn, Front Page",
+pubdate: "2018-05-18T10:54+02:00",
+author: "Anja Maðareviæ",
+object_type: "article",
+custom_sponsored: 0
+}});
+</script>
+</head>
+<body class="domdizajn story">
+<div id="fb-root">
+</div>
+<script type="text/javascript">
+(function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s);
+js.id = id;
+js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.7&appId=156538244364753";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+!function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (!d.getElementById(id)) {
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+}
+}(document, "script", "twitter-wjs");
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<c:if test="true">
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56cdc7652b8101eb"></script>
+</c:if>
+<script async defer src="//platform.instagram.com/hr_HR/embeds.js"></script>
+<script type="text/javascript">
+$(function() {
+if ($("#related-news-box").has("ul").length) {
+if ($("[id^='content-body-'] > p").length < 0) {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+}
+} else {
+$("#related-news-box").remove();
+}
+});
+</script>
+<div class="container">
+<header class="mainHead brandedHead " role="banner">
+<a name="top"></a>
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId : '156538244364753',
+xfbml : true,
+version : 'v2.10'
+});
+FB.AppEvents.logPageView();
+};
+(function(d, s, id){
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="row " >
+<div class="col-sm-12 ">
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="siteHead"
+class=" ">
+<div class="head_date">
+<p class="month">
+<span>18.5.</span>2018.
+</p>
+<p class="day">
+petak
+</p>
+</div>
+<span class="logo"><a href="/">JutarnjList</a></span>
+</div>
+<nav class="navbar main_nav "
+role="navigation" >
+<a href="#" class="mSiteSearch"><span class="text-hide">Pretraži</span></a>
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div id="navbar-collapse-1" class="navbar-collapse collapse ">
+<span class="logo suplement "><a href="/">JutarnjList</a></span>
+<ul class="nav navbar-nav all_sections">
+<li>
+<a href="#" class="site_search"><span class="text-hide">Pretraži</span></a>
+</li>
+<li class="dropdown megadropdown ">
+<a href="#" id="menuPane-link-1">
+Sve rubrike
+<div id="rwd_toggle"><span></span><span></span><span></span><span></span></div>
+</a>
+</li>
+</ul>
+</div>
+<div class="wrap-megadropdown-menu ">
+<div class="dropdown-menu megadropdown-menu ">
+<div class="sections ">
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="magazin ">
+<span>Magazin</span>
+<ul>
+<li class="ak"><a href="/autoklub">Autoklub</a></li>
+<li class="gl"><a href="/globus">Globus</a></li>
+<li class="dh"><a href="/dobrahrana">Dobra hrana</a></li>
+<li class="dd"><a href="/domidizajn">Dom i dizajn</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="subBranding ">
+<span class="logo"><a href="/domidizajn">Dom i dizajn</a></span>
+</div>
+<div class="subLevelNavbar ">
+<ul class=" sub nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/domidizajn/">
+Naslovnica
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/">
+Interijeri
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/domidizajn/inspiracije/">
+Inspiracije
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/domidizajn/dd-vrt/">
+D&amp;D Vrt
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/domidizajn/savjeti/">
+Savjeti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/domidizajn/eksterijeri/">
+Eksterijeri
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav socialChannels">
+<li>
+<a href="https://www.facebook.com/domidizajn/" class="facebook_follow" target="_blank"><span class="text-hide">Facebook</span></a>
+<a class="instagram_follow" href="https://www.instagram.com/domidizajn/" target="_blank"><span class="text-hide">Instagram</span></a>
+</li>
+</ul>
+</div>
+<div id="searchBox">
+<form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Pretraži Jutarnji.hr" value="" />
+<button type="submit">Submit</button>
+</div>
+</form>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<section role="main">
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-nav-wrapper" class="jl-billboard-nav">
+<div id="div-gpt-ad-1459756830165-2">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-2"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-2");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
+<p
+class="overline overline_uppercase">
+KUÆA PODNO BIOKOVA
+</p>
+<h1
+class="title">
+Kamena ljepotica iz djeèje mašte
+</h1>
+<ul class="list-inline ">
+<strong>AUTOR: </strong>
+<li>
+<p
+class="authors">
+<ul>
+<li><a href="https://www.gloria.hr/autori/anja-madarevic">Anja Maðareviæ</a></li>
+</ul>
+</p>
+</li>
+<strong>OBJAVLJENO: </strong>
+<li>
+<p
+class="published-date">
+18.05.2018. u 10:54
+</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row article_body jl-scroll-container " >
+<div class="col-sm-8 " >
+<section class="lead_image ">
+<section class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic7-030418jpg/7370289" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic7-030418jpg/7370289/ALTERNATES/LANDSCAPE_380/zaostrog_jurcevic7-030418.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic7-030418jpg/7370289/BINARY/thumbnail/zaostrog_jurcevic7-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: pogled na kucu i plave skure na kamenoj fasadi
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+</div>
+</section>
+</section>
+<div class=" ">
+<section class="ci_lead ">
+<p
+class="leadtext">
+<p align="justify"><u><strong>Prije nekoliko godina podno Biokova niknula je kuæa koja skriva prièu vrijednu divljenja. Ona je plod nekih davnih želja, dugogodišnjeg rada i truda utkanog u svaki kamen, a njezinim nas je odajama provela ponosna vlasnica. </strong></u></p>
+</p>
+</section>
+<section>
+<div id="jl-inarticle-wrapper-1" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-7">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-7"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-7");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+<section id="CImaincontent" class="ci_body ">
+<div id="content-body-6263871-7370571"
+>
+<p> <div class="e4-sub-article ">
+<section>
+<div>
+<p><strong>PROFIL </strong></p><p><strong>INFO: </strong>Obiteljska kuæa od 200m2</p><p><strong>LOKACIJA: </strong>Zaostrog</p><p><strong>UREÐENJE: </strong>vlasnica</p>
+</div>
+</section>
+</div>
+ </p><p align="justify">Svaka djevojèica ima snove o svom domu iz bajke. U malenim glavama èesto su to kuæice okružene cvijeæem na nekom proplanku, negdje tamo daleko u buduænosti. No, vlasnica ovog zdanja, danas 40-godišnja žena, davnih je godina sanjarila o kamenoj kuæi koja se uzdiže iznad mora.<br>Provodeæi ljeta u obiteljskoj kuæi u Zaostrogu, sasvim je sigurno znala da æe i svoje zdanje baš tamo sazidati - u srcu Makarske rivijere i podno masivnog Biokova. Osmislila je veæ tada i kako æe svaki kutak njezine kuæe izgledati. Djeèja je mašta s vremenom prerasla u želju i viziju mlade djevojke koja je na prikupljanju ideja, sredstava i detalja radila godinama.</p><p align="justify">
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic3-030418jpg/7370277" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic3-030418jpg/7370277/ALTERNATES/FREE_380/zaostrog_jurcevic3-030418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic3-030418jpg/7370277/BINARY/thumbnail/zaostrog_jurcevic3-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: pogled na kucu Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic20-030418jpg/7370274" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic20-030418jpg/7370274/ALTERNATES/FREE_380/zaostrog_jurcevic20-030418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic20-030418jpg/7370274/BINARY/thumbnail/zaostrog_jurcevic20-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: plve skure na kemenoj fasadi
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify"><br>- Prvu sam škrinju kupila na zagrebaèkom Britancu prije 20-ak godina, znajuæi veæ tada da æe ona biti u mojoj kuæi u Zaostrogu - poèinje nam vlasnica svoju impresivnu prièu o gradnji kuæe velike 200 èetvornih metara. Zašto impresivnu? Zato što ju je ova žena, po struci inaèe fizièarka, potpuno sama osmislila i u velikoj mjeri sama sagradila, i to u mjestu koje je tada bilo bez struje i vode - ova kamena ljepotica iz 15. stoljeæa svoje je novo ruho poprimila uz rad agregata za elektriènu energiju.<br>Kad ju je zatekla, graðevina je bila u potpuno drugaèijem stanju i zahtijevala je potpunu adaptaciju i sanaciju. Uz arhitektonske sugestije i struènost statièara, odluèeno je da æe se njezin postojeæi izgled promijeniti. Tako je prvotna kuæa u dvije i pol godine djelomièno srušena i nadograðena te je nastalo kameno zdanje koje se prostire na spomenutih impozantnih 200 èetvornih metara. <br>Prvu i drugu etažu èini po 60 kvadrata, a treæa etaža satkana je od 30 kvadrata stambenog prostora i jednako toliko kvadrata eksterijera, odnosno terase.</p><p align="justify"> </p><p align="justify">
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic9-030418jpg/7370295" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic9-030418jpg/7370295/ALTERNATES/FREE_380/zaostrog_jurcevic9-030418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic9-030418jpg/7370295/BINARY/thumbnail/zaostrog_jurcevic9-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: dnevni boravak
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic57-030418jpg/7370448" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic57-030418jpg/7370448/ALTERNATES/FREE_380/zaostrog_jurcevic57-030418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic57-030418jpg/7370448/BINARY/thumbnail/zaostrog_jurcevic57-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: konoba
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic59-030418jpg/7370454" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic59-030418jpg/7370454/ALTERNATES/FREE_380/zaostrog_jurcevic59-030418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic59-030418jpg/7370454/BINARY/thumbnail/zaostrog_jurcevic59-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: konoba
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>U unutrašnjosti prevladavaju prirodni materijali poput drvenih elemenata te kamenih podova, a prostor je ispunjen restauriranim komadima namještaja.</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify"><br>- Kuæa je zanimljiva jer se zapravo sastoji od dvije diletacije - kaže nam vlasnica, pojašnjavajuæi da su u prizemlju smješteni zaseban apartman za obiteljske goste, kotlovnica i konoba za druženja.</p><p align="justify"> </p><p align="justify"> <div class="e4-sub-article ">
+<section>
+<div>
+<p>Prvotno zateèena graðevina bila je u vrlo lošem stanju i vapila je za obnovom. U konaènici je kuæa u cijelosti rekonstruirana, i to uz pomoæ agregata.</p>
+</div>
+</section>
+</div>
+</p><p align="justify"><br>- Prostor je osmišljen tako da gosti imaju potpunu privatnost - istièe i dodaje da njegova opremljenost njezinim prijateljima i gostima pruža moguænost za kuhanje prve jutarnje kave ili uživanje u doruèku. Konoba za druženja, pak, posebna je prièa. Velièinom dovoljna taman za sve stanovnike Zaostroga i njihove goste, ovaj kutak nerijetko je osvijetljen do dugo u noæ.<br>- Na velikoj zidanoj peæi pripremaju se morski specijaliteti, u antiknoj kredenci uvijek su spremna piæa za osvježenje i zdravicu, a velik drveni stol i mnoštvo raznobojnih stolaca spremno prihvaæaju veselo društvo, kad god se za to pruži zgodna prilika - smiješeæi se preprièava ponosna vlasnica. Sav namještaj, kako u konobi, tako i u ostatku kuæe, sama je restaurirala. </p><p align="justify"> </p><p align="justify">
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic6-030418jpg/7370286" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic6-030418jpg/7370286/ALTERNATES/FREE_380/zaostrog_jurcevic6-030418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic6-030418jpg/7370286/BINARY/thumbnail/zaostrog_jurcevic6-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: pogled na kucu i plave skure na kamenoj fasadi
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Dvorište i vrt oko kuæe vlasnica je pomno uredila birajuæi mediteransko bilje, pa tako ovdje divno uspijevaju lavanda, ružmarin, ali mnogobrojne palme.</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify"><br>Primjerice, novu šansu pružila je stolcima sa sjedalima od prešane kože, koji su danas prava rijetkost i koštaju bogatstvo. Naša kreativna domaæica novi im je život udahnula kad ih se stari vlasnik odluèio riješiti za doista zanemariv iznos novca. Te posebne stolce sad krasi elegantan izgled, a smješteni su uz luksuzan masivni stol u blagovaonici. Od velikih komada na otpadu do biljaka uz put - maštovito oko ove žene ne propušta nijednu priliku za lijepim detaljem. Naime, spomenuti stol trenutaèno krase crvene i bijele granèice koje djeluju poput skupocjenog ukrasa, a zapravo su ruèno bojani korov naðen doslovno uz cestu.</p><p align="justify"> </p><p align="justify">
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic37-030418jpg/7370415" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic37-030418jpg/7370415/ALTERNATES/FREE_380/zaostrog_jurcevic37-030418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic37-030418jpg/7370415/BINARY/thumbnail/zaostrog_jurcevic37-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: spavaca soba
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+<div class="picture-caption ">
+<h4>Vlasnica èuva uspomene i starim stvarima podaruje nov izgled, život i namjenu. Ova kuæa je muzej u malome.</h4>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify">
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic36-030418jpg/7370412" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic36-030418jpg/7370412/ALTERNATES/FREE_380/zaostrog_jurcevic36-030418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic36-030418jpg/7370412/BINARY/thumbnail/zaostrog_jurcevic36-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: spavaca soba
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify"><br>- Svemu želim podariti novi izgled, a viziju o tome kako æe u konaènici nešto izgledati gotovo uvijek imam - govori nam vlasnica, naglašavajuæi kako nije potrebno mnogo novca da bi se postigao lijep izgled interijera. Njezina je kuæa doista najbolji primjer. <br>Veæina namještaja pronaðena je na raznim tavanima i buvljacima, no odabir skupocjene peænice ipak je sasvim opravdan. Naime, na tržištu je teško pronaæi cjenovno prihvatljiv model koji bi svojim izgledom, ali i funkcionalnošæu odgovarao ovoj kuæi i prièi koju ona želi isprièati. Vlasnica se stoga odluèila za popularni SMEG-ov model, i kako kaže, nije požalila.</p><p align="justify"> </p><p align="justify"> <div class="e4-sub-article ">
+<section>
+<div>
+<p>Sobe ovog zdanja klasièno su mediteranskoi prozraène i mirisne. Za lijepih i vedrih dana s njihovih prozora vide se prekrasna Korèula, Pelješac i Hvar. </p>
+</div>
+</section>
+</div>
+</p><p align="justify"><br>- Tajna prihvatljivog krajnjeg troška je u balansiranju - na bezbrojnim komadima sam uštedjela restaurirajuæi ih, i upravo zato ponegdje sam si mogla dopustiti skuplji aparat ili detalj - pojašnjava. Uz dnevni boravak, blagovaonicu i kuhinju, na prvom katu nailazimo i na spavaæu sobu i kupaonicu. Sve te prostorije stilom si meðusobno odgovaraju. Utjecaj je oèigledno mediteranski, no vlasnica nam je isprièala kako je dug niz godina upijala ideje kako iz Italije, tako i s Istre i Kvarnera, ali i svih drugih lokacija koje su na nju ostavile dojam. <br>Pregledala je, kaže, tisuæe starih fotografija i posjetila stotine mjesta, pa je i svoju kuæu uredila u skladu s viðenim, poštivajuæi uz to sve standarde današnjice. Spavaæe sobe ove kuæe klasièno su mediteranski prozraène i mirisne. <br>Kreveti od masivna drva i bijele èipkane posteljine njihovi su glavni aduti, baš kao i pogled koji tijekom lijepog vremena puca sve do Pelješca, Hvara, Korèule... </p><p align="justify"> <div class="e4-sub-article ">
+<section>
+<div>
+<p>Konoba kuæe svojom velièinom dovoljna je taman za sve stanovnike Zaostroga koji nerijetko do dugo u noæ ovdje uživaju u veselim druženjima i ukusnim jelima. </p>
+</div>
+</section>
+</div>
+</p><p align="justify">
+<section>
+<article class="interijeri media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic52-030418jpg/7370436" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic52-030418jpg/7370436/ALTERNATES/FREE_380/zaostrog_jurcevic52-030418.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic52-030418jpg/7370436/BINARY/thumbnail/zaostrog_jurcevic52-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: terasa s pogledom na more
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+<div class="picture-author">
+<span> CROPIX
+</span>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section>
+</p><p align="justify"><br>U ljepoti prirode ovdje se uživa i na velikoj terasi s ljetnom kuhinjom, a prema želji, stanari i njihovi gosti mogu uživati i u dvorištu koje takoðer ima ljetnu kuhinju, ali i prekrasan bazen s pogledom na more, pozicioniran na 200-tinjak metara nadmorske visine. <br>Popodnevna siesta u ovoj kuæi dodatno je opuštajuæa kad do vas dopiru i divni mirisi ovdje zasaðenog autohtonog bilja poput lavande i ružmarina. No, vratimo se interijeru, jer doista je jednako impresivan kao i eksterijer. Na drugom, ujedno i posljednjem katu, uz kupaonicu se nalaze još dvije spavaæe sobe, takoðer prožete prirodnim materijalima i bojama. Kamen na zidovima, drveni namještaj, daske na podu i svijetli, bijeli i plavi tonovi i ovdje su se, kao i u ostatku kuæe, pokazali kao dobitna kombinacija za osjeæaj ugode, tradicije i svježine. </p><p align="justify"><br>Lijepa je to prièa o ljubavi prema jednome mjestu, njegovim èarima i potrebi života u onome što ste sagradili sami, no junakinju naše interijerske prièe život je ipak smjestio u metropolu. Ipak, kako kaže, svaki slobodan trenutak pokušava iskoristiti za odlazak u svoju morsku oazu koja je, prema njezinim planovima i zamislima, trebala biti kuæa stvorena za život 365 dana u godini. <br>I upravo zato bila je toliko ustrajna u namjeri da je sagradi bez obzira na nedostatak struje i vode te opæenito komplicirane uvjete gradnje i ureðenja. I kad su joj svi govorili da odustane od &quot;sulude zamisli&quot;, ostvarenje davnog sna rezultiralo je nekretninom koja je predmet divljenja mnogih.</p><p align="justify"> </p><p align="justify"> <section>
+<article class="interijeri media galleryCall ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog-kamena-ljepotica-iz-djecje-maste/7370493/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog-kamena-ljepotica-iz-djecje-maste/7370493/">
+<img src="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic9-030418jpg/7370295/ALTERNATES/LANDSCAPE_380/zaostrog_jurcevic9-030418.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/domidizajn/interijeri/zaostrog_jurcevic9-030418jpg/7370295/BINARY/thumbnail/zaostrog_jurcevic9-030418.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Zaostrog, 290318.
+Rekonstruirana kamena kuca Marije Jurcevic u starom selu u Zaostrogu.
+Na fotografiji: dnevni boravak
+Foto: Tom Dubravec / CROPIX"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+ </p><p align="justify">FOTO: Tom Dubravec/Hanza Media</p>
+</div>
+<script type="text/javascript" language="javascript">
+$(document).ready(function () {
+// Removing empty paragraphs first
+$("#content-body-6263871-7370571 p").filter(function () {
+var html = $.trim($(this).html());
+if (html == '' || html == '&nbsp;')
+return true;
+}).remove();
+// Taking a subset of paragraphs using offset and maximum
+var offset = 1;
+var max = -1;
+if (offset > 1) {
+$("#content-body-6263871-7370571").children().slice(0, offset - 1).remove();
+}
+if (max > -1) {
+$("#content-body-6263871-7370571").children().slice(max).remove();
+}
+// Show dateline field at the beginning of the first paragraph
+var showDateline = true;
+var datelineStr = "";
+if (offset <= 1 && showDateline == true && datelineStr != "") {
+var firstChild = $("#content-body-6263871-7370571").children().get(0);
+if ("P" == firstChild.nodeName.toUpperCase()) {
+$(firstChild).prepend("<span>" + datelineStr + " - </span>");
+}
+else {
+$(firstChild).before("<span>" + datelineStr + "</span>");
+}
+}
+});
+</script>
+</section>
+<section>
+<div id="inArticleBanner">
+<div id="jl-inarticle-wrapper-2" class="jl-inarticle-wrapper">
+<div id="jl-inarticle-2" class="jl-inarticle">
+<!-- /11425286/jl_cla_ia_2 -->
+<div id='div-gpt-ad-1459756830165-8'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459756830165-8'); });
+</script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+if ($("[id^='content-body-'] > p").length < 3) {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 - 1));
+}
+});
+</script>
+</section>
+<div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/ure%C4%91enje-1" class ="label label-default" >
+ureðenje
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Dalmacija" class ="label label-default" >
+Dalmacija
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/kamena_ku%C4%87a-3" class ="label label-default" >
+kamena kuæa
+</a>
+</li>
+</ul>
+</div>
+<div id="related-news-box"
+class="rel_art_ib ">
+<h3>
+Vezane vijesti
+</h3>
+<section>
+</section>
+</div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div style="text-align:center;" class="addthis_responsive_sharing"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Izdvajamo</span></div></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__302"></div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__301"></div>
+</div>
+</div>
+<div class="row jl-scroll-container " >
+<div class="col-sm-8 " >
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midas" class="center-block" style="width:100%; max-width:600px;">
+<div id="midasWidget__72"></div>
+<script async src="https://cdn.midas-network.com/Widget/IndexAsync/1?portalWidgetId=72&portalWidgetId=301&portalWidgetId=302" type="text/javascript"></script>
+</div>
+</div>
+<section>
+<div id="jl-inarticle-wrapper-3" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-9">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-9"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-9");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+<div class="separator alt ">
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7370571" data-colorscheme="light" data-numposts="5"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-1">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-1"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0.00;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-1");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="emp_block article_most_read sidebar ">
+<h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
+<div class="row">
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
+<section>
+<article class="interijeri media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/moderan-stan-u-potkrovlju/7365867/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderan-stan-u-potkrovlju/7365867/">
+100 KVADRATA UREÐENIH BEZ GREŠKE
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/moderan-stan-u-potkrovlju/7365867/">
+Moderan stan u potkrovlju
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
+<section>
+<article class="interijeri media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/u-posjetu-mladim-ekonomistima-iz-zagreba/7365921/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/u-posjetu-mladim-ekonomistima-iz-zagreba/7365921/">
+Stan od 40 èetvornih metara
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/u-posjetu-mladim-ekonomistima-iz-zagreba/7365921/">
+U posjetu mladim ekonomistima iz Zagreba
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
+<section>
+<article class="interijeri media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/30-kvadrata-cistog-hedonizma/7361406/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/30-kvadrata-cistog-hedonizma/7361406/">
+Savršen spoj lijepog i pametnog
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/30-kvadrata-cistog-hedonizma/7361406/">
+30 kvadrata èistog hedonizma
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
+<section>
+<article class="interijeri media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/domidizajn/interijeri/zavirite-u-famozan-stan-u-zagrebackoj-podsljemenskoj-zoni/7368561/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/zavirite-u-famozan-stan-u-zagrebackoj-podsljemenskoj-zoni/7368561/">
+GRADSKI RAJ
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/domidizajn/interijeri/zavirite-u-famozan-stan-u-zagrebackoj-podsljemenskoj-zoni/7368561/">
+Zavirite u famozan stan u zagrebaèkoj podsljemenskoj zoni </a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Iz drugih medija</span></div></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-4 " >
+<iframe src="https://widgets.jutarnji.hr/vanjski/slobodna/?section=kvadratpomom" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="col-sm-4 " >
+<iframe src="https://widgets.jutarnji.hr/vanjski/zadovoljna/" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="col-sm-4 " >
+<iframe src="https://widgets.jutarnji.hr/vanjski/tportal/?section=lifestyle" width="100%" height="350" frameborder="0" scrolling="no"></iframe>
+</div>
+</div>
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-bot-wrapper" class="jl-billboard-bot">
+<div id="div-gpt-ad-1462358187814-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1462358187814-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1462358187814-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+<footer class="siteFoot ">
+<div class="container ">
+<a href="#top">Povratak na vrh</a>
+<div class="row footNav ">
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/">
+Naslovnica
+</a>
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row socialize ">
+<div class="row col-xs-12 " >
+<dl class="socialLinks">
+<dt>Poveži se s Jutarnjim</dt> <dd><a class="fb" href="https://www.facebook.com/jutarnji.list/" title="Facebook">Facebook</a></dd>
+<dd><a class="tw" href="https://twitter.com/jutarnjihr" title="Twitter">Twitter</a></dd>
+<dd><a class="in" href="https://www.instagram.com/jutarnji.hr/" title="Instagram">Instagram</a></dd>
+</dl>
+</div>
+</div>
+<div class="row siteInfo ">
+<div class="col-xs-12 ">
+<p><a class="jl" href="/" title="Jutarnji list">Jutarnji list</a></p>
+<ul class="family">
+<li><a class="sd" href="http://www.slobodnadalmacija.hr/" title="Slobodna Dalmacija">Slobodna Dalmacija</a></li>
+<li><a class="sn" href="http://sportske.jutarnji.hr/" title="Sportske Novosti">Sportske Novosti</a></li>
+<li><a class="sto" href="http://100posto.hr/" title="100posto">100posto</a></li>
+<li><a class="glob" href="http://www.jutarnji.hr/globus/" title="Globus">Globus</a></li>
+<li><a class="zv" href="http://zivim.hr/" title="Živim.hr">Živim.hr</a></li>
+<li><a class="glo" href="http://www.gloria.hr/" title="Gloria">Gloria</a></li>
+<li><a class="dh" href="http://www.jutarnji.hr/dobrahrana/" title="Dobra hrana">Dobra hrana</a></li>
+<li><a class="did" href="http://www.jutarnji.hr/domidizajn/" title="Dom &amp; Dizajn">Dom &amp; Dizajn</a></li>
+<li><a class="ak" href="http://www.jutarnji.hr/autoklub/" title="Autoklub">Autoklub</a></li>
+<li><a class="ok" href="http://okjeok.hr/" title="ok!">ok!</a></li>
+<li><a class="ds" href="https://www.dosi.hr/" title="Dosi">Dosi</a></li>
+<li><a class="dv" href="http://dubrovacki.hr/" title="Dubrovacki Vjesnik">Dubrovacki Vjesnik</a></li>
+<li><a class="zd" href="http://www.zadarski.hr/" title="Zadarski">Zadarski</a></li>
+<li><a class="lc" href="http://www.likecroatia.com/" title="LikeCroatia">LikeCroatia</a></li>
+</ul>
+<ul class=" legal">
+<li class="">
+<a href="https://www.jutarnji.hr/Opci-uvjeti/">
+Opæi uvjeti korištenja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-prenosenja-sadrzaja/">
+Pravila prenošenja sadržaja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Zastita-privatnosti/">
+Zaštita privatnosti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-komentiranja/">
+Pravila komentiranja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Impressum/">
+Impressum
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Kontakt/">
+Kontakt
+</a>
+</li>
+<li class="">
+<a href="http://apps.jutarnji.hr/HM-Digital-Cjenik.pdf" target="_blank">
+Oglašavanje
+</a>
+</li>
+</ul>
+<p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
+</div>
+</div>
+</div>
+</footer>
+<script>
+function fbCommentGA() {
+FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'Facebook Comment', 'Posted', window.location.href, 1);
+});
+}
+window.onload = fbCommentGA;
+</script>
+<!-- Midas Pixel Code -->
+<img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
+<!-- DO NOT MODIFY -->
+<!-- End Midas Pixel Code -->
+<script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
+<div id="jl-floater-wrapper" class="jl-floater-wrapper">
+<div id="jl-float" class="jl-floater">
+<!-- /11425286/jl_floater -->
+<div id='div-gpt-ad-1459756830165-6'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-6"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-6'); });
+}
+</script>
+</div>
+</div>
+</div>
+<div id="jl-wallpaper-wrapper" class="jl-wallpaper-wrapper">
+<div id="jl-wallpaper" class="jl-wallpaper">
+<!-- /11425286/jl_wp -->
+<div id='div-gpt-ad-1459756830165-10'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-10"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-10'); });
+}
+</script>
+</div> </div>
+</div>
+<div class="hidden-xs ">
+<div id="side-article-widget" class="side-article-widget" style="display: none;">
+<div class="clearfix">
+<div class="pull-left side-article-column">
+<a href="https://100posto.hr/scena/tina-fey-zna-da-ne-moramo-biti-savrsene-i-nije-ju-briga-sto-drugi-misle-o-njoj-zato-svi-zelimo-biti-ona-kad-odrastemo?utm_campaign=internal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<div class="side-article clearfix">
+<div class="pull-left side-article-image">
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1526655733profimedia-0098985382.jpg?v=1526656246" />
+</div>
+<div class="pull-right side-article-text-wrapper">
+<div class="side-article-text">
+<h4>SRETAN ROÐENDAN!/Tina Fey zna da ne moramo biti savršene i nije ju briga što drugi misle o njoj, zato svi želimo biti ona kad odrastemo</h4>
+<hr class="side-article-hr" />
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="pull-right side-control-column">
+<div class="side-control">
+<a href="#" class="side-button" data-status="open">&#9658;</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+$('#side-article-widget a.side-button').click(function (event) {
+event.preventDefault();
+var status = $(this).attr('data-status');
+if (status === 'open') {
+$('.side-article-column').fadeOut('fast');
+$(this).attr('data-status', 'close');
+$(this).html('&#9664;');
+} else {
+$('.side-article-column').fadeIn('fast');
+$(this).attr('data-status', 'open');
+$(this).html('&#9658;');
+}
+});
+$(window).scroll(function (event) {
+var turnOnHeight = 1500;
+var scrolled = $(window).scrollTop();
+if (scrolled > turnOnHeight) {
+$('#side-article-widget').fadeIn('fast');
+} else {
+$('#side-article-widget').fadeOut('fast');
+}
+});
+});
+</script>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=70&contextPath=1-69-70-&pubId=1&cat=&meta=read-story&objId=7370571&type=article&title=Kamena+ljepotica+iz+dje%c4%8dje+ma%c5%a1te&url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fkamena-ljepotica-iz-djecje-maste%2f7370571%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=70&amp;contextPath=1-69-70-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7370571&amp;type=article&amp;title=Kamena+ljepotica+iz+dje%c4%8dje+ma%c5%a1te&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fdomidizajn%2finterijeri%2fkamena-ljepotica-iz-djecje-maste%2f7370571%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=145934473&title=kamena+ku%c4%87a&url=tag%3ajltags%40eph.hr%2c2016%3akamena_ku%25C4%2587a-3&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=145934473&amp;title=kamena+ku%c4%87a&amp;url=tag%3ajltags%40eph.hr%2c2016%3akamena_ku%25C4%2587a-3&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=471265776&title=Dalmacija&url=tag%3ajltags%40eph.hr%2c2016%3aDalmacija&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=471265776&amp;title=Dalmacija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aDalmacija&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&cat=jltags%40eph.hr%2c2016&objId=283719143&title=ure%c4%91enje&url=tag%3ajltags%40eph.hr%2c2016%3aure%25C4%2591enje-1&rt=1&ctxId=70&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-69-70-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=283719143&amp;title=ure%c4%91enje&amp;url=tag%3ajltags%40eph.hr%2c2016%3aure%25C4%2591enje-1&amp;rt=1&amp;ctxId=70&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"media.jwplayer.hls.enabled":"true","audioPlayer":"mediaelement","media.jwplayer.sharing.enabled":"true","lc.liveLoading.pollingInterval":"5","media.jwplayer.ga.enabled":"true","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","media.jwplayer.options.primary":"flash","videoPlayer":"flowplayer"};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "https://www.jutarnji.hr/";
+/* Client-side device detection */
+var WFClientTypeDef = {"small":"(max-width: 767px)","large":"(min-width: 992px)","medium":"(min-width: 768px) and (max-width: 991px)"};
+var imageSizes = [80, 180, 280, 380, 480, 580, 680, 780, 880, 980, 1080, 1180];
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+</script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style")
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+)
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/jquery-1.10.2.min.js"></script>
+<script>(function ($, d) {
+$.each(readyQ, function (i, f) {
+$(f)
+});
+$.each(bindReadyQ, function (i, f) {
+$(d).bind("ready", f)
+})
+})(jQuery, document)</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/wf-site.65c4eb6cf51818ab41250bfab36dff26.js"></script>
+<script type="text/javascript">
+require(['https://www.jutarnji.hr/static/js/holder.js'], function () {});
+</script>
+<script>
+var _ain = {};
+$(function() {
+$
+.ajax({
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/domidizajn/interijeri/kamena-ljepotica-iz-djecje-maste/7370571/',
+dataType : 'jsonp',
+success : function(data) {
+var commentsCount = 0;
+if (typeof data.comments != 'undefined') {
+commentsCount = data.comments;
+}
+/* CONFIGURATION START */
+_ain = {
+id : "1247",
+url : "https://www.jutarnji.hr/domidizajn/interijeri/kamena-ljepotica-iz-djecje-maste/7370571/",
+postId : "7370571",
+maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
+title : "Kamena ljepotica iz djeèje mašte",
+pubdate : "2018-05-18 10:54",
+authors : "Anja Maðareviæ",
+sections : "Živim, Interijeri",
+tags : "kamena kuæa, Dalmacija, ureðenje",
+comments : commentsCount.toString()
+};
+/* CONFIGURATION END */
+(function(d, s) {
+var sf = d.createElement(s);
+sf.type = 'text/javascript';
+sf.async = true;
+sf.src = (('https:' == d.location.protocol) ? 'https://d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com'
+: 'http://t.contentinsights.com')
++ '/stf.js';
+var t = d.getElementsByTagName(s)[0];
+t.parentNode.insertBefore(sf, t);
+})(document, 'script');
+}
+});
+});
+</script>
+</body>
+</html>

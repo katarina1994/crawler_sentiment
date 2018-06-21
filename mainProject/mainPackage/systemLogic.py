@@ -14,7 +14,7 @@ import glob
 import os
 import codecs
 import spiders.myFirstSpider as sp
-#import spiders.roundRobinSpider as rrsp
+import spiders.roundRobinSpider as rrsp
 import spiders.cleanTextParser as ctp
 import CroatianStemmer.Croatian_stemmer as stem
 import sentiment.topicModeling as tm
@@ -42,34 +42,6 @@ def runCrawl():
     regularSpiderCrawl.spider("https://" + domain, domain, regexExpr, int(numberOfPages), fAll, numberOfLinksBeforeCrawl)
     fAll.close()
 
-
-    """
-    #ROUDN ROBIN -> fix "if url not in allLines" (don't save already saved articles)
-    domains = []
-    regexExpressions = []
-    howManyPagesToCrawl = 0
-    
-    f_RRconfig = open("configurationFiles/roundRobinConfig.txt", 'r');
-    numberVisited = sum(1 for line in open('allLinks.txt'))
-    howManyPagesToCrawl = int(f_RRconfig.readline())
-    while 1:
-        line = f_RRconfig.readline().strip("\n").split(",")#strip("[").strip("]").strip("\n")
-        if not line[0]:
-            break
-        #print (line)
-        domains.append(line[0])
-        regexExpressions.append(line[1])
-    
-    pagesToVisit = []
-    for domain in domains:
-        pagesToVisit.append("https://" + domain)
-    
-    fAll = codecs.open("allLinks.txt", 'a', encoding='Windows-1250')
-    roundRobinSpiderCrawl = rrsp.RoundRobinSpider()
-    links = roundRobinSpiderCrawl.roundRobinSpider(pagesToVisit, domains, regexExpressions, howManyPagesToCrawl, fAll, numberVisited)
-    fAll.close()
-    """
-    
     numberOfLinks = sum(1 for _line in open('allLinks.txt'))
     print (numberOfLinks)
     # Get clean text from articles HTML and write it to file
@@ -83,6 +55,49 @@ def runCrawl():
 
 
 
+# START CRAWLER AND CLEAN ARTICLE TEXT
+def runCrawlRoundRobin():
+    
+    #ROUDN ROBIN
+    domains = []
+    regexExpressions = []
+
+    fAll = codecs.open("allLinks.txt", 'r', encoding='Windows-1250')
+    numberOfLinksBeforeCrawl = sum(1 for _line in open('allLinks.txt'))    
+    fAll.close()
+    
+    f_RRconfig = open("configurationFiles/roundRobinConfig.txt", 'r');
+    numberOfPages = int(f_RRconfig.readline())
+    print (numberOfPages)
+    numberVisited = sum(1 for line in open('allLinks.txt'))
+    while 1:
+        line = f_RRconfig.readline().strip("\n").split(",")#strip("[").strip("]").strip("\n")
+        if not line[0]:
+            break
+        print (line)
+        domains.append(line[0])
+        regexExpressions.append(line[1])
+     
+    pagesToVisit = []
+    for domain in domains:
+        pagesToVisit.append("https://" + domain)
+    
+    fAll = codecs.open("allLinks.txt", 'a+', encoding='Windows-1250')
+    roundRobinSpiderCrawl = rrsp.RoundRobinSpider()
+    roundRobinSpiderCrawl.roundRobinSpider(pagesToVisit, domains, regexExpressions, numberOfPages, fAll, numberVisited)
+    fAll.close()
+    
+    
+    numberOfLinks = sum(1 for _line in open('allLinks.txt'))
+    # Get clean text from articles HTML and write it to file
+    cleanTextParser = ctp.CleanText()
+    cleanTextParser.writeCleanTextAndTitlesFromHtmlToFile("allLinks.txt", numberOfLinks, int(numberOfPages))
+    
+    # Get stemmed words from clean text of atricles
+    stemmer = stem.CroatianStemmer()
+    stemmer.stemWords(numberOfLinksBeforeCrawl)
+    
+
 
 # FIND ARTICLE TOPICS, RUN NER, HELP WITH CATALOUGE-TITLES
 def runAnalizeTopicSaveDB():
@@ -93,7 +108,7 @@ def runAnalizeTopicSaveDB():
     numberOfLinks = sum(1 for _line in open('allLinks.txt'))
     
     
-    # MAKNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!1
+    # MAKNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!
     #numberOfLinks = 0
     #numberOfPages = 0  
     
@@ -149,7 +164,6 @@ def runAnalizeTopicSaveDB():
     numberMatched = numberFiles
     for person in matchedPersonInDB:
         print (person)
-        print (numberMatched)
         link = person[1]
         articleText = cleanTextParser.getOneArticleText(link)
         f = codecs.open("matchedArticle/article-%05d.txt" % numberMatched, 'w', encoding='Windows-1250')
@@ -161,7 +175,11 @@ def runAnalizeTopicSaveDB():
     # SAVING TO DB !!
     #matchedPersonInDB = list(set(matchedPersonInDB)) # to get rid of duplicates in list       
     for personDB in matchedPersonInDB:
-        catalogue.savePersonInfoToDB(personDB)
+        link = personDB[1]
+        publishingDate = cleanTextParser.getDateFromURL(link)
+        imageArticle = cleanTextParser.getImageOfArticle(link)
+        print (link, publishingDate, imageArticle)
+        catalogue.savePersonInfoToDB(personDB, publishingDate, imageArticle)
     
 
 

@@ -13,7 +13,8 @@ import sentiment.topicModeling as tm
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cross_validation import train_test_split
 #from sklearn.naive_bayes import MultinomialNB
-from sklearn.svm import SVC
+from sklearn.svm import LinearSVC
+#from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 
 
@@ -100,6 +101,12 @@ class SVM():
                 data.append(i)
                 dataLabelsTrain.append('neg')
         
+        with open("neutralArticles.txt") as f:
+            for i in f: 
+                data.append(i)
+                dataLabelsTrain.append('neu')
+        
+        
         
         articles = []
         for fileName in glob.glob(os.path.join(path, '*.txt')):
@@ -128,6 +135,8 @@ class SVM():
         print(y_test)
         
         
+        
+        """
         #log_model = MultinomialNB()
         log_model = SVC(kernel='linear')
         log_model = log_model.fit(X=X_train, y=y_train)
@@ -137,8 +146,15 @@ class SVM():
         
         print (y_pred)
         print(accuracy_score(y_test, y_pred))
+        """
         
         
+        log_model = LinearSVC()
+        log_model.fit(X_train, y_train)
+        y_pred = log_model.predict(X_test)
+        score = log_model.score(X_test, y_test)
+        print (score)
+        print(accuracy_score(y_test, y_pred))
         
         featuresTest = vectorizer.transform(dataTest)
         featuresNDTest = featuresTest.toarray()

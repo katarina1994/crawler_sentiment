@@ -4,7 +4,9 @@ Created on 12. sij 2018.
 @author: Katarina123
 '''
 
+import re
 import codecs
+import urllib
 from urllib.request import urlopen  
 from bs4 import BeautifulSoup as bs
 #from bs4.element import Comment
@@ -84,7 +86,12 @@ class CleanText():
         numberOfLinks = numberOfLinks - numberOfPages
         
         while (numberOfLinks < len(links)):
-            html = urlopen(links[numberOfLinks]).read()
+            html = ""
+            try:
+                html = urlopen(links[numberOfLinks]).read()
+            except urllib.error.HTTPError as e:
+                html = "404 NOT FOUND"
+                print(e)
             cleanTexts = self.getTextFromHtml(html)
             cleanTexts = cleanTexts.strip(" ").strip("\t").strip("\n").strip("\r").strip()
             listOfArticles.append(cleanTexts)
@@ -147,4 +154,23 @@ class CleanText():
         else:
             listPoly.append("-")
         return listPoly
+    
+    
+    def getDateFromURL(self, link):
         
+        html = urlopen(link).read()
+        html = html.decode("utf-8") 
+        dateRegex = re.compile("\d{4}-\d\d-\d\dT")
+        matchedDates = re.findall(dateRegex, html)
+        return matchedDates[0].rstrip("T")
+        
+        
+    def getImageOfArticle(self, link):
+        
+        html = urlopen(link).read()
+        soup = bs(html, 'html.parser')
+        image = soup.find("meta",  property="og:image")
+        if(image):
+            return image["content"]
+        else:
+            return "No image to display!"

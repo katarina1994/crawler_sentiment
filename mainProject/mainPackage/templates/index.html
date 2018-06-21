@@ -30,6 +30,24 @@
 	
 	<script type=text/javascript>
         $(function() {
+          $('a#RRtestCrawlTopicSave').bind('click', function() {
+        	$('#RRloader1').show();
+            $.getJSON('/startRoundRobinCrawlerSentiment', 
+               { numofarticles : $('input[name="RRnumart"]').val(),
+            	 portal : $('#RRselectedPortal').find(":selected").text()},
+                function(data) {
+            		$('#RRloader1').hide();
+            		$('input[name="RRnumart"]').val("");
+            		$('#RRselectedPortal').val("");
+              //do nothing
+            });
+            return false;
+          });
+        });
+	</script>
+	
+	<script type=text/javascript>
+        $(function() {
           $('a#testFindAll').bind('click', function() {
         	$('#loader2').show();
             $.getJSON('/startFindAll',
@@ -70,6 +88,7 @@
           });
         });
 	</script>	
+
 </head>
 
 <body>
@@ -84,7 +103,7 @@
 									<img src="static/images/politika.jpg" class="image" alt="Politika" />
 								</a>
 								<div class="middle">
-									<div class="text">Politika</div>
+									<div class="text">Politics</div>
 								</div>
 						</div>
 						<div class = "container">
@@ -92,7 +111,7 @@
 									<img  src="static/images/glazba.jpg" class="image" alt="Glazba" />
 								</a>
 								<div class="middle">
-									<div class="text">Glazba</div>
+									<div class="text">Music</div>
 								</div>
 						</div>
 						<div class = "container">
@@ -114,7 +133,7 @@
 									<input class="inputart" type=text name=numart placeholder="Number of articles to crawl">
 									<div class="sel">			
 											<select id=selectedPortal class="selectport">
-    												<option selected value="0">Odaberite portal:</option>
+    												<option selected value="0">Choose news portal:</option>
     												<option value="1">Jutarnji list</option>
     												<option value="2">Index</option>
     												<option value="3">24sata</option>
@@ -125,28 +144,52 @@
 							</div>
 							<div id="logo">
 								<form>
-									<a href=# id=testFindAll class="action-button shadow animate green">Find all
+									<a href=# id=RRtestCrawlTopicSave class="action-button shadow animate lightblue"> Round Robin Crawl
+										<i id=RRloader1 class="fa fa-refresh fa-spin" style="display:none; float:right;"></i>
+									</a>
+									<input class="inputart" type=text name=RRnumart placeholder="Number of articles to crawl">
+									<div class="sel">			
+											<select style="height:200px" id=RRselectedPortal class="selectport" multiple>
+    												<option disabled value="0">Choose news portal:</option>
+    												<option value="1">Jutarnji list</option>
+    												<option value="2">Index</option>
+    												<option value="3">24sata</option>
+    												<option value="3">Večernji list</option>
+											</select>
+									</div>
+								</form>
+							</div>
+							<div id="logo">
+								<form>
+									<a href=# id=testSVM class="action-button shadow animate yellow">SVM Model
+										<i id=loader4 class="fa fa-refresh fa-spin" style="display:none; float:right;"></i>
+									</a>
+								</form>
+							</div>
+							<div id=result></div>
+							<div id="logo">
+								<form>
+									<a href=# id=testFindAll class="action-button shadow animate green">Find all from last crawl
 										<i id=loader2 class="fa fa-refresh fa-spin" style="display:none; float:right;"></i>
 									</a>
 									
 								</form>
 							</div>
-							<div id="logo">
+							<!-- <div id="logo">
 								<form>
-									<a href=# id=testPosNegWords class="action-button shadow animate yellow">Pos and Neg Words
+									<a href=# id=testPosNegWords class="action-button shadow animate lightblue">Pos and Neg Words
 										<i id=loader3 class="fa fa-refresh fa-spin" style="display:none; float:right;"></i>
 									</a>
 									
 								</form>
-							</div>
+							</div> -->
 							<div id="logo">
 								<form>
-									<a href=# id=testSVM class="action-button shadow animate red">SVM Model
-										<i id=loader4 class="fa fa-refresh fa-spin" style="display:none; float:right;"></i>
+									<a target="_blank" href="/showTimeline" class="action-button shadow animate red">Show timeline
+										<i id=loader5 class="fa fa-refresh fa-spin" style="display:none; float:right;"></i>
 									</a>
 								</form>
-							</div>
-							<div id=result></div>					
+							</div>					
 					</div>  
 					<div class="incontainer">
 						<div class = "container">
@@ -154,7 +197,7 @@
 									<img src="static/images/kazaliste.jpg" class="image" alt="Kazalište" />
 								</a>
 								<div class="middle">
-									<div class="text">Kazalište</div>
+									<div class="text">Theater</div>
 								</div>
 						</div>
 						<div class = "container">
@@ -170,7 +213,7 @@
 									<img  src="static/images/poduzetnistvo.jpg" class="image" alt="Poduzetništvo" />
 								</a>
 								<div class="middle">
-									<div class="text">Poduzetništvo</div>
+									<div class="text">Business</div>
 								</div>
 						</div>
 					</div>

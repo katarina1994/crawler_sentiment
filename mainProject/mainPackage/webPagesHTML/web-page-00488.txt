@@ -1,0 +1,2552 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+>
+<head>
+<meta name="description" content="Netko nas je obavijestio da su na izložbi ‘Refleksije vremena’, koja je pratila poslijeratno razdoblje, i radovi našeg tate, crteži nastali na radnim akcijama. Otišle smo pogledati, otprilike smo znale što možemo oèekivati, no ipak nas je doèekalo iznenaðenje. Na jednom crtežu bile smo nas dvije kao sedmogodišnjakinje u kuhinji naše bake, omame, kako smo je zvale, prikazano je kako nam daje doruèak, baka ima pregaèu. Crtež je iz Narodnog muzeja Zadar. Ne znamo kako je tamo dospio”, prisjeæa se Dora Kinert Buèan iznenaðenja od prije nekoliko godina na izložbi koja je u Kloviæevim dvorima obuhvatila razdoblje izmeðu 1945. i 1955. Dora Kinert Buèan, koja je diplomirala filozofiju i sociologiju te je autorica nekoliko knjiga, meðu kojima je i “Zamalek”, i njezina sestra - likovna umjetnica Nada Žiljak, kæeri su poznatog umjetnika Alberta Kinerta èija je retrospektiva upravo otvorena u Modernoj galeriji. Sin Dore Kinert Buèan je Jagor Buèan, likovni umjetnik, koji je svojedobno napisao i Kinertovu, dakle, djedovu monografiju, a kæi Nade Žiljak je Jana Žiljak, dizajnerica. “Nije bilo šanse da se bavimo nekim drugim zanimanjima”, složit æe se obje iako nerado govore za javnost o svom ocu koji je bio vrlo samozatajan. “Njegov su život njegova djela, ona govore o njemu”, kaže Dora Kinert Buèan." />
+<meta name="keywords" content="Albert Kinert, izložba, Moderna galerija" /> <link rel="search" type="application/opensearchdescription+xml" title="Jutarnji List" href="/opensearch.xml" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>ALBERT KINERT, ZANEMARENI BUNTOVNIK Došao s devet godina u Zagreb, u cipelama bez ðonova, noæu kraduæi ugljen. Tek s 18 ponovno se susreo s crtanjem - Jutarnji List</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/jl-dfp-style.css?v=72">
+<script type="text/javascript" src="https://apps.jutarnji.hr/cdn/js/prebid-0.34-ox.js" async></script>
+<script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+window.Criteo = window.Criteo || {};
+window.Criteo.events = window.Criteo.events || [];
+</script>
+<section>
+<!-- DFP verzija 11 -->
+<script src="https://ads-jutarnji.r.worldssl.net/cdn/jutarnjihr/stickyfill.min.js" type="text/javascript"></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function () {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' === document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+//DFP vars
+dfpId = 11425286;
+dfpName = 'jl';
+dfpAsync = true;
+dfpSingleRequest = true;
+dfpCollapseEmpty = true;
+dfpDisableInitialLoad = true;
+dfpMobileMaxWidth = 960;
+dfpStickyMinWidth = 1024;
+dfpStickyUnitHeightLimit = 600;
+dfpStickyColumnHeightLimit = 680;
+dfpLazyUnitOffset = 3000;
+dfpUnitRefresh = 15000;
+doClickTracking = false;
+dfpAdSlots = {};
+dfpLazyLoad = [];
+dfpUnits = {
+"cla" : {
+"div-gpt-ad-1459756830165-0" : {
+"slot" : "aside1",
+"unit" : "300x600",
+"size" : [[300, 600], [300, 1], [300, 1050], [300, 601], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-1",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
+},
+"div-gpt-ad-1459756830165-1" : {
+"slot" : "aside2",
+"unit" : "300x602",
+"size" : [[300, 600], [300, 2], [300, 602], [300, 250]],
+"sizeType" : "aside",
+"container" : "jl-banner-wrapper-2",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "634"},
+"appnexus": {"placementId": "12512215"},
+"criteo": {"zoneId": "1103263"},
+"sovrn": {"tagid": "518900"},
+"openx": {"unit": "539865163"}
+},
+},
+"div-gpt-ad-1459756830165-2" : {
+"slot" : "billboard",
+"unit" : "bb_nav",
+"size" : [[1180, 150], [1180, 500], [970, 500], [970, 1000], [970, 90], [300, 100], [300, 150], [320, 100], [320, 50], [1180, 250], [300, 50], [1, 3], [970, 250], [970, 251]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-nav-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1462358187814-0" : {
+"slot" : "billboardbot",
+"unit" : "bb_bot",
+"size" : [[300, 250], [320, 100], [320, 50], [1180, 250], [970, 250], [970, 90], [1, 7]],
+"sizeType" : "pagebreak",
+"container" : "jl-billboard-bot-wrapper",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-7" : {
+"slot" : "inarticle1",
+"unit" : "ia_1",
+"size" : [[300, 50], [320, 50], [320, 100], [300, 150], [760, 250], [760, 500], [320, 480], [600, 250], [570, 250], [728, 90], [300, 100], [2, 1], [300, 250], [300, 605]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-1",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-8" : {
+"slot" : "inarticle2",
+"unit" : "ia_2",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [300, 100], [300, 150], [2, 2], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-2",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : true,
+"prebidConfig" : {
+"connectad": {"placementId": "1024"},
+"appnexus": {"placementId": "12512211"},
+"criteo": {"zoneId": "1103264"},
+"sovrn": {"tagid": "518901"},
+"openx": {"unit": "539865166"}
+},
+"prebidConfigMobile" : {
+"connectad": {"placementId": "637"},
+"appnexus": {"placementId": "12512220"},
+"criteo": {"zoneId": "1103262"},
+"sovrn": {"tagid": "518899"},
+"openx": {"unit": "539865168"}
+},
+},
+"div-gpt-ad-1459756830165-9" : {
+"slot" : "inarticle3",
+"unit" : "ia_3",
+"size" : [[300, 50], [320, 100], [320, 50], [760, 250], [728, 90], [600, 250], [570, 250], [2, 3], [300, 100], [300, 150], [300, 250]],
+"sizeType" : "pagebreak",
+"container" : "jl-inarticle-wrapper-3",
+"lazyLoad" : true,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-6" : {
+"slot" : "float",
+"unit" : "float",
+"size" : [1, 1],
+"sizeType" : "outofpage",
+"container" : "jl-floater-wrapper",
+"lazyLoad" : false,
+"mobile" : true,
+"deviceType" : "all",
+"loaded" : false,
+"prebid" : false
+},
+"div-gpt-ad-1459756830165-10" : {
+"slot" : "wallpaper",
+"unit" : "wp",
+"size" : "",
+"sizeType" : "outofpage",
+"container" : "jl-wallpaper-wrapper",
+"lazyLoad" : false,
+"mobile" : false,
+"deviceType" : "desktop",
+"loaded" : false,
+"prebid" : false
+},
+}
+};
+var dfpCountryCode = "HR";
+var dfpCurrentPageType = "cla";
+var dfpGalleryImgNum = 0;
+var dfpGalleryUnitNum = 0;
+var dfpCategory = "Art";
+var dfpCategoryParent = "Kultura";
+var dfpRos = "kultura-ros";
+var dfpArticle = "7454013";
+var dfpArticleKeyword = "Albert Kinert";
+// oglasne jedinice za trenutaènu stranicu
+var dfpPlacementUnits = dfpUnits[dfpCurrentPageType];
+// jedinice koje je potrebno osvježiti
+var dfpRefreshUnits = [];
+// jedinice koje je potrebno osvježiti a ulaze u prebid
+var dfpRefreshPrebidUnits = [];
+var dfpWindowWidth = dfpGetWindowWidth();
+var dfpWindowDPR = window.devicePixelRatio;
+var dfpIsMobile = false;
+if (dfpWindowWidth <= dfpMobileMaxWidth) {
+dfpIsMobile = true;
+}
+var dfpBreakpoint = dfpGetBreakpoint();
+var dfpPrebid = true;
+if (dfpCountryCode === 'HR') {
+dfpPrebid = false;
+}
+var dfpPrebidTimeout = 3000;
+var dfpPrebidUnits = [];
+var dfpPrebidGranularity = {
+"buckets" : [
+{
+"min" : 0,
+"max" : 100,
+"increment" : 0.1
+}
+]
+};
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+// inicijaliziraj sve oglasne jedinice ovisno o uèitanoj stranici i postavljenim parametrima
+googletag.cmd.push(function() {
+dfpConfigUnits();
+});
+// dohvati širinu prozora
+function dfpGetWindowWidth() {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+return windowWidth;
+}
+// pronaði najmanji breakpoint za trenutaènu širinu prozora
+function dfpGetBreakpoint() {
+var breakpoints = [ 640, 768, 960, 1200, 1350, 1366, 1440, 1600, 1920, 2560 ];
+var minBreakpoint = [ 640 ];
+for (i = 0; i < breakpoints.length; i++) {
+if (dfpWindowWidth >= breakpoints[i]) {
+minBreakpoint = [ breakpoints[i] ];
+}
+}
+return minBreakpoint;
+}
+// provjeri sadrži li DOM traženi node
+function checkIfNodeInPage(node) {
+var inDocument = false;
+if (node === document.body) {
+inDocument = false;
+} else {
+inDocument = document.body.contains(node);
+}
+return inDocument;
+}
+// èekaj odreðeno vrijeme na poziv callback funkcije prilikom scroll eventa
+function dfpThrottleScrolling(callback, wait) {
+var time;
+var go = true;
+return function() {
+if (go) {
+go = false;
+time = setTimeout(function() {
+time = null;
+go = true;
+callback.call();
+}, wait);
+}
+};
+};
+// inicijaliziraj sticky bannere
+function dfpInitStickyBanners() {
+if (dfpWindowWidth >= dfpStickyMinWidth) {
+// univerzalni preporuèeni nazivi klasa
+var stickyRowClass = '.dfp-scroll-row';
+var stickyColClass = '.dfp-scroll-column';
+var stickyElementClass = '.dfp-sticky-unit';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima na svim portalima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+stickyRowClass = '.jl-scroll-container';
+stickyColClass = '.jl-banner-column';
+stickyElementClass = '.jl-banner-wrapper';
+}
+var stickyElementContainers = document.querySelectorAll(stickyRowClass);
+for (var i = stickyElementContainers.length - 1; i >= 0; i--) {
+var contentHeight = stickyElementContainers[i].offsetHeight;
+var stickyElementColumn = stickyElementContainers[i].querySelector(stickyColClass);
+if (stickyElementColumn !== null) {
+var stickyElement = stickyElementColumn.querySelector(stickyElementClass);
+if (stickyElement !== null) {
+if (dfpWindowDPR === 1) {
+var stickyElementHeight = stickyElement.offsetHeight;
+if (stickyElementHeight >= dfpStickyUnitHeightLimit) {
+if (contentHeight < dfpStickyColumnHeightLimit) {
+contentHeight = dfpStickyColumnHeightLimit;
+}
+} else {
+contentHeight = contentHeight - 20;
+}
+stickyElementColumn.style.height = contentHeight + 'px';
+Stickyfill.add(stickyElement);
+} else {
+stickyElement.classList.remove("jl-sticky-banner");
+}
+}
+}
+}
+}
+}
+// handler lazy load uèitavanja jedinica
+var dfpScrollHandler = dfpThrottleScrolling(function() {
+scrolled = window.scrollY;
+// provjeri postoje li lazy load jedinice ili ukloni listener
+if (dfpLazyLoad.length > 0) {
+dfpLazyLoad.forEach(function(adUnit) {
+var adUnitIndex = dfpLazyLoad.indexOf(adUnit);
+var unitContainer = document.getElementById(dfpUnits[dfpCurrentPageType][adUnit]['container']);
+if (checkIfNodeInPage(unitContainer)) {
+var containerOffset = unitContainer.getBoundingClientRect().top;
+if (containerOffset < dfpLazyUnitOffset) {
+var slot = dfpUnits[dfpCurrentPageType][adUnit]['slot'];
+googletag.cmd.push(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+});
+dfpLazyLoad.splice(adUnitIndex, 1);
+}
+}
+});
+} else {
+window.removeEventListener('scroll', dfpScrollHandler);
+}
+}, 250);
+function dfpConfigUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// drugaèiji inicijalizacijski kod za out of page jedinice
+if (unitData['unit'] == 'wp') {
+dfpAdSlots[unitData['slot']] = googletag.defineOutOfPageSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitId).addService(googletag.pubads());
+} else {
+dfpAdSlots[unitData['slot']] = googletag.defineSlot('/' + dfpId + '/' + dfpName + '_' + dfpCurrentPageType + '_' + unitData['unit'], unitData['size'], unitId).addService(googletag.pubads());
+}
+// targetiranje specifiènih velièina ekrana
+var sizeKey = 'WindowSizeAside';
+if (unitData['sizeType'] === 'pagebreak') {
+sizeKey = 'WindowSizePagebreak';
+} else if (unitData['sizeType'] === 'outofpage') {
+sizeKey = 'WindowSize';
+}
+dfpAdSlots[unitData['slot']].setTargeting(sizeKey, dfpBreakpoint);
+// targetiranje po rubrici
+if (dfpCategory !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Category', dfpCategory);
+}
+if (dfpCategoryParent !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('CategoryParent', dfpCategoryParent);
+}
+// targetiranje za èlanke
+if (dfpCurrentPageType === 'cla') {
+if (dfpArticle !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('Article', dfpArticle);
+}
+if (dfpArticleKeyword !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ArticleKeyword', dfpArticleKeyword);
+}
+}
+// ros targetiranje
+if (dfpRos !== '') {
+dfpAdSlots[unitData['slot']].setTargeting('ROS', dfpRos);
+}
+// ako jedinica treba biti lazy loadana stavi je u dfpLazyLoad niz (no ne smije biti u Prebidu) ili je dodaj u dfpRefreshUnits u sluèaju da je onemoguæeno inicijalno uèitavanje
+if (((dfpPrebid === false) || (unitData['prebid'] === false) || (typeof unitData['prebid'] === 'undefined')) && unitData['lazyLoad']) {
+dfpLazyLoad.push(unitId);
+} else {
+if (dfpDisableInitialLoad === true) {
+if ((dfpPrebid === true) && (unitData['prebid'] === true)) {
+dfpRefreshPrebidUnits.push(dfpAdSlots[unitData['slot']]);
+} else {
+dfpRefreshUnits.push(dfpAdSlots[unitData['slot']]);
+}
+}
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+function dfpConfigPrebidUnits() {
+if (dfpPlacementUnits !== '') {
+var dfpUnitCounter = 0;
+for (var unitId in dfpPlacementUnits) {
+if (dfpPlacementUnits.hasOwnProperty(unitId)) {
+if ((dfpCurrentPageType === 'fot') && ((dfpUnitCounter >= dfpGalleryUnitNum) || (dfpUnitCounter >= 5))) {
+break;
+}
+// podaci o trenutaènoj jedinici
+var unitData = dfpPlacementUnits[unitId];
+// provjeri treba li biti inicijalizirana ovisno o širini ekrana
+if (((dfpIsMobile === true) && (unitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (unitData['deviceType'] === 'desktop')) || (unitData['deviceType'] === 'all')) {
+// razlièita Prebid konfiguracija ovisno radi li se o mobilnim ili desktop ureðajima
+var unitPrebidConfigParam = 'prebidConfig';
+if (dfpIsMobile === true) {
+unitPrebidConfigParam = unitPrebidConfigParam + 'Mobile';
+}
+// ako je jedinica dostupna za bidding stavi ju u odgovarajuæi niz
+if (unitData['prebid'] && (unitData.hasOwnProperty(unitPrebidConfigParam))) {
+var unitBids = [];
+for (var bidderName in unitData[unitPrebidConfigParam]) {
+var bidderParams = [];
+bidderParams = unitData[unitPrebidConfigParam][bidderName];
+// dodatni parametri za connectad
+if (bidderName === 'connectad') {
+bidderParams['networkId'] = '10047';
+bidderParams['siteId'] = '977103';
+} else if (bidderName === 'openx') {
+bidderParams['delDomain'] = 'hanzamedia-d.openx.net';
+}
+var bidderData = {bidder: bidderName, params: bidderParams};
+unitBids.push(bidderData);
+}
+var dfpPrebidUnit = {
+code: unitId,
+sizes: unitData['size'],
+bids: unitBids
+}
+dfpPrebidUnits.push(dfpPrebidUnit);
+}
+}
+}
+dfpUnitCounter = dfpUnitCounter + 1;
+}
+}
+}
+// prebid
+function dfpPrebidSendAdServerRequest() {
+if (pbjs.adserverRequestSent) return;
+pbjs.adserverRequestSent = true;
+googletag.cmd.push(function() {
+pbjs.que.push(function() {
+pbjs.setTargetingForGPTAsync();
+googletag.pubads().refresh(dfpRefreshPrebidUnits);
+});
+});
+}
+if (dfpPrebid === true) {
+pbjs.que.push(function() {
+dfpConfigPrebidUnits();
+pbjs.setConfig({userSync: {iframeEnabled: true}});
+pbjs.setPriceGranularity(dfpPrebidGranularity);
+//pbjs.enableSendAllBids();
+pbjs.addAdUnits(dfpPrebidUnits);
+pbjs.requestBids({
+bidsBackHandler: dfpPrebidSendAdServerRequest
+});
+});
+setTimeout(function() {
+dfpPrebidSendAdServerRequest();
+}, dfpPrebidTimeout);
+}
+//setup and initialize dfp adunits
+googletag.cmd.push(function() {
+// asinkrono renderiranje
+if (dfpAsync === true) {
+googletag.pubads().enableAsyncRendering();
+}
+// dohvati sve u jednom requestu
+if (dfpSingleRequest === true) {
+googletag.pubads().enableSingleRequest();
+}
+// smanji prazne div elemente
+if (dfpCollapseEmpty === true) {
+googletag.pubads().collapseEmptyDivs();
+}
+// iskljuèi inicijalno uèitavanje
+if (dfpDisableInitialLoad === true) {
+googletag.pubads().disableInitialLoad();
+}
+// osvježi sve jedinice koje nisu lazy loadane i nisu u prebidu
+if ((dfpDisableInitialLoad === true) && (dfpRefreshUnits.length > 0)) {
+googletag.pubads().refresh(dfpRefreshUnits);
+}
+// izvršava se nakon što je pojedina oglasna jedinica renderirana, idealno mjesto za dodavanje klasa
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+if (!event.isEmpty) {
+// provjeri koja se toèno jedinica renderirala
+var slotId = event.slot.getSlotElementId();
+var isLoaded = !event.isEmpty;
+dfpUnits[dfpCurrentPageType][slotId]['loaded'] = isLoaded;
+// dohvati podatke o renderiranoj oglasnoj jedinici
+var unitData = dfpUnits[dfpCurrentPageType][slotId];
+// stavi dodatne klase na kontejnere oglasnih jedinica gdje je potrebno
+if (unitData['sizeType'] === 'aside') {
+if (dfpWindowWidth > dfpMobileMaxWidth) {
+var elementExtraClasses = ' dfp-box';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-box';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+}
+} else if (unitData['sizeType'] === 'pagebreak') {
+var elementExtraClasses = ' dfp-space';
+// stari nazivi klasa, trebaju se zamijeniti univerzalnima
+if ((dfpName === 'jl') || (dfpName === 'sn')) {
+elementExtraClasses = ' jl-banner-space';
+}
+var bannerElementWrapper = document.getElementById(unitData['container']);
+if (bannerElementWrapper !== null) {
+bannerElementWrapper.className += elementExtraClasses;
+}
+// fix za in article jedinice na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] !== 'ia_1') && (unitData['unit'] !== 'ia_2') && (unitData['unit'] !== 'ia_3')) {
+var parentObj;
+if (checkIfNodeInPage(bannerElementWrapper.parentNode)) {
+parentObj = bannerElementWrapper.parentNode;
+var elementClass = parentObj.className;
+var searchForRow = true;
+while ((elementClass.indexOf('row') == -1) && searchForRow) {
+if (checkIfNodeInPage(parentObj.parentNode)) {
+parentObj = parentObj.parentNode;
+elementClass = parentObj.className;
+} else {
+searchForRow = false;
+}
+}
+if (searchForRow) {
+parentObj.className += ' jl-has-banner';
+}
+}
+}
+} else if (unitData['sizeType'] === 'outofpage') {
+// fix za ispravan prikaz wallpapera na sportskim novostima
+if ((dfpName === 'sn') && (unitData['unit'] === 'wp')) {
+var bodyElement = document.querySelector('body');
+bodyElement.className += ' hasWallpaperBanner';
+}
+}
+}
+});
+googletag.enableServices();
+});
+// slušaj scroll event za potrebe uèitvanja lazy loadom
+window.addEventListener('scroll', dfpScrollHandler);
+// inicijaliziraj sticky bannere
+window.addEventListener('load', dfpInitStickyBanners);
+window.addEventListener('resize', dfpInitStickyBanners);
+</script>
+</section>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-37299110-3', 'auto');
+ga('create', 'UA-37299110-1', 'auto', {'name': 'newTracker'});
+ga('require', 'displayfeatures');
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');
+ga('newTracker.send', 'pageview');
+</script>
+<meta property="fb:pages" content="133205716542" />
+<meta property="og:description" content="&nbsp;" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5GCRM7');</script>
+<!-- End Google Tag Manager -->
+<script>
+var elipsoResizeTimeout;
+function elipsoIframeResizeThrottler(elipsoIframeId, elipsoIframeConfig) {
+if (!elipsoResizeTimeout) {
+elipsoResizeTimeout = setTimeout(function() {
+elipsoResizeTimeout = null;
+elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig);
+}, 250);
+}
+}
+function elipsoDisplayIframe(elipsoIframeId, elipsoIframeConfig) {
+var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+var elipsoBreakpoint = 0;
+var elipsoBreakpoints = [768, 992, 1200];
+for (i = 0; i < elipsoBreakpoints.length; i++) {
+if (windowWidth >= elipsoBreakpoints[i]) {
+elipsoBreakpoint = elipsoBreakpoints[i];
+}
+}
+var elipsoIframeSize = elipsoIframeConfig[elipsoBreakpoint];
+var elipsoIframeWH = elipsoIframeSize.split('x');
+var elipsoIframe = document.getElementById(elipsoIframeId);
+var elipsoIframeSrc = 'https://api.elipso.hr/kampanja/elipso_product_feed_banner_'+elipsoIframeWH[0]+'_'+elipsoIframeWH[1]+'.php?source=jutarnji.hr';
+var currentElipsoIframeSrc = elipsoIframe.getAttribute("src");
+if (currentElipsoIframeSrc !== elipsoIframeSrc) {
+elipsoIframe.setAttribute("src", elipsoIframeSrc);
+elipsoIframe.setAttribute("width", elipsoIframeWH[0]);
+elipsoIframe.setAttribute("height", elipsoIframeWH[1]);
+elipsoIframe.style.width = elipsoIframeWH[0] + 'px';
+elipsoIframe.style.height = elipsoIframeWH[1] + 'px';
+}
+}
+</script>
+<style>
+.displaynone-upscore-hack {
+display: none ;
+}
+</style>
+<meta name="msapplication-TileImage" content="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/76x76.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/58x58.png">
+<link rel="shortcut icon" href="https://www.jutarnji.hr/static/theme/jutarnji/base/ico/favicon.ico">
+<link rel="canonical" href="https://www.jutarnji.hr/kultura/art/albert-kinert-zanemareni-buntovnik-dosao-s-devet-godina-u-zagreb-u-cipelama-bez-donova-nocu-kraduci-ugljen-tek-s-18-ponovno-se-susreo-s-crtanjem/7454013/"/>
+<link rel="amphtml" href="https://www.jutarnji.hr/kultura/art/albert-kinert-zanemareni-buntovnik-dosao-s-devet-godina-u-zagreb-u-cipelama-bez-donova-nocu-kraduci-ugljen-tek-s-18-ponovno-se-susreo-s-crtanjem/7454013/amp">
+<link href="https://www.jutarnji.hr/static/css/bootstrap.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/bootstrap-theme.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/wf-helper-classes.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/base/css/jutarnji-base.d1374deb53269f4f88e489dd24ef5c2b.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/theme/jutarnji/default/css/jutarnji-default.d41d8cd98f00b204e9800998ecf8427e.min.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/minimalist.css" rel="stylesheet">
+<link href="https://www.jutarnji.hr/static/css/mediaelementplayer.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="https://www.jutarnji.hr/static/js/html5shiv.js"></script>
+<script src="https://www.jutarnji.hr/static/js/respond.min.js"></script>
+<![endif]-->
+<script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
+<meta property="og:image" content="https://www.jutarnji.hr/incoming/kinert006jpg/7454028/ALTERNATES/LANDSCAPE_1180/Kinert006.jpg" />
+<meta property="og:image:width" content="1180" />
+<meta property="og:image:height" content="700" />
+<meta name="twitter:image" content="https://www.jutarnji.hr/incoming/kinert006jpg/7454028/ALTERNATES/LANDSCAPE_1180/Kinert006.jpg">
+<meta property="og:title" content="ALBERT KINERT, ZANEMARENI BUNTOVNIK Došao s devet godina u Zagreb, u cipelama bez ðonova, noæu kraduæi ugljen. Tek s 18 ponovno se susreo s crtanjem" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.jutarnji.hr/kultura/art/albert-kinert-zanemareni-buntovnik-dosao-s-devet-godina-u-zagreb-u-cipelama-bez-donova-nocu-kraduci-ugljen-tek-s-18-ponovno-se-susreo-s-crtanjem/7454013/" />
+<meta property="og:site_name" content="jutarnji.hr" />
+<meta property="fb:app_id" content="156538244364753" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="jutarnji.hr">
+<meta name="twitter:creator" content="Patricia Kiš">
+<meta name="twitter:title" content="ALBERT KINERT, ZANEMARENI BUNTOVNIK Došao s devet godina u Zagreb, u cipelama bez ðonova, noæu kraduæi ugljen. Tek s 18 ponovno se susreo s crtanjem">
+<meta name="twitter:description" content="Netko nas je obavijestio da su na izložbi ‘Refleksije vremena’, koja je pratila poslijeratno razdoblje, i radovi našeg tate, crteži nastali na radnim akcijama. Otišle smo pogledati, otprilike smo znale što možemo oèekivati, no ipak nas je doèekalo iznenaðenje. Na jednom crtežu bile smo nas dvije kao sedmogodišnjakinje u kuhinji naše bake, omame, kako smo je zvale, prikazano je kako nam daje doruèak, baka ima pregaèu. Crtež je iz Narodnog muzeja Zadar. Ne znamo kako je tamo dospio”, prisjeæa se Dora Kinert Buèan iznenaðenja od prije nekoliko godina na izložbi koja je u Kloviæevim dvorima obuhvatila razdoblje izmeðu 1945. i 1955. Dora Kinert Buèan, koja je diplomirala filozofiju i sociologiju te je autorica nekoliko knjiga, meðu kojima je i “Zamalek”, i njezina sestra - likovna umjetnica Nada Žiljak, kæeri su poznatog umjetnika Alberta Kinerta èija je retrospektiva upravo otvorena u Modernoj galeriji. Sin Dore Kinert Buèan je Jagor Buèan, likovni umjetnik, koji je svojedobno napisao i Kinertovu, dakle, djedovu monografiju, a kæi Nade Žiljak je Jana Žiljak, dizajnerica. “Nije bilo šanse da se bavimo nekim drugim zanimanjima”, složit æe se obje iako nerado govore za javnost o svom ocu koji je bio vrlo samozatajan. “Njegov su život njegova djela, ona govore o njemu”, kaže Dora Kinert Buèan.">
+<meta property="fb:pages" content="133205716542" />
+<!-- j2 - vijesti -->
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+var d=document,
+h=d.getElementsByTagName('head')[0],
+s=d.createElement('script');
+s.type='text/javascript';
+s.async=true;
+s.src=document.location.protocol + '//script.dotmetrics.net/door.js?id=2438';
+h.appendChild(s);
+}());
+/* ]]> */
+</script>
+<script>
+(function(u,p,s,c,r){u[r]=u[r]||function(p){(u[r].q=u[r].q||[]).push(p)},u[r].ls=1*new Date();
+var a=p.createElement(s),m=p.getElementsByTagName(s)[0];a.async=1;a.src=c;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//files.upscore.com/async/upScore.js','upScore');
+upScore({config:{ domain:"jutarnji.hr",
+article: "#CImaincontent",
+track_positions: false},
+data: { section: "Art, Kultura, Front Page",
+pubdate: "2018-06-11T09:03+02:00",
+author: "Patricia Kiš",
+object_type: "article",
+custom_sponsored: 0
+}});
+</script>
+</head>
+<body class="kultura story">
+<div id="fb-root">
+</div>
+<script type="text/javascript">
+(function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s);
+js.id = id;
+js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.7&appId=156538244364753";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+!function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (!d.getElementById(id)) {
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+}
+}(document, "script", "twitter-wjs");
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<c:if test="true">
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56cdc7652b8101eb"></script>
+</c:if>
+<script async defer src="//platform.instagram.com/hr_HR/embeds.js"></script>
+<script type="text/javascript">
+$(function() {
+if ($("#related-news-box").has("ul").length) {
+if ($("[id^='content-body-'] > p").length < 0) {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#related-news-box").detach().insertAfter($("[id^='content-body-'] > p").get(0));
+}
+} else {
+$("#related-news-box").remove();
+}
+});
+</script>
+<div class="container">
+<header class="mainHead " role="banner">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GCRM7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId : '156538244364753',
+xfbml : true,
+version : 'v2.10'
+});
+FB.AppEvents.logPageView();
+};
+(function(d, s, id){
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<a name="top"></a>
+<div class="row " >
+<div class="col-sm-12 ">
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="col-sm-12 col-lg-8 col-lg-push-2 ">
+<div id="siteHead">
+<span class="logo"><a href="/">JutarnjList</a></span>
+</div>
+</div>
+<nav class="navbar main_nav "
+role="navigation" >
+<a href="#" class="mSiteSearch"><span class="text-hide">Pretraži</span></a>
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div id="navbar-collapse-1" class="navbar-collapse collapse ">
+<ul class=" main nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/">
+Poèetna
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</li>
+<li class="">
+<a href="https://novac.jutarnji.hr?utm_source=jutarnji.hr&utm_medium=Referral&utm_campaign=navbardirect" target="">
+Novac.hr
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</li>
+<li class="active">
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/video/">
+Video
+</a>
+</li>
+</ul>
+<ul class="nav navbar-nav all_sections">
+<li>
+<a href="#" class="site_search"><span class="text-hide">Pretraži</span></a>
+<a href="https://twitter.com/jutarnjihr" class="twitter_follow"><span class="text-hide">Twitter</span></a>
+<a href="https://www.facebook.com/jutarnji.list/" class="facebook_follow"><span class="text-hide">Facebook</span></a>
+<a class="instagram_follow" href="https://www.instagram.com/jutarnji.hr/"><span class="text-hide">Instagram</span></a>
+</li>
+<li class="dropdown megadropdown ">
+<a href="/" id="menuPane-link-1">
+Sve rubrike
+<div id="rwd_toggle"><span></span><span></span><span></span><span></span></div>
+</a>
+</ul>
+</div>
+<div class="wrap-megadropdown-menu ">
+<div class="dropdown-menu megadropdown-menu ">
+<div class="sections ">
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="active">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class=" ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="magazin ">
+<span>Magazin</span>
+<ul>
+<li class="ak"><a href="/autoklub">Autoklub</a></li>
+<li class="gl"><a href="/globus">Globus</a></li>
+<li class="dh"><a href="/dobrahrana">Dobra hrana</a></li>
+<li class="dd"><a href="/domidizajn">Dom i dizajn</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="searchBox">
+<form action="https://www.jutarnji.hr/search/" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Pretraži Jutarnji.hr" value="" />
+<button type="submit">Submit</button>
+</div>
+</form>
+</div>
+<div class="subLevelNavbar ">
+<ul class="breadcrumb">
+<li><a href="https://www.jutarnji.hr/kultura/">Kultura </a>
+</li>
+<li><a href="https://www.jutarnji.hr/kultura/art/">Art </a></li>
+</ul>
+<ul class=" sub nav navbar-nav">
+<li class="active">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<section role="main">
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-nav-wrapper" class="jl-billboard-nav">
+<div id="div-gpt-ad-1459756830165-2">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-2"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-2");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row col-sm-12 col-md-9 col-md-push-1 article_intro sport ">
+<p
+class="overline">
+RETROSPEKTIVA U MODERNOJ GALERIJI
+</p>
+<h1
+class="title">
+ALBERT KINERT, ZANEMARENI BUNTOVNIK Došao s devet godina u Zagreb, u cipelama bez ðonova, noæu kraduæi ugljen. Tek s 18 ponovno se susreo s crtanjem
+</h1>
+<ul class="list-inline ">
+<strong>AUTOR: </strong>
+<li>
+<p
+class="authors">
+<ul>
+<li>Patricia Kiš</li>
+</ul>
+</p>
+</li>
+<strong>OBJAVLJENO: </strong>
+<li>
+<p
+class="published-date">
+11.06.2018. u 09:03
+</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row article_body jl-scroll-container " >
+<div class="col-sm-8 " >
+<section class="lead_image ">
+<section class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kinert006jpg/7454028" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kinert006jpg/7454028/ALTERNATES/LANDSCAPE_380/Kinert006.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/kinert006jpg/7454028/BINARY/thumbnail/Kinert006.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</section>
+</section>
+<div class=" ">
+<section class="ci_lead ">
+<p
+class="leadtext">
+<p> </p>
+</p>
+</section>
+<section>
+<div id="jl-inarticle-wrapper-1" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-7">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-7"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-7");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+<section id="CImaincontent" class="ci_body ">
+<div id="content-body-6263871-7454013"
+>
+<p>Netko nas je obavijestio da su na izložbi ‘Refleksije vremena’, koja je pratila poslijeratno razdoblje, i radovi našeg tate, crteži nastali na radnim akcijama. Otišle smo pogledati, otprilike smo znale što možemo oèekivati, no ipak nas je doèekalo iznenaðenje. Na jednom crtežu bile smo nas dvije kao sedmogodišnjakinje u kuhinji naše bake, omame, kako smo je zvale, prikazano je kako nam daje doruèak, baka ima pregaèu. Crtež je iz Narodnog muzeja Zadar. Ne znamo kako je tamo dospio”, prisjeæa se <strong>Dora Kinert Buèan</strong> iznenaðenja od prije nekoliko godina na izložbi koja je u Kloviæevim dvorima obuhvatila razdoblje izmeðu 1945. i 1955. Dora Kinert Buèan, koja je diplomirala filozofiju i sociologiju te je autorica nekoliko knjiga, meðu kojima je i “Zamalek”, i njezina sestra - likovna umjetnica <strong>Nada Žiljak</strong>, kæeri su poznatog umjetnika <strong>Alberta Kinerta</strong> èija je retrospektiva upravo otvorena u Modernoj galeriji. Sin Dore Kinert Buèan je <strong>Jagor Buèan</strong>, likovni umjetnik, koji je svojedobno napisao i Kinertovu, dakle, djedovu monografiju, a kæi Nade Žiljak je <strong>Jana Žiljak</strong>, dizajnerica. “Nije bilo šanse da se bavimo nekim drugim zanimanjima”, složit æe se obje iako nerado govore za javnost o svom ocu koji je bio vrlo samozatajan. “Njegov su život njegova djela, ona govore o njemu”, kaže Dora Kinert Buèan.</p><p>Kinertovu izložbu priredila je kustosica <strong>Iva Körbler</strong> koja smatra da je “prošlo dovoljno vremena da se opus ovog umjetnika sagleda na nov kritièki naèin”. Na izložbi su slike, grafike te izdužene skulpture, koje kao da su u treæu dimenziju izašle s nekih od njegovih slika. Izloženo je 210 djela, neka od njih prvi put u javnosti. Na posudbi su, naime, djela koja se èuvaju u umjetnikovoj obitelji, potom u privatnim zbirkama, Ministarstvu vanjskih poslova, galerijama i muzejima poput Muzeja suvremene umjetnosti i sl. “Naglasak je izložbe na otkriæima, na djelima iz pedesetih i šezdesetih godina na tragu enformela, potom ranim sedamdesetima. Rijeè je i o razdobljima koja su po mojoj procjeni na cijeni meðu kolekcionarima”, kaže kustosica ove izložbe.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kinert-4-jpg/7454025" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kinert-4-jpg/7454025/ALTERNATES/FREE_380/Kinert-4-.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kinert-4-jpg/7454025/BINARY/thumbnail/Kinert-4-.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Albert Kinert uistinu je u javnosti zapamæen po kasnijem stvaralaèkom razdoblju. Nešto je manje poznat, iako je posljednjih godina ipak više kontekstualiziran, Kinertov doprinos na podruèju stripa. Stripove je ponekad potpisivao i pseudonimom Toma Božiæ: ovo Božiæ dolazi od ženina djevojaèkog prezimena. Oženio je, naime, kolegicu sa studentske klase <strong>Smilju Božiæ</strong>. O Kinertovu radu u njegovoj prvoj tiskanoj monografiji pisao je veliki hrvatski pjesnik <strong>Danijel Dragojeviæ</strong> još šezdesetih godina. Posljednju pak retrospektivu imao je 1985., takoðer u Modernoj galeriji, dvije godine prije nego što je iznenada preminuo, u 68. godini. Bio je i vrlo plodan autor, samo u posljednjoj godini života, zabilježeno je, naslikao je više od stotinu radova. I inaèe je bio vrlo vrijedan, budio se prije svitanja i poèinjao raditi. Kako se sjeæaju njegove kæeri: “Stvarao je èitav dan. I to tako da je ujutro radi svjetlosti slikao, a popodne kad je svjetlost bila slabija, pod lampom je radio na grafici”.</p><h5>Mnogo je poklanjao</h5><p>Radi se i na katalogizaciji Kinertova opusa: “To je vrlo opsežan i dug posao, no poèeli smo ga”, kaže Dora Kinert Buèan. A Nada Žiljak nastavlja: “Vrlo je teško pobrojati sve radove jer je naš otac bio široke ruke i mnoga je svoja djela poklanjao, bilo prijateljima, bilo kad bi ga netko to zatražio, bio je jako velikodušan”. I sam se Kinert jednom prisjetio: “Bolje se osjeæam kad sliku poklonim nego kad je prodam. Mnogo sam toga uništio, mnogo poklonio, i nešto prodao. A koliko sam toga napravio, ne znam ni sam”. I umjetnikove se kæeri prisjeæaju: “Kada je bio nezadovoljan djelom, naprosto ga je uništio. Bio je perfekcionist”.</p><p>Albert Kinert odrastao je u siromašnoj obitelji koja se doslovce borila za koricu kruha, tijekom recesije 20-ih godina prošlog stoljeæa. Bavio se u mladosti pa i u djetinjstvu raznim poslovima, pa je tako bio i pastir i frizer te je neko vrijeme i pekao janjce za tadašnju plaæu od dva dinara. No, iako nije bio iz umjetnièke obitelji, i iako je imao slabo dodira s likovnim svijetom, još je kao èetverogodišnjak znao što želi biti: umjetnik. Svoje djetinjstvo opisao je u svojevrsnoj autobiografiji koja je objavljena i u Buèanovoj knjizi. Tamo umjetnik roðen u Vinkovcima 1919. godine, kao dijete <strong>Katice Horvat</strong> i <strong>Franje Scheiringa</strong>, opisuje i razdoblje svoga djetinjstva kada je vladala velika ekonomska kriza: “Tada su mnoge siromašne obitelji iz tih krajeva davale svoju djecu na kraæe ili dulje vrijeme (ponekad i na pravo usvajanje) obiteljima u Slavoniji. Tako sam dospio u selo Ðakovac iznad Banove Jaruge, u obitelj nekog nadlugara, kao pastir, na sreæu s nešto starijom sestrom. Bilo je to najdulje ljeto u mojem životu i najdivniji doživljaj sela i prirode, ali i najjaèi doživljaj života koji ne mazi èovjeka. Od tada iz vlastitog iskustva znam kako se osjeæa prodano tele ili otuðen pas”. Sa sobom je uvijek nosio bojice. “I kad sam jednog dana naslikao cvijet divlje ruže, seoska su me djeca ostavila na miru i nisam se više morao tuæi”. Poèeo je pušiti, bilježi dalje, kao šestogodišnjak, “žurilo mu se odrasti”. Kroz èitav Kinertov život teško je pronaæi fotografiju na kojoj je bez cigarete.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kinert006jpg/7454028" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kinert006jpg/7454028/ALTERNATES/FREE_380/Kinert006.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kinert006jpg/7454028/BINARY/thumbnail/Kinert006.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>U Zagreb je došao kao devetogodišnjak, u cipelama bez ðonova, noæu kraduæi ugljen. I tako je životario, prekinuo školovanje, bavio se boksom i hrvanjem, da bi se tek ponovno kao osamnaestogodišnjak susreo s crtanjem. Konaènu odluku da postane slikar donio je odmah nakon što je “udahnuo miris ateljea”. I upisao je, zahvaljujuæi svojem talentu, Likovnu akademiju. Bila je to, kako æe povijest kasnije pokazati, vrlo jaka klasa, a sam se Kinert kasnije prisjeæao: “U klasi sam bio s Edom Murtiæem, kojem takoðer nije bilo bolje, s Nikolom Reiserom (koji je imao sve i još mnogo više), zatim s Raulom Goldonijem, Ivom Šebaljem, Ivom Dulèiæem i još nekolicinom kolega”. Još na treæoj godini studija napravio je mapu “40 litografija” i tiskao ju je u vlastitoj nakladi od desetak primjeraka. Mapu je pohvalio umjetnik, povjesnièar umjetnosti i svojedobno i ravnatelj Moderne galerije Ljubo Babiæ, koji je zapisao kako su grafike “više od školskog rada”. Pohvala tada vrlo utjecajnog Babiæa mladom je studentu itekako bio poticaj da krene dalje. Jagor Buèan, pak, školski rad svojeg djeda opisuje: “Veæ u jednom od prvih crteža, Splavar, 1939., anticipirao je postupak koji æe karakterizirati njegov grafièki izraz: kondenzacijom crtaèkih elemenata sažeti viðeno/doživljeno u jezgroviti grafièki ekvivalent”.</p><p>Poslije su ga zvali na Akademiju da bude asistent Tomislavu Krizmanu, no samo nakon tri mjeseca dao je ostavku, a nije prihvatio niti poziv Krste Hegedušiæa da se pridruži njegovoj radionici. Na Likovnu se akademiju vraæa 1966. kada postaje profesor, i tamo osniva i poslijediplomski studij za specijalizaciju i usavršavanje u disciplini grafike za ilustraciju.</p><p>U klasi je, dakle, upoznao i prelijepu Smilju Božiæ, koju æe kasnije oženiti, i u svojim ranim dvadesetima dobiti blizanke, Nadu i Doru. Njih se dvije, danas, prisjeæaju: “Mama je bila vrlo talentirana, ali se kasnije okrenula pedagoškom radu, kao profesorica povijesti umjetnosti”. I sam je Kinert, kako bi uzdržavao obitelj, a prije zaposlenja na Akademiji, radi prvo u Vjesniku kao ilustrator i aranžer izloga. Atelje mu je bio u redakciji, a plaæa po uèinku. Radio je i ilustracije knjiga, meðu onima koje se pamte su “Bakonja fra Brne” te “Prièe iz davnine” po Ivani Brliæ Mažuraniæ. Njegov plodan ilustratorski opus razasut je u raznim dnevnim i tjednim novinama, na koricama raznih bestselera, i bilo bi vrlo zanimljivo istražiti i taj segment Kinertova opusa. U stripu je, pak, bio nasljednik Andrije Mauroviæa, pa je 1944. godine neke stripove, poput “Tomislava”, preuzeo od njega. Kinertu je tada bilo dvadeset i pet godina. Stripom se kratko bavio, no Veljko Krulèiæ koji je obradio ovaj dio Kinertova opusa tvrdi: “Da se nastavio profesionalno baviti medijem, vjerojatno bismo danas o Kinertu govorili kao o autentiènom klasiku”, napomenuvši i da do danas ostao poprilièna nepoznanica hrvatskog stripa te da zavreðuje samostalnu strip-monografiju. Najpoznatiji je njegov strip Èuvaj se senjske ruke, po Šenoi.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kinert008jpg/7454031" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kinert008jpg/7454031/ALTERNATES/FREE_380/Kinert008.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kinert008jpg/7454031/BINARY/thumbnail/Kinert008.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p><p>Što se pak tièe njegova likovnog stvaralaštva, do prvog veæeg zaokreta u njegovu stvaralaštvu, a tri su prijelomna, dolazi pedesetih godina. 1956. nastaju grafike u tehnici suhe igle, na temu kiše. Godinu dana kasnije napravit æe svoju, kako ju naziva kustosica Iva Körbler, amblematsku mapu “Osam linoreza u boji” s motivima “otoka, jutra, jutarnjeg lova ribara, drhtulje (raže) u kojima su decentno ubaèeni ljubavni parovi, svedeni na linijski istanjenu masu crnih kontura”.</p><p>Izlagao je s grupom Mart 1957. Potom godinu dana kasnije s Pricom, Murtiæem, Džamonjom, Reiserom, Radovanijem, Piceljem, Bakiæem, može se proèitati u umjetnikovoj biografiji, osnovao grupu “Zagreb 58”, meðu ostalim imali su izložbu i u Antwerpenu. Slikao je i na tragu enformela. A uz erotiku najèešæa su njegova tema autoportreti. Za autoportret je ovaj umjetnik jednom rekao: “Kada se gledam, kao da sam sastavljen od samih bora i ožiljaka nastalih od vremena i ljudi”. Nadalje, èesti su motiv njegovih slika i grafika tesar i žena koja pokraj njega stoji zadignute suknje, što, prema sjeæanju kæeri, “pripada njegovu najranijem sjeæanju i ima paradigmatski karakter”. Takoðer, motivi su mu bili i biomorfni, organièki oblici, razne životinje poput primjerice bogomoljki. Od nekih je tema koje bi slikao u mladosti s vremenom znao odustajati, primjerice od morskih pejzaža. Prestavši se inspirirati morem, prestao je odlaziti na Hvar, i kako se sjeæa Dora Kinert Buèan, “po ladicama su ostali ležati deseci blokova sa skicama škrapa, rupa, pukotina u kamenu, iz kojih je izvlaèio ideje za svoje apstraktne slike”.</p><h5>Sanjao je slike</h5><p>Albert Kinert u slobodno je vrijeme volio èitati. Imao je puno prijatelja u umjetnièkim krugovima, meðu njima je bio, iako dosta mlaði, i slikar Ordan Petlevski. Nada Žiljak i Dora Kinert Buèan ovako se sjeæaju oca: “Nije bio miljenik javnosti, bio je previše svoj, buntovnik. Živio je slikarstvo dvadeset i èetiri sata dnevno. Sanjao je svoje slike. I bio je esteta kada su bile u pitanju sve stvari iz svakodnevnice”. Sam je umjetnik, èesto buntovan, znao reæi: “Samo iz jednog osjeæaja se ne može napraviti umjetnost - iz ravnodušnosti”. Dora Kinert Buèan takoðer ga je, pak, opisala: “On je reagirao živo, strastveno, aktivno, samo ne ravnodušno. Sve je shvaæao kao da se odnosi na njega...”.</p><p>Nada Žiljak takoðer je poznata grafièka umjetnica. Studirala je u oèevoj klasi. Kako to da obje nisu studirale na Akademiji likovnih umjetnosti, jer ih je obje zanimala umjetnost? “Otac nam je rekao da se dogovorimo, jer je smatrao da bi bilo neprimjereno da obje njegove kæeri budu upisane na Akademiju na kojoj je on profesor. Nadu je zanimala iskljuèivo umjetnost, mene i umjetnost i neke druge stvari, i tako smo se dogovorile”, kaže Dora Kinert Buèan. Je li teško bilo studirati na Likovnoj akademiji kod oca? “Ne. On je bio moj odabir jer je naprosto bio najbolji. Ðaci su ga voljeli”, odgovara Nada Žiljak. Devedesetih je prireðena i zajednièka izložba u Muzeju Kloster Asbach u Njemaèkoj, oca i kæeri, pod nazivom “Dvije generacije hrvatskih slikara”, predgovor je pisala druga kæi, Dora Kinert Buèan. Meðu ostalim se prisjetila: “U petnaestoj godini morala je Nada donijeti odluku, poput redovnice-novicijatkinje. To je znaèilo odricanje od svakog hobija i interesa koji nije povezan sa slikarstvom”. Tumaèila je i da postoje i vidljive razlike u karakterima Nade Žiljak i Alberta Kinerta, pa tako i u njihovu stvaralaštvu: “Nada je pridodala vlastitu mirnoæu na granici ravnodušnosti i to je ona psihološka razlika koja ju odvaja od oèeve siline”.</p><p>
+<section>
+<article class="ece_incoming media ">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/incoming/kinert5jpg/7454034" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<div class="img-container picture" style='width: 100%'>
+<img src="https://www.jutarnji.hr/incoming/kinert5jpg/7454034/ALTERNATES/FREE_380/Kinert5.jpg"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/incoming/kinert5jpg/7454034/BINARY/thumbnail/Kinert5.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</div>
+</div>
+</div>
+</article>
+</section>
+ </p>
+</div>
+<script type="text/javascript" language="javascript">
+$(document).ready(function () {
+// Removing empty paragraphs first
+$("#content-body-6263871-7454013 p").filter(function () {
+var html = $.trim($(this).html());
+if (html == '' || html == '&nbsp;')
+return true;
+}).remove();
+// Taking a subset of paragraphs using offset and maximum
+var offset = 1;
+var max = -1;
+if (offset > 1) {
+$("#content-body-6263871-7454013").children().slice(0, offset - 1).remove();
+}
+if (max > -1) {
+$("#content-body-6263871-7454013").children().slice(max).remove();
+}
+// Show dateline field at the beginning of the first paragraph
+var showDateline = true;
+var datelineStr = "";
+if (offset <= 1 && showDateline == true && datelineStr != "") {
+var firstChild = $("#content-body-6263871-7454013").children().get(0);
+if ("P" == firstChild.nodeName.toUpperCase()) {
+$(firstChild).prepend("<span>" + datelineStr + " - </span>");
+}
+else {
+$(firstChild).before("<span>" + datelineStr + "</span>");
+}
+}
+});
+</script>
+</section>
+<section>
+<div id="inArticleBanner">
+<div id="jl-inarticle-wrapper-2" class="jl-inarticle-wrapper">
+<div id="jl-inarticle-2" class="jl-inarticle">
+<!-- /11425286/jl_cla_ia_2 -->
+<div id='div-gpt-ad-1459756830165-8'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459756830165-8'); });
+</script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+if ($("[id^='content-body-'] > p").length < 3) {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get($("[id^='content-body-'] > p").length - 1));
+} else {
+$("#inArticleBanner").detach().insertAfter($("[id^='content-body-'] > p").get(3 - 1));
+}
+});
+</script>
+</section>
+<div class="tags ">
+<span>Tagovi</span>
+<ul class="list-inline">
+<li>
+<a href="https://www.jutarnji.hr/tag/Moderna_galerija" class ="label label-default" >
+Moderna galerija
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/izlo%C5%BEba-2" class ="label label-default" >
+izložba
+</a>
+</li>
+<li>
+<a href="https://www.jutarnji.hr/tag/Albert_Kinert" class ="label label-default" >
+Albert Kinert
+</a>
+</li>
+</ul>
+</div>
+<div id="related-news-box"
+class="rel_art_ib ">
+<h3>
+Vezane vijesti
+</h3>
+<section>
+<article class="art media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/art/pogled-u-tajni-svijet-biskupa-kolekcionara-i-njegovih-posrednika-nova-knjiga-otkriva-nepoznate-detalje-o-strossmayerovoj-zbirci/7416270/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/art/pogled-u-tajni-svijet-biskupa-kolekcionara-i-njegovih-posrednika-nova-knjiga-otkriva-nepoznate-detalje-o-strossmayerovoj-zbirci/7416270/">
+POGLED U TAJNI SVIJET BISKUPA KOLEKCIONARA I NJEGOVIH POSREDNIKA Nova knjiga otkriva nepoznate detalje o Strossmayerovoj zbirci
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+<article class="art media none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/art/najskuplji-zivuci-umjetnik-gerhard-richter-prodaje-18-slika-od-prihoda-ce-kupiti-domove-za-500-beskucnika/7412679/" data-widget-title="" data-web-position="box"
+data-widget-position="1">
+<ul>
+<li>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/art/najskuplji-zivuci-umjetnik-gerhard-richter-prodaje-18-slika-od-prihoda-ce-kupiti-domove-za-500-beskucnika/7412679/">
+Najskuplji živuæi umjetnik Gerhard Richter prodaje 18 slika. Od prihoda æe kupiti domove za 500 beskuænika
+</a>
+</h4>
+</li>
+</ul>
+</div>
+</article>
+</section>
+</div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div style="text-align:center;" class="addthis_responsive_sharing"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div class="row upscore-magicflow displaynone-upscore-hack " >
+<br/><h3 class="section_title_alt iz_minute"><div><span style="background-color: #80CD44;">Promo</span></div></h3>
+<section class="upscore_promo1_4 ">
+<div class="row">
+<div class="col-xs-12" data-widget-position="0">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/u-sto-se-isplati-uloziti-stednja-losa-investicijska-odluka/7460505/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/u-sto-se-isplati-uloziti-stednja-losa-investicijska-odluka/7460505/">
+<img src="https://www.jutarnji.hr/incoming/pr_sl_1jpg/7460856/ALTERNATES/LANDSCAPE_380/PR_sl_1.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/pr_sl_1jpg/7460856/BINARY/thumbnail/PR_sl_1.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/u-sto-se-isplati-uloziti-stednja-losa-investicijska-odluka/7460505/">
+U što se isplati uložiti? Štednja - loša investicijska odluka! </a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="1">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/uz-hok-osiguranje-vas-dom-je-u-sigurnim-rukama/6357340/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/uz-hok-osiguranje-vas-dom-je-u-sigurnim-rukama/6357340/">
+<img src="https://www.jutarnji.hr/incoming/moj-dom-_opcenitijpg/6357346/ALTERNATES/LANDSCAPE_380/MOJ%20DOM%20_opc%CC%81eniti.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/moj-dom-_opcenitijpg/6357346/BINARY/thumbnail/MOJ%20DOM%20_opc%CC%81eniti.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/uz-hok-osiguranje-vas-dom-je-u-sigurnim-rukama/6357340/">
+Uz HOK osiguranje, vaš dom je u sigurnim rukama!
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="2">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/zasto-placas-skuplju-struju-imas-izbor/7431267/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/zasto-placas-skuplju-struju-imas-izbor/7431267/">
+<img src="https://www.jutarnji.hr/incoming/pr_fzcjpg/7431303/ALTERNATES/LANDSCAPE_380/PR_fzc.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/pr_fzcjpg/7431303/BINARY/thumbnail/PR_fzc.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/zasto-placas-skuplju-struju-imas-izbor/7431267/">
+Zašto plaæaš skuplju struju? Imaš izbor!
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-xs-12" data-widget-position="3">
+<section>
+<article class="promo media c13 skin-2 none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/Promo/zasto-ste-umorni/7401237/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.jutarnji.hr/Promo/zasto-ste-umorni/7401237/">
+<img src="https://www.jutarnji.hr/incoming/miran-sanjpg/7401243/ALTERNATES/LANDSCAPE_380/miran%20san.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/incoming/miran-sanjpg/7401243/BINARY/thumbnail/miran%20san.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/Promo/zasto-ste-umorni/7401237/">
+Zašto ste umorni?
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</section>
+</div>
+<div id="jl-banner-wrapper-1" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div class="row titleRow">
+<div class="col-sm-12">
+<h3 class="section_title_alt izdvojeno_alt"><div><span>Izdvajamo</span></div></h3>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__302"></div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midasWidget__301"></div>
+</div>
+</div>
+<div class="row jl-scroll-container " >
+<div class="col-sm-8 " >
+<div class="row " >
+<div class="col-sm-12 ">
+<div id="midas" class="center-block" style="width:100%; max-width:600px;">
+<div id="midasWidget__72"></div>
+<script async src="https://cdn.midas-network.com/Widget/IndexAsync/1?portalWidgetId=72&portalWidgetId=301&portalWidgetId=302" type="text/javascript"></script>
+</div>
+</div>
+<section>
+<div id="jl-inarticle-wrapper-3" class="jl-inarticle">
+<div id="div-gpt-ad-1459756830165-9">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-9"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-9");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+<div class="separator alt ">
+<div class="fb-comments" data-href="https://www.jutarnji.hr/7454013" data-colorscheme="light" data-numposts="5"></div>
+</div>
+</div>
+<div class="col-sm-4 jl-banner-column" >
+<div id="jl-banner-wrapper-2" class="jl-banner jl-banner-wrapper jl-sticky-banner">
+<div id="div-gpt-ad-1459756830165-1">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-1"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0.00;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1459756830165-1");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+<div class="jl-sticky-banner" style="margin-bottom:20px;">
+<div id="crt-47675ba0" style="width:300px;height:600px;"></div>
+<script type="text/javascript">
+Criteo.events.push(function() {
+Criteo.DisplayAcceptableAdIfAdblocked({
+"zoneid": 1197956,
+"containerid": "crt-47675ba0",
+"overrideZoneFloor": false
+});
+});
+</script>
+</div>
+</div>
+</div>
+<div class="row hidden-xs " >
+<div class="col-sm-12 ">
+<div class="emp_block article_most_read sidebar ">
+<h3 class="section_title_alt najcitaniji"><div><span>Najèitanije</span></div></h3>
+<div class="row">
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="0">
+<section>
+<article class="art media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/art/u-kloviceve-dvore-sleperima-stiglo-tisucu-umjetnina-iz-ruskog-ermitaza-cuvaju-ih-brojni-zastitari-i-videokamere/7179423/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/kultura/art/u-kloviceve-dvore-sleperima-stiglo-tisucu-umjetnina-iz-ruskog-ermitaza-cuvaju-ih-brojni-zastitari-i-videokamere/7179423/">
+IZLOŽBA OD MILIJARDU DOLARA
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/art/u-kloviceve-dvore-sleperima-stiglo-tisucu-umjetnina-iz-ruskog-ermitaza-cuvaju-ih-brojni-zastitari-i-videokamere/7179423/">
+U Kloviæeve dvore šleperima stiglo tisuæu umjetnina iz ruskog Ermitaža. Èuvaju ih brojni zaštitari i videokamere
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="1">
+<section>
+<article class="art media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/art/brutalno-iskrena-marina-abramovic-majka-me-cupala-za-kosu-i-nazivala-prostitutkom.-muz-je-imao-ljubavnicu-predlozila-sam-seks-u-troje.../5179076/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/kultura/art/brutalno-iskrena-marina-abramovic-majka-me-cupala-za-kosu-i-nazivala-prostitutkom.-muz-je-imao-ljubavnicu-predlozila-sam-seks-u-troje.../5179076/">
+UVIJEK PROVOKATIVNA
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/art/brutalno-iskrena-marina-abramovic-majka-me-cupala-za-kosu-i-nazivala-prostitutkom.-muz-je-imao-ljubavnicu-predlozila-sam-seks-u-troje.../5179076/">
+BRUTALNO ISKRENA MARINA ABRAMOVIÆ: 'Majka me èupala za kosu i nazivala prostitutkom. Muž je imao ljubavnicu, predložila sam seks u troje...'
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="2">
+<section>
+<article class="art media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/art/proslava-50-rodendana-profesora-baltazara-hipnotizirale-su-na-price-o-altruizmu-borbi-protiv-razlicitosti-i-zaigrano-dijete-u-tijelu-starca/7444455/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/kultura/art/proslava-50-rodendana-profesora-baltazara-hipnotizirale-su-na-price-o-altruizmu-borbi-protiv-razlicitosti-i-zaigrano-dijete-u-tijelu-starca/7444455/">
+ANIMAFEST
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/art/proslava-50-rodendana-profesora-baltazara-hipnotizirale-su-na-price-o-altruizmu-borbi-protiv-razlicitosti-i-zaigrano-dijete-u-tijelu-starca/7444455/">
+PROSLAVA 50. ROÐENDANA PROFESORA BALTAZARA 'Hipnotizirale su na prièe o altruizmu, borbi protiv razlièitosti i zaigrano dijete u tijelu starca'
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+<div class="col-sm-3 col-md-3 col-xs-12" data-widget-position="3">
+<section>
+<article class="art media c11a none">
+<div class="teaser "
+data-content-url="https://www.jutarnji.hr/kultura/art/foto-prvi-smo-obisli-izlozbu-godine-zbog-giacomettija-paviljon-je-pretvoren-u-veliku-grobnicu-simbol-svijeta-u-kojemu-zivimo/4703180/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="media-body">
+<p class="overline ">
+<a href="https://www.jutarnji.hr/kultura/art/foto-prvi-smo-obisli-izlozbu-godine-zbog-giacomettija-paviljon-je-pretvoren-u-veliku-grobnicu-simbol-svijeta-u-kojemu-zivimo/4703180/">
+EKSKLUZIVNO
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.jutarnji.hr/kultura/art/foto-prvi-smo-obisli-izlozbu-godine-zbog-giacomettija-paviljon-je-pretvoren-u-veliku-grobnicu-simbol-svijeta-u-kojemu-zivimo/4703180/">
+FOTO: PRVI SMO OBIŠLI IZLOŽBU GODINE 'Zbog Giacomettija Paviljon je pretvoren u veliku grobnicu, simbol svijeta u kojemu živimo'
+</a>
+</h4>
+</div>
+</div>
+</article>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row " >
+<div class="col-sm-4 openInNewTab" >
+<section>
+<article class="banner-testing-page media none">
+<div class="teaser "
+data-content-url="http://www.gloria.hr/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="http://www.gloria.hr/">
+<img src="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/ALTERNATES/FREE_380/gloria_01.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/banner-testing-page/gloria_01png/6335911/BINARY/thumbnail/gloria_01.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+<article class="fokus-zvjezdane-staze media c3 none">
+<div class="teaser link-block"
+data-content-url="https://www.gloria.hr/fokus/zvjezdane-staze/zgodni-srbin-i-fatalna-ljepotica-napravili-pomutnju-drzeci-se-za-ruku-potaknuli-suskanja-o-vezi/7462827/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<a class=" block-link" href="https://www.gloria.hr/fokus/zvjezdane-staze/zgodni-srbin-i-fatalna-ljepotica-napravili-pomutnju-drzeci-se-za-ruku-potaknuli-suskanja-o-vezi/7462827/">
+</a>
+<div class="img-container picture" style='width: 100%'>
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/zgodni-srbin-i-fatalna-ljepotica-napravili-pomutnju-drzeci-se-za-ruku-potaknuli-suskanja-o-vezi/7462827/">
+<img src="https://www.gloria.hr/incoming/profimedia-0374323139jpg/7462812/ALTERNATES/LANDSCAPE_380/profimedia-0374323139.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.gloria.hr/incoming/profimedia-0374323139jpg/7462812/BINARY/thumbnail/profimedia-0374323139.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt="Hollywood, CA - *EXCLUSIVE* **WEB MUST CALL FOR PRICING** Model Alessandra Ambrosio was was seen holding hands with a mystery guy who happens to look a lot like her ex Jamie Mazur while leaving the Moschino afterparty at No Vacancy in Hollywood. When the pair spotted the cameras flashing, they immediately stopped holding hands! Shot on 06/08/18.
+Pictured: Alessandra Ambrosio
+*UK Clients - Pictures Containing Children
+Please Pixelate Face Prior To Publication*, Image: 374323139, License: Rights-managed, Restrictions: , Model Release: no, Credit line: Profimedia, AKM-GSI"
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title text-small">
+<a href="https://www.gloria.hr/fokus/zvjezdane-staze/zgodni-srbin-i-fatalna-ljepotica-napravili-pomutnju-drzeci-se-za-ruku-potaknuli-suskanja-o-vezi/7462827/">
+Zgodni Srbin i fatalna ljepotica napravili pomutnju: Držeæi se za ruku potaknuli šuškanja o vezi
+</a>
+</h4>
+</div>
+</div>
+</article>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<iframe src='https://widgets.jutarnji.hr/vanjski/dnevnik-2/' width='100%' height='400px' frameborder='0' scrolling='no'></iframe>
+</div>
+<div class="col-sm-4 openInNewTab" >
+<section>
+<article class="banner-testing-page media none">
+<div class="teaser "
+data-content-url="http://100posto.hr/" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<div class="img-container picture" style='width: 100%'>
+<a href="http://100posto.hr/">
+<img src="https://www.jutarnji.hr/banner-testing-page/ecsimg100posto_logo_jl-3244919154506549845png/6306396/ALTERNATES/FREE_380/ecsImg100posto_logo_JL-3244919154506549845.png"
+data-variant="FREE"
+data-src-template="https://www.jutarnji.hr/banner-testing-page/ecsimg100posto_logo_jl-3244919154506549845png/6306396/BINARY/thumbnail/ecsImg100posto_logo_JL-3244919154506549845.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</article>
+</section>
+<article class="100postohr media c3 none">
+<div class="teaser link-block"
+data-content-url="https://100posto.hr/zivot/prosjecna-obitelj-u-jugi-prije-40-godina-za-placu-mozemo-kupiti-frizider-stize-nam-novi-stojadin-a-onda-cemo-razmisljati-o-vikendici" data-widget-title="" data-web-position="box"
+data-widget-position="0">
+<a class=" block-link" href="https://100posto.hr/zivot/prosjecna-obitelj-u-jugi-prije-40-godina-za-placu-mozemo-kupiti-frizider-stize-nam-novi-stojadin-a-onda-cemo-razmisljati-o-vikendici">
+</a>
+<div class="img-container picture" style='width: 100%'>
+<a href="https://100posto.hr/zivot/prosjecna-obitelj-u-jugi-prije-40-godina-za-placu-mozemo-kupiti-frizider-stize-nam-novi-stojadin-a-onda-cemo-razmisljati-o-vikendici">
+<img src="https://www.jutarnji.hr/100postohr/obiteljjpg/7462902/ALTERNATES/LANDSCAPE_380/obitelj.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.jutarnji.hr/100postohr/obiteljjpg/7462902/BINARY/thumbnail/obitelj.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title=""
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<h4 class="title text-small">
+<a href="https://100posto.hr/zivot/prosjecna-obitelj-u-jugi-prije-40-godina-za-placu-mozemo-kupiti-frizider-stize-nam-novi-stojadin-a-onda-cemo-razmisljati-o-vikendici">
+JE LI PRIJE BILO BOLJE? Prosjeèna obitelj u Jugi prije 40 godina: Za plaæu možemo kupiti frižider, stiže nam novi 'stojadin', a onda æemo razmišljati o vikendici
+</a>
+</h4>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="row dfp-no-padding " >
+<div class="col-sm-12 ">
+<section>
+<div id="jl-billboard-bot-wrapper" class="jl-billboard-bot">
+<div id="div-gpt-ad-1462358187814-0">
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1462358187814-0"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() {
+var refreshTime = 0;
+var slot = dfpUnitData['slot'];
+googletag.display("div-gpt-ad-1462358187814-0");
+if (refreshTime > 0) {
+setInterval(function() {
+googletag.pubads().refresh([ dfpAdSlots[slot] ]);
+}, refreshTime);
+}
+});
+}
+</script>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+<footer class="siteFoot ">
+<div class="container ">
+<a href="#top">Povratak na vrh</a>
+<div class="row footNav ">
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/">
+Naslovnica
+</a>
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/vijesti/">
+Vijesti
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/hrvatska/">
+Hrvatska
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/svijet/">
+Svijet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/crna-kronika/">
+Crna kronika
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/zagreb/">
+Zagreb
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/vijesti/obrazovanje/">
+Obrazovanje
+</a>
+</li>
+<li class="">
+<a href="http://native.jutarnji.hr/mirovine/" target="">
+Mirovine
+</a>
+</li>
+<li class="">
+<a href="https://retro.jutarnji.hr" target="">
+Retro Jutarnji list
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/sport/">
+Sport
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/sport/nogomet/">
+Nogomet
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/kosarka/">
+Košarka
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/tenis/">
+Tenis
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/fight-club/">
+Fight Club
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/sport/sport-mix/">
+Sport Mix
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+Novac.hr
+</h3>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/life/">
+Life
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/life/obitelj-i-djeca/">
+Obitelj i djeca
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/tehnologija/">
+Tehnologija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/znanost/">
+Znanost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zdravlje/">
+Zdravlje
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/seks-i-veze/">
+Seks i veze
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/putovanja/">
+Putovanja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/zivotne-price/">
+Životne prièe
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/vaumijau/">
+VauMijau
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/moda-i-ljepota/">
+Moda i ljepota
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/life/astro/">
+Astro
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/buducnost-zdravstva/">
+Buduænost zdravstva
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/kultura/">
+Kultura
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="active">
+<a href="https://www.jutarnji.hr/kultura/art/">
+Art
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/film-i-tv/">
+Film i televizija
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/knjizevnost/">
+Književnost
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/glazba/">
+Glazba
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/arhitektura/">
+Arhitektura
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/kazaliste/">
+Kazalište
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/kultura/gaming/">
+Gaming
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/spektakli/">
+Spektakli
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/domace-zvijezde/">
+Domaæe zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/strane-zvijezde/">
+Strane zvijezde
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/reality/">
+Reality
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/ups/">
+Ups!
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/spektakli/top/na-kavi-sa/">
+Na kavi sa...
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/specijal/zlatni-studio/">
+Zlatni Studio
+</a>
+</li>
+</ul>
+</div>
+<div class="col ">
+<h3>
+<a href="https://www.jutarnji.hr/viral/">
+Viral
+</a>
+</h3>
+<ul class=" nav navbar-nav">
+<li class="">
+<a href="https://www.jutarnji.hr/viral/fun/">
+Fun
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/aww/">
+Aww
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/bizarre/">
+Bizarre
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/meme/">
+Meme
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/viral/mozgalice/">
+Mozgalice
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row socialize ">
+<div class="row col-xs-12 " >
+<dl class="socialLinks">
+<dt>Poveži se s Jutarnjim</dt> <dd><a class="fb" href="https://www.facebook.com/jutarnji.list/" title="Facebook">Facebook</a></dd>
+<dd><a class="tw" href="https://twitter.com/jutarnjihr" title="Twitter">Twitter</a></dd>
+<dd><a class="in" href="https://www.instagram.com/jutarnji.hr/" title="Instagram">Instagram</a></dd>
+</dl>
+</div>
+</div>
+<div class="row siteInfo ">
+<div class="col-xs-12 ">
+<p><a class="jl" href="/" title="Jutarnji list">Jutarnji list</a></p>
+<ul class="family">
+<li><a class="sd" href="http://www.slobodnadalmacija.hr/" title="Slobodna Dalmacija">Slobodna Dalmacija</a></li>
+<li><a class="sn" href="http://sportske.jutarnji.hr/" title="Sportske Novosti">Sportske Novosti</a></li>
+<li><a class="sto" href="http://100posto.hr/" title="100posto">100posto</a></li>
+<li><a class="glob" href="http://www.jutarnji.hr/globus/" title="Globus">Globus</a></li>
+<li><a class="zv" href="http://zivim.hr/" title="Živim.hr">Živim.hr</a></li>
+<li><a class="glo" href="http://www.gloria.hr/" title="Gloria">Gloria</a></li>
+<li><a class="dh" href="http://www.jutarnji.hr/dobrahrana/" title="Dobra hrana">Dobra hrana</a></li>
+<li><a class="did" href="http://www.jutarnji.hr/domidizajn/" title="Dom &amp; Dizajn">Dom &amp; Dizajn</a></li>
+<li><a class="ak" href="http://www.jutarnji.hr/autoklub/" title="Autoklub">Autoklub</a></li>
+<li><a class="ok" href="http://okjeok.hr/" title="ok!">ok!</a></li>
+<li><a class="ds" href="https://www.dosi.hr/" title="Dosi">Dosi</a></li>
+<li><a class="dv" href="http://dubrovacki.hr/" title="Dubrovacki Vjesnik">Dubrovacki Vjesnik</a></li>
+<li><a class="zd" href="http://www.zadarski.hr/" title="Zadarski">Zadarski</a></li>
+<li><a class="lc" href="http://www.likecroatia.com/" title="LikeCroatia">LikeCroatia</a></li>
+</ul>
+<ul class=" legal">
+<li class="">
+<a href="https://www.jutarnji.hr/Opci-uvjeti/">
+Opæi uvjeti korištenja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-prenosenja-sadrzaja/">
+Pravila prenošenja sadržaja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Zastita-privatnosti/">
+Zaštita privatnosti
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Pravila-komentiranja/">
+Pravila komentiranja
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Impressum/">
+Impressum
+</a>
+</li>
+<li class="">
+<a href="https://www.jutarnji.hr/Kontakt/">
+Kontakt
+</a>
+</li>
+<li class="">
+<a href="http://apps.jutarnji.hr/HM-Digital-Cjenik.pdf" target="_blank">
+Oglašavanje
+</a>
+</li>
+</ul>
+<p>Copyright © HANZA MEDIA d.o.o. Sva prava pridržana.</p>
+</div>
+</div>
+</div>
+</footer>
+<script>
+function fbCommentGA() {
+FB.Event.subscribe('comment.create', function(response) { ga('send', 'event', 'Facebook Comment', 'Posted', window.location.href, 1);
+});
+}
+window.onload = fbCommentGA;
+</script>
+<!-- Midas Pixel Code -->
+<img height="1" width="1" style="display:none" src="https://cdn.midas-network.com/MidasPixel/IndexAsync/4aafea04-6e7b-46b4-9eda-50b61a53a0f7" />
+<!-- DO NOT MODIFY -->
+<!-- End Midas Pixel Code -->
+<script async src="//cdn.adsync.tech/SpecialAdCampaigns/Index?portalWidgetId=72" type="text/javascript"></script>
+<div id="jl-floater-wrapper" class="jl-floater-wrapper">
+<div id="jl-float" class="jl-floater">
+<!-- /11425286/jl_floater -->
+<div id='div-gpt-ad-1459756830165-6'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-6"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-6'); });
+}
+</script>
+</div>
+</div>
+</div>
+<div id="jl-wallpaper-wrapper" class="jl-wallpaper-wrapper">
+<div id="jl-wallpaper" class="jl-wallpaper">
+<!-- /11425286/jl_wp -->
+<div id='div-gpt-ad-1459756830165-10'>
+<script type='text/javascript'>
+var dfpUnitData = dfpUnits[dfpCurrentPageType]["div-gpt-ad-1459756830165-10"];
+if (((dfpIsMobile === true) && (dfpUnitData['deviceType'] === 'mobile')) || ((dfpIsMobile === false) && (dfpUnitData['deviceType'] === 'desktop')) || (dfpUnitData['deviceType'] === 'all')) {
+googletag.cmd.push(function() { var slot = dfpUnitData['slot']; googletag.display('div-gpt-ad-1459756830165-10'); });
+}
+</script>
+</div> </div>
+</div>
+<div class="hidden-xs ">
+<div id="side-article-widget" class="side-article-widget" style="display: none;">
+<div class="clearfix">
+<div class="pull-left side-article-column">
+<a href="https://100posto.hr/bubble/moja-srednjoskolska-ljubav-napisao-sam-joj-ljubavno-pismo-ali-nikad-nisam-dobio-odgovor?utm_campaign=internal&utm_medium=floater&utm_source=jutarnji.hr" target="_blank">
+<div class="side-article clearfix">
+<div class="pull-left side-article-image">
+<img class="img-responsive" src="https://100posto.hr/datastore/imagestore/680x602/680x602_1528717139tin1.jpg?v=1528717183" />
+</div>
+<div class="pull-right side-article-text-wrapper">
+<div class="side-article-text">
+<h4>MILENIJALSKI FRIENDZONE/Moja srednjoškolska ljubav: Napisao sam joj ljubavno pismo, ali nikad nisam dobio odgovor</h4>
+<hr class="side-article-hr" />
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="pull-right side-control-column">
+<div class="side-control">
+<a href="#" class="side-button" data-status="open">&#9658;</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+$('#side-article-widget a.side-button').click(function (event) {
+event.preventDefault();
+var status = $(this).attr('data-status');
+if (status === 'open') {
+$('.side-article-column').fadeOut('fast');
+$(this).attr('data-status', 'close');
+$(this).html('&#9664;');
+} else {
+$('.side-article-column').fadeIn('fast');
+$(this).attr('data-status', 'open');
+$(this).html('&#9658;');
+}
+});
+$(window).scroll(function (event) {
+var turnOnHeight = 1500;
+var scrolled = $(window).scrollTop();
+if (scrolled > turnOnHeight) {
+$('#side-article-widget').fadeIn('fast');
+} else {
+$('#side-article-widget').fadeOut('fast');
+}
+});
+});
+</script>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&ctxId=49&contextPath=1-43-49-&pubId=1&cat=&meta=read-story&objId=7454013&type=article&title=ALBERT+KINERT%2c+ZANEMARENI+BUNTOVNIK+Do%c5%a1ao+s+devet+godina+u+Zagreb%2c+u+cipelama+bez+%c4%91onova%2c+no%c4%87u+kradu%c4%87i+ugljen.+Tek+s+18+ponovno+se+susreo+s+crtanjem&url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fart%2falbert-kinert-zanemareni-buntovnik-dosao-s-devet-godina-u-zagreb-u-cipelama-bez-donova-nocu-kraduci-ugljen-tek-s-18-ponovno-se-susreo-s-crtanjem%2f7454013%2f&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?rt=1&amp;ctxId=49&amp;contextPath=1-43-49-&amp;pubId=1&amp;cat=&amp;meta=read-story&amp;objId=7454013&amp;type=article&amp;title=ALBERT+KINERT%2c+ZANEMARENI+BUNTOVNIK+Do%c5%a1ao+s+devet+godina+u+Zagreb%2c+u+cipelama+bez+%c4%91onova%2c+no%c4%87u+kradu%c4%87i+ugljen.+Tek+s+18+ponovno+se+susreo+s+crtanjem&amp;url=https%3a%2f%2fwww.jutarnji.hr%2fkultura%2fart%2falbert-kinert-zanemareni-buntovnik-dosao-s-devet-godina-u-zagreb-u-cipelama-bez-donova-nocu-kraduci-ugljen-tek-s-18-ponovno-se-susreo-s-crtanjem%2f7454013%2f" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-49-&cat=jltags%40eph.hr%2c2016&objId=599620874&title=Albert+Kinert&url=tag%3ajltags%40eph.hr%2c2016%3aAlbert_Kinert&rt=1&ctxId=49&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-49-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=599620874&amp;title=Albert+Kinert&amp;url=tag%3ajltags%40eph.hr%2c2016%3aAlbert_Kinert&amp;rt=1&amp;ctxId=49&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-49-&cat=jltags%40eph.hr%2c2016&objId=10122831&title=izlo%c5%beba&url=tag%3ajltags%40eph.hr%2c2016%3aizlo%25C5%25BEba-2&rt=1&ctxId=49&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-49-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=10122831&amp;title=izlo%c5%beba&amp;url=tag%3ajltags%40eph.hr%2c2016%3aizlo%25C5%25BEba-2&amp;rt=1&amp;ctxId=49&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-49-&cat=jltags%40eph.hr%2c2016&objId=540498300&title=Moderna+galerija&url=tag%3ajltags%40eph.hr%2c2016%3aModerna_galerija&rt=1&ctxId=49&pubId=1&meta=tag-hit&type=tag&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="https://www.jutarnji.hr/analysis-logger/Logger?contextPath=1-43-49-&amp;cat=jltags%40eph.hr%2c2016&amp;objId=540498300&amp;title=Moderna+galerija&amp;url=tag%3ajltags%40eph.hr%2c2016%3aModerna_galerija&amp;rt=1&amp;ctxId=49&amp;pubId=1&amp;meta=tag-hit&amp;type=tag" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"media.jwplayer.hls.enabled":"true","audioPlayer":"mediaelement","media.jwplayer.sharing.enabled":"true","lc.liveLoading.pollingInterval":"5","media.jwplayer.ga.enabled":"true","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","media.jwplayer.options.primary":"flash","videoPlayer":"flowplayer"};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "https://www.jutarnji.hr/";
+/* Client-side device detection */
+var WFClientTypeDef = {"small":"(max-width: 767px)","large":"(min-width: 992px)","medium":"(min-width: 768px) and (max-width: 991px)"};
+var imageSizes = [80, 180, 280, 380, 480, 580, 680, 780, 880, 980, 1080, 1180];
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+</script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style")
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+)
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/jquery-1.10.2.min.js"></script>
+<script>(function ($, d) {
+$.each(readyQ, function (i, f) {
+$(f)
+});
+$.each(bindReadyQ, function (i, f) {
+$(d).bind("ready", f)
+})
+})(jQuery, document)</script>
+<script type="text/javascript" src="https://www.jutarnji.hr/static/js/wf-site.65c4eb6cf51818ab41250bfab36dff26.js"></script>
+<script type="text/javascript">
+require(['https://www.jutarnji.hr/static/js/holder.js'], function () {});
+</script>
+<script>
+var _ain = {};
+$(function() {
+$
+.ajax({
+url : 'https://graph.facebook.com/https://www.jutarnji.hr/kultura/art/albert-kinert-zanemareni-buntovnik-dosao-s-devet-godina-u-zagreb-u-cipelama-bez-donova-nocu-kraduci-ugljen-tek-s-18-ponovno-se-susreo-s-crtanjem/7454013/',
+dataType : 'jsonp',
+success : function(data) {
+var commentsCount = 0;
+if (typeof data.comments != 'undefined') {
+commentsCount = data.comments;
+}
+/* CONFIGURATION START */
+_ain = {
+id : "1247",
+url : "https://www.jutarnji.hr/kultura/art/albert-kinert-zanemareni-buntovnik-dosao-s-devet-godina-u-zagreb-u-cipelama-bez-donova-nocu-kraduci-ugljen-tek-s-18-ponovno-se-susreo-s-crtanjem/7454013/",
+postId : "7454013",
+maincontent : ".ci_overline, .ci_title, .ci_lead, .ci_body",
+title : "ALBERT KINERT, ZANEMARENI BUNTOVNIK Došao s devet godina u Zagreb, u cipelama bez ðonova, noæu kraduæi ugljen. Tek s 18 ponovno se susreo s crtanjem",
+pubdate : "2018-06-11 09:03",
+authors : "Patricia Kiš",
+sections : "Front Page, Kultura, Art",
+tags : "Albert Kinert, izložba, Moderna galerija",
+comments : commentsCount.toString()
+};
+/* CONFIGURATION END */
+(function(d, s) {
+var sf = d.createElement(s);
+sf.type = 'text/javascript';
+sf.async = true;
+sf.src = (('https:' == d.location.protocol) ? 'https://d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com'
+: 'http://t.contentinsights.com')
++ '/stf.js';
+var t = d.getElementsByTagName(s)[0];
+t.parentNode.insertBefore(sf, t);
+})(document, 'script');
+}
+});
+});
+</script>
+</body>
+</html>

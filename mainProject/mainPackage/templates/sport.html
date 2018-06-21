@@ -2,15 +2,18 @@
 <html>
 <head>
 
-	<title>Public profiles</title>
+	<title>Sport</title>
 	<meta name="author" content="your name" />
+	<meta charset="utf-8">
 	<meta name="description" content="" />
 	<link rel="stylesheet" href="{{ url_for('static', filename='webPageStyle.css') }}" type="text/css" />
 	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+ 	<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>	
 	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
  	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
  	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
 
 	<script>
     $(function() {
@@ -23,25 +26,79 @@
                 });
             });
         });
-	</script>
-	
+    </script>
 </head>
 
 <body>
 	<div id="page">
-		<div id="logo">
-			<h1><a href="/" id="logoLink">Povratak na kategorije</a></h1>
-		</div>
 		<div id="content">
-			<h2>Sport</h2>
+			<h2 class="mytitles">SPORT</h2>
 		
 				<div>
 					<form action="/showSport" method=post>
-    					<input id='data_autocomplete' type=text name=showSport placeholder="Search.." value="{{ request.form.showSport }}">
-    					<div><input type=submit value="Search"></div>
+    					<input class="inputart" id='data_autocomplete' type=text name=showSport placeholder="Search.." value="{{ request.form.showSport }}">
 					</form>
-		
-				{{ records }}
+					</br>
+					</br>
+					</br>
+					</br>
+					</br>
+					<h2 class="mytitles">Number of articles per month</h2>
+					<canvas id="chart" width="600" height="250"></canvas>  
+					</br>
+					</br>
+					</br>
+					</br>
+					</br>
+					<h2 class="mytitles">Sentiment of articles</h2>
+					<canvas id="chartSentiment" width="600" height="250"></canvas>  				
+  					</br>
+					</br>
+					</br>
+					</br>
+					</br>
+  					<h2 class="mytitles">Timeline of articles</h2>
+					<ul class="timeline">
+  						{% for item in records %}
+  							{% if (records.index(item) % 2): %}
+							<li>
+								<div class="direction-r">
+									<div class="flag-wrapper">
+										<span class="flag"> Date of publication </span>
+											<span class="time-wrapper"><span class="time">{{ item[3] }}</span></span>
+									</div>
+									<a href="{{ item[2] }}" target="_blank" class="desc"> {{ item[2] }}
+									{% if (item[5] == "pos"): %}
+										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #3BCB58" />
+									{% elif (item[5] == "neg"): %}
+										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FD4B4B" />
+									{% else: %}
+										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FFFF03" />		
+									{% endif %}
+									</a>
+								</div>
+							</li>
+							{% else: %}
+								<li>
+								<div class="direction-l">
+									<div class="flag-wrapper">
+										<span class="flag"> Date of publication </span>
+											<span class="time-wrapper"><span class="time">{{ item[3] }}</span></span>
+									</div>
+									<a href="{{ item[2] }}" target="_blank" class="desc"> {{ item[2] }}
+									{% if (item[5] == "pos"): %}
+										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #3BCB58" />
+									{% elif (item[5] == "neg"): %}
+										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FD4B4B" />
+									{% else: %}
+										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FFFF03" />		
+									{% endif %}
+									</a>
+								</div>
+								</li>
+							{% endif %}
+						{% endfor %}
+					</ul>
 				</div>
 			
 		</div>
@@ -51,5 +108,139 @@
 			</p>
 		</div>
 	</div>
+	
+	<script>
+		$(function() {
+			
+			// LINE GRAPH			
+			var lineData = {			  
+				labels : [{% for item in labels %}
+							"{{item}}",
+						{% endfor %}],
+				datasets : [
+				{
+						label: "Number of articles",
+			        	borderColor: "darkgreen",
+			        	fill: false,
+						bezierCurve : false,
+						data : [{% for item in values %}
+									{{ values[item] }},
+								{% endfor %}]
+				}]  
+			}
+			
+			Chart.defaults.global.animationSteps = 50;
+			Chart.defaults.global.tooltipYPadding = 16;
+			Chart.defaults.global.tooltipCornerRadius = 0;
+			Chart.defaults.global.tooltipTitleFontStyle = "normal";
+			Chart.defaults.global.tooltipFillColor = "rgba(0,0,0,0.8)";
+			Chart.defaults.global.animationEasing = "easeOutBounce";
+			Chart.defaults.global.responsive = false;
+			Chart.defaults.global.scaleLineColor = "black";
+			Chart.defaults.global.scaleFontSize = 16;
+			
+			var mychart = document.getElementById("chart").getContext("2d");			
+			var LineChartDemo = new Chart(mychart, {
+		        type: 'line',
+		        data: lineData,
+		        beginAtZero: true,
+		        options: {
+		            legend: {
+		                display: false
+		            },
+		            title: {
+		                display: false
+		            },
+		            scales: {
+		                yAxes: [{
+		                	scaleLabel: {
+		                        display: true,
+		                        labelString: 'Number of articles'
+		                    },
+		                    ticks: {
+		                        beginAtZero: true,
+		                        callback: function (value) { if (Number.isInteger(value)) { return value; } },
+		                        stepSize: 1
+		                    }
+		                }],
+		                xAxes: [{
+		                	scaleLabel: {
+		                        display: true,
+		                        labelString: 'Months'
+		                    }
+		                }]
+		            }
+		        }
+		    });
+					
+			
+			// BAR GRAPH
+			var barSentiment = {
+					
+					labels : [{% for item in labels %}
+									"{{item}}",
+								{% endfor %}],
+					datasets: [{
+							    label: '#Positive',
+							    data: [{% for item in pos %}
+							    			"{{sentiment[item]}}",
+									   {% endfor %}],
+								backgroundColor: "#3BCB58"
+							    },
+							    {
+							    label: '#Negative',
+							    data: [{% for item in neg %}
+							    		"{{sentiment[item]}}",
+						   			   {% endfor %}],
+						   		backgroundColor: "#FD4B4B"
+							    },
+							    {
+								 label: '#Neutral',
+								 data: [{% for item in neu %}
+											"{{sentiment[item]}}",
+							   			{% endfor %}],
+							   	backgroundColor: "#FFFF03"
+								}
+					],
+			}
+			
+			var mychartSent = document.getElementById("chartSentiment").getContext("2d");
+			var LineChartDemo = new Chart(mychartSent, {
+		        type: 'bar',
+		        data: barSentiment,
+		        beginAtZero: true,
+		        options: {
+		            legend: {
+		                display: false
+		            },
+		            title: {
+		                display: false
+		            },
+		            scales: {
+		            	yAxes: [{
+		            		stacked: true,
+		                	scaleLabel: {
+		                        display: true,
+		                        labelString: 'Number of articles'
+		                    },
+		                    ticks: {
+		                        beginAtZero: true,
+		                        callback: function (value) { if (Number.isInteger(value)) { return value; } },
+		                        stepSize: 1
+		                    }
+		                }],
+		                xAxes: [{
+		                	stacked: true,
+		                	scaleLabel: {
+		                        display: true,
+		                        labelString: 'Months'
+		                    }
+		                }]
+		            }
+		        }
+		    });
+		});
+	
+	</script>
 </body>
 </html>

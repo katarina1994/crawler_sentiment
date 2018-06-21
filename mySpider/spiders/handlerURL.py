@@ -24,7 +24,7 @@ class handlerURL (HTMLParser):
     def getURLs(self, url):
         self.links = []
         self.start = url
-        result = urlopen(url)
+        result = urlopen(url.encode('ascii', 'ignore').decode('ascii'))
         #print (response.info().get('Content-Type'))
 
         contentType = result.info().get("Content-Type")

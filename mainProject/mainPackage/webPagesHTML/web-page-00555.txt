@@ -1,0 +1,1905 @@
+
+
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,height=device-height, initial-scale=1.0">
+    <title>VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo - Index.hr</title>
+    <!--todo: remove on production-->
+    <meta name="description" content="KOREOGRAF Atomic Dance Factoryja Sa&#x161;a Krneti&#x107; i njegova odabranica Petra Planinc vjen&#x10D;ali su se nakon 11 godina veze, a tulum na imanju pored Zagreba je bio spektakularan.">
+    <meta property="fb:app_id" content="216060115209819">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Rubik:300,400,500&amp;subset=latin-ext" rel="stylesheet">
+
+    
+    
+        <link href="/Content/desktop-bundle.min.css?v=egu3v8Au-79RN7_zWnaTgHCYtuE0dtJtEs5b4bQbjpE" rel="stylesheet" />
+    
+
+    <script src="/Scripts/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript">
+        var appInsights=window.appInsights||function(config){
+            function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t
+        }({
+            instrumentationKey: 'cc5991a8-74c3-4f22-b0e4-067761b8ffdd'
+        });
+
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
+        
+    </script>
+
+
+    <!-- Google analytics tracking -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-2490832-1', 'auto');
+    </script>
+
+    <!--ad ocean-->
+    <script type="text/javascript" src="//hr.adocean.pl/files/js/ado.js"></script>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018 */
+        if (typeof ado !== "object") { ado = {}; ado.config = ado.preview = ado.placement = ado.master = ado.slave = function () { }; }
+        ado.config({ mode: "old", xml: false, characterEncoding: true });
+        ado.preview({ enabled: true });
+    </script>
+
+
+
+    <!-- Make sure this is inserted before your GPT tag -->
+    <script type="text/javascript" src="//ads.rubiconproject.com/prebid/16666.js"></script>
+
+
+    <script>
+
+    var PREBID_TIMEOUT = 2000;
+    var adUnits = [{
+        code: 'div-gpt-ad-1519642151413-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209251"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918716'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '59',
+                siteID: '268221'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192147"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642588872-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209252"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918718'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '60',
+                siteID: '268222'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192155"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642696832-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209254"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918722'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '61',
+                    siteID: '268223'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192159"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519644719256-0',
+        sizes: [[970, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209255"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918724'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '62',
+                    siteID: '268224'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192166"
+            }
+        }]
+    }];
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    pbjs.bidderSettings = {
+        rubicon: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        criteo: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        indexExchange: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        appnexus: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        }
+    };
+
+    const customPrebidGranularity = {
+        "buckets": [
+            {
+                "min": 0,
+                "max": 100,
+                "increment": 0.1
+            }
+        ]
+    };
+</script>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function () {
+        googletag.pubads().disableInitialLoad();
+    });
+
+    pbjs.que.push(function () {
+        pbjs.setPriceGranularity(customPrebidGranularity);
+        pbjs.enableSendAllBids();
+        pbjs.addAdUnits(adUnits);
+        pbjs.requestBids({
+            bidsBackHandler: sendAdserverRequest
+        });
+    });
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function () {
+            pbjs.que.push(function () {
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+
+    setTimeout(function () {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+
+</script>
+<!-- Make sure this is inserted before your GPT tag -->
+
+
+
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script>
+        googletag.cmd.push(function () {
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Magazin_L', [300, 250], 'div-gpt-ad-1519646700402-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Magazin_R', [300, 250], 'div-gpt-ad-1519646746612-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA3_Magazin', [[300, 600], [300, 250]], 'div-gpt-ad-1519647318101-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA4_Magazin', [[970, 250], [970, 90], [728, 90]], 'div-gpt-ad-1519647635337-0').addService(googletag.pubads());
+
+googletag.defineSlot('/5968637/2DIA', [[760, 150], [760, 200], [300, 250]], 'div-gpt-ad-1524557626556-0').addService(googletag.pubads());            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+
+    <script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+
+    <!-- Hotjar Tracking Code for http://www.index.hr -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 447571, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    
+    <link href="/Content/bootstrap-rating.css" rel="stylesheet" />
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <link rel="canonical" href="http://www.index.hr/magazin/clanak/video-tulum-za-pamcenje-kod-zagreba-svadba-plesaca-pretvorila-se-u-pravo-ludilo/2003803.aspx">
+    <link rel="alternate" href="http://www.index.hr/mobile/clanak.aspx?category=magazin&amp;id=2003803">
+    <link rel="amphtml" href="http://amp.index.hr/article/2003803/video-tulum-za-pamcenje-kod-zagreba-svadba-plesaca-pretvorila-se-u-pravo-ludilo">
+
+    <meta property="og:type" content="article" />
+
+    <meta property="og:title" content="VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo" />
+    <meta property="og:image" content="http://www.index.hr/clanak/fb_image/2003803?v=dd9ae5ea-a0e7-4a61-8ef4-092d603b5e35" />
+
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="654" />
+
+    <meta property="og:description" content="KOREOGRAF Atomic Dance Factoryja Sa&#x161;a Krneti&#x107; i njegova odabranica Petra Planinc vjen&#x10D;ali su se nakon 11 godina veze, a tulum na imanju pored Zagreba je bio spektakularan." />
+
+    
+
+
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo",
+    "url": "http://www.index.hr/magazin/clanak/video-tulum-za-pamcenje-kod-zagreba-svadba-plesaca-pretvorila-se-u-pravo-ludilo/2003803.aspx",
+    "description": "Description.",
+    "breadcrumb":{
+    "@type":"BreadcrumbList",
+    "itemListElement":[
+    {
+    "@type":"ListItem",
+    "position":"1",
+    "item":{
+    "@type":"WebSite",
+    "@id":"http://www.index.hr",
+    "name":"Index.hr"
+    }
+    },
+    {
+    "@type":"ListItem",
+    "position":"2",
+    "item":{
+    "@type":"WebPage",
+    "@id":"www.index.hr/magazin",
+    "name":"Magazin"
+    }
+    },
+
+        {
+        "@type":"ListItem",
+        "position":"3",
+        "item":{
+        "@type":"WebPage",
+        "@id":"http://www.index.hr/magazin/rubrika/zanimljivosti/1530.aspx",
+        "name":"Zanimljivosti"
+        }
+        },
+            {
+    "@type":"ListItem",
+    "position":"4",
+    "item":{
+    "@type":"WebPage",
+    "@id":"http://www.index.hr/magazin/clanak/video-tulum-za-pamcenje-kod-zagreba-svadba-plesaca-pretvorila-se-u-pravo-ludilo/2003803.aspx",
+    "name":"VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo"
+    }
+    }
+    ]},
+    "mainEntity": {
+    "@type": "NewsArticle",
+    "@id": "http://www.index.hr/magazin/clanak/video-tulum-za-pamcenje-kod-zagreba-svadba-plesaca-pretvorila-se-u-pravo-ludilo/2003803.aspx",
+    "name" : "VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo",
+    "mainEntityOfPage": {
+    "@type": "WebSite",
+    "@id": "http://www.index.hr/"
+    },
+    "author" : {
+    "@type" : "Person",
+    "name" : "G.Ba."
+    },
+    "datePublished" : "2018-06-11T16:08",
+    "dateModified" : "2018-06-11T16:08",
+    "headline" : "VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://ip.index.hr/remote/indexnew.s3.index.hr/cure_insta_11062018naslaaa.jpg",
+    "height": "654",
+    "width": "1200"
+    },
+    "url" : "http://www.index.hr/magazin/clanak/video-tulum-za-pamcenje-kod-zagreba-svadba-plesaca-pretvorila-se-u-pravo-ludilo/2003803.aspx",
+    "description": "KOREOGRAF Atomic Dance Factoryja Sa&#x161;a Krneti&#x107; i njegova odabranica Petra Planinc vjen&#x10D;ali su se nakon 11 godina veze, a tulum na imanju pored Zagreba je bio spektakularan.",
+    "publisher": {
+    "@type": "Organization",
+    "name": "Index.hr",
+    "url" : "http://wwww.index.hr",
+    "logo": {
+    "@type" : "ImageObject",
+    "url" : "http://dev.index.hr/Content/img/logo/index_logo_112x112.png"
+    },
+    "sameAs": [
+    "https://www.facebook.com/index.hr/",
+    "https://twitter.com/indexhr",
+    "https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA"
+    ]
+    }
+    }
+    }
+</script>
+
+</head>
+<body>
+    
+
+    
+    <div class="cookie-consent-container">
+        <div class="main-container flex">
+            <div class="description">
+                U skladu s novom europskom regulativom, Index.hr je nadogradio politiku privatnosti i korištenja kolaèiæa.
+                Kolaèiæe upotrebljavamo kako bismo vam omoguæili korištenje naše online usluge, što bolje korisnièko iskustvo i funkcionalnost naših web stranica,
+                prikaz reklamnih sadržaja i ostale funkcionalnosti koje inaèe ne bismo mogli pružati.
+                Daljnjim korištenjem naše web stranice, suglasni ste s korištenjem kolaèiæa. <a href="/cookie-consent">Više informacija</a>
+            </div>
+            <div class="btn-agree main-bg main-bg-hover" onclick="closeCookieConsent()">Razumijem</div>
+        </div>
+    </div>
+    <script>
+        function closeCookieConsent() {
+            $('.cookie-consent-container').remove();
+            ga('send', 'event', "cookie_consent");
+        }
+    </script>
+
+
+
+    <div id="fb-root"></div>
+    <script>
+        var finished_rendering = function () {
+            $(".fb-loader").addClass("display-none");
+        }
+
+        window.fbAsyncInit = function () {
+            FB.Event.subscribe('xfbml.render', finished_rendering);
+        };
+
+        (function (d, s, id) {
+            var js;
+            const fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.10&appId=216060115209819";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+
+
+    <div class="main-container no-padding main-content-bg">
+        <div id='crt-1130728' style="width:728px;height:90px;" class="ad-ocean-billboard top"></div>
+        <script>
+            var Criteo = Criteo || {};
+            Criteo.events = Criteo.events || [];
+            Criteo.events.push(function () {
+                Criteo.DisplayAcceptableAdIfAdblocked({
+                    "zoneid": 1130728,
+                    "containerid": "crt-1130728",
+                    "overrideZoneFloor": false
+                });
+            });
+            window.addEventListener("message", function (e) {
+                if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130728') {
+                    document.getElementById("crt-1130728").style.display = "none";
+                } else {
+                    return;
+                }
+            }, false);
+        </script>
+
+
+
+
+
+
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, MASTER: index_hr.Index.hr.desktop.Magazin */
+        ado.master({ id: '4NBbHPwT_CM_wPlFWbnUpVb8.EXwXfBWJ0.fvnFUXUv.X7', server: 'hr.adocean.pl' });
+    </script>
+
+
+<div class="ad-ocean-billboard top">
+                                <div id="adoceanhrpamgknqlyf"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Magazin.Billboard1 */
+            ado.slave('adoceanhrpamgknqlyf', { myMaster: '4NBbHPwT_CM_wPlFWbnUpVb8.EXwXfBWJ0.fvnFUXUv.X7' });</script>
+        </div>
+<div class="ad-ocean-wallpaper">
+                                <div id="adoceanhrkgntbkfmre"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Magazin.Wallpaper */
+            ado.slave('adoceanhrkgntbkfmre', { myMaster: '4NBbHPwT_CM_wPlFWbnUpVb8.EXwXfBWJ0.fvnFUXUv.X7' });
+        </script>
+        </div>
+<div class="ad-ocean-wallpaper">
+                                <div id="adoceanhrtjdqcjhlrn"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Magazin.Ticker */
+            ado.slave('adoceanhrtjdqcjhlrn', { myMaster: '4NBbHPwT_CM_wPlFWbnUpVb8.EXwXfBWJ0.fvnFUXUv.X7' });
+        </script>
+        </div>
+    </div>
+
+    
+
+
+<header class="main-menu-container">
+    <div class="float-menu" menu-fix-top>
+        <div class="main-container clearfix">
+            <div class="main-menu">
+
+                <h1 class="logo magazin-bg">
+                    <a class="home-btn homepage-link" href="/" title="index.hr"> </a>
+                    <a class="home-btn category-link" href="/main" title="index.hr"> </a>
+                    <img class="main" src="/Content/img/logo/index_main.svg" alt="index.hr" />
+                    <img class="small" src="/Content/img/logo/paprika_logo.svg" alt="index.hr" />
+                </h1>
+                <nav class="menu-holder clearfix">
+                    <ul>
+                        <li><a class="main-text-hover no-drop " href="/"> Naslovnica</a></li>
+                            <li>
+                                <a class="vijesti-text-hover  " href="/vijesti">
+                                    Vijesti
+                                </a>
+                            </li>
+                            <li>
+                                <a class="sport-text-hover  " href="/sport">
+                                    Sport
+                                </a>
+                            </li>
+                            <li>
+                                <a class="magazin-text-hover magazin-text " href="/magazin">
+                                    Magazin
+                                </a>
+                            </li>
+                            <li>
+                                <a class="oglasi-text-hover  " href="http://www.index.hr/oglasi/">
+                                    Oglasi
+                                </a>
+                            </li>
+                        <li class="menu-ostalo">
+                            <span class="expandable">Ostalo</span>
+                            <ul class="dropdown-content ostalo display-none">
+                                    <li class="lajkhr-bg-hover">
+
+                                        <a href="http://www.index.hr/lajk/">Lajk.hr</a>
+                                    </li>
+                                    <li class="rouge-bg-hover">
+
+                                        <a href="/rouge">Rouge</a>
+                                    </li>
+                                    <li class="auto-bg-hover">
+
+                                        <a href="/auto">Auto</a>
+                                    </li>
+                                    <li class="mame-bg-hover">
+
+                                        <a href="/mame">Mame</a>
+                                    </li>
+                                    <li class="ljubimci-bg-hover">
+
+                                        <a href="/ljubimci">Ljubimci</a>
+                                    </li>
+                                    <li class="fit-bg-hover">
+
+                                        <a href="/fit">Fit</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="http://www.index.hr/indexforum/">Forum</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tecaj">Te&#x10D;aj</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tv">TV program</a>
+                                    </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="right-part">
+                        <li><a href="https://www.facebook.com/index.hr/" target="_blank"><i class="index-facebook"></i></a></li>
+                        <li><a href="/trazi.aspx" class="btn-open-search"><i class="index-magnifier"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="main-container">
+        <div class="sub-menu-holder">
+            <nav class="sub-menu clearfix">
+                    <a class="sub-menu-item magazin-border-bottom " href="/magazin">Magazin</a>
+                    <a class="sub-menu-item magazin-border-bottom " href="/najnovije?kategorija=1523">Najnovije</a>
+                    <a class="sub-menu-item magazin-border-bottom " href="/najcitanije?kategorija=1523">Naj&#x10D;itanije</a>
+                    <a class="sub-menu-item magazin-border-bottom " href="/magazin/rubrika/tv-film/1525.aspx">TV &amp; Film</a>
+                    <a class="sub-menu-item magazin-border-bottom " href="/magazin/rubrika/glazba/1526.aspx">Glazba</a>
+                    <a class="sub-menu-item magazin-border-bottom " href="/magazin/rubrika/tech-gadget/1528.aspx">Tech &amp; Gadget</a>
+                    <a class="sub-menu-item magazin-border-bottom " href="/magazin/rubrika/lifestyle/1529.aspx">Lifestyle</a>
+                    <a class="sub-menu-item magazin-border-bottom " href="/magazin/rubrika/showbiz/1527.aspx">Showbiz</a>
+                    <a class="sub-menu-item magazin-border-bottom active" href="/magazin/rubrika/zanimljivosti/1530.aspx">Zanimljivosti</a>
+            </nav>
+            <div class="scroll-arrows">
+                <div class="navigation-arrow left-arrow disabled magazin-text-hover"><i class="index-arrow-left"></i></div>
+                <div class="navigation-arrow right-arrow disabled magazin-text-hover"><i class="index-arrow-right"></i></div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<style>
+    .main-container {
+        max-width: 1140px;
+    }
+</style>
+
+<article class="article-container">
+    <div class="article-header-code">
+        
+    </div>
+    <div class="article-holder main-container main-content-bg">
+        <div class="article-title-holder">
+            <h1 class="magazin-text-parsed title"><span class='title-parsed-text'>VIDEO</span>  Tulum za pamæenje kod Zagreba: Svadba plesaèa pretvorila se u pravo ludilo</h1>
+            <div class="article-info clearfix">
+                <div class="author-holder">
+                    <span class="author">G.Ba.</span>
+                    <span class="time ">
+                        <time timeago datetime="2018-06-11 16:08:00"></time>
+                    </span>
+                </div>
+                <div class="social-holder clearfix">
+                    <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003803" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003803">
+                        <i class="index-facebook"></i>
+                        <span class="share-count">0</span>
+                    </div>
+
+                    <div class="other"><i class="index-share"></i></div>
+                    
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003803" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003803&via=indexhr&text=VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003803" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003803&media=https://ip.index.hr/remote/indexnew.s3.index.hr/cure_insta_11062018naslaaa.jpg&description=VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003803" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003803" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003803" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003803&title=VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo&summary=KOREOGRAF Atomic Dance Factoryja Sa&#x161;a Krneti&#x107; i njegova odabranica Petra Planinc vjen&#x10D;ali su se nakon 11 godina veze, a tulum na imanju pored Zagreba je bio spektakularan.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003803" href="mailto:?subject=VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo&body=http://www.index.hr/clanak.aspx?id=2003803" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="top-part flex">
+            <div class="left-part">
+                    <figure class="img-container">
+                        <div class="blur-img-holder" style="padding-bottom: 54.51%;" data-large="https://ip.index.hr/remote/indexnew.s3.index.hr/cure_insta_11062018naslaaa.jpg?width=765&height=417">
+                            <img class="img-responsive img-small" src="https://ip.index.hr/remote/indexnew.s3.index.hr/cure_insta_11062018naslaaa.jpg?width=30" alt="VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo" />
+                        </div>
+                            <figcaption class="main-img-desc clearfix">
+                                <span></span>
+
+                                    <span class="credits">Screenshot: Facebook</span>
+                            </figcaption>
+                    </figure>
+                <div class="content-holder">
+                    <div class="ad-ocean-in-article">
+                            <div id="adoceanhrnfgnomlhwj"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Magazin.InArticle */
+            ado.slave('adoceanhrnfgnomlhwj', { myMaster: '4NBbHPwT_CM_wPlFWbnUpVb8.EXwXfBWJ0.fvnFUXUv.X7' });
+        </script>
+        </div>
+                    <div class="text-holder">
+                        <div class="text">
+                            <p>KOREOGRAF Atomic Dance Factoryja Sa&scaron;a Krnetiæ i njegova odabranica Petra Planinc vjenèali su se nakon 11 godina veze, a tulum na imanju pored Zagreba je bio spektakularan.</p>
+
+
+<p>Dokazuju to snimke njihovih prijatelja nastale na plesnom podiju, na koji èesto nisu uspijevali stati svi njihovi gosti.&nbsp;</p>
+<!-- /5968637/2DIA -->
+<div id="div-gpt-ad-1524557626556-0" class="dfp-inarticle">
+    <span class="ad-unit-text">Tekst se nastavlja ispod oglasa</span>
+    <script>
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1524557626556-0'); });
+    </script>
+</div>
+
+
+
+<p>Show je poèeo veæ prvim plesom, za koji su Sa&scaron;a i Petra osmislili posebnu koreografiju, a potom se nastavio kad su im se na podiju pridružili njihovi prijatelji.</p>
+
+
+<p><iframe allowfullscreen="true" allowtransparency="true" frameborder="100%" height="450" scrolling="no" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpartyana%2Fvideos%2F10155666297193358%2F&amp;show_text=0&amp;width=560" style="border:none;overflow:hidden" width="100%"></iframe></p>
+
+
+                        </div>
+                        <div class="article-report-container">
+                            <div class="article-report-trigger" data-article-id="2003803">Znate li nešto više o temi ili želite prijaviti grešku u tekstu?</div>
+                            <div class="report-holder display-none">
+                                <div class="loading-container">
+                                    <span class="img-helper"></span>
+                                    <img src="/Content/img/loader_40px.gif" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="reactions-container clearfix">
+                            <div class="social-holder social-bottom clearfix">
+                                <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003803" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003803">
+                                    <i class="index-facebook"></i>
+                                    <span class="share-count">0</span>
+                                </div>
+                                <div class="other"><i class="index-share"></i></div>
+                                
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003803" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003803&via=indexhr&text=VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003803" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003803&media=https://ip.index.hr/remote/indexnew.s3.index.hr/cure_insta_11062018naslaaa.jpg&description=VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003803" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003803" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003803" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003803&title=VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo&summary=KOREOGRAF Atomic Dance Factoryja Sa&#x161;a Krneti&#x107; i njegova odabranica Petra Planinc vjen&#x10D;ali su se nakon 11 godina veze, a tulum na imanju pored Zagreba je bio spektakularan.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003803" href="mailto:?subject=VIDEO Tulum za pam&#x107;enje kod Zagreba: Svadba plesa&#x10D;a pretvorila se u pravo ludilo&body=http://www.index.hr/clanak.aspx?id=2003803" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                            </div>
+                        </div>
+
+
+
+<div class="tags-holder">
+        <a href="/tag/6742/vjencanje.aspx" class="magazin-bg-hover tag-item">
+            <span class="magazin-text hashtag">#</span>vjen&#x10D;anje
+        </a>
+        <a href="/tag/131619/svadba.aspx" class="magazin-bg-hover tag-item">
+            <span class="magazin-text hashtag">#</span>svadba
+        </a>
+        <a href="/tag/175389/atomic-dance-factory.aspx" class="magazin-bg-hover tag-item">
+            <span class="magazin-text hashtag">#</span>atomic dance factory
+        </a>
+        <a href="/tag/1002528/sasa-krnetic.aspx" class="magazin-bg-hover tag-item">
+            <span class="magazin-text hashtag">#</span> sa&#x161;a krneti&#x107;
+        </a>
+        <a href="/tag/1002529/petra-planinc.aspx" class="magazin-bg-hover tag-item">
+            <span class="magazin-text hashtag">#</span> petra planinc
+        </a>
+</div>                    </div>
+                    <div class="clearfix ad-holder">
+                        <div class="float-left">
+                            
+
+
+
+
+
+    <!-- /5968637/2DA_Magazin_L -->
+    <div id='div-gpt-ad-1519646700402-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519646700402-0'); });
+        </script>
+    </div>
+
+
+
+                        </div>
+                        <div class="float-right">
+                            
+
+
+
+
+
+    <!-- /5968637/2DA_Magazin_R -->
+    <div id='div-gpt-ad-1519646746612-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519646746612-0'); });
+        </script>
+    </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <aside class="right-part">
+                <div id='crt-1130726' style="width:300px;height:250px;"></div>
+                <script>
+                    var Criteo = Criteo || {};
+                    Criteo.events = Criteo.events || [];
+                    Criteo.events.push(function () {
+                        Criteo.DisplayAcceptableAdIfAdblocked({
+                            "zoneid": 1130726,
+                            "containerid": "crt-1130726",
+                            "overrideZoneFloor": false
+                        });
+                    });
+                    window.addEventListener("message", function (e) {
+                        if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130726') {
+                            document.getElementById("crt-1130726").style.display = "none";
+                        } else {
+                            return;
+                        }
+                    }, false);
+                </script>
+
+                <div class="ad-ocean-box">
+                    
+                        <div id="adoceanhrwcrjevnjmu"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Magazin.Box1 */
+        ado.slave('adoceanhrwcrjevnjmu', { myMaster: '4NBbHPwT_CM_wPlFWbnUpVb8.EXwXfBWJ0.fvnFUXUv.X7' });</script>
+
+                </div>
+
+
+                
+
+
+<div class="home-cube-big-timeline">
+    <ul class="nav timeline-tab" timeline-tab role="tablist" data-category="magazin" data-category-id="1523">
+        <li role="presentation" class="active latest"><a href="#tab-content-latest" aria-controls="tab-content-latest" role="tab" data-toggle="tab"> Najnovije</a></li>
+        <li role="presentation" class="most-read"><a href="#tab-content-most-read" aria-controls="tab-content-most-read" role="tab" data-toggle="tab"> Najèitanije</a></li>
+        <li role="presentation" class="related"><a href="#tab-content-related" data-id="tab-content-related" aria-controls="tab-content-related" role="tab" data-toggle="tab"> Vezano</a></li>
+        <hr class="magazin-bg" />
+    </ul>
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-content-latest">
+            
+
+
+    <div class="timeline-content latest">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center magazin-text">
+                        <span class="num">7</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/sandra-perkovic-otvorila-sezonu-suncanja-u-badicu/2003884.aspx">
+                            Sandra Perkoviæ otvorila sezonu sunèanja u badiæu
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">43</span>
+                        <span class="desc">min</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/scena-iz-novog-horora-toliko-je-poremecena-da-je-istraumatizirala-publiku/2003871.aspx">
+                            Scena iz novog horora toliko je poremeæena da je istraumatizirala publiku
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">1</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/tenisaci-blokiraju-promet-srbi-se-ne-prestaju-smijati-izjavi-voditeljice-dnevnika/2003873.aspx">
+                            "Tenisaèi blokiraju promet": Srbi se ne prestaju smijati izjavi voditeljice Dnevnika
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">1</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/cura-s-oziljcima-dopustila-decku-da-je-vidi-bez-sminke-i-perike-reakcija-ju-je-iznenadila/2003859.aspx">
+                            Cura s ožiljcima dopustila deèku da je vidi bez šminke i perike: Reakcija ju je iznenadila
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">1</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/luka-bulic-opjevao-vatrene-pred-svjetsko-ako-izgubimo-sudac-bit-ce-kriv/2003861.aspx">
+                            Luka Buliæ opjevao Vatrene pred Svjetsko: "Ako izgubimo, sudac bit æe kriv"
+                        </a>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najnovije?kategorija=1523">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-most-read">
+            
+
+
+    <div class="timeline-content most-read">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center magazin-text">
+                        <span class="num">1</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/nije-joj-bilo-lako-otkriveno-sto-je-harry-govorio-meghan-na-balkonu/2003731.aspx">
+                            Nije joj bilo lako: Otkriveno što je Harry govorio Meghan na balkonu
+                        </a>
+                        <div class="line" style="width: 90%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center magazin-text">
+                        <span class="num">2</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/gledatelji-zgrozeni-izgledom-lidije-bacic-i-nives-celzijus-dosle-ste-medju-djecu-takve/2003743.aspx">
+                            Gledatelji zgroženi izgledom Lidije Baèiæ i Nives Celzijus: "Došle ste meðu djecu takve"
+                        </a>
+                        <div class="line" style="width: 72%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center magazin-text">
+                        <span class="num">3</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/video-tulum-za-pamcenje-kod-zagreba-svadba-plesaca-pretvorila-se-u-pravo-ludilo/2003803.aspx">
+                            <span class='title-parsed-text'>VIDEO</span>  Tulum za pamæenje kod Zagreba: Svadba plesaèa pretvorila se u pravo ludilo
+                        </a>
+                        <div class="line" style="width: 54%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center magazin-text">
+                        <span class="num">4</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/11-slika-koje-ce-razumjeti-samo-cure-s-velikim-grudima/2003794.aspx">
+                            11 slika koje æe razumjeti samo cure s velikim grudima
+                        </a>
+                        <div class="line" style="width: 36%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center magazin-text">
+                        <span class="num">5</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="magazin-text-hover" href="/magazin/clanak/nakon-glasina-o-razvodu-victoria-beckham-nazvala-davida-i-rekla-mu-samo-jednu-stvar/2003762.aspx">
+                            Nakon glasina o razvodu, Victoria Beckham nazvala Davida i rekla mu samo jednu stvar
+                        </a>
+                        <div class="line" style="width: 18%;"></div>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najcitanije?kategorija=1523">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-related">
+           <img class="loading-img" src="/Content/img/loader_40px.gif" />
+        </div>
+    </div>
+</div>
+
+                <div class="separator-45"></div>
+                <div class="sticky ad-ocean-box no-margin">
+                    <div id='crt-1130727' style="width:300px;height:250px;"></div>
+                    <script>
+	                    var Criteo = Criteo || {};
+	                    Criteo.events = Criteo.events || [];
+	                    Criteo.events.push(function() {
+		                    Criteo.DisplayAcceptableAdIfAdblocked({   
+			                    "zoneid": 1130727,
+			                    "containerid": "crt-1130727",
+			                    "overrideZoneFloor" : false
+		                    });
+	                    });
+	                    window.addEventListener( "message", function (e) {
+		                    if(e.origin == (location.protocol=='https:'?'https://':'http://') + 'cas.criteo.com' && e.data == 'passback-1130727') {
+			                    document.getElementById("crt-1130727").style.display = "none";	
+		                    } else {
+			                    return;
+		                    }
+	                    }, false);
+                    </script>
+    <div id="adoceanhrtdiqhshohp"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Magazin.Box2 */
+        ado.slave('adoceanhrtdiqhshohp', { myMaster: '4NBbHPwT_CM_wPlFWbnUpVb8.EXwXfBWJ0.fvnFUXUv.X7' });</script>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="magazin slider">
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/tenisaci-blokiraju-promet-srbi-se-ne-prestaju-smijati-izjavi-voditeljice-dnevnika/2003873.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/dnwlkda.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>"Tenisaèi blokiraju promet": Srbi se ne prestaju smijati izjavi voditeljice Dnevnika</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/scena-iz-novog-horora-toliko-je-poremecena-da-je-istraumatizirala-publiku/2003871.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/sjwt32.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Scena iz novog horora toliko je poremeæena da je istraumatizirala publiku</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/cura-s-oziljcima-dopustila-decku-da-je-vidi-bez-sminke-i-perike-reakcija-ju-je-iznenadila/2003859.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/shalom_yt_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Cura s ožiljcima dopustila deèku da je vidi bez šminke i perike: Reakcija ju je iznenadila</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/bourdain-prije-samoubojstva-kupio-sliku-ciji-naslov-danas-zvuci-jezivo/2003858.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/anadaf.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Bourdain prije samoubojstva kupio sliku èiji naslov danas zvuèi jezivo</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/dosli-su-poravnati-racune-david-i-victoria-beckham-samo-glume-da-se-vole/2003821.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/david_wenn_110620181.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>"Došli su poravnati raèune": David i Victoria Beckham samo glume da se vole?</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/ispovijest-prvog-jugoslavenskog-gay-folk-pjevaca-pokazat-ce-vam-koliko-smo-i-dalje-zatucani/2003843.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/folkpjevac92_press_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Ispovijest prvog jugoslavenskog gay folk pjevaèa pokazat æe vam koliko smo i dalje zatucani</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/11-slika-koje-ce-razumjeti-samo-cure-s-velikim-grudima/2003794.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/cure_insta_11062018nasl.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>11 slika koje æe razumjeti samo cure s velikim grudima</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/nives-celzijus-pokazala-gace-koje-je-nosila-na-cmcu-bili-su-oni-dani-u-mjesecu/2003840.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/nives_insta_110620181.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Nives Celzijus pokazala gaæe koje je nosila na CMC-u: "Bili su oni dani u mjesecu"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/luka-bulic-opjevao-vatrene-pred-svjetsko-ako-izgubimo-sudac-bit-ce-kriv/2003861.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/buler3.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Luka Buliæ opjevao Vatrene pred Svjetsko: "Ako izgubimo, sudac bit æe kriv"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/epski-fajt-dviju-otrovnih-kobra-zavrsio-je-kako-nitko-nije-ocekivao/2003827.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kob43t543.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Epski fajt dviju otrovnih kobra završio je kako nitko nije oèekivao</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/bivsi-ugostitelj-otkrio-najgore-stvari-koje-je-vidjao-po-sobama-i-mogao-bi-vam-zgaditi-hotele/2003849.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/hoetewt3.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Bivši ugostitelj otkrio najgore stvari koje je viðao po sobama i mogao bi vam zgaditi hotele</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/gledatelji-zgrozeni-izgledom-lidije-bacic-i-nives-celzijus-dosle-ste-medju-djecu-takve/2003743.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/nives_pix_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Gledatelji zgroženi izgledom Lidije Baèiæ i Nives Celzijus: "Došle ste meðu djecu takve"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/nije-joj-bilo-lako-otkriveno-sto-je-harry-govorio-meghan-na-balkonu/2003731.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/meghan_yt_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Nije joj bilo lako: Otkriveno što je Harry govorio Meghan na balkonu</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/seks-skandal-procurila-snimka-meksickih-reprezentativaca-s-prostitutkama/2003800.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/r324543.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Seks skandal: Procurila snimka meksièkih reprezentativaca s prostitutkama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/blogeru-zbog-ove-fotke-prijete-smrcu-a-talijani-su-ga-i-prijavili-vlastima/2003799.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/nilsakda.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Blogeru zbog ove fotke prijete smræu, a Talijani su ga i prijavili vlastima</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/prodajem-ispod-cijene-ovakvog-za-te-novce-nigdje-nema-bijesni-bmw-je-s-razlogom-oglas-tjedna/2003789.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/DGADGAD.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>"Prodajem ispod cijene, ovakvog za te novce nigdje nema": Bijesni BMW je s razlogom oglas tjedna</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/nakon-glasina-o-razvodu-victoria-beckham-nazvala-davida-i-rekla-mu-samo-jednu-stvar/2003762.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/vicdav.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Nakon glasina o razvodu, Victoria Beckham nazvala Davida i rekla mu samo jednu stvar</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/sandra-perkovic-otvorila-sezonu-suncanja-u-badicu/2003884.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/sanr3252.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Sandra Perkoviæ otvorila sezonu sunèanja u badiæu</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/slavna-pjevacica-otkazala-koncert-nekoliko-sati-prije-nastupa-jako-sam-bolesna/2003778.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/demi.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Slavna pjevaèica otkazala koncert nekoliko sati prije nastupa: "Jako sam bolesna"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/snimka-orangutana-u-borbi-s-bagerom-koji-mu-rusi-dom-slomit-ce-vam-srce/2003793.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/orang35.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Snimka orangutana u borbi s bagerom koji mu ruši dom slomit æe vam srce</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/2500-golih-zena-okupalo-se-u-moru-i-imale-su-jako-dobar-razlog-za-to/2003817.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/24213542.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>2500 golih žena okupalo se u moru i imale su jako dobar razlog za to</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/toliko-su-lijepe-da-je-to-zlocin-internet-je-poludio-za-seksi-kriminalkama/2003773.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/cure_insta_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Toliko su lijepe da je to zloèin: Internet je poludio za seksi kriminalkama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/video-mislite-da-ste-vidjeli-sve-cekajte-da-vidite-ovaj-uzas-na-noktima/2003829.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/nokti_insta_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Mislite da ste vidjeli sve? Èekajte da vidite ovaj užas na noktima</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/kim-jongun-noc-prije-sastanka-s-trumpom-opalio-svoj-prvi-javni-selfie/2003846.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kimdak.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kim Jong-un noæ prije sastanka s Trumpom opalio svoj prvi javni selfie</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/napaljeni-par-seksao-se-nasred-prometne-ulice-nisu-prestali-dok-netko-nije-pozvao-policiju/2003772.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/sxx.png?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Napaljeni par seksao se nasred prometne ulice, nisu prestali dok netko nije pozvao policiju</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/zbog-izgleda-su-je-u-skoli-zvali-casper-a-danas-se-ne-srami-pozirati-polugola/2003729.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/joanee116.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Zbog izgleda su je u školi zvali Casper, a danas se ne srami pozirati polugola</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/justinu-trudeauu-otpala-obrva-usred-razgovora-pred-kamerama/2003754.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/trudeau.png?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Justinu Trudeauu otpala obrva usred razgovora pred kamerama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/gledatelji-tlzpa-uvjereni-da-je-sve-namjesteno-glupo-je-kad-se-od-pocetka-zna-pobjednik/2003696.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/majabajaww.png?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Gledatelji TLZP-a uvjereni da je sve namješteno: "Glupo je kad se od poèetka zna pobjednik"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/20godisnji-glumac-iz-moderne-obitelji-pronadjen-mrtav/2003739.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/jack.png?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>20-godišnji glumac iz Moderne obitelji pronaðen mrtav</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+
+        <div id="comments-container" class="comments-container secondary-content-bg">
+            <div class="comments-holder main-container secondary-content-bg flex">
+                <div class="left-part">
+                    
+<div class="fb-comments-holder">
+    <div class="loader fb-loader">
+        <img class="loading-img" src="/Content/img/loader_40px_grey.gif" />
+        <div class="loading-text">Uèitavanje komentara</div>
+    </div>
+    <div class="fb-comments" data-width="100%" data-href="http://www.index.hr/clanak.aspx?id=2003803" data-numposts="10" data-order-by="reverse_time"></div>
+</div>
+
+                </div>
+                <div class="right-part">
+                    <div class="sticky">
+                        
+
+
+
+
+
+    <!-- /5968637/2DA3_Magazin -->
+    <div id='div-gpt-ad-1519647318101-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647318101-0'); });
+        </script>
+    </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="magazin slider">
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/tenisaci-blokiraju-promet-srbi-se-ne-prestaju-smijati-izjavi-voditeljice-dnevnika/2003873.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/dnwlkda.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>"Tenisaèi blokiraju promet": Srbi se ne prestaju smijati izjavi voditeljice Dnevnika</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/scena-iz-novog-horora-toliko-je-poremecena-da-je-istraumatizirala-publiku/2003871.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/sjwt32.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Scena iz novog horora toliko je poremeæena da je istraumatizirala publiku</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/cura-s-oziljcima-dopustila-decku-da-je-vidi-bez-sminke-i-perike-reakcija-ju-je-iznenadila/2003859.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/shalom_yt_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Cura s ožiljcima dopustila deèku da je vidi bez šminke i perike: Reakcija ju je iznenadila</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/bourdain-prije-samoubojstva-kupio-sliku-ciji-naslov-danas-zvuci-jezivo/2003858.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/anadaf.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Bourdain prije samoubojstva kupio sliku èiji naslov danas zvuèi jezivo</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/dosli-su-poravnati-racune-david-i-victoria-beckham-samo-glume-da-se-vole/2003821.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/david_wenn_110620181.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>"Došli su poravnati raèune": David i Victoria Beckham samo glume da se vole?</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/ispovijest-prvog-jugoslavenskog-gay-folk-pjevaca-pokazat-ce-vam-koliko-smo-i-dalje-zatucani/2003843.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/folkpjevac92_press_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Ispovijest prvog jugoslavenskog gay folk pjevaèa pokazat æe vam koliko smo i dalje zatucani</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/11-slika-koje-ce-razumjeti-samo-cure-s-velikim-grudima/2003794.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/cure_insta_11062018nasl.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>11 slika koje æe razumjeti samo cure s velikim grudima</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/nives-celzijus-pokazala-gace-koje-je-nosila-na-cmcu-bili-su-oni-dani-u-mjesecu/2003840.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/nives_insta_110620181.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Nives Celzijus pokazala gaæe koje je nosila na CMC-u: "Bili su oni dani u mjesecu"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/luka-bulic-opjevao-vatrene-pred-svjetsko-ako-izgubimo-sudac-bit-ce-kriv/2003861.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/buler3.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Luka Buliæ opjevao Vatrene pred Svjetsko: "Ako izgubimo, sudac bit æe kriv"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/epski-fajt-dviju-otrovnih-kobra-zavrsio-je-kako-nitko-nije-ocekivao/2003827.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kob43t543.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Epski fajt dviju otrovnih kobra završio je kako nitko nije oèekivao</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/bivsi-ugostitelj-otkrio-najgore-stvari-koje-je-vidjao-po-sobama-i-mogao-bi-vam-zgaditi-hotele/2003849.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/hoetewt3.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Bivši ugostitelj otkrio najgore stvari koje je viðao po sobama i mogao bi vam zgaditi hotele</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/gledatelji-zgrozeni-izgledom-lidije-bacic-i-nives-celzijus-dosle-ste-medju-djecu-takve/2003743.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/nives_pix_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Gledatelji zgroženi izgledom Lidije Baèiæ i Nives Celzijus: "Došle ste meðu djecu takve"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/nije-joj-bilo-lako-otkriveno-sto-je-harry-govorio-meghan-na-balkonu/2003731.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/meghan_yt_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Nije joj bilo lako: Otkriveno što je Harry govorio Meghan na balkonu</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/seks-skandal-procurila-snimka-meksickih-reprezentativaca-s-prostitutkama/2003800.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/r324543.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Seks skandal: Procurila snimka meksièkih reprezentativaca s prostitutkama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/blogeru-zbog-ove-fotke-prijete-smrcu-a-talijani-su-ga-i-prijavili-vlastima/2003799.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/nilsakda.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-photo-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Blogeru zbog ove fotke prijete smræu, a Talijani su ga i prijavili vlastima</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/prodajem-ispod-cijene-ovakvog-za-te-novce-nigdje-nema-bijesni-bmw-je-s-razlogom-oglas-tjedna/2003789.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/DGADGAD.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>"Prodajem ispod cijene, ovakvog za te novce nigdje nema": Bijesni BMW je s razlogom oglas tjedna</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/nakon-glasina-o-razvodu-victoria-beckham-nazvala-davida-i-rekla-mu-samo-jednu-stvar/2003762.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/vicdav.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Nakon glasina o razvodu, Victoria Beckham nazvala Davida i rekla mu samo jednu stvar</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/sandra-perkovic-otvorila-sezonu-suncanja-u-badicu/2003884.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/sanr3252.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Sandra Perkoviæ otvorila sezonu sunèanja u badiæu</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/slavna-pjevacica-otkazala-koncert-nekoliko-sati-prije-nastupa-jako-sam-bolesna/2003778.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/demi.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Slavna pjevaèica otkazala koncert nekoliko sati prije nastupa: "Jako sam bolesna"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/snimka-orangutana-u-borbi-s-bagerom-koji-mu-rusi-dom-slomit-ce-vam-srce/2003793.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/orang35.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Snimka orangutana u borbi s bagerom koji mu ruši dom slomit æe vam srce</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/2500-golih-zena-okupalo-se-u-moru-i-imale-su-jako-dobar-razlog-za-to/2003817.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/24213542.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>2500 golih žena okupalo se u moru i imale su jako dobar razlog za to</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/toliko-su-lijepe-da-je-to-zlocin-internet-je-poludio-za-seksi-kriminalkama/2003773.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/cure_insta_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Toliko su lijepe da je to zloèin: Internet je poludio za seksi kriminalkama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/video-mislite-da-ste-vidjeli-sve-cekajte-da-vidite-ovaj-uzas-na-noktima/2003829.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/nokti_insta_11062018.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot><span class='title-parsed-text'>VIDEO</span>  Mislite da ste vidjeli sve? Èekajte da vidite ovaj užas na noktima</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/kim-jongun-noc-prije-sastanka-s-trumpom-opalio-svoj-prvi-javni-selfie/2003846.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/kimdak.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Kim Jong-un noæ prije sastanka s Trumpom opalio svoj prvi javni selfie</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/napaljeni-par-seksao-se-nasred-prometne-ulice-nisu-prestali-dok-netko-nije-pozvao-policiju/2003772.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/sxx.png?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Napaljeni par seksao se nasred prometne ulice, nisu prestali dok netko nije pozvao policiju</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/zbog-izgleda-su-je-u-skoli-zvali-casper-a-danas-se-ne-srami-pozirati-polugola/2003729.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/joanee116.JPG?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Zbog izgleda su je u školi zvali Casper, a danas se ne srami pozirati polugola</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/justinu-trudeauu-otpala-obrva-usred-razgovora-pred-kamerama/2003754.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/trudeau.png?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg magazin-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Justinu Trudeauu otpala obrva usred razgovora pred kamerama</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/gledatelji-tlzpa-uvjereni-da-je-sve-namjesteno-glupo-je-kad-se-od-pocetka-zna-pobjednik/2003696.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/majabajaww.png?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Gledatelji TLZP-a uvjereni da je sve namješteno: "Glupo je kad se od poèetka zna pobjednik"</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="magazin-text-hover scale-img-hover" href="/magazin/clanak/20godisnji-glumac-iz-moderne-obitelji-pronadjen-mrtav/2003739.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/jack.png?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>20-godišnji glumac iz Moderne obitelji pronaðen mrtav</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+    <!-- /5968637/2DA4_Magazin -->
+    <div id='div-gpt-ad-1519647635337-0' style="text-align:center; padding-bottom:50px;background:white" class="main-container">
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647635337-0'); });
+        </script>
+    </div>
+
+
+
+
+    <div class="article-footer-code">
+        
+    </div>
+</article>
+
+
+
+    <footer>
+        
+
+<footer class="main-footer main-container main-content-bg clearfix">
+    <a class="logo" href="/"><img class="logo-img" src="/Content/img/logo/logo_footer_196x29.svg" /></a>
+    <nav class="list-holder flex">
+        <ul>
+            <li class="heading">
+                <a class="vijesti-text-hover" href="/vijesti">
+                    Vijesti
+                </a>
+            </li>
+
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/hrvatska/22.aspx">Hrvatska</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/zagreb/1553.aspx">Zagreb</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/regija/1540.aspx">Regija</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/svijet/23.aspx">Svijet</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/znanost/1722.aspx">Znanost</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/crna-kronika/46.aspx">Crna kronika</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/komentari/1413.aspx">Komentari</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/novac/1554.aspx">Novac</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="sport-text-hover" href="/sport">
+                    Sport
+                </a>
+            </li>
+
+                <li><a class="sport-text-hover" href="/sport/rubrika/nogomet/1638.aspx">Nogomet</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/kosarka/1639.aspx">Ko&#x161;arka</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/tenis/1640.aspx">Tenis</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/ostali-sportovi/1641.aspx">Ostali sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/komentari/1738.aspx">Komentari</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/borilacki-sportovi/1662.aspx">Borila&#x10D;ki sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/esport/1731.aspx">E-Sport</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="magazin-text-hover" href="/magazin">
+                    Magazin
+                </a>
+            </li>
+
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tv-film/1525.aspx">TV &amp; Film</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/glazba/1526.aspx">Glazba</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tech-gadget/1528.aspx">Tech &amp; Gadget</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/lifestyle/1529.aspx">Lifestyle</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/showbiz/1527.aspx">Showbiz</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/zanimljivosti/1530.aspx">Zanimljivosti</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Plus
+            </li>
+            <li><a class="oglasi-text-hover" href="http://www.index.hr/oglasi/">Oglasi</a></li>
+            <li><a class="lajkhr-text-hover" href="http://www.index.hr/lajk/">Lajk.hr</a></li>
+            <li><a class="main-text-hover" href="http://www.index.hr/indexforum/">Forum</a></li>
+                <li><a class="rouge-text-hover" href="/rouge">Rouge</a></li>
+                <li><a class="auto-text-hover" href="/auto">Auto</a></li>
+                <li><a class="mame-text-hover" href="/mame">Mame</a></li>
+                <li><a class="ljubimci-text-hover" href="/ljubimci">Ljubimci</a></li>
+                <li><a class="fit-text-hover" href="/fit">Fit</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Info
+            </li>
+                <li><a class="main-text-hover" href="/info/tecaj">Te&#x10D;aj</a></li>
+                <li><a class="main-text-hover" href="/info/tv">TV program</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                PRATITE NAS
+            </li>
+            <li>
+                <a href="https://www.facebook.com/index.hr/" target="_blank" class="main-text-hover"><i class="facebook index-facebook"></i>Facebook</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA" target="_blank" class="main-text-hover"><i class="youtube index-youtube"></i>Youtube</a>
+            </li>
+            <li>
+                <a href="https://twitter.com/indexhr" target="_blank" class="main-text-hover"><i class="twitter index-twitter"></i>Twitter</a>
+            </li>
+            <li><a href="/posaljite-pricu" class="main-text-hover">Pošaljite nam prièu </a></li>
+            <li><a href="/posaljite-pricu-foto-video" class="main-text-hover">Pošaljite nam foto/video</a></li>
+        </ul>
+    </nav>
+    <ul class="impressum">
+        <li><a href="/Content/docs/cjenik_oglasavanja.pdf">Reklamirajte se</a></li>
+        <li><a href="/kontakt">Kontakt</a></li>
+        <li><a href="/impressum">Impressum</a></li>
+        <li><a href="/uvjeti-koristenja">Uvjeti korištenja</a></li>
+        <li>
+            © 2018 Index
+            <div class="fb-like" data-href="https://www.facebook.com/index.hr/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+        </li>
+    </ul>
+</footer>
+
+<script>
+    function topFunction() {
+        $("html, body").animate({ scrollTop: 0 }, 600);
+    }
+</script>
+
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.6.1/fingerprint2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+
+    
+    
+        <script src="/Scripts/desktop-bundle.min.js?v=HIF3Nf2EcYMawEUSyzqPWzJ3NYFeJXXMUZhWtD7Rk-g"></script>
+    
+
+    <!--  dotmetrics  beta - desktop   -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        (function () {
+            window.dm = window.dm || { AjaxData: [] };
+            window.dm.AjaxEvent = function (et, d, ssid, ad) {
+                dm.AjaxData.push({ et: et, d: d, ssid: ssid, ad: ad });
+                window.DotMetricsObj && DotMetricsObj.onAjaxDataUpdate();
+            };
+            var d = document,
+                h = d.getElementsByTagName('head')[0],
+                s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = document.location.protocol + '//script.dotmetrics.net/door.js?id=3743';
+            h.appendChild(s);
+        }());
+    /* ]]> */
+    </script>
+
+    
+    <script>
+        //ping old article
+        //remove later
+
+        // Google analytics custom dimensions //
+        var keywords = _.map([{"id":6742,"indexedKeyword":"vjenèanje","keyWord":"vjenèanje","slug":"vjencanje","articleCount":949},{"id":131619,"indexedKeyword":"svadba","keyWord":"svadba","slug":"svadba","articleCount":150},{"id":175389,"indexedKeyword":"atomicdancefactory","keyWord":"atomic dance factory","slug":"atomic-dance-factory","articleCount":12},{"id":1002528,"indexedKeyword":"sašakrnetiæ","keyWord":" saša krnetiæ","slug":"sasa-krnetic","articleCount":0},{"id":1002529,"indexedKeyword":"petraplaninc","keyWord":" petra planinc","slug":"petra-planinc","articleCount":0}], function (m) {
+            return 'keywordId-' + m.id;
+        });
+
+        var keywordsName = _.map([{"id":6742,"indexedKeyword":"vjenèanje","keyWord":"vjenèanje","slug":"vjencanje","articleCount":949},{"id":131619,"indexedKeyword":"svadba","keyWord":"svadba","slug":"svadba","articleCount":150},{"id":175389,"indexedKeyword":"atomicdancefactory","keyWord":"atomic dance factory","slug":"atomic-dance-factory","articleCount":12},{"id":1002528,"indexedKeyword":"sašakrnetiæ","keyWord":" saša krnetiæ","slug":"sasa-krnetic","articleCount":0},{"id":1002529,"indexedKeyword":"petraplaninc","keyWord":" petra planinc","slug":"petra-planinc","articleCount":0}], function (m) {
+            return 'keywordName-' + m.keyWord;
+        });
+
+        var authors = _.map([{"id":244}], function (m) {
+            return 'authorId-' + m.id;
+        });
+
+        var rootCategoryId = '1523';
+        var articleId = '2003803';
+        var publishDate = '11.06.2018.';
+        var publishDateMetric = '1528675200';
+
+        var verificationToken = $('<input name="__RequestVerificationToken" type="hidden" value="CfDJ8GI00qI6EApDp7BAM6uZ-BDfi8PSqYIozhvrfXlF-9QuxOfFYbWV-XF3TxcPW1mpipMdGusUXq0PqmqAMgU2FcxaF3DYHRq5WJ80o1weOQFkW1LP0lyZQGrSGgxdfJYyVjwR9E6DXQAMUewWbN40CCM" />').val();
+        var category = 'magazin';
+
+        var countUpViewUrl = '/Article/CountUpView';
+        var relatedArticlesUrl = '/Article/RelatedArticles?articleId=2003803&tagId=6742&tagSlug=vjencanje';
+
+        var reportUrl = '/article-report-form';
+
+        articleService.InitAll();
+    </script>
+
+
+    <script>
+        // Google analytics tracking
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+
+        globalDirectives.InitAll();
+
+        layoutService.InitAll();
+    </script>
+</body>
+</html>

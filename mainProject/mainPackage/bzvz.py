@@ -17,9 +17,11 @@ import os
 import sentiment.topicModeling as tm    
 #from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
+#from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.cross_validation import train_test_split
 #from sklearn.naive_bayes import MultinomialNB
-from sklearn.svm import SVC
+#from sklearn.svm import SVC
+from sklearn.svm import LinearSVC
 from sklearn.metrics import accuracy_score
 
 
@@ -106,6 +108,10 @@ def trainAndTestModel():
             data.append(i)
             dataLabelsTrain.append('neg')
     
+    with open("neutralArticles.txt") as f:
+        for i in f: 
+            data.append(i)
+            dataLabelsTrain.append('neu')
     
     articles = []
     path = "matchedArticle"
@@ -118,6 +124,7 @@ def trainAndTestModel():
     dataTrain = transformInputData(data, stopWords)
     dataTest = transformInputData(articles, stopWords)
     
+
     # WE NEED TO TRAIN OUR MODEL
     featuresTrain = vectorizer.fit_transform(dataTrain)
     featuresNDTrain = featuresTrain.toarray()
@@ -126,15 +133,14 @@ def trainAndTestModel():
             featuresNDTrain, 
             dataLabelsTrain,
             train_size=0.80, 
-            random_state=72817)
-    
-    """
+            random_state=42)
+
     print (X_train)
     print(y_train)
     print (X_test)
     print(y_test)
-    """
     
+    """
     #log_model = MultinomialNB()
     log_model = SVC(kernel='linear')
     log_model = log_model.fit(X=X_train, y=y_train)
@@ -144,7 +150,33 @@ def trainAndTestModel():
     
     print (y_pred)
     print(accuracy_score(y_test, y_pred))
+    """
     
+    log_model = LinearSVC()
+    log_model.fit(X_train, y_train)
+    y_pred = log_model.predict(X_test)
+    score = log_model.score(X_test, y_test)
+    print (score)
+    print(accuracy_score(y_test, y_pred))
+    
+    
+    #onehot_enc = MultiLabelBinarizer()
+    #onehot_enc.fit(X_train)
+    #X_train, X_test, y_train, y_test = train_test_split(dataTrain,
+    #"                                                    dataLabelsTrain, test_size=0.20, random_state=None)
+    
+    
+    
+    """
+    log_model = SVC(kernel='linear')
+    log_model = log_model.fit(X=onehot_enc.transform(X_train), y=y_train)
+    
+    # TIME TO PREDICT :)
+    y_pred = log_model.predict(onehot_enc.transform(X_test))
+    
+    print (y_pred)
+    print(accuracy_score(y_test, y_pred))
+    """
     
     
     featuresTest = vectorizer.transform(dataTest)
@@ -152,7 +184,8 @@ def trainAndTestModel():
     y_predArticles = log_model.predict(featuresNDTest)
     #print (dataTest)
     print (y_predArticles)
-
+    
 
 
 trainAndTestModel()
+

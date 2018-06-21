@@ -1,0 +1,1427 @@
+
+
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,height=device-height, initial-scale=1.0">
+    <title>ZA UPRAVLJA&#x10C;EM Najprodavaniji elektri&#x10D;ni auto na svijetu sada je i elektri&#x10D;ni best buy, evo za&#x161;to - Index.hr</title>
+    <!--todo: remove on production-->
+    <meta name="description" content="NISSAN Leaf nije najbr&#x17E;i, nema najve&#x107;i doseg i nije najjeftiniji, ali je zato svojom ponudom toliko konkurentan da kao glasnik novih vremena mo&#x17E;e izazvati konvencionalno pogonjene rivale.">
+    <meta property="fb:app_id" content="216060115209819">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Rubik:300,400,500&amp;subset=latin-ext" rel="stylesheet">
+
+    
+    
+        <link href="/Content/desktop-bundle.min.css?v=egu3v8Au-79RN7_zWnaTgHCYtuE0dtJtEs5b4bQbjpE" rel="stylesheet" />
+    
+
+    <script src="/Scripts/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript">
+        var appInsights=window.appInsights||function(config){
+            function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t
+        }({
+            instrumentationKey: 'cc5991a8-74c3-4f22-b0e4-067761b8ffdd'
+        });
+
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
+        
+    </script>
+
+
+    <!-- Google analytics tracking -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-2490832-1', 'auto');
+    </script>
+
+    <!--ad ocean-->
+    <script type="text/javascript" src="//hr.adocean.pl/files/js/ado.js"></script>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018 */
+        if (typeof ado !== "object") { ado = {}; ado.config = ado.preview = ado.placement = ado.master = ado.slave = function () { }; }
+        ado.config({ mode: "old", xml: false, characterEncoding: true });
+        ado.preview({ enabled: true });
+    </script>
+
+
+
+    <!-- Make sure this is inserted before your GPT tag -->
+    <script type="text/javascript" src="//ads.rubiconproject.com/prebid/16666.js"></script>
+
+
+    <script>
+
+    var PREBID_TIMEOUT = 2000;
+    var adUnits = [{
+        code: 'div-gpt-ad-1519642151413-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209251"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918716'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '59',
+                siteID: '268221'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192147"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642588872-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209252"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918718'
+            }
+        },{
+            bidder: 'indexExchange',
+            params: {
+                id: '60',
+                siteID: '268222'
+            }
+        },{
+            bidder: "appnexus",
+            params: {
+                placementId: "13192155"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519642696832-0',
+        sizes: [[300, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209254"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918722'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '61',
+                    siteID: '268223'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192159"
+            }
+        }]
+    }, {
+        code: 'div-gpt-ad-1519644719256-0',
+        sizes: [[970, 250]],
+        bids: [{
+            bidder: "criteo",
+            params: {
+                zoneId: "1209255"
+            }
+        }, {
+            bidder: 'rubicon',
+            params: {
+                accountId: '16666',
+                siteId: '141496',
+                zoneId: '918724'
+            }
+        }, {
+                bidder: 'indexExchange',
+                params: {
+                    id: '62',
+                    siteID: '268224'
+                }
+            }, {
+            bidder: "appnexus",
+            params: {
+                placementId: "13192166"
+            }
+        }]
+    }];
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    pbjs.bidderSettings = {
+        rubicon: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        criteo: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        indexExchange: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        },
+        appnexus: {
+            bidCpmAdjustment: function (bidCpm) {
+                return bidCpm * 6.07;
+            }
+        }
+    };
+
+    const customPrebidGranularity = {
+        "buckets": [
+            {
+                "min": 0,
+                "max": 100,
+                "increment": 0.1
+            }
+        ]
+    };
+</script>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function () {
+        googletag.pubads().disableInitialLoad();
+    });
+
+    pbjs.que.push(function () {
+        pbjs.setPriceGranularity(customPrebidGranularity);
+        pbjs.enableSendAllBids();
+        pbjs.addAdUnits(adUnits);
+        pbjs.requestBids({
+            bidsBackHandler: sendAdserverRequest
+        });
+    });
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function () {
+            pbjs.que.push(function () {
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+
+    setTimeout(function () {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+
+</script>
+<!-- Make sure this is inserted before your GPT tag -->
+
+
+
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script>
+        googletag.cmd.push(function () {
+
+
+googletag.defineSlot('/5968637/2DA_Auto_L', [300, 250], 'div-gpt-ad-1519646305004-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA_Auto_R', [300, 250], 'div-gpt-ad-1519646360021-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA3_Auto', [[300, 600], [300, 250]], 'div-gpt-ad-1519647154535-0').addService(googletag.pubads());
+
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DA4_Auto', [[970, 90], [728, 90], [970, 250]], 'div-gpt-ad-1519647501612-0').addService(googletag.pubads());
+
+
+
+
+
+
+googletag.defineSlot('/5968637/2DIA', [[760, 150], [760, 200], [300, 250]], 'div-gpt-ad-1524557626556-0').addService(googletag.pubads());            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+
+    <script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+
+    <!-- Hotjar Tracking Code for http://www.index.hr -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 447571, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    
+    <link href="/Content/bootstrap-rating.css" rel="stylesheet" />
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <link rel="canonical" href="http://www.index.hr/auto/clanak/za-upravljacem-nissana-leaf-najprodavaniji-je-elektricni-auto-na-svijetu-a-dostupan-je-i-u-hrvatskoj/2003438.aspx">
+    <link rel="alternate" href="http://www.index.hr/mobile/clanak.aspx?category=auto&amp;id=2003438">
+    <link rel="amphtml" href="http://amp.index.hr/article/2003438/za-upravljacem-nissana-leaf-najprodavaniji-je-elektricni-auto-na-svijetu-a-dostupan-je-i-u-hrvatskoj">
+
+    <meta property="og:type" content="article" />
+
+    <meta property="og:title" content="ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj" />
+    <meta property="og:image" content="http://www.index.hr/clanak/fb_image/2003438?v=93d60329-d249-49f4-abf9-bebd1c7f8f52" />
+
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="628" />
+
+    <meta property="og:description" content="NISSAN Leaf nije najbr&#x17E;i, nema najve&#x107;i doseg i nije najjeftiniji, ali je zato svojom ponudom toliko konkurentan da kao glasnik novih vremena mo&#x17E;e izazvati konvencionalno pogonjene rivale." />
+
+    
+
+
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj",
+    "url": "http://www.index.hr/auto/clanak/za-upravljacem-nissana-leaf-najprodavaniji-je-elektricni-auto-na-svijetu-a-dostupan-je-i-u-hrvatskoj/2003438.aspx",
+    "description": "Description.",
+    "breadcrumb":{
+    "@type":"BreadcrumbList",
+    "itemListElement":[
+    {
+    "@type":"ListItem",
+    "position":"1",
+    "item":{
+    "@type":"WebSite",
+    "@id":"http://www.index.hr",
+    "name":"Index.hr"
+    }
+    },
+    {
+    "@type":"ListItem",
+    "position":"2",
+    "item":{
+    "@type":"WebPage",
+    "@id":"www.index.hr/auto",
+    "name":"Auto"
+    }
+    },
+
+        {
+        "@type":"ListItem",
+        "position":"3",
+        "item":{
+        "@type":"WebPage",
+        "@id":"http://www.index.hr/auto/rubrika/testovi/1204.aspx",
+        "name":"Testovi"
+        }
+        },
+            {
+    "@type":"ListItem",
+    "position":"4",
+    "item":{
+    "@type":"WebPage",
+    "@id":"http://www.index.hr/auto/clanak/za-upravljacem-nissana-leaf-najprodavaniji-je-elektricni-auto-na-svijetu-a-dostupan-je-i-u-hrvatskoj/2003438.aspx",
+    "name":"ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj"
+    }
+    }
+    ]},
+    "mainEntity": {
+    "@type": "NewsArticle",
+    "@id": "http://www.index.hr/auto/clanak/za-upravljacem-nissana-leaf-najprodavaniji-je-elektricni-auto-na-svijetu-a-dostupan-je-i-u-hrvatskoj/2003438.aspx",
+    "name" : "ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj",
+    "mainEntityOfPage": {
+    "@type": "WebSite",
+    "@id": "http://www.index.hr/"
+    },
+    "author" : {
+    "@type" : "Person",
+    "name" : "M.N."
+    },
+    "datePublished" : "2018-06-11T09:20",
+    "dateModified" : "2018-06-11T09:20",
+    "headline" : "ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj",
+    "image": {
+    "@type": "ImageObject",
+    "url": "https://ip.index.hr/remote/indexnew.s3.index.hr/18NLeaf_test1200.jpg",
+    "height": "628",
+    "width": "1200"
+    },
+    "url" : "http://www.index.hr/auto/clanak/za-upravljacem-nissana-leaf-najprodavaniji-je-elektricni-auto-na-svijetu-a-dostupan-je-i-u-hrvatskoj/2003438.aspx",
+    "description": "NISSAN Leaf nije najbr&#x17E;i, nema najve&#x107;i doseg i nije najjeftiniji, ali je zato svojom ponudom toliko konkurentan da kao glasnik novih vremena mo&#x17E;e izazvati konvencionalno pogonjene rivale.",
+    "publisher": {
+    "@type": "Organization",
+    "name": "Index.hr",
+    "url" : "http://wwww.index.hr",
+    "logo": {
+    "@type" : "ImageObject",
+    "url" : "http://dev.index.hr/Content/img/logo/index_logo_112x112.png"
+    },
+    "sameAs": [
+    "https://www.facebook.com/index.hr/",
+    "https://twitter.com/indexhr",
+    "https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA"
+    ]
+    }
+    }
+    }
+</script>
+
+</head>
+<body>
+    
+
+    
+    <div class="cookie-consent-container">
+        <div class="main-container flex">
+            <div class="description">
+                U skladu s novom europskom regulativom, Index.hr je nadogradio politiku privatnosti i korištenja kolaèiæa.
+                Kolaèiæe upotrebljavamo kako bismo vam omoguæili korištenje naše online usluge, što bolje korisnièko iskustvo i funkcionalnost naših web stranica,
+                prikaz reklamnih sadržaja i ostale funkcionalnosti koje inaèe ne bismo mogli pružati.
+                Daljnjim korištenjem naše web stranice, suglasni ste s korištenjem kolaèiæa. <a href="/cookie-consent">Više informacija</a>
+            </div>
+            <div class="btn-agree main-bg main-bg-hover" onclick="closeCookieConsent()">Razumijem</div>
+        </div>
+    </div>
+    <script>
+        function closeCookieConsent() {
+            $('.cookie-consent-container').remove();
+            ga('send', 'event', "cookie_consent");
+        }
+    </script>
+
+
+
+    <div id="fb-root"></div>
+    <script>
+        var finished_rendering = function () {
+            $(".fb-loader").addClass("display-none");
+        }
+
+        window.fbAsyncInit = function () {
+            FB.Event.subscribe('xfbml.render', finished_rendering);
+        };
+
+        (function (d, s, id) {
+            var js;
+            const fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v2.10&appId=216060115209819";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+
+
+    <div class="main-container no-padding main-content-bg">
+        <div id='crt-1130728' style="width:728px;height:90px;" class="ad-ocean-billboard top"></div>
+        <script>
+            var Criteo = Criteo || {};
+            Criteo.events = Criteo.events || [];
+            Criteo.events.push(function () {
+                Criteo.DisplayAcceptableAdIfAdblocked({
+                    "zoneid": 1130728,
+                    "containerid": "crt-1130728",
+                    "overrideZoneFloor": false
+                });
+            });
+            window.addEventListener("message", function (e) {
+                if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130728') {
+                    document.getElementById("crt-1130728").style.display = "none";
+                } else {
+                    return;
+                }
+            }, false);
+        </script>
+
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, MASTER: index_hr.Index.hr.desktop.Auto */
+        ado.master({ id: 'FLqQik2jN3a35hwi5jMbf_vTrpRuixuIuNXY_IR4K2H.K7', server: 'hr.adocean.pl' });
+    </script>
+
+
+
+
+
+
+
+<div class="ad-ocean-billboard top">
+            <div id="adoceanhrqknioihpge"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Auto.Billboard1 */
+            ado.slave('adoceanhrqknioihpge', { myMaster: 'FLqQik2jN3a35hwi5jMbf_vTrpRuixuIuNXY_IR4K2H.K7' });</script>
+                            </div>
+<div class="ad-ocean-wallpaper">
+            <div id="adoceanhrlapfgvlpzd"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Auto.Wallpaper */
+            ado.slave('adoceanhrlapfgvlpzd', { myMaster: 'FLqQik2jN3a35hwi5jMbf_vTrpRuixuIuNXY_IR4K2H.K7' });
+        </script>
+                            </div>
+<div class="ad-ocean-wallpaper">
+            <div id="adoceanhrmknfcomtcg"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Auto.Ticker */
+            ado.slave('adoceanhrmknfcomtcg', { myMaster: 'FLqQik2jN3a35hwi5jMbf_vTrpRuixuIuNXY_IR4K2H.K7' });
+        </script>
+                            </div>
+    </div>
+
+    
+
+
+<header class="main-menu-container">
+    <div class="float-menu" menu-fix-top>
+        <div class="main-container clearfix">
+            <div class="main-menu">
+
+                <h1 class="logo auto-bg">
+                    <a class="home-btn homepage-link" href="/" title="index.hr"> </a>
+                    <a class="home-btn category-link" href="/main" title="index.hr"> </a>
+                    <img class="main" src="/Content/img/logo/index_main.svg" alt="index.hr" />
+                    <img class="small" src="/Content/img/logo/paprika_logo.svg" alt="index.hr" />
+                </h1>
+                <nav class="menu-holder clearfix">
+                    <ul>
+                        <li><a class="main-text-hover no-drop " href="/"> Naslovnica</a></li>
+                            <li>
+                                <a class="vijesti-text-hover  " href="/vijesti">
+                                    Vijesti
+                                </a>
+                            </li>
+                            <li>
+                                <a class="sport-text-hover  " href="/sport">
+                                    Sport
+                                </a>
+                            </li>
+                            <li>
+                                <a class="magazin-text-hover  " href="/magazin">
+                                    Magazin
+                                </a>
+                            </li>
+                            <li>
+                                <a class="oglasi-text-hover  " href="http://www.index.hr/oglasi/">
+                                    Oglasi
+                                </a>
+                            </li>
+                        <li class="menu-ostalo">
+                            <span class="expandable">Ostalo</span>
+                            <ul class="dropdown-content ostalo display-none">
+                                    <li class="lajkhr-bg-hover">
+
+                                        <a href="http://www.index.hr/lajk/">Lajk.hr</a>
+                                    </li>
+                                    <li class="rouge-bg-hover">
+
+                                        <a href="/rouge">Rouge</a>
+                                    </li>
+                                    <li class="auto-bg-hover">
+
+                                        <a href="/auto">Auto</a>
+                                    </li>
+                                    <li class="mame-bg-hover">
+
+                                        <a href="/mame">Mame</a>
+                                    </li>
+                                    <li class="ljubimci-bg-hover">
+
+                                        <a href="/ljubimci">Ljubimci</a>
+                                    </li>
+                                    <li class="fit-bg-hover">
+
+                                        <a href="/fit">Fit</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="http://www.index.hr/indexforum/">Forum</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tecaj">Te&#x10D;aj</a>
+                                    </li>
+                                    <li class="main-bg-hover">
+
+                                        <a href="/info/tv">TV program</a>
+                                    </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="right-part">
+                        <li><a href="https://www.facebook.com/index.hr/" target="_blank"><i class="index-facebook"></i></a></li>
+                        <li><a href="/trazi.aspx" class="btn-open-search"><i class="index-magnifier"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="main-container">
+        <div class="sub-menu-holder">
+            <nav class="sub-menu clearfix">
+                    <a class="sub-menu-item auto-border-bottom " href="/auto">Auto</a>
+                    <a class="sub-menu-item auto-border-bottom " href="/najnovije?kategorija=67">Najnovije</a>
+                    <a class="sub-menu-item auto-border-bottom " href="/najcitanije?kategorija=67">Naj&#x10D;itanije</a>
+                    <a class="sub-menu-item auto-border-bottom active" href="/auto/rubrika/testovi/1204.aspx">Testovi</a>
+                    <a class="sub-menu-item auto-border-bottom " href="/auto/rubrika/predstavljamo/261.aspx">Predstavljamo</a>
+                    <a class="sub-menu-item auto-border-bottom " href="/auto/rubrika/hrvatska/262.aspx">Hrvatska</a>
+            </nav>
+            <div class="scroll-arrows">
+                <div class="navigation-arrow left-arrow disabled auto-text-hover"><i class="index-arrow-left"></i></div>
+                <div class="navigation-arrow right-arrow disabled auto-text-hover"><i class="index-arrow-right"></i></div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<style>
+    .main-container {
+        max-width: 1140px;
+    }
+</style>
+
+<article class="article-container">
+    <div class="article-header-code">
+        
+    </div>
+    <div class="article-holder main-container main-content-bg">
+        <div class="article-title-holder">
+            <h1 class="auto-text-parsed title">ZA UPRAVLJAÈEM NISSANA LEAF Najprodavaniji je elektrièni auto na svijetu, a dostupan je i u Hrvatskoj</h1>
+            <div class="article-info clearfix">
+                <div class="author-holder">
+                    <span class="author">M.N.</span>
+                    <span class="time ">
+                        <time timeago datetime="2018-06-11 09:20:00"></time>
+                    </span>
+                </div>
+                <div class="social-holder clearfix">
+                    <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003438" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003438">
+                        <i class="index-facebook"></i>
+                        <span class="share-count">0</span>
+                    </div>
+
+                    <div class="other"><i class="index-share"></i></div>
+                    
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003438" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003438&via=indexhr&text=ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003438" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003438&media=https://ip.index.hr/remote/indexnew.s3.index.hr/18NLeaf_test1200.jpg&description=ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003438" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003438" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003438" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003438&title=ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj&summary=NISSAN Leaf nije najbr&#x17E;i, nema najve&#x107;i doseg i nije najjeftiniji, ali je zato svojom ponudom toliko konkurentan da kao glasnik novih vremena mo&#x17E;e izazvati konvencionalno pogonjene rivale.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003438" href="mailto:?subject=ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj&body=http://www.index.hr/clanak.aspx?id=2003438" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="top-part flex">
+            <div class="left-part">
+                    <figure class="img-container">
+                        <div class="blur-img-holder" style="padding-bottom: 52.29%;" data-large="https://ip.index.hr/remote/indexnew.s3.index.hr/18NLeaf_test1200.jpg?width=765&height=400">
+                            <img class="img-responsive img-small" src="https://ip.index.hr/remote/indexnew.s3.index.hr/18NLeaf_test1200.jpg?width=30" alt="ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj" />
+                        </div>
+                            <figcaption class="main-img-desc clearfix">
+                                <span></span>
+
+                                    <span class="credits">Luka &#x160;angulin</span>
+                            </figcaption>
+                    </figure>
+                <div class="content-holder">
+                    <div class="ad-ocean-in-article">
+        <div id="adoceanhrophpciskei"></div>
+        <script type="text/javascript">
+            /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Auto.InArticle */
+            ado.slave('adoceanhrophpciskei', { myMaster: 'FLqQik2jN3a35hwi5jMbf_vTrpRuixuIuNXY_IR4K2H.K7' });
+        </script>
+                            </div>
+                    <div class="text-holder">
+                        <div class="text">
+                            <p>NISSAN Leaf nije najbrži, nema najveæi doseg i nije najjeftiniji, ali je zato svojom ponudom toliko konkurentan da kao glasnik novih vremena može izazvati konvencionalno pogonjene rivale.</p>
+
+
+<p>Nissan i njegov Leaf su definitivno uhvatili konkurenciju na krivoj nozi i iz gotovo nemoguæe pozicije zabili gol, a koji æe se pokazati najljep&scaron;im u dosada&scaron;njoj povijesti elektromobilnosti. Jedna od tajni je Nissanova smjelost da jo&scaron; 2010. godine lansira prvu generaciju elektriènog automobila. Sada je veæ na trži&scaron;tu druga generacija, a konkurencije je jo&scaron; bar godinu do dvije daleko od lansiranja prvih elektriènih modela. U svijetu elektriènih automobila Nissan je definitivno trži&scaron;ni pionir, ba&scaron; kao &scaron;to je to Toyota bila segmentu hibrida.</p>
+
+
+<p><strong>Tajna odliène ponude</strong></p>
+
+
+<p>Leaf 2.0 je stigao, a njegove kvalitete tek trebaju potencijalni kupci doživjeti. Ne dogaða se èesto, ali i Nissan je na neviðeno u jo&scaron; uvijek konzervativnoj Europi prodao tisuæe primjeraka, a veliki interes nastavio se i nakon &scaron;to su prvi primjerci stigli na trži&scaron;te.</p>
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0586.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p>A da valja, valja. Kad se makne &quot;gadget maska&quot;&nbsp;o kojoj æemo ne&scaron;to kasnije, ostaje svestrani automobil skrojen s razumom, trijezno postavljenih ciljeva i moguænosti koje æe optimalno u životnom vijeku zadovoljiti svojeg vlasnika.</p>
+
+
+<p>U Nissanu su svjesno postavili granice da auto bude iskoristiv. A to konkretno znaèi da je zadržan &quot;normalan&quot; elektromotor, ugradnjom novog invertera pobolj&scaron;an da sada u maksimumu daje do 150 KS i 320 Nm. U odnosu na prvu generaciju nisu se mijenjale ni baterije, velièinom i masom, ali im je nova &quot;kemija&quot;&nbsp;podarila veæi kapacitet &ndash; sada 40 kWh. Leaf je svojevrsni pionir ekolo&scaron;kih tehnologija, to je prvi serijski auto u svijetu koji je imao Li-Ion baterije, a sada je&nbsp;prvi automobil homologiran prema&nbsp; WLTP standardu. A on kaže da æe vožnja u ovom autu s jednim punjenjem iæi do&nbsp;270 km (grad 415 km), odnosno oko 387 km prema starijem NEDC-u.</p>
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0589.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p>Novi Leaf mjeri 4,49 m u duljinu, 1,79 m u &scaron;irinu i 1,54 m u visinu, razmak izmeðu osovina je odliènih 2,70 m. S u podnicu&nbsp;postavljenim baterijama nisko teži&scaron;te ne treba napominjati.</p>
+
+
+<p>Realno, 270 km mora zadovoljiti apetite veæine, pa doista nema smisla odmah napucavati veæu bateriju. Za zahtjevnije korisnike je ionako predviðena izvedba s jaèom baterijom koja æe naknadno stiæi na trži&scaron;tu. Nadalje, 7,9 sekundi za sprint do 100 km/h i 144 km/h maksimalca su vrijednosti koje&nbsp;taman izvlaèe maksimum u zakonskim okvirima. A i moguæe je postiæi brzinu potrebnu za putovanje kroz vrijeme od 88 mph ili 142 km/h.</p>
+
+
+<p>&Scaron;alu na stranu, ali reèene performanse doista nitko ne bi trebao nazvati razoèaranjem. Naravno, bit æe oni koji æe reæi za&scaron;to ne povuèe 200 km/h ko njegova &quot;zver&quot; i ne prijeðe 1000 km s jednim tankom kao njegov svemoguæi Passat, ili pak ne grmi kao AMG-Brabus ili &scaron;to veæ. Ne, ovdje su stvari voðene razumom, a pritom eko predznak nije samo marketin&scaron;ki ukras, veæ prava stvar.</p>
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0548.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p><strong>&Scaron;to kaže praksa?</strong></p>
+
+
+<p>Iako je druženje bilo prekratko da bi automobil isprobali u&nbsp;nekoliko zanimljivih scenarija, poput odlaska u dalja odredi&scaron;ta, kori&scaron;tenje automobila jasno je pokazalo kakav æe Leaf biti u nametnutim mu zadaæama najsliènijim svakodnevnim obavezama urbanog stanovni&scaron;tva.</p>
+
+
+<p>A to u odlasku i dolasku s posla u tih par desetaka kilometara znaèi zadržavanje predviðenog dosega. Ako su potrebe veæe auto definitivno neæe izdržati do kraja radnog tjedna, a kao dobar orijentir može biti na&scaron; doseg u gradu. S ne&scaron;to odraðenih uzbrdica, ponekim izletom s lijepljenjem pedale gasa u pod i konstantno upogonjenom klimom na&scaron; je Leaf s jednim punjenjem baterije odradio oko 240 km, &scaron;to bi pretpostavljalo potro&scaron;nju energije od 16,7 kWh/100 km.</p>
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0596.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p>U pogledu ubrzanja Leaf se može podièiti kontinuiranim ubrzanjem èiji intenzitet je najjaèi do nekih 80 km/h, a onda lagano posustaje. U praksi to znaèi da je Leaf vrlo brz auto koji nema vremena tro&scaron;iti vrijeme na &scaron;altanje brzina. Uostalom, svaki nagli start æe na iznenaðenje prolaznika rezultirati &scaron;kripom guma, a to govori dovoljno.</p>
+
+
+<p><strong>Gadget na gadget</strong></p>
+
+
+<p>U pogledu opreme Leaf je apsolutni kralj, ali i proizvod koji jasno pokazuje koliko se pojam kori&scaron;tenja automobila mijenja. Osim neèujnosti i prilagodljivog digitalnog kokpita na kojem se sada prate neke druge stvari, tu su i sustavi asistencije okupljeni oko ProPilota. Ovaj sustav se osim Leafa nudi jo&scaron; samo na Qashqaiju.</p>
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0601.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p>Prva i najvažnija stavka ovog sustava je da Leaf doista dopu&scaron;ta vožnju &quot;bez ruku&quot;. Nakon &scaron;to snimi oznake na cesti auto æe samostalno odraðivati posao zadržavanja automobila u traci (&gt;60 km/h), dok æe se pak u gradskim uvjetima i nižim brzinama autonomnost zasnivati samo&nbsp;na funkciji sliènoj adaptivnom tempomatu. Tako æe Leaf poslu&scaron;no voziti u koloni, sam stati i opet krenuti do unaprijed definirane brzine. Vama preostaje da informativno pratite promet i igrate se s nebrojenim funkcijama. Èudan je to osjeæaj, ali brzo se naviknete.</p>
+<!-- /5968637/2DIA -->
+<div id="div-gpt-ad-1524557626556-0" class="dfp-inarticle">
+    <span class="ad-unit-text">Tekst se nastavlja ispod oglasa</span>
+    <script>
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1524557626556-0'); });
+    </script>
+</div>
+
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0530.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p>A njih ima napretek. Dovoljno je reæi da prednja ploèa ima koncept gdje je desno brzinomjer, a lijevo prilagodljivi zaslon sa 6 razlièitih podruèja prikaza. A tome možete pridodati i neki od informativnih zaslona sredi&scaron;njeg ekrana, osjetljivog na dodir i s ukljuèenim kontrolama navigacije, telefona, klimatizacije itd.</p>
+
+
+<p>Autonomnost tu ne staje. Leaf æe sam i parkirati, a nakon &scaron;to detektira parkirno mjesto vozaè bira naèin parkiranja i nakon toga drži tipku za samostalno parkiranje. Auto æe za to vrijeme sam ubrzavati i usporavati te zakretati upravljaè.</p>
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0537.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p>Idemo dalje, ima Leaf i e-Pedal opciju, gdje možete voziti samo s jednom nožnom komandom. Tada kontrolom gasa kontrolirate i koèenje, a time ste èe&scaron;æe u fazi regenerativnog koèenja. A to pak znaèi veæi doseg.</p>
+
+
+<p>Oprema je naravno vrhunska, pa su tu jo&scaron; prekidaèi grijanja (svih) sjedala, opcija eco vožnje, odlièan Bose audiosustav i danas veæ uobièajeni sigurnosni sustavi poput nadzora prometa straga ili nadzora okolnog prostora putem nekoliko kamera.</p>
+
+
+<p>Na ovaj popis uvrstit æemo i moguænosti prepoznavanja mobilnog telefona,te upravljanja pojedinim funkcijama putem mobilnih aplikacija.</p>
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0543.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p>Ovo poglavlje zavr&scaron;it æemo podacima o punjenju baterija. Najbrži naèin je ultramoæni punjaè snage 50 kW putem kojeg je za 80% kapaciteta dovoljno 40 minuta. Dalje slijedi brzi kuæni punjaè sa strujom jakosti do 32A, odnosno snagom do nekih&nbsp;7 kW, putem kojeg je za punjenje dovoljno oko 7,5 sati. Treæi i najjednostavniji naèin je EVSE prikljuèenje na kuænu mrežu. Jakost struje do 10A jasno daje do znanja da æe ovakvo punjenje trajati ne&scaron;to vi&scaron;e od 14 sati. U praksi to znaèi da je jedna opcija puniti auto kod kuæe, a druga je kroz dan usput hvatati punionice na 10-15 minuta i tako poveæavati doseg. Tome pomaže aplikacija u sklopu navigacije koja pokazuje gdje su slobodne punionice.</p>
+
+
+<p><strong>A &scaron;to ne valja</strong></p>
+
+
+<p><a href="https://www.nissan.hr/vozila/nova-vozila/leaf-2018.html" target="_blank">Nissan Leaf</a> starta cijenom od 276.500 kn, a testni primjerak je top izdanje s dodatnim opcijama i cijenom veæom od 320.000 kn. Iako je Leaf sada daleko upotrebljiviji elektrièni auto izuzetno niskih tro&scaron;kova eksploatacije, startna cijena je jo&scaron; uvijek najveæa prepreka veæoj popularnosti.</p>
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0539.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p>Premium cijena i visokotehnolo&scaron;ki nastup automobila ostavili su neke propuste koje jednostavno nitko ne želi. Nemoguænost pode&scaron;avanja kola upravljaèa po dubini i mjestimice nekvalitetni materijali neke æe zasmetati, kao i ponegdje uoèljiva&nbsp;lo&scaron;ija finalna izrada.</p>
+
+
+<p>Nissan Leaf ima osnovno jamstvo od 3 godine, dok sve elektriène komponente dolaze s jamstvom od 5 godina/100.000 km. Jamstvo pokriva i kapacitet baterije koji u trenutku pada za 33% ukljuèuje zamjenu baterije.</p>
+
+
+<p><strong>Zakljuèak</strong></p>
+
+
+<p>Nema sumnje, Nissan ima odlièan proizvod i vjerojatno najupotrebljiviji elektrièni automobil za traženi novac. Apsolutno sve karakteristike pogona i automobila su bez mane koja bi mogla utjecati na kvalitetu kori&scaron;tenja. Leaf je brz, komforan, zadovoljavajuæeg dosega i komfora, on&nbsp;je jednostavno reèeno&nbsp;auto koji nudi vi&scaron;e od konvencionalno pogonjenih rivala. Najava je to prekretnice u autoindustriji, a kojoj æemo svjedoèiti u narednih godinu dvije.</p>
+
+
+<p><img alt="" src="https://indexnew.s3.index.hr/IMG_0598.jpg?v1" style="border-width: 1px; border-style: solid;" /></p>
+
+
+<p>Popularnost elektriènih automobila danas je na razini popularnosti nekih&nbsp;stranaka koje nekim èudom imaju parlamentarni status, pa èak i participiraju u vlasti. Ali ba&scaron; kao i oni, tko jednom kupi elektrièni auto nikad se ne vraæa na staro. No ovdje takva odluka ima pokriæe i težinu, a Leaf je najbolji dokaz da æe tako biti i u buduænosti.</p>
+
+
+<p style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;"><script type="text/javascript">(function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "https://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })();</script></p>
+
+
+<p style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;"><a href="https://www.scribd.com/document/381398785/Leaf-Cjenik#from_embed" style="text-decoration: underline;" title="View Leaf Cjenik on Scribd">Leaf Cjenik</a> by <a href="https://www.scribd.com/user/300805219/Index-hr#from_embed" style="text-decoration: underline;" title="View Index.hr's profile on Scribd">Index.hr</a> on Scribd</p>
+
+
+<p><iframe class="scribd_iframe_embed" data-aspect-ratio="0.7080062794348508" data-auto-height="false" frameborder="0" height="1020" id="doc_23920" scrolling="no" src="https://www.scribd.com/embeds/381398785/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-HwrqlMQBqznJHyVW0DeI&amp;show_recommendations=true" title="Leaf Cjenik" width="765"></iframe></p>
+
+
+                        </div>
+                        <div class="article-report-container">
+                            <div class="article-report-trigger" data-article-id="2003438">Znate li nešto više o temi ili želite prijaviti grešku u tekstu?</div>
+                            <div class="report-holder display-none">
+                                <div class="loading-container">
+                                    <span class="img-helper"></span>
+                                    <img src="/Content/img/loader_40px.gif" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="reactions-container clearfix">
+                            <div class="social-holder social-bottom clearfix">
+                                <div class="fb-share facebook-bg" fb-share share-button data-share-action="facebook" data-article-id="2003438" data-facebook-url="http://www.index.hr/clanak.aspx?id=2003438">
+                                    <i class="index-facebook"></i>
+                                    <span class="share-count">0</span>
+                                </div>
+                                <div class="other"><i class="index-share"></i></div>
+                                
+
+
+<div class="share-buttons-holder display-none clearfix">
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+    <a class="share-button twitter-bg" share-button data-share-action="twitter" data-article-id="2003438" href="https://twitter.com/intent/tweet?url=http://www.index.hr/clanak.aspx?id=2003438&via=indexhr&text=ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj&size=large">
+        <i class="index-twitter"></i>
+    </a>
+
+    <script type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <a class="share-button pinterest-bg pin-it-button" share-button data-share-action="pinterest" data-article-id="2003438" href="http://pinterest.com/pin/create/button/?url=http://www.index.hr/clanak.aspx?id=2003438&media=https://ip.index.hr/remote/indexnew.s3.index.hr/18NLeaf_test1200.jpg&description=ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj" data-pin-custom="true">
+        <i class="index-pinterest"></i>
+    </a>
+
+    <a class="share-button gplus-bg" share-button data-share-action="gplus" data-article-id="2003438" href="https://plus.google.com/share?url=http://www.index.hr/clanak.aspx?id=2003438" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=400');return false;">
+        <i class="index-gplus"></i>
+    </a>
+
+    <a class="share-button linkedin-bg" share-button data-share-action="linkedin" data-article-id="2003438" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.index.hr/clanak.aspx?id=2003438&title=ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj&summary=NISSAN Leaf nije najbr&#x17E;i, nema najve&#x107;i doseg i nije najjeftiniji, ali je zato svojom ponudom toliko konkurentan da kao glasnik novih vremena mo&#x17E;e izazvati konvencionalno pogonjene rivale.&source=Index.hr" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;">
+        <i class="index-linkedIn"></i>
+    </a>
+
+    <a class="share-button mail-bg" share-button data-share-action="mail" data-article-id="2003438" href="mailto:?subject=ZA UPRAVLJA&#x10C;EM NISSANA LEAF Najprodavaniji je elektri&#x10D;ni auto na svijetu, a dostupan je i u Hrvatskoj&body=http://www.index.hr/clanak.aspx?id=2003438" target="_blank">
+        <i class="index-mail"></i>
+    </a>
+
+    <div class="share-button btn-close">
+        <i class="index-close"></i>
+    </div>
+</div>
+                            </div>
+                        </div>
+
+
+
+<div class="tags-holder">
+        <a href="/tag/13701/nissan.aspx" class="auto-bg-hover tag-item">
+            <span class="auto-text hashtag">#</span>nissan
+        </a>
+        <a href="/tag/196234/nissan-leaf.aspx" class="auto-bg-hover tag-item">
+            <span class="auto-text hashtag">#</span>Nissan Leaf
+        </a>
+</div>                    </div>
+                    <div class="clearfix ad-holder">
+                        <div class="float-left">
+                            
+    <!-- /5968637/2DA_Auto_L -->
+    <div id='div-gpt-ad-1519646305004-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519646305004-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+
+
+                        </div>
+                        <div class="float-right">
+                            
+    <!-- /5968637/2DA_Auto_R -->
+    <div id='div-gpt-ad-1519646360021-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519646360021-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <aside class="right-part">
+                <div id='crt-1130726' style="width:300px;height:250px;"></div>
+                <script>
+                    var Criteo = Criteo || {};
+                    Criteo.events = Criteo.events || [];
+                    Criteo.events.push(function () {
+                        Criteo.DisplayAcceptableAdIfAdblocked({
+                            "zoneid": 1130726,
+                            "containerid": "crt-1130726",
+                            "overrideZoneFloor": false
+                        });
+                    });
+                    window.addEventListener("message", function (e) {
+                        if (e.origin == (location.protocol == 'https:' ? 'https://' : 'http://') + 'cas.criteo.com' && e.data == 'passback-1130726') {
+                            document.getElementById("crt-1130726").style.display = "none";
+                        } else {
+                            return;
+                        }
+                    }, false);
+                </script>
+
+                <div class="ad-ocean-box">
+                    
+                        <div id="adoceanhrxmcmiqenft"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Auto.Box1 */
+        ado.slave('adoceanhrxmcmiqenft', { myMaster: 'FLqQik2jN3a35hwi5jMbf_vTrpRuixuIuNXY_IR4K2H.K7' });</script>
+
+                </div>
+
+
+                
+
+
+<div class="home-cube-big-timeline">
+    <ul class="nav timeline-tab" timeline-tab role="tablist" data-category="auto" data-category-id="67">
+        <li role="presentation" class="active latest"><a href="#tab-content-latest" aria-controls="tab-content-latest" role="tab" data-toggle="tab"> Najnovije</a></li>
+        <li role="presentation" class="most-read"><a href="#tab-content-most-read" aria-controls="tab-content-most-read" role="tab" data-toggle="tab"> Najèitanije</a></li>
+        <li role="presentation" class="related"><a href="#tab-content-related" data-id="tab-content-related" aria-controls="tab-content-related" role="tab" data-toggle="tab"> Vezano</a></li>
+        <hr class="auto-bg" />
+    </ul>
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-content-latest">
+            
+
+
+    <div class="timeline-content latest">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">5</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="auto-text-hover" href="/auto/clanak/godinu-dana-nakon-nesrece-rimcev-bolid-je-opet-u-alpama-a-prodaja-nikad-bolja/2003782.aspx">
+                            Godinu dana nakon nesreæe Rimèev bolid je opet u Alpama, a prodaja nikad bolja
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">8</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="auto-text-hover" href="/auto/clanak/najopakiji-fico-ima-motor-trkaceg-auta-i-opaki-je-igrac/2003698.aspx">
+                            Najopakiji fiæo ima motor trkaæeg auta i opaki je igraè
+                        </a>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center disabled-text">
+                        <span class="num">11</span>
+                        <span class="desc">h</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="auto-text-hover" href="/auto/clanak/za-upravljacem-nissana-leaf-najprodavaniji-je-elektricni-auto-na-svijetu-a-dostupan-je-i-u-hrvatskoj/2003438.aspx">
+                            ZA UPRAVLJAÈEM NISSANA LEAF Najprodavaniji je elektrièni auto na svijetu, a dostupan je i u Hrvatskoj
+                        </a>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najnovije?kategorija=67">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-most-read">
+            
+
+
+    <div class="timeline-content most-read">
+        <ul>
+                <li class="clearfix">
+                    <div class="side-content text-center auto-text">
+                        <span class="num">1</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="auto-text-hover" href="/auto/clanak/za-upravljacem-nissana-leaf-najprodavaniji-je-elektricni-auto-na-svijetu-a-dostupan-je-i-u-hrvatskoj/2003438.aspx">
+                            ZA UPRAVLJAÈEM NISSANA LEAF Najprodavaniji je elektrièni auto na svijetu, a dostupan je i u Hrvatskoj
+                        </a>
+                        <div class="line" style="width: 90%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center auto-text">
+                        <span class="num">2</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="auto-text-hover" href="/auto/clanak/najopakiji-fico-ima-motor-trkaceg-auta-i-opaki-je-igrac/2003698.aspx">
+                            Najopakiji fiæo ima motor trkaæeg auta i opaki je igraè
+                        </a>
+                        <div class="line" style="width: 60%;"></div>
+                    </div>
+                </li>
+                <li class="clearfix">
+                    <div class="side-content text-center auto-text">
+                        <span class="num">3</span>
+                    </div>
+                    <div class="title-box">
+                        <a class="auto-text-hover" href="/auto/clanak/godinu-dana-nakon-nesrece-rimcev-bolid-je-opet-u-alpama-a-prodaja-nikad-bolja/2003782.aspx">
+                            Godinu dana nakon nesreæe Rimèev bolid je opet u Alpama, a prodaja nikad bolja
+                        </a>
+                        <div class="line" style="width: 30%;"></div>
+                    </div>
+                </li>
+        </ul>
+        <a class="more-news" href="/najcitanije?kategorija=67">Prikaži još vijesti</a>
+    </div>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-content-related">
+           <img class="loading-img" src="/Content/img/loader_40px.gif" />
+        </div>
+    </div>
+</div>
+
+                <div class="separator-45"></div>
+                <div class="sticky ad-ocean-box no-margin">
+                    <div id='crt-1130727' style="width:300px;height:250px;"></div>
+                    <script>
+	                    var Criteo = Criteo || {};
+	                    Criteo.events = Criteo.events || [];
+	                    Criteo.events.push(function() {
+		                    Criteo.DisplayAcceptableAdIfAdblocked({   
+			                    "zoneid": 1130727,
+			                    "containerid": "crt-1130727",
+			                    "overrideZoneFloor" : false
+		                    });
+	                    });
+	                    window.addEventListener( "message", function (e) {
+		                    if(e.origin == (location.protocol=='https:'?'https://':'http://') + 'cas.criteo.com' && e.data == 'passback-1130727') {
+			                    document.getElementById("crt-1130727").style.display = "none";	
+		                    } else {
+			                    return;
+		                    }
+	                    }, false);
+                    </script>
+    <div id="adoceanhrunjslnoreo"></div>
+    <script type="text/javascript">
+        /* (c)AdOcean 2003-2018, index_hr.Index.hr.desktop.Auto.Box2 */
+        ado.slave('adoceanhrunjslnoreo', { myMaster: 'FLqQik2jN3a35hwi5jMbf_vTrpRuixuIuNXY_IR4K2H.K7' });</script>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="auto slider">
+                <div class="slider-item">
+                    <a class="auto-text-hover scale-img-hover" href="/auto/clanak/godinu-dana-nakon-nesrece-rimcev-bolid-je-opet-u-alpama-a-prodaja-nikad-bolja/2003782.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/images2/RConceptOne1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Godinu dana nakon nesreæe Rimèev bolid je opet u Alpama, a prodaja nikad bolja</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="auto-text-hover scale-img-hover" href="/auto/clanak/najopakiji-fico-ima-motor-trkaceg-auta-i-opaki-je-igrac/2003698.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Fiat-600-wankel1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg auto-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Najopakiji fiæo ima motor trkaæeg auta i opaki je igraè</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+
+        <div id="comments-container" class="comments-container secondary-content-bg">
+            <div class="comments-holder main-container secondary-content-bg flex">
+                <div class="left-part">
+                    
+<div class="fb-comments-holder">
+    <div class="loader fb-loader">
+        <img class="loading-img" src="/Content/img/loader_40px_grey.gif" />
+        <div class="loading-text">Uèitavanje komentara</div>
+    </div>
+    <div class="fb-comments" data-width="100%" data-href="http://www.index.hr/clanak.aspx?id=2003438" data-numposts="10" data-order-by="reverse_time"></div>
+</div>
+
+                </div>
+                <div class="right-part">
+                    <div class="sticky">
+                        
+    <!-- /5968637/2DA3_Auto -->
+    <div id='div-gpt-ad-1519647154535-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647154535-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+<div class="article-read-more-container main-content-bg invisible main-container no-padding">
+    <div class="article-read-more-holder main-container main-content-bg">
+        <h2 class="main-title">Proèitajte još</h2>
+        <div class="auto slider">
+                <div class="slider-item">
+                    <a class="auto-text-hover scale-img-hover" href="/auto/clanak/godinu-dana-nakon-nesrece-rimcev-bolid-je-opet-u-alpama-a-prodaja-nikad-bolja/2003782.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/images2/RConceptOne1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                        </div>
+                        <h3 class="title" dot-dot>Godinu dana nakon nesreæe Rimèev bolid je opet u Alpama, a prodaja nikad bolja</h3>
+                    </a>
+                </div>
+                <div class="slider-item">
+                    <a class="auto-text-hover scale-img-hover" href="/auto/clanak/najopakiji-fico-ima-motor-trkaceg-auta-i-opaki-je-igrac/2003698.aspx">
+                        <div class="img-holder">
+                            <img src="https://ip.index.hr/remote/indexnew.s3.index.hr/Fiat-600-wankel1200.jpg?width=270&height=140&mode=crop&anchor=topcenter&scale=both" />
+                                <div class="article-icon">
+                                    <i class="index-video-circle"></i>
+                                    <div class="icon-bg auto-bg"></div>
+                                </div>
+                        </div>
+                        <h3 class="title" dot-dot>Najopakiji fiæo ima motor trkaæeg auta i opaki je igraè</h3>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+    
+    <!-- /5968637/2DA4_Auto -->
+    <div id='div-gpt-ad-1519647501612-0' style="text-align:center; padding-bottom:50px;background:white" class="main-container">
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1519647501612-0'); });
+        </script>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div class="article-footer-code">
+        
+    </div>
+</article>
+
+
+
+    <footer>
+        
+
+<footer class="main-footer main-container main-content-bg clearfix">
+    <a class="logo" href="/"><img class="logo-img" src="/Content/img/logo/logo_footer_196x29.svg" /></a>
+    <nav class="list-holder flex">
+        <ul>
+            <li class="heading">
+                <a class="vijesti-text-hover" href="/vijesti">
+                    Vijesti
+                </a>
+            </li>
+
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/hrvatska/22.aspx">Hrvatska</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/zagreb/1553.aspx">Zagreb</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/regija/1540.aspx">Regija</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/svijet/23.aspx">Svijet</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/znanost/1722.aspx">Znanost</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/crna-kronika/46.aspx">Crna kronika</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/komentari/1413.aspx">Komentari</a></li>
+                <li><a class="vijesti-text-hover" href="/vijesti/rubrika/novac/1554.aspx">Novac</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="sport-text-hover" href="/sport">
+                    Sport
+                </a>
+            </li>
+
+                <li><a class="sport-text-hover" href="/sport/rubrika/nogomet/1638.aspx">Nogomet</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/kosarka/1639.aspx">Ko&#x161;arka</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/tenis/1640.aspx">Tenis</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/ostali-sportovi/1641.aspx">Ostali sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/komentari/1738.aspx">Komentari</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/borilacki-sportovi/1662.aspx">Borila&#x10D;ki sportovi</a></li>
+                <li><a class="sport-text-hover" href="/sport/rubrika/esport/1731.aspx">E-Sport</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                <a class="magazin-text-hover" href="/magazin">
+                    Magazin
+                </a>
+            </li>
+
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tv-film/1525.aspx">TV &amp; Film</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/glazba/1526.aspx">Glazba</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/tech-gadget/1528.aspx">Tech &amp; Gadget</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/lifestyle/1529.aspx">Lifestyle</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/showbiz/1527.aspx">Showbiz</a></li>
+                <li><a class="magazin-text-hover" href="/magazin/rubrika/zanimljivosti/1530.aspx">Zanimljivosti</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Plus
+            </li>
+            <li><a class="oglasi-text-hover" href="http://www.index.hr/oglasi/">Oglasi</a></li>
+            <li><a class="lajkhr-text-hover" href="http://www.index.hr/lajk/">Lajk.hr</a></li>
+            <li><a class="main-text-hover" href="http://www.index.hr/indexforum/">Forum</a></li>
+                <li><a class="rouge-text-hover" href="/rouge">Rouge</a></li>
+                <li><a class="auto-text-hover" href="/auto">Auto</a></li>
+                <li><a class="mame-text-hover" href="/mame">Mame</a></li>
+                <li><a class="ljubimci-text-hover" href="/ljubimci">Ljubimci</a></li>
+                <li><a class="fit-text-hover" href="/fit">Fit</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                Info
+            </li>
+                <li><a class="main-text-hover" href="/info/tecaj">Te&#x10D;aj</a></li>
+                <li><a class="main-text-hover" href="/info/tv">TV program</a></li>
+        </ul>
+        <ul>
+            <li class="heading">
+                PRATITE NAS
+            </li>
+            <li>
+                <a href="https://www.facebook.com/index.hr/" target="_blank" class="main-text-hover"><i class="facebook index-facebook"></i>Facebook</a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCUp6H4ko32XqnV_6MOPunBA" target="_blank" class="main-text-hover"><i class="youtube index-youtube"></i>Youtube</a>
+            </li>
+            <li>
+                <a href="https://twitter.com/indexhr" target="_blank" class="main-text-hover"><i class="twitter index-twitter"></i>Twitter</a>
+            </li>
+            <li><a href="/posaljite-pricu" class="main-text-hover">Pošaljite nam prièu </a></li>
+            <li><a href="/posaljite-pricu-foto-video" class="main-text-hover">Pošaljite nam foto/video</a></li>
+        </ul>
+    </nav>
+    <ul class="impressum">
+        <li><a href="/Content/docs/cjenik_oglasavanja.pdf">Reklamirajte se</a></li>
+        <li><a href="/kontakt">Kontakt</a></li>
+        <li><a href="/impressum">Impressum</a></li>
+        <li><a href="/uvjeti-koristenja">Uvjeti korištenja</a></li>
+        <li>
+            © 2018 Index
+            <div class="fb-like" data-href="https://www.facebook.com/index.hr/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+        </li>
+    </ul>
+</footer>
+
+<script>
+    function topFunction() {
+        $("html, body").animate({ scrollTop: 0 }, 600);
+    }
+</script>
+
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/1.6.1/fingerprint2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+
+    
+    
+        <script src="/Scripts/desktop-bundle.min.js?v=HIF3Nf2EcYMawEUSyzqPWzJ3NYFeJXXMUZhWtD7Rk-g"></script>
+    
+
+    <!--  dotmetrics  beta - desktop   -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        (function () {
+            window.dm = window.dm || { AjaxData: [] };
+            window.dm.AjaxEvent = function (et, d, ssid, ad) {
+                dm.AjaxData.push({ et: et, d: d, ssid: ssid, ad: ad });
+                window.DotMetricsObj && DotMetricsObj.onAjaxDataUpdate();
+            };
+            var d = document,
+                h = d.getElementsByTagName('head')[0],
+                s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = document.location.protocol + '//script.dotmetrics.net/door.js?id=3743';
+            h.appendChild(s);
+        }());
+    /* ]]> */
+    </script>
+
+    
+    <script>
+        //ping old article
+        //remove later
+
+        // Google analytics custom dimensions //
+        var keywords = _.map([{"id":13701,"indexedKeyword":"nissan","keyWord":"nissan","slug":"nissan","articleCount":432},{"id":196234,"indexedKeyword":"nissanleaf","keyWord":"Nissan Leaf","slug":"nissan-leaf","articleCount":22}], function (m) {
+            return 'keywordId-' + m.id;
+        });
+
+        var keywordsName = _.map([{"id":13701,"indexedKeyword":"nissan","keyWord":"nissan","slug":"nissan","articleCount":432},{"id":196234,"indexedKeyword":"nissanleaf","keyWord":"Nissan Leaf","slug":"nissan-leaf","articleCount":22}], function (m) {
+            return 'keywordName-' + m.keyWord;
+        });
+
+        var authors = _.map([{"id":104}], function (m) {
+            return 'authorId-' + m.id;
+        });
+
+        var rootCategoryId = '67';
+        var articleId = '2003438';
+        var publishDate = '11.06.2018.';
+        var publishDateMetric = '1528675200';
+
+        var verificationToken = $('<input name="__RequestVerificationToken" type="hidden" value="CfDJ8BZ4kLg0SZRNuLxC58aNz18rxj8wiYO3T3pNXPWEBPKUmgjd3EBu7HBiRuC1UCpcddGiuz-3Rg8zz3uXXwdPYXxOrWdSlK9Xn0_4JbKqmEfAgwditm3bl6lQc5dpRJu_UPO1tEht29JqMluF9Qm2OIs" />').val();
+        var category = 'auto';
+
+        var countUpViewUrl = '/Article/CountUpView';
+        var relatedArticlesUrl = '/Article/RelatedArticles?articleId=2003438&tagId=13701&tagSlug=nissan';
+
+        var reportUrl = '/article-report-form';
+
+        articleService.InitAll();
+    </script>
+
+
+    <script>
+        // Google analytics tracking
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+
+        globalDirectives.InitAll();
+
+        layoutService.InitAll();
+    </script>
+</body>
+</html>

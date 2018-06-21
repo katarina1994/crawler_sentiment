@@ -4,12 +4,6 @@ Created on 19. sij 2018.
 @author: Katarina123
 '''
 
-'''
-Created on 17. pro 2017.
-
-@author: Katarina123
-'''
-
 import urllib
 import codecs
 import spiders.handlerURL as handURL
@@ -26,8 +20,6 @@ class RoundRobinSpider():
     # return: NONE
     # FIX ME !!!!!!!!!!!!!!!!!
     def roundRobinSpider(self, pagesToVisit, domains, regexExpressions, howManyPagesToCrawl, fAll, numberVisited): 
-        
-        try:
             
             visited = []
             maxCrawl = howManyPagesToCrawl + numberVisited
@@ -43,30 +35,33 @@ class RoundRobinSpider():
                     number = randint(0, len(pagesToVisit)-1)
                 url = pagesToVisit[number]
                 
-                #call parser
-                handler = handURL.handlerURL()
-                #print("URL: " + url)
-                data, links = handler.getURLs(url)
-                
-                for regexExpr in regexExpressions:
-                    #print (data)
-                    if re.match(regexExpr, url, flags=0):
-                        #print("URL that crawler found as target: " + url)
-                        fAll.write(url + "\n")
-                        f = codecs.open("webPagesHTML/web-page-%05d.txt" % numberVisited, 'w', encoding='Windows-1250')
-                        f.write(data.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
-                        f.close()
-                        numberVisited += 1
-                tmp = []
-                if links:
-                    for link in links:   
-                        for domain in domains:          
-                            if (domain in link) and (link not in visited):
-                                tmp.append(link)
-                                visited.append(link)
-                links = tmp     
-                pagesToVisit += links
-                #print (pagesToVisit)
-        except urllib.error.URLError as e:
-            print("FAIL due to following error: " + str(e))          
-
+                try:
+                    handler = handURL.handlerURL()
+                    #print("URL: " + url)
+                    data, links = handler.getURLs(url)
+                    fAll.seek(0)
+                    allLines = fAll.readlines()
+                    allLines = [line.strip("\n") for line in allLines]
+                    
+                    for regexExpr in regexExpressions:
+                        #print (data)
+                        if re.match(regexExpr, url, flags=0):
+                            #print("URL that crawler found as target: " + url)
+                            if url not in allLines:
+                                fAll.write(url + "\n")
+                                f = codecs.open("webPagesHTML/web-page-%05d.txt" % numberVisited, 'w', encoding='Windows-1250')
+                                f.write(data.encode('Windows-1250', 'replace').decode('Windows-1250', 'replace'))
+                                f.close()
+                                numberVisited += 1
+                    tmp = []
+                    if links:
+                        for link in links:   
+                            for domain in domains:          
+                                if (domain in link) and (link not in visited):
+                                    tmp.append(link)
+                                    visited.append(link)
+                    links = tmp     
+                    pagesToVisit += links
+                    #print (pagesToVisit)
+                except urllib.error.URLError as e:
+                    print("FAIL due to following error: " + str(e))
