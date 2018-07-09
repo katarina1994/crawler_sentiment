@@ -52,7 +52,7 @@
 									</br>
 									</br>
 									<div class="flag-wrapper">
-										<span class="flag">Datum objave  </span>
+										<span class="flag"> Date of publication  </span>
 											<span class="time-wrapper"><span class="time">{{ item[3] }}</span></span>
 									</div>
 									<a href="{{ item[2] }}" target="_blank" class="desc"> {{ item[2] }}
@@ -60,8 +60,10 @@
 										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #3BCB58" />
 									{% elif (item[5] == "neg"): %}
 										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FD4B4B" />
+									{% elif (item[5] == "neu"): %}
+										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FFFF03" />
 									{% else: %}
-										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FFFF03" />		
+										<img src="{{ item[4] }}" class="articleImage" />												
 									{% endif %}	
 									</a>
 								</div>
@@ -77,7 +79,7 @@
 									</br>
 									</br>
 									<div class="flag-wrapper">
-										<span class="flag">Datum objave  </span>
+										<span class="flag"> Date of publication  </span>
 										<span class="time-wrapper"><span class="time">{{ item[3] }}</span></span>
 									</div>
 									<a href="{{ item[2] }}" target="_blank" class="desc"> {{ item[2] }}
@@ -85,8 +87,10 @@
 										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #3BCB58" />
 									{% elif (item[5] == "neg"): %}
 										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FD4B4B" />
+									{% elif (item[5] == "neu"): %}
+										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FFFF03" />
 									{% else: %}
-										<img src="{{ item[4] }}" class="articleImage" style="border:5px solid #FFFF03" />		
+										<img src="{{ item[4] }}" class="articleImage" />												
 									{% endif %}
 									</a>
 								</div>

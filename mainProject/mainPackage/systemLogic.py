@@ -195,7 +195,8 @@ def runFindPersonAppearanceInArticle():
     numberOfPages = fConfig.readlines()[2]
     fConfig.close()
     numberOfLinks = sum(1 for _line in open('allLinks.txt'))
-    
+
+
     fPerson = open('allLinks.txt')
     personLinks = fPerson.readlines()  
     fPerson.close()
@@ -215,11 +216,19 @@ def runFindPersonAppearanceInArticle():
 
     matchedPersonInDB = []
     matchedPersonInDB += catalogue.compareTextWithPersonFromDB(allArtilces, listOfAllPersonsFromDB, personLinks, numberOfLinks, int(numberOfPages))
-            
+    
+    retAllPerson = []
     for person in matchedPersonInDB:
         print (person)
-           
-    return matchedPersonInDB     
+        link = person[1]
+        personID = person[3]
+        publishingDate = cleanTextParser.getDateFromURL(link)
+        imageArticle = cleanTextParser.getImageOfArticle(link)
+        #print (personID, link, publishingDate, imageArticle)
+        #retAllPerson.append(catalogue.getPersonInfoFromDB(link, publishingDate, imageArticle))
+        retAllPerson.append((0, personID, link, publishingDate, imageArticle, ""))
+    #retAllPerson = [i for i in retAllPerson if i != None]
+    return retAllPerson
            
     
     

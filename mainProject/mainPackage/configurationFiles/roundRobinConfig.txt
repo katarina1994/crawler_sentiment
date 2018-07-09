@@ -1,3 +1,0 @@
-100
-www.index.hr,https://www.index.hr/.*/clanak/\w+-\w+.*\d+.aspx$
-www.jutarnji.hr,https://www.jutarnji.hr/.+/.*\w+-\w+-.+/\d+/$

@@ -187,3 +187,24 @@ class CatalogueHelper():
         db.commit()            
         db.close()
 
+  
+        
+    def getPersonInfoFromDB(self, link, publishingDate, imageArticle):        
+        # make connection to my database
+        db = MySQLdb.connect(host="localhost",
+                     user="root",
+                     passwd="root",
+                     db="personpublicinfo",
+                     charset='utf8',
+                     use_unicode=True)
+        cur = db.cursor()
+        
+        # find index of last row in DB
+        cur.execute('SELECT * FROM personinfo WHERE link = %s AND datePub = %s AND image = %s', (link, publishingDate, imageArticle))
+        db.commit() 
+        result = cur.fetchone()
+        print ("aaaaaaaaaaaaaaa\n")
+        print (link)
+        print (result)  
+        db.close()
+        return result

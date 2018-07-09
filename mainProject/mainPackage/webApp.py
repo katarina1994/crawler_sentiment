@@ -11,11 +11,39 @@ from flask import Flask, render_template, jsonify, request, Response, json
 from flask_mysqldb import MySQL
 import mainPackage.systemLogic as sl
 from collections import OrderedDict
+from apscheduler.schedulers.background import BackgroundScheduler
+from apscheduler.triggers.interval import IntervalTrigger
+import atexit
+#import datetime
 
 allDataFromDB = []
 app = Flask(__name__)
 mysql = MySQL()
+scheduler = BackgroundScheduler()
+scheduler.start()
 
+
+def runEveryDay():
+    print ("Running app every 24 hours...")
+    sl.runCrawl()
+    sl.runAnalizeTopicSaveDB()
+    svm = sl.rungetsentimentAnalysisSVMModel()
+    result = svm.tolist()
+    conn = mysql.connection
+    cursor = conn.cursor()
+    index = 0
+    while index < len(result):
+        cursor.execute("UPDATE personinfo SET sentiment = %s WHERE id = %s", (result[index], int(index + 1)))
+        conn.commit() 
+        index += 1
+    #return jsonify(result="Katarina")
+
+#IMPORTANT TO START IMMEDIATELY (and not wait 24 hours for first run...)
+#next_run_time = datetime.datetime.now() 
+scheduler.add_job(func=runEveryDay, trigger=IntervalTrigger(hours=24), id='crawl_sent', name='Run crawler and sentiment', replace_existing=True)
+
+# Shut down the scheduler when exiting the app
+atexit.register(lambda: scheduler.shutdown())
 
 
 def runWebApplication():   
@@ -27,8 +55,6 @@ def runWebApplication():
     #print (__name__)
     if __name__ == "mainPackage.webApp":
         app.run()
-
-
 
 
 @app.route("/", methods=['GET', 'POST'])
@@ -47,20 +73,6 @@ def hello():
     for row in result_set:
         if(str(row[1] + " " + row[2]) not in allDataFromDB):
             allDataFromDB.append(row[1] + " " + row[2])
-        #print (row[0], row[1], row[2])   
-    
-    
-    # HOW TO ADD ENTRY TO MYSQL EXAMPLE
-    #cursor.execute(
-    """INSERT INTO 
-        person (
-            personName,
-            personSurname
-            )
-    VALUES (%s,%s)"""#,# ("Domagoj", "Duvnjak",))
-    
-    #conn.commit()
-
     return render_template('index.html')
 
 
@@ -68,8 +80,6 @@ def hello():
 @app.route('/_autocomplete', methods=['GET'])
 def autocomplete():
     return Response(json.dumps(allDataFromDB), mimetype='application/json')
-
-
 
 
 
@@ -141,26 +151,33 @@ def startRoundRobinCrawlerSentiment():
     print ("DONE RR Crawl")
     return jsonify(result="")
 
+
 @app.route('/startFindAll')
 def startFindAll():
     print ("Hello find all")
-    allPerson = sl.runFindPersonAppearanceInArticle()
+    labels = ["January","February","March","April","May","June","July","August","September","October","November","December"]
+    records = sl.runFindPersonAppearanceInArticle()
     recordsPerson = []
     conn = mysql.connection
     cursor = conn.cursor()
-    stmntPerson = "SELECT * from person WHERE person.id = %s"
-    
-    for person in allPerson:
-        print (person)
-        cursor.execute(stmntPerson, (person[3],))
+    stmntPerson = "SELECT * from person WHERE person.id = %s"   
+    for record in records:
+        print (record[1])
+        cursor.execute(stmntPerson, (record[1],))
         recordsPerson += cursor.fetchall()
-    recordsPerson = list(set(recordsPerson))
-    print (recordsPerson)
+    recordsPerson = list(set(recordsPerson))   
     print ("DONE find all")
-    #records = tuple(sorted(records, key=lambda item: item[3], reverse=True))
-    #return render_template("timeline.html", records=records, recordsPerson=recordsPerson)
-    return jsonify(result="")
+    print (recordsPerson)
+    records = tuple(sorted(records, key=lambda item: item[3], reverse=True))
+    values,sentiment = getApperancesByMonth(records)
+    listSentiment = list(sentiment)
+    pos = listSentiment[0::3]
+    neg = listSentiment[1::3]
+    neu = listSentiment[2::3]   
+    return render_template('timeline.html', records=records, recordsPerson=recordsPerson, values=values, labels=labels, sentiment=sentiment, pos=pos, neg=neg, neu=neu)
+    
 
+    
 @app.route('/startPosNegWords')
 def startPosNegWords():
     print ("Hello pos neg words")

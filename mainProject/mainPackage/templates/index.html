@@ -45,20 +45,6 @@
           });
         });
 	</script>
-	
-	<script type=text/javascript>
-        $(function() {
-          $('a#testFindAll').bind('click', function() {
-        	$('#loader2').show();
-            $.getJSON('/startFindAll',
-                function(data) {
-            		$('#loader2').hide();
-              //do nothing
-            });
-            return false;
-          });
-        });
-	</script>
 
 	
 	<script type=text/javascript>
@@ -169,7 +155,7 @@
 							<div id=result></div>
 							<div id="logo">
 								<form>
-									<a href=# id=testFindAll class="action-button shadow animate green">Find all from last crawl
+									<a target="_blank" href="/startFindAll" class="action-button shadow animate green">Find all from last crawl
 										<i id=loader2 class="fa fa-refresh fa-spin" style="display:none; float:right;"></i>
 									</a>
 									
